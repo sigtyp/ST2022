@@ -1,0 +1,2 @@
+# ST2022
+SIGTYP 2022 Shared Task
