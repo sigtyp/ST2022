@@ -12,6 +12,7 @@ from lingpy.align.sca import get_consensus
 from lingpy.sequence.sound_classes import prosodic_string, class2tokens
 from lingpy.align.multiple import Multiple
 from itertools import combinations
+from tabulate import tabulate
 
 
 def download(datasets, pth):
@@ -446,6 +447,59 @@ class Baseline(object):
                 self.classifiers[target].predict(new_matrix)]
 
 
+def predict_words(ifile, ofile):
+
+    bs = Baseline(ifile)
+    bs.fit()
+    predictions = defaultdict(dict)
+    for cogid, targets in bs.to_predict.items():
+        for target in targets:
+            alms, languages = [], []
+            for language in bs.languages:
+                if language in bs.data[cogid] and " ".join(bs.data[cogid][language]) != "?" and bs.data[cogid][language]:
+                    alms += [bs.data[cogid][language]]
+                    languages += [language]
+            if alms:
+                out = bs.predict(languages, alms, target)
+                predictions[cogid][target] = out
+    write_cognate_file(bs.languages, predictions, ofile)
+
+
+def compare_words(firstfile, secondfile):
+
+    (languages, soundsA, first), (languagesB, soundsB, last) = load_cognate_file(firstfile), load_cognate_file(secondfile)
+    all_scores = []
+    for language in languages:
+        scores = []
+        for key in first:
+            if language in first[key]:
+                entryA = first[key][language]
+                if entryA:
+                    entryB = last[key][language]
+                    pair = Pairwise(entryA, entryB)
+                    pair.align()
+                    score = 0
+                    for a, b in zip(pair.alignments[0][0], pair.alignments[0][1]):
+                        if a == b and a not in "Ø?-":
+                            pass
+                        elif a != b:
+                            score += 1
+                    scoreD = score / len(pair.alignments[0][0])
+                    scores += [[key, entryA, entryB, score, scoreD]]
+        all_scores += [[
+            language,
+            sum([row[-2] for row in scores])/len(scores),
+            sum([row[-1] for row in scores])/len(scores)]]
+    all_scores += [[
+        "TOTAL", 
+        sum([row[-2] for row in all_scores])/len(languages),
+        sum([row[-1] for row in all_scores])/len(languages)
+        ]]
+    print(tabulate(all_scores, headers=["Language", "ED", 
+        "ED (Normalized)"], floatfmt=".3f"))
+    
+
+
 def main(*args):
 
     parser = argparse.ArgumentParser(description='ST 2022')
@@ -484,8 +538,22 @@ def main(*args):
             action="store_true",
             )
     parser.add_argument(
-            "--testbai",
+            "--predict",
             action="store_true")
+    parser.add_argument(
+            "--infile",
+            action="store",
+            type=Path,
+            )
+    parser.add_argument(
+            "--outfile",
+            action="store",
+            default=""
+            )
+    parser.add_argument(
+            "--compare",
+            action="store_true"
+            )
 
     args = parser.parse_args(*args)
     if args.seed:
@@ -520,17 +588,27 @@ def main(*args):
     if args.split:
         split_data(DATASETS, args.datapath, props=None)
 
-    if args.testbai:
-        bs = Baseline("data/allenbai/training-0.40.tsv")
-        bs.fit()
-        for cogid, targets in bs.to_predict.items():
-            for target in targets:
-                alms, languages = [], []
-                for language in bs.languages:
-                    if language in bs.data[cogid] and " ".join(bs.data[cogid][language]) != "?" and bs.data[cogid][language]:
-                        alms += [bs.data[cogid][language]]
-                        languages += [language]
-                if alms:
-                    out = bs.predict(languages, alms, target)
-                    print(cogid, target, " ".join(out))
+
+    if args.predict:
+        if not args.outfile:
+            args.outfile = Path(str(args.infile)[:-4]+"-out.tsv")
+            predict_words(args.infile, args.outfile)
+
+    if args.compare:
+        compare_words(args.infile, args.outfile)
+
+
+    #if args.testbai:
+    #    bs = Baseline("data/allenbai/training-0.40.tsv")
+    #    bs.fit()
+    #    for cogid, targets in bs.to_predict.items():
+    #        for target in targets:
+    #            alms, languages = [], []
+    #            for language in bs.languages:
+    #                if language in bs.data[cogid] and " ".join(bs.data[cogid][language]) != "?" and bs.data[cogid][language]:
+    #                    alms += [bs.data[cogid][language]]
+    #                    languages += [language]
+    #            if alms:
+    #                out = bs.predict(languages, alms, target)
+    #                print(cogid, target, " ".join(out))
 
