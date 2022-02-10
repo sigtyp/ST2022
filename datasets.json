@@ -1,0 +1,18 @@
+{
+  "abrahammonpa": {
+      "subgroup": "subgroup", 
+      "name": "Tshanglic",
+      "path": "lexibank/abrahammonpa",
+      "version": "v3.0"
+      },
+  "allenbai": {
+      "subgroup": "subgroup", "name": "Bai",
+      "path": "lexibank/allenbai",
+      "version": "v4.0"
+      },
+  "backstromnorthernpakistan": {
+      "subgroup": "family", "name": "Sino-Tibetan",
+      "path": "lexibank/backstromnorthernpakistan",
+      "version": "v1.0"
+      }
+}
