@@ -13,6 +13,7 @@ from lingpy.sequence.sound_classes import prosodic_string, class2tokens
 from lingpy.align.multiple import Multiple
 from itertools import combinations
 from tabulate import tabulate
+import json
 
 
 def download(datasets, pth):
@@ -555,28 +556,18 @@ def main(*args):
             action="store_true"
             )
 
+    parser.add_argument(
+            "--datasets",
+            action="store",
+            default="datasets.json"
+            )
+
     args = parser.parse_args(*args)
     if args.seed:
         random.seed(1234)
     
-    DATASETS = {
-            "abrahammonpa": {
-                "subgroup": "subgroup", 
-                "name": "Tshanglic",
-                "path": "lexibank/abrahammonpa",
-                "version": "v3.0",
-                },
-            "allenbai": {
-                "subgroup": "subgroup", "name": "Bai",
-                "path": "lexibank/allenbai",
-                "version": "v4.0"
-                },
-            "backstromnorthernpakistan": {
-                "subgroup": "family", "name": "Sino-Tibetan",
-                "path": "lexibank/backstromnorthernpakistan",
-                "version": "v1.0"
-                },
-    }
+    with open(args.datasets) as f:
+        DATASETS = json.load(f)
 
 
     if args.download:
@@ -596,19 +587,4 @@ def main(*args):
 
     if args.compare:
         compare_words(args.infile, args.outfile)
-
-
-    #if args.testbai:
-    #    bs = Baseline("data/allenbai/training-0.40.tsv")
-    #    bs.fit()
-    #    for cogid, targets in bs.to_predict.items():
-    #        for target in targets:
-    #            alms, languages = [], []
-    #            for language in bs.languages:
-    #                if language in bs.data[cogid] and " ".join(bs.data[cogid][language]) != "?" and bs.data[cogid][language]:
-    #                    alms += [bs.data[cogid][language]]
-    #                    languages += [language]
-    #            if alms:
-    #                out = bs.predict(languages, alms, target)
-    #                print(cogid, target, " ".join(out))
 
