@@ -1,4 +1,5 @@
 """Utility functions and data handling for the shared task."""
+
 from lingpy import *
 from pathlib import Path
 from git import Repo
@@ -17,6 +18,9 @@ import json
 
 
 def download(datasets, pth):
+    """
+    Download all datasets as indicated with GIT.
+    """
     for dataset, conditions in datasets.items():
         if pth.joinpath(dataset, "cldf", "cldf-metadata.json").exists():
             print("skipping existing dataste {0}".format(dataset))
@@ -33,48 +37,72 @@ def prepare(datasets, datapath, cldfdatapath, runs=1000):
     Function computes cognates from a CLDF dataset and writes them to file.
     """
     for dataset, conditions in datasets.items():
+        print("[i] analyzing {0}".format(dataset))
+        columns = [
+            "parameter_id",
+            "concept_name",
+            "language_id",
+            "language_name",
+            "value",
+            "form",
+            "segments",
+            "language_glottocode",
+            "language_latitude",
+            "language_longitude",
+            "language_"+conditions["subgroup"]
+            ]
+
+        if conditions["cognates"] == "true":
+            columns += ["cogid_cognateset_id"]
         # preprocessing to get the subset of the data
         wl = Wordlist.from_cldf(
             cldfdatapath.joinpath(dataset, "cldf", "cldf-metadata.json"),
-            columns = [
-                "parameter_id",
-                "concept_name",
-                "language_id",
-                "language_name",
-                "value",
-                "form",
-                "segments",
-                "language_glottocode",
-                "language_latitude",
-                "language_longitude",
-                "language_"+conditions["subgroup"]
-                ]
+            columns=columns
             )
         D = {0: [h for h in wl.columns]}
         for idx, subgroup in wl.iter_rows("language_"+conditions["subgroup"]):
             if subgroup == conditions["name"]:
                 D[idx] = wl[idx]
-        part = Partial(D)
-        part.get_partial_scorer(runs=runs)
-        part.partial_cluster(method="lexstat", threshold=0.45, ref="cogids",
-                cluster_method="infomap")
-        # check for lingrex here as well
-        etd = part.get_etymdict(ref="cogids")
-        cognates = {}
-        for cogid, idxs_ in etd.items():
-            idxs, count = {}, 0
-            for idx, language in zip(idxs_, part.cols):
-                if idx:
-                    tks = part[idx[0], "tokens"]
-                    cogidx = part[idx[0], "cogids"].index(cogid)
-                    idxs[language] = " ".join([
-                        x.split("/")[1] if "/" in x else x for x in
-                        tks.n[cogidx]])
-                    count += 1
-                else:
-                    idxs[language] = ""
-            if count >= part.width / 2:
-                cognates[cogid] = idxs
+        if conditions["cognates"] == "false":
+            part = Partial(D)
+            part.get_partial_scorer(runs=runs)
+            part.partial_cluster(method="lexstat", threshold=0.45, ref="cogids",
+                    cluster_method="infomap")
+            # check for lingrex here as well
+            etd = part.get_etymdict(ref="cogids")
+            cognates = {}
+            for cogid, idxs_ in etd.items():
+                idxs, count = {}, 0
+                for idx, language in zip(idxs_, part.cols):
+                    if idx:
+                        tks = part[idx[0], "tokens"]
+                        cogidx = part[idx[0], "cogids"].index(cogid)
+                        idxs[language] = " ".join([
+                            x.split("/")[1] if "/" in x else x for x in
+                            tks.n[cogidx]])
+                        count += 1
+                    else:
+                        idxs[language] = ""
+                if count >= part.width / 2:
+                    cognates[cogid] = idxs
+        else:
+            part = Wordlist(D)
+            etd = part.get_etymdict(ref="cogid")
+            cognates = {}
+            for cogid, idxs_ in etd.items():
+                idxs, count = {}, 0
+                for idx, language in zip(idxs_, part.cols):
+                    if idx:
+                        tks = part[idx[0], "tokens"]
+                        idxs[language] = " ".join([x.split("/")[1] if "/" in x
+                            else x for x in tks])
+                        count += 1
+                    else:
+                        idxs[language] = ""
+                if count >= part.width / 2:
+                    cognates[cogid] = idxs
+            
+
         if datapath.joinpath(dataset).exists():
             pass
         else:
@@ -120,7 +148,40 @@ def write_cognate_file(languages, data, path):
 
 
 
-def split_training(data, ratio=0.1):
+def split_training_test_data(data, languages, ratio=0.1):
+    """
+    Split data into test and training data.
+    """
+    split_off = int(len(data) * ratio + 0.5)
+    cognates = [key for key, value in sorted(
+        data.items(),
+        key=lambda x: sum([1 if " ".join(b) not in ["", "?"] else 0 for a, b in
+            x[1].items()]),
+        reverse=True)
+        ]
+    test_, training = (
+            {c: data[c] for c in cognates[:split_off]}, 
+            {c: data[c] for c in cognates[split_off:]}
+            )
+    
+    # now, create new items for all languages to be predicted
+    test = defaultdict(dict)
+    solutions = defaultdict(dict)
+    for i, language in enumerate(languages):
+        for key, values in test_.items():
+            if " ".join(test_[key][language]):
+                new_key = key+"-"+str(i+1)
+                for j, languageB in enumerate(languages):
+                    if language != languageB:
+                        test[new_key][languageB] = test_[key][languageB]
+                    else:
+                        test[new_key][language] = ["?"]
+                        solutions[new_key][language] = test_[key][language]
+    
+    return training, test, solutions
+    
+
+def _split_training(data, ratio=0.1):
     """
     Split data into parts for training and development.
     """
@@ -150,12 +211,20 @@ def split_data(datasets, pth, props=None):
         for dataset, conditions in datasets.items():
             languages, sounds, data = load_cognate_file(
                     pth.joinpath(dataset, "cognates.tsv"))
-            data_part, solutions = split_training(data, ratio=prop)
+            #data_part, solutions = split_training(data, ratio=prop)
+            training, test, solutions = split_training_test_data(
+                    data, languages, ratio=prop)
             write_cognate_file(
                     languages, 
-                    data_part,
+                    training,
                     pth.joinpath(
                         dataset, "training-{0:.2f}.tsv".format(prop)),
+                    )
+            write_cognate_file(
+                    languages, 
+                    test,
+                    pth.joinpath(
+                        dataset, "test-{0:.2f}.tsv".format(prop)),
                     )
             write_cognate_file(
                     languages,
@@ -251,6 +320,7 @@ class CorPaRClassifier(object):
 
     def fit(self, X, y):
         """
+        Fit the data to the classifier.
         """
         # get identical patterns
         P = defaultdict(list)
@@ -323,6 +393,7 @@ class CorPaRClassifier(object):
                     out += [self.missing]
         return out
 
+
 def simple_align(
         seqs, 
         languages, 
@@ -332,6 +403,9 @@ def simple_align(
         missing="Ø", 
         gap="-",
         ):
+    """
+    Simple alignment function that inserts entries for missing data.
+    """
     if align:
         seqs = [[s for s in seq if s != gap] for seq in seqs]
         msa = Multiple([[s for s in seq if s != gap] for seq in seqs])
@@ -354,6 +428,7 @@ def simple_align(
     for row in matrix:
         assert len(row) == len(matrix[0])
     return matrix
+
 
 class Baseline(object):
 
@@ -395,6 +470,9 @@ class Baseline(object):
 
 
     def fit(self, func=simple_align):
+        """
+        Fit the data.
+        """
         self.patterns = defaultdict(lambda : defaultdict(list))
         self.func = func
         self.matrices = {language: [] for language in self.languages}
@@ -444,29 +522,34 @@ class Baseline(object):
         for i, row in enumerate(matrix):
             for j, char in enumerate(row):
                 new_matrix[i][j] = self.sound2idx.get(char, 0)
-        return [self.idx2sound.get(idx, unknown) for idx in
+        out = [self.idx2sound.get(idx, unknown) for idx in
                 self.classifiers[target].predict(new_matrix)]
+        return [x for x in out if x != "-"]
 
 
-def predict_words(ifile, ofile):
+def predict_words(ifile, pfile, ofile):
 
     bs = Baseline(ifile)
     bs.fit()
+    languages, sounds, testdata = load_cognate_file(pfile)
     predictions = defaultdict(dict)
-    for cogid, targets in bs.to_predict.items():
-        for target in targets:
-            alms, languages = [], []
-            for language in bs.languages:
-                if language in bs.data[cogid] and " ".join(bs.data[cogid][language]) != "?" and bs.data[cogid][language]:
-                    alms += [bs.data[cogid][language]]
-                    languages += [language]
-            if alms:
-                out = bs.predict(languages, alms, target)
+    for cogid, values in testdata.items():
+        alms, current_languages = [], []
+        target = ""
+        for language in languages:
+            if language in values and " ".join(values[language]) not in ["?", ""]:
+                alms += [values[language]]
+                current_languages += [language]
+            elif " ".join(values[language]) == "?":
+                target = language
+
+            if alms and target:
+                out = bs.predict(current_languages, alms, target)
                 predictions[cogid][target] = out
     write_cognate_file(bs.languages, predictions, ofile)
 
 
-def compare_words(firstfile, secondfile):
+def compare_words(firstfile, secondfile, report=True):
 
     (languages, soundsA, first), (languagesB, soundsB, last) = load_cognate_file(firstfile), load_cognate_file(secondfile)
     all_scores = []
@@ -475,31 +558,38 @@ def compare_words(firstfile, secondfile):
         for key in first:
             if language in first[key]:
                 entryA = first[key][language]
-                if entryA:
+                if " ".join(entryA):
                     entryB = last[key][language]
-                    pair = Pairwise(entryA, entryB)
-                    pair.align()
-                    score = 0
-                    for a, b in zip(pair.alignments[0][0], pair.alignments[0][1]):
-                        if a == b and a not in "Ø?-":
-                            pass
-                        elif a != b:
-                            score += 1
-                    scoreD = score / len(pair.alignments[0][0])
+                    #print(key, entryA, entryB)
+                    if len(set(entryA)) == 1 and "Ø" in entryA:
+                        score = len(entryB)
+                        scoreD = 1
+                    else:
+                        pair = Pairwise(entryA, entryB)
+                        pair.align()
+                        score = 0
+                        for a, b in zip(pair.alignments[0][0], pair.alignments[0][1]):
+                            if a == b and a not in "Ø?-":
+                                pass
+                            elif a != b:
+                                score += 1
+                        scoreD = score / len(pair.alignments[0][0])
                     scores += [[key, entryA, entryB, score, scoreD]]
-        all_scores += [[
-            language,
-            sum([row[-2] for row in scores])/len(scores),
-            sum([row[-1] for row in scores])/len(scores)]]
+        if scores:
+            all_scores += [[
+                language,
+                sum([row[-2] for row in scores])/len(scores),
+                sum([row[-1] for row in scores])/len(scores)]]
     all_scores += [[
         "TOTAL", 
         sum([row[-2] for row in all_scores])/len(languages),
         sum([row[-1] for row in all_scores])/len(languages)
         ]]
-    print(tabulate(all_scores, headers=["Language", "ED", 
-        "ED (Normalized)"], floatfmt=".3f"))
+    if report:
+        print(tabulate(all_scores, headers=["Language", "ED", 
+            "ED (Normalized)"], floatfmt=".3f"))
+    return all_scores
     
-
 
 def main(*args):
 
@@ -552,6 +642,24 @@ def main(*args):
             default=""
             )
     parser.add_argument(
+            "--testfile",
+            action="store",
+            default="",
+            help="file containing the test data"
+            )
+    parser.add_argument(
+            "--prediction-file",
+            action="store",
+            default="",
+            help="file storing the predictions"
+            )
+    parser.add_argument(
+            "--solution-file",
+            action="store",
+            default="",
+            help="file storing the solutions for a test"
+            )
+    parser.add_argument(
             "--compare",
             action="store_true"
             )
@@ -560,6 +668,16 @@ def main(*args):
             "--datasets",
             action="store",
             default="datasets.json"
+            )
+
+    parser.add_argument(
+            "--all",
+            action="store_true",
+            )
+
+    parser.add_argument(
+            "--evaluate",
+            action="store_true",
             )
 
     args = parser.parse_args(*args)
@@ -571,7 +689,7 @@ def main(*args):
 
 
     if args.download:
-        downloargs.cldf_data, d(DATASETS, args.cldf_data)
+        download(DATASETS, args.cldf_data)
     
     if args.prepare:
         prepare(DATASETS, args.datapath, args.cldf_data, args.runs)
@@ -581,10 +699,31 @@ def main(*args):
 
 
     if args.predict:
-        if not args.outfile:
-            args.outfile = Path(str(args.infile)[:-4]+"-out.tsv")
-            predict_words(args.infile, args.outfile)
+        if not args.all:
+            if not args.outfile:
+                args.outfile = Path(str(args.infile)[:-4]+"-out.tsv")
+            predict_words(args.infile, args.testfile, args.outfile)
+        elif args.all:
+            for data, conditions in DATASETS.items():
+                predict_words(
+                        args.datapath.joinpath(data, "training-0.20.tsv"),
+                        args.datapath.joinpath(data, "test-0.20.tsv"),
+                        args.datapath.joinpath(data, "result-0.20.tsv")
+                        )
+    if args.evaluate:
+        if args.all:
+            results = []
+            for data, conditions in DATASETS.items():
+                print(data)
+                results += [compare_words(
+                        args.datapath.joinpath(data, "result-0.20.tsv"),
+                        args.datapath.joinpath(data,
+                            "solutions-0.20.tsv"),
+                        report=False)[-1]]
+                results[-1][0] = data
+            print(tabulate(results))
+
 
     if args.compare:
-        compare_words(args.infile, args.outfile)
+        compare_words(args.prediction_file, args.solution_file)
 

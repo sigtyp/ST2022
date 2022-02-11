@@ -1,18 +1,73 @@
 {
+  "felekesemitic": {
+    "subgroup": "family",
+    "name": "Afro-Asiatic",
+    "path": "lexibank/felekesemitic",
+    "version": "v1.0",
+    "cognates": "true"
+  },
+  "mannburmish": {
+    "subgroup": "family",
+    "name": "Sino-Tibetan",
+    "path": "lexibank/mannburmish",
+    "version": "v1.0",
+    "cognates": "false"
+  },
+  "hattorijaponic": {
+    "subgroup": "family",
+    "name": "Japonic",
+    "path": "sequencecomparison/hattorijaponic",
+    "version": "v1.0",
+    "cognates": "true"
+  },
+  "listsamplesize": {
+    "subgroup": "family",
+    "name": "Indo-European",
+    "path": "sequencecomparison/listsamplesize",
+    "version": "v1.0",
+    "cognates": "true"
+  },
   "abrahammonpa": {
       "subgroup": "subgroup", 
       "name": "Tshanglic",
       "path": "lexibank/abrahammonpa",
-      "version": "v3.0"
+      "version": "v3.0",
+      "cognates": "false"
       },
   "allenbai": {
-      "subgroup": "subgroup", "name": "Bai",
+      "subgroup": "subgroup", 
+      "name": "Bai",
       "path": "lexibank/allenbai",
-      "version": "v4.0"
+      "version": "v4.0",
+      "cognates": "false"
       },
   "backstromnorthernpakistan": {
-      "subgroup": "family", "name": "Sino-Tibetan",
+      "subgroup": "family", 
+      "name": "Sino-Tibetan",
       "path": "lexibank/backstromnorthernpakistan",
-      "version": "v1.0"
-      }
+      "version": "v1.0",
+      "cognates": "false"
+      },
+  "castrosui": {
+    "subgroup": "subgroup",
+    "name": "Sui",
+    "path": "lexibank/castrosui",
+    "version": "v3.0.1",
+    "cognates": "false"
+  },
+  "constenlachibchan": {
+    "subgroup": "family",
+    "name": "Chibcha",
+    "path": "lexibank/constenlachibchan",
+    "version": "v1.0",
+    "cognates": "true"
+  },
+  "davletshinaztecan": {
+    "subgroup": "family",
+    "name": "Uto-Aztecan",
+    "path": "lexibank/davletshinaztecan",
+    "version": "v1.0",
+    "cognates": "true"
+  }
+
 }
