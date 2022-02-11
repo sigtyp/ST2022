@@ -56,19 +56,19 @@ Our data is taken from the Lexibank repository which offers wordlists from 100 s
 
 This means that we will have quite a few datasets that we can offer for development and testing. The data is originally coded in CLDF formats ([Forkel et al. 2018](https://doi.org/10.1038/sdata.2018.205)). In order to ease the access to the data in simple tabular form (which we consider most suitable for the training of supervised reflex prediction workflows), we provide small wrappers that allow to access individual datasets from within Python scripts.
 
-The following code has still not been fully implemented, but gives you an impression of what you will have to do once we open the shared task by providing access to the development data.
+The following code shows, for example, how one can load a file with training data.
 
 ```python
-from sigtypst2022 import load_data, get_training_sample
-languages, data = load_data("allenbai")
-training_sample, words_to_predict, solutions = get_training_sample(languages, data)
+from sigtypst2022 import load_cognate_file
+languages, sounds, data = load_cognate_file("data/allenbai/training-0.20.tsv")
 ```
-In this example, `languages` is a list of language names. The data is a dictionary of dictionaries with cognate set identifiers as key, and as value a dictionary with language names as key and segmented words as value.  
-The `training_sample` is also a nested list, but with some entries excluded. The `words_to_predict` is a dictionary of dictionaries, in which cognate set identifiers are again the key and the value is a set of language names which shoud be predicted for the given cognate set. The solutions contain the words which have been excluded. 
+In this example, `languages` is a list of language names. The variable `sounds` is a dictionary with unique sounds as keys, pointing to a dictionary with language names as values which themselves link to a list of cognate set identifiers and positions in the word. The variable `data` is a dictionary of dictionaries with cognate set identifiers as key, and as value a dictionary with language names as key and segmented words as value.  
 
-When testing the methods on the unseen datasets, we provide the input data in the form of a CSV file in which those words which should be predicted are marked by an `?`, while missing entries (resulting from real gaps in the cognate sets) are simply left blank. 
+All wordlist data are represented in this way, also the test data, and the solutions for the test data.  
 
-We plan to provide different proportions of missing data, ranging from 5% up to 50%. This will allow users to check how robust their systems are with respect to differing degrees of missing data.  
+When testing the methods on the unseen datasets (the surprise data), we provide the input data in the form of a CSV file in which those words which should be predicted are marked by an `?`, while missing entries (resulting from real gaps in the cognate sets) are simply left blank. 
+
+We plan to provide different proportions of missing data, ranging from 10% up to 50% i steps of 10%. This will allow users to check how robust their systems are with respect to differing degrees of missing data.  
 
 # 4 Evaluation
 
@@ -76,13 +76,13 @@ The expected prediction result for a given reflex is a list of phonetic transcri
 
 An additional evaluation measure based on alignments was proposed by [List (2019b)](https://doi.org/10.1515/tl-2019-0016). This measure takes into account that an algorithm might in theory commit systematic errors, which might be overly penalized by the edit distance. This method, which computes the B-Cubed F-Scores between the aligned predictions and attested forms, has been ignored in most approaches to supervised reflex prediction, but we consider it nevertheless useful to include it into the evaluation scores to be reported, since it comes theoretically much closer to the idea of regular sound correspondences in classical historical linguistics. 
 
-Our dedicated Python package for the shared task will allow to compute all evaluation measures mentioned above (edit distance in raw and normalized form, B-Cubed F-Scores) from TSV files which can be passed to the command line as input. For the purpose of development, scholars can also use these metrics directly from within their Python scripts.
+Our dedicated Python package for the shared task allows to compute all evaluation measures mentioned above (edit distance in raw and normalized form, B-Cubed F-Scores) from TSV files which can be passed to the command line as input. For the purpose of development, scholars can also use these metrics directly from within their Python scripts.
 
 As a baseline, we will provide the method by [List (2019)](http://doi.org/10.1162/coli_a_00344), for which we will make a new release of the [LingRex](https://github.com/lingpy/lingrex) Python package, where the method will be included.
 
-# 5 Data for Development and Data for the Final Evaluation
+# 5 Data for Development and Data for the Final Evaluation (Surprise Data)
 
-Our development data, which users should use to test and design their models, consists of 10 CLDF datasets of varying size, language families, and time depths. Data for the development phase may contain datasets which have been used in previous studies. For the actual testing of different systems, we will use 10 CLDF datasets which have so far not been analyzed in previous studies. To make sure that there are no major flaws in these datasets, all of them will be thoroughly checked and analyzed with our baseline methods.
+Our development data, which users should use to test and design their models, consists of 10 CLDF datasets of varying size, language families, and time depths. Some datasets may be extremely small, giving algorithms a hard time to predict words correctly, others are rather large, but languages may be distantly related. Data for the development phase may contain datasets which have been used in previous studies. For the actual testing of different systems, we will use 10 CLDF datasets which have so far not been analyzed in previous studies. To make sure that there are no major flaws in these datasets, all of them will be thoroughly checked and analyzed with our baseline methods.
 
 # 6 Participation
 

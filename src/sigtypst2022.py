@@ -1,6 +1,7 @@
 """Utility functions and data handling for the shared task."""
 
 from lingpy import *
+from lingpy.evaluate.acd import _get_bcubed_score as bcubed_score
 from pathlib import Path
 from git import Repo
 from lingpy.compare.partial import Partial
@@ -83,7 +84,7 @@ def prepare(datasets, datapath, cldfdatapath, runs=1000):
                         count += 1
                     else:
                         idxs[language] = ""
-                if count >= part.width / 2:
+                if count >= 2:
                     cognates[cogid] = idxs
         else:
             part = Wordlist(D)
@@ -99,7 +100,7 @@ def prepare(datasets, datapath, cldfdatapath, runs=1000):
                         count += 1
                     else:
                         idxs[language] = ""
-                if count >= part.width / 2:
+                if count >= 2:
                     cognates[cogid] = idxs
             
 
@@ -550,44 +551,48 @@ def predict_words(ifile, pfile, ofile):
 
 
 def compare_words(firstfile, secondfile, report=True):
+    """
+    Evaluate the predicted and attested words in two datasets.
+    """
 
     (languages, soundsA, first), (languagesB, soundsB, last) = load_cognate_file(firstfile), load_cognate_file(secondfile)
     all_scores = []
     for language in languages:
         scores = []
+        almsA, almsB = [], []
         for key in first:
             if language in first[key]:
                 entryA = first[key][language]
                 if " ".join(entryA):
                     entryB = last[key][language]
-                    #print(key, entryA, entryB)
-                    if len(set(entryA)) == 1 and "Ø" in entryA:
-                        score = len(entryB)
-                        scoreD = 1
-                    else:
-                        pair = Pairwise(entryA, entryB)
-                        pair.align()
-                        score = 0
-                        for a, b in zip(pair.alignments[0][0], pair.alignments[0][1]):
-                            if a == b and a not in "Ø?-":
-                                pass
-                            elif a != b:
-                                score += 1
-                        scoreD = score / len(pair.alignments[0][0])
+                    almA, almB, _ = nw_align(entryA, entryB)
+                    almsA += almA
+                    almsB += almB
+                    score = 0
+                    for a, b in zip(almA, almB):
+                        if a == b and a not in "Ø?-":
+                            pass
+                        elif a != b:
+                            score += 1
+                    scoreD = score / len(almA)
                     scores += [[key, entryA, entryB, score, scoreD]]
         if scores:
+            p, r = bcubed_score(almsA, almsB), bcubed_score(almsB, almsA)
+            fs = 2 * (p*r) / (p+r)
             all_scores += [[
                 language,
                 sum([row[-2] for row in scores])/len(scores),
-                sum([row[-1] for row in scores])/len(scores)]]
+                sum([row[-1] for row in scores])/len(scores),
+                fs]]
     all_scores += [[
         "TOTAL", 
+        sum([row[-3] for row in all_scores])/len(languages),
         sum([row[-2] for row in all_scores])/len(languages),
         sum([row[-1] for row in all_scores])/len(languages)
         ]]
     if report:
         print(tabulate(all_scores, headers=["Language", "ED", 
-            "ED (Normalized)"], floatfmt=".3f"))
+            "ED (Normalized)", "B-Cubed FS"], floatfmt=".3f"))
     return all_scores
     
 
@@ -706,22 +711,22 @@ def main(*args):
         elif args.all:
             for data, conditions in DATASETS.items():
                 predict_words(
-                        args.datapath.joinpath(data, "training-0.20.tsv"),
-                        args.datapath.joinpath(data, "test-0.20.tsv"),
-                        args.datapath.joinpath(data, "result-0.20.tsv")
+                        args.datapath.joinpath(data, "training-0.10.tsv"),
+                        args.datapath.joinpath(data, "test-0.10.tsv"),
+                        args.datapath.joinpath(data, "result-0.10.tsv")
                         )
     if args.evaluate:
         if args.all:
             results = []
             for data, conditions in DATASETS.items():
-                print(data)
                 results += [compare_words(
                         args.datapath.joinpath(data, "result-0.20.tsv"),
                         args.datapath.joinpath(data,
                             "solutions-0.20.tsv"),
                         report=False)[-1]]
                 results[-1][0] = data
-            print(tabulate(results))
+            print(tabulate(results, headers=[
+                "DATASET", "ED", "ED (NORM)", "B-CUBED FS"]))
 
 
     if args.compare:
