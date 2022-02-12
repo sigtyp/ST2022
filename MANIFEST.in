@@ -1,0 +1,4 @@
+include README.md LICENSE
+graft src tests
+global-exclude *.py[co]
+include tests/data.json
