@@ -24,13 +24,13 @@ def download(datasets, pth):
     """
     for dataset, conditions in datasets.items():
         if pth.joinpath(dataset, "cldf", "cldf-metadata.json").exists():
-            print("skipping existing dataste {0}".format(dataset))
+            print("[i] skipping existing dataste {0}".format(dataset))
         else:
             repo = Repo.clone_from(
                     "https://github.com/"+conditions["path"]+".git",
                     pth / dataset)
             repo.git.checkout(conditions["version"])
-            print("downloaded {0}".format(dataset))
+            print("[i] downloaded {0}".format(dataset))
 
 
 def prepare(datasets, datapath, cldfdatapath, runs=1000):
@@ -233,7 +233,7 @@ def split_data(datasets, pth, props=None):
                     pth.joinpath(
                         dataset, "solutions-{0:.2f}.tsv".format(prop)),
                     )
-            print("wrote training and solution data for {0} / {1:.2f}".format(
+            print("[i] wrote training and solution data for {0} / {1:.2f}".format(
                 dataset, prop))
 
 
@@ -506,7 +506,7 @@ class Baseline(object):
                     for cogid, idx in vals:
                         self.matrices[language] += [row]
                         self.solutions[language] += [target]
-            print("fitting classified for {0}".format(language))
+            print("[i] fitting classifier for {0}".format(language))
             self.classifiers[language].fit(
                     self.matrices[language],
                     self.solutions[language])
@@ -601,88 +601,111 @@ def main(*args):
     parser = argparse.ArgumentParser(description='ST 2022')
     parser.add_argument(
             "--download", 
-            action="store_true"
+            action="store_true",
+            help="Download data via GIT."
             )
     parser.add_argument(
             "--datapath",
             default=Path("data"),
             type=Path,
-            action="store"
+            action="store",
+            help="Folder containing the data for training."
             )
     parser.add_argument(
             "--cldf-data",
             default=Path("cldf-data"),
             type=Path,
-            action="store"
+            action="store",
+            help="Folder containing cldf-data."
             )
     parser.add_argument(
             "--prepare",
-            action="store_true"
+            action="store_true",
+            help="Prepare data by conducting cognate judgments."
             )
     parser.add_argument(
             "--split",
-            action="store_true"
+            action="store_true",
+            help="Split data into test and training data."
             )
     parser.add_argument(
             "--runs",
             action="store",
             type=int,
-            default=1000
+            default=10000,
+            help="Iterations for cognate detection analysis (default=10000)."
             )
     parser.add_argument(
             "--seed",
             action="store_true",
+            help="Our standard random seed. If set, will set the seed to 1234."
             )
     parser.add_argument(
             "--predict",
-            action="store_true")
+            action="store_true",
+            help="Predict words with the baseline."
+            )
     parser.add_argument(
             "--infile",
             action="store",
             type=Path,
+            help="File which will be analyzed."
             )
     parser.add_argument(
             "--outfile",
             action="store",
-            default=""
+            default="",
+            help="File to which results of baseline will be written."
             )
     parser.add_argument(
             "--testfile",
             action="store",
             default="",
-            help="file containing the test data"
+            help="File containing the test data."
             )
     parser.add_argument(
             "--prediction-file",
             action="store",
             default="",
-            help="file storing the predictions"
+            help="File storing the predictions."
             )
     parser.add_argument(
             "--solution-file",
             action="store",
             default="",
-            help="file storing the solutions for a test"
+            help="File storing the solutions for a test."
             )
     parser.add_argument(
             "--compare",
+            help="Compare two individual datasets.",
             action="store_true"
             )
 
     parser.add_argument(
             "--datasets",
             action="store",
-            default="datasets.json"
+            default="datasets.json",
+            help="Path to the JSON file with the datasets (default=datasets.json)."
             )
 
     parser.add_argument(
             "--all",
             action="store_true",
+            help="Flag indicates if all datasets should be analyzed."
             )
 
     parser.add_argument(
             "--evaluate",
             action="store_true",
+            help="Evaluate results by comparing two files."
+            )
+
+    parser.add_argument(
+            "--proportion",
+            action="store",
+            type=float,
+            default=0.2,
+            help="Define the proportion of test data to analyze with the baseline."
             )
 
     args = parser.parse_args(*args)
@@ -704,29 +727,32 @@ def main(*args):
 
 
     if args.predict:
+        prop = "{0:.2f}".format(args.proportion)
         if not args.all:
             if not args.outfile:
                 args.outfile = Path(str(args.infile)[:-4]+"-out.tsv")
             predict_words(args.infile, args.testfile, args.outfile)
         elif args.all:
             for data, conditions in DATASETS.items():
+                print("[i] analyzing {0}".format(data))
                 predict_words(
-                        args.datapath.joinpath(data, "training-0.10.tsv"),
-                        args.datapath.joinpath(data, "test-0.10.tsv"),
-                        args.datapath.joinpath(data, "result-0.10.tsv")
+                        args.datapath.joinpath(data, "training-"+prop+".tsv"),
+                        args.datapath.joinpath(data, "test-"+prop+".tsv"),
+                        args.datapath.joinpath(data, "result-"+prop+".tsv")
                         )
     if args.evaluate:
+        prop = "{0:.2f}".format(args.proportion)
         if args.all:
             results = []
             for data, conditions in DATASETS.items():
                 results += [compare_words(
-                        args.datapath.joinpath(data, "result-0.20.tsv"),
+                        args.datapath.joinpath(data, "result-"+prop+".tsv"),
                         args.datapath.joinpath(data,
-                            "solutions-0.20.tsv"),
+                            "solutions-"+prop+".tsv"),
                         report=False)[-1]]
                 results[-1][0] = data
             print(tabulate(results, headers=[
-                "DATASET", "ED", "ED (NORM)", "B-CUBED FS"]))
+                "DATASET", "ED", "ED (NORM)", "B-CUBED FS"], floatfmt=".3f"))
 
 
     if args.compare:
