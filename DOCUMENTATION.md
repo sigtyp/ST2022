@@ -51,6 +51,8 @@ $ st2022 --predict --proportion=0.2 --all --datapath=data
 
 This will apply the baseline procedure to the data, and predict words for all test data files that indicate that they contain a proportion of 0.2 of the whole datasets (that is: 20%). The results are written to files `data/DATASETID/results-0.20.tsv`. 
 
+Baseline results have already been computed with this release and are available from the repository, so they do not need to be repeated, but they can be repeated for curiosity.
+
 # 4 Evaluating Results
 
 We offer a rather straightforward routine to check your results against the solutions. 
@@ -118,8 +120,99 @@ You can also evoke the evaluation by using the `sigtypst2022` package directly.
  ['TOTAL', 0.847651775486827, 0.27271859488354333, 0.7326478398346787]]
 ```
 
-
-
 # 5 Loading Data
 
-Datasets are stored in the folder `data`. 
+As mentioned before, datasets are stored in the folder `data` in varying proportions. The format is very straightforward, as you can see from the following table for a part of the data in `data/listsamplesize/training-0.10.tsv`. 
+
+COGID | dutch | english | french | german
+--- | --- | --- | --- | ---
+423 | s t eː n | s t əʊ n |  | ʃ t ai n
+2049 | m aː n | m uː n |  | m oː n t
+2062 | s t ɔ r m | s t ɔː m |  | ʃ t ʊ r m
+2065 | r eː ɣ ə m + b oː x | r eɪ n + b əʊ |  | r eː ɡ ə n + b oː ɡ ə n
+1368 | s x aː d yː w | ʃ æ d əʊ |  | ʃ a t ə n
+1365 | d ɑu w | d j uː |  | t au
+754 | r eː ɣ ə | r eɪ n |  | r eː ɡ ə n
+768 | w eː r | w ɛ ð ə r |  | v ɛ t ə r
+1211 | v yː r | f aɪ ə r |  | f ɔy ə r
+
+You can see that the first column stores cognate sets, while the remaining columns provide languages. Word forms are provided in segmented form, by separating individual sounds by spaces. Transcriptions follow the B(road)IPA of the CLTS project (https://clts.clld.org). 
+
+The followig table shows the structure of the test data (`data/listsamplesize/test-0.10.tsv`).
+
+COGID | dutch | english | french | german
+--- | --- | --- | --- | ---
+1469-1 | ? | s æ n d | s ɑ b l | z a n t
+2047-1 | ? | s ʌ n | s ɔ l ɛ j | z ɔ n ə
+2054-1 | ? | θ ʌ n d ə r | t ɔ n ɛ ʀ | d ɔ n ə r
+1375-1 | ? | l aɪ t | l y m j ɛ ʀ | l ɪ x t
+760-1 | ? | w ɪ n d | v ɑ̃ | v ɪ n t
+756-1 | ? | s n əʊ | n ɛ ʒ | ʃ n eː
+726-1 | ? | m ʌ ð ə r | m ɛ ʀ | m ʊ t ə r
+1351-1 | ? | ɡ r æ n d + f ɑː ð ə r | ɡ ʀ ɑ̃ + p ɛ ʀ | ɡ r oː s + f aː t ə r
+1353-1 | ? | ɡ r æ n + m ʌ ð ə r | ɡ ʀ ɑ̃ + m ɛ ʀ | ɡ r oː s + m ʊ t ə r
+
+Here, the question mark indicates that the word should be predicted. The cognate set identifier is now augmented by a numerical identifier for the language which should be predicted (1 indicates `dutch` in this case).
+
+The file with the solutions has the same structure, but only lists the solutions.
+
+COGID | dutch | english | french | german
+--- | --- | --- | --- | ---
+1469-1 | z ɑ n t |  |  | 
+2047-1 | z ɔ n |  |  | 
+2054-1 | d ɔ n d ə r |  |  | 
+1375-1 | l ɪ x t |  |  | 
+760-1 | w ɪ n t |  |  | 
+756-1 | s n eː w |  |  | 
+726-1 | m uː d ə r |  |  | 
+1351-1 | x r oː t + f aː d ə r |  |  | 
+1353-1 | x r oː t + m uː d ə r  | | |
+
+To load these files, we recommend to use the `sigtypst2022` library.
+
+```python
+>>> from sigtypst2022 import load_cognate_file, write_cognate_file
+>>> languages, sounds, data = load_cognate_file("data/allenbai/training-0.10.tsv")
+>>> print(languages[0])
+Eryuan
+>>> print(len(sounds["t"]["Eryuan"]))
+41
+>>> print(sounds["t"]["Eryuan"][0])
+['1083', 0]
+>>> print(data[sounds["t"]["Eryuan"][0][0]])
+{'Eryuan': ['t', 'ɔ', '⁴²'], 'Heqing': ['t', 'ɔu', '⁴²'], 'Jianchuan': ['t', 'õ', '⁴²'], 'Lanping': ['t', 'u', '⁴²'], 'Luobenzhuo': ['t', 'ao', '⁴²'], 'Qiliqiao': ['t', 'w', 'ɔ', '³²'], 'Xiangyun': ['t', 'w', 'ɔ', '⁴²'], 'Yunlong': ['t', 'o', '⁴²'], 'Zhoucheng': ['t', 'u', '⁴²']}
+```
+
+You can see from this example, that the `languages` are a list of all languages. Sounds are a dictionary with language names as keys, sounds as values, which link themselves to tuples consisting of cognate sets in which they occur along with the index in the word form.
+
+The data displays the content of each row as a dictionary:
+
+```python
+>>> data["1083"]
+{'Eryuan': ['t', 'ɔ', '⁴²'],
+ 'Heqing': ['t', 'ɔu', '⁴²'],
+ 'Jianchuan': ['t', 'õ', '⁴²'],
+ 'Lanping': ['t', 'u', '⁴²'],
+ 'Luobenzhuo': ['t', 'ao', '⁴²'],
+ 'Qiliqiao': ['t', 'w', 'ɔ', '³²'],
+ 'Xiangyun': ['t', 'w', 'ɔ', '⁴²'],
+ 'Yunlong': ['t', 'o', '⁴²'],
+ 'Zhoucheng': ['t', 'u', '⁴²']}
+ ```
+
+In order to write a dataset in this structure to file, you just pass the language list with the data and a path indicating where the file should be written to the function `write_cognate_file`:
+
+```python
+>>> write_cognate_file(languages, {"1083": data["1083"]}, "test.tsv")
+```
+
+The file will now only contain one row with data:
+
+```
+$ cat test.tsv
+COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhoucheng
+1083	t ɔ ⁴²	t ɔu ⁴²	t õ ⁴²	t u ⁴²	t ao ⁴²	t w ɔ ³²	t w ɔ ⁴²	t o ⁴²	t u ⁴²
+```
+
+
+
