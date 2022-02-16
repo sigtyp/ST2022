@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
-
+import codecs
 
 setup(
     name='sigtypst2022',
     version='0.1.dev0',
     license='MIT',
     description='Python Package for the Shared Task on Word Prediction',
-    long_description=open('README.md').read(),
+    long_description=codecs.open('README.md', "r", "utf-8").read(),
     long_description_content_type='text/markdown',
     classifiers=[
         "Programming Language :: Python",
