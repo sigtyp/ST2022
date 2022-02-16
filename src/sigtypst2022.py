@@ -182,29 +182,6 @@ def split_training_test_data(data, languages, ratio=0.1):
     return training, test, solutions
     
 
-def _split_training(data, ratio=0.1):
-    """
-    Split data into parts for training and development.
-    """
-    # determine the number of words per language
-    counts = defaultdict(list)
-    for key, value in data.items():
-        for k, v in value.items():
-            if v:
-                counts[k] += [key]
-    solutions = defaultdict(dict)
-    new_data = defaultdict(dict)
-    for language, keys in counts.items():
-        cut = int(ratio * len(keys)+0.5)
-        sampled = random.sample(keys, cut)
-        for key in [k for k in keys if k not in sampled]:
-            new_data[key][language] = data[key][language]
-        for key in sampled:
-            solutions[key][language] = data[key][language]
-            new_data[key][language] = ["?"]
-    return new_data, solutions
-        
-
 def split_data(datasets, pth, props=None):
     props = props or [0.1, 0.2, 0.3, 0.4, 0.5]
 
