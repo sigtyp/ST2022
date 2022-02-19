@@ -17,7 +17,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-1	?	kʰ a u	kʰ a u	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ o u	kʰ a m u
 426-1	?	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-1	?	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-1	?	w a	w a	w a d a m o	w a	w a	w a	w a
 499-1	?	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-1	?	g a ʃ a	g a ʃ j a	g a ɕ a	g a ʃ a	g a ʃ a	g a ʃ a	k a ʃ a
 544-1	?	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u
@@ -77,6 +76,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-1	?	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a
 1477-1	?	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s
 1502-1	?	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u
+1511-1	?	m u d̪ j a ŋ b a	m ŭ dʒ a m b a	m u d i ɾ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a
 1529-1	?	tʃʰ a l u	tʃʰ a l u	tʃʰ a l o	tʃ a l u	tʃʰ a l u	tʃ a l u	tʃʰ a l u
 1538-1	?	s o l u	s u l u	s o l u	s o l u	s u l u	s u l u	s u l u
 1557-1	?	tʃ o i d u ŋ	tʃ o d u m	tʃʰ a i d̪ u m	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m
@@ -86,6 +86,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-1	?	kʰ u ŋ	kʰ u ŋ	kʰ u m	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ
 1707-1	?	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a m	m o ŋ n a ŋ
 1716-1	?	ŋ a m	ŋ a m tʰ u ŋ	ŋ a m t̪ u ŋ	ŋ a m	ŋ a m	ŋ a m	ŋ a m
+1742-1	?	m u g i	m u i	m u g u	m u g i	m u g i	m u g i	m u h u
 1751-1	?	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	b u tʃ i l a	b u ʃ i l a	b u tʃ i l a	p u tʃʰ l a
 1778-1	?	z a	z a	z a	z a	z a	z a	s a
 1787-1	?	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u
@@ -106,6 +107,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-1	?	ŋ a r ʃ u	ŋ a r b o	ŋ a r tʃʰ a m	ŋ a r e n	ŋ a r ʃ u	ŋ a r kʰ e n	ŋ a r b a n
 2507-1	?	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	t e n o ŋ	tʰ ĭ n u ŋ	t̪ i n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ
 2526-1	?	l e h̥	l e	l e	l e	l e	l e	l e
+2535-1	?	ʃ a h	ɕ j a	ɕ a	ʃ a	ɕ a	ʃ a	ʃ a
 2544-1	?	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ
 2560-1	?	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ
 2569-1	?	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i d u r
@@ -118,8 +120,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2728-1	?	k o tʃ u ŋ	k o tʃ u ŋ	k u tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ
 2747-1	?	ɲ i ŋ	n i ŋ tʰ u ɾ	ɲ i ŋ	ɲ i ŋ	ɲ e ŋ t̪ʰ u r	ɲ i ŋ	n i ŋ tʰ u ɾ
 2756-1	?	s e r b u	s e r b u	s e r b u	s e r u	s e r b u	s e r u	s e r b u
-2774-1	?	b o ɲ i ŋ	b o ɲ i	b o ɲ i ŋ	b o ɲ i ŋ	b o ɲ i ŋ	b u ɲ i ŋ	b o n i ŋ
-19-1	?	n a ʃ i b a k		n a i b a	n a ʃ i	n a ʃ i	n a ʃ t i b a	n a ʃ i b a k
 10-2	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ
 37-2	n a n	?	n a n	n a n	n a n	n a n	n a n	n a n
 46-2	n a n	?	n a n	n a n	n a n	n a n	n a n	n a n
@@ -138,7 +138,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-2	kʰ a m u ŋ	?	kʰ a u	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ o u	kʰ a m u
 426-2	m ŭ k p a	?	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-2	pʰ i n a ŋ	?	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-2	w a	?	w a	w a d a m o	w a	w a	w a	w a
 499-2	z a m ĭ n	?	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-2	g a ʃ a	?	g a ʃ j a	g a ɕ a	g a ʃ a	g a ʃ a	g a ʃ a	k a ʃ a
 544-2	kʰ u	?	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u
@@ -198,6 +197,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-2	pʰ a k p a	?	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a
 1477-2	ŋ a s	?	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s
 1502-2	ŋ a m s u	?	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u
+1511-2	m u d̪ j a ŋ b a	?	m ŭ dʒ a m b a	m u d i ɾ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a
 1529-2	tʃ a l u	?	tʃʰ a l u	tʃʰ a l o	tʃ a l u	tʃʰ a l u	tʃ a l u	tʃʰ a l u
 1538-2	s u l u	?	s u l u	s o l u	s o l u	s u l u	s u l u	s u l u
 1557-2	tʃ o i d u ŋ	?	tʃ o d u m	tʃʰ a i d̪ u m	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m
@@ -207,6 +207,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-2	kʰ u ŋ	?	kʰ u ŋ	kʰ u m	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ
 1707-2	m o ŋ n a ŋ	?	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a m	m o ŋ n a ŋ
 1716-2	ŋ a m	?	ŋ a m tʰ u ŋ	ŋ a m t̪ u ŋ	ŋ a m	ŋ a m	ŋ a m	ŋ a m
+1742-2	m u g u	?	m u i	m u g u	m u g i	m u g i	m u g i	m u h u
 1751-2	b u ʃ i l a	?	b u ʃ i l a	b u ʃ i l a	b u tʃ i l a	b u ʃ i l a	b u tʃ i l a	p u tʃʰ l a
 1778-2	z a	?	z a	z a	z a	z a	z a	s a
 1787-2	tʃʰ u r p u	?	tʃʰ u r p u	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u
@@ -227,6 +228,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-2	ŋ a r l a	?	ŋ a r b o	ŋ a r tʃʰ a m	ŋ a r e n	ŋ a r ʃ u	ŋ a r kʰ e n	ŋ a r b a n
 2507-2	tʰ ĭ n u ŋ	?	tʰ ĭ n u ŋ	t e n o ŋ	tʰ ĭ n u ŋ	t̪ i n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ
 2526-2	l e	?	l e	l e	l e	l e	l e	l e
+2535-2	ʃ a	?	ɕ j a	ɕ a	ʃ a	ɕ a	ʃ a	ʃ a
 2544-2	ʃ i ŋ	?	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ
 2560-2	s o ŋ n i tʃ i ŋ	?	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ
 2569-2	kʰ a i tʰ u r	?	kʰ e tʰ u ɾ	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i d u r
@@ -239,8 +241,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2728-2	k o tʃ y ŋ	?	k o tʃ u ŋ	k u tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ
 2747-2	ɲ i ŋ	?	n i ŋ tʰ u ɾ	ɲ i ŋ	ɲ i ŋ	ɲ e ŋ t̪ʰ u r	ɲ i ŋ	n i ŋ tʰ u ɾ
 2756-2	tʃ e r b u	?	s e r b u	s e r b u	s e r u	s e r b u	s e r u	s e r b u
-2774-2	b u ɲ i ŋ	?	b o ɲ i	b o ɲ i ŋ	b o ɲ i ŋ	b o ɲ i ŋ	b u ɲ i ŋ	b o n i ŋ
-19-2	n a i b a	?		n a i b a	n a ʃ i	n a ʃ i	n a ʃ t i b a	n a ʃ i b a k
 10-3	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ
 37-3	n a n	n a n	?	n a n	n a n	n a n	n a n	n a n
 46-3	n a n	n a n	?	n a n	n a n	n a n	n a n	n a n
@@ -259,7 +259,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-3	kʰ a m u ŋ	kʰ a u	?	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ o u	kʰ a m u
 426-3	m ŭ k p a	m ŭ k p a	?	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-3	pʰ i n a ŋ	pʰ i n t a ŋ	?	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-3	w a	w a	?	w a d a m o	w a	w a	w a	w a
 499-3	z a m ĭ n	z a m ĭ n	?	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-3	g a ʃ a	g a ʃ a	?	g a ɕ a	g a ʃ a	g a ʃ a	g a ʃ a	k a ʃ a
 544-3	kʰ u	kʰ u	?	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u
@@ -319,6 +318,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-3	pʰ a k p a	pʰ a k p a	?	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a
 1477-3	ŋ a s	ŋ a s	?	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s
 1502-3	ŋ a m s u	ŋ a m s u	?	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u
+1511-3	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a	?	m u d i ɾ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a
 1529-3	tʃ a l u	tʃʰ a l u	?	tʃʰ a l o	tʃ a l u	tʃʰ a l u	tʃ a l u	tʃʰ a l u
 1538-3	s u l u	s o l u	?	s o l u	s o l u	s u l u	s u l u	s u l u
 1557-3	tʃ o i d u ŋ	tʃ o i d u ŋ	?	tʃʰ a i d̪ u m	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m
@@ -328,6 +328,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-3	kʰ u ŋ	kʰ u ŋ	?	kʰ u m	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ
 1707-3	m o ŋ n a ŋ	m o ŋ n a ŋ	?	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a m	m o ŋ n a ŋ
 1716-3	ŋ a m	ŋ a m	?	ŋ a m t̪ u ŋ	ŋ a m	ŋ a m	ŋ a m	ŋ a m
+1742-3	m u g u	m u g i	?	m u g u	m u g i	m u g i	m u g i	m u h u
 1751-3	b u ʃ i l a	b u ʃ i l a	?	b u ʃ i l a	b u tʃ i l a	b u ʃ i l a	b u tʃ i l a	p u tʃʰ l a
 1778-3	z a	z a	?	z a	z a	z a	z a	s a
 1787-3	tʃʰ u r p u	tʃʰ u r p u	?	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u
@@ -348,6 +349,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-3	ŋ a r l a	ŋ a r ʃ u	?	ŋ a r tʃʰ a m	ŋ a r e n	ŋ a r ʃ u	ŋ a r kʰ e n	ŋ a r b a n
 2507-3	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	?	t e n o ŋ	tʰ ĭ n u ŋ	t̪ i n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ
 2526-3	l e	l e h̥	?	l e	l e	l e	l e	l e
+2535-3	ʃ a	ʃ a h	?	ɕ a	ʃ a	ɕ a	ʃ a	ʃ a
 2544-3	ʃ i ŋ	ʃ i ŋ	?	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ
 2560-3	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	?	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ
 2569-3	kʰ a i tʰ u r	kʰ e tʰ u ɾ	?	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i d u r
@@ -360,7 +362,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2728-3	k o tʃ y ŋ	k o tʃ u ŋ	?	k u tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ
 2747-3	ɲ i ŋ	ɲ i ŋ	?	ɲ i ŋ	ɲ i ŋ	ɲ e ŋ t̪ʰ u r	ɲ i ŋ	n i ŋ tʰ u ɾ
 2756-3	tʃ e r b u	s e r b u	?	s e r b u	s e r u	s e r b u	s e r u	s e r b u
-2774-3	b u ɲ i ŋ	b o ɲ i ŋ	?	b o ɲ i ŋ	b o ɲ i ŋ	b o ɲ i ŋ	b u ɲ i ŋ	b o n i ŋ
 10-4	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ
 37-4	n a n	n a n	n a n	?	n a n	n a n	n a n	n a n
 46-4	n a n	n a n	n a n	?	n a n	n a n	n a n	n a n
@@ -379,7 +380,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-4	kʰ a m u ŋ	kʰ a u	kʰ a u	?	kʰ a u	kʰ a u	kʰ o u	kʰ a m u
 426-4	m ŭ k p a	m ŭ k p a	m ŭ k p a	?	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-4	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	?	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-4	w a	w a	w a	?	w a	w a	w a	w a
 499-4	z a m ĭ n	z a m ĭ n	z a m ĭ n	?	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-4	g a ʃ a	g a ʃ a	g a ʃ j a	?	g a ʃ a	g a ʃ a	g a ʃ a	k a ʃ a
 544-4	kʰ u	kʰ u	kʰ u	?	kʰ u	kʰ u	kʰ u	kʰ u
@@ -439,6 +439,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-4	pʰ a k p a	pʰ a k p a	pʰ a k p a	?	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a
 1477-4	ŋ a s	ŋ a s	ŋ a s	?	ŋ a s	ŋ a s	ŋ a s	ŋ a s
 1502-4	ŋ a m s u	ŋ a m s u	ŋ a m s u	?	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u
+1511-4	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a	m ŭ dʒ a m b a	?	m u d̪ j a ŋ b a	m u d̪ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a
 1529-4	tʃ a l u	tʃʰ a l u	tʃʰ a l u	?	tʃ a l u	tʃʰ a l u	tʃ a l u	tʃʰ a l u
 1538-4	s u l u	s o l u	s u l u	?	s o l u	s u l u	s u l u	s u l u
 1557-4	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m	?	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m
@@ -448,6 +449,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-4	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	?	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ
 1707-4	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	?	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a m	m o ŋ n a ŋ
 1716-4	ŋ a m	ŋ a m	ŋ a m tʰ u ŋ	?	ŋ a m	ŋ a m	ŋ a m	ŋ a m
+1742-4	m u g u	m u g i	m u i	?	m u g i	m u g i	m u g i	m u h u
 1751-4	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	?	b u tʃ i l a	b u ʃ i l a	b u tʃ i l a	p u tʃʰ l a
 1778-4	z a	z a	z a	?	z a	z a	z a	s a
 1787-4	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	?	tʃ u r tʃ u r	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u
@@ -468,6 +470,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-4	ŋ a r l a	ŋ a r ʃ u	ŋ a r b o	?	ŋ a r e n	ŋ a r ʃ u	ŋ a r kʰ e n	ŋ a r b a n
 2507-4	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	?	tʰ ĭ n u ŋ	t̪ i n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ
 2526-4	l e	l e h̥	l e	?	l e	l e	l e	l e
+2535-4	ʃ a	ʃ a h	ɕ j a	?	ʃ a	ɕ a	ʃ a	ʃ a
 2544-4	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	?	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ
 2560-4	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	?	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ
 2569-4	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	?	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i d u r
@@ -480,8 +483,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2728-4	k o tʃ y ŋ	k o tʃ u ŋ	k o tʃ u ŋ	?	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ
 2747-4	ɲ i ŋ	ɲ i ŋ	n i ŋ tʰ u ɾ	?	ɲ i ŋ	ɲ e ŋ t̪ʰ u r	ɲ i ŋ	n i ŋ tʰ u ɾ
 2756-4	tʃ e r b u	s e r b u	s e r b u	?	s e r u	s e r b u	s e r u	s e r b u
-2774-4	b u ɲ i ŋ	b o ɲ i ŋ	b o ɲ i	?	b o ɲ i ŋ	b o ɲ i ŋ	b u ɲ i ŋ	b o n i ŋ
-19-4	n a i b a	n a ʃ i b a k		?	n a ʃ i	n a ʃ i	n a ʃ t i b a	n a ʃ i b a k
 10-5	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ
 37-5	n a n	n a n	n a n	n a n	?	n a n	n a n	n a n
 46-5	n a n	n a n	n a n	n a n	?	n a n	n a n	n a n
@@ -500,7 +501,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-5	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ a m u ŋ	?	kʰ a u	kʰ o u	kʰ a m u
 426-5	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	?	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-5	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	?	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-5	w a	w a	w a	w a d a m o	?	w a	w a	w a
 499-5	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	?	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-5	g a ʃ a	g a ʃ a	g a ʃ j a	g a ɕ a	?	g a ʃ a	g a ʃ a	k a ʃ a
 544-5	kʰ u	kʰ u	kʰ u	kʰ u	?	kʰ u	kʰ u	kʰ u
@@ -560,6 +560,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-5	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	?	pʰ a k p a	pʰ a k p a	pʰ a k p a
 1477-5	ŋ a s	ŋ a s	ŋ a s	ŋ a s	?	ŋ a s	ŋ a s	ŋ a s
 1502-5	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	?	ŋ a m s u	ŋ a m s u	ŋ a m s u
+1511-5	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a	m ŭ dʒ a m b a	m u d i ɾ e ŋ m a	?	m u d̪ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a
 1529-5	tʃ a l u	tʃʰ a l u	tʃʰ a l u	tʃʰ a l o	?	tʃʰ a l u	tʃ a l u	tʃʰ a l u
 1538-5	s u l u	s o l u	s u l u	s o l u	?	s u l u	s u l u	s u l u
 1557-5	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m	tʃʰ a i d̪ u m	?	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m
@@ -569,6 +570,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-5	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	kʰ u m	?	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ
 1707-5	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	?	m o ŋ n a ŋ	m o ŋ n a m	m o ŋ n a ŋ
 1716-5	ŋ a m	ŋ a m	ŋ a m tʰ u ŋ	ŋ a m t̪ u ŋ	?	ŋ a m	ŋ a m	ŋ a m
+1742-5	m u g u	m u g i	m u i	m u g u	?	m u g i	m u g i	m u h u
 1751-5	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	?	b u ʃ i l a	b u tʃ i l a	p u tʃʰ l a
 1778-5	z a	z a	z a	z a	?	z a	z a	s a
 1787-5	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	?	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u
@@ -589,6 +591,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-5	ŋ a r l a	ŋ a r ʃ u	ŋ a r b o	ŋ a r tʃʰ a m	?	ŋ a r ʃ u	ŋ a r kʰ e n	ŋ a r b a n
 2507-5	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	t e n o ŋ	?	t̪ i n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ
 2526-5	l e	l e h̥	l e	l e	?	l e	l e	l e
+2535-5	ʃ a	ʃ a h	ɕ j a	ɕ a	?	ɕ a	ʃ a	ʃ a
 2544-5	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	?	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ
 2560-5	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	?	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ
 2569-5	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i tʰ u r	?	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i d u r
@@ -601,8 +604,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2728-5	k o tʃ y ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k u tʃ u ŋ	?	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ
 2747-5	ɲ i ŋ	ɲ i ŋ	n i ŋ tʰ u ɾ	ɲ i ŋ	?	ɲ e ŋ t̪ʰ u r	ɲ i ŋ	n i ŋ tʰ u ɾ
 2756-5	tʃ e r b u	s e r b u	s e r b u	s e r b u	?	s e r b u	s e r u	s e r b u
-2774-5	b u ɲ i ŋ	b o ɲ i ŋ	b o ɲ i	b o ɲ i ŋ	?	b o ɲ i ŋ	b u ɲ i ŋ	b o n i ŋ
-19-5	n a i b a	n a ʃ i b a k		n a i b a	?	n a ʃ i	n a ʃ t i b a	n a ʃ i b a k
 10-6	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ
 37-6	n a n	n a n	n a n	n a n	n a n	?	n a n	n a n
 46-6	n a n	n a n	n a n	n a n	n a n	?	n a n	n a n
@@ -621,7 +622,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-6	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ a m u ŋ	kʰ a u	?	kʰ o u	kʰ a m u
 426-6	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	?	m ŭ k p a	m ŭ k p a
 473-6	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	?	pʰ i n a ŋ	pʰ i n a ŋ
-483-6	w a	w a	w a	w a d a m o	w a	?	w a	w a
 499-6	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	?	z a m ĭ n	z a m ĭ n
 526-6	g a ʃ a	g a ʃ a	g a ʃ j a	g a ɕ a	g a ʃ a	?	g a ʃ a	k a ʃ a
 544-6	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	?	kʰ u	kʰ u
@@ -681,6 +681,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-6	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	?	pʰ a k p a	pʰ a k p a
 1477-6	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s	?	ŋ a s	ŋ a s
 1502-6	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	?	ŋ a m s u	ŋ a m s u
+1511-6	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a	m ŭ dʒ a m b a	m u d i ɾ e ŋ m a	m u d̪ j a ŋ b a	?	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a
 1529-6	tʃ a l u	tʃʰ a l u	tʃʰ a l u	tʃʰ a l o	tʃ a l u	?	tʃ a l u	tʃʰ a l u
 1538-6	s u l u	s o l u	s u l u	s o l u	s o l u	?	s u l u	s u l u
 1557-6	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m	tʃʰ a i d̪ u m	tʃ o i d u ŋ	?	tʃ o i d u ŋ	tʃ o d u m
@@ -690,6 +691,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-6	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	kʰ u m	kʰ u ŋ	?	kʰ u ŋ	kʰ u ŋ
 1707-6	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	?	m o ŋ n a m	m o ŋ n a ŋ
 1716-6	ŋ a m	ŋ a m	ŋ a m tʰ u ŋ	ŋ a m t̪ u ŋ	ŋ a m	?	ŋ a m	ŋ a m
+1742-6	m u g u	m u g i	m u i	m u g u	m u g i	?	m u g i	m u h u
 1751-6	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	b u tʃ i l a	?	b u tʃ i l a	p u tʃʰ l a
 1778-6	z a	z a	z a	z a	z a	?	z a	s a
 1787-6	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	tʃ u r tʃ u r	?	tʃ u r tʃ u r	tʃʰ u r p u
@@ -710,6 +712,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-6	ŋ a r l a	ŋ a r ʃ u	ŋ a r b o	ŋ a r tʃʰ a m	ŋ a r e n	?	ŋ a r kʰ e n	ŋ a r b a n
 2507-6	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	t e n o ŋ	tʰ ĭ n u ŋ	?	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ
 2526-6	l e	l e h̥	l e	l e	l e	?	l e	l e
+2535-6	ʃ a	ʃ a h	ɕ j a	ɕ a	ʃ a	?	ʃ a	ʃ a
 2544-6	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	?	ʃ i ŋ	ʃ i ŋ
 2560-6	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	?	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ
 2569-6	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i tʰ u r	kʰ e tʰ u ɾ	?	kʰ e tʰ u ɾ	kʰ a i d u r
@@ -722,8 +725,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2728-6	k o tʃ y ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k u tʃ u ŋ	k o tʃ u ŋ	?	k o tʃ u ŋ	k o tʃ u ŋ
 2747-6	ɲ i ŋ	ɲ i ŋ	n i ŋ tʰ u ɾ	ɲ i ŋ	ɲ i ŋ	?	ɲ i ŋ	n i ŋ tʰ u ɾ
 2756-6	tʃ e r b u	s e r b u	s e r b u	s e r b u	s e r u	?	s e r u	s e r b u
-2774-6	b u ɲ i ŋ	b o ɲ i ŋ	b o ɲ i	b o ɲ i ŋ	b o ɲ i ŋ	?	b u ɲ i ŋ	b o n i ŋ
-19-6	n a i b a	n a ʃ i b a k		n a i b a	n a ʃ i	?	n a ʃ t i b a	n a ʃ i b a k
 10-7	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ
 37-7	n a n	n a n	n a n	n a n	n a n	n a n	?	n a n
 46-7	n a n	n a n	n a n	n a n	n a n	n a n	?	n a n
@@ -742,7 +743,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-7	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ a m u ŋ	kʰ a u	kʰ a u	?	kʰ a m u
 426-7	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	?	m ŭ k p a
 473-7	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	?	pʰ i n a ŋ
-483-7	w a	w a	w a	w a d a m o	w a	w a	?	w a
 499-7	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	?	z a m ĭ n
 526-7	g a ʃ a	g a ʃ a	g a ʃ j a	g a ɕ a	g a ʃ a	g a ʃ a	?	k a ʃ a
 544-7	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	?	kʰ u
@@ -802,6 +802,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-7	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	?	pʰ a k p a
 1477-7	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s	?	ŋ a s
 1502-7	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	?	ŋ a m s u
+1511-7	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a	m ŭ dʒ a m b a	m u d i ɾ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ e ŋ m a	?	m u d̪ j a ŋ b a
 1529-7	tʃ a l u	tʃʰ a l u	tʃʰ a l u	tʃʰ a l o	tʃ a l u	tʃʰ a l u	?	tʃʰ a l u
 1538-7	s u l u	s o l u	s u l u	s o l u	s o l u	s u l u	?	s u l u
 1557-7	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m	tʃʰ a i d̪ u m	tʃ o i d u ŋ	tʃ o i d u ŋ	?	tʃ o d u m
@@ -811,6 +812,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-7	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	kʰ u m	kʰ u ŋ	kʰ u ŋ	?	kʰ u ŋ
 1707-7	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	?	m o ŋ n a ŋ
 1716-7	ŋ a m	ŋ a m	ŋ a m tʰ u ŋ	ŋ a m t̪ u ŋ	ŋ a m	ŋ a m	?	ŋ a m
+1742-7	m u g u	m u g i	m u i	m u g u	m u g i	m u g i	?	m u h u
 1751-7	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	b u tʃ i l a	b u ʃ i l a	?	p u tʃʰ l a
 1778-7	z a	z a	z a	z a	z a	z a	?	s a
 1787-7	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u	?	tʃʰ u r p u
@@ -831,6 +833,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-7	ŋ a r l a	ŋ a r ʃ u	ŋ a r b o	ŋ a r tʃʰ a m	ŋ a r e n	ŋ a r ʃ u	?	ŋ a r b a n
 2507-7	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	t e n o ŋ	tʰ ĭ n u ŋ	t̪ i n u ŋ	?	tʰ ĭ n u ŋ
 2526-7	l e	l e h̥	l e	l e	l e	l e	?	l e
+2535-7	ʃ a	ʃ a h	ɕ j a	ɕ a	ʃ a	ɕ a	?	ʃ a
 2544-7	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	?	ʃ i ŋ
 2560-7	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	?	s o ŋ n i tʃ i ŋ
 2569-7	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	?	kʰ a i d u r
@@ -843,8 +846,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2728-7	k o tʃ y ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k u tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	?	k o tʃ u ŋ
 2747-7	ɲ i ŋ	ɲ i ŋ	n i ŋ tʰ u ɾ	ɲ i ŋ	ɲ i ŋ	ɲ e ŋ t̪ʰ u r	?	n i ŋ tʰ u ɾ
 2756-7	tʃ e r b u	s e r b u	s e r b u	s e r b u	s e r u	s e r b u	?	s e r b u
-2774-7	b u ɲ i ŋ	b o ɲ i ŋ	b o ɲ i	b o ɲ i ŋ	b o ɲ i ŋ	b o ɲ i ŋ	?	b o n i ŋ
-19-7	n a i b a	n a ʃ i b a k		n a i b a	n a ʃ i	n a ʃ i	?	n a ʃ i b a k
 10-8	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?
 37-8	n a n	n a n	n a n	n a n	n a n	n a n	n a n	?
 46-8	n a n	n a n	n a n	n a n	n a n	n a n	n a n	?
@@ -863,7 +864,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-8	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ o u	?
 426-8	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	?
 473-8	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	?
-483-8	w a	w a	w a	w a d a m o	w a	w a	w a	?
 499-8	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	?
 526-8	g a ʃ a	g a ʃ a	g a ʃ j a	g a ɕ a	g a ʃ a	g a ʃ a	g a ʃ a	?
 544-8	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	?
@@ -923,6 +923,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-8	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	pʰ a k p a	?
 1477-8	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s	ŋ a s	?
 1502-8	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	ŋ a m s u	?
+1511-8	m u d̪ j a ŋ b a	m u d̪ j a ŋ b a	m ŭ dʒ a m b a	m u d i ɾ e ŋ m a	m u d̪ j a ŋ b a	m u d̪ e ŋ m a	m u d̪ j a ŋ b a	?
 1529-8	tʃ a l u	tʃʰ a l u	tʃʰ a l u	tʃʰ a l o	tʃ a l u	tʃʰ a l u	tʃ a l u	?
 1538-8	s u l u	s o l u	s u l u	s o l u	s o l u	s u l u	s u l u	?
 1557-8	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o d u m	tʃʰ a i d̪ u m	tʃ o i d u ŋ	tʃ o i d u ŋ	tʃ o i d u ŋ	?
@@ -932,6 +933,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-8	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	kʰ u m	kʰ u ŋ	kʰ u ŋ	kʰ u ŋ	?
 1707-8	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a ŋ	m o ŋ n a m	?
 1716-8	ŋ a m	ŋ a m	ŋ a m tʰ u ŋ	ŋ a m t̪ u ŋ	ŋ a m	ŋ a m	ŋ a m	?
+1742-8	m u g u	m u g i	m u i	m u g u	m u g i	m u g i	m u g i	?
 1751-8	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	b u ʃ i l a	b u tʃ i l a	b u ʃ i l a	b u tʃ i l a	?
 1778-8	z a	z a	z a	z a	z a	z a	z a	?
 1787-8	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	tʃʰ u r p u	tʃ u r tʃ u r	tʃʰ u r p u	tʃ u r tʃ u r	?
@@ -952,6 +954,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-8	ŋ a r l a	ŋ a r ʃ u	ŋ a r b o	ŋ a r tʃʰ a m	ŋ a r e n	ŋ a r ʃ u	ŋ a r kʰ e n	?
 2507-8	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	tʰ ĭ n u ŋ	t e n o ŋ	tʰ ĭ n u ŋ	t̪ i n u ŋ	tʰ ĭ n u ŋ	?
 2526-8	l e	l e h̥	l e	l e	l e	l e	l e	?
+2535-8	ʃ a	ʃ a h	ɕ j a	ɕ a	ʃ a	ɕ a	ʃ a	?
 2544-8	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	ʃ i ŋ	?
 2560-8	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	s o ŋ n i tʃ i ŋ	?
 2569-8	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ a i tʰ u r	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	kʰ e tʰ u ɾ	?
@@ -964,5 +967,3 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2728-8	k o tʃ y ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k u tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	k o tʃ u ŋ	?
 2747-8	ɲ i ŋ	ɲ i ŋ	n i ŋ tʰ u ɾ	ɲ i ŋ	ɲ i ŋ	ɲ e ŋ t̪ʰ u r	ɲ i ŋ	?
 2756-8	tʃ e r b u	s e r b u	s e r b u	s e r b u	s e r u	s e r b u	s e r u	?
-2774-8	b u ɲ i ŋ	b o ɲ i ŋ	b o ɲ i	b o ɲ i ŋ	b o ɲ i ŋ	b o ɲ i ŋ	b u ɲ i ŋ	?
-19-8	n a i b a	n a ʃ i b a k		n a i b a	n a ʃ i	n a ʃ i	n a ʃ t i b a	?

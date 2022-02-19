@@ -3,7 +3,6 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 6485-1	?	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-1	?	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-1	?	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-1	?	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-1	?	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-1	?	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-1	?	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -74,6 +73,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-1	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-1	?	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-1	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-1	?	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-1	?	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-1	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-1	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -101,14 +101,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-1	?	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-1	?	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-1	?	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-1	?	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-1	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-1	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-1	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-2	z ə t ¹	?	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-2	ˀb ə n ¹	?	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-2	m u n ¹	?	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-2	f ə n ¹	?	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-2	ˀn ui ¹	?	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-2	l aː p ¹	?	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-2	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-2	n j e n ¹	?	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -179,6 +178,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-2	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-2	kʰ u p ¹	?	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-2	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-2	m̥ a t ¹	?	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-2	ˀn u n ¹	?	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-2	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-2	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -206,14 +206,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-2	m j e ¹	?	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-2	m j e ¹	?	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-2	ȶ w ə n ¹	?	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-2	l j a p ¹	?	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-2	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-2	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-2	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-3	z ə t ¹	z ə t ¹	?	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-3	ˀb ə n ¹	m ə n ¹	?	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-3	m u n ¹	m u n ¹	?	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-3	f ə n ¹	p j ə n ¹	?	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-3	ˀn ui ¹	n ui ¹	?	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-3	l aː p ¹	l aː p ¹	?	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-3	ⁿb e ¹	p e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-3	n j e n ¹	n j aː n ¹	?	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -284,6 +283,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-3	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-3	kʰ u p ¹	kʰ u p ¹	?	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-3	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-3	m̥ a t ¹	pʰ w a t ¹	?	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-3	ˀn u n ¹	n u n ¹	?	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-3	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-3	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -311,14 +311,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-3	m j e ¹	m j a ¹	?	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-3	m j e ¹	m j a ¹	?	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-3	ȶ w ə n ¹	ȶ u n ¹	?	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-3	l j a p ¹	ɕ ə p ¹	?	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-3	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-3	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-3	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-4	z ə t ¹	z ə t ¹	z ə t ¹	?	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-4	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	?	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-4	m u n ¹	m u n ¹	m o n ¹	?	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-4	f ə n ¹	p j ə n ¹	f ə n ¹	?	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-4	ˀn ui ¹	n ui ¹	ˀn ui ¹	?	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-4	l aː p ¹	l aː p ¹	l aː p ¹	?	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-4	ⁿb e ¹	p e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-4	n j e n ¹	n j aː n ¹	n j e n ¹	?	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -389,6 +388,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-4	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-4	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	?	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-4	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-4	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	?	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-4	ˀn u n ¹	n u n ¹	ˀn u n ¹	?	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-4	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-4	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -416,14 +416,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-4	m j e ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-4	m j e ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-4	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	?	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-4	l j a p ¹	ɕ ə p ¹	l j a p ¹	?	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-4	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-4	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-4	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-5	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	?	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-5	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	?	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-5	m u n ¹	m u n ¹	m o n ¹	m o n ¹	?	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-5	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	?	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-5	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	?	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-5	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	?	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-5	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-5	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	?	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -494,6 +493,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-5	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-5	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	?	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-5	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-5	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	?	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-5	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	?	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-5	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-5	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -521,14 +521,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-5	m j e ¹	m j a ¹	m j a ¹	m j e ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-5	m j e ¹	m j a ¹	m j a ¹	m j e ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-5	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	?	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-5	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	?	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-5	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-5	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-5	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-6	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	?	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-6	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	?	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-6	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	?	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-6	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	?	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-6	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	?	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-6	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	?	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-6	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-6	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	?	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -599,6 +598,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-6	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-6	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	?	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-6	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-6	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	?	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-6	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	?	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-6	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-6	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -626,14 +626,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-6	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-6	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-6	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	?	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-6	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	?	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-6	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-6	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-6	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-7	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	?	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-7	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	?	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-7	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	?	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-7	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	?	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-7	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	?	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-7	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	?	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-7	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-7	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	?	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -704,6 +703,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-7	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-7	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	?	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-7	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-7	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	?	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-7	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	?	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-7	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-7	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -731,14 +731,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-7	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-7	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-7	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	?	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-7	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	?	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-7	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-7	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-7	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-8	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	?	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-8	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	?	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-8	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	?	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-8	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	?	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-8	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	?	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-8	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	?	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-8	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-8	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	?	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -809,6 +808,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-8	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-8	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	?	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-8	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-8	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	?	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-8	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	?	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-8	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-8	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -836,14 +836,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-8	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-8	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-8	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	?	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-8	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	?	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-8	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-8	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-8	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-9	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	?	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-9	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	?	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-9	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	?	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-9	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	?	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-9	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	?	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-9	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	?	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-9	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-9	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	?	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -914,6 +913,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-9	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-9	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	?	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-9	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-9	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	?	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-9	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	?	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-9	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-9	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -941,14 +941,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-9	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-9	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-9	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	?	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-9	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	?	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-9	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-9	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-9	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-10	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	?	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-10	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	?	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-10	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	?	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-10	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	?	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-10	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	?	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-10	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	?	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-10	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-10	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	?	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -1019,6 +1018,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-10	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-10	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	?	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-10	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-10	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	?	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-10	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	?	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-10	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-10	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -1046,14 +1046,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-10	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-10	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-10	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	?	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-10	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	?	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-10	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-10	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-10	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-11	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	?	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-11	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	?	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-11	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	?	m u n ¹	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-11	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	?	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-11	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	?	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-11	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	?	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-11	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-11	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	?	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -1124,6 +1123,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-11	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹
 1089-11	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	?	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-11	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-11	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	?	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-11	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	?	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-11	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-11	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -1151,14 +1151,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-11	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-11	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-11	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	?	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-11	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	?	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-11	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-11	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-11	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-12	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	?	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹
 6485-12	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	?	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-12	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	?	m u n ¹	m u n ¹	m u n ¹	m o n ¹
 5671-12	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	?	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹
-6599-12	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	?	n ui ¹	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-12	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	?	ⁿd j a p ¹	l aː p ¹	l aː p ¹	l aː p ¹
 10935-12	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-12	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	?	n j aː n ¹	n i n ¹	n j a n ¹	n j e n ¹
@@ -1229,6 +1228,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-12	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹	k i ¹
 1089-12	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	?	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-12	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n a n ¹	n aː n ¹
+2787-12	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	?	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-12	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	?	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-12	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹	h a n ¹
 6582-12	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹	h ui ¹
@@ -1256,14 +1256,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-12	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 5369-12	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j e ¹	m j a ¹	m j a ¹
 2749-12	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	?	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-12	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	?	ɕ a p ¹	l j a p ¹	l j a p ¹	l j a p ¹
 1181-12	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹	t a k ¹
 949-12	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹	t j u ¹
-2839-12	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹	t i n ¹
 6882-13	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	?	z ə t ¹	z ə t ¹	z ə t ¹
 6485-13	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	?	ˀm ə n ¹	ˀb ə n ¹	ˀb ə n ¹
 4690-13	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	?	m u n ¹	m u n ¹	m o n ¹
 5671-13	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	?	f ə n ¹	f ə n ¹	f ə n ¹
-6599-13	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	?	ˀn ui ¹	ˀn ui ¹	ˀn ui ¹
 4272-13	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	?	l aː p ¹	l aː p ¹	l aː p ¹
 10935-13	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb əi ¹	ⁿb e ¹	ⁿb e ¹
 4760-13	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	?	n i n ¹	n j a n ¹	n j e n ¹
@@ -1334,6 +1333,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-13	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹	k i ¹
 1089-13	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	?	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹
 843-13	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n a n ¹	n aː n ¹
+2787-13	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	?	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹
 4462-13	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	?	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹
 10918-13	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹	h a n ¹
 6582-13	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹	h ui ¹
@@ -1361,14 +1361,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-13	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j e ¹	m j a ¹	m j a ¹
 5369-13	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j e ¹	m j a ¹	m j a ¹
 2749-13	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	?	ȶ u n ¹	ȶ u n ¹	ȶ o n ¹
+2621-13	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	?	l j a p ¹	l j a p ¹	l j a p ¹
 1181-13	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹	t a k ¹
 949-13	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹	t j u ¹
-2839-13	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹	t i n ¹
 6882-14	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	?	z ə t ¹	z ə t ¹
 6485-14	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	?	ˀb ə n ¹	ˀb ə n ¹
 4690-14	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	?	m u n ¹	m o n ¹
 5671-14	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	?	f ə n ¹	f ə n ¹
-6599-14	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	?	ˀn ui ¹	ˀn ui ¹
 4272-14	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	?	l aː p ¹	l aː p ¹
 10935-14	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	?	ⁿb e ¹	ⁿb e ¹
 4760-14	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	?	n j a n ¹	n j e n ¹
@@ -1439,6 +1438,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-14	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹	k i ¹
 1089-14	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	?	kʰ u p ¹	kʰ u p ¹
 843-14	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n a n ¹	n aː n ¹
+2787-14	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	?	m̥ a t ¹	m̥ a t ¹
 4462-14	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	?	ˀn u n ¹	ˀn u n ¹
 10918-14	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹	h a n ¹
 6582-14	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹	h ui ¹
@@ -1466,14 +1466,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-14	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹
 5369-14	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	?	m j a ¹	m j a ¹
 2749-14	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	?	ȶ u n ¹	ȶ o n ¹
+2621-14	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	?	l j a p ¹	l j a p ¹
 1181-14	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹	t a k ¹
 949-14	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹	t j u ¹
-2839-14	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹	t i n ¹
 6882-15	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	?	z ə t ¹
 6485-15	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	?	ˀb ə n ¹
 4690-15	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	?	m o n ¹
 5671-15	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	?	f ə n ¹
-6599-15	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	?	ˀn ui ¹
 4272-15	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	?	l aː p ¹
 10935-15	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	?	ⁿb e ¹
 4760-15	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	?	n j e n ¹
@@ -1544,6 +1543,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-15	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?	k i ¹
 1089-15	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	?	kʰ u p ¹
 843-15	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?	n aː n ¹
+2787-15	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	?	m̥ a t ¹
 4462-15	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	?	ˀn u n ¹
 10918-15	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?	h a n ¹
 6582-15	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?	h ui ¹
@@ -1571,14 +1571,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-15	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	?	m j a ¹
 5369-15	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	?	m j a ¹
 2749-15	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	?	ȶ o n ¹
+2621-15	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	?	l j a p ¹
 1181-15	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?	t a k ¹
 949-15	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?	t j u ¹
-2839-15	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?	t i n ¹
 6882-16	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	j a t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	z ə t ¹	?
 6485-16	ˀb ə n ¹	m ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ⁿb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	ˀb ə n ¹	m ə n ¹	ˀm ə n ¹	ˀb ə n ¹	?
 4690-16	m u n ¹	m u n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m o n ¹	m u n ¹	m u n ¹	m u n ¹	m u n ¹	?
 5671-16	f ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	h w ə n ¹	f ə n ¹	f ə n ¹	f ə n ¹	v ə n ¹	v ə n ¹	p j ə n ¹	f ə n ¹	f ə n ¹	?
-6599-16	ˀn ui ¹	n ui ¹	ˀn ui ¹	n ui ¹	ˀn i ¹	ˀn i ¹	n ui ¹	n ui ¹	n ui ¹	ˀn ui ¹	ˀn i ¹	ˀn j e ¹	n ui ¹	ˀn ui ¹	ˀn ui ¹	?
 4272-16	l aː p ¹	l aː p ¹	l aː p ¹	l aː t ¹	ˀd aː p ¹	ˀd aː p ¹	l a p ¹	l aː p ¹	l aː p ¹	l aː p ¹	ˀd aː p ¹	ˀd aː p ¹	ⁿd j a p ¹	l aː p ¹	l aː p ¹	?
 10935-16	ⁿb e ¹	p e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb e ¹	ⁿb əi ¹	ⁿb e ¹	?
 4760-16	n j e n ¹	n j aː n ¹	n j e n ¹	n i n ¹	n j aː n ¹	n j aː n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j e n ¹	n j aː n ¹	n j aː n ¹	n j aː n ¹	n i n ¹	n j a n ¹	?
@@ -1649,6 +1648,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-16	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	k i ¹	?
 1089-16	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	kʰ u p ¹	k ə p ¹	kʰ a p ¹	kʰ u p ¹	kʰ u p ¹	?
 843-16	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	n a n ¹	?
+2787-16	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	h a t ¹	m̥ a t ¹	m̥ a t ¹	h w a t ¹	pʰ w a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	m̥ a t ¹	pʰ w a t ¹	m̥ a t ¹	m̥ a t ¹	?
 4462-16	ˀn u n ¹	n u n ¹	ˀn u n ¹	n o n ¹	ˀn u n ¹	ˀn u n ¹	n ui ¹	n u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	ˀn u n ¹	n u n ¹	ˀn u n ¹	ˀn u n ¹	?
 10918-16	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	h a n ¹	?
 6582-16	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	h ui ¹	?
@@ -1676,6 +1676,6 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-16	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	?
 5369-16	m j e ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j a ¹	m j e ¹	m j a ¹	?
 2749-16	ȶ w ə n ¹	ȶ u n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ w ə n ¹	ȶ w a n ¹	ȶ o n ¹	ȶ o n ¹	ȶ o n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	ȶ u n ¹	?
+2621-16	l j a p ¹	ɕ ə p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀd j a p ¹	l i p ¹	ⁿd j a p ¹	l j a p ¹	l j a p ¹	ˀd j a p ¹	ˀn j a p ¹	ɕ a p ¹	l j a p ¹	l j a p ¹	?
 1181-16	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	t a k ¹	?
 949-16	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	t j u ¹	?
-2839-16	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	t i n ¹	?

@@ -6,12 +6,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-1	?	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 1401-1	?	pʰ ɔu ⁴⁴	pʰ o ⁴⁴	pʰ ao ³³	pʰ ao ⁵⁵	pʰ ɔ ⁴⁴	pʰ ɔ ⁴⁴	pʰ u ⁴⁴	pʰ o ⁴⁴
 6496-1	?	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɿ ⁵⁵	tsʰ ɯ ³¹	tsʰ ou ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹
+1064-1	?	l a ³⁵	l a ³⁵	l a ⁴⁴	l ao ³¹	l a ³⁵	l a ³⁵	l a ³⁵	l a ³⁵
 1065-1	?	ts ɿ ³³	ts ɿ ³³	ts ɯ ³³	z i ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³³
 6617-1	?	t ɔ ²¹	t ou ²¹	t w ɔ ³¹	t ɤ ³¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹
 4367-1	?	t a ²¹	t a ²¹	t a ²¹	t ao ²¹	t a ²¹	t a ²¹	t a ²¹	t a ²¹
 4378-1	?	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵
 4379-1	?	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵
-2519-1	?	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³	tʃʰ ʊ ⁴⁴	tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 3984-1	?	sʰ ɿ ³³	s ɛ̃ ³³	s ɛ̃ ³³	ʂ ɛ̃ ³³	s ɛ ³³	s ɛ̃ ³³	s ɛ ³³	s ɛ ²¹
 5086-1	?	ts w ɔ̃ ³³	ts ɤ̃ ³³	ts õ ⁴⁴	tɕ ɔ̃ ³¹	ts ɤ ³³	tsʰ u ³³	dz ɯ ³³	ts ɤ ³³
 3333-1	?	sʰ e ⁴⁴	s e ⁴⁴	s e ⁴⁴	ʂ ɛ ⁴⁴	s e ⁴⁴	s e ⁴⁴	s ɛ ⁴⁴	s e ⁴⁴
@@ -39,16 +39,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-1	?	ɕʰ ĩ ⁵⁵	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	s ẽ ⁵⁵	ɕ i ³⁵	ɕ ĩ ⁵⁵	s e ⁵⁵	ɕ i ³⁵
 3462-1	?	k ã ⁵⁵	k ã ⁵⁵	k ã ⁵⁵	q ɔ̃ ⁵⁵	k a ³⁵	k ã ⁵⁵	k a ³⁵	k a ³⁵
 1932-1	?	s ɿ ³³	s ɿ ³³	s ɛ ³³	ʂ ʅ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³
+6469-1	?	sʰ ɔu ³¹	s ou ²¹	s o ³¹	ʂ æ ³³	s ɿ ³³	s ɿ ³¹	s ɿ ³¹	s ɿ ³³
 4454-1	?	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 4455-1	?	k ɛ̃ ³⁵	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	q ao ⁵⁵	k ɛ ³⁵	k ɛ̃ ³⁵	k ɛ ³⁵	kʲ ɛ ³⁵
 6926-1	?	j õ ³³	j ɤ̃ ³³	j ɯ̃ ³³	n ɛ ⁴⁴	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
 6927-1	?	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 3916-1	?	m ɔu ³³	m o ³³	m ɔ̃ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³
+6822-1	?	t j ɯ ²¹	j ĩ ²¹	j ĩ ²¹	n ɛ ³¹	ɲ i ²¹	n i ³¹	ɲ i ²¹	ɲ i ²¹
 5417-1	?	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	tɕ i ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³
 1959-1	?	xʰ ɔu ³¹	x a ³¹	x ã ⁴⁴	x ã ³³	x ɔ ³¹	x ɛ̃ ³¹	x a ³¹	x ɔ ³¹
 1960-1	?	t w ɔ̃ ³⁵	t ɤ ⁵⁵	t o ⁵⁵	t ɤ ⁵⁵	t ɤ ³⁵	t ɛ ³⁵	t ɤ ⁵⁵	t ɤ ³⁵
 2899-1	?	xʰ ɔu ³¹	x ou ²¹	x o ³¹	x ɔ ⁴²	x ɔ ²¹	x ɔ ²¹	x ao ²¹	x ɔ ³¹
 3651-1	?	ts ɿ ³³	ts ɿ ³³	ts ɯ̃ ³³	ʐ ʅ ³³	ts ɿ ³³	z ɿ ³³	dz ɿ ³³	ts ɿ ³³
+811-1	?	k u ²¹	k u ²¹	k w ɔ ³¹	q ẽ ⁵⁵	k u ²¹	k u ²¹	k u ²¹	k u ²¹
 1633-1	?	m e ²¹	m e ²¹	m ẽ ²¹	m æ ²¹	m e ²¹	m e ²¹	m ɛ ²¹	m e ²¹
 1775-1	?	k ɔ̃u ⁴²	k õ ²¹	k ɔ̃ ³¹	q ɔ ²¹	k ɤ ²¹	k ou ⁵⁵	k ɤ ³¹	k u ²¹
 5801-1	?	k ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴⁴	k a ⁴²	k j ɛ ⁴²	kʲ ɛ ⁴²	k ɛ ⁴²	kʲ ɛ ³²
@@ -157,6 +160,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-1	?	t w ẽ ³³	t w ẽ ³³	t w ẽ ⁴⁴	d y ³³	t w e ³³	t w ẽ ³³	t w e ³³	t w e ³³
 3973-1	?	tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ⁵⁵
 2046-1	?	ɕ u ³³	ɕ o ³³	ɕ ɔ ⁴⁴	ɕ o ³³	ɕ o ³³	ɕ u ³³	ɕ u ³³	ɕ o ³³
+5622-1	?	ɕʰ ɛ̃ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ j ɛ̃ ⁵⁵	ɕ ã ³³	ɕ ɛ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵
 648-1	?	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ã ⁴⁴	tsʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵
 6789-1	?	p ɛ ⁴²	p ɛ ⁴²	p æ ⁴²	p a ⁴⁴	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²
 618-1	?	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁵⁵	x ɯ ⁴⁴	x ou ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴
@@ -170,11 +174,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-1	?	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 1764-1	?	ts u ³³	tsʰ u ³³	ts u ³³	tɕ y ³³	tʃ u ³³	z u ³³	ts u ³³	ts u ³³
 3270-1	?	m e ³³	m e ³³	m e ⁴⁴	m ẽ ³³	m e ³³	m e ³³	m e ³³	m e ³³
+1884-1	?	k ɛ ⁴²	k ɛ ⁴²	k ɛ ³³	q a ⁵⁵	k j ɛ ⁴⁴	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²
 1203-1	?	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁴⁴	k ɯ ⁵⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 6645-1	?	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w e ³⁵	w ẽ ³⁵	w ɛ ⁴⁴	w ɛ ³⁵
 608-1	?	kʰ u ³³	kʰ u ³³	kʰ u ⁴⁴	qʰ ɤ ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³
 2889-1	?	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tsʰ ẽ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
-4110-1	?	j ĩ ⁴⁴	j ɯ̃ ³³	j ɯ ⁴⁴	ɲ i ³³	ɲ i ⁴⁴	n i ⁴⁴	ɲ i ⁴⁴	ɲ ɯ ⁴⁴
 5350-1	?	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	ʈʰ ɤ ⁴²	tʃʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹
 6158-1	?	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	qʰ a ⁵⁵	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴
 4306-1	?	sʰ w ɔ̃ ³¹	s ɤ̃ ³¹	s ɔ̃ ³¹	s õ ³¹	s ɿ ³¹	ɕ ɛ̃ ³¹	s ɿ ³¹	s ɤ ³¹
@@ -193,7 +197,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 118-1	?	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	q w a ⁵⁵	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴
 2866-1	?	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɔ̃ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³
 64-1	?	kʰ w ɔ ³³	kʰ ou ³³	kʰ u ³³	qʰ ɔ ³¹	ɔ ³³	kʰ w ɔ ³³	kʰ ɔ ³³	kʰ w ɔ ³³
-53-1	?	t j ɛ ³³	t ĩ ³³	t j ɛ̃ ³³	t o ⁵⁵	t o ⁴⁴	t ĩ ³³	t i ³³	t o ³³
 43-1	?	kʰ ɔu ⁵⁵	kʰ õ ⁵⁵	kʰ ɔ̃ ⁵⁵	kʰ ɤ̃ ⁵⁵	kʰ o ⁵⁵	kʰ ã ⁵⁵	kʰ ɔ ⁵⁵	kʰ o ⁵⁵
 128-1	?	ŋ ɔ ³¹	ŋ o ³¹	ŋ ɔ̃ ³¹	ɴ ɔ ⁴²	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹
 7023-1	?	n ɔ ³¹	n o ³¹	n ɔ ³¹	n ɔ ⁴⁴	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹
@@ -206,7 +209,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2649-1	?	l ou ³³	l o ⁴⁴	l ɔ ⁴⁴	l a ³³	l ɔ ⁵⁵	l ɔ ⁵⁵	l ao ⁴⁴	l ɔ ⁵⁵
 6242-1	?	l ɔ ²¹	l ou ²¹	l ao ²¹	l ao ³¹	l ɔ ²¹	l o ²¹	l ao ²¹	l ɔ ²¹
 3943-1	?	s w ɔ ³³	s ɤ ³³	s u ³³	ʂ u ³³	s ɤ ³³	ɕ ɛ ⁴⁴	ʃ ɤ ³³	s ɤ ³²
+1026-1	?	k e ³⁵	k e ⁵⁵	k ẽ ⁵⁵	q ɛ̃ ³⁵	k e ³⁵	kʲ e ³⁵	k e ³⁵	k e ³⁵
 6404-1	?	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ²¹
+585-1	?	ts ou ⁴⁴	ts ou ⁴⁴	ts u ⁵⁵	ts w ɔ ⁵⁵	ts o ⁴⁴	ts ɔ ⁴⁴	ts u ⁴⁴	ts o ⁴⁴
 1731-1	?	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴⁴	w a ⁴²
 5510-1	?	l a ⁵⁵	l a ⁵⁵	l a ⁵⁵	l ɔ ⁵⁵	l ɔ ³⁵	l a ³⁵	l ɔ ⁵⁵	l ɔ ³⁵
 5360-1	?	kʰ w ɔ ³³	kʰ ɤ ³³	kʰ w ɛ ³³	tɕʰ ɛ̃ ³³	kʰ ɤ ³³	kʰ ɛ ³³	kʰ ɤ ³³	kʰ ɤ ³³
@@ -230,7 +235,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2745-1	?	s ɿ ³³	s ɿ ³³	s ɿ ⁴⁴	s ɿ ³³	s ɿ ³³	s ɤ ³⁵	s ɿ ³³	s ɿ ³³
 4690-1	?	k w a ⁵⁵	k w a ⁵⁵	k w ã ⁵⁵		k w a ³³	k w a ⁵⁵	k w a ⁵⁵	k w a ³⁵
 4423-1	?	s u ⁵⁵	s u ⁵⁵	s u ⁵⁵	ɕ o ⁵⁵		s u ³⁵	s u ³⁵	s u ³⁵
+5380-1	?	sʰ w e ⁴⁴	s w e ⁴⁴	s w e ⁴⁴	s w ɛ ⁵⁵		s w e ⁴⁴	ɕ ɥ ɛ ⁴⁴	s w e ⁴⁴
 4436-1	?	ts ɿ ²¹	ts ɿ ²¹	ts ɯ ⁴⁴	ɖʐ ʅ̃ ³³	ts ɿ ²¹	ts ɿ ²¹		ts ɿ ²¹
+2519-1	?	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³		tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 4975-1	?	m i ⁴⁴	m i ⁴⁴	m i ⁵⁵	m ɛ ⁴⁴	m i ⁴⁴	m e ³¹		m i ⁴⁴
 4548-1	?	w a ⁴²	w a ⁴²	w a ⁴²		w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²
 4397-1	?	p e ²¹	p e ²¹	p e ²¹		p e ²¹	p e ²¹	p e ²¹	p e ²¹
@@ -250,11 +257,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3615-1	?	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴²		pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴
 4197-1	?	k u ³³	k u ³³	k u ³³		k u ³³	k u ³³	k u ³³	k u ³³
 4198-1	?	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹		ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
-196-1	?	p ɔu ³⁵	p o ⁵⁵	p u ⁵⁵	p ɤ ⁵⁵	p ɔ ³⁵		p ao ³³	p ɔ ³⁵
 1474-1	?	j ɔ̃ ³³	j ɤ̃ ³³		ɲ ʊ̃ ³³	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
-6531-1	?	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴		ɣ ɯ ⁴⁴	j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
+6531-1	?	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɔ ³¹		j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
 4954-1	?	tʰ u ³³	tʰ u ³³	tʰ u ³³		tʰ u ³³	tʰ u ³³	tʰ u ³³	tʰ u ³³
-811-1	?	k u ²¹	k u ²¹		q ẽ ⁵⁵	k u ²¹	k u ²¹	k u ²¹	k u ²¹
 4517-1	?	ts ɯ ³³	ts ɯ ³³	ts ɯ ³³	ɖ ɯ ³³	ts ɯ ³³		dz ɯ ³³	ts ɯ ³³
 1173-1	?	j i ³⁵	j i ⁵⁵	j i ⁵⁵		j i ³⁵	j i ³⁵	j i ³⁵	j i ³⁵
 6365-1	?	k w ã ⁵⁵	k w ã ⁵⁵	k w ã ⁴⁴		k w a ³⁵	k w ã ³⁵	k w a ³⁵	k w a ³⁵
@@ -270,7 +275,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1298-1	?	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 784-1	?	tsʰ ã ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁴⁴		tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵
 3596-1	?	t ɯ ³¹	t ɯ ²¹	t ɯ̃ ⁴²		t ɯ ²¹	t ou ²¹	t ɯ ³¹	t ɯ ³¹
-6506-1	?	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹		ɣ ɯ ²¹	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹
 1799-1	?	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	tɕ ĩ ⁴⁴	tɕ i ³¹		tɕ i ³¹	tɕ i ³¹
 5007-1	?	p ĩ ³⁵	p ĩ ⁵⁵	p ĩ ⁵⁵		p i ³⁵	p ĩ ³⁵	p i ³⁵	p i ³⁵
 5465-1	?	x ɛ̃ ³⁵	x ɛ̃ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵
@@ -278,7 +282,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3150-1	?	t ã ⁵⁵	t ã ⁵⁵	t ã ⁵⁵		t a ³⁵	t ã ³⁵	t a ⁵⁵	t a ³⁵
 3780-1	?	w ɛ ⁴²	w ẽ ⁴²	w ẽ ⁴²		w e ³²	w ẽ ⁴²	ŋ w e ⁴²	w e ³²
 1706-1	?		tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ ĩ ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵
-859-1	?	tʰ ɔ̃ ³¹	tʰ ɤ̃ ³¹		tʰ ʊ ³³	tʰ ɤ ²¹	tʰ ɛ̃ ⁴²	tʰ ɤ ²¹	tʰ ɤ ³¹
 403-1	?	p ã ²¹	p ã ²¹	p a ²¹		p a ²¹	p ã ³¹	p a ³¹	p a ³¹
 5329-1	?	k ɛ ⁴²	k e ⁴²	k e ⁴²		k e ³²	kʲ i ⁴²	k ɛ ⁴²	k e ⁴²
 1103-1	?	ts w ɔ ³¹	ts ɤ ³¹	ts u ³¹	dʑ y ⁴⁴	ts ɤ ³¹		dz ɤ ³¹	ts ɤ ³¹
@@ -287,8 +290,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5925-1	?	ts ɛ ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁴⁴	t ɯ ⁵⁵	ts ɛ ³⁵	ts ɛ ³⁵		ts e ³⁵
 5926-1	?	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³		ts ɿ ³³	ts o ³³	ts ɿ ³³	ts ɿ ³³
 5723-1	?	p ã ⁴²	p a ⁴²	p a ⁴⁴		p a ³²	p ã ⁴²	p a ⁴²	p a ⁴²
-3064-1	?	ts ɔu ⁴²	ts o ⁴²	ts u ³¹		ts o ⁴²	ts ou ⁴²	ts ao ³¹	ts o ⁴²
-3065-1	?	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵		k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 5263-2	x e ⁵⁵	?	x ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	x e ⁵⁵
 452-2	t ɯ ³¹	?	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 4342-2	t ɯ ³¹	?	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
@@ -296,12 +297,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-2	t ɯ ³¹	?	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 1401-2	pʰ ɔ ⁴⁴	?	pʰ o ⁴⁴	pʰ ao ³³	pʰ ao ⁵⁵	pʰ ɔ ⁴⁴	pʰ ɔ ⁴⁴	pʰ u ⁴⁴	pʰ o ⁴⁴
 6496-2	tsʰ ɯ ³¹	?	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɿ ⁵⁵	tsʰ ɯ ³¹	tsʰ ou ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹
+1064-2	n a ³⁵	?	l a ³⁵	l a ⁴⁴	l ao ³¹	l a ³⁵	l a ³⁵	l a ³⁵	l a ³⁵
 1065-2	ts ɿ ³¹	?	ts ɿ ³³	ts ɯ ³³	z i ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³³
 6617-2	t ɔ ²¹	?	t ou ²¹	t w ɔ ³¹	t ɤ ³¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹
 4367-2	t a ²¹	?	t a ²¹	t a ²¹	t ao ²¹	t a ²¹	t a ²¹	t a ²¹	t a ²¹
 4378-2	ɕ y ⁵⁵	?	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵
 4379-2	l i ⁵⁵	?	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵
-2519-2	tsʰ ɔ ³³	?	tsʰ u ³³	tsʰ u ³³	tʃʰ ʊ ⁴⁴	tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 3984-2	ʂ ɛ ³³	?	s ɛ̃ ³³	s ɛ̃ ³³	ʂ ɛ̃ ³³	s ɛ ³³	s ɛ̃ ³³	s ɛ ³³	s ɛ ²¹
 5086-2	ts ɤ ³³	?	ts ɤ̃ ³³	ts õ ⁴⁴	tɕ ɔ̃ ³¹	ts ɤ ³³	tsʰ u ³³	dz ɯ ³³	ts ɤ ³³
 3333-2	ʂ e ⁴⁴	?	s e ⁴⁴	s e ⁴⁴	ʂ ɛ ⁴⁴	s e ⁴⁴	s e ⁴⁴	s ɛ ⁴⁴	s e ⁴⁴
@@ -329,16 +330,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-2	ɕ i ⁵⁵	?	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	s ẽ ⁵⁵	ɕ i ³⁵	ɕ ĩ ⁵⁵	s e ⁵⁵	ɕ i ³⁵
 3462-2	k a ³⁵	?	k ã ⁵⁵	k ã ⁵⁵	q ɔ̃ ⁵⁵	k a ³⁵	k ã ⁵⁵	k a ³⁵	k a ³⁵
 1932-2	s ɿ ³³	?	s ɿ ³³	s ɛ ³³	ʂ ʅ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³
+6469-2	s ɿ ⁵⁵	?	s ou ²¹	s o ³¹	ʂ æ ³³	s ɿ ³³	s ɿ ³¹	s ɿ ³¹	s ɿ ³³
 4454-2	ɲ i ²¹	?	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 4455-2	kʲ ɛ ³⁵	?	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	q ao ⁵⁵	k ɛ ³⁵	k ɛ̃ ³⁵	k ɛ ³⁵	kʲ ɛ ³⁵
 6926-2	ɲ ɤ ³³	?	j ɤ̃ ³³	j ɯ̃ ³³	n ɛ ⁴⁴	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
 6927-2	ɲ i ²¹	?	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 3916-2	m ɔ ³³	?	m o ³³	m ɔ̃ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³
+6822-2	ɲ i ²¹	?	j ĩ ²¹	j ĩ ²¹	n ɛ ³¹	ɲ i ²¹	n i ³¹	ɲ i ²¹	ɲ i ²¹
 5417-2	ts ɿ ³³	?	ts ɿ ³³	ts ɿ ³³	tɕ i ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³
 1959-2	x a ³¹	?	x a ³¹	x ã ⁴⁴	x ã ³³	x ɔ ³¹	x ɛ̃ ³¹	x a ³¹	x ɔ ³¹
 1960-2	t ɤ ⁵⁵	?	t ɤ ⁵⁵	t o ⁵⁵	t ɤ ⁵⁵	t ɤ ³⁵	t ɛ ³⁵	t ɤ ⁵⁵	t ɤ ³⁵
 2899-2	x ɔ ²¹	?	x ou ²¹	x o ³¹	x ɔ ⁴²	x ɔ ²¹	x ɔ ²¹	x ao ²¹	x ɔ ³¹
 3651-2	ts ɿ ³³	?	ts ɿ ³³	ts ɯ̃ ³³	ʐ ʅ ³³	ts ɿ ³³	z ɿ ³³	dz ɿ ³³	ts ɿ ³³
+811-2	k u ²¹	?	k u ²¹	k w ɔ ³¹	q ẽ ⁵⁵	k u ²¹	k u ²¹	k u ²¹	k u ²¹
 1633-2	m e ²¹	?	m e ²¹	m ẽ ²¹	m æ ²¹	m e ²¹	m e ²¹	m ɛ ²¹	m e ²¹
 1775-2	k ɤ ³¹	?	k õ ²¹	k ɔ̃ ³¹	q ɔ ²¹	k ɤ ²¹	k ou ⁵⁵	k ɤ ³¹	k u ²¹
 5801-2	kʲ ɛ ⁴²	?	k ɛ ⁴²	k ɛ ⁴⁴	k a ⁴²	k j ɛ ⁴²	kʲ ɛ ⁴²	k ɛ ⁴²	kʲ ɛ ³²
@@ -447,6 +451,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-2	t w e ³³	?	t w ẽ ³³	t w ẽ ⁴⁴	d y ³³	t w e ³³	t w ẽ ³³	t w e ³³	t w e ³³
 3973-2	tɕ i ³⁵	?	tɕ i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ⁵⁵
 2046-2	ɕ u ³³	?	ɕ o ³³	ɕ ɔ ⁴⁴	ɕ o ³³	ɕ o ³³	ɕ u ³³	ɕ u ³³	ɕ o ³³
+5622-2	ɕ ɛ ⁵⁵	?	ɕ ɛ̃ ⁵⁵	ɕ j ɛ̃ ⁵⁵	ɕ ã ³³	ɕ ɛ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵
 648-2	tɕʰ ɛ ⁵⁵	?	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ã ⁴⁴	tsʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵
 6789-2	p ɛ ⁴²	?	p ɛ ⁴²	p æ ⁴²	p a ⁴⁴	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²
 618-2	x ɯ ⁴⁴	?	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁵⁵	x ɯ ⁴⁴	x ou ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴
@@ -460,11 +465,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-2	x ɛ ⁵⁵	?	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 1764-2	ts ɔ ³³	?	tsʰ u ³³	ts u ³³	tɕ y ³³	tʃ u ³³	z u ³³	ts u ³³	ts u ³³
 3270-2	m e ³³	?	m e ³³	m e ⁴⁴	m ẽ ³³	m e ³³	m e ³³	m e ³³	m e ³³
+1884-2	kʲ i ⁴²	?	k ɛ ⁴²	k ɛ ³³	q a ⁵⁵	k j ɛ ⁴⁴	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²
 1203-2	k ɯ ³⁵	?	k ɯ ⁵⁵	k ɯ ⁴⁴	k ɯ ⁵⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 6645-2	w e ³⁵	?	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w e ³⁵	w ẽ ³⁵	w ɛ ⁴⁴	w ɛ ³⁵
 608-2	kʰ u ³³	?	kʰ u ³³	kʰ u ⁴⁴	qʰ ɤ ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³
 2889-2	tɕʰ i ⁵⁵	?	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tsʰ ẽ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
-4110-2	ɲ i ⁴⁴	?	j ɯ̃ ³³	j ɯ ⁴⁴	ɲ i ³³	ɲ i ⁴⁴	n i ⁴⁴	ɲ i ⁴⁴	ɲ ɯ ⁴⁴
 5350-2	ʈʂʰ u ³¹	?	tsʰ u ³¹	tsʰ u ³¹	ʈʰ ɤ ⁴²	tʃʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹
 6158-2	kʰ a ⁴⁴	?	kʰ a ⁴⁴	kʰ a ⁴⁴	qʰ a ⁵⁵	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴
 4306-2	s ɤ ³¹	?	s ɤ̃ ³¹	s ɔ̃ ³¹	s õ ³¹	s ɿ ³¹	ɕ ɛ̃ ³¹	s ɿ ³¹	s ɤ ³¹
@@ -483,7 +488,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 118-2	k w a ⁴⁴	?	k w a ⁴⁴	k w a ⁴⁴	q w a ⁵⁵	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴
 2866-2	m ɛ ³³	?	m ɛ ³³	m ɛ ³³	m ɔ̃ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³
 64-2	kʰ ɔ ³³	?	kʰ ou ³³	kʰ u ³³	qʰ ɔ ³¹	ɔ ³³	kʰ w ɔ ³³	kʰ ɔ ³³	kʰ w ɔ ³³
-53-2	t e ³³	?	t ĩ ³³	t j ɛ̃ ³³	t o ⁵⁵	t o ⁴⁴	t ĩ ³³	t i ³³	t o ³³
 43-2	kʰ ɔ ⁵⁵	?	kʰ õ ⁵⁵	kʰ ɔ̃ ⁵⁵	kʰ ɤ̃ ⁵⁵	kʰ o ⁵⁵	kʰ ã ⁵⁵	kʰ ɔ ⁵⁵	kʰ o ⁵⁵
 128-2	ŋ ɔ ³¹	?	ŋ o ³¹	ŋ ɔ̃ ³¹	ɴ ɔ ⁴²	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹
 7023-2	n ɔ ³¹	?	n o ³¹	n ɔ ³¹	n ɔ ⁴⁴	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹
@@ -496,7 +500,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2649-2	l ɔ ⁴⁴	?	l o ⁴⁴	l ɔ ⁴⁴	l a ³³	l ɔ ⁵⁵	l ɔ ⁵⁵	l ao ⁴⁴	l ɔ ⁵⁵
 6242-2	l ɔ ²¹	?	l ou ²¹	l ao ²¹	l ao ³¹	l ɔ ²¹	l o ²¹	l ao ²¹	l ɔ ²¹
 3943-2	ʂ ɤ ³³	?	s ɤ ³³	s u ³³	ʂ u ³³	s ɤ ³³	ɕ ɛ ⁴⁴	ʃ ɤ ³³	s ɤ ³²
+1026-2	kʲ e ³⁵	?	k e ⁵⁵	k ẽ ⁵⁵	q ɛ̃ ³⁵	k e ³⁵	kʲ e ³⁵	k e ³⁵	k e ³⁵
 6404-2	k ɯ ⁵⁵	?	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ²¹
+585-2	ts ɔ ⁵⁵	?	ts ou ⁴⁴	ts u ⁵⁵	ts w ɔ ⁵⁵	ts o ⁴⁴	ts ɔ ⁴⁴	ts u ⁴⁴	ts o ⁴⁴
 1731-2	w a ⁴²	?	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴⁴	w a ⁴²
 5510-2	l ɔ ³⁵	?	l a ⁵⁵	l a ⁵⁵	l ɔ ⁵⁵	l ɔ ³⁵	l a ³⁵	l ɔ ⁵⁵	l ɔ ³⁵
 5360-2	kʰ ɤ ³³	?	kʰ ɤ ³³	kʰ w ɛ ³³	tɕʰ ɛ̃ ³³	kʰ ɤ ³³	kʰ ɛ ³³	kʰ ɤ ³³	kʰ ɤ ³³
@@ -519,9 +525,10 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 869-2	k ɤ ²¹	?	k ɤ ²¹	k ɔ ²¹	k ɤ ³¹	k ɤ ²¹	k ɯ ²¹	k ɤ ²¹	k ɤ ²¹
 2745-2	s ɯ ³³	?	s ɿ ³³	s ɿ ⁴⁴	s ɿ ³³	s ɿ ³³	s ɤ ³⁵	s ɿ ³³	s ɿ ³³
 4690-2	k w a ⁵⁵	?	k w a ⁵⁵	k w ã ⁵⁵		k w a ³³	k w a ⁵⁵	k w a ⁵⁵	k w a ³⁵
-1066-2		?	l a ³⁵	l a ⁴⁴	l ao ³¹	l a ³⁵	l a ³⁵	l a ³⁵	l a ³⁵
 4423-2	s u ³⁵	?	s u ⁵⁵	s u ⁵⁵	ɕ o ⁵⁵		s u ³⁵	s u ³⁵	s u ³⁵
+5380-2	s w e ⁴⁴	?	s w e ⁴⁴	s w e ⁴⁴	s w ɛ ⁵⁵		s w e ⁴⁴	ɕ ɥ ɛ ⁴⁴	s w e ⁴⁴
 4436-2	ts ɿ ²¹	?	ts ɿ ²¹	ts ɯ ⁴⁴	ɖʐ ʅ̃ ³³	ts ɿ ²¹	ts ɿ ²¹		ts ɿ ²¹
+2519-2	tsʰ ɔ ³³	?	tsʰ u ³³	tsʰ u ³³		tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 4975-2	m e ⁴²	?	m i ⁴⁴	m i ⁵⁵	m ɛ ⁴⁴	m i ⁴⁴	m e ³¹		m i ⁴⁴
 4548-2	w a ⁴²	?	w a ⁴²	w a ⁴²		w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²
 4397-2	p e ²¹	?	p e ²¹	p e ²¹		p e ²¹	p e ²¹	p e ²¹	p e ²¹
@@ -538,11 +545,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3615-2	pʰ j a ⁴⁴	?	pʰ j a ⁴⁴	pʰ j a ⁴²		pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴
 4197-2	k u ³³	?	k u ³³	k u ³³		k u ³³	k u ³³	k u ³³	k u ³³
 4198-2	ɲ i ²¹	?	j ĩ ²¹	j ĩ ²¹		ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
-196-2	p ɔ ³⁵	?	p o ⁵⁵	p u ⁵⁵	p ɤ ⁵⁵	p ɔ ³⁵		p ao ³³	p ɔ ³⁵
 1474-2	ɲ ɤ ³³	?	j ɤ̃ ³³		ɲ ʊ̃ ³³	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
-6531-2	j ɯ ⁴⁴	?	j ɯ ⁴⁴	j ɯ ⁴⁴		ɣ ɯ ⁴⁴	j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
+6531-2	j ɯ ⁴⁴	?	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɔ ³¹		j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
 4954-2	tʰ ɔ ³³	?	tʰ u ³³	tʰ u ³³		tʰ u ³³	tʰ u ³³	tʰ u ³³	tʰ u ³³
-811-2	k u ²¹	?	k u ²¹		q ẽ ⁵⁵	k u ²¹	k u ²¹	k u ²¹	k u ²¹
 4517-2	ʈʂ ɯ ³³	?	ts ɯ ³³	ts ɯ ³³	ɖ ɯ ³³	ts ɯ ³³		dz ɯ ³³	ts ɯ ³³
 1173-2	j i ³⁵	?	j i ⁵⁵	j i ⁵⁵		j i ³⁵	j i ³⁵	j i ³⁵	j i ³⁵
 6365-2	k w a ³⁵	?	k w ã ⁵⁵	k w ã ⁴⁴		k w a ³⁵	k w ã ³⁵	k w a ³⁵	k w a ³⁵
@@ -558,14 +563,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1298-2	x ɛ ⁵⁵	?	x ɛ ⁵⁵	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 784-2	tsʰ a ⁵⁵	?	tsʰ ã ⁵⁵	tsʰ ã ⁴⁴		tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵
 3596-2	t ɯ ³¹	?	t ɯ ²¹	t ɯ̃ ⁴²		t ɯ ²¹	t ou ²¹	t ɯ ³¹	t ɯ ³¹
-6506-2	j ɯ ²¹	?	j ɯ ²¹	j ɯ ²¹		ɣ ɯ ²¹	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹
 1799-2	tɕ i ³¹	?	tɕ i ³¹	tɕ i ³¹	tɕ ĩ ⁴⁴	tɕ i ³¹		tɕ i ³¹	tɕ i ³¹
 5007-2	p i ³⁵	?	p ĩ ⁵⁵	p ĩ ⁵⁵		p i ³⁵	p ĩ ³⁵	p i ³⁵	p i ³⁵
 5465-2	x ɛ ⁵⁵	?	x ɛ̃ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵
 170-2	ts ɤ ³³	?	ts ɤ̃ ³³	ts õ ⁴⁴	ts õ ³³	ts ɿ ³³		dz ɿ ³³	ts ɿ ³³
 3150-2	t a ⁵⁵	?	t ã ⁵⁵	t ã ⁵⁵		t a ³⁵	t ã ³⁵	t a ⁵⁵	t a ³⁵
 3780-2	ŋ w e ⁴²	?	w ẽ ⁴²	w ẽ ⁴²		w e ³²	w ẽ ⁴²	ŋ w e ⁴²	w e ³²
-859-2	tʰ ɤ ²¹	?	tʰ ɤ̃ ³¹		tʰ ʊ ³³	tʰ ɤ ²¹	tʰ ɛ̃ ⁴²	tʰ ɤ ²¹	tʰ ɤ ³¹
 403-2	p a ³¹	?	p ã ²¹	p a ²¹		p a ²¹	p ã ³¹	p a ³¹	p a ³¹
 5329-2	kʲ e ⁴²	?	k e ⁴²	k e ⁴²		k e ³²	kʲ i ⁴²	k ɛ ⁴²	k e ⁴²
 1103-2	ʈʂ ɤ ³¹	?	ts ɤ ³¹	ts u ³¹	dʑ y ⁴⁴	ts ɤ ³¹		dz ɤ ³¹	ts ɤ ³¹
@@ -574,8 +577,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5925-2	ʈʂ ɛ ³⁵	?	ts ɿ ⁵⁵	ts ɿ ⁴⁴	t ɯ ⁵⁵	ts ɛ ³⁵	ts ɛ ³⁵		ts e ³⁵
 5926-2	ts ɿ ³³	?	ts ɿ ³³	ts ɿ ³³		ts ɿ ³³	ts o ³³	ts ɿ ³³	ts ɿ ³³
 5723-2	p a ⁴²	?	p a ⁴²	p a ⁴⁴		p a ³²	p ã ⁴²	p a ⁴²	p a ⁴²
-3064-2	ʈʂ ɔ ⁴²	?	ts o ⁴²	ts u ³¹		ts o ⁴²	ts ou ⁴²	ts ao ³¹	ts o ⁴²
-3065-2	kʰ ɯ ³⁵	?	k ɯ ⁵⁵	k ɯ ⁵⁵		k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 5263-3	x e ⁵⁵	xʰ ẽ ⁵⁵	?	x ẽ ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	x e ⁵⁵
 452-3	t ɯ ³¹	t ɯ ³¹	?	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 4342-3	t ɯ ³¹	t ɯ ³¹	?	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
@@ -583,12 +584,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-3	t ɯ ³¹	t ɯ ³¹	?	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 1401-3	pʰ ɔ ⁴⁴	pʰ ɔu ⁴⁴	?	pʰ ao ³³	pʰ ao ⁵⁵	pʰ ɔ ⁴⁴	pʰ ɔ ⁴⁴	pʰ u ⁴⁴	pʰ o ⁴⁴
 6496-3	tsʰ ɯ ³¹	tsʰ ɯ ³¹	?	tsʰ ɯ ³¹	tsʰ ɿ ⁵⁵	tsʰ ɯ ³¹	tsʰ ou ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹
+1064-3	n a ³⁵	l a ³⁵	?	l a ⁴⁴	l ao ³¹	l a ³⁵	l a ³⁵	l a ³⁵	l a ³⁵
 1065-3	ts ɿ ³¹	ts ɿ ³³	?	ts ɯ ³³	z i ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³³
 6617-3	t ɔ ²¹	t ɔ ²¹	?	t w ɔ ³¹	t ɤ ³¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹
 4367-3	t a ²¹	t a ²¹	?	t a ²¹	t ao ²¹	t a ²¹	t a ²¹	t a ²¹	t a ²¹
 4378-3	ɕ y ⁵⁵	ɕ y ⁵⁵	?	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵
 4379-3	l i ⁵⁵	l i ⁵⁵	?	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵
-2519-3	tsʰ ɔ ³³	tsʰ u ³³	?	tsʰ u ³³	tʃʰ ʊ ⁴⁴	tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 3984-3	ʂ ɛ ³³	sʰ ɿ ³³	?	s ɛ̃ ³³	ʂ ɛ̃ ³³	s ɛ ³³	s ɛ̃ ³³	s ɛ ³³	s ɛ ²¹
 5086-3	ts ɤ ³³	ts w ɔ̃ ³³	?	ts õ ⁴⁴	tɕ ɔ̃ ³¹	ts ɤ ³³	tsʰ u ³³	dz ɯ ³³	ts ɤ ³³
 3333-3	ʂ e ⁴⁴	sʰ e ⁴⁴	?	s e ⁴⁴	ʂ ɛ ⁴⁴	s e ⁴⁴	s e ⁴⁴	s ɛ ⁴⁴	s e ⁴⁴
@@ -616,16 +617,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-3	ɕ i ⁵⁵	ɕʰ ĩ ⁵⁵	?	ɕ ĩ ⁵⁵	s ẽ ⁵⁵	ɕ i ³⁵	ɕ ĩ ⁵⁵	s e ⁵⁵	ɕ i ³⁵
 3462-3	k a ³⁵	k ã ⁵⁵	?	k ã ⁵⁵	q ɔ̃ ⁵⁵	k a ³⁵	k ã ⁵⁵	k a ³⁵	k a ³⁵
 1932-3	s ɿ ³³	s ɿ ³³	?	s ɛ ³³	ʂ ʅ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³
+6469-3	s ɿ ⁵⁵	sʰ ɔu ³¹	?	s o ³¹	ʂ æ ³³	s ɿ ³³	s ɿ ³¹	s ɿ ³¹	s ɿ ³³
 4454-3	ɲ i ²¹	j ĩ ²¹	?	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 4455-3	kʲ ɛ ³⁵	k ɛ̃ ³⁵	?	k ɛ̃ ⁵⁵	q ao ⁵⁵	k ɛ ³⁵	k ɛ̃ ³⁵	k ɛ ³⁵	kʲ ɛ ³⁵
 6926-3	ɲ ɤ ³³	j õ ³³	?	j ɯ̃ ³³	n ɛ ⁴⁴	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
 6927-3	ɲ i ²¹	j ĩ ²¹	?	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 3916-3	m ɔ ³³	m ɔu ³³	?	m ɔ̃ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³
+6822-3	ɲ i ²¹	t j ɯ ²¹	?	j ĩ ²¹	n ɛ ³¹	ɲ i ²¹	n i ³¹	ɲ i ²¹	ɲ i ²¹
 5417-3	ts ɿ ³³	ts ɿ ³³	?	ts ɿ ³³	tɕ i ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³
 1959-3	x a ³¹	xʰ ɔu ³¹	?	x ã ⁴⁴	x ã ³³	x ɔ ³¹	x ɛ̃ ³¹	x a ³¹	x ɔ ³¹
 1960-3	t ɤ ⁵⁵	t w ɔ̃ ³⁵	?	t o ⁵⁵	t ɤ ⁵⁵	t ɤ ³⁵	t ɛ ³⁵	t ɤ ⁵⁵	t ɤ ³⁵
 2899-3	x ɔ ²¹	xʰ ɔu ³¹	?	x o ³¹	x ɔ ⁴²	x ɔ ²¹	x ɔ ²¹	x ao ²¹	x ɔ ³¹
 3651-3	ts ɿ ³³	ts ɿ ³³	?	ts ɯ̃ ³³	ʐ ʅ ³³	ts ɿ ³³	z ɿ ³³	dz ɿ ³³	ts ɿ ³³
+811-3	k u ²¹	k u ²¹	?	k w ɔ ³¹	q ẽ ⁵⁵	k u ²¹	k u ²¹	k u ²¹	k u ²¹
 1633-3	m e ²¹	m e ²¹	?	m ẽ ²¹	m æ ²¹	m e ²¹	m e ²¹	m ɛ ²¹	m e ²¹
 1775-3	k ɤ ³¹	k ɔ̃u ⁴²	?	k ɔ̃ ³¹	q ɔ ²¹	k ɤ ²¹	k ou ⁵⁵	k ɤ ³¹	k u ²¹
 5801-3	kʲ ɛ ⁴²	k ɛ ⁴²	?	k ɛ ⁴⁴	k a ⁴²	k j ɛ ⁴²	kʲ ɛ ⁴²	k ɛ ⁴²	kʲ ɛ ³²
@@ -734,6 +738,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-3	t w e ³³	t w ẽ ³³	?	t w ẽ ⁴⁴	d y ³³	t w e ³³	t w ẽ ³³	t w e ³³	t w e ³³
 3973-3	tɕ i ³⁵	tɕ i ⁵⁵	?	tɕ i ⁵⁵	t i ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ⁵⁵
 2046-3	ɕ u ³³	ɕ u ³³	?	ɕ ɔ ⁴⁴	ɕ o ³³	ɕ o ³³	ɕ u ³³	ɕ u ³³	ɕ o ³³
+5622-3	ɕ ɛ ⁵⁵	ɕʰ ɛ̃ ⁵⁵	?	ɕ j ɛ̃ ⁵⁵	ɕ ã ³³	ɕ ɛ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵
 648-3	tɕʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	?	tɕʰ ɛ̃ ⁵⁵	tɕʰ ã ⁴⁴	tsʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵
 6789-3	p ɛ ⁴²	p ɛ ⁴²	?	p æ ⁴²	p a ⁴⁴	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²
 618-3	x ɯ ⁴⁴	x ɯ ⁴⁴	?	x ɯ ⁴⁴	x ɯ ⁵⁵	x ɯ ⁴⁴	x ou ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴
@@ -747,11 +752,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-3	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	?	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 1764-3	ts ɔ ³³	ts u ³³	?	ts u ³³	tɕ y ³³	tʃ u ³³	z u ³³	ts u ³³	ts u ³³
 3270-3	m e ³³	m e ³³	?	m e ⁴⁴	m ẽ ³³	m e ³³	m e ³³	m e ³³	m e ³³
+1884-3	kʲ i ⁴²	k ɛ ⁴²	?	k ɛ ³³	q a ⁵⁵	k j ɛ ⁴⁴	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²
 1203-3	k ɯ ³⁵	k ɯ ⁵⁵	?	k ɯ ⁴⁴	k ɯ ⁵⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 6645-3	w e ³⁵	w ẽ ⁵⁵	?	w ẽ ⁵⁵	w ẽ ⁵⁵	w e ³⁵	w ẽ ³⁵	w ɛ ⁴⁴	w ɛ ³⁵
 608-3	kʰ u ³³	kʰ u ³³	?	kʰ u ⁴⁴	qʰ ɤ ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³
 2889-3	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	?	tɕʰ ĩ ⁵⁵	tsʰ ẽ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
-4110-3	ɲ i ⁴⁴	j ĩ ⁴⁴	?	j ɯ ⁴⁴	ɲ i ³³	ɲ i ⁴⁴	n i ⁴⁴	ɲ i ⁴⁴	ɲ ɯ ⁴⁴
 5350-3	ʈʂʰ u ³¹	tsʰ u ³¹	?	tsʰ u ³¹	ʈʰ ɤ ⁴²	tʃʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹
 6158-3	kʰ a ⁴⁴	kʰ a ⁴⁴	?	kʰ a ⁴⁴	qʰ a ⁵⁵	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴
 4306-3	s ɤ ³¹	sʰ w ɔ̃ ³¹	?	s ɔ̃ ³¹	s õ ³¹	s ɿ ³¹	ɕ ɛ̃ ³¹	s ɿ ³¹	s ɤ ³¹
@@ -770,7 +775,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 118-3	k w a ⁴⁴	k w a ⁴⁴	?	k w a ⁴⁴	q w a ⁵⁵	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴
 2866-3	m ɛ ³³	m ɛ ³³	?	m ɛ ³³	m ɔ̃ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³
 64-3	kʰ ɔ ³³	kʰ w ɔ ³³	?	kʰ u ³³	qʰ ɔ ³¹	ɔ ³³	kʰ w ɔ ³³	kʰ ɔ ³³	kʰ w ɔ ³³
-53-3	t e ³³	t j ɛ ³³	?	t j ɛ̃ ³³	t o ⁵⁵	t o ⁴⁴	t ĩ ³³	t i ³³	t o ³³
 43-3	kʰ ɔ ⁵⁵	kʰ ɔu ⁵⁵	?	kʰ ɔ̃ ⁵⁵	kʰ ɤ̃ ⁵⁵	kʰ o ⁵⁵	kʰ ã ⁵⁵	kʰ ɔ ⁵⁵	kʰ o ⁵⁵
 128-3	ŋ ɔ ³¹	ŋ ɔ ³¹	?	ŋ ɔ̃ ³¹	ɴ ɔ ⁴²	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹
 7023-3	n ɔ ³¹	n ɔ ³¹	?	n ɔ ³¹	n ɔ ⁴⁴	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹
@@ -783,7 +787,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2649-3	l ɔ ⁴⁴	l ou ³³	?	l ɔ ⁴⁴	l a ³³	l ɔ ⁵⁵	l ɔ ⁵⁵	l ao ⁴⁴	l ɔ ⁵⁵
 6242-3	l ɔ ²¹	l ɔ ²¹	?	l ao ²¹	l ao ³¹	l ɔ ²¹	l o ²¹	l ao ²¹	l ɔ ²¹
 3943-3	ʂ ɤ ³³	s w ɔ ³³	?	s u ³³	ʂ u ³³	s ɤ ³³	ɕ ɛ ⁴⁴	ʃ ɤ ³³	s ɤ ³²
+1026-3	kʲ e ³⁵	k e ³⁵	?	k ẽ ⁵⁵	q ɛ̃ ³⁵	k e ³⁵	kʲ e ³⁵	k e ³⁵	k e ³⁵
 6404-3	k ɯ ⁵⁵	k u ⁵⁵	?	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ²¹
+585-3	ts ɔ ⁵⁵	ts ou ⁴⁴	?	ts u ⁵⁵	ts w ɔ ⁵⁵	ts o ⁴⁴	ts ɔ ⁴⁴	ts u ⁴⁴	ts o ⁴⁴
 1731-3	w a ⁴²	w a ⁴²	?	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴⁴	w a ⁴²
 5510-3	l ɔ ³⁵	l a ⁵⁵	?	l a ⁵⁵	l ɔ ⁵⁵	l ɔ ³⁵	l a ³⁵	l ɔ ⁵⁵	l ɔ ³⁵
 5360-3	kʰ ɤ ³³	kʰ w ɔ ³³	?	kʰ w ɛ ³³	tɕʰ ɛ̃ ³³	kʰ ɤ ³³	kʰ ɛ ³³	kʰ ɤ ³³	kʰ ɤ ³³
@@ -806,9 +812,10 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 869-3	k ɤ ²¹	k w ɔ ²¹	?	k ɔ ²¹	k ɤ ³¹	k ɤ ²¹	k ɯ ²¹	k ɤ ²¹	k ɤ ²¹
 2745-3	s ɯ ³³	s ɿ ³³	?	s ɿ ⁴⁴	s ɿ ³³	s ɿ ³³	s ɤ ³⁵	s ɿ ³³	s ɿ ³³
 4690-3	k w a ⁵⁵	k w a ⁵⁵	?	k w ã ⁵⁵		k w a ³³	k w a ⁵⁵	k w a ⁵⁵	k w a ³⁵
-1066-3		l a ³⁵	?	l a ⁴⁴	l ao ³¹	l a ³⁵	l a ³⁵	l a ³⁵	l a ³⁵
 4423-3	s u ³⁵	s u ⁵⁵	?	s u ⁵⁵	ɕ o ⁵⁵		s u ³⁵	s u ³⁵	s u ³⁵
+5380-3	s w e ⁴⁴	sʰ w e ⁴⁴	?	s w e ⁴⁴	s w ɛ ⁵⁵		s w e ⁴⁴	ɕ ɥ ɛ ⁴⁴	s w e ⁴⁴
 4436-3	ts ɿ ²¹	ts ɿ ²¹	?	ts ɯ ⁴⁴	ɖʐ ʅ̃ ³³	ts ɿ ²¹	ts ɿ ²¹		ts ɿ ²¹
+2519-3	tsʰ ɔ ³³	tsʰ u ³³	?	tsʰ u ³³		tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 4975-3	m e ⁴²	m i ⁴⁴	?	m i ⁵⁵	m ɛ ⁴⁴	m i ⁴⁴	m e ³¹		m i ⁴⁴
 4548-3	w a ⁴²	w a ⁴²	?	w a ⁴²		w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²
 4397-3	p e ²¹	p e ²¹	?	p e ²¹		p e ²¹	p e ²¹	p e ²¹	p e ²¹
@@ -828,11 +835,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3615-3	pʰ j a ⁴⁴	pʰ j a ⁴⁴	?	pʰ j a ⁴²		pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴
 4197-3	k u ³³	k u ³³	?	k u ³³		k u ³³	k u ³³	k u ³³	k u ³³
 4198-3	ɲ i ²¹	j ĩ ²¹	?	j ĩ ²¹		ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
-196-3	p ɔ ³⁵	p ɔu ³⁵	?	p u ⁵⁵	p ɤ ⁵⁵	p ɔ ³⁵		p ao ³³	p ɔ ³⁵
 1474-3	ɲ ɤ ³³	j ɔ̃ ³³	?		ɲ ʊ̃ ³³	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
-6531-3	j ɯ ⁴⁴	j ɯ ⁴⁴	?	j ɯ ⁴⁴		ɣ ɯ ⁴⁴	j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
+6531-3	j ɯ ⁴⁴	j ɯ ⁴⁴	?	j ɯ ⁴⁴	j ɔ ³¹		j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
 4954-3	tʰ ɔ ³³	tʰ u ³³	?	tʰ u ³³		tʰ u ³³	tʰ u ³³	tʰ u ³³	tʰ u ³³
-811-3	k u ²¹	k u ²¹	?		q ẽ ⁵⁵	k u ²¹	k u ²¹	k u ²¹	k u ²¹
 4517-3	ʈʂ ɯ ³³	ts ɯ ³³	?	ts ɯ ³³	ɖ ɯ ³³	ts ɯ ³³		dz ɯ ³³	ts ɯ ³³
 1173-3	j i ³⁵	j i ³⁵	?	j i ⁵⁵		j i ³⁵	j i ³⁵	j i ³⁵	j i ³⁵
 6365-3	k w a ³⁵	k w ã ⁵⁵	?	k w ã ⁴⁴		k w a ³⁵	k w ã ³⁵	k w a ³⁵	k w a ³⁵
@@ -848,7 +853,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1298-3	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	?	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 784-3	tsʰ a ⁵⁵	tsʰ ã ⁵⁵	?	tsʰ ã ⁴⁴		tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵
 3596-3	t ɯ ³¹	t ɯ ³¹	?	t ɯ̃ ⁴²		t ɯ ²¹	t ou ²¹	t ɯ ³¹	t ɯ ³¹
-6506-3	j ɯ ²¹	j ɯ ²¹	?	j ɯ ²¹		ɣ ɯ ²¹	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹
 1799-3	tɕ i ³¹	tɕ i ³¹	?	tɕ i ³¹	tɕ ĩ ⁴⁴	tɕ i ³¹		tɕ i ³¹	tɕ i ³¹
 5007-3	p i ³⁵	p ĩ ³⁵	?	p ĩ ⁵⁵		p i ³⁵	p ĩ ³⁵	p i ³⁵	p i ³⁵
 5465-3	x ɛ ⁵⁵	x ɛ̃ ³⁵	?	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵
@@ -856,7 +860,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3150-3	t a ⁵⁵	t ã ⁵⁵	?	t ã ⁵⁵		t a ³⁵	t ã ³⁵	t a ⁵⁵	t a ³⁵
 3780-3	ŋ w e ⁴²	w ɛ ⁴²	?	w ẽ ⁴²		w e ³²	w ẽ ⁴²	ŋ w e ⁴²	w e ³²
 1706-3	kʲ i ³⁵		?	tɕ i ⁵⁵	tɕ ĩ ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵
-859-3	tʰ ɤ ²¹	tʰ ɔ̃ ³¹	?		tʰ ʊ ³³	tʰ ɤ ²¹	tʰ ɛ̃ ⁴²	tʰ ɤ ²¹	tʰ ɤ ³¹
 403-3	p a ³¹	p ã ²¹	?	p a ²¹		p a ²¹	p ã ³¹	p a ³¹	p a ³¹
 5329-3	kʲ e ⁴²	k ɛ ⁴²	?	k e ⁴²		k e ³²	kʲ i ⁴²	k ɛ ⁴²	k e ⁴²
 1103-3	ʈʂ ɤ ³¹	ts w ɔ ³¹	?	ts u ³¹	dʑ y ⁴⁴	ts ɤ ³¹		dz ɤ ³¹	ts ɤ ³¹
@@ -865,8 +868,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5925-3	ʈʂ ɛ ³⁵	ts ɛ ⁵⁵	?	ts ɿ ⁴⁴	t ɯ ⁵⁵	ts ɛ ³⁵	ts ɛ ³⁵		ts e ³⁵
 5926-3	ts ɿ ³³	ts ɿ ³³	?	ts ɿ ³³		ts ɿ ³³	ts o ³³	ts ɿ ³³	ts ɿ ³³
 5723-3	p a ⁴²	p ã ⁴²	?	p a ⁴⁴		p a ³²	p ã ⁴²	p a ⁴²	p a ⁴²
-3064-3	ʈʂ ɔ ⁴²	ts ɔu ⁴²	?	ts u ³¹		ts o ⁴²	ts ou ⁴²	ts ao ³¹	ts o ⁴²
-3065-3	kʰ ɯ ³⁵	k ɯ ⁵⁵	?	k ɯ ⁵⁵		k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 5263-4	x e ⁵⁵	xʰ ẽ ⁵⁵	x ẽ ⁵⁵	?	x ẽ ⁵⁵	x e ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	x e ⁵⁵
 452-4	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	?	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 4342-4	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	?	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
@@ -874,12 +875,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-4	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	?	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 1401-4	pʰ ɔ ⁴⁴	pʰ ɔu ⁴⁴	pʰ o ⁴⁴	?	pʰ ao ⁵⁵	pʰ ɔ ⁴⁴	pʰ ɔ ⁴⁴	pʰ u ⁴⁴	pʰ o ⁴⁴
 6496-4	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	?	tsʰ ɿ ⁵⁵	tsʰ ɯ ³¹	tsʰ ou ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹
+1064-4	n a ³⁵	l a ³⁵	l a ³⁵	?	l ao ³¹	l a ³⁵	l a ³⁵	l a ³⁵	l a ³⁵
 1065-4	ts ɿ ³¹	ts ɿ ³³	ts ɿ ³³	?	z i ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³³
 6617-4	t ɔ ²¹	t ɔ ²¹	t ou ²¹	?	t ɤ ³¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹
 4367-4	t a ²¹	t a ²¹	t a ²¹	?	t ao ²¹	t a ²¹	t a ²¹	t a ²¹	t a ²¹
 4378-4	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	?	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵
 4379-4	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	?	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵
-2519-4	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	?	tʃʰ ʊ ⁴⁴	tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 3984-4	ʂ ɛ ³³	sʰ ɿ ³³	s ɛ̃ ³³	?	ʂ ɛ̃ ³³	s ɛ ³³	s ɛ̃ ³³	s ɛ ³³	s ɛ ²¹
 5086-4	ts ɤ ³³	ts w ɔ̃ ³³	ts ɤ̃ ³³	?	tɕ ɔ̃ ³¹	ts ɤ ³³	tsʰ u ³³	dz ɯ ³³	ts ɤ ³³
 3333-4	ʂ e ⁴⁴	sʰ e ⁴⁴	s e ⁴⁴	?	ʂ ɛ ⁴⁴	s e ⁴⁴	s e ⁴⁴	s ɛ ⁴⁴	s e ⁴⁴
@@ -907,16 +908,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-4	ɕ i ⁵⁵	ɕʰ ĩ ⁵⁵	ɕ ĩ ⁵⁵	?	s ẽ ⁵⁵	ɕ i ³⁵	ɕ ĩ ⁵⁵	s e ⁵⁵	ɕ i ³⁵
 3462-4	k a ³⁵	k ã ⁵⁵	k ã ⁵⁵	?	q ɔ̃ ⁵⁵	k a ³⁵	k ã ⁵⁵	k a ³⁵	k a ³⁵
 1932-4	s ɿ ³³	s ɿ ³³	s ɿ ³³	?	ʂ ʅ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³
+6469-4	s ɿ ⁵⁵	sʰ ɔu ³¹	s ou ²¹	?	ʂ æ ³³	s ɿ ³³	s ɿ ³¹	s ɿ ³¹	s ɿ ³³
 4454-4	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	?	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 4455-4	kʲ ɛ ³⁵	k ɛ̃ ³⁵	k ɛ̃ ⁵⁵	?	q ao ⁵⁵	k ɛ ³⁵	k ɛ̃ ³⁵	k ɛ ³⁵	kʲ ɛ ³⁵
 6926-4	ɲ ɤ ³³	j õ ³³	j ɤ̃ ³³	?	n ɛ ⁴⁴	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
 6927-4	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	?	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 3916-4	m ɔ ³³	m ɔu ³³	m o ³³	?	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³
+6822-4	ɲ i ²¹	t j ɯ ²¹	j ĩ ²¹	?	n ɛ ³¹	ɲ i ²¹	n i ³¹	ɲ i ²¹	ɲ i ²¹
 5417-4	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	?	tɕ i ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³
 1959-4	x a ³¹	xʰ ɔu ³¹	x a ³¹	?	x ã ³³	x ɔ ³¹	x ɛ̃ ³¹	x a ³¹	x ɔ ³¹
 1960-4	t ɤ ⁵⁵	t w ɔ̃ ³⁵	t ɤ ⁵⁵	?	t ɤ ⁵⁵	t ɤ ³⁵	t ɛ ³⁵	t ɤ ⁵⁵	t ɤ ³⁵
 2899-4	x ɔ ²¹	xʰ ɔu ³¹	x ou ²¹	?	x ɔ ⁴²	x ɔ ²¹	x ɔ ²¹	x ao ²¹	x ɔ ³¹
 3651-4	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	?	ʐ ʅ ³³	ts ɿ ³³	z ɿ ³³	dz ɿ ³³	ts ɿ ³³
+811-4	k u ²¹	k u ²¹	k u ²¹	?	q ẽ ⁵⁵	k u ²¹	k u ²¹	k u ²¹	k u ²¹
 1633-4	m e ²¹	m e ²¹	m e ²¹	?	m æ ²¹	m e ²¹	m e ²¹	m ɛ ²¹	m e ²¹
 1775-4	k ɤ ³¹	k ɔ̃u ⁴²	k õ ²¹	?	q ɔ ²¹	k ɤ ²¹	k ou ⁵⁵	k ɤ ³¹	k u ²¹
 5801-4	kʲ ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴²	?	k a ⁴²	k j ɛ ⁴²	kʲ ɛ ⁴²	k ɛ ⁴²	kʲ ɛ ³²
@@ -1025,6 +1029,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-4	t w e ³³	t w ẽ ³³	t w ẽ ³³	?	d y ³³	t w e ³³	t w ẽ ³³	t w e ³³	t w e ³³
 3973-4	tɕ i ³⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	?	t i ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ⁵⁵
 2046-4	ɕ u ³³	ɕ u ³³	ɕ o ³³	?	ɕ o ³³	ɕ o ³³	ɕ u ³³	ɕ u ³³	ɕ o ³³
+5622-4	ɕ ɛ ⁵⁵	ɕʰ ɛ̃ ⁵⁵	ɕ ɛ̃ ⁵⁵	?	ɕ ã ³³	ɕ ɛ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵
 648-4	tɕʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	?	tɕʰ ã ⁴⁴	tsʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵
 6789-4	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	?	p a ⁴⁴	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²
 618-4	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	?	x ɯ ⁵⁵	x ɯ ⁴⁴	x ou ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴
@@ -1038,11 +1043,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-4	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	?	x ã ⁴⁴	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 1764-4	ts ɔ ³³	ts u ³³	tsʰ u ³³	?	tɕ y ³³	tʃ u ³³	z u ³³	ts u ³³	ts u ³³
 3270-4	m e ³³	m e ³³	m e ³³	?	m ẽ ³³	m e ³³	m e ³³	m e ³³	m e ³³
+1884-4	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²	?	q a ⁵⁵	k j ɛ ⁴⁴	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²
 1203-4	k ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	?	k ɯ ⁵⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 6645-4	w e ³⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	?	w ẽ ⁵⁵	w e ³⁵	w ẽ ³⁵	w ɛ ⁴⁴	w ɛ ³⁵
 608-4	kʰ u ³³	kʰ u ³³	kʰ u ³³	?	qʰ ɤ ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³
 2889-4	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	?	tsʰ ẽ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
-4110-4	ɲ i ⁴⁴	j ĩ ⁴⁴	j ɯ̃ ³³	?	ɲ i ³³	ɲ i ⁴⁴	n i ⁴⁴	ɲ i ⁴⁴	ɲ ɯ ⁴⁴
 5350-4	ʈʂʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	?	ʈʰ ɤ ⁴²	tʃʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹
 6158-4	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	?	qʰ a ⁵⁵	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴
 4306-4	s ɤ ³¹	sʰ w ɔ̃ ³¹	s ɤ̃ ³¹	?	s õ ³¹	s ɿ ³¹	ɕ ɛ̃ ³¹	s ɿ ³¹	s ɤ ³¹
@@ -1061,7 +1066,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 118-4	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	?	q w a ⁵⁵	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴
 2866-4	m ɛ ³³	m ɛ ³³	m ɛ ³³	?	m ɔ̃ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³
 64-4	kʰ ɔ ³³	kʰ w ɔ ³³	kʰ ou ³³	?	qʰ ɔ ³¹	ɔ ³³	kʰ w ɔ ³³	kʰ ɔ ³³	kʰ w ɔ ³³
-53-4	t e ³³	t j ɛ ³³	t ĩ ³³	?	t o ⁵⁵	t o ⁴⁴	t ĩ ³³	t i ³³	t o ³³
 43-4	kʰ ɔ ⁵⁵	kʰ ɔu ⁵⁵	kʰ õ ⁵⁵	?	kʰ ɤ̃ ⁵⁵	kʰ o ⁵⁵	kʰ ã ⁵⁵	kʰ ɔ ⁵⁵	kʰ o ⁵⁵
 128-4	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ o ³¹	?	ɴ ɔ ⁴²	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹
 7023-4	n ɔ ³¹	n ɔ ³¹	n o ³¹	?	n ɔ ⁴⁴	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹
@@ -1074,7 +1078,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2649-4	l ɔ ⁴⁴	l ou ³³	l o ⁴⁴	?	l a ³³	l ɔ ⁵⁵	l ɔ ⁵⁵	l ao ⁴⁴	l ɔ ⁵⁵
 6242-4	l ɔ ²¹	l ɔ ²¹	l ou ²¹	?	l ao ³¹	l ɔ ²¹	l o ²¹	l ao ²¹	l ɔ ²¹
 3943-4	ʂ ɤ ³³	s w ɔ ³³	s ɤ ³³	?	ʂ u ³³	s ɤ ³³	ɕ ɛ ⁴⁴	ʃ ɤ ³³	s ɤ ³²
+1026-4	kʲ e ³⁵	k e ³⁵	k e ⁵⁵	?	q ɛ̃ ³⁵	k e ³⁵	kʲ e ³⁵	k e ³⁵	k e ³⁵
 6404-4	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	?	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ²¹
+585-4	ts ɔ ⁵⁵	ts ou ⁴⁴	ts ou ⁴⁴	?	ts w ɔ ⁵⁵	ts o ⁴⁴	ts ɔ ⁴⁴	ts u ⁴⁴	ts o ⁴⁴
 1731-4	w a ⁴²	w a ⁴²	w a ⁴²	?	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴⁴	w a ⁴²
 5510-4	l ɔ ³⁵	l a ⁵⁵	l a ⁵⁵	?	l ɔ ⁵⁵	l ɔ ³⁵	l a ³⁵	l ɔ ⁵⁵	l ɔ ³⁵
 5360-4	kʰ ɤ ³³	kʰ w ɔ ³³	kʰ ɤ ³³	?	tɕʰ ɛ̃ ³³	kʰ ɤ ³³	kʰ ɛ ³³	kʰ ɤ ³³	kʰ ɤ ³³
@@ -1097,9 +1103,10 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 869-4	k ɤ ²¹	k w ɔ ²¹	k ɤ ²¹	?	k ɤ ³¹	k ɤ ²¹	k ɯ ²¹	k ɤ ²¹	k ɤ ²¹
 2745-4	s ɯ ³³	s ɿ ³³	s ɿ ³³	?	s ɿ ³³	s ɿ ³³	s ɤ ³⁵	s ɿ ³³	s ɿ ³³
 4690-4	k w a ⁵⁵	k w a ⁵⁵	k w a ⁵⁵	?		k w a ³³	k w a ⁵⁵	k w a ⁵⁵	k w a ³⁵
-1066-4		l a ³⁵	l a ³⁵	?	l ao ³¹	l a ³⁵	l a ³⁵	l a ³⁵	l a ³⁵
 4423-4	s u ³⁵	s u ⁵⁵	s u ⁵⁵	?	ɕ o ⁵⁵		s u ³⁵	s u ³⁵	s u ³⁵
+5380-4	s w e ⁴⁴	sʰ w e ⁴⁴	s w e ⁴⁴	?	s w ɛ ⁵⁵		s w e ⁴⁴	ɕ ɥ ɛ ⁴⁴	s w e ⁴⁴
 4436-4	ts ɿ ²¹	ts ɿ ²¹	ts ɿ ²¹	?	ɖʐ ʅ̃ ³³	ts ɿ ²¹	ts ɿ ²¹		ts ɿ ²¹
+2519-4	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	?		tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 4975-4	m e ⁴²	m i ⁴⁴	m i ⁴⁴	?	m ɛ ⁴⁴	m i ⁴⁴	m e ³¹		m i ⁴⁴
 4548-4	w a ⁴²	w a ⁴²	w a ⁴²	?		w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²
 4397-4	p e ²¹	p e ²¹	p e ²¹	?		p e ²¹	p e ²¹	p e ²¹	p e ²¹
@@ -1117,8 +1124,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3615-4	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴	?		pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴
 4197-4	k u ³³	k u ³³	k u ³³	?		k u ³³	k u ³³	k u ³³	k u ³³
 4198-4	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	?		ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
-196-4	p ɔ ³⁵	p ɔu ³⁵	p o ⁵⁵	?	p ɤ ⁵⁵	p ɔ ³⁵		p ao ³³	p ɔ ³⁵
-6531-4	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	?		ɣ ɯ ⁴⁴	j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
+6531-4	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	?	j ɔ ³¹		j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
 4954-4	tʰ ɔ ³³	tʰ u ³³	tʰ u ³³	?		tʰ u ³³	tʰ u ³³	tʰ u ³³	tʰ u ³³
 4517-4	ʈʂ ɯ ³³	ts ɯ ³³	ts ɯ ³³	?	ɖ ɯ ³³	ts ɯ ³³		dz ɯ ³³	ts ɯ ³³
 1173-4	j i ³⁵	j i ³⁵	j i ⁵⁵	?		j i ³⁵	j i ³⁵	j i ³⁵	j i ³⁵
@@ -1135,7 +1141,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1298-4	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	?		x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 784-4	tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁵⁵	?		tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵
 3596-4	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	?		t ɯ ²¹	t ou ²¹	t ɯ ³¹	t ɯ ³¹
-6506-4	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹	?		ɣ ɯ ²¹	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹
 1799-4	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	?	tɕ ĩ ⁴⁴	tɕ i ³¹		tɕ i ³¹	tɕ i ³¹
 5007-4	p i ³⁵	p ĩ ³⁵	p ĩ ⁵⁵	?		p i ³⁵	p ĩ ³⁵	p i ³⁵	p i ³⁵
 5465-4	x ɛ ⁵⁵	x ɛ̃ ³⁵	x ɛ̃ ⁵⁵	?	x ã ⁴⁴	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵
@@ -1151,8 +1156,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5925-4	ʈʂ ɛ ³⁵	ts ɛ ⁵⁵	ts ɿ ⁵⁵	?	t ɯ ⁵⁵	ts ɛ ³⁵	ts ɛ ³⁵		ts e ³⁵
 5926-4	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	?		ts ɿ ³³	ts o ³³	ts ɿ ³³	ts ɿ ³³
 5723-4	p a ⁴²	p ã ⁴²	p a ⁴²	?		p a ³²	p ã ⁴²	p a ⁴²	p a ⁴²
-3064-4	ʈʂ ɔ ⁴²	ts ɔu ⁴²	ts o ⁴²	?		ts o ⁴²	ts ou ⁴²	ts ao ³¹	ts o ⁴²
-3065-4	kʰ ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	?		k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 5263-5	x e ⁵⁵	xʰ ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	?	x e ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	x e ⁵⁵
 452-5	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	?	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 4342-5	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	?	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
@@ -1160,12 +1163,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-5	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	?	t ɯ ³¹	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 1401-5	pʰ ɔ ⁴⁴	pʰ ɔu ⁴⁴	pʰ o ⁴⁴	pʰ ao ³³	?	pʰ ɔ ⁴⁴	pʰ ɔ ⁴⁴	pʰ u ⁴⁴	pʰ o ⁴⁴
 6496-5	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	?	tsʰ ɯ ³¹	tsʰ ou ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹
+1064-5	n a ³⁵	l a ³⁵	l a ³⁵	l a ⁴⁴	?	l a ³⁵	l a ³⁵	l a ³⁵	l a ³⁵
 1065-5	ts ɿ ³¹	ts ɿ ³³	ts ɿ ³³	ts ɯ ³³	?	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³³
 6617-5	t ɔ ²¹	t ɔ ²¹	t ou ²¹	t w ɔ ³¹	?	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹
 4367-5	t a ²¹	t a ²¹	t a ²¹	t a ²¹	?	t a ²¹	t a ²¹	t a ²¹	t a ²¹
 4378-5	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	?	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵
 4379-5	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	?	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵
-2519-5	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³	?	tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 3984-5	ʂ ɛ ³³	sʰ ɿ ³³	s ɛ̃ ³³	s ɛ̃ ³³	?	s ɛ ³³	s ɛ̃ ³³	s ɛ ³³	s ɛ ²¹
 5086-5	ts ɤ ³³	ts w ɔ̃ ³³	ts ɤ̃ ³³	ts õ ⁴⁴	?	ts ɤ ³³	tsʰ u ³³	dz ɯ ³³	ts ɤ ³³
 3333-5	ʂ e ⁴⁴	sʰ e ⁴⁴	s e ⁴⁴	s e ⁴⁴	?	s e ⁴⁴	s e ⁴⁴	s ɛ ⁴⁴	s e ⁴⁴
@@ -1193,16 +1196,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-5	ɕ i ⁵⁵	ɕʰ ĩ ⁵⁵	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	?	ɕ i ³⁵	ɕ ĩ ⁵⁵	s e ⁵⁵	ɕ i ³⁵
 3462-5	k a ³⁵	k ã ⁵⁵	k ã ⁵⁵	k ã ⁵⁵	?	k a ³⁵	k ã ⁵⁵	k a ³⁵	k a ³⁵
 1932-5	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɛ ³³	?	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³
+6469-5	s ɿ ⁵⁵	sʰ ɔu ³¹	s ou ²¹	s o ³¹	?	s ɿ ³³	s ɿ ³¹	s ɿ ³¹	s ɿ ³³
 4454-5	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	?	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 4455-5	kʲ ɛ ³⁵	k ɛ̃ ³⁵	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	?	k ɛ ³⁵	k ɛ̃ ³⁵	k ɛ ³⁵	kʲ ɛ ³⁵
 6926-5	ɲ ɤ ³³	j õ ³³	j ɤ̃ ³³	j ɯ̃ ³³	?	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
 6927-5	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	?	ɲ i ²¹	n i ²¹	ɲ i ²¹	ɲ i ²¹
 3916-5	m ɔ ³³	m ɔu ³³	m o ³³	m ɔ̃ ³³	?	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³
+6822-5	ɲ i ²¹	t j ɯ ²¹	j ĩ ²¹	j ĩ ²¹	?	ɲ i ²¹	n i ³¹	ɲ i ²¹	ɲ i ²¹
 5417-5	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	?	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³
 1959-5	x a ³¹	xʰ ɔu ³¹	x a ³¹	x ã ⁴⁴	?	x ɔ ³¹	x ɛ̃ ³¹	x a ³¹	x ɔ ³¹
 1960-5	t ɤ ⁵⁵	t w ɔ̃ ³⁵	t ɤ ⁵⁵	t o ⁵⁵	?	t ɤ ³⁵	t ɛ ³⁵	t ɤ ⁵⁵	t ɤ ³⁵
 2899-5	x ɔ ²¹	xʰ ɔu ³¹	x ou ²¹	x o ³¹	?	x ɔ ²¹	x ɔ ²¹	x ao ²¹	x ɔ ³¹
 3651-5	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɯ̃ ³³	?	ts ɿ ³³	z ɿ ³³	dz ɿ ³³	ts ɿ ³³
+811-5	k u ²¹	k u ²¹	k u ²¹	k w ɔ ³¹	?	k u ²¹	k u ²¹	k u ²¹	k u ²¹
 1633-5	m e ²¹	m e ²¹	m e ²¹	m ẽ ²¹	?	m e ²¹	m e ²¹	m ɛ ²¹	m e ²¹
 1775-5	k ɤ ³¹	k ɔ̃u ⁴²	k õ ²¹	k ɔ̃ ³¹	?	k ɤ ²¹	k ou ⁵⁵	k ɤ ³¹	k u ²¹
 5801-5	kʲ ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴⁴	?	k j ɛ ⁴²	kʲ ɛ ⁴²	k ɛ ⁴²	kʲ ɛ ³²
@@ -1311,6 +1317,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-5	t w e ³³	t w ẽ ³³	t w ẽ ³³	t w ẽ ⁴⁴	?	t w e ³³	t w ẽ ³³	t w e ³³	t w e ³³
 3973-5	tɕ i ³⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	?	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ⁵⁵
 2046-5	ɕ u ³³	ɕ u ³³	ɕ o ³³	ɕ ɔ ⁴⁴	?	ɕ o ³³	ɕ u ³³	ɕ u ³³	ɕ o ³³
+5622-5	ɕ ɛ ⁵⁵	ɕʰ ɛ̃ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ j ɛ̃ ⁵⁵	?	ɕ ɛ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵
 648-5	tɕʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	?	tsʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵
 6789-5	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p æ ⁴²	?	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²
 618-5	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	?	x ɯ ⁴⁴	x ou ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴
@@ -1324,11 +1331,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-5	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	?	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 1764-5	ts ɔ ³³	ts u ³³	tsʰ u ³³	ts u ³³	?	tʃ u ³³	z u ³³	ts u ³³	ts u ³³
 3270-5	m e ³³	m e ³³	m e ³³	m e ⁴⁴	?	m e ³³	m e ³³	m e ³³	m e ³³
+1884-5	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ³³	?	k j ɛ ⁴⁴	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²
 1203-5	k ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁴⁴	?	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 6645-5	w e ³⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	?	w e ³⁵	w ẽ ³⁵	w ɛ ⁴⁴	w ɛ ³⁵
 608-5	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ⁴⁴	?	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³
 2889-5	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	?	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
-4110-5	ɲ i ⁴⁴	j ĩ ⁴⁴	j ɯ̃ ³³	j ɯ ⁴⁴	?	ɲ i ⁴⁴	n i ⁴⁴	ɲ i ⁴⁴	ɲ ɯ ⁴⁴
 5350-5	ʈʂʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	?	tʃʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹
 6158-5	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	?	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴
 4306-5	s ɤ ³¹	sʰ w ɔ̃ ³¹	s ɤ̃ ³¹	s ɔ̃ ³¹	?	s ɿ ³¹	ɕ ɛ̃ ³¹	s ɿ ³¹	s ɤ ³¹
@@ -1347,7 +1354,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 118-5	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	?	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴
 2866-5	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	?	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³
 64-5	kʰ ɔ ³³	kʰ w ɔ ³³	kʰ ou ³³	kʰ u ³³	?	ɔ ³³	kʰ w ɔ ³³	kʰ ɔ ³³	kʰ w ɔ ³³
-53-5	t e ³³	t j ɛ ³³	t ĩ ³³	t j ɛ̃ ³³	?	t o ⁴⁴	t ĩ ³³	t i ³³	t o ³³
 43-5	kʰ ɔ ⁵⁵	kʰ ɔu ⁵⁵	kʰ õ ⁵⁵	kʰ ɔ̃ ⁵⁵	?	kʰ o ⁵⁵	kʰ ã ⁵⁵	kʰ ɔ ⁵⁵	kʰ o ⁵⁵
 128-5	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ o ³¹	ŋ ɔ̃ ³¹	?	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹
 7023-5	n ɔ ³¹	n ɔ ³¹	n o ³¹	n ɔ ³¹	?	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹
@@ -1360,7 +1366,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2649-5	l ɔ ⁴⁴	l ou ³³	l o ⁴⁴	l ɔ ⁴⁴	?	l ɔ ⁵⁵	l ɔ ⁵⁵	l ao ⁴⁴	l ɔ ⁵⁵
 6242-5	l ɔ ²¹	l ɔ ²¹	l ou ²¹	l ao ²¹	?	l ɔ ²¹	l o ²¹	l ao ²¹	l ɔ ²¹
 3943-5	ʂ ɤ ³³	s w ɔ ³³	s ɤ ³³	s u ³³	?	s ɤ ³³	ɕ ɛ ⁴⁴	ʃ ɤ ³³	s ɤ ³²
+1026-5	kʲ e ³⁵	k e ³⁵	k e ⁵⁵	k ẽ ⁵⁵	?	k e ³⁵	kʲ e ³⁵	k e ³⁵	k e ³⁵
 6404-5	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	?	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ²¹
+585-5	ts ɔ ⁵⁵	ts ou ⁴⁴	ts ou ⁴⁴	ts u ⁵⁵	?	ts o ⁴⁴	ts ɔ ⁴⁴	ts u ⁴⁴	ts o ⁴⁴
 1731-5	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	?	w a ⁴²	w a ⁴²	w a ⁴⁴	w a ⁴²
 5510-5	l ɔ ³⁵	l a ⁵⁵	l a ⁵⁵	l a ⁵⁵	?	l ɔ ³⁵	l a ³⁵	l ɔ ⁵⁵	l ɔ ³⁵
 5360-5	kʰ ɤ ³³	kʰ w ɔ ³³	kʰ ɤ ³³	kʰ w ɛ ³³	?	kʰ ɤ ³³	kʰ ɛ ³³	kʰ ɤ ³³	kʰ ɤ ³³
@@ -1382,8 +1390,8 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 385-5	z ɔ ²¹	z ɔu ³¹	s ou ²¹	ʐ ao ²¹	?	s ɔ ²¹	z o ²¹	z ɔ ²¹	z ɔ ³¹
 869-5	k ɤ ²¹	k w ɔ ²¹	k ɤ ²¹	k ɔ ²¹	?	k ɤ ²¹	k ɯ ²¹	k ɤ ²¹	k ɤ ²¹
 2745-5	s ɯ ³³	s ɿ ³³	s ɿ ³³	s ɿ ⁴⁴	?	s ɿ ³³	s ɤ ³⁵	s ɿ ³³	s ɿ ³³
-1066-5		l a ³⁵	l a ³⁵	l a ⁴⁴	?	l a ³⁵	l a ³⁵	l a ³⁵	l a ³⁵
 4423-5	s u ³⁵	s u ⁵⁵	s u ⁵⁵	s u ⁵⁵	?		s u ³⁵	s u ³⁵	s u ³⁵
+5380-5	s w e ⁴⁴	sʰ w e ⁴⁴	s w e ⁴⁴	s w e ⁴⁴	?		s w e ⁴⁴	ɕ ɥ ɛ ⁴⁴	s w e ⁴⁴
 4436-5	ts ɿ ²¹	ts ɿ ²¹	ts ɿ ²¹	ts ɯ ⁴⁴	?	ts ɿ ²¹	ts ɿ ²¹		ts ɿ ²¹
 4975-5	m e ⁴²	m i ⁴⁴	m i ⁴⁴	m i ⁵⁵	?	m i ⁴⁴	m e ³¹		m i ⁴⁴
 2599-5	t ɯ ²¹		t ɯ ²¹	t j ɯ ³³	?	t ɯ ²¹	t ou ²¹	d ɯ ²¹	t ɯ ²¹
@@ -1392,9 +1400,8 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 6336-5	tsʰ ɿ ³³	tsʰ ɿ ³³	ts ɿ ³³		?	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³
 4065-5	kʲ ɛ ³⁵		k ɤ ⁴²	k ɔ ³³	?	k u ⁴⁴	k u ²¹	k ao ⁴²	k u ³⁵
 3114-5	ts e ⁴⁴	ts e ⁴⁴	t e ⁴⁴		?	t e ⁴⁴	t e ⁴⁴	ts ɛ ³³	ts e ⁴⁴
-196-5	p ɔ ³⁵	p ɔu ³⁵	p o ⁵⁵	p u ⁵⁵	?	p ɔ ³⁵		p ao ³³	p ɔ ³⁵
 1474-5	ɲ ɤ ³³	j ɔ̃ ³³	j ɤ̃ ³³		?	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
-811-5	k u ²¹	k u ²¹	k u ²¹		?	k u ²¹	k u ²¹	k u ²¹	k u ²¹
+6531-5	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	?		j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
 4517-5	ʈʂ ɯ ³³	ts ɯ ³³	ts ɯ ³³	ts ɯ ³³	?	ts ɯ ³³		dz ɯ ³³	ts ɯ ³³
 6730-5	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	?	tɕ i ³¹		tɕ i ³¹	tɕ i ³¹
 6380-5	kʲ i ³⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	?	tɕ ɯ ³⁵	tɕʰ ɛ̃ ⁵⁵		tɕ i ³⁵
@@ -1402,7 +1409,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5465-5	x ɛ ⁵⁵	x ɛ̃ ³⁵	x ɛ̃ ⁵⁵	x ɛ̃ ⁵⁵	?	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵
 170-5	ts ɤ ³³	ts w ɔ̃ ³³	ts ɤ̃ ³³	ts õ ⁴⁴	?	ts ɿ ³³		dz ɿ ³³	ts ɿ ³³
 1706-5	kʲ i ³⁵		tɕ i ⁵⁵	tɕ i ⁵⁵	?	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵
-859-5	tʰ ɤ ²¹	tʰ ɔ̃ ³¹	tʰ ɤ̃ ³¹		?	tʰ ɤ ²¹	tʰ ɛ̃ ⁴²	tʰ ɤ ²¹	tʰ ɤ ³¹
 1103-5	ʈʂ ɤ ³¹	ts w ɔ ³¹	ts ɤ ³¹	ts u ³¹	?	ts ɤ ³¹		dz ɤ ³¹	ts ɤ ³¹
 5925-5	ʈʂ ɛ ³⁵	ts ɛ ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁴⁴	?	ts ɛ ³⁵	ts ɛ ³⁵		ts e ³⁵
 5263-6	x e ⁵⁵	xʰ ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	?	x ẽ ⁵⁵	x e ⁵⁵	x e ⁵⁵
@@ -1412,12 +1418,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-6	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	?	t ou ³¹	d ɯ ³¹	t ɯ ³¹
 1401-6	pʰ ɔ ⁴⁴	pʰ ɔu ⁴⁴	pʰ o ⁴⁴	pʰ ao ³³	pʰ ao ⁵⁵	?	pʰ ɔ ⁴⁴	pʰ u ⁴⁴	pʰ o ⁴⁴
 6496-6	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɿ ⁵⁵	?	tsʰ ou ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹
+1064-6	n a ³⁵	l a ³⁵	l a ³⁵	l a ⁴⁴	l ao ³¹	?	l a ³⁵	l a ³⁵	l a ³⁵
 1065-6	ts ɿ ³¹	ts ɿ ³³	ts ɿ ³³	ts ɯ ³³	z i ³¹	?	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³³
 6617-6	t ɔ ²¹	t ɔ ²¹	t ou ²¹	t w ɔ ³¹	t ɤ ³¹	?	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹
 4367-6	t a ²¹	t a ²¹	t a ²¹	t a ²¹	t ao ²¹	?	t a ²¹	t a ²¹	t a ²¹
 4378-6	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	?	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵
 4379-6	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	?	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵
-2519-6	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³	tʃʰ ʊ ⁴⁴	?	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 3984-6	ʂ ɛ ³³	sʰ ɿ ³³	s ɛ̃ ³³	s ɛ̃ ³³	ʂ ɛ̃ ³³	?	s ɛ̃ ³³	s ɛ ³³	s ɛ ²¹
 5086-6	ts ɤ ³³	ts w ɔ̃ ³³	ts ɤ̃ ³³	ts õ ⁴⁴	tɕ ɔ̃ ³¹	?	tsʰ u ³³	dz ɯ ³³	ts ɤ ³³
 3333-6	ʂ e ⁴⁴	sʰ e ⁴⁴	s e ⁴⁴	s e ⁴⁴	ʂ ɛ ⁴⁴	?	s e ⁴⁴	s ɛ ⁴⁴	s e ⁴⁴
@@ -1445,16 +1451,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-6	ɕ i ⁵⁵	ɕʰ ĩ ⁵⁵	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	s ẽ ⁵⁵	?	ɕ ĩ ⁵⁵	s e ⁵⁵	ɕ i ³⁵
 3462-6	k a ³⁵	k ã ⁵⁵	k ã ⁵⁵	k ã ⁵⁵	q ɔ̃ ⁵⁵	?	k ã ⁵⁵	k a ³⁵	k a ³⁵
 1932-6	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɛ ³³	ʂ ʅ ³³	?	s ɿ ³³	s ɿ ³³	s ɿ ³³
+6469-6	s ɿ ⁵⁵	sʰ ɔu ³¹	s ou ²¹	s o ³¹	ʂ æ ³³	?	s ɿ ³¹	s ɿ ³¹	s ɿ ³³
 4454-6	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	?	n i ²¹	ɲ i ²¹	ɲ i ²¹
 4455-6	kʲ ɛ ³⁵	k ɛ̃ ³⁵	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	q ao ⁵⁵	?	k ɛ̃ ³⁵	k ɛ ³⁵	kʲ ɛ ³⁵
 6926-6	ɲ ɤ ³³	j õ ³³	j ɤ̃ ³³	j ɯ̃ ³³	n ɛ ⁴⁴	?	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
 6927-6	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	?	n i ²¹	ɲ i ²¹	ɲ i ²¹
 3916-6	m ɔ ³³	m ɔu ³³	m o ³³	m ɔ̃ ³³	m ɔ ³³	?	m ɔ ³³	m ɔ ³³	m ɔ ³³
+6822-6	ɲ i ²¹	t j ɯ ²¹	j ĩ ²¹	j ĩ ²¹	n ɛ ³¹	?	n i ³¹	ɲ i ²¹	ɲ i ²¹
 5417-6	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	tɕ i ³³	?	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³
 1959-6	x a ³¹	xʰ ɔu ³¹	x a ³¹	x ã ⁴⁴	x ã ³³	?	x ɛ̃ ³¹	x a ³¹	x ɔ ³¹
 1960-6	t ɤ ⁵⁵	t w ɔ̃ ³⁵	t ɤ ⁵⁵	t o ⁵⁵	t ɤ ⁵⁵	?	t ɛ ³⁵	t ɤ ⁵⁵	t ɤ ³⁵
 2899-6	x ɔ ²¹	xʰ ɔu ³¹	x ou ²¹	x o ³¹	x ɔ ⁴²	?	x ɔ ²¹	x ao ²¹	x ɔ ³¹
 3651-6	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɯ̃ ³³	ʐ ʅ ³³	?	z ɿ ³³	dz ɿ ³³	ts ɿ ³³
+811-6	k u ²¹	k u ²¹	k u ²¹	k w ɔ ³¹	q ẽ ⁵⁵	?	k u ²¹	k u ²¹	k u ²¹
 1633-6	m e ²¹	m e ²¹	m e ²¹	m ẽ ²¹	m æ ²¹	?	m e ²¹	m ɛ ²¹	m e ²¹
 1775-6	k ɤ ³¹	k ɔ̃u ⁴²	k õ ²¹	k ɔ̃ ³¹	q ɔ ²¹	?	k ou ⁵⁵	k ɤ ³¹	k u ²¹
 5801-6	kʲ ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴⁴	k a ⁴²	?	kʲ ɛ ⁴²	k ɛ ⁴²	kʲ ɛ ³²
@@ -1563,6 +1572,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-6	t w e ³³	t w ẽ ³³	t w ẽ ³³	t w ẽ ⁴⁴	d y ³³	?	t w ẽ ³³	t w e ³³	t w e ³³
 3973-6	tɕ i ³⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	?	tɕ i ³⁵	tɕ i ³⁵	tɕ i ⁵⁵
 2046-6	ɕ u ³³	ɕ u ³³	ɕ o ³³	ɕ ɔ ⁴⁴	ɕ o ³³	?	ɕ u ³³	ɕ u ³³	ɕ o ³³
+5622-6	ɕ ɛ ⁵⁵	ɕʰ ɛ̃ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ j ɛ̃ ⁵⁵	ɕ ã ³³	?	ɕ ɛ̃ ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵
 648-6	tɕʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ã ⁴⁴	?	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵
 6789-6	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p æ ⁴²	p a ⁴⁴	?	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²
 618-6	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁵⁵	?	x ou ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴
@@ -1576,11 +1586,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-6	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	?	x ɛ̃ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 1764-6	ts ɔ ³³	ts u ³³	tsʰ u ³³	ts u ³³	tɕ y ³³	?	z u ³³	ts u ³³	ts u ³³
 3270-6	m e ³³	m e ³³	m e ³³	m e ⁴⁴	m ẽ ³³	?	m e ³³	m e ³³	m e ³³
+1884-6	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ³³	q a ⁵⁵	?	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²
 1203-6	k ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁴⁴	k ɯ ⁵⁵	?	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 6645-6	w e ³⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	?	w ẽ ³⁵	w ɛ ⁴⁴	w ɛ ³⁵
 608-6	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ⁴⁴	qʰ ɤ ³³	?	kʰ u ³³	kʰ u ³³	kʰ u ³³
 2889-6	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tsʰ ẽ ⁵⁵	?	tɕʰ ĩ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
-4110-6	ɲ i ⁴⁴	j ĩ ⁴⁴	j ɯ̃ ³³	j ɯ ⁴⁴	ɲ i ³³	?	n i ⁴⁴	ɲ i ⁴⁴	ɲ ɯ ⁴⁴
 5350-6	ʈʂʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	ʈʰ ɤ ⁴²	?	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹
 6158-6	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	qʰ a ⁵⁵	?	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴
 4306-6	s ɤ ³¹	sʰ w ɔ̃ ³¹	s ɤ̃ ³¹	s ɔ̃ ³¹	s õ ³¹	?	ɕ ɛ̃ ³¹	s ɿ ³¹	s ɤ ³¹
@@ -1599,7 +1609,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 118-6	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	q w a ⁵⁵	?	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴
 2866-6	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɔ̃ ³³	?	m ɛ ³³	m ɛ ³³	m ɛ ³³
 64-6	kʰ ɔ ³³	kʰ w ɔ ³³	kʰ ou ³³	kʰ u ³³	qʰ ɔ ³¹	?	kʰ w ɔ ³³	kʰ ɔ ³³	kʰ w ɔ ³³
-53-6	t e ³³	t j ɛ ³³	t ĩ ³³	t j ɛ̃ ³³	t o ⁵⁵	?	t ĩ ³³	t i ³³	t o ³³
 43-6	kʰ ɔ ⁵⁵	kʰ ɔu ⁵⁵	kʰ õ ⁵⁵	kʰ ɔ̃ ⁵⁵	kʰ ɤ̃ ⁵⁵	?	kʰ ã ⁵⁵	kʰ ɔ ⁵⁵	kʰ o ⁵⁵
 128-6	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ o ³¹	ŋ ɔ̃ ³¹	ɴ ɔ ⁴²	?	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹
 7023-6	n ɔ ³¹	n ɔ ³¹	n o ³¹	n ɔ ³¹	n ɔ ⁴⁴	?	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹
@@ -1612,7 +1621,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2649-6	l ɔ ⁴⁴	l ou ³³	l o ⁴⁴	l ɔ ⁴⁴	l a ³³	?	l ɔ ⁵⁵	l ao ⁴⁴	l ɔ ⁵⁵
 6242-6	l ɔ ²¹	l ɔ ²¹	l ou ²¹	l ao ²¹	l ao ³¹	?	l o ²¹	l ao ²¹	l ɔ ²¹
 3943-6	ʂ ɤ ³³	s w ɔ ³³	s ɤ ³³	s u ³³	ʂ u ³³	?	ɕ ɛ ⁴⁴	ʃ ɤ ³³	s ɤ ³²
+1026-6	kʲ e ³⁵	k e ³⁵	k e ⁵⁵	k ẽ ⁵⁵	q ɛ̃ ³⁵	?	kʲ e ³⁵	k e ³⁵	k e ³⁵
 6404-6	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	?	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ²¹
+585-6	ts ɔ ⁵⁵	ts ou ⁴⁴	ts ou ⁴⁴	ts u ⁵⁵	ts w ɔ ⁵⁵	?	ts ɔ ⁴⁴	ts u ⁴⁴	ts o ⁴⁴
 1731-6	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	?	w a ⁴²	w a ⁴⁴	w a ⁴²
 5510-6	l ɔ ³⁵	l a ⁵⁵	l a ⁵⁵	l a ⁵⁵	l ɔ ⁵⁵	?	l a ³⁵	l ɔ ⁵⁵	l ɔ ³⁵
 5360-6	kʰ ɤ ³³	kʰ w ɔ ³³	kʰ ɤ ³³	kʰ w ɛ ³³	tɕʰ ɛ̃ ³³	?	kʰ ɛ ³³	kʰ ɤ ³³	kʰ ɤ ³³
@@ -1635,8 +1646,8 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 869-6	k ɤ ²¹	k w ɔ ²¹	k ɤ ²¹	k ɔ ²¹	k ɤ ³¹	?	k ɯ ²¹	k ɤ ²¹	k ɤ ²¹
 2745-6	s ɯ ³³	s ɿ ³³	s ɿ ³³	s ɿ ⁴⁴	s ɿ ³³	?	s ɤ ³⁵	s ɿ ³³	s ɿ ³³
 4690-6	k w a ⁵⁵	k w a ⁵⁵	k w a ⁵⁵	k w ã ⁵⁵		?	k w a ⁵⁵	k w a ⁵⁵	k w a ³⁵
-1066-6		l a ³⁵	l a ³⁵	l a ⁴⁴	l ao ³¹	?	l a ³⁵	l a ³⁵	l a ³⁵
 4436-6	ts ɿ ²¹	ts ɿ ²¹	ts ɿ ²¹	ts ɯ ⁴⁴	ɖʐ ʅ̃ ³³	?	ts ɿ ²¹		ts ɿ ²¹
+2519-6	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³		?	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³
 4975-6	m e ⁴²	m i ⁴⁴	m i ⁴⁴	m i ⁵⁵	m ɛ ⁴⁴	?	m e ³¹		m i ⁴⁴
 4548-6	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²		?	w a ⁴²	w a ⁴²	w a ⁴²
 4397-6	p e ²¹	p e ²¹	p e ²¹	p e ²¹		?	p e ²¹	p e ²¹	p e ²¹
@@ -1656,11 +1667,8 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3615-6	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴²		?	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴
 4197-6	k u ³³	k u ³³	k u ³³	k u ³³		?	k u ³³	k u ³³	k u ³³
 4198-6	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹		?	n i ²¹	ɲ i ²¹	ɲ i ²¹
-196-6	p ɔ ³⁵	p ɔu ³⁵	p o ⁵⁵	p u ⁵⁵	p ɤ ⁵⁵	?		p ao ³³	p ɔ ³⁵
 1474-6	ɲ ɤ ³³	j ɔ̃ ³³	j ɤ̃ ³³		ɲ ʊ̃ ³³	?	n ɛ̃ ³³	ɲ ɤ ³³	ɲ ɤ ³³
-6531-6	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴		?	j ou ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴
 4954-6	tʰ ɔ ³³	tʰ u ³³	tʰ u ³³	tʰ u ³³		?	tʰ u ³³	tʰ u ³³	tʰ u ³³
-811-6	k u ²¹	k u ²¹	k u ²¹		q ẽ ⁵⁵	?	k u ²¹	k u ²¹	k u ²¹
 4517-6	ʈʂ ɯ ³³	ts ɯ ³³	ts ɯ ³³	ts ɯ ³³	ɖ ɯ ³³	?		dz ɯ ³³	ts ɯ ³³
 1173-6	j i ³⁵	j i ³⁵	j i ⁵⁵	j i ⁵⁵		?	j i ³⁵	j i ³⁵	j i ³⁵
 6365-6	k w a ³⁵	k w ã ⁵⁵	k w ã ⁵⁵	k w ã ⁴⁴		?	k w ã ³⁵	k w a ³⁵	k w a ³⁵
@@ -1676,7 +1684,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1298-6	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵		?	x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵
 784-6	tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁴⁴		?	tsʰ ã ⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵
 3596-6	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t ɯ̃ ⁴²		?	t ou ²¹	t ɯ ³¹	t ɯ ³¹
-6506-6	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹		?	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹
 1799-6	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	tɕ ĩ ⁴⁴	?		tɕ i ³¹	tɕ i ³¹
 5007-6	p i ³⁵	p ĩ ³⁵	p ĩ ⁵⁵	p ĩ ⁵⁵		?	p ĩ ³⁵	p i ³⁵	p i ³⁵
 5465-6	x ɛ ⁵⁵	x ɛ̃ ³⁵	x ɛ̃ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	?		x ɛ ⁵⁵	x ɛ ⁵⁵
@@ -1684,7 +1691,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3150-6	t a ⁵⁵	t ã ⁵⁵	t ã ⁵⁵	t ã ⁵⁵		?	t ã ³⁵	t a ⁵⁵	t a ³⁵
 3780-6	ŋ w e ⁴²	w ɛ ⁴²	w ẽ ⁴²	w ẽ ⁴²		?	w ẽ ⁴²	ŋ w e ⁴²	w e ³²
 1706-6	kʲ i ³⁵		tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ ĩ ⁵⁵	?	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵
-859-6	tʰ ɤ ²¹	tʰ ɔ̃ ³¹	tʰ ɤ̃ ³¹		tʰ ʊ ³³	?	tʰ ɛ̃ ⁴²	tʰ ɤ ²¹	tʰ ɤ ³¹
 403-6	p a ³¹	p ã ²¹	p ã ²¹	p a ²¹		?	p ã ³¹	p a ³¹	p a ³¹
 5329-6	kʲ e ⁴²	k ɛ ⁴²	k e ⁴²	k e ⁴²		?	kʲ i ⁴²	k ɛ ⁴²	k e ⁴²
 1103-6	ʈʂ ɤ ³¹	ts w ɔ ³¹	ts ɤ ³¹	ts u ³¹	dʑ y ⁴⁴	?		dz ɤ ³¹	ts ɤ ³¹
@@ -1693,8 +1699,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5925-6	ʈʂ ɛ ³⁵	ts ɛ ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁴⁴	t ɯ ⁵⁵	?	ts ɛ ³⁵		ts e ³⁵
 5926-6	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³		?	ts o ³³	ts ɿ ³³	ts ɿ ³³
 5723-6	p a ⁴²	p ã ⁴²	p a ⁴²	p a ⁴⁴		?	p ã ⁴²	p a ⁴²	p a ⁴²
-3064-6	ʈʂ ɔ ⁴²	ts ɔu ⁴²	ts o ⁴²	ts u ³¹		?	ts ou ⁴²	ts ao ³¹	ts o ⁴²
-3065-6	kʰ ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵		?	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵
 5263-7	x e ⁵⁵	xʰ ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	?	x e ⁵⁵	x e ⁵⁵
 452-7	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	?	d ɯ ³¹	t ɯ ³¹
 4342-7	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	?	d ɯ ³¹	t ɯ ³¹
@@ -1702,12 +1706,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-7	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	?	d ɯ ³¹	t ɯ ³¹
 1401-7	pʰ ɔ ⁴⁴	pʰ ɔu ⁴⁴	pʰ o ⁴⁴	pʰ ao ³³	pʰ ao ⁵⁵	pʰ ɔ ⁴⁴	?	pʰ u ⁴⁴	pʰ o ⁴⁴
 6496-7	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɿ ⁵⁵	tsʰ ɯ ³¹	?	tsʰ ɯ ³¹	tsʰ ɯ ³¹
+1064-7	n a ³⁵	l a ³⁵	l a ³⁵	l a ⁴⁴	l ao ³¹	l a ³⁵	?	l a ³⁵	l a ³⁵
 1065-7	ts ɿ ³¹	ts ɿ ³³	ts ɿ ³³	ts ɯ ³³	z i ³¹	ts ɿ ³¹	?	ts ɿ ³¹	ts ɿ ³³
 6617-7	t ɔ ²¹	t ɔ ²¹	t ou ²¹	t w ɔ ³¹	t ɤ ³¹	t ɔ ²¹	?	t ɔ ²¹	t ɔ ²¹
 4367-7	t a ²¹	t a ²¹	t a ²¹	t a ²¹	t ao ²¹	t a ²¹	?	t a ²¹	t a ²¹
 4378-7	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	?	ɕ y ⁵⁵	ɕ y ⁵⁵
 4379-7	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	?	l i ⁵⁵	l i ⁵⁵
-2519-7	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³	tʃʰ ʊ ⁴⁴	tʃʰ u ³³	?	tsʰ u ³³	tsʰ u ³³
 3984-7	ʂ ɛ ³³	sʰ ɿ ³³	s ɛ̃ ³³	s ɛ̃ ³³	ʂ ɛ̃ ³³	s ɛ ³³	?	s ɛ ³³	s ɛ ²¹
 5086-7	ts ɤ ³³	ts w ɔ̃ ³³	ts ɤ̃ ³³	ts õ ⁴⁴	tɕ ɔ̃ ³¹	ts ɤ ³³	?	dz ɯ ³³	ts ɤ ³³
 3333-7	ʂ e ⁴⁴	sʰ e ⁴⁴	s e ⁴⁴	s e ⁴⁴	ʂ ɛ ⁴⁴	s e ⁴⁴	?	s ɛ ⁴⁴	s e ⁴⁴
@@ -1735,16 +1739,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-7	ɕ i ⁵⁵	ɕʰ ĩ ⁵⁵	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	s ẽ ⁵⁵	ɕ i ³⁵	?	s e ⁵⁵	ɕ i ³⁵
 3462-7	k a ³⁵	k ã ⁵⁵	k ã ⁵⁵	k ã ⁵⁵	q ɔ̃ ⁵⁵	k a ³⁵	?	k a ³⁵	k a ³⁵
 1932-7	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɛ ³³	ʂ ʅ ³³	s ɿ ³³	?	s ɿ ³³	s ɿ ³³
+6469-7	s ɿ ⁵⁵	sʰ ɔu ³¹	s ou ²¹	s o ³¹	ʂ æ ³³	s ɿ ³³	?	s ɿ ³¹	s ɿ ³³
 4454-7	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	?	ɲ i ²¹	ɲ i ²¹
 4455-7	kʲ ɛ ³⁵	k ɛ̃ ³⁵	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	q ao ⁵⁵	k ɛ ³⁵	?	k ɛ ³⁵	kʲ ɛ ³⁵
 6926-7	ɲ ɤ ³³	j õ ³³	j ɤ̃ ³³	j ɯ̃ ³³	n ɛ ⁴⁴	n ɤ ³³	?	ɲ ɤ ³³	ɲ ɤ ³³
 6927-7	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	?	ɲ i ²¹	ɲ i ²¹
 3916-7	m ɔ ³³	m ɔu ³³	m o ³³	m ɔ̃ ³³	m ɔ ³³	m ɔ ³³	?	m ɔ ³³	m ɔ ³³
+6822-7	ɲ i ²¹	t j ɯ ²¹	j ĩ ²¹	j ĩ ²¹	n ɛ ³¹	ɲ i ²¹	?	ɲ i ²¹	ɲ i ²¹
 5417-7	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	tɕ i ³³	ts ɿ ³³	?	ts ɿ ³³	ts ɿ ³³
 1959-7	x a ³¹	xʰ ɔu ³¹	x a ³¹	x ã ⁴⁴	x ã ³³	x ɔ ³¹	?	x a ³¹	x ɔ ³¹
 1960-7	t ɤ ⁵⁵	t w ɔ̃ ³⁵	t ɤ ⁵⁵	t o ⁵⁵	t ɤ ⁵⁵	t ɤ ³⁵	?	t ɤ ⁵⁵	t ɤ ³⁵
 2899-7	x ɔ ²¹	xʰ ɔu ³¹	x ou ²¹	x o ³¹	x ɔ ⁴²	x ɔ ²¹	?	x ao ²¹	x ɔ ³¹
 3651-7	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɯ̃ ³³	ʐ ʅ ³³	ts ɿ ³³	?	dz ɿ ³³	ts ɿ ³³
+811-7	k u ²¹	k u ²¹	k u ²¹	k w ɔ ³¹	q ẽ ⁵⁵	k u ²¹	?	k u ²¹	k u ²¹
 1633-7	m e ²¹	m e ²¹	m e ²¹	m ẽ ²¹	m æ ²¹	m e ²¹	?	m ɛ ²¹	m e ²¹
 1775-7	k ɤ ³¹	k ɔ̃u ⁴²	k õ ²¹	k ɔ̃ ³¹	q ɔ ²¹	k ɤ ²¹	?	k ɤ ³¹	k u ²¹
 5801-7	kʲ ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴⁴	k a ⁴²	k j ɛ ⁴²	?	k ɛ ⁴²	kʲ ɛ ³²
@@ -1853,6 +1860,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-7	t w e ³³	t w ẽ ³³	t w ẽ ³³	t w ẽ ⁴⁴	d y ³³	t w e ³³	?	t w e ³³	t w e ³³
 3973-7	tɕ i ³⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tɕ i ³⁵	?	tɕ i ³⁵	tɕ i ⁵⁵
 2046-7	ɕ u ³³	ɕ u ³³	ɕ o ³³	ɕ ɔ ⁴⁴	ɕ o ³³	ɕ o ³³	?	ɕ u ³³	ɕ o ³³
+5622-7	ɕ ɛ ⁵⁵	ɕʰ ɛ̃ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ j ɛ̃ ⁵⁵	ɕ ã ³³	ɕ ɛ ⁵⁵	?	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵
 648-7	tɕʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ã ⁴⁴	tsʰ ɛ ⁵⁵	?	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵
 6789-7	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p æ ⁴²	p a ⁴⁴	p ɛ ⁴²	?	p ɛ ⁴²	p ɛ ⁴²
 618-7	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁵⁵	x ɯ ⁴⁴	?	x ɯ ⁴⁴	x ɯ ⁴⁴
@@ -1866,11 +1874,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-7	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵	?	x ɛ ⁵⁵	x ɛ ⁵⁵
 1764-7	ts ɔ ³³	ts u ³³	tsʰ u ³³	ts u ³³	tɕ y ³³	tʃ u ³³	?	ts u ³³	ts u ³³
 3270-7	m e ³³	m e ³³	m e ³³	m e ⁴⁴	m ẽ ³³	m e ³³	?	m e ³³	m e ³³
+1884-7	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ³³	q a ⁵⁵	k j ɛ ⁴⁴	?	k ɛ ⁴²	k ɛ ⁴²
 1203-7	k ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁴⁴	k ɯ ⁵⁵	k ɯ ³⁵	?	k ɯ ³⁵	k ɯ ³⁵
 6645-7	w e ³⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w e ³⁵	?	w ɛ ⁴⁴	w ɛ ³⁵
 608-7	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ⁴⁴	qʰ ɤ ³³	kʰ u ³³	?	kʰ u ³³	kʰ u ³³
 2889-7	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tsʰ ẽ ⁵⁵	tɕʰ i ⁵⁵	?	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
-4110-7	ɲ i ⁴⁴	j ĩ ⁴⁴	j ɯ̃ ³³	j ɯ ⁴⁴	ɲ i ³³	ɲ i ⁴⁴	?	ɲ i ⁴⁴	ɲ ɯ ⁴⁴
 5350-7	ʈʂʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	ʈʰ ɤ ⁴²	tʃʰ u ³¹	?	tsʰ u ³¹	tsʰ u ³¹
 6158-7	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	qʰ a ⁵⁵	kʰ a ⁴⁴	?	kʰ a ⁴⁴	kʰ a ⁴⁴
 4306-7	s ɤ ³¹	sʰ w ɔ̃ ³¹	s ɤ̃ ³¹	s ɔ̃ ³¹	s õ ³¹	s ɿ ³¹	?	s ɿ ³¹	s ɤ ³¹
@@ -1889,7 +1897,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 118-7	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	q w a ⁵⁵	k w a ⁴⁴	?	k w a ⁴⁴	k w a ⁴⁴
 2866-7	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɔ̃ ³³	m ɛ ³³	?	m ɛ ³³	m ɛ ³³
 64-7	kʰ ɔ ³³	kʰ w ɔ ³³	kʰ ou ³³	kʰ u ³³	qʰ ɔ ³¹	ɔ ³³	?	kʰ ɔ ³³	kʰ w ɔ ³³
-53-7	t e ³³	t j ɛ ³³	t ĩ ³³	t j ɛ̃ ³³	t o ⁵⁵	t o ⁴⁴	?	t i ³³	t o ³³
 43-7	kʰ ɔ ⁵⁵	kʰ ɔu ⁵⁵	kʰ õ ⁵⁵	kʰ ɔ̃ ⁵⁵	kʰ ɤ̃ ⁵⁵	kʰ o ⁵⁵	?	kʰ ɔ ⁵⁵	kʰ o ⁵⁵
 128-7	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ o ³¹	ŋ ɔ̃ ³¹	ɴ ɔ ⁴²	ŋ ɔ ³¹	?	ŋ ɔ ³¹	ŋ ɔ ³¹
 7023-7	n ɔ ³¹	n ɔ ³¹	n o ³¹	n ɔ ³¹	n ɔ ⁴⁴	n ɔ ³¹	?	n ɔ ³¹	n ɔ ³¹
@@ -1902,7 +1909,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2649-7	l ɔ ⁴⁴	l ou ³³	l o ⁴⁴	l ɔ ⁴⁴	l a ³³	l ɔ ⁵⁵	?	l ao ⁴⁴	l ɔ ⁵⁵
 6242-7	l ɔ ²¹	l ɔ ²¹	l ou ²¹	l ao ²¹	l ao ³¹	l ɔ ²¹	?	l ao ²¹	l ɔ ²¹
 3943-7	ʂ ɤ ³³	s w ɔ ³³	s ɤ ³³	s u ³³	ʂ u ³³	s ɤ ³³	?	ʃ ɤ ³³	s ɤ ³²
+1026-7	kʲ e ³⁵	k e ³⁵	k e ⁵⁵	k ẽ ⁵⁵	q ɛ̃ ³⁵	k e ³⁵	?	k e ³⁵	k e ³⁵
 6404-7	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ⁵⁵	?	k ɯ ⁵⁵	k u ²¹
+585-7	ts ɔ ⁵⁵	ts ou ⁴⁴	ts ou ⁴⁴	ts u ⁵⁵	ts w ɔ ⁵⁵	ts o ⁴⁴	?	ts u ⁴⁴	ts o ⁴⁴
 1731-7	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	?	w a ⁴⁴	w a ⁴²
 5510-7	l ɔ ³⁵	l a ⁵⁵	l a ⁵⁵	l a ⁵⁵	l ɔ ⁵⁵	l ɔ ³⁵	?	l ɔ ⁵⁵	l ɔ ³⁵
 5360-7	kʰ ɤ ³³	kʰ w ɔ ³³	kʰ ɤ ³³	kʰ w ɛ ³³	tɕʰ ɛ̃ ³³	kʰ ɤ ³³	?	kʰ ɤ ³³	kʰ ɤ ³³
@@ -1925,9 +1934,10 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 869-7	k ɤ ²¹	k w ɔ ²¹	k ɤ ²¹	k ɔ ²¹	k ɤ ³¹	k ɤ ²¹	?	k ɤ ²¹	k ɤ ²¹
 2745-7	s ɯ ³³	s ɿ ³³	s ɿ ³³	s ɿ ⁴⁴	s ɿ ³³	s ɿ ³³	?	s ɿ ³³	s ɿ ³³
 4690-7	k w a ⁵⁵	k w a ⁵⁵	k w a ⁵⁵	k w ã ⁵⁵		k w a ³³	?	k w a ⁵⁵	k w a ³⁵
-1066-7		l a ³⁵	l a ³⁵	l a ⁴⁴	l ao ³¹	l a ³⁵	?	l a ³⁵	l a ³⁵
 4423-7	s u ³⁵	s u ⁵⁵	s u ⁵⁵	s u ⁵⁵	ɕ o ⁵⁵		?	s u ³⁵	s u ³⁵
+5380-7	s w e ⁴⁴	sʰ w e ⁴⁴	s w e ⁴⁴	s w e ⁴⁴	s w ɛ ⁵⁵		?	ɕ ɥ ɛ ⁴⁴	s w e ⁴⁴
 4436-7	ts ɿ ²¹	ts ɿ ²¹	ts ɿ ²¹	ts ɯ ⁴⁴	ɖʐ ʅ̃ ³³	ts ɿ ²¹	?		ts ɿ ²¹
+2519-7	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³		tʃʰ u ³³	?	tsʰ u ³³	tsʰ u ³³
 4975-7	m e ⁴²	m i ⁴⁴	m i ⁴⁴	m i ⁵⁵	m ɛ ⁴⁴	m i ⁴⁴	?		m i ⁴⁴
 4548-7	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²		w a ⁴²	?	w a ⁴²	w a ⁴²
 4397-7	p e ²¹	p e ²¹	p e ²¹	p e ²¹		p e ²¹	?	p e ²¹	p e ²¹
@@ -1947,9 +1957,8 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4197-7	k u ³³	k u ³³	k u ³³	k u ³³		k u ³³	?	k u ³³	k u ³³
 4198-7	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹		ɲ i ²¹	?	ɲ i ²¹	ɲ i ²¹
 1474-7	ɲ ɤ ³³	j ɔ̃ ³³	j ɤ̃ ³³		ɲ ʊ̃ ³³	n ɤ ³³	?	ɲ ɤ ³³	ɲ ɤ ³³
-6531-7	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴		ɣ ɯ ⁴⁴	?	j ɯ ⁴⁴	j ɯ ⁴⁴
+6531-7	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɔ ³¹		?	j ɯ ⁴⁴	j ɯ ⁴⁴
 4954-7	tʰ ɔ ³³	tʰ u ³³	tʰ u ³³	tʰ u ³³		tʰ u ³³	?	tʰ u ³³	tʰ u ³³
-811-7	k u ²¹	k u ²¹	k u ²¹		q ẽ ⁵⁵	k u ²¹	?	k u ²¹	k u ²¹
 1173-7	j i ³⁵	j i ³⁵	j i ⁵⁵	j i ⁵⁵		j i ³⁵	?	j i ³⁵	j i ³⁵
 6365-7	k w a ³⁵	k w ã ⁵⁵	k w ã ⁵⁵	k w ã ⁴⁴		k w a ³⁵	?	k w a ³⁵	k w a ³⁵
 6380-7	kʲ i ³⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ ĩ ⁵⁵	tɕ ɯ ³⁵	?		tɕ i ³⁵
@@ -1963,12 +1972,10 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1298-7	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵		x ɛ ⁵⁵	?	x ɛ ⁵⁵	x ɛ ⁵⁵
 784-7	tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁴⁴		tsʰ a ⁵⁵	?	tsʰ a ⁵⁵	tsʰ a ⁵⁵
 3596-7	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t ɯ̃ ⁴²		t ɯ ²¹	?	t ɯ ³¹	t ɯ ³¹
-6506-7	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹		ɣ ɯ ²¹	?	j ɯ ²¹	j ɯ ²¹
 5007-7	p i ³⁵	p ĩ ³⁵	p ĩ ⁵⁵	p ĩ ⁵⁵		p i ³⁵	?	p i ³⁵	p i ³⁵
 3150-7	t a ⁵⁵	t ã ⁵⁵	t ã ⁵⁵	t ã ⁵⁵		t a ³⁵	?	t a ⁵⁵	t a ³⁵
 3780-7	ŋ w e ⁴²	w ɛ ⁴²	w ẽ ⁴²	w ẽ ⁴²		w e ³²	?	ŋ w e ⁴²	w e ³²
 1706-7	kʲ i ³⁵		tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ ĩ ⁵⁵	tɕ i ³⁵	?	tɕ i ³⁵	tɕ i ³⁵
-859-7	tʰ ɤ ²¹	tʰ ɔ̃ ³¹	tʰ ɤ̃ ³¹		tʰ ʊ ³³	tʰ ɤ ²¹	?	tʰ ɤ ²¹	tʰ ɤ ³¹
 403-7	p a ³¹	p ã ²¹	p ã ²¹	p a ²¹		p a ²¹	?	p a ³¹	p a ³¹
 5329-7	kʲ e ⁴²	k ɛ ⁴²	k e ⁴²	k e ⁴²		k e ³²	?	k ɛ ⁴²	k e ⁴²
 1113-7	z ɿ ²¹	z ɛ ²¹	s ɛ̃ ²¹	ʐ e ²¹		s ɿ ²¹	?	z ɛ ²¹	z ɿ ³¹
@@ -1976,8 +1983,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5925-7	ʈʂ ɛ ³⁵	ts ɛ ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁴⁴	t ɯ ⁵⁵	ts ɛ ³⁵	?		ts e ³⁵
 5926-7	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³		ts ɿ ³³	?	ts ɿ ³³	ts ɿ ³³
 5723-7	p a ⁴²	p ã ⁴²	p a ⁴²	p a ⁴⁴		p a ³²	?	p a ⁴²	p a ⁴²
-3064-7	ʈʂ ɔ ⁴²	ts ɔu ⁴²	ts o ⁴²	ts u ³¹		ts o ⁴²	?	ts ao ³¹	ts o ⁴²
-3065-7	kʰ ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵		k ɯ ³⁵	?	k ɯ ³⁵	k ɯ ³⁵
 5263-8	x e ⁵⁵	xʰ ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	x ẽ ⁵⁵	?	x e ⁵⁵
 452-8	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	?	t ɯ ³¹
 4342-8	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	?	t ɯ ³¹
@@ -1985,12 +1990,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-8	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	?	t ɯ ³¹
 1401-8	pʰ ɔ ⁴⁴	pʰ ɔu ⁴⁴	pʰ o ⁴⁴	pʰ ao ³³	pʰ ao ⁵⁵	pʰ ɔ ⁴⁴	pʰ ɔ ⁴⁴	?	pʰ o ⁴⁴
 6496-8	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɿ ⁵⁵	tsʰ ɯ ³¹	tsʰ ou ³¹	?	tsʰ ɯ ³¹
+1064-8	n a ³⁵	l a ³⁵	l a ³⁵	l a ⁴⁴	l ao ³¹	l a ³⁵	l a ³⁵	?	l a ³⁵
 1065-8	ts ɿ ³¹	ts ɿ ³³	ts ɿ ³³	ts ɯ ³³	z i ³¹	ts ɿ ³¹	ts ɿ ³¹	?	ts ɿ ³³
 6617-8	t ɔ ²¹	t ɔ ²¹	t ou ²¹	t w ɔ ³¹	t ɤ ³¹	t ɔ ²¹	t ɔ ²¹	?	t ɔ ²¹
 4367-8	t a ²¹	t a ²¹	t a ²¹	t a ²¹	t ao ²¹	t a ²¹	t a ²¹	?	t a ²¹
 4378-8	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	?	ɕ y ⁵⁵
 4379-8	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	?	l i ⁵⁵
-2519-8	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³	tʃʰ ʊ ⁴⁴	tʃʰ u ³³	tsʰ u ³³	?	tsʰ u ³³
 3984-8	ʂ ɛ ³³	sʰ ɿ ³³	s ɛ̃ ³³	s ɛ̃ ³³	ʂ ɛ̃ ³³	s ɛ ³³	s ɛ̃ ³³	?	s ɛ ²¹
 5086-8	ts ɤ ³³	ts w ɔ̃ ³³	ts ɤ̃ ³³	ts õ ⁴⁴	tɕ ɔ̃ ³¹	ts ɤ ³³	tsʰ u ³³	?	ts ɤ ³³
 3333-8	ʂ e ⁴⁴	sʰ e ⁴⁴	s e ⁴⁴	s e ⁴⁴	ʂ ɛ ⁴⁴	s e ⁴⁴	s e ⁴⁴	?	s e ⁴⁴
@@ -2018,16 +2023,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-8	ɕ i ⁵⁵	ɕʰ ĩ ⁵⁵	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	s ẽ ⁵⁵	ɕ i ³⁵	ɕ ĩ ⁵⁵	?	ɕ i ³⁵
 3462-8	k a ³⁵	k ã ⁵⁵	k ã ⁵⁵	k ã ⁵⁵	q ɔ̃ ⁵⁵	k a ³⁵	k ã ⁵⁵	?	k a ³⁵
 1932-8	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɛ ³³	ʂ ʅ ³³	s ɿ ³³	s ɿ ³³	?	s ɿ ³³
+6469-8	s ɿ ⁵⁵	sʰ ɔu ³¹	s ou ²¹	s o ³¹	ʂ æ ³³	s ɿ ³³	s ɿ ³¹	?	s ɿ ³³
 4454-8	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	?	ɲ i ²¹
 4455-8	kʲ ɛ ³⁵	k ɛ̃ ³⁵	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	q ao ⁵⁵	k ɛ ³⁵	k ɛ̃ ³⁵	?	kʲ ɛ ³⁵
 6926-8	ɲ ɤ ³³	j õ ³³	j ɤ̃ ³³	j ɯ̃ ³³	n ɛ ⁴⁴	n ɤ ³³	n ɛ̃ ³³	?	ɲ ɤ ³³
 6927-8	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	?	ɲ i ²¹
 3916-8	m ɔ ³³	m ɔu ³³	m o ³³	m ɔ̃ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	?	m ɔ ³³
+6822-8	ɲ i ²¹	t j ɯ ²¹	j ĩ ²¹	j ĩ ²¹	n ɛ ³¹	ɲ i ²¹	n i ³¹	?	ɲ i ²¹
 5417-8	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	tɕ i ³³	ts ɿ ³³	ts ɿ ³³	?	ts ɿ ³³
 1959-8	x a ³¹	xʰ ɔu ³¹	x a ³¹	x ã ⁴⁴	x ã ³³	x ɔ ³¹	x ɛ̃ ³¹	?	x ɔ ³¹
 1960-8	t ɤ ⁵⁵	t w ɔ̃ ³⁵	t ɤ ⁵⁵	t o ⁵⁵	t ɤ ⁵⁵	t ɤ ³⁵	t ɛ ³⁵	?	t ɤ ³⁵
 2899-8	x ɔ ²¹	xʰ ɔu ³¹	x ou ²¹	x o ³¹	x ɔ ⁴²	x ɔ ²¹	x ɔ ²¹	?	x ɔ ³¹
 3651-8	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɯ̃ ³³	ʐ ʅ ³³	ts ɿ ³³	z ɿ ³³	?	ts ɿ ³³
+811-8	k u ²¹	k u ²¹	k u ²¹	k w ɔ ³¹	q ẽ ⁵⁵	k u ²¹	k u ²¹	?	k u ²¹
 1633-8	m e ²¹	m e ²¹	m e ²¹	m ẽ ²¹	m æ ²¹	m e ²¹	m e ²¹	?	m e ²¹
 1775-8	k ɤ ³¹	k ɔ̃u ⁴²	k õ ²¹	k ɔ̃ ³¹	q ɔ ²¹	k ɤ ²¹	k ou ⁵⁵	?	k u ²¹
 5801-8	kʲ ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴⁴	k a ⁴²	k j ɛ ⁴²	kʲ ɛ ⁴²	?	kʲ ɛ ³²
@@ -2136,6 +2144,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-8	t w e ³³	t w ẽ ³³	t w ẽ ³³	t w ẽ ⁴⁴	d y ³³	t w e ³³	t w ẽ ³³	?	t w e ³³
 3973-8	tɕ i ³⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	?	tɕ i ⁵⁵
 2046-8	ɕ u ³³	ɕ u ³³	ɕ o ³³	ɕ ɔ ⁴⁴	ɕ o ³³	ɕ o ³³	ɕ u ³³	?	ɕ o ³³
+5622-8	ɕ ɛ ⁵⁵	ɕʰ ɛ̃ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ j ɛ̃ ⁵⁵	ɕ ã ³³	ɕ ɛ ⁵⁵	ɕ ɛ̃ ⁵⁵	?	ɕ ɛ ⁵⁵
 648-8	tɕʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ã ⁴⁴	tsʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	?	tɕʰ ɛ ⁵⁵
 6789-8	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p æ ⁴²	p a ⁴⁴	p ɛ ⁴²	p ɛ ⁴²	?	p ɛ ⁴²
 618-8	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁵⁵	x ɯ ⁴⁴	x ou ⁴⁴	?	x ɯ ⁴⁴
@@ -2149,11 +2158,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-8	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	?	x ɛ ⁵⁵
 1764-8	ts ɔ ³³	ts u ³³	tsʰ u ³³	ts u ³³	tɕ y ³³	tʃ u ³³	z u ³³	?	ts u ³³
 3270-8	m e ³³	m e ³³	m e ³³	m e ⁴⁴	m ẽ ³³	m e ³³	m e ³³	?	m e ³³
+1884-8	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ³³	q a ⁵⁵	k j ɛ ⁴⁴	kʲ i ⁴²	?	k ɛ ⁴²
 1203-8	k ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁴⁴	k ɯ ⁵⁵	k ɯ ³⁵	k ɯ ³⁵	?	k ɯ ³⁵
 6645-8	w e ³⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w e ³⁵	w ẽ ³⁵	?	w ɛ ³⁵
 608-8	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ⁴⁴	qʰ ɤ ³³	kʰ u ³³	kʰ u ³³	?	kʰ u ³³
 2889-8	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tsʰ ẽ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	?	tɕʰ i ⁵⁵
-4110-8	ɲ i ⁴⁴	j ĩ ⁴⁴	j ɯ̃ ³³	j ɯ ⁴⁴	ɲ i ³³	ɲ i ⁴⁴	n i ⁴⁴	?	ɲ ɯ ⁴⁴
 5350-8	ʈʂʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	ʈʰ ɤ ⁴²	tʃʰ u ³¹	tsʰ u ³¹	?	tsʰ u ³¹
 6158-8	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	qʰ a ⁵⁵	kʰ a ⁴⁴	kʰ a ⁴⁴	?	kʰ a ⁴⁴
 4306-8	s ɤ ³¹	sʰ w ɔ̃ ³¹	s ɤ̃ ³¹	s ɔ̃ ³¹	s õ ³¹	s ɿ ³¹	ɕ ɛ̃ ³¹	?	s ɤ ³¹
@@ -2172,7 +2181,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 118-8	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	q w a ⁵⁵	k w a ⁴⁴	k w a ⁴⁴	?	k w a ⁴⁴
 2866-8	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɔ̃ ³³	m ɛ ³³	m ɛ ³³	?	m ɛ ³³
 64-8	kʰ ɔ ³³	kʰ w ɔ ³³	kʰ ou ³³	kʰ u ³³	qʰ ɔ ³¹	ɔ ³³	kʰ w ɔ ³³	?	kʰ w ɔ ³³
-53-8	t e ³³	t j ɛ ³³	t ĩ ³³	t j ɛ̃ ³³	t o ⁵⁵	t o ⁴⁴	t ĩ ³³	?	t o ³³
 43-8	kʰ ɔ ⁵⁵	kʰ ɔu ⁵⁵	kʰ õ ⁵⁵	kʰ ɔ̃ ⁵⁵	kʰ ɤ̃ ⁵⁵	kʰ o ⁵⁵	kʰ ã ⁵⁵	?	kʰ o ⁵⁵
 128-8	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ o ³¹	ŋ ɔ̃ ³¹	ɴ ɔ ⁴²	ŋ ɔ ³¹	ŋ ɔ ³¹	?	ŋ ɔ ³¹
 7023-8	n ɔ ³¹	n ɔ ³¹	n o ³¹	n ɔ ³¹	n ɔ ⁴⁴	n ɔ ³¹	n ɔ ³¹	?	n ɔ ³¹
@@ -2185,7 +2193,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2649-8	l ɔ ⁴⁴	l ou ³³	l o ⁴⁴	l ɔ ⁴⁴	l a ³³	l ɔ ⁵⁵	l ɔ ⁵⁵	?	l ɔ ⁵⁵
 6242-8	l ɔ ²¹	l ɔ ²¹	l ou ²¹	l ao ²¹	l ao ³¹	l ɔ ²¹	l o ²¹	?	l ɔ ²¹
 3943-8	ʂ ɤ ³³	s w ɔ ³³	s ɤ ³³	s u ³³	ʂ u ³³	s ɤ ³³	ɕ ɛ ⁴⁴	?	s ɤ ³²
+1026-8	kʲ e ³⁵	k e ³⁵	k e ⁵⁵	k ẽ ⁵⁵	q ɛ̃ ³⁵	k e ³⁵	kʲ e ³⁵	?	k e ³⁵
 6404-8	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	?	k u ²¹
+585-8	ts ɔ ⁵⁵	ts ou ⁴⁴	ts ou ⁴⁴	ts u ⁵⁵	ts w ɔ ⁵⁵	ts o ⁴⁴	ts ɔ ⁴⁴	?	ts o ⁴⁴
 1731-8	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	?	w a ⁴²
 5510-8	l ɔ ³⁵	l a ⁵⁵	l a ⁵⁵	l a ⁵⁵	l ɔ ⁵⁵	l ɔ ³⁵	l a ³⁵	?	l ɔ ³⁵
 5360-8	kʰ ɤ ³³	kʰ w ɔ ³³	kʰ ɤ ³³	kʰ w ɛ ³³	tɕʰ ɛ̃ ³³	kʰ ɤ ³³	kʰ ɛ ³³	?	kʰ ɤ ³³
@@ -2208,8 +2218,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 869-8	k ɤ ²¹	k w ɔ ²¹	k ɤ ²¹	k ɔ ²¹	k ɤ ³¹	k ɤ ²¹	k ɯ ²¹	?	k ɤ ²¹
 2745-8	s ɯ ³³	s ɿ ³³	s ɿ ³³	s ɿ ⁴⁴	s ɿ ³³	s ɿ ³³	s ɤ ³⁵	?	s ɿ ³³
 4690-8	k w a ⁵⁵	k w a ⁵⁵	k w a ⁵⁵	k w ã ⁵⁵		k w a ³³	k w a ⁵⁵	?	k w a ³⁵
-1066-8		l a ³⁵	l a ³⁵	l a ⁴⁴	l ao ³¹	l a ³⁵	l a ³⁵	?	l a ³⁵
 4423-8	s u ³⁵	s u ⁵⁵	s u ⁵⁵	s u ⁵⁵	ɕ o ⁵⁵		s u ³⁵	?	s u ³⁵
+5380-8	s w e ⁴⁴	sʰ w e ⁴⁴	s w e ⁴⁴	s w e ⁴⁴	s w ɛ ⁵⁵		s w e ⁴⁴	?	s w e ⁴⁴
+2519-8	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³		tʃʰ u ³³	tsʰ u ³³	?	tsʰ u ³³
 4548-8	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²		w a ⁴²	w a ⁴²	?	w a ⁴²
 4397-8	p e ²¹	p e ²¹	p e ²¹	p e ²¹		p e ²¹	p e ²¹	?	p e ²¹
 6203-8	tɕʰ i ³¹	tɕʰ i ³¹	tɕʰ i ³¹	tɕʰ i ²¹		tɕʰ i ³¹	tɕʰ i ³¹	?	tɕʰ i ³¹
@@ -2228,11 +2239,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3615-8	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴²		pʰ j a ⁴⁴	pʰ j a ⁴⁴	?	pʰ j a ⁴⁴
 4197-8	k u ³³	k u ³³	k u ³³	k u ³³		k u ³³	k u ³³	?	k u ³³
 4198-8	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹		ɲ i ²¹	n i ²¹	?	ɲ i ²¹
-196-8	p ɔ ³⁵	p ɔu ³⁵	p o ⁵⁵	p u ⁵⁵	p ɤ ⁵⁵	p ɔ ³⁵		?	p ɔ ³⁵
 1474-8	ɲ ɤ ³³	j ɔ̃ ³³	j ɤ̃ ³³		ɲ ʊ̃ ³³	n ɤ ³³	n ɛ̃ ³³	?	ɲ ɤ ³³
-6531-8	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴		ɣ ɯ ⁴⁴	j ou ⁴⁴	?	j ɯ ⁴⁴
+6531-8	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɔ ³¹		j ou ⁴⁴	?	j ɯ ⁴⁴
 4954-8	tʰ ɔ ³³	tʰ u ³³	tʰ u ³³	tʰ u ³³		tʰ u ³³	tʰ u ³³	?	tʰ u ³³
-811-8	k u ²¹	k u ²¹	k u ²¹		q ẽ ⁵⁵	k u ²¹	k u ²¹	?	k u ²¹
 4517-8	ʈʂ ɯ ³³	ts ɯ ³³	ts ɯ ³³	ts ɯ ³³	ɖ ɯ ³³	ts ɯ ³³		?	ts ɯ ³³
 1173-8	j i ³⁵	j i ³⁵	j i ⁵⁵	j i ⁵⁵		j i ³⁵	j i ³⁵	?	j i ³⁵
 6365-8	k w a ³⁵	k w ã ⁵⁵	k w ã ⁵⁵	k w ã ⁴⁴		k w a ³⁵	k w ã ³⁵	?	k w a ³⁵
@@ -2247,7 +2256,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1298-8	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵	?	x ɛ ⁵⁵
 784-8	tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁴⁴		tsʰ a ⁵⁵	tsʰ ã ⁵⁵	?	tsʰ a ⁵⁵
 3596-8	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t ɯ̃ ⁴²		t ɯ ²¹	t ou ²¹	?	t ɯ ³¹
-6506-8	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹		ɣ ɯ ²¹	j ɯ ²¹	?	j ɯ ²¹
 1799-8	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	tɕ ĩ ⁴⁴	tɕ i ³¹		?	tɕ i ³¹
 5007-8	p i ³⁵	p ĩ ³⁵	p ĩ ⁵⁵	p ĩ ⁵⁵		p i ³⁵	p ĩ ³⁵	?	p i ³⁵
 5465-8	x ɛ ⁵⁵	x ɛ̃ ³⁵	x ɛ̃ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵		?	x ɛ ⁵⁵
@@ -2255,7 +2263,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3150-8	t a ⁵⁵	t ã ⁵⁵	t ã ⁵⁵	t ã ⁵⁵		t a ³⁵	t ã ³⁵	?	t a ³⁵
 3780-8	ŋ w e ⁴²	w ɛ ⁴²	w ẽ ⁴²	w ẽ ⁴²		w e ³²	w ẽ ⁴²	?	w e ³²
 1706-8	kʲ i ³⁵		tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ ĩ ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	?	tɕ i ³⁵
-859-8	tʰ ɤ ²¹	tʰ ɔ̃ ³¹	tʰ ɤ̃ ³¹		tʰ ʊ ³³	tʰ ɤ ²¹	tʰ ɛ̃ ⁴²	?	tʰ ɤ ³¹
 403-8	p a ³¹	p ã ²¹	p ã ²¹	p a ²¹		p a ²¹	p ã ³¹	?	p a ³¹
 5329-8	kʲ e ⁴²	k ɛ ⁴²	k e ⁴²	k e ⁴²		k e ³²	kʲ i ⁴²	?	k e ⁴²
 1103-8	ʈʂ ɤ ³¹	ts w ɔ ³¹	ts ɤ ³¹	ts u ³¹	dʑ y ⁴⁴	ts ɤ ³¹		?	ts ɤ ³¹
@@ -2263,8 +2270,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 232-8	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵		tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	?	tɕʰ i ⁵⁵
 5926-8	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³		ts ɿ ³³	ts o ³³	?	ts ɿ ³³
 5723-8	p a ⁴²	p ã ⁴²	p a ⁴²	p a ⁴⁴		p a ³²	p ã ⁴²	?	p a ⁴²
-3064-8	ʈʂ ɔ ⁴²	ts ɔu ⁴²	ts o ⁴²	ts u ³¹		ts o ⁴²	ts ou ⁴²	?	ts o ⁴²
-3065-8	kʰ ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵		k ɯ ³⁵	k ɯ ³⁵	?	k ɯ ³⁵
 5263-9	x e ⁵⁵	xʰ ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	x ẽ ⁵⁵	x e ⁵⁵	?
 452-9	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	?
 4342-9	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	?
@@ -2272,12 +2277,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-9	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t j ɯ ²¹	d ɯ ⁴²	t ɯ ³¹	t ou ³¹	d ɯ ³¹	?
 1401-9	pʰ ɔ ⁴⁴	pʰ ɔu ⁴⁴	pʰ o ⁴⁴	pʰ ao ³³	pʰ ao ⁵⁵	pʰ ɔ ⁴⁴	pʰ ɔ ⁴⁴	pʰ u ⁴⁴	?
 6496-9	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɯ ³¹	tsʰ ɿ ⁵⁵	tsʰ ɯ ³¹	tsʰ ou ³¹	tsʰ ɯ ³¹	?
+1064-9	n a ³⁵	l a ³⁵	l a ³⁵	l a ⁴⁴	l ao ³¹	l a ³⁵	l a ³⁵	l a ³⁵	?
 1065-9	ts ɿ ³¹	ts ɿ ³³	ts ɿ ³³	ts ɯ ³³	z i ³¹	ts ɿ ³¹	ts ɿ ³¹	ts ɿ ³¹	?
 6617-9	t ɔ ²¹	t ɔ ²¹	t ou ²¹	t w ɔ ³¹	t ɤ ³¹	t ɔ ²¹	t ɔ ²¹	t ɔ ²¹	?
 4367-9	t a ²¹	t a ²¹	t a ²¹	t a ²¹	t ao ²¹	t a ²¹	t a ²¹	t a ²¹	?
 4378-9	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	?
 4379-9	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	l i ⁵⁵	?
-2519-9	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³	tʃʰ ʊ ⁴⁴	tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	?
 3984-9	ʂ ɛ ³³	sʰ ɿ ³³	s ɛ̃ ³³	s ɛ̃ ³³	ʂ ɛ̃ ³³	s ɛ ³³	s ɛ̃ ³³	s ɛ ³³	?
 5086-9	ts ɤ ³³	ts w ɔ̃ ³³	ts ɤ̃ ³³	ts õ ⁴⁴	tɕ ɔ̃ ³¹	ts ɤ ³³	tsʰ u ³³	dz ɯ ³³	?
 3333-9	ʂ e ⁴⁴	sʰ e ⁴⁴	s e ⁴⁴	s e ⁴⁴	ʂ ɛ ⁴⁴	s e ⁴⁴	s e ⁴⁴	s ɛ ⁴⁴	?
@@ -2305,16 +2310,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-9	ɕ i ⁵⁵	ɕʰ ĩ ⁵⁵	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	s ẽ ⁵⁵	ɕ i ³⁵	ɕ ĩ ⁵⁵	s e ⁵⁵	?
 3462-9	k a ³⁵	k ã ⁵⁵	k ã ⁵⁵	k ã ⁵⁵	q ɔ̃ ⁵⁵	k a ³⁵	k ã ⁵⁵	k a ³⁵	?
 1932-9	s ɿ ³³	s ɿ ³³	s ɿ ³³	s ɛ ³³	ʂ ʅ ³³	s ɿ ³³	s ɿ ³³	s ɿ ³³	?
+6469-9	s ɿ ⁵⁵	sʰ ɔu ³¹	s ou ²¹	s o ³¹	ʂ æ ³³	s ɿ ³³	s ɿ ³¹	s ɿ ³¹	?
 4454-9	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	?
 4455-9	kʲ ɛ ³⁵	k ɛ̃ ³⁵	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	q ao ⁵⁵	k ɛ ³⁵	k ɛ̃ ³⁵	k ɛ ³⁵	?
 6926-9	ɲ ɤ ³³	j õ ³³	j ɤ̃ ³³	j ɯ̃ ³³	n ɛ ⁴⁴	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	?
 6927-9	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹	ɲ i ³¹	ɲ i ²¹	n i ²¹	ɲ i ²¹	?
 3916-9	m ɔ ³³	m ɔu ³³	m o ³³	m ɔ̃ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	m ɔ ³³	?
+6822-9	ɲ i ²¹	t j ɯ ²¹	j ĩ ²¹	j ĩ ²¹	n ɛ ³¹	ɲ i ²¹	n i ³¹	ɲ i ²¹	?
 5417-9	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	tɕ i ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	?
 1959-9	x a ³¹	xʰ ɔu ³¹	x a ³¹	x ã ⁴⁴	x ã ³³	x ɔ ³¹	x ɛ̃ ³¹	x a ³¹	?
 1960-9	t ɤ ⁵⁵	t w ɔ̃ ³⁵	t ɤ ⁵⁵	t o ⁵⁵	t ɤ ⁵⁵	t ɤ ³⁵	t ɛ ³⁵	t ɤ ⁵⁵	?
 2899-9	x ɔ ²¹	xʰ ɔu ³¹	x ou ²¹	x o ³¹	x ɔ ⁴²	x ɔ ²¹	x ɔ ²¹	x ao ²¹	?
 3651-9	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɯ̃ ³³	ʐ ʅ ³³	ts ɿ ³³	z ɿ ³³	dz ɿ ³³	?
+811-9	k u ²¹	k u ²¹	k u ²¹	k w ɔ ³¹	q ẽ ⁵⁵	k u ²¹	k u ²¹	k u ²¹	?
 1633-9	m e ²¹	m e ²¹	m e ²¹	m ẽ ²¹	m æ ²¹	m e ²¹	m e ²¹	m ɛ ²¹	?
 1775-9	k ɤ ³¹	k ɔ̃u ⁴²	k õ ²¹	k ɔ̃ ³¹	q ɔ ²¹	k ɤ ²¹	k ou ⁵⁵	k ɤ ³¹	?
 5801-9	kʲ ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ⁴⁴	k a ⁴²	k j ɛ ⁴²	kʲ ɛ ⁴²	k ɛ ⁴²	?
@@ -2423,6 +2431,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-9	t w e ³³	t w ẽ ³³	t w ẽ ³³	t w ẽ ⁴⁴	d y ³³	t w e ³³	t w ẽ ³³	t w e ³³	?
 3973-9	tɕ i ³⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	?
 2046-9	ɕ u ³³	ɕ u ³³	ɕ o ³³	ɕ ɔ ⁴⁴	ɕ o ³³	ɕ o ³³	ɕ u ³³	ɕ u ³³	?
+5622-9	ɕ ɛ ⁵⁵	ɕʰ ɛ̃ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ j ɛ̃ ⁵⁵	ɕ ã ³³	ɕ ɛ ⁵⁵	ɕ ɛ̃ ⁵⁵	ɕ ɛ ⁵⁵	?
 648-9	tɕʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ã ⁴⁴	tsʰ ɛ ⁵⁵	tɕʰ ɛ̃ ⁵⁵	tɕʰ ɛ ⁵⁵	?
 6789-9	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	p æ ⁴²	p a ⁴⁴	p ɛ ⁴²	p ɛ ⁴²	p ɛ ⁴²	?
 618-9	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	x ɯ ⁵⁵	x ɯ ⁴⁴	x ou ⁴⁴	x ɯ ⁴⁴	?
@@ -2436,11 +2445,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-9	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵	x ɛ̃ ⁵⁵	x ɛ ⁵⁵	?
 1764-9	ts ɔ ³³	ts u ³³	tsʰ u ³³	ts u ³³	tɕ y ³³	tʃ u ³³	z u ³³	ts u ³³	?
 3270-9	m e ³³	m e ³³	m e ³³	m e ⁴⁴	m ẽ ³³	m e ³³	m e ³³	m e ³³	?
+1884-9	kʲ i ⁴²	k ɛ ⁴²	k ɛ ⁴²	k ɛ ³³	q a ⁵⁵	k j ɛ ⁴⁴	kʲ i ⁴²	k ɛ ⁴²	?
 1203-9	k ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁴⁴	k ɯ ⁵⁵	k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	?
 6645-9	w e ³⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	w e ³⁵	w ẽ ³⁵	w ɛ ⁴⁴	?
 608-9	kʰ u ³³	kʰ u ³³	kʰ u ³³	kʰ u ⁴⁴	qʰ ɤ ³³	kʰ u ³³	kʰ u ³³	kʰ u ³³	?
 2889-9	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	tsʰ ẽ ⁵⁵	tɕʰ i ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ i ⁵⁵	?
-4110-9	ɲ i ⁴⁴	j ĩ ⁴⁴	j ɯ̃ ³³	j ɯ ⁴⁴	ɲ i ³³	ɲ i ⁴⁴	n i ⁴⁴	ɲ i ⁴⁴	?
 5350-9	ʈʂʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	ʈʰ ɤ ⁴²	tʃʰ u ³¹	tsʰ u ³¹	tsʰ u ³¹	?
 6158-9	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	qʰ a ⁵⁵	kʰ a ⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	?
 4306-9	s ɤ ³¹	sʰ w ɔ̃ ³¹	s ɤ̃ ³¹	s ɔ̃ ³¹	s õ ³¹	s ɿ ³¹	ɕ ɛ̃ ³¹	s ɿ ³¹	?
@@ -2459,7 +2468,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 118-9	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	q w a ⁵⁵	k w a ⁴⁴	k w a ⁴⁴	k w a ⁴⁴	?
 2866-9	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	m ɔ̃ ³³	m ɛ ³³	m ɛ ³³	m ɛ ³³	?
 64-9	kʰ ɔ ³³	kʰ w ɔ ³³	kʰ ou ³³	kʰ u ³³	qʰ ɔ ³¹	ɔ ³³	kʰ w ɔ ³³	kʰ ɔ ³³	?
-53-9	t e ³³	t j ɛ ³³	t ĩ ³³	t j ɛ̃ ³³	t o ⁵⁵	t o ⁴⁴	t ĩ ³³	t i ³³	?
 43-9	kʰ ɔ ⁵⁵	kʰ ɔu ⁵⁵	kʰ õ ⁵⁵	kʰ ɔ̃ ⁵⁵	kʰ ɤ̃ ⁵⁵	kʰ o ⁵⁵	kʰ ã ⁵⁵	kʰ ɔ ⁵⁵	?
 128-9	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ o ³¹	ŋ ɔ̃ ³¹	ɴ ɔ ⁴²	ŋ ɔ ³¹	ŋ ɔ ³¹	ŋ ɔ ³¹	?
 7023-9	n ɔ ³¹	n ɔ ³¹	n o ³¹	n ɔ ³¹	n ɔ ⁴⁴	n ɔ ³¹	n ɔ ³¹	n ɔ ³¹	?
@@ -2472,7 +2480,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2649-9	l ɔ ⁴⁴	l ou ³³	l o ⁴⁴	l ɔ ⁴⁴	l a ³³	l ɔ ⁵⁵	l ɔ ⁵⁵	l ao ⁴⁴	?
 6242-9	l ɔ ²¹	l ɔ ²¹	l ou ²¹	l ao ²¹	l ao ³¹	l ɔ ²¹	l o ²¹	l ao ²¹	?
 3943-9	ʂ ɤ ³³	s w ɔ ³³	s ɤ ³³	s u ³³	ʂ u ³³	s ɤ ³³	ɕ ɛ ⁴⁴	ʃ ɤ ³³	?
+1026-9	kʲ e ³⁵	k e ³⁵	k e ⁵⁵	k ẽ ⁵⁵	q ɛ̃ ³⁵	k e ³⁵	kʲ e ³⁵	k e ³⁵	?
 6404-9	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k u ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	?
+585-9	ts ɔ ⁵⁵	ts ou ⁴⁴	ts ou ⁴⁴	ts u ⁵⁵	ts w ɔ ⁵⁵	ts o ⁴⁴	ts ɔ ⁴⁴	ts u ⁴⁴	?
 1731-9	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴⁴	?
 5510-9	l ɔ ³⁵	l a ⁵⁵	l a ⁵⁵	l a ⁵⁵	l ɔ ⁵⁵	l ɔ ³⁵	l a ³⁵	l ɔ ⁵⁵	?
 5360-9	kʰ ɤ ³³	kʰ w ɔ ³³	kʰ ɤ ³³	kʰ w ɛ ³³	tɕʰ ɛ̃ ³³	kʰ ɤ ³³	kʰ ɛ ³³	kʰ ɤ ³³	?
@@ -2495,9 +2505,10 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 869-9	k ɤ ²¹	k w ɔ ²¹	k ɤ ²¹	k ɔ ²¹	k ɤ ³¹	k ɤ ²¹	k ɯ ²¹	k ɤ ²¹	?
 2745-9	s ɯ ³³	s ɿ ³³	s ɿ ³³	s ɿ ⁴⁴	s ɿ ³³	s ɿ ³³	s ɤ ³⁵	s ɿ ³³	?
 4690-9	k w a ⁵⁵	k w a ⁵⁵	k w a ⁵⁵	k w ã ⁵⁵		k w a ³³	k w a ⁵⁵	k w a ⁵⁵	?
-1066-9		l a ³⁵	l a ³⁵	l a ⁴⁴	l ao ³¹	l a ³⁵	l a ³⁵	l a ³⁵	?
 4423-9	s u ³⁵	s u ⁵⁵	s u ⁵⁵	s u ⁵⁵	ɕ o ⁵⁵		s u ³⁵	s u ³⁵	?
+5380-9	s w e ⁴⁴	sʰ w e ⁴⁴	s w e ⁴⁴	s w e ⁴⁴	s w ɛ ⁵⁵		s w e ⁴⁴	ɕ ɥ ɛ ⁴⁴	?
 4436-9	ts ɿ ²¹	ts ɿ ²¹	ts ɿ ²¹	ts ɯ ⁴⁴	ɖʐ ʅ̃ ³³	ts ɿ ²¹	ts ɿ ²¹		?
+2519-9	tsʰ ɔ ³³	tsʰ u ³³	tsʰ u ³³	tsʰ u ³³		tʃʰ u ³³	tsʰ u ³³	tsʰ u ³³	?
 4975-9	m e ⁴²	m i ⁴⁴	m i ⁴⁴	m i ⁵⁵	m ɛ ⁴⁴	m i ⁴⁴	m e ³¹		?
 4548-9	w a ⁴²	w a ⁴²	w a ⁴²	w a ⁴²		w a ⁴²	w a ⁴²	w a ⁴²	?
 4397-9	p e ²¹	p e ²¹	p e ²¹	p e ²¹		p e ²¹	p e ²¹	p e ²¹	?
@@ -2517,11 +2528,9 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3615-9	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴²		pʰ j a ⁴⁴	pʰ j a ⁴⁴	pʰ j a ⁴⁴	?
 4197-9	k u ³³	k u ³³	k u ³³	k u ³³		k u ³³	k u ³³	k u ³³	?
 4198-9	ɲ i ²¹	j ĩ ²¹	j ĩ ²¹	j ĩ ²¹		ɲ i ²¹	n i ²¹	ɲ i ²¹	?
-196-9	p ɔ ³⁵	p ɔu ³⁵	p o ⁵⁵	p u ⁵⁵	p ɤ ⁵⁵	p ɔ ³⁵		p ao ³³	?
 1474-9	ɲ ɤ ³³	j ɔ̃ ³³	j ɤ̃ ³³		ɲ ʊ̃ ³³	n ɤ ³³	n ɛ̃ ³³	ɲ ɤ ³³	?
-6531-9	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴		ɣ ɯ ⁴⁴	j ou ⁴⁴	j ɯ ⁴⁴	?
+6531-9	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	j ɔ ³¹		j ou ⁴⁴	j ɯ ⁴⁴	?
 4954-9	tʰ ɔ ³³	tʰ u ³³	tʰ u ³³	tʰ u ³³		tʰ u ³³	tʰ u ³³	tʰ u ³³	?
-811-9	k u ²¹	k u ²¹	k u ²¹		q ẽ ⁵⁵	k u ²¹	k u ²¹	k u ²¹	?
 4517-9	ʈʂ ɯ ³³	ts ɯ ³³	ts ɯ ³³	ts ɯ ³³	ɖ ɯ ³³	ts ɯ ³³		dz ɯ ³³	?
 1173-9	j i ³⁵	j i ³⁵	j i ⁵⁵	j i ⁵⁵		j i ³⁵	j i ³⁵	j i ³⁵	?
 6365-9	k w a ³⁵	k w ã ⁵⁵	k w ã ⁵⁵	k w ã ⁴⁴		k w a ³⁵	k w ã ³⁵	k w a ³⁵	?
@@ -2537,7 +2546,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1298-9	x ɛ ⁵⁵	xʰ ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵		x ɛ ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵	?
 784-9	tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁵⁵	tsʰ ã ⁴⁴		tsʰ a ⁵⁵	tsʰ ã ⁵⁵	tsʰ a ⁵⁵	?
 3596-9	t ɯ ³¹	t ɯ ³¹	t ɯ ²¹	t ɯ̃ ⁴²		t ɯ ²¹	t ou ²¹	t ɯ ³¹	?
-6506-9	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹	j ɯ ²¹		ɣ ɯ ²¹	j ɯ ²¹	j ɯ ²¹	?
 1799-9	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	tɕ i ³¹	tɕ ĩ ⁴⁴	tɕ i ³¹		tɕ i ³¹	?
 5007-9	p i ³⁵	p ĩ ³⁵	p ĩ ⁵⁵	p ĩ ⁵⁵		p i ³⁵	p ĩ ³⁵	p i ³⁵	?
 5465-9	x ɛ ⁵⁵	x ɛ̃ ³⁵	x ɛ̃ ⁵⁵	x ɛ̃ ⁵⁵	x ã ⁴⁴	x ɛ ⁵⁵		x ɛ ⁵⁵	?
@@ -2545,7 +2553,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 3150-9	t a ⁵⁵	t ã ⁵⁵	t ã ⁵⁵	t ã ⁵⁵		t a ³⁵	t ã ³⁵	t a ⁵⁵	?
 3780-9	ŋ w e ⁴²	w ɛ ⁴²	w ẽ ⁴²	w ẽ ⁴²		w e ³²	w ẽ ⁴²	ŋ w e ⁴²	?
 1706-9	kʲ i ³⁵		tɕ i ⁵⁵	tɕ i ⁵⁵	tɕ ĩ ⁵⁵	tɕ i ³⁵	tɕ i ³⁵	tɕ i ³⁵	?
-859-9	tʰ ɤ ²¹	tʰ ɔ̃ ³¹	tʰ ɤ̃ ³¹		tʰ ʊ ³³	tʰ ɤ ²¹	tʰ ɛ̃ ⁴²	tʰ ɤ ²¹	?
 403-9	p a ³¹	p ã ²¹	p ã ²¹	p a ²¹		p a ²¹	p ã ³¹	p a ³¹	?
 5329-9	kʲ e ⁴²	k ɛ ⁴²	k e ⁴²	k e ⁴²		k e ³²	kʲ i ⁴²	k ɛ ⁴²	?
 1103-9	ʈʂ ɤ ³¹	ts w ɔ ³¹	ts ɤ ³¹	ts u ³¹	dʑ y ⁴⁴	ts ɤ ³¹		dz ɤ ³¹	?
@@ -2554,5 +2561,3 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5925-9	ʈʂ ɛ ³⁵	ts ɛ ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁴⁴	t ɯ ⁵⁵	ts ɛ ³⁵	ts ɛ ³⁵		?
 5926-9	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³	ts ɿ ³³		ts ɿ ³³	ts o ³³	ts ɿ ³³	?
 5723-9	p a ⁴²	p ã ⁴²	p a ⁴²	p a ⁴⁴		p a ³²	p ã ⁴²	p a ⁴²	?
-3064-9	ʈʂ ɔ ⁴²	ts ɔu ⁴²	ts o ⁴²	ts u ³¹		ts o ⁴²	ts ou ⁴²	ts ao ³¹	?
-3065-9	kʰ ɯ ³⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵		k ɯ ³⁵	k ɯ ³⁵	k ɯ ³⁵	?

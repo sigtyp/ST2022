@@ -17,7 +17,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-1	kʰ a m u ŋ							
 426-1	m ŭ k p a							
 473-1	pʰ i n a ŋ							
-483-1	w a							
 499-1	z a m ĭ n							
 526-1	g a ʃ a							
 544-1	kʰ u							
@@ -77,6 +76,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-1	pʰ a k p a							
 1477-1	ŋ a s							
 1502-1	ŋ a m s u							
+1511-1	m u d̪ j a ŋ b a							
 1529-1	tʃ a l u							
 1538-1	s u l u							
 1557-1	tʃ o i d u ŋ							
@@ -86,6 +86,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-1	kʰ u ŋ							
 1707-1	m o ŋ n a ŋ							
 1716-1	ŋ a m							
+1742-1	m u g u							
 1751-1	b u ʃ i l a							
 1778-1	z a							
 1787-1	tʃʰ u r p u							
@@ -106,6 +107,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-1	ŋ a r l a							
 2507-1	tʰ ĭ n u ŋ							
 2526-1	l e							
+2535-1	ʃ a							
 2544-1	ʃ i ŋ							
 2560-1	s o ŋ n i tʃ i ŋ							
 2569-1	kʰ a i tʰ u r							
@@ -128,6 +130,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 257-1	tʰ a ŋ a							
 338-1	b r u ŋ							
 436-1	z u l u							
+483-1	w a							
 535-1	s o s o							
 571-1	g e l e n d i							
 699-1	d o ŋ p a							
@@ -146,11 +149,9 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1654-1	l i							
 1680-1	kʰ a n d i							
 1725-1	tʃʰ a p t e n							
-1742-1	m u g u							
 2127-1	dʒ a m l a							
 2181-1	d̪ i n l a							
 2366-1	j a k l a							
-2535-1	ʃ a							
 2672-1	w a g a							
 2681-1	b a l a ŋ b u							
 55-1	d̪ a i b a							
@@ -165,19 +166,18 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 827-1	bʱ i							
 1244-1	t r o ŋ tʃ u m							
 1460-1	s o ŋ o							
-1511-1	m u d̪ j a ŋ b a							
-1611-1	ɕ i t k a l a							
 1734-1	z i m u							
 2033-1	g o k p o							
 2172-1	b i l o							
 2209-1	b i t i ŋ p i n l a							
 2256-1	pʰ u l o							
 2517-1	ŋ a m tʃ a							
-2645-1	h ă ŋ							
 2654-1	b o ŋ							
 2737-1	ɲ i z o k a							
 415-1	kʰ a m u ŋ							
 1013-1	g e s a ŋ							
+1150-1	s o ŋ o							
+1584-1	g a ɾ i l a m							
 10-2		dʒ a ŋ						
 37-2		n a n						
 46-2		n a n						
@@ -196,7 +196,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-2		kʰ a u						
 426-2		m ŭ k p a						
 473-2		pʰ i n t a ŋ						
-483-2		w a						
 499-2		z a m ĭ n						
 526-2		g a ʃ a						
 544-2		kʰ u						
@@ -256,6 +255,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-2		pʰ a k p a						
 1477-2		ŋ a s						
 1502-2		ŋ a m s u						
+1511-2		m u d̪ j a ŋ b a						
 1529-2		tʃʰ a l u						
 1538-2		s o l u						
 1557-2		tʃ o i d u ŋ						
@@ -265,6 +265,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-2		kʰ u ŋ						
 1707-2		m o ŋ n a ŋ						
 1716-2		ŋ a m						
+1742-2		m u g i						
 1751-2		b u ʃ i l a						
 1778-2		z a						
 1787-2		tʃʰ u r p u						
@@ -285,6 +286,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-2		ŋ a r ʃ u						
 2507-2		tʰ ĭ n u ŋ						
 2526-2		l e h̥						
+2535-2		ʃ a h						
 2544-2		ʃ i ŋ						
 2560-2		s o ŋ n i tʃ i ŋ						
 2569-2		kʰ e tʰ u ɾ						
@@ -308,6 +310,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 257-2		tʰ a ŋ a						
 338-2		b r u ŋ						
 436-2		z u l u						
+483-2		w a						
 571-2		g e l e n d i						
 699-2		d o ŋ p a						
 845-2		ɾ o k						
@@ -324,7 +327,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1654-2		l i						
 1680-2		kʰ a n d a						
 1725-2		tʃ a p tʃ e						
-1742-2		m u g i						
 2127-2		dʒ a m ʃ u						
 2181-2		d̪ i						
 2366-2		j a k l a						
@@ -348,14 +350,11 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1244-2		k u ɾ o ŋ tʃ u ŋ b u						
 1460-2		s o ŋ a						
 1487-2		dʒ o g t a ŋ						
-1511-2		m u d̪ j a ŋ b a						
 1521-2		tʃʰ u						
-1611-2		dʒ i p a n						
 2033-2		g o k tʃ u						
 2209-2		b i t i ŋ p e w o						
 2256-2		pʰ u l o						
 2517-2		ŋ a m tʃʰ a						
-2645-2		h a ŋ j a						
 2654-2		b o ŋ						
 2737-2		ŋ i z a						
 329-2		tʃ a n tʃ a ɾ a n						
@@ -368,6 +367,8 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 909-2		pʰ e l u l a						
 990-2		tʃ o tʃ o						
 1013-2		g e dʒ a ŋ j a						
+1133-2		j u						
+1584-2		g a ɾ i l a m						
 10-3			dʒ a ŋ					
 37-3			n a n					
 46-3			n a n					
@@ -386,7 +387,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-3			kʰ a u					
 426-3			m ŭ k p a					
 473-3			pʰ i n t a ŋ					
-483-3			w a					
 499-3			z a m ĭ n					
 526-3			g a ʃ j a					
 544-3			kʰ u					
@@ -446,6 +446,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-3			pʰ a k p a					
 1477-3			ŋ a s					
 1502-3			ŋ a m s u					
+1511-3			m ŭ dʒ a m b a					
 1529-3			tʃʰ a l u					
 1538-3			s u l u					
 1557-3			tʃ o d u m					
@@ -455,6 +456,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-3			kʰ u ŋ					
 1707-3			m o ŋ n a ŋ					
 1716-3			ŋ a m tʰ u ŋ					
+1742-3			m u i					
 1751-3			b u ʃ i l a					
 1778-3			z a					
 1787-3			tʃʰ u r p u					
@@ -475,6 +477,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-3			ŋ a r b o					
 2507-3			tʰ ĭ n u ŋ					
 2526-3			l e					
+2535-3			ɕ j a					
 2544-3			ʃ i ŋ					
 2560-3			s o ŋ n i tʃ i ŋ					
 2569-3			kʰ e tʰ u ɾ					
@@ -495,6 +498,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 229-3			kʰ a					
 257-3			tʰ a ŋ a					
 436-3			z u ɾ u					
+483-3			w a					
 535-3			s o s o					
 699-3			d o ŋ p a					
 845-3			ɾ o k					
@@ -512,11 +516,9 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1636-3			b e tʃ a					
 1654-3			l i					
 1725-3			tʃ a p tʃ e					
-1742-3			m u i					
 2127-3			dʒ a m ʃ u					
 2181-3			d̪ i					
 2366-3			l o j a k p o					
-2535-3			ɕ j a					
 2672-3			b ă g a					
 2681-3			b a l u ŋ b o					
 116-3			tʰ u l i					
@@ -533,7 +535,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 918-3			j a ŋ l u					
 1244-3			k u ɾ o ŋ tʃ u ŋ b u					
 1487-3			dʒ o g t a ŋ					
-1511-3			m ŭ dʒ a m b a					
 1521-3			tʃʰ u					
 1734-3			z i m b u					
 2033-3			g o k p o					
@@ -541,7 +542,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2209-3			b i t i ŋ p e w o					
 2256-3			pʰ u l o					
 2517-3			ŋ a m tʃʰ a					
-2645-3			h ă ŋ					
 2654-3			b o ŋ					
 2737-3			ŋ i z a					
 329-3			tʃ a n tʃ a ɾ a n					
@@ -554,6 +554,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 655-3			s a tʃ i l a					
 873-3			pʰ u ŋ b e					
 909-3			pʰ e l u l a					
+1150-3			z o ŋ a					
 10-4				dʒ a ŋ				
 37-4				n a n				
 46-4				n a n				
@@ -572,7 +573,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-4				kʰ a m u ŋ				
 426-4				m ŭ k p a				
 473-4				pʰ i n a ŋ				
-483-4				w a d a m o				
 499-4				z a m ĭ n				
 526-4				g a ɕ a				
 544-4				kʰ u				
@@ -632,6 +632,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-4				pʰ a k p a				
 1477-4				ŋ a s				
 1502-4				ŋ a m s u				
+1511-4				m u d i ɾ e ŋ m a				
 1529-4				tʃʰ a l o				
 1538-4				s o l u				
 1557-4				tʃʰ a i d̪ u m				
@@ -641,6 +642,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-4				kʰ u m				
 1707-4				m o ŋ n a ŋ				
 1716-4				ŋ a m t̪ u ŋ				
+1742-4				m u g u				
 1751-4				b u ʃ i l a				
 1778-4				z a				
 1787-4				tʃʰ u r p u				
@@ -661,6 +663,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-4				ŋ a r tʃʰ a m				
 2507-4				t e n o ŋ				
 2526-4				l e				
+2535-4				ɕ a				
 2544-4				ʃ i ŋ				
 2560-4				s o ŋ n i tʃ i ŋ				
 2569-4				kʰ a i tʰ u r				
@@ -696,8 +699,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1654-4				l i				
 1680-4				kʰ a n t i				
 1725-4				tʃʰ a p t e n				
-1742-4				m u g u				
-2535-4				ɕ a				
 2672-4				w a g a				
 55-4				d̪ a i b a				
 80-4				tʰ u ŋ g a				
@@ -716,6 +717,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2517-4				n a m tʃ a ŋ				
 2654-4				b o ŋ				
 493-4				ɾ i d o n				
+1133-4				j u				
 10-5					dʒ a ŋ			
 37-5					n a n			
 46-5					n a n			
@@ -734,7 +736,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-5					kʰ a u			
 426-5					m ŭ k p a			
 473-5					pʰ i n a ŋ			
-483-5					w a			
 499-5					z a m ĭ n			
 526-5					g a ʃ a			
 544-5					kʰ u			
@@ -794,6 +795,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-5					pʰ a k p a			
 1477-5					ŋ a s			
 1502-5					ŋ a m s u			
+1511-5					m u d̪ j a ŋ b a			
 1529-5					tʃ a l u			
 1538-5					s o l u			
 1557-5					tʃ o i d u ŋ			
@@ -803,6 +805,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-5					kʰ u ŋ			
 1707-5					m o ŋ n a ŋ			
 1716-5					ŋ a m			
+1742-5					m u g i			
 1751-5					b u tʃ i l a			
 1778-5					z a			
 1787-5					tʃ u r tʃ u r			
@@ -823,6 +826,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-5					ŋ a r e n			
 2507-5					tʰ ĭ n u ŋ			
 2526-5					l e			
+2535-5					ʃ a			
 2544-5					ʃ i ŋ			
 2560-5					s o ŋ n i tʃ i ŋ			
 2569-5					kʰ e tʰ u ɾ			
@@ -846,6 +850,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 257-5					tʰ a ŋ a			
 338-5					b r u ŋ			
 436-5					z u l u			
+483-5					w a			
 535-5					s o s o			
 571-5					g e l e n d i			
 699-5					d o ŋ p a			
@@ -863,11 +868,9 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1415-5					ɾ a			
 1654-5					l i			
 1680-5					kʰ a n d a			
-1742-5					m u g i			
 2127-5					dʒ a m kʰ ə n			
 2181-5					d̪ i l o			
 2366-5					j e kʰ ə n			
-2535-5					ʃ a			
 2672-5					w a g a			
 2681-5					b a l a ŋ b u			
 80-5					tʰ u ŋ g a			
@@ -888,16 +891,13 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1244-5					k r o ŋ tʃ u ŋ			
 1460-5					s o ŋ a			
 1487-5					dʒ o k t a ŋ			
-1511-5					m u d̪ j a ŋ b a			
 1521-5					tʃʰ u			
-1611-5					dʒ i d p æ n			
 1734-5					z e m b u			
 2033-5					g o k p o			
 2172-5					b i l o			
 2209-5					b i t i ŋ p æ kʰ ə n			
 2256-5					u kʰ e n			
 2517-5					ŋ a m tʃ a			
-2645-5					h ă ŋ			
 2654-5					r a ŋ b o ŋ			
 2737-5					n i z a			
 329-5					tʃ a n tʃ a ɾ a n			
@@ -912,6 +912,9 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 909-5					pʰ e l o			
 990-5					tʃ o tʃ o			
 1013-5					g e dʒ a ŋ			
+1133-5					j u			
+1150-5					s o ŋ a			
+1584-5					g a ɾ i l a m			
 10-6						dʒ a ŋ		
 37-6						n a n		
 46-6						n a n		
@@ -930,7 +933,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-6						kʰ a u		
 426-6						m ŭ k p a		
 473-6						pʰ i n a ŋ		
-483-6						w a		
 499-6						z a m ĭ n		
 526-6						g a ʃ a		
 544-6						kʰ u		
@@ -990,6 +992,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-6						pʰ a k p a		
 1477-6						ŋ a s		
 1502-6						ŋ a m s u		
+1511-6						m u d̪ e ŋ m a		
 1529-6						tʃʰ a l u		
 1538-6						s u l u		
 1557-6						tʃ o i d u ŋ		
@@ -999,6 +1002,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-6						kʰ u ŋ		
 1707-6						m o ŋ n a ŋ		
 1716-6						ŋ a m		
+1742-6						m u g i		
 1751-6						b u ʃ i l a		
 1778-6						z a		
 1787-6						tʃʰ u r p u		
@@ -1019,6 +1023,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-6						ŋ a r ʃ u		
 2507-6						t̪ i n u ŋ		
 2526-6						l e		
+2535-6						ɕ a		
 2544-6						ʃ i ŋ		
 2560-6						s o ŋ n i tʃ i ŋ		
 2569-6						kʰ e tʰ u ɾ		
@@ -1041,6 +1046,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 229-6						kʰ a		
 257-6						tʰ a ŋ a		
 338-6						b r u ŋ		
+483-6						w a		
 535-6						s o s o		
 571-6						g e l e n d i		
 699-6						d o ŋ p a		
@@ -1059,11 +1065,9 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1654-6						l i		
 1680-6						kʰ a n d a		
 1725-6						tʃ a p tʃ e		
-1742-6						m u g i		
 2127-6						dʒ a m ʃ u		
 2181-6						d̪ i l o		
 2366-6						j a kː a n		
-2535-6						ɕ a		
 2672-6						w a g a		
 2681-6						b a l u ŋ b o		
 55-6						d̪ a ʃ i b a k		
@@ -1085,11 +1089,9 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1460-6						s o ŋ		
 1487-6						dʒ o k t a ŋ		
 1521-6						tʃʰ u		
-1611-6						ʃ i k a n		
 1734-6						z i m b u		
 2172-6						b i		
 2209-6						p i t i ŋ		
-2645-6						h a ŋ j a		
 2737-6						ŋ i z a		
 329-6						tʃ a n tʃ a ɾ a n		
 464-6						t o tʃ a ŋ		
@@ -1100,6 +1102,9 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 873-6						pʰ u ŋ b e		
 909-6						pʰ e l o		
 990-6						tʃ o tʃ o		
+1133-6						j u		
+1150-6						s o ŋ a		
+1584-6						g a ɾ i l a m		
 10-7							dʒ a ŋ	
 37-7							n a n	
 46-7							n a n	
@@ -1118,7 +1123,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-7							kʰ o u	
 426-7							m ŭ k p a	
 473-7							pʰ i n a ŋ	
-483-7							w a	
 499-7							z a m ĭ n	
 526-7							g a ʃ a	
 544-7							kʰ u	
@@ -1178,6 +1182,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-7							pʰ a k p a	
 1477-7							ŋ a s	
 1502-7							ŋ a m s u	
+1511-7							m u d̪ j a ŋ b a	
 1529-7							tʃ a l u	
 1538-7							s u l u	
 1557-7							tʃ o i d u ŋ	
@@ -1187,6 +1192,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-7							kʰ u ŋ	
 1707-7							m o ŋ n a m	
 1716-7							ŋ a m	
+1742-7							m u g i	
 1751-7							b u tʃ i l a	
 1778-7							z a	
 1787-7							tʃ u r tʃ u r	
@@ -1207,6 +1213,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-7							ŋ a r kʰ e n	
 2507-7							tʰ ĭ n u ŋ	
 2526-7							l e	
+2535-7							ʃ a	
 2544-7							ʃ i ŋ	
 2560-7							s o ŋ n i tʃ i ŋ	
 2569-7							kʰ e tʰ u ɾ	
@@ -1228,6 +1235,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 190-7							p u tʃ i	
 338-7							b r u ŋ	
 436-7							z u l u	
+483-7							w a	
 535-7							s ŭ s u	
 571-7							g e l e n d i	
 699-7							d o ŋ p a	
@@ -1244,11 +1252,9 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1636-7							b e tʃ a	
 1680-7							kʰ a n tʰ u r	
 1725-7							tʃ a p tʃ i	
-1742-7							m u g i	
 2127-7							dʒ a m kʰ ə n	
 2181-7							d̪ i l o	
 2366-7							j e kʰ ə n	
-2535-7							ʃ a	
 2672-7							w a g a	
 2681-7							b a l a ŋ b u	
 55-7							d a ʃ i	
@@ -1269,9 +1275,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1244-7							k r o ŋ tʃ u ŋ	
 1460-7							s o ŋ a	
 1487-7							tʃ o k t̪ a ŋ	
-1511-7							m u d̪ j a ŋ b a	
 1521-7							tʃʰ u	
-1611-7							z i t kʰ e n	
 1734-7							z i m b u	
 2172-7							b i kʰ e n	
 2256-7							pʰ u a kʰ e n	
@@ -1290,6 +1294,8 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 909-7							pʰ e l u l a	
 990-7							tʃ o tʃ o	
 1013-7							g e dʒ a ŋ	
+1133-7							j u	
+1150-7							s o ŋ a	
 10-8								dʒ a ŋ
 37-8								n a n
 46-8								n a n
@@ -1308,7 +1314,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-8								kʰ a m u
 426-8								m ŭ k p a
 473-8								pʰ i n a ŋ
-483-8								w a
 499-8								z a m ĭ n
 526-8								k a ʃ a
 544-8								kʰ u
@@ -1368,6 +1373,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1468-8								pʰ a k p a
 1477-8								ŋ a s
 1502-8								ŋ a m s u
+1511-8								m u d̪ j a ŋ b a
 1529-8								tʃʰ a l u
 1538-8								s u l u
 1557-8								tʃ o d u m
@@ -1377,6 +1383,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 1698-8								kʰ u ŋ
 1707-8								m o ŋ n a ŋ
 1716-8								ŋ a m
+1742-8								m u h u
 1751-8								p u tʃʰ l a
 1778-8								s a
 1787-8								tʃʰ u r p u
@@ -1397,6 +1404,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2238-8								ŋ a r b a n
 2507-8								tʰ ĭ n u ŋ
 2526-8								l e
+2535-8								ʃ a
 2544-8								ʃ i ŋ
 2560-8								s o ŋ n i tʃ i ŋ
 2569-8								kʰ a i d u r
@@ -1419,6 +1427,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 257-8								tʰ a ŋ a
 338-8								b r u ŋ
 436-8								z u l u
+483-8								w a
 535-8								s o s o
 571-8								g e l e n d i
 845-8								ɾ o k o
@@ -1439,7 +1448,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 2127-8								dʒ a m a n
 2181-8								d̪ i l a n
 2366-8								j a k p a n
-2535-8								ʃ a
 2681-8								b a l a ŋ b u
 55-8								d̪ a ʃ i b a k
 116-8								tʰ u l i
@@ -1458,14 +1466,12 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 819-8								z a m b a
 918-8								j a ŋ l u ŋ
 1487-8								tʃ o k t̪ a ŋ
-1511-8								m u d̪ j a ŋ b a
 1521-8								tʃʰ u
-1611-8								dʒ i p a n
 2033-8								g o k p a n
 2172-8								b i l o
 2256-8								pʰ u l a n
-2645-8								h ă ŋ
 415-8								kʰ a m u
 627-8								g a ɾ a ŋ k i l i
 990-8								tʃ o
 1013-8								k e z a ŋ
+1584-8								g a ɾ i l a m

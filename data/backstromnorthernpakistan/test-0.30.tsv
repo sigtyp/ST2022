@@ -59,6 +59,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-1	?	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l
 610-1	?	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ
 350-1	?	bʲ ɜ ŋ o	bʲ ɜ ŋ m o	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ o
+871-1	?	o m ɑ	o m ɜ	o ŋ ɑ	o ŋ ɑ	o ŋ ɑ	o ŋ m ɑ
 734-1	?	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ
 431-1	?	kʰ i	kʰ i	kʰ i	kʰ i	kʰ i	x i
 1298-1	?	o ɣ b ʊ l	ɜ ɣ b ʊ l	o ɾ b ʊ l	o ɣ b ʊ l	o ɣ b ʊ l	ɾ z̪ b u l
@@ -72,7 +73,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1692-1	?	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	n̪ o n̪ o
 1306-1	?	b u	b u	b u	b u	b u	pʰ r̪ u
 405-1	?	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o
-294-1	?	b u	b u	p l̥ u	p l̥ u	p l̥ u	pʰ r̪ u
 709-2	g o o	?	g o o	g o o	g o o	g o o	g o o
 522-2	ɾ d o ŋ	?	o ɣ d o ŋ	ʊ ɣ d o ŋ	o ɣ d o ŋ	o ɣ d o ŋ	ʊ ɾ d o ŋ
 514-2	m i k	?	m ɪ k	m ɪ k	m ɪ k	m ɪ k	m i k
@@ -133,6 +133,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-2	tθʰ ɪ l	?	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l
 610-2	ȵʲ ɑ	?	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ
 350-2	bʲ ɜ ŋ o	?	bʲ ɜ ŋ m o	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ o
+871-2	o ŋ ɑ	?	o m ɜ	o ŋ ɑ	o ŋ ɑ	o ŋ ɑ	o ŋ m ɑ
 734-2	ɾ β̞ ɑ	?	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ
 431-2	kʰ i	?	kʰ i	kʰ i	kʰ i	kʰ i	x i
 1298-2	ɾ b ʊ l	?	ɜ ɣ b ʊ l	o ɾ b ʊ l	o ɣ b ʊ l	o ɣ b ʊ l	ɾ z̪ b u l
@@ -146,7 +147,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1692-2	n̪ o n̪ o	?	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	n̪ o n̪ o
 1306-2	b u	?	b u	b u	b u	b u	pʰ r̪ u
 405-2	b o ŋ o	?	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o
-294-2	b u	?	b u	p l̥ u	p l̥ u	p l̥ u	pʰ r̪ u
 709-3	g o o	g o o	?	g o o	g o o	g o o	g o o
 522-3	ɾ d o ŋ	ɣ ɜ d o ŋ	?	ʊ ɣ d o ŋ	o ɣ d o ŋ	o ɣ d o ŋ	ʊ ɾ d o ŋ
 514-3	m i k	m ɪ k	?	m ɪ k	m ɪ k	m ɪ k	m i k
@@ -207,6 +207,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-3	tθʰ ɪ l	tθʰ ɪ l	?	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l
 610-3	ȵʲ ɑ	ȵʲ ɑ	?	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ
 350-3	bʲ ɜ ŋ o	bʲ ɜ ŋ o	?	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ o
+871-3	o ŋ ɑ	o m ɑ	?	o ŋ ɑ	o ŋ ɑ	o ŋ ɑ	o ŋ m ɑ
 734-3	ɾ β̞ ɑ	ɾ β̞ ɑ	?	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ
 431-3	kʰ i	kʰ i	?	kʰ i	kʰ i	kʰ i	x i
 1298-3	ɾ b ʊ l	o ɣ b ʊ l	?	o ɾ b ʊ l	o ɣ b ʊ l	o ɣ b ʊ l	ɾ z̪ b u l
@@ -220,7 +221,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1692-3	n̪ o n̪ o	pʰ o n̪ o	?	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	n̪ o n̪ o
 1306-3	b u	b u	?	b u	b u	b u	pʰ r̪ u
 405-3	b o ŋ o	b o ŋ o	?	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o
-294-3	b u	b u	?	p l̥ u	p l̥ u	p l̥ u	pʰ r̪ u
 709-4	g o o	g o o	g o o	?	g o o	g o o	g o o
 522-4	ɾ d o ŋ	ɣ ɜ d o ŋ	o ɣ d o ŋ	?	o ɣ d o ŋ	o ɣ d o ŋ	ʊ ɾ d o ŋ
 514-4	m i k	m ɪ k	m ɪ k	?	m ɪ k	m ɪ k	m i k
@@ -281,6 +281,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-4	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	?	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l
 610-4	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	?	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ
 350-4	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ m o	?	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ o
+871-4	o ŋ ɑ	o m ɑ	o m ɜ	?	o ŋ ɑ	o ŋ ɑ	o ŋ m ɑ
 734-4	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	?	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ
 431-4	kʰ i	kʰ i	kʰ i	?	kʰ i	kʰ i	x i
 1298-4	ɾ b ʊ l	o ɣ b ʊ l	ɜ ɣ b ʊ l	?	o ɣ b ʊ l	o ɣ b ʊ l	ɾ z̪ b u l
@@ -294,7 +295,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1692-4	n̪ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	?	pʰ o n̪ o	pʰ o n̪ o	n̪ o n̪ o
 1306-4	b u	b u	b u	?	b u	b u	pʰ r̪ u
 405-4	b o ŋ o	b o ŋ o	b o ŋ o	?	b o ŋ o	b o ŋ o	b o ŋ o
-294-4	b u	b u	b u	?	p l̥ u	p l̥ u	pʰ r̪ u
 709-5	g o o	g o o	g o o	g o o	?	g o o	g o o
 522-5	ɾ d o ŋ	ɣ ɜ d o ŋ	o ɣ d o ŋ	ʊ ɣ d o ŋ	?	o ɣ d o ŋ	ʊ ɾ d o ŋ
 514-5	m i k	m ɪ k	m ɪ k	m ɪ k	?	m ɪ k	m i k
@@ -355,6 +355,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-5	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	?	tθʰ ɪ l	tθʰ ɪ l
 610-5	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	?	ȵʲ ɑ	ȵʲ ɑ
 350-5	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ m o	bʲ ɜ ŋ o	?	bʲ ɜ ŋ o	bʲ ɜ ŋ o
+871-5	o ŋ ɑ	o m ɑ	o m ɜ	o ŋ ɑ	?	o ŋ ɑ	o ŋ m ɑ
 734-5	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	?	ɾ β̞ ɑ	ɾ β̞ ɑ
 431-5	kʰ i	kʰ i	kʰ i	kʰ i	?	kʰ i	x i
 1298-5	ɾ b ʊ l	o ɣ b ʊ l	ɜ ɣ b ʊ l	o ɾ b ʊ l	?	o ɣ b ʊ l	ɾ z̪ b u l
@@ -368,7 +369,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1692-5	n̪ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	?	pʰ o n̪ o	n̪ o n̪ o
 1306-5	b u	b u	b u	b u	?	b u	pʰ r̪ u
 405-5	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o	?	b o ŋ o	b o ŋ o
-294-5	b u	b u	b u	p l̥ u	?	p l̥ u	pʰ r̪ u
 709-6	g o o	g o o	g o o	g o o	g o o	?	g o o
 522-6	ɾ d o ŋ	ɣ ɜ d o ŋ	o ɣ d o ŋ	ʊ ɣ d o ŋ	o ɣ d o ŋ	?	ʊ ɾ d o ŋ
 514-6	m i k	m ɪ k	m ɪ k	m ɪ k	m ɪ k	?	m i k
@@ -429,6 +429,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-6	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	?	tθʰ ɪ l
 610-6	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	?	ȵʲ ɑ
 350-6	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ m o	bʲ ɜ ŋ o	bʲ ɜ ŋ o	?	bʲ ɜ ŋ o
+871-6	o ŋ ɑ	o m ɑ	o m ɜ	o ŋ ɑ	o ŋ ɑ	?	o ŋ m ɑ
 734-6	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	?	ɾ β̞ ɑ
 431-6	kʰ i	kʰ i	kʰ i	kʰ i	kʰ i	?	x i
 1298-6	ɾ b ʊ l	o ɣ b ʊ l	ɜ ɣ b ʊ l	o ɾ b ʊ l	o ɣ b ʊ l	?	ɾ z̪ b u l
@@ -442,7 +443,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1692-6	n̪ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	?	n̪ o n̪ o
 1306-6	b u	b u	b u	b u	b u	?	pʰ r̪ u
 405-6	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o	?	b o ŋ o
-294-6	b u	b u	b u	p l̥ u	p l̥ u	?	pʰ r̪ u
 709-7	g o o	g o o	g o o	g o o	g o o	g o o	?
 522-7	ɾ d o ŋ	ɣ ɜ d o ŋ	o ɣ d o ŋ	ʊ ɣ d o ŋ	o ɣ d o ŋ	o ɣ d o ŋ	?
 514-7	m i k	m ɪ k	m ɪ k	m ɪ k	m ɪ k	m ɪ k	?
@@ -503,6 +503,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-7	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	tθʰ ɪ l	?
 610-7	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	ȵʲ ɑ	?
 350-7	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ m o	bʲ ɜ ŋ o	bʲ ɜ ŋ o	bʲ ɜ ŋ o	?
+871-7	o ŋ ɑ	o m ɑ	o m ɜ	o ŋ ɑ	o ŋ ɑ	o ŋ ɑ	?
 734-7	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	?
 431-7	kʰ i	kʰ i	kʰ i	kʰ i	kʰ i	kʰ i	?
 1298-7	ɾ b ʊ l	o ɣ b ʊ l	ɜ ɣ b ʊ l	o ɾ b ʊ l	o ɣ b ʊ l	o ɣ b ʊ l	?
@@ -516,4 +517,3 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1692-7	n̪ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	?
 1306-7	b u	b u	b u	b u	b u	b u	?
 405-7	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o	b o ŋ o	?
-294-7	b u	b u	b u	p l̥ u	p l̥ u	p l̥ u	?

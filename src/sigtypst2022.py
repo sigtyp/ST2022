@@ -24,13 +24,52 @@ def download(datasets, pth):
     """
     for dataset, conditions in datasets.items():
         if pth.joinpath(dataset, "cldf", "cldf-metadata.json").exists():
-            print("[i] skipping existing dataste {0}".format(dataset))
+            print("[i] skipping existing dataset {0}".format(dataset))
         else:
             repo = Repo.clone_from(
                     "https://github.com/"+conditions["path"]+".git",
                     pth / dataset)
             repo.git.checkout(conditions["version"])
             print("[i] downloaded {0}".format(dataset))
+
+
+def get_cognates(wordlist, ref):
+    """
+    Retrieve cognate sets from a wordlist.
+    """
+    etd = wordlist.get_etymdict(ref=ref)
+    cognates = {}
+
+    if ref == "cogids":
+        for cogid, idxs_ in etd.items():
+            idxs, count = {}, 0
+            for idx, language in zip(idxs_, wordlist.cols):
+                if idx:
+                    tks = wordlist[idx[0], "tokens"]
+                    cogidx = wordlist[idx[0], ref].index(cogid)
+                    idxs[language] = " ".join([
+                        x.split("/")[1] if "/" in x else x for x in
+                        tks.n[cogidx]])
+                    count += 1
+                else:
+                    idxs[language] = ""
+            if count >= 2:
+                cognates[cogid] = idxs
+
+    elif ref == "cogid":
+        for cogid, idxs_ in etd.items():
+            idxs, count = {}, 0
+            for idx, language in zip(idxs_, wordlist.cols):
+                if idx:
+                    tks = wordlist[idx[0], "tokens"]
+                    idxs[language] = " ".join([x.split("/")[1] if "/" in x
+                        else x for x in tks])
+                    count += 1
+                else:
+                    idxs[language] = ""
+            if count >= 2:
+                cognates[cogid] = idxs
+    return cognates
 
 
 def prepare(datasets, datapath, cldfdatapath, runs=1000):
@@ -53,8 +92,8 @@ def prepare(datasets, datapath, cldfdatapath, runs=1000):
             "language_"+conditions["subgroup"]
             ]
 
-        if conditions["cognates"] == "true":
-            columns += ["cogid_cognateset_id"]
+        if conditions["cognates"]:
+            columns += [conditions["cognates"]]
         # preprocessing to get the subset of the data
         wl = Wordlist.from_cldf(
             cldfdatapath.joinpath(dataset, "cldf", "cldf-metadata.json"),
@@ -64,45 +103,23 @@ def prepare(datasets, datapath, cldfdatapath, runs=1000):
         for idx, subgroup in wl.iter_rows("language_"+conditions["subgroup"]):
             if subgroup == conditions["name"]:
                 D[idx] = wl[idx]
-        if conditions["cognates"] == "false":
+        if not conditions["cognates"]:
             part = Partial(D)
             part.get_partial_scorer(runs=runs)
             part.partial_cluster(method="lexstat", threshold=0.45, ref="cogids",
                     cluster_method="infomap")
-            # check for lingrex here as well
-            etd = part.get_etymdict(ref="cogids")
-            cognates = {}
-            for cogid, idxs_ in etd.items():
-                idxs, count = {}, 0
-                for idx, language in zip(idxs_, part.cols):
-                    if idx:
-                        tks = part[idx[0], "tokens"]
-                        cogidx = part[idx[0], "cogids"].index(cogid)
-                        idxs[language] = " ".join([
-                            x.split("/")[1] if "/" in x else x for x in
-                            tks.n[cogidx]])
-                        count += 1
-                    else:
-                        idxs[language] = ""
-                if count >= 2:
-                    cognates[cogid] = idxs
+            ref = "cogids"
+        elif conditions["cognates"] == "cognacy":
+            part = Wordlist(D)
+            ref = "cogids"
+            C = {}
+            for idx in part:
+                C[idx] = basictypes.ints(part[idx, "cognacy"])
+            part.add_entries("cogids", C, lambda x: x)
         else:
             part = Wordlist(D)
-            etd = part.get_etymdict(ref="cogid")
-            cognates = {}
-            for cogid, idxs_ in etd.items():
-                idxs, count = {}, 0
-                for idx, language in zip(idxs_, part.cols):
-                    if idx:
-                        tks = part[idx[0], "tokens"]
-                        idxs[language] = " ".join([x.split("/")[1] if "/" in x
-                            else x for x in tks])
-                        count += 1
-                    else:
-                        idxs[language] = ""
-                if count >= 2:
-                    cognates[cogid] = idxs
-            
+            ref = "cogid"
+        cognates = get_cognates(part, ref)            
 
         if datapath.joinpath(dataset).exists():
             pass
@@ -728,7 +745,7 @@ def main(*args):
                             "solutions-"+prop+".tsv"),
                         report=False)[-1]]
                 results[-1][0] = data
-            print(tabulate(results, headers=[
+            print(tabulate(sorted(results), headers=[
                 "DATASET", "ED", "ED (NORM)", "B-CUBED FS"], floatfmt=".3f"))
 
 

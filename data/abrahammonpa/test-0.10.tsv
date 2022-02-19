@@ -17,7 +17,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-1	?	kʰ a u	kʰ a u	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ o u	kʰ a m u
 426-1	?	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-1	?	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-1	?	w a	w a	w a d a m o	w a	w a	w a	w a
 499-1	?	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-1	?	g a ʃ a	g a ʃ j a	g a ɕ a	g a ʃ a	g a ʃ a	g a ʃ a	k a ʃ a
 544-1	?	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u
@@ -39,6 +38,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 800-1	?	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a
 809-1	?	m o m n a ŋ	m o m n a ʋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ
 836-1	?	p ʃ i	b ə̆ s i	p s i	p s i	p ʃ i	p s i	p ʃ i
+881-1	?	l a m	l a m	l a m	l a m	l a m	l a m	l a m
 10-2	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ
 37-2	n a n	?	n a n	n a n	n a n	n a n	n a n	n a n
 46-2	n a n	?	n a n	n a n	n a n	n a n	n a n	n a n
@@ -57,7 +57,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-2	kʰ a m u ŋ	?	kʰ a u	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ o u	kʰ a m u
 426-2	m ŭ k p a	?	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-2	pʰ i n a ŋ	?	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-2	w a	?	w a	w a d a m o	w a	w a	w a	w a
 499-2	z a m ĭ n	?	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-2	g a ʃ a	?	g a ʃ j a	g a ɕ a	g a ʃ a	g a ʃ a	g a ʃ a	k a ʃ a
 544-2	kʰ u	?	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u
@@ -79,6 +78,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 800-2	ŋ a	?	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a
 809-2	m o m n a ŋ	?	m o m n a ʋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ
 836-2	p ʃ i	?	b ə̆ s i	p s i	p s i	p ʃ i	p s i	p ʃ i
+881-2	l a m	?	l a m	l a m	l a m	l a m	l a m	l a m
 10-3	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ
 37-3	n a n	n a n	?	n a n	n a n	n a n	n a n	n a n
 46-3	n a n	n a n	?	n a n	n a n	n a n	n a n	n a n
@@ -97,7 +97,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-3	kʰ a m u ŋ	kʰ a u	?	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ o u	kʰ a m u
 426-3	m ŭ k p a	m ŭ k p a	?	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-3	pʰ i n a ŋ	pʰ i n t a ŋ	?	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-3	w a	w a	?	w a d a m o	w a	w a	w a	w a
 499-3	z a m ĭ n	z a m ĭ n	?	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-3	g a ʃ a	g a ʃ a	?	g a ɕ a	g a ʃ a	g a ʃ a	g a ʃ a	k a ʃ a
 544-3	kʰ u	kʰ u	?	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u
@@ -119,6 +118,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 800-3	ŋ a	ŋ a	?	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a
 809-3	m o m n a ŋ	m o m n a ŋ	?	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ
 836-3	p ʃ i	p ʃ i	?	p s i	p s i	p ʃ i	p s i	p ʃ i
+881-3	l a m	l a m	?	l a m	l a m	l a m	l a m	l a m
 10-4	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ
 37-4	n a n	n a n	n a n	?	n a n	n a n	n a n	n a n
 46-4	n a n	n a n	n a n	?	n a n	n a n	n a n	n a n
@@ -137,7 +137,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-4	kʰ a m u ŋ	kʰ a u	kʰ a u	?	kʰ a u	kʰ a u	kʰ o u	kʰ a m u
 426-4	m ŭ k p a	m ŭ k p a	m ŭ k p a	?	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-4	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	?	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-4	w a	w a	w a	?	w a	w a	w a	w a
 499-4	z a m ĭ n	z a m ĭ n	z a m ĭ n	?	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-4	g a ʃ a	g a ʃ a	g a ʃ j a	?	g a ʃ a	g a ʃ a	g a ʃ a	k a ʃ a
 544-4	kʰ u	kʰ u	kʰ u	?	kʰ u	kʰ u	kʰ u	kʰ u
@@ -159,6 +158,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 800-4	ŋ a	ŋ a	ŋ a	?	ŋ a	ŋ a	ŋ a	ŋ a
 809-4	m o m n a ŋ	m o m n a ŋ	m o m n a ʋ	?	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ
 836-4	p ʃ i	p ʃ i	b ə̆ s i	?	p s i	p ʃ i	p s i	p ʃ i
+881-4	l a m	l a m	l a m	?	l a m	l a m	l a m	l a m
 10-5	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ
 37-5	n a n	n a n	n a n	n a n	?	n a n	n a n	n a n
 46-5	n a n	n a n	n a n	n a n	?	n a n	n a n	n a n
@@ -177,7 +177,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-5	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ a m u ŋ	?	kʰ a u	kʰ o u	kʰ a m u
 426-5	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	?	m ŭ k p a	m ŭ k p a	m ŭ k p a
 473-5	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	?	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ
-483-5	w a	w a	w a	w a d a m o	?	w a	w a	w a
 499-5	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	?	z a m ĭ n	z a m ĭ n	z a m ĭ n
 526-5	g a ʃ a	g a ʃ a	g a ʃ j a	g a ɕ a	?	g a ʃ a	g a ʃ a	k a ʃ a
 544-5	kʰ u	kʰ u	kʰ u	kʰ u	?	kʰ u	kʰ u	kʰ u
@@ -199,6 +198,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 800-5	ŋ a	ŋ a	ŋ a	ŋ a	?	ŋ a	ŋ a	ŋ a
 809-5	m o m n a ŋ	m o m n a ŋ	m o m n a ʋ	m o m n a ŋ	?	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ
 836-5	p ʃ i	p ʃ i	b ə̆ s i	p s i	?	p ʃ i	p s i	p ʃ i
+881-5	l a m	l a m	l a m	l a m	?	l a m	l a m	l a m
 10-6	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ	dʒ a ŋ
 37-6	n a n	n a n	n a n	n a n	n a n	?	n a n	n a n
 46-6	n a n	n a n	n a n	n a n	n a n	?	n a n	n a n
@@ -217,7 +217,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-6	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ a m u ŋ	kʰ a u	?	kʰ o u	kʰ a m u
 426-6	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	?	m ŭ k p a	m ŭ k p a
 473-6	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	?	pʰ i n a ŋ	pʰ i n a ŋ
-483-6	w a	w a	w a	w a d a m o	w a	?	w a	w a
 499-6	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	?	z a m ĭ n	z a m ĭ n
 526-6	g a ʃ a	g a ʃ a	g a ʃ j a	g a ɕ a	g a ʃ a	?	g a ʃ a	k a ʃ a
 544-6	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	?	kʰ u	kʰ u
@@ -239,6 +238,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 800-6	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a	?	ŋ a	ŋ a
 809-6	m o m n a ŋ	m o m n a ŋ	m o m n a ʋ	m o m n a ŋ	m o m n a ŋ	?	m o m n a ŋ	m o m n a ŋ
 836-6	p ʃ i	p ʃ i	b ə̆ s i	p s i	p s i	?	p s i	p ʃ i
+881-6	l a m	l a m	l a m	l a m	l a m	?	l a m	l a m
 10-7	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?	dʒ a ŋ
 37-7	n a n	n a n	n a n	n a n	n a n	n a n	?	n a n
 46-7	n a n	n a n	n a n	n a n	n a n	n a n	?	n a n
@@ -257,7 +257,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-7	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ a m u ŋ	kʰ a u	kʰ a u	?	kʰ a m u
 426-7	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	?	m ŭ k p a
 473-7	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	?	pʰ i n a ŋ
-483-7	w a	w a	w a	w a d a m o	w a	w a	?	w a
 499-7	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	?	z a m ĭ n
 526-7	g a ʃ a	g a ʃ a	g a ʃ j a	g a ɕ a	g a ʃ a	g a ʃ a	?	k a ʃ a
 544-7	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	?	kʰ u
@@ -279,6 +278,7 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 800-7	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a	?	ŋ a
 809-7	m o m n a ŋ	m o m n a ŋ	m o m n a ʋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	?	m o m n a ŋ
 836-7	p ʃ i	p ʃ i	b ə̆ s i	p s i	p s i	p ʃ i	?	p ʃ i
+881-7	l a m	l a m	l a m	l a m	l a m	l a m	?	l a m
 10-8	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	dʒ a ŋ	?
 37-8	n a n	n a n	n a n	n a n	n a n	n a n	n a n	?
 46-8	n a n	n a n	n a n	n a n	n a n	n a n	n a n	?
@@ -297,7 +297,6 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 406-8	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ a m u ŋ	kʰ a u	kʰ a u	kʰ o u	?
 426-8	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	m ŭ k p a	?
 473-8	pʰ i n a ŋ	pʰ i n t a ŋ	pʰ i n t a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	pʰ i n a ŋ	?
-483-8	w a	w a	w a	w a d a m o	w a	w a	w a	?
 499-8	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	z a m ĭ n	?
 526-8	g a ʃ a	g a ʃ a	g a ʃ j a	g a ɕ a	g a ʃ a	g a ʃ a	g a ʃ a	?
 544-8	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	kʰ u	?
@@ -319,3 +318,4 @@ COGID	MonpaBalemu	MonpaDirang	MonpaDirangDum	MonpaKalaktang	MonpaNamsu	MonpaSang
 800-8	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a	ŋ a	?
 809-8	m o m n a ŋ	m o m n a ŋ	m o m n a ʋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	m o m n a ŋ	?
 836-8	p ʃ i	p ʃ i	b ə̆ s i	p s i	p s i	p ʃ i	p s i	?
+881-8	l a m	l a m	l a m	l a m	l a m	l a m	l a m	?

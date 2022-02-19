@@ -59,6 +59,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-1	tθʰ ɪ l						
 610-1	ȵʲ ɑ						
 350-1	bʲ ɜ ŋ o						
+871-1	o ŋ ɑ						
 734-1	ɾ β̞ ɑ						
 431-1	kʰ i						
 1298-1	ɾ b ʊ l						
@@ -80,7 +81,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 181-1	pʰ ɪ r̪ o						
 1660-1	g o n̪ d e						
 1440-1	d̪ ɪ r̪ i ŋ						
-896-1	l dð ɑ						
 1652-1	l o						
 1037-1	ȵ̊ i ȵ p ɑ						
 677-1	lʲ ɜ x m o						
@@ -158,6 +158,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-2		tθʰ ɪ l					
 610-2		ȵʲ ɑ					
 350-2		bʲ ɜ ŋ o					
+871-2		o m ɑ					
 734-2		ɾ β̞ ɑ					
 431-2		kʰ i					
 1298-2		o ɣ b ʊ l					
@@ -179,7 +180,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 181-2		pʰ i r̪ o					
 1660-2		g u n̪ d e					
 1440-2		d̪ ɪ r̪ i ŋ					
-896-2		l dð ɑ					
 1652-2		l o					
 1037-2		s̪ ȵ ĩ ŋ m ɜ					
 677-2		lʲ ɜ x m o					
@@ -257,6 +257,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-3			tθʰ ɪ l				
 610-3			ȵʲ ɑ				
 350-3			bʲ ɜ ŋ m o				
+871-3			o m ɜ				
 734-3			ɾ β̞ ɑ				
 431-3			kʰ i				
 1298-3			ɜ ɣ b ʊ l				
@@ -278,7 +279,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 181-3			pʰ r̪ i d o				
 1660-3			g ʊ n̪ d e				
 1440-3			d̪ ɪ r̪ i ŋ				
-896-3			l dð ɑ				
 1652-3			l o				
 1037-3			ɕ ȵ ĩ m ɜ				
 677-3			lʲ ɜ x m o				
@@ -356,6 +356,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-4				tθʰ ɪ l			
 610-4				ȵʲ ɑ			
 350-4				bʲ ɜ ŋ o			
+871-4				o ŋ ɑ			
 734-4				ɾ β̞ ɑ			
 431-4				kʰ i			
 1298-4				o ɾ b ʊ l			
@@ -377,7 +378,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 181-4				f i t̪ r̪ o			
 1660-4				g ʊ n̪ d e			
 1440-4				d̪ ɪ r̪ i ŋ			
-896-4				l dð ɑ			
 1652-4				l o			
 1037-4				s̪ ȵ i ŋ m ɜ			
 677-4				lʲ ɜ x m o			
@@ -455,6 +455,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-5					tθʰ ɪ l		
 610-5					ȵʲ ɑ		
 350-5					bʲ ɜ ŋ o		
+871-5					o ŋ ɑ		
 734-5					ɾ β̞ ɑ		
 431-5					kʰ i		
 1298-5					o ɣ b ʊ l		
@@ -476,7 +477,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 181-5					pʰ i r̪ o		
 1660-5					g u n̪ d e		
 1440-5					d̪ ɪ r̪ i ŋ		
-896-5					l z̪ ɑ		
 1652-5					l o		
 1037-5					ȵ̊ i ȵ m ɜ		
 677-5					lʲ ɜ x m o		
@@ -554,6 +554,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-6						tθʰ ɪ l	
 610-6						ȵʲ ɑ	
 350-6						bʲ ɜ ŋ o	
+871-6						o ŋ ɑ	
 734-6						ɾ β̞ ɑ	
 431-6						kʰ i	
 1298-6						o ɣ b ʊ l	
@@ -575,7 +576,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 181-6						pʰ i t̪ r̪ o	
 1660-6						g u n̪ d e	
 1440-6						d̪ ɪ r̪ i ŋ	
-896-6						l z̪ ɑ	
 1652-6						l o	
 1037-6						s̪ ȵ i ŋ m ɜ	
 677-6						lʲ ɜ x m o	
@@ -653,6 +653,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 539-7							tθʰ ɪ l
 610-7							ȵʲ ɑ
 350-7							bʲ ɜ ŋ o
+871-7							o ŋ m ɑ
 734-7							ɾ β̞ ɑ
 431-7							x i
 1298-7							ɾ z̪ b u l
@@ -674,7 +675,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 181-7							pʰ i tʰ o q
 1660-7							g ʊ n̪ d e
 1440-7							d̪ ɪ r̪ i ŋ
-896-7							l dð ɑ
 1652-7							l oˑ
 1037-7							s̪ ŋ i ŋ m ɜ
 677-7							lʲ ɜ x m o

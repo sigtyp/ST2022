@@ -3,7 +3,6 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 6485-1	ˀb ə n ¹															
 4690-1	m o n ¹															
 5671-1	f ə n ¹															
-6599-1	ˀn ui ¹															
 4272-1	l aː p ¹															
 10935-1	ⁿb e ¹															
 4760-1	n j aː n ¹															
@@ -74,6 +73,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-1	k i ¹															
 1089-1	kʰ u p ¹															
 843-1	n a n ¹															
+2787-1	w a t ¹															
 4462-1	ˀn u n ¹															
 10918-1	h a n ¹															
 6582-1	h ui ¹															
@@ -89,7 +89,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2393-1	ˀn a ¹															
 1156-1	ŋ ai ¹															
 2374-1	ⁿd a ¹															
-2146-1	qʰ a ¹															
+2146-1	kʰ a ¹															
 5133-1	ˀn a ŋ ¹															
 4981-1	m u k ¹															
 10239-1	m a ¹															
@@ -101,14 +101,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-1	m j a ¹															
 5369-1	m j a ¹															
 2749-1	ȶ o n ¹															
+2621-1	l j a p ¹															
 1181-1	t a k ¹															
 949-1	t j u ¹															
-2839-1	t i n ¹															
 6882-2		z ə t ¹														
 6485-2		ˀb ə n ¹														
 4690-2		m o n ¹														
 5671-2		f ə n ¹														
-6599-2		ˀn ui ¹														
 4272-2		l aː p ¹														
 10935-2		ⁿb e ¹														
 4760-2		n j e n ¹														
@@ -179,6 +178,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-2		k i ¹														
 1089-2		kʰ u p ¹														
 843-2		n a n ¹														
+2787-2		ɕ w a t ¹														
 4462-2		ˀn u n ¹														
 10918-2		h a n ¹														
 6582-2		h ui ¹														
@@ -206,14 +206,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-2		m j a ¹														
 5369-2		m j a ¹														
 2749-2		ȶ o n ¹														
+2621-2		l j a p ¹														
 1181-2		t a k ¹														
 949-2		t j u ¹														
-2839-2		t i n ¹														
 6882-3			z ə t ¹													
 6485-3			ˀb ə n ¹													
 4690-3			m o n ¹													
 5671-3			f ə n ¹													
-6599-3			ˀn ui ¹													
 4272-3			l aː p ¹													
 10935-3			ⁿb e ¹													
 4760-3			n j aː n ¹													
@@ -249,7 +248,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 5351-3			ˀɣ a ¹													
 4073-3			ⁿd aːi ¹													
 2163-3			ⁿb j aː ŋ ¹													
-1121-3			f a ¹													
+1121-3			f e ¹													
 5790-3			v aː ŋ ¹													
 10413-3			ˀm a ¹													
 6731-3			ˀm a ¹													
@@ -284,6 +283,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-3			k i ¹													
 1089-3			kʰ u p ¹													
 843-3			n a n ¹													
+2787-3			pʰ a t ¹													
 4462-3			ˀn u n ¹													
 10918-3			h a n ¹													
 6582-3			h ui ¹													
@@ -299,7 +299,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2393-3			ˀn a ¹													
 1156-3			ŋ ai ¹													
 2374-3			ⁿd a ¹													
-2146-3			qʰ a ¹													
+2146-3			kʰ a ¹													
 5133-3			ˀn a ŋ ¹													
 4981-3			m u k ¹													
 10239-3			m a ¹													
@@ -311,14 +311,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-3			m j a ¹													
 5369-3			m j a ¹													
 2749-3			ȶ o n ¹													
+2621-3			l j a p ¹													
 1181-3			t a k ¹													
 949-3			t j u ¹													
-2839-3			t i n ¹													
 6882-4				z ə t ¹												
 6485-4				ⁿb ə n ¹												
 4690-4				m o n ¹												
 5671-4				f ə n ¹												
-6599-4				ˀn ui ¹												
 4272-4				l aː p ¹												
 10935-4				ⁿb e ¹												
 4760-4				n j e n ¹												
@@ -389,6 +388,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-4				k i ¹												
 1089-4				kʰ u p ¹												
 843-4				n a n ¹												
+2787-4				j m̥ a t ¹												
 4462-4				ˀn u n ¹												
 10918-4				h a n ¹												
 6582-4				h ui ¹												
@@ -416,14 +416,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-4				m j a ¹												
 5369-4				m j a ¹												
 2749-4				ȶ o n ¹												
+2621-4				l j a p ¹												
 1181-4				t a k ¹												
 949-4				t j u ¹												
-2839-4				t i n ¹												
 6882-5					z ə t ¹											
 6485-5					ˀb ə n ¹											
 4690-5					m o n ¹											
 5671-5					f ə n ¹											
-6599-5					ˀn ui ¹											
 4272-5					l aː p ¹											
 10935-5					ⁿb e ¹											
 4760-5					n j aː n ¹											
@@ -494,6 +493,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-5					k i ¹											
 1089-5					kʰ u p ¹											
 843-5					n a n ¹											
+2787-5					m̥ a t ¹											
 4462-5					ˀn u n ¹											
 10918-5					h a n ¹											
 6582-5					h ui ¹											
@@ -521,14 +521,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-5					m j a ¹											
 5369-5					m j a ¹											
 2749-5					ȶ o n ¹											
+2621-5					l j a p ¹											
 1181-5					t a k ¹											
 949-5					t j u ¹											
-2839-5					t i n ¹											
 6882-6						z ə t ¹										
 6485-6						ˀb ə n ¹										
 4690-6						m o n ¹										
 5671-6						f ə n ¹										
-6599-6						ˀn ui ¹										
 4272-6						l aː p ¹										
 10935-6						ⁿb e ¹										
 4760-6						n j e n ¹										
@@ -564,7 +563,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 5351-6						ˀɣ a ¹										
 4073-6						ⁿd aːi ¹										
 2163-6						ⁿb j aː ŋ ¹										
-1121-6						f a ¹										
+1121-6						f e ¹										
 5790-6						v aː ŋ ¹										
 10413-6						ˀm a ¹										
 6731-6						ˀm a ¹										
@@ -599,6 +598,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-6						k i ¹										
 1089-6						kʰ u p ¹										
 843-6						n a n ¹										
+2787-6						m̥ Ø a t ¹										
 4462-6						ˀn u n ¹										
 10918-6						h a n ¹										
 6582-6						h ui ¹										
@@ -626,14 +626,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-6						m j a ¹										
 5369-6						m j a ¹										
 2749-6						ȶ o n ¹										
+2621-6						l j a p ¹										
 1181-6						t a k ¹										
 949-6						t j u ¹										
-2839-6						t i n ¹										
 6882-7							t ə t ¹									
 6485-7							ˀb ə n ¹									
 4690-7							m o n ¹									
 5671-7							f ə n ¹									
-6599-7							ˀn ui ¹									
 4272-7							l aː p ¹									
 10935-7							ⁿb e ¹									
 4760-7							n j aː n ¹									
@@ -704,6 +703,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-7							k i ¹									
 1089-7							kʰ u p ¹									
 843-7							n a n ¹									
+2787-7							m̥ a t ¹									
 4462-7							ˀn u n ¹									
 10918-7							h a n ¹									
 6582-7							h ui ¹									
@@ -731,14 +731,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-7							m j a ¹									
 5369-7							m j a ¹									
 2749-7							ȶ o n ¹									
+2621-7							l j a p ¹									
 1181-7							t a k ¹									
 949-7							t j u ¹									
-2839-7							t i n ¹									
 6882-8								z ə t ¹								
 6485-8								ˀb ə n ¹								
 4690-8								m o n ¹								
 5671-8								f ə n ¹								
-6599-8								ˀn ui ¹								
 4272-8								l aː p ¹								
 10935-8								ⁿb e ¹								
 4760-8								n j aː n ¹								
@@ -809,6 +808,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-8								k i ¹								
 1089-8								kʰ u p ¹								
 843-8								n a n ¹								
+2787-8								m̥ a t ¹								
 4462-8								ˀn u n ¹								
 10918-8								h a n ¹								
 6582-8								h ui ¹								
@@ -824,7 +824,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2393-8								ˀn a ¹								
 1156-8								ŋ ai ¹								
 2374-8								ⁿd a ¹								
-2146-8								qʰ a ¹								
+2146-8								kʰ a ¹								
 5133-8								ˀn a ŋ ¹								
 4981-8								m u k ¹								
 10239-8								m a ¹								
@@ -836,14 +836,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-8								m j a ¹								
 5369-8								m j a ¹								
 2749-8								ȶ o n ¹								
+2621-8								l j a p ¹								
 1181-8								t a k ¹								
 949-8								t j u ¹								
-2839-8								t i n ¹								
 6882-9									z ə t ¹							
 6485-9									ˀb ə n ¹							
 4690-9									m o n ¹							
 5671-9									f ə n ¹							
-6599-9									ˀn ui ¹							
 4272-9									l aː p ¹							
 10935-9									ⁿb e ¹							
 4760-9									n j aː n ¹							
@@ -914,6 +913,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-9									k i ¹							
 1089-9									kʰ u p ¹							
 843-9									n a n ¹							
+2787-9									m̥ a t ¹							
 4462-9									ˀn u n ¹							
 10918-9									h a n ¹							
 6582-9									h ui ¹							
@@ -929,7 +929,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2393-9									ˀn a ¹							
 1156-9									ŋ ai ¹							
 2374-9									ⁿd a ¹							
-2146-9									qʰ a ¹							
+2146-9									kʰ a ¹							
 5133-9									ˀn a ŋ ¹							
 4981-9									m u k ¹							
 10239-9									m a ¹							
@@ -941,14 +941,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-9									m j a ¹							
 5369-9									m j a ¹							
 2749-9									ȶ o n ¹							
+2621-9									l j a p ¹							
 1181-9									t a k ¹							
 949-9									t j u ¹							
-2839-9									t i n ¹							
 6882-10										z ə t ¹						
 6485-10										ˀb ə n ¹						
 4690-10										m o n ¹						
 5671-10										f ə n ¹						
-6599-10										ˀn ui ¹						
 4272-10										l aː p ¹						
 10935-10										ⁿb e ¹						
 4760-10										n j aː n ¹						
@@ -1004,7 +1003,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 714-10										n o k ¹						
 1729-10										q a ¹						
 3679-10										m a ¹						
-1054-10										m aːu ¹						
+1054-10										m eu ¹						
 7448-10										m u m ¹						
 582-10										ˀm i ¹						
 4743-10										m o n ¹						
@@ -1019,6 +1018,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-10										k i ¹						
 1089-10										kʰ u p ¹						
 843-10										n a n ¹						
+2787-10										m̥ a t ¹						
 4462-10										ˀn u n ¹						
 10918-10										h a n ¹						
 6582-10										h ui ¹						
@@ -1034,7 +1034,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2393-10										ˀn a ¹						
 1156-10										ŋ ai ¹						
 2374-10										ⁿd a ¹						
-2146-10										qʰ a ¹						
+2146-10										kʰ a ¹						
 5133-10										ˀn a ŋ ¹						
 4981-10										m u k ¹						
 10239-10										m a ¹						
@@ -1046,14 +1046,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-10										m j a ¹						
 5369-10										m j a ¹						
 2749-10										ȶ o n ¹						
+2621-10										l j a p ¹						
 1181-10										t a k ¹						
 949-10										t j u ¹						
-2839-10										t i n ¹						
 6882-11											z ə t ¹					
 6485-11											ˀb ə n ¹					
 4690-11											m o n ¹					
 5671-11											f ə n ¹					
-6599-11											ˀn ui ¹					
 4272-11											l aː p ¹					
 10935-11											ⁿb e ¹					
 4760-11											n j aː n ¹					
@@ -1095,7 +1094,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 6731-11											ˀm a ¹					
 1645-11											ˀm a ¹					
 4914-11											ˀm a ¹					
-6175-11											n a ¹					
+6175-11											ŋ a ¹					
 3092-11											s i ŋ ¹					
 1247-11											l j aː n ¹					
 5620-11											ɕ j eu ¹					
@@ -1124,6 +1123,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-11											k i ¹					
 1089-11											kʰ u p ¹					
 843-11											n a n ¹					
+2787-11											m̥ a t ¹					
 4462-11											ˀn u n ¹					
 10918-11											h a n ¹					
 6582-11											h ui ¹					
@@ -1151,14 +1151,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-11											m j a ¹					
 5369-11											m j a ¹					
 2749-11											ȶ o n ¹					
+2621-11											l j a p ¹					
 1181-11											t a k ¹					
 949-11											t j u ¹					
-2839-11											t i n ¹					
 6882-12												z ə t ¹				
 6485-12												ˀb ə n ¹				
 4690-12												m o n ¹				
-5671-12												j f j ə n ¹				
-6599-12												ˀn ui ¹				
+5671-12												f j ə n ¹				
 4272-12												l aː p ¹				
 10935-12												ⁿb e ¹				
 4760-12												n j e n ¹				
@@ -1179,7 +1178,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 1071-12												q aː m ¹				
 10313-12												m ai ¹				
 2671-12												ⁿd j ə t ¹				
-5502-12												j f aː k ¹				
+5502-12												f aː k ¹				
 7382-12												ⁿd u n ¹				
 932-12												ts i ŋ ¹				
 533-12												m ai ¹				
@@ -1229,6 +1228,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-12												k i ¹				
 1089-12												kʰ u p ¹				
 843-12												n a n ¹				
+2787-12												m̥ a t ¹				
 4462-12												ˀn u n ¹				
 10918-12												h a n ¹				
 6582-12												h ui ¹				
@@ -1256,14 +1256,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-12												m j a ¹				
 5369-12												m j a ¹				
 2749-12												ȶ o n ¹				
+2621-12												l j a p ¹				
 1181-12												t a k ¹				
 949-12												t j u ¹				
-2839-12												t i n ¹				
 6882-13													z ə t ¹			
 6485-13													ˀb ə n ¹			
 4690-13													m o n ¹			
-5671-13													j f j ə n ¹			
-6599-13													ˀn ui ¹			
+5671-13													f j ə n ¹			
 4272-13													l aː p ¹			
 10935-13													ⁿb e ¹			
 4760-13													n j Ø n ¹			
@@ -1284,7 +1283,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 1071-13													q aː m ¹			
 10313-13													m ai ¹			
 2671-13													ⁿd j ə t ¹			
-5502-13													j f aː k ¹			
+5502-13													f aː k ¹			
 7382-13													ⁿd u n ¹			
 932-13													ts i ŋ ¹			
 533-13													m ai ¹			
@@ -1334,6 +1333,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-13													k i ¹			
 1089-13													kʰ u p ¹			
 843-13													n a n ¹			
+2787-13													ɕ a t ¹			
 4462-13													ˀn u n ¹			
 10918-13													h a n ¹			
 6582-13													h ui ¹			
@@ -1360,15 +1360,14 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 311-13													h aː k ¹			
 3430-13													m j a ¹			
 5369-13													m j a ¹			
-2749-13													ȶ w o n ¹			
+2749-13													ȶ o n ¹			
+2621-13													l j a p ¹			
 1181-13													t a k ¹			
 949-13													t j u ¹			
-2839-13													t i n ¹			
 6882-14														z ə t ¹		
 6485-14														ˀb ə n ¹		
 4690-14														m o n ¹		
 5671-14														f ə n ¹		
-6599-14														ˀn ui ¹		
 4272-14														l aː p ¹		
 10935-14														ⁿb e ¹		
 4760-14														n j aː n ¹		
@@ -1439,6 +1438,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-14														k i ¹		
 1089-14														kʰ u p ¹		
 843-14														n a n ¹		
+2787-14														m̥ a t ¹		
 4462-14														ˀn u n ¹		
 10918-14														h a n ¹		
 6582-14														h ui ¹		
@@ -1454,7 +1454,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2393-14														ˀn a ¹		
 1156-14														ŋ ai ¹		
 2374-14														ⁿd a ¹		
-2146-14														qʰ a ¹		
+2146-14														a ¹		
 5133-14														ˀn a ŋ ¹		
 4981-14														m u k ¹		
 10239-14														m a ¹		
@@ -1466,14 +1466,13 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-14														m j a ¹		
 5369-14														m j a ¹		
 2749-14														ȶ o n ¹		
+2621-14														l j a p ¹		
 1181-14														t a k ¹		
 949-14														t j u ¹		
-2839-14														t i n ¹		
 6882-15															z ə t ¹	
 6485-15															ˀb ə n ¹	
 4690-15															m o n ¹	
-5671-15															f ə n ¹	
-6599-15															ˀn ui ¹	
+5671-15															Ø f ə n ¹	
 4272-15															l aː p ¹	
 10935-15															ⁿb e ¹	
 4760-15															n j aː n ¹	
@@ -1494,7 +1493,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 1071-15															q aː m ¹	
 10313-15															m ai ¹	
 2671-15															ⁿd j ə t ¹	
-5502-15															f aː k ¹	
+5502-15															Ø f aː k ¹	
 7382-15															ⁿd u n ¹	
 932-15															ts i ŋ ¹	
 533-15															m ai ¹	
@@ -1544,6 +1543,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-15															k i ¹	
 1089-15															kʰ a p ¹	
 843-15															n a n ¹	
+2787-15															m̥ Ø a t ¹	
 4462-15															ˀn u n ¹	
 10918-15															h a n ¹	
 6582-15															h ui ¹	
@@ -1559,7 +1559,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2393-15															ˀn a ¹	
 1156-15															ŋ ai ¹	
 2374-15															ⁿd a ¹	
-2146-15															qʰ a ¹	
+2146-15															a ¹	
 5133-15															ˀn a ŋ ¹	
 4981-15															m u k ¹	
 10239-15															m a ¹	
@@ -1570,15 +1570,14 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 311-15															h aː k ¹	
 3430-15															m j a ¹	
 5369-15															m j a ¹	
-2749-15															ȶ o n ¹	
+2749-15															ȶ Ø o n ¹	
+2621-15															l j a p ¹	
 1181-15															t a k ¹	
 949-15															t j u ¹	
-2839-15															t i n ¹	
 6882-16																z ə t ¹
 6485-16																ˀb ə n ¹
 4690-16																m o n ¹
 5671-16																f ə n ¹
-6599-16																ˀn ui ¹
 4272-16																l aː p ¹
 10935-16																ⁿb e ¹
 4760-16																n j aː n ¹
@@ -1649,6 +1648,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2533-16																k i ¹
 1089-16																kʰ u p ¹
 843-16																n a n ¹
+2787-16																m̥ a t ¹
 4462-16																ˀn u n ¹
 10918-16																h a n ¹
 6582-16																h ui ¹
@@ -1664,7 +1664,7 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 2393-16																ˀn a ¹
 1156-16																ŋ ai ¹
 2374-16																ⁿd a ¹
-2146-16																qʰ a ¹
+2146-16																a ¹
 5133-16																ˀn a ŋ ¹
 4981-16																m u k ¹
 10239-16																m a ¹
@@ -1676,6 +1676,6 @@ COGID	AntangWesternSandong	BanliangYangAn	DujiangEasternSandong	JiaoliPandong	Ji
 3430-16																m j a ¹
 5369-16																m j a ¹
 2749-16																ȶ o n ¹
+2621-16																l j a p ¹
 1181-16																t a k ¹
 949-16																t j u ¹
-2839-16																t i n ¹

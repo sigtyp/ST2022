@@ -6,12 +6,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-1	t ɯ ³¹								
 1401-1	pʰ ɔ ⁴⁴								
 6496-1	tsʰ ɯ ³¹								
+1064-1	n a ³⁵								
 1065-1	ts ɿ ³¹								
 6617-1	t ɔ ²¹								
 4367-1	t a ²¹								
 4378-1	ɕ y ⁵⁵								
 4379-1	l i ⁵⁵								
-2519-1	tsʰ ɔ ³³								
 3984-1	ʂ ɛ ³³								
 5086-1	ts ɤ ³³								
 3333-1	ʂ e ⁴⁴								
@@ -39,16 +39,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-1	ɕ i ⁵⁵								
 3462-1	k a ³⁵								
 1932-1	s ɿ ³³								
+6469-1	s ɿ ⁵⁵								
 4454-1	ɲ i ²¹								
 4455-1	kʲ ɛ ³⁵								
 6926-1	ɲ ɤ ³³								
 6927-1	ɲ i ²¹								
 3916-1	m ɔ ³³								
+6822-1	ɲ i ²¹								
 5417-1	ts ɿ ³³								
 1959-1	x a ³¹								
 1960-1	t ɤ ⁵⁵								
 2899-1	x ɔ ²¹								
 3651-1	ts ɿ ³³								
+811-1	k u ²¹								
 1633-1	m e ²¹								
 1775-1	k ɤ ³¹								
 5801-1	kʲ ɛ ⁴²								
@@ -157,6 +160,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-1	t w e ³³								
 3973-1	tɕ i ³⁵								
 2046-1	ɕ u ³³								
+5622-1	ɕ ɛ ⁵⁵								
 648-1	tɕʰ ɛ ⁵⁵								
 6789-1	p ɛ ⁴²								
 618-1	x ɯ ⁴⁴								
@@ -170,11 +174,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-1	x ɛ ⁵⁵								
 1764-1	ts ɔ ³³								
 3270-1	m e ³³								
+1884-1	kʲ i ⁴²								
 1203-1	k ɯ ³⁵								
 6645-1	w e ³⁵								
 608-1	kʰ u ³³								
 2889-1	tɕʰ i ⁵⁵								
-4110-1	ɲ i ⁴⁴								
 5350-1	ʈʂʰ u ³¹								
 6158-1	kʰ a ⁴⁴								
 4306-1	s ɤ ³¹								
@@ -189,10 +193,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1352-1	ŋ ɯ ²¹								
 4228-1	p ɛ ⁴⁴								
 4247-1	tɕʰ i ⁵⁵								
-75-1	ts ɯ ³³								
-118-1	k w a ⁴⁴								
-2866-1	m ɛ ³³								
-64-1	kʰ ɔ ³³								
 5263-2		xʰ ẽ ⁵⁵							
 452-2		t ɯ ³¹							
 4342-2		t ɯ ³¹							
@@ -200,12 +200,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-2		t ɯ ³¹							
 1401-2		pʰ ɔu ⁴⁴							
 6496-2		tsʰ ɯ ³¹							
+1064-2		l a ³⁵							
 1065-2		ts ɿ ³³							
 6617-2		t ɔ ²¹							
 4367-2		t a ²¹							
 4378-2		ɕ y ⁵⁵							
 4379-2		l i ⁵⁵							
-2519-2		tsʰ u ³³							
 3984-2		sʰ ɿ ³³							
 5086-2		ts w ɔ̃ ³³							
 3333-2		sʰ e ⁴⁴							
@@ -233,16 +233,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-2		ɕʰ ĩ ⁵⁵							
 3462-2		k ã ⁵⁵							
 1932-2		s ɿ ³³							
+6469-2		sʰ ɔu ³¹							
 4454-2		j ĩ ²¹							
 4455-2		k ɛ̃ ³⁵							
 6926-2		j õ ³³							
 6927-2		j ĩ ²¹							
 3916-2		m ɔu ³³							
+6822-2		t j ɯ ²¹							
 5417-2		ts ɿ ³³							
 1959-2		xʰ ɔu ³¹							
 1960-2		t w ɔ̃ ³⁵							
 2899-2		xʰ ɔu ³¹							
 3651-2		ts ɿ ³³							
+811-2		k u ²¹							
 1633-2		m e ²¹							
 1775-2		k ɔ̃u ⁴²							
 5801-2		k ɛ ⁴²							
@@ -351,6 +354,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-2		t w ẽ ³³							
 3973-2		tɕ i ⁵⁵							
 2046-2		ɕ u ³³							
+5622-2		ɕʰ ɛ̃ ⁵⁵							
 648-2		tɕʰ ɛ̃ ⁵⁵							
 6789-2		p ɛ ⁴²							
 618-2		x ɯ ⁴⁴							
@@ -364,11 +368,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-2		xʰ ɛ ⁵⁵							
 1764-2		ts u ³³							
 3270-2		m e ³³							
+1884-2		k ɛ ⁴²							
 1203-2		k ɯ ⁵⁵							
 6645-2		w ẽ ⁵⁵							
 608-2		kʰ u ³³							
 2889-2		tɕʰ ĩ ⁵⁵							
-4110-2		j ĩ ⁴⁴							
 5350-2		tsʰ u ³¹							
 6158-2		kʰ a ⁴⁴							
 4306-2		sʰ w ɔ̃ ³¹							
@@ -383,10 +387,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1352-2		ŋ ɯ ²¹							
 4228-2		p ɛ ⁴⁴							
 4247-2		tɕʰ ĩ ⁵⁵							
-75-2		ts ɿ ³³							
-118-2		k w a ⁴⁴							
-2866-2		m ɛ ³³							
-64-2		kʰ w ɔ ³³							
 5263-3			x ẽ ⁵⁵						
 452-3			t ɯ ²¹						
 4342-3			t ɯ ²¹						
@@ -394,12 +394,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-3			t ɯ ²¹						
 1401-3			pʰ o ⁴⁴						
 6496-3			tsʰ ɯ ³¹						
+1064-3			l a ³⁵						
 1065-3			ts ɿ ³³						
 6617-3			t ou ²¹						
 4367-3			t a ²¹						
 4378-3			ɕ y ⁵⁵						
 4379-3			l i ⁵⁵						
-2519-3			tsʰ u ³³						
 3984-3			s ɛ̃ ³³						
 5086-3			ts ɤ̃ ³³						
 3333-3			s e ⁴⁴						
@@ -427,16 +427,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-3			ɕ ĩ ⁵⁵						
 3462-3			k ã ⁵⁵						
 1932-3			s ɿ ³³						
+6469-3			s ou ²¹						
 4454-3			j ĩ ²¹						
 4455-3			k ɛ̃ ⁵⁵						
 6926-3			j ɤ̃ ³³						
 6927-3			j ĩ ²¹						
 3916-3			m o ³³						
+6822-3			j ĩ ²¹						
 5417-3			ts ɿ ³³						
 1959-3			x a ³¹						
 1960-3			t ɤ ⁵⁵						
 2899-3			x ou ²¹						
 3651-3			ts ɿ ³³						
+811-3			k u ²¹						
 1633-3			m e ²¹						
 1775-3			k õ ²¹						
 5801-3			k ɛ ⁴²						
@@ -545,6 +548,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-3			t w ẽ ³³						
 3973-3			tɕ i ⁵⁵						
 2046-3			ɕ o ³³						
+5622-3			ɕ ɛ̃ ⁵⁵						
 648-3			tɕʰ ɛ̃ ⁵⁵						
 6789-3			p ɛ ⁴²						
 618-3			x ɯ ⁴⁴						
@@ -558,11 +562,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-3			x ɛ ⁵⁵						
 1764-3			tsʰ u ³³						
 3270-3			m e ³³						
+1884-3			k ɛ ⁴²						
 1203-3			k ɯ ⁵⁵						
 6645-3			w ẽ ⁵⁵						
 608-3			kʰ u ³³						
 2889-3			tɕʰ ĩ ⁵⁵						
-4110-3			j ɯ̃ ³³						
 5350-3			tsʰ u ³¹						
 6158-3			kʰ a ⁴⁴						
 4306-3			s ɤ̃ ³¹						
@@ -577,10 +581,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1352-3			ŋ ɯ ²¹						
 4228-3			p ɛ ⁴⁴						
 4247-3			tɕʰ ĩ ⁵⁵						
-75-3			ts ɿ ³³						
-118-3			k w a ⁴⁴						
-2866-3			m ɛ ³³						
-64-3			kʰ ou ³³						
 5263-4				x ẽ ⁵⁵					
 452-4				t j ɯ ²¹					
 4342-4				t j ɯ ²¹					
@@ -588,12 +588,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-4				t j ɯ ²¹					
 1401-4				pʰ ao ³³					
 6496-4				tsʰ ɯ ³¹					
+1064-4				l a ⁴⁴					
 1065-4				ts ɯ ³³					
 6617-4				t w ɔ ³¹					
 4367-4				t a ²¹					
 4378-4				ɕ y ⁵⁵					
 4379-4				l i ⁵⁵					
-2519-4				tsʰ u ³³					
 3984-4				s ɛ̃ ³³					
 5086-4				ts õ ⁴⁴					
 3333-4				s e ⁴⁴					
@@ -621,16 +621,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-4				ɕ ĩ ⁵⁵					
 3462-4				k ã ⁵⁵					
 1932-4				s ɛ ³³					
+6469-4				s o ³¹					
 4454-4				j ĩ ²¹					
 4455-4				k ɛ̃ ⁵⁵					
 6926-4				j ɯ̃ ³³					
 6927-4				j ĩ ²¹					
 3916-4				m ɔ̃ ³³					
+6822-4				j ĩ ²¹					
 5417-4				ts ɿ ³³					
 1959-4				x ã ⁴⁴					
 1960-4				t o ⁵⁵					
 2899-4				x o ³¹					
 3651-4				ts ɯ̃ ³³					
+811-4				k w ɔ ³¹					
 1633-4				m ẽ ²¹					
 1775-4				k ɔ̃ ³¹					
 5801-4				k ɛ ⁴⁴					
@@ -739,6 +742,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-4				t w ẽ ⁴⁴					
 3973-4				tɕ i ⁵⁵					
 2046-4				ɕ ɔ ⁴⁴					
+5622-4				ɕ j ɛ̃ ⁵⁵					
 648-4				tɕʰ ɛ̃ ⁵⁵					
 6789-4				p æ ⁴²					
 618-4				x ɯ ⁴⁴					
@@ -752,11 +756,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-4				x ɛ̃ ⁵⁵					
 1764-4				ts u ³³					
 3270-4				m e ⁴⁴					
+1884-4				k ɛ ³³					
 1203-4				k ɯ ⁴⁴					
 6645-4				w ẽ ⁵⁵					
 608-4				kʰ u ⁴⁴					
 2889-4				tɕʰ ĩ ⁵⁵					
-4110-4				j ɯ ⁴⁴					
 5350-4				tsʰ u ³¹					
 6158-4				kʰ a ⁴⁴					
 4306-4				s ɔ̃ ³¹					
@@ -771,10 +775,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1352-4				ŋ ɯ ²¹					
 4228-4				p æ ⁴⁴					
 4247-4				tɕʰ ĩ ⁵⁵					
-75-4				ts ɯ̃ ³³					
-118-4				k w a ⁴⁴					
-2866-4				m ɛ ³³					
-64-4				kʰ u ³³					
 5263-5					x ẽ ⁵⁵				
 452-5					d ɯ ⁴²				
 4342-5					d ɯ ⁴²				
@@ -782,12 +782,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-5					d ɯ ⁴²				
 1401-5					pʰ ao ⁵⁵				
 6496-5					tsʰ ɿ ⁵⁵				
+1064-5					l ao ³¹				
 1065-5					z i ³¹				
 6617-5					t ɤ ³¹				
 4367-5					t ao ²¹				
 4378-5					ɕ y ⁵⁵				
 4379-5					l i ⁵⁵				
-2519-5					tʃʰ ʊ ⁴⁴				
 3984-5					ʂ ɛ̃ ³³				
 5086-5					tɕ ɔ̃ ³¹				
 3333-5					ʂ ɛ ⁴⁴				
@@ -815,16 +815,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-5					s ẽ ⁵⁵				
 3462-5					q ɔ̃ ⁵⁵				
 1932-5					ʂ ʅ ³³				
+6469-5					ʂ æ ³³				
 4454-5					ɲ i ³¹				
 4455-5					q ao ⁵⁵				
 6926-5					n ɛ ⁴⁴				
 6927-5					ɲ i ³¹				
 3916-5					m ɔ ³³				
+6822-5					n ɛ ³¹				
 5417-5					tɕ i ³³				
 1959-5					x ã ³³				
 1960-5					t ɤ ⁵⁵				
 2899-5					x ɔ ⁴²				
 3651-5					ʐ ʅ ³³				
+811-5					q ẽ ⁵⁵				
 1633-5					m æ ²¹				
 1775-5					q ɔ ²¹				
 5801-5					k a ⁴²				
@@ -933,6 +936,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-5					d y ³³				
 3973-5					t i ⁵⁵				
 2046-5					ɕ o ³³				
+5622-5					ɕ ã ³³				
 648-5					tɕʰ ã ⁴⁴				
 6789-5					p a ⁴⁴				
 618-5					x ɯ ⁵⁵				
@@ -946,11 +950,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-5					x ã ⁴⁴				
 1764-5					tɕ y ³³				
 3270-5					m ẽ ³³				
+1884-5					q a ⁵⁵				
 1203-5					k ɯ ⁵⁵				
 6645-5					w ẽ ⁵⁵				
 608-5					qʰ ɤ ³³				
 2889-5					tsʰ ẽ ⁵⁵				
-4110-5					ɲ i ³³				
 5350-5					ʈʰ ɤ ⁴²				
 6158-5					qʰ a ⁵⁵				
 4306-5					s õ ³¹				
@@ -965,10 +969,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1352-5					ŋ ɯ̃ ²¹				
 4228-5					p ao ⁵⁵				
 4247-5					tɕʰ i ⁴⁴				
-75-5					tɕ i ³³				
-118-5					q w a ⁵⁵				
-2866-5					m ɔ̃ ³³				
-64-5					qʰ ɔ ³¹				
 5263-6						x e ⁵⁵			
 452-6						t ɯ ³¹			
 4342-6						t ɯ ³¹			
@@ -976,12 +976,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-6						t ɯ ³¹			
 1401-6						pʰ ɔ ⁴⁴			
 6496-6						tsʰ ɯ ³¹			
+1064-6						l a ³⁵			
 1065-6						ts ɿ ³¹			
 6617-6						t ɔ ²¹			
 4367-6						t a ²¹			
 4378-6						ɕ y ⁵⁵			
 4379-6						l i ⁵⁵			
-2519-6						tʃʰ u ³³			
 3984-6						s ɛ ³³			
 5086-6						ts ɤ ³³			
 3333-6						s e ⁴⁴			
@@ -1009,16 +1009,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-6						ɕ i ³⁵			
 3462-6						k a ³⁵			
 1932-6						s ɿ ³³			
+6469-6						s ɿ ³³			
 4454-6						ɲ i ²¹			
 4455-6						k ɛ ³⁵			
 6926-6						n ɤ ³³			
 6927-6						ɲ i ²¹			
 3916-6						m ɔ ³³			
+6822-6						ɲ i ²¹			
 5417-6						ts ɿ ³³			
 1959-6						x ɔ ³¹			
 1960-6						t ɤ ³⁵			
 2899-6						x ɔ ²¹			
 3651-6						ts ɿ ³³			
+811-6						k u ²¹			
 1633-6						m e ²¹			
 1775-6						k ɤ ²¹			
 5801-6						k j ɛ ⁴²			
@@ -1127,6 +1130,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-6						t w e ³³			
 3973-6						tɕ i ³⁵			
 2046-6						ɕ o ³³			
+5622-6						ɕ ɛ ⁵⁵			
 648-6						tsʰ ɛ ⁵⁵			
 6789-6						p ɛ ⁴²			
 618-6						x ɯ ⁴⁴			
@@ -1140,11 +1144,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-6						x ɛ ⁵⁵			
 1764-6						tʃ u ³³			
 3270-6						m e ³³			
+1884-6						k j ɛ ⁴⁴			
 1203-6						k ɯ ³⁵			
 6645-6						w e ³⁵			
 608-6						kʰ u ³³			
 2889-6						tɕʰ i ⁵⁵			
-4110-6						ɲ i ⁴⁴			
 5350-6						tʃʰ u ³¹			
 6158-6						kʰ a ⁴⁴			
 4306-6						s ɿ ³¹			
@@ -1159,10 +1163,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1352-6						ŋ ɯ ²¹			
 4228-6						p ɛ ⁴⁴			
 4247-6						tɕʰ i ⁵⁵			
-75-6						ts ɿ ³³			
-118-6						k w a ⁴⁴			
-2866-6						m ɛ ³³			
-64-6						ɔ ³³			
 5263-7							x ẽ ⁵⁵		
 452-7							t ou ³¹		
 4342-7							t ou ³¹		
@@ -1170,12 +1170,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-7							t ou ³¹		
 1401-7							pʰ ɔ ⁴⁴		
 6496-7							tsʰ ou ³¹		
+1064-7							l a ³⁵		
 1065-7							ts ɿ ³¹		
 6617-7							t ɔ ²¹		
 4367-7							t a ²¹		
 4378-7							ɕ y ⁵⁵		
 4379-7							l i ⁵⁵		
-2519-7							tsʰ u ³³		
 3984-7							s ɛ̃ ³³		
 5086-7							tsʰ u ³³		
 3333-7							s e ⁴⁴		
@@ -1203,16 +1203,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-7							ɕ ĩ ⁵⁵		
 3462-7							k ã ⁵⁵		
 1932-7							s ɿ ³³		
+6469-7							s ɿ ³¹		
 4454-7							n i ²¹		
 4455-7							k ɛ̃ ³⁵		
 6926-7							n ɛ̃ ³³		
 6927-7							n i ²¹		
 3916-7							m ɔ ³³		
+6822-7							n i ³¹		
 5417-7							ts ɿ ³³		
 1959-7							x ɛ̃ ³¹		
 1960-7							t ɛ ³⁵		
 2899-7							x ɔ ²¹		
 3651-7							z ɿ ³³		
+811-7							k u ²¹		
 1633-7							m e ²¹		
 1775-7							k ou ⁵⁵		
 5801-7							kʲ ɛ ⁴²		
@@ -1321,6 +1324,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-7							t w ẽ ³³		
 3973-7							tɕ i ³⁵		
 2046-7							ɕ u ³³		
+5622-7							ɕ ɛ̃ ⁵⁵		
 648-7							tɕʰ ɛ̃ ⁵⁵		
 6789-7							p ɛ ⁴²		
 618-7							x ou ⁴⁴		
@@ -1334,11 +1338,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-7							x ɛ̃ ⁵⁵		
 1764-7							z u ³³		
 3270-7							m e ³³		
+1884-7							kʲ i ⁴²		
 1203-7							k ɯ ³⁵		
 6645-7							w ẽ ³⁵		
 608-7							kʰ u ³³		
 2889-7							tɕʰ ĩ ⁵⁵		
-4110-7							n i ⁴⁴		
 5350-7							tsʰ u ³¹		
 6158-7							kʰ a ⁴⁴		
 4306-7							ɕ ɛ̃ ³¹		
@@ -1353,10 +1357,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1352-7							ŋ ɯ ²¹		
 4228-7							p ɛ ⁴⁴		
 4247-7							tɕʰ ĩ ⁵⁵		
-75-7							ts ɿ ³³		
-118-7							k w a ⁴⁴		
-2866-7							m ɛ ³³		
-64-7							kʰ w ɔ ³³		
 5263-8								x e ⁵⁵	
 452-8								d ɯ ³¹	
 4342-8								d ɯ ³¹	
@@ -1364,12 +1364,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-8								d ɯ ³¹	
 1401-8								pʰ u ⁴⁴	
 6496-8								tsʰ ɯ ³¹	
+1064-8								l a ³⁵	
 1065-8								ts ɿ ³¹	
 6617-8								t ɔ ²¹	
 4367-8								t a ²¹	
 4378-8								ɕ y ⁵⁵	
 4379-8								l i ⁵⁵	
-2519-8								tsʰ u ³³	
 3984-8								s ɛ ³³	
 5086-8								dz ɯ ³³	
 3333-8								s ɛ ⁴⁴	
@@ -1397,16 +1397,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-8								s e ⁵⁵	
 3462-8								k a ³⁵	
 1932-8								s ɿ ³³	
+6469-8								s ɿ ³¹	
 4454-8								ɲ i ²¹	
 4455-8								k ɛ ³⁵	
 6926-8								ɲ ɤ ³³	
 6927-8								ɲ i ²¹	
 3916-8								m ɔ ³³	
+6822-8								ɲ i ²¹	
 5417-8								ts ɿ ³³	
 1959-8								x a ³¹	
 1960-8								t ɤ ⁵⁵	
 2899-8								x ao ²¹	
 3651-8								dz ɿ ³³	
+811-8								k u ²¹	
 1633-8								m ɛ ²¹	
 1775-8								k ɤ ³¹	
 5801-8								k ɛ ⁴²	
@@ -1515,6 +1518,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-8								t w e ³³	
 3973-8								tɕ i ³⁵	
 2046-8								ɕ u ³³	
+5622-8								ɕ ɛ ⁵⁵	
 648-8								tɕʰ ɛ ⁵⁵	
 6789-8								p ɛ ⁴²	
 618-8								x ɯ ⁴⁴	
@@ -1528,11 +1532,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-8								x ɛ ⁵⁵	
 1764-8								ts u ³³	
 3270-8								m e ³³	
+1884-8								k ɛ ⁴²	
 1203-8								k ɯ ³⁵	
 6645-8								w ɛ ⁴⁴	
 608-8								kʰ u ³³	
 2889-8								tɕʰ i ⁵⁵	
-4110-8								ɲ i ⁴⁴	
 5350-8								tsʰ u ³¹	
 6158-8								kʰ a ⁴⁴	
 4306-8								s ɿ ³¹	
@@ -1547,10 +1551,6 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1352-8								ŋ ɯ ²¹	
 4228-8								p ɛ ⁴⁴	
 4247-8								tɕʰ i ⁵⁵	
-75-8								ts ɯ ³³	
-118-8								k w a ⁴⁴	
-2866-8								m ɛ ³³	
-64-8								kʰ ɔ ³³	
 5263-9									x e ⁵⁵
 452-9									t ɯ ³¹
 4342-9									t ɯ ³¹
@@ -1558,12 +1558,12 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 5487-9									t ɯ ³¹
 1401-9									pʰ o ⁴⁴
 6496-9									tsʰ ɯ ³¹
+1064-9									l a ³⁵
 1065-9									ts ɿ ³³
 6617-9									t ɔ ²¹
 4367-9									t a ²¹
 4378-9									ɕ y ⁵⁵
 4379-9									l i ⁵⁵
-2519-9									tsʰ u ³³
 3984-9									s ɛ ²¹
 5086-9									ts ɤ ³³
 3333-9									s e ⁴⁴
@@ -1591,16 +1591,19 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 2708-9									ɕ i ³⁵
 3462-9									k a ³⁵
 1932-9									s ɿ ³³
+6469-9									s ɿ ³³
 4454-9									ɲ i ²¹
 4455-9									kʲ ɛ ³⁵
 6926-9									ɲ ɤ ³³
 6927-9									ɲ i ²¹
 3916-9									m ɔ ³³
+6822-9									ɲ i ²¹
 5417-9									ts ɿ ³³
 1959-9									x ɔ ³¹
 1960-9									t ɤ ³⁵
 2899-9									x ɔ ³¹
 3651-9									ts ɿ ³³
+811-9									k u ²¹
 1633-9									m e ²¹
 1775-9									k u ²¹
 5801-9									kʲ ɛ ³²
@@ -1709,6 +1712,7 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1978-9									t w e ³³
 3973-9									tɕ i ⁵⁵
 2046-9									ɕ o ³³
+5622-9									ɕ ɛ ⁵⁵
 648-9									tɕʰ ɛ ⁵⁵
 6789-9									p ɛ ⁴²
 618-9									x ɯ ⁴⁴
@@ -1722,11 +1726,11 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 4802-9									x ɛ ⁵⁵
 1764-9									ts u ³³
 3270-9									m e ³³
+1884-9									k ɛ ⁴²
 1203-9									k ɯ ³⁵
 6645-9									w ɛ ³⁵
 608-9									kʰ u ³³
 2889-9									tɕʰ i ⁵⁵
-4110-9									ɲ ɯ ⁴⁴
 5350-9									tsʰ u ³¹
 6158-9									kʰ a ⁴⁴
 4306-9									s ɤ ³¹
@@ -1741,7 +1745,3 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1352-9									ŋ ɯ ²¹
 4228-9									p ɛ ⁴⁴
 4247-9									tɕʰ i ⁵⁵
-75-9									ts ɿ ³³
-118-9									k w a ⁴⁴
-2866-9									m ɛ ³³
-64-9									kʰ w ɔ ³³

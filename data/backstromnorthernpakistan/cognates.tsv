@@ -55,7 +55,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1175	ɾ gʲ ɜ m tθ o	ɾ gʲ ɛ m tθ o	ɾ gʲ ɛ m tθ o	ɾ gʲ ɛ m tθ o	ɾʲ ɣ ɛ m tθ o	ɾ gʲ ɛ m tθ o	ɾ gʲ ɛ m tθ o
 383	ɸ s̪ ɪ l	p s̪ ɪ l	ɸ s̪ ɪ l	p s̪ ɪ l	p s̪ ɪ l	p s̪ ɪ l	s̪ ɪ l
 820	l̪ o k	l̪ o k	l̪ o k	l̪ o k	l̪ o k	l̪ o k	l̪ o k
-1136				p ɜ r̪ ɜ k z̪ ɜ	p ɜ ɽ ɑ ɣ z̪ ɑ	pʰ ɜ ɽ ɜ k z̪ ɜ	
+1136				p ɜ r̪ ɜ k z̪ ɜ	p ɜ ɽ ɑ ɣ z̪ ɑ	pʰ ɜ ɽ ɜ k z̪ ɜ	p ɑ r̪ ɑ z̪ β̞ ɑ
 1135	ɾ z̪ ɜ	ɣ z̪ ɜ	ɣ z̪ ɜ				
 1636	l̪ u ŋ	x l̪ u ŋ	x l̪ u ŋ	l̪ u ŋ	x l u ŋ	x l u ŋ	l̪ u ŋ
 1331	ɾ d̪ β̞ ɑ	ʊ ɾ d̪ β̞ ɑ	ɾ d̪ β̞ ɑ	ʊ ɾ d̪ β̞ ɑ	ʊ ɾ d̪ β̞ ɑ	ʊ ɾ d̪ β̞ ɑ	ʊ ɾ d̪ β̞ ɑ
@@ -66,7 +66,6 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 213	t̪ʰ ɜ l tθ ɪ ɾ	t̪ʰ ɜ l tθ i ɾ		t̪ʰ ɜ l tɕ ɪ t̪	t̪ʰ ɜ l tɕ ɪ t̪	t̪ʰ ɜ l tɕ ɪ t̪	
 214			t̪ʰ ɜ l b ɜ				t̪ʰ ɜ l b ɜ
 957				dʑʲ ɑ g ɜ t̪	dʑ ɑ g ɜ t̪	dʑ ɑ g ɜ t̪	
-955		l dʑ ɑ k l dʑ ɪ t̪			dʑ ɑ l dʑ ɪ t̪		
 956			tɕʰ ɪ n̪			tɕʰ ɪ n̪	
 455	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m		t̪ʰ ɜ l d u m
 456					t̪ʰ ɜ l p ʊ ʈ	t̪ʰ ɜ l p ʊ ʈ	
@@ -106,12 +105,11 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 473	b i ɜ p ʑ ʊ n̪	b i ɜ m ʑ ʊ n̪	b i ɜ p ʑ ʊ n̪	b i ɜ p dʑ ʊ n̪	b i ɜ p ʑ ʊ n̪	b i ɜ p ʑ ʊ n̪	
 399	b ɑ				b ɜ	b ɜ	
 400			b ɜ l ɜ ŋ			b ɜ l ɜ ŋ	
-871	o ŋ ɑ			o ŋ ɑ	o ŋ ɑ	o ŋ ɑ	
-872		o m ɑ	o m ɜ				o ŋ m ɑ
+871	o ŋ ɑ	o m ɑ	o m ɜ	o ŋ ɑ	o ŋ ɑ	o ŋ ɑ	o ŋ m ɑ
 734	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ	ɾ β̞ ɑ
 1348		ʑ ɪ n̪ d o	ʑ ɪ g d o	dʑ i n̪ d o	ʑ ɪ n̪ d o	ʑ ɪ n̪ d o	
 1347	s̪ ȵ ɜ m ɜ						ɕ ȵ ɑ ŋ m ɑ
-565		ɾ o β̞ ɑ q	ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	
+566			ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	
 564	ɾ ɑ						ɾ ɑ
 431	kʰ i	kʰ i	kʰ i	kʰ i	kʰ i	kʰ i	x i
 1298	ɾ b ʊ l	o ɣ b ʊ l	ɜ ɣ b ʊ l	o ɾ b ʊ l	o ɣ b ʊ l	o ɣ b ʊ l	ɾ z̪ b u l
@@ -126,7 +124,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1644	b r̪ u s̪ t̪ i ŋ	b ʊ s̪ t̪ r̪ i ŋ	b u s̪ t̪ r̪ i ŋ	b u s̪ t̪ r̪ i ŋ	b u s̪ t̪ r̪ i ŋ	b u s̪ t̪ r̪ i ŋ	b u s̪ t̪ r̪ i ŋ
 358	pʰ r̪ u	pʰ r̪ u	pʰ r̪ u		p l̥ u	p l̥ u	pʰ r̪ u
 547	ɜ t̪ ɑ	ɜ t̪ ɜ	ɜ t̪ ɑ	ɑ t̪ ɜ	ɑ t̪ ɜ	ɑ t̪ ɜ	ɜ t̪ ɑ
-939		ɑ ŋ o		ɑ ŋ o	ɑ ŋ o	ɑ ŋ o	
+939		ɑ ŋ o	ɜ m o	ɑ ŋ o	ɑ ŋ o	ɑ ŋ o	
 938	ɜ ŋ ɑ						ɜ m ɑ
 1048	k ɜ k ɑ	k ɜ k ɑ	k ɜ k ɜ	k ɜ k ɜ	k ɜ k ɜ	k ɜ k ɜ	k ɑ ɣ ɑ
 1692	n̪ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	pʰ o n̪ o	n̪ o n̪ o
@@ -150,8 +148,10 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 1660	g o n̪ d e	g u n̪ d e	g ʊ n̪ d e	g ʊ n̪ d e	g u n̪ d e	g u n̪ d e	g ʊ n̪ d e
 1440	d̪ ɪ r̪ i ŋ	d̪ ɪ r̪ i ŋ	d̪ ɪ r̪ i ŋ	d̪ ɪ r̪ i ŋ	d̪ ɪ r̪ i ŋ	d̪ ɪ r̪ i ŋ	d̪ ɪ r̪ i ŋ
 1456	h ɜ s̪ k e	h ɜ s̪ k e	h ɜ s̪ k e	h ɜ s̪ k e	h ɜ s̪ k e	h ɜ s̪ k e	
+1554		h ɜ f t̪ ɑ	h ɜ f t̪ ɑ	h ɜ f t̪ ɜ		h ɜ f t̪ ɜ	
 1553	ʑ ɜ k ʊ r̪ d u n̪						ʊ ɾ d u n̪
-896	l dð ɑ	l dð ɑ	l dð ɑ	l dð ɑ	l z̪ ɑ	l z̪ ɑ	l dð ɑ
+896	l dð ɑ	l dð ɑ	l dð ɑ	l dð ɑ			l dð ɑ
+897					l z̪ ɑ	l z̪ ɑ	
 1652	l o	l o	l o	l o	l o	l o	l oˑ
 1037	ȵ̊ i ȵ p ɑ	s̪ ȵ ĩ ŋ m ɜ	ɕ ȵ ĩ m ɜ	s̪ ȵ i ŋ m ɜ	ȵ̊ i ȵ m ɜ	s̪ ȵ i ŋ m ɜ	s̪ ŋ i ŋ m ɜ
 989		s̪ ɜ r̪ p ɜ		s̪ ɜ r̪ ɸ ɑ	s̪ ɜ r̪ ɸ ɜ	s̪ ɜ r̪ f ɜ	
@@ -239,7 +239,7 @@ COGID	ChorbatBalti	KhapaluBalti	KharmangBalti	RonduBalti	ShigarBalti	SkarduBalti
 65	k o s̪	k o s̪	k o s̪	k o s̪	k o s̪	k o s̪	k o s̪
 104	t̪ʰ o ŋ s̪	t̪ʰ õ s̪	t̪ʰ o ŋ s̪	t̪ʰ o ŋ	t̪ʰ o ŋ	t̪ʰ o ŋ s̪	
 163	ŋ ɑ	ŋ ɑ	ŋ ɑ	ŋ ɑ	ŋ ɑ	ŋ ɜ	ŋ ɑ
-1676	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	kʰʲ ɜ ŋ	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	kʰ e r̪ ɜ ŋ
+1676	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	kʰʲ ɜ ŋ	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	
 1668	j ɑ ŋ	j ɑ ŋ	j ɑ ŋ	j ɑ ŋ	j ɑ ŋ	j ɑ ŋ	j ɑ ŋ
 701	kʰ o	kʰ o	kʰ o	kʰ o	kʰ o	kʰ o	kʰ o
 1239	m o	m o	m o	m o	m o	m o	

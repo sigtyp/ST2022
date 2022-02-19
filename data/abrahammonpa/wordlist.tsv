@@ -778,8 +778,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 292	27_bitter	bitter	MonpaKalaktang	Monpa Kalaktang	khalu	khalu	kʰ a l u	kala1376	27.104162	92.113017	Tshanglic	1 7 5 7	AXBZ	KALY	4	4.K.C 4.A.V 4.L.C 4.Y.V	2.0 1.5 1.75 0.8	kʰalu	0	238
 293	27_bitter	bitter	MonpaBalemu	Monpa Balemu	khalu	khalu	kʰ a l u	kala1376	26.964717	92.164581	Tshanglic	1 7 5 7	AXBZ	KALY	1	1.K.C 1.A.V 1.L.C 1.Y.V	2.0 1.5 1.75 0.8	kʰalu	0	238
 294	27_bitter	bitter	MonpaTomko	Monpa Tomko	khalu	khalu	kʰ a l u	kala1376	27.16536	92.23077	Tshanglic	1 7 5 7	AXBZ	KALY	8	8.K.C 8.A.V 8.L.C 8.Y.V	2.0 1.5 1.75 0.8	kʰalu	0	238
-295	27_bitter	bitter	MonpaNamsu	Monpa Namsu	khakhen	khakhen	kʰ a kʰ e n	kala1376	27.359505	92.34921	Tshanglic	1 7 1 7 4	AXBYN	KAKEN	5	5.K.C 5.A.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 0.8	kʰakʰen	0	239
-296	27_bitter	bitter	MonpaTembang	Monpa Tembang	khaliŋkhaliŋ	khaliŋkhaliŋ	kʰ a l i ŋ kʰ a l i ŋ	tsha1245	27.333876	92.40513	Tshanglic	1 7 5 7 4 1 7 5 7 4	AXBYMBYBYN	KALINKALIN	7	7.K.C 7.A.V 7.L.C 7.I.V 7.N.c 7.K.C 7.A.V 7.L.C 7.I.V 7.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	kʰaliŋkʰaliŋ	0	240
+295	27_bitter	bitter	MonpaNamsu	Monpa Namsu	khakhen	khakhen	kʰ a kʰ e n	kala1376	27.359505	92.34921	Tshanglic	1 7 1 7 4	AXBYN	KAKEN	5	5.K.C 5.A.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 0.8	kʰakʰen	0	240
+296	27_bitter	bitter	MonpaTembang	Monpa Tembang	khaliŋkhaliŋ	khaliŋkhaliŋ	kʰ a l i ŋ kʰ a l i ŋ	tsha1245	27.333876	92.40513	Tshanglic	1 7 5 7 4 1 7 5 7 4	AXBYMBYBYN	KALINKALIN	7	7.K.C 7.A.V 7.L.C 7.I.V 7.N.c 7.K.C 7.A.V 7.L.C 7.I.V 7.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	kʰaliŋkʰaliŋ	0	241
 297	27_bitter	bitter	MonpaDirangDum	Monpa Dirang Dum	khawan	khawan	kʰ a w a n	tsha1245	27.334341	92.293734	Tshanglic	1 7 6 7 4	AXBYN	KAWAN	3	3.K.C 3.A.V 3.W.C 3.A.V 3.N.c	2.0 1.5 1.75 1.3 0.8	kʰawan	0	239
 298	27_bitter	bitter	MonpaSangti	Monpa Sangti	khawan	khawan	kʰ a w a n	tsha1245	27.402266	92.314934	Tshanglic	1 7 6 7 4	AXBYN	KAWAN	6	6.K.C 6.A.V 6.W.C 6.A.V 6.N.c	2.0 1.5 1.75 1.3 0.8	kʰawan	0	239
 299	27_bitter	bitter	MonpaDirang	Monpa Dirang	khawan	khawan	kʰ a w a n	tsha1245	27.34959	92.27914	Tshanglic	1 7 6 7 4	AXBYN	KAWAN	2	2.K.C 2.A.V 2.W.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	kʰawan	0	239
@@ -1145,9 +1145,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 6850	38_buffalo	buffalo	DammaiDibin	Dammai Dibin	ʃəkhen	ʃəkhen	ʃ ə kʰ e n	miji1239	27.437363	92.531354	Khobwa
 426	39_cabbage	cabbage	MonpaKalaktang	Monpa Kalaktang	–; mumt̪oklom	mumt̪oklom	m u m t̪ o k l o m	kala1376	27.104162	92.113017	Tshanglic	4 7 4 1 7 1 5 7 4	AXMBYBCYN	MYMTUKLUM	4	4.M.C 4.Y.V 4.M.c 4.T.C 4.U.V 4.K.C 4.L.C 4.U.V 4.M.c	2.0 1.5 1.1 1.75 1.3 1.75 1.5 1.3 0.8	mumt̪oklom	0	347
 427	39_cabbage	cabbage	MonpaBalemu	Monpa Balemu	mumt̪oklom	mumt̪oklom	m u m t̪ o k l o m	kala1376	26.964717	92.164581	Tshanglic	4 7 4 1 7 1 5 7 4	AXMBYBCYN	MYMTUKLUM	1	1.M.C 1.Y.V 1.M.c 1.T.C 1.U.V 1.K.C 1.L.C 1.U.V 1.M.c	2.0 1.5 1.1 1.75 1.3 1.75 1.5 1.3 0.8	mumt̪oklom	0	347
-428	39_cabbage	cabbage	MonpaTomko	Monpa Tomko	ʃiŋʃawa	ʃiŋʃawa	ʃ i ŋ ʃ a w a	kala1376	27.16536	92.23077	Tshanglic	3 7 4 3 7 6 7	AXMBYBZ	SINSAWA	8	8.S.C 8.I.V 8.N.c 8.S.C 8.A.V 8.W.C 8.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʃiŋʃawa	0	350
-429	39_cabbage	cabbage	MonpaNamsu	Monpa Namsu	bandagobi	bandagobi	b a n d a g o b i	kala1376	27.359505	92.34921	Tshanglic	1 7 4 1 7 1 7 1 7	AXMBYBYBZ	PANTAKUPI	5	5.P.C 5.A.V 5.N.c 5.T.C 5.A.V 5.K.C 5.U.V 5.P.C 5.I.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 0.8	bandagobi	0	348
-430	39_cabbage	cabbage	MonpaSangti	Monpa Sangti	momloŋnaŋ	momloŋnaŋ	m o m l o ŋ n a ŋ	tsha1245	27.402266	92.314934	Tshanglic	4 7 4 5 7 4 4 7 4	AXBCYMBYN	MUMLUNNAN	6	6.M.C 6.U.V 6.M.C 6.L.C 6.U.V 6.N.c 6.N.C 6.A.V 6.N.c	2.0 1.5 1.75 1.5 1.3 1.1 1.75 1.3 0.8	momloŋnaŋ	0	349
+428	39_cabbage	cabbage	MonpaTomko	Monpa Tomko	ʃiŋʃawa	ʃiŋʃawa	ʃ i ŋ ʃ a w a	kala1376	27.16536	92.23077	Tshanglic	3 7 4 3 7 6 7	AXMBYBZ	SINSAWA	8	8.S.C 8.I.V 8.N.c 8.S.C 8.A.V 8.W.C 8.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ʃiŋʃawa	0	351
+429	39_cabbage	cabbage	MonpaNamsu	Monpa Namsu	bandagobi	bandagobi	b a n d a g o b i	kala1376	27.359505	92.34921	Tshanglic	1 7 4 1 7 1 7 1 7	AXMBYBYBZ	PANTAKUPI	5	5.P.C 5.A.V 5.N.c 5.T.C 5.A.V 5.K.C 5.U.V 5.P.C 5.I.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 0.8	bandagobi	0	349
+430	39_cabbage	cabbage	MonpaSangti	Monpa Sangti	momloŋnaŋ	momloŋnaŋ	m o m l o ŋ n a ŋ	tsha1245	27.402266	92.314934	Tshanglic	4 7 4 5 7 4 4 7 4	AXBCYMBYN	MUMLUNNAN	6	6.M.C 6.U.V 6.M.C 6.L.C 6.U.V 6.N.c 6.N.C 6.A.V 6.N.c	2.0 1.5 1.75 1.5 1.3 1.1 1.75 1.3 0.8	momloŋnaŋ	0	350
 431	39_cabbage	cabbage	MonpaDirang	Monpa Dirang	kobi	kobi	k o b i	tsha1245	27.34959	92.27914	Tshanglic	1 7 1 7	AXBZ	KUPI	2	2.K.C 2.U.V 2.P.C 2.I.V	2.0 1.5 1.75 0.8	kobi	0	348
 432	39_cabbage	cabbage	MonpaTawangMonastery	Monpa Tawang Monastery	petʃahru	petʃahru	p e tʃ a h r u	dakp1242	27.586829	91.85796	Takpa
 433	39_cabbage	cabbage	MonpaZimithang	Monpa Zimithang	bandagobi	bandagobi	b a n d a g o b i	dakp1242	27.335901	92.306528	Takpa
@@ -1221,8 +1221,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 6837	41_cat	cat	DammaiRurang	Dammai Rurang	kaʃu	kaʃu	k a ʃ u	miji1239	27.368455	92.500637	Khobwa
 6838	41_cat	cat	DammaiDibin	Dammai Dibin	gaʃu	gaʃu	g a ʃ u	miji1239	27.437363	92.531354	Khobwa
 457	42_cauliflower	cauliflower	MonpaBalemu	Monpa Balemu	kobi	kobi	k o b i	kala1376	26.964717	92.164581	Tshanglic	1 7 1 7	AXBZ	KUPI	1	1.K.C 1.U.V 1.P.C 1.I.V	2.0 1.5 1.75 0.8	kobi	0	373
-458	42_cauliflower	cauliflower	MonpaTomko	Monpa Tomko	mumlomnaŋ	mumlomnaŋ	m u m l o m n a ŋ	kala1376	27.16536	92.23077	Tshanglic	4 7 4 5 7 4 4 7 4	AXBCYMBYN	MYMLUMNAN	8	8.M.C 8.Y.V 8.M.C 8.L.C 8.U.V 8.M.c 8.N.C 8.A.V 8.N.c	2.0 1.5 1.75 1.5 1.3 1.1 1.75 1.3 0.8	mumlomnaŋ	0	374
-459	42_cauliflower	cauliflower	MonpaNamsu	Monpa Namsu	phulkobi	phulkobi	pʰ u l k o b i	kala1376	27.359505	92.34921	Tshanglic	1 7 5 1 7 1 7	AXMBYBZ	PYLKUPI	5	5.P.C 5.Y.V 5.L.c 5.K.C 5.U.V 5.P.C 5.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	pʰulkobi	0	373
+458	42_cauliflower	cauliflower	MonpaTomko	Monpa Tomko	mumlomnaŋ	mumlomnaŋ	m u m l o m n a ŋ	kala1376	27.16536	92.23077	Tshanglic	4 7 4 5 7 4 4 7 4	AXBCYMBYN	MYMLUMNAN	8	8.M.C 8.Y.V 8.M.C 8.L.C 8.U.V 8.M.c 8.N.C 8.A.V 8.N.c	2.0 1.5 1.75 1.5 1.3 1.1 1.75 1.3 0.8	mumlomnaŋ	0	375
+459	42_cauliflower	cauliflower	MonpaNamsu	Monpa Namsu	phulkobi	phulkobi	pʰ u l k o b i	kala1376	27.359505	92.34921	Tshanglic	1 7 5 1 7 1 7	AXMBYBZ	PYLKUPI	5	5.P.C 5.Y.V 5.L.c 5.K.C 5.U.V 5.P.C 5.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	pʰulkobi	0	374
 460	42_cauliflower	cauliflower	MonpaSangti	Monpa Sangti	kobi	kobi	k o b i	tsha1245	27.402266	92.314934	Tshanglic	1 7 1 7	AXBZ	KUPI	6	6.K.C 6.U.V 6.P.C 6.I.V	2.0 1.5 1.75 0.8	kobi	0	373
 461	42_cauliflower	cauliflower	MonpaDirang	Monpa Dirang	kobi	kobi	k o b i	tsha1245	27.34959	92.27914	Tshanglic	1 7 1 7	AXBZ	KUPI	2	2.K.C 2.U.V 2.P.C 2.I.V	2.0 1.5 1.75 0.8	kobi	1	373
 462	42_cauliflower	cauliflower	MonpaTawangMonastery	Monpa Tawang Monastery	kophiru	kophiru	k o pʰ i r u	dakp1242	27.586829	91.85796	Takpa
@@ -1552,7 +1552,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 6592	53_corn	corn	NamreiBisai	Namrei Bisai	ʃibat	ʃibat	ʃ i b a t	miji1239	27.682796	92.700031	Khobwa
 6593	53_corn	corn	DammaiRurang	Dammai Rurang	sibeʔ	sibeʔ	s i b e ʔ	miji1239	27.368455	92.500637	Khobwa
 6594	53_corn	corn	DammaiDibin	Dammai Dibin	sibeʔ	sibeʔ	s i b e ʔ	miji1239	27.437363	92.531354	Khobwa
-588	54_cow	cow	MonpaKalaktang	Monpa Kalaktang	wadamo	wadamo	w a d a m o	kala1376	27.104162	92.113017	Tshanglic	6 7 1 7 4 7	AXBYBZ	WATAMU	4	4.W.C 4.A.V 4.T.C 4.A.V 4.M.C 4.U.V	2.0 1.5 1.75 1.3 1.75 0.8	wadamo	0	483
+588	54_cow	cow	MonpaKalaktang	Monpa Kalaktang	wadamo	wadamo	w a d a m o	kala1376	27.104162	92.113017	Tshanglic	6 7 1 7 4 7	AXBYBZ	WATAMU	4	4.W.C 4.A.V 4.T.C 4.A.V 4.M.C 4.U.V	2.0 1.5 1.75 1.3 1.75 0.8	wadamo	0	484
 589	54_cow	cow	MonpaBalemu	Monpa Balemu	wa	wa	w a	kala1376	26.964717	92.164581	Tshanglic	6 7	AX	WA	1	1.W.C 1.A.V	2.0 1.5	wa	0	483
 590	54_cow	cow	MonpaTomko	Monpa Tomko	wa	wa	w a	kala1376	27.16536	92.23077	Tshanglic	6 7	AX	WA	8	8.W.C 8.A.V	2.0 1.5	wa	0	483
 591	54_cow	cow	MonpaNamsu	Monpa Namsu	wa	wa	w a	kala1376	27.359505	92.34921	Tshanglic	6 7	AX	WA	5	5.W.C 5.A.V	2.0 1.5	wa	0	483
@@ -4857,13 +4857,13 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 6413	167_rain	rain	NamreiBisai	Namrei Bisai	fro	fro	f r o	miji1239	27.682796	92.700031	Khobwa
 6414	167_rain	rain	DammaiRurang	Dammai Rurang	fro	fro	f r o	miji1239	27.368455	92.500637	Khobwa
 6415	167_rain	rain	DammaiDibin	Dammai Dibin	fro	fro	f r o	miji1239	27.437363	92.531354	Khobwa
-1842	168_rainbow	rainbow	MonpaKalaktang	Monpa Kalaktang	mudiɾeŋma	mudiɾeŋma	m u d i ɾ e ŋ m a	kala1376	27.104162	92.113017	Tshanglic	4 7 1 7 5 7 4 4 7	AXBYBYMBZ	MYTIRENMA	4	4.M.C 4.Y.V 4.T.C 4.I.V 4.R.C 4.E.V 4.N.c 4.M.C 4.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 0.8	mudiɾeŋma	0	1512
+1842	168_rainbow	rainbow	MonpaKalaktang	Monpa Kalaktang	mudiɾeŋma	mudiɾeŋma	m u d i ɾ e ŋ m a	kala1376	27.104162	92.113017	Tshanglic	4 7 1 7 5 7 4 4 7	AXBYBYMBZ	MYTIRENMA	4	4.M.C 4.Y.V 4.T.C 4.I.V 4.R.C 4.E.V 4.N.c 4.M.C 4.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 0.8	mudiɾeŋma	0	1511
 1843	168_rainbow	rainbow	MonpaBalemu	Monpa Balemu	mud̪jaŋba	mud̪jaŋba	m u d̪ j a ŋ b a	kala1376	26.964717	92.164581	Tshanglic	4 7 1 6 7 4 1 7	AXBCYMBZ	MYTJANPA	1	1.M.C 1.Y.V 1.T.C 1.J.C 1.A.V 1.N.c 1.P.C 1.A.V	2.0 1.5 1.75 1.5 1.3 1.1 1.75 0.8	mud̪jaŋba	0	1511
 1844	168_rainbow	rainbow	MonpaTomko	Monpa Tomko	mud̪jaŋba	mud̪jaŋba	m u d̪ j a ŋ b a	kala1376	27.16536	92.23077	Tshanglic	4 7 1 6 7 4 1 7	AXBCYMBZ	MYTJANPA	8	8.M.C 8.Y.V 8.T.C 8.J.C 8.A.V 8.N.c 8.P.C 8.A.V	2.0 1.5 1.75 1.5 1.3 1.1 1.75 0.8	mud̪jaŋba	0	1511
 1845	168_rainbow	rainbow	MonpaNamsu	Monpa Namsu	mud̪jaŋba	mud̪jaŋba	m u d̪ j a ŋ b a	kala1376	27.359505	92.34921	Tshanglic	4 7 1 6 7 4 1 7	AXBCYMBZ	MYTJANPA	5	5.M.C 5.Y.V 5.T.C 5.J.C 5.A.V 5.N.c 5.P.C 5.A.V	2.0 1.5 1.75 1.5 1.3 1.1 1.75 0.8	mud̪jaŋba	0	1511
 1846	168_rainbow	rainbow	MonpaTembang	Monpa Tembang	mud̪jaŋba	mud̪jaŋba	m u d̪ j a ŋ b a	tsha1245	27.333876	92.40513	Tshanglic	4 7 1 6 7 4 1 7	AXBCYMBZ	MYTJANPA	7	7.M.C 7.Y.V 7.T.C 7.J.C 7.A.V 7.N.c 7.P.C 7.A.V	2.0 1.5 1.75 1.5 1.3 1.1 1.75 0.8	mud̪jaŋba	0	1511
 1847	168_rainbow	rainbow	MonpaDirangDum	Monpa Dirang Dum	mŭdʒamba	mŭdʒamba	m ŭ dʒ a m b a	tsha1245	27.334341	92.293734	Tshanglic	4 7 1 7 4 1 7	AXBYMBZ	MYTAMPA	3	3.M.C 3.Y.V 3.T.C 3.A.V 3.M.c 3.P.C 3.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	mŭdʒamba	0	1511
-1848	168_rainbow	rainbow	MonpaSangti	Monpa Sangti	mud̪eŋma	mud̪eŋma	m u d̪ e ŋ m a	tsha1245	27.402266	92.314934	Tshanglic	4 7 1 7 4 4 7	AXBYMBZ	MYTENMA	6	6.M.C 6.Y.V 6.T.C 6.E.V 6.N.c 6.M.C 6.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	mud̪eŋma	0	1512
+1848	168_rainbow	rainbow	MonpaSangti	Monpa Sangti	mud̪eŋma	mud̪eŋma	m u d̪ e ŋ m a	tsha1245	27.402266	92.314934	Tshanglic	4 7 1 7 4 4 7	AXBYMBZ	MYTENMA	6	6.M.C 6.Y.V 6.T.C 6.E.V 6.N.c 6.M.C 6.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	mud̪eŋma	0	1511
 1849	168_rainbow	rainbow	MonpaDirang	Monpa Dirang	mud̪jaŋba	mud̪jaŋba	m u d̪ j a ŋ b a	tsha1245	27.34959	92.27914	Tshanglic	4 7 1 6 7 4 1 7	AXBCYMBZ	MYTJANPA	2	2.M.C 2.Y.V 2.T.C 2.J.C 2.A.V 2.N.c 2.P.C 2.A.V	2.0 1.5 1.75 1.5 1.3 1.1 1.75 0.8	mud̪jaŋba	0	1511
 1850	168_rainbow	rainbow	MonpaTawangMonastery	Monpa Tawang Monastery	ŋah̥	ŋah̥	ŋ a h̥	dakp1242	27.586829	91.85796	Takpa
 1851	168_rainbow	rainbow	MonpaZimithang	Monpa Zimithang	ɲah	ɲah	ɲ a h	dakp1242	27.335901	92.306528	Takpa
@@ -5166,11 +5166,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 6650	178_root	root	DammaiRurang	Dammai Rurang	khrən	khrən	kʰ r ə n	miji1239	27.368455	92.500637	Khobwa
 6651	178_root	root	DammaiDibin	Dammai Dibin	ukhən	ukhən	u kʰ ə n	miji1239	27.437363	92.531354	Khobwa
 1964	179_rottenfruit	rotten (fruit)	MonpaBalemu	Monpa Balemu	ɕitkala	ɕitkala	ɕ i t k a l a	kala1376	26.964717	92.164581	Tshanglic	3 7 1 1 7 5 7	AXMBYBZ	SITKALA	1	1.S.C 1.I.V 1.T.c 1.K.C 1.A.V 1.L.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ɕitkala	0	1611
-1965	179_rottenfruit	rotten (fruit)	MonpaTomko	Monpa Tomko	dʒipan	dʒipan	dʒ i p a n	kala1376	27.16536	92.23077	Tshanglic	1 7 1 7 4	AXBYN	TIPAN	8	8.T.C 8.I.V 8.P.C 8.A.V 8.N.c	2.0 1.5 1.75 1.3 0.8	dʒipan	0	1611
-1966	179_rottenfruit	rotten (fruit)	MonpaNamsu	Monpa Namsu	dʒidpæn	dʒidpæn	dʒ i d p æ n	kala1376	27.359505	92.34921	Tshanglic	1 7 1 1 7 4	AXMBYN	TITPEN	5	5.T.C 5.I.V 5.T.c 5.P.C 5.E.V 5.N.c	2.0 1.5 1.1 1.75 1.3 0.8	dʒidpæn	0	1611
+1965	179_rottenfruit	rotten (fruit)	MonpaTomko	Monpa Tomko	dʒipan	dʒipan	dʒ i p a n	kala1376	27.16536	92.23077	Tshanglic	1 7 1 7 4	AXBYN	TIPAN	8	8.T.C 8.I.V 8.P.C 8.A.V 8.N.c	2.0 1.5 1.75 1.3 0.8	dʒipan	0	1612
+1966	179_rottenfruit	rotten (fruit)	MonpaNamsu	Monpa Namsu	dʒidpæn	dʒidpæn	dʒ i d p æ n	kala1376	27.359505	92.34921	Tshanglic	1 7 1 1 7 4	AXMBYN	TITPEN	5	5.T.C 5.I.V 5.T.c 5.P.C 5.E.V 5.N.c	2.0 1.5 1.1 1.75 1.3 0.8	dʒidpæn	0	1612
 1967	179_rottenfruit	rotten (fruit)	MonpaTembang	Monpa Tembang	zitkhen	zitkhen	z i t kʰ e n	tsha1245	27.333876	92.40513	Tshanglic	3 7 1 1 7 4	AXMBYN	SITKEN	7	7.S.C 7.I.V 7.T.c 7.K.C 7.E.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	zitkʰen	0	1611
 1968	179_rottenfruit	rotten (fruit)	MonpaSangti	Monpa Sangti	ʃikan	ʃikan	ʃ i k a n	tsha1245	27.402266	92.314934	Tshanglic	3 7 1 7 4	AXBYN	SIKAN	6	6.S.C 6.I.V 6.K.C 6.A.V 6.N.c	2.0 1.5 1.75 1.3 0.8	ʃikan	0	1611
-1969	179_rottenfruit	rotten (fruit)	MonpaDirang	Monpa Dirang	dʒipan	dʒipan	dʒ i p a n	tsha1245	27.34959	92.27914	Tshanglic	1 7 1 7 4	AXBYN	TIPAN	2	2.T.C 2.I.V 2.P.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	dʒipan	0	1611
+1969	179_rottenfruit	rotten (fruit)	MonpaDirang	Monpa Dirang	dʒipan	dʒipan	dʒ i p a n	tsha1245	27.34959	92.27914	Tshanglic	1 7 1 7 4	AXBYN	TIPAN	2	2.T.C 2.I.V 2.P.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	dʒipan	0	1612
 1970	179_rottenfruit	rotten (fruit)	MonpaZimithang	Monpa Zimithang	rigjaga	rigjaga	r i g j a g a	dakp1242	27.335901	92.306528	Takpa
 1971	179_rottenfruit	rotten (fruit)	MonpaChangprong	Monpa Changprong	rygijo	rygijo	r y g i j o	dakp1242	27.578928	91.876393	Takpa
 5551	179_rottenfruit	rotten (fruit)	SartangKhoitam	Sartang Khoitam	hũlũbe	hũlũbe	h ũ l ũ b e	khoi1252	27.358518	92.438415	Khobwa
@@ -5615,7 +5615,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 7836	193_small	small	DammaiDibin	Dammai Dibin	mijadʒui	mijadʒui	m i j a dʒ u i	miji1239	27.437363	92.531354	Khobwa
 2127	194_smoke	smoke	MonpaKalaktang	Monpa Kalaktang	mugu	mugu	m u g u	kala1376	27.104162	92.113017	Tshanglic	4 7 1 7	AXBZ	MYKY	4	4.M.C 4.Y.V 4.K.C 4.Y.V	2.0 1.5 1.75 0.8	mugu	0	1742
 2128	194_smoke	smoke	MonpaBalemu	Monpa Balemu	mugu	mugu	m u g u	kala1376	26.964717	92.164581	Tshanglic	4 7 1 7	AXBZ	MYKY	1	1.M.C 1.Y.V 1.K.C 1.Y.V	2.0 1.5 1.75 0.8	mugu	0	1742
-2129	194_smoke	smoke	MonpaTomko	Monpa Tomko	muhu	muhu	m u h u	kala1376	27.16536	92.23077	Tshanglic	4 7 3 7	AXBZ	MYHY	8	8.M.C 8.Y.V 8.H.C 8.Y.V	2.0 1.5 1.75 0.8	muhu	0	1743
+2129	194_smoke	smoke	MonpaTomko	Monpa Tomko	muhu	muhu	m u h u	kala1376	27.16536	92.23077	Tshanglic	4 7 3 7	AXBZ	MYHY	8	8.M.C 8.Y.V 8.H.C 8.Y.V	2.0 1.5 1.75 0.8	muhu	0	1742
 2130	194_smoke	smoke	MonpaNamsu	Monpa Namsu	mugi	mugi	m u g i	kala1376	27.359505	92.34921	Tshanglic	4 7 1 7	AXBZ	MYKI	5	5.M.C 5.Y.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	mugi	0	1742
 2131	194_smoke	smoke	MonpaTembang	Monpa Tembang	mugi	mugi	m u g i	tsha1245	27.333876	92.40513	Tshanglic	4 7 1 7	AXBZ	MYKI	7	7.M.C 7.Y.V 7.K.C 7.I.V	2.0 1.5 1.75 0.8	mugi	0	1742
 2132	194_smoke	smoke	MonpaDirangDum	Monpa Dirang Dum	mui	mui	m u i	tsha1245	27.334341	92.293734	Tshanglic	4 7 7	AXZ	MYI	3	3.M.C 3.Y.V 3.I.V	2.0 1.5 0.8	mui	0	1742
@@ -5676,17 +5676,17 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 2149	196_soilground	soil ground	MonpaKalaktang	Monpa Kalaktang	sa	sa	s a	kala1376	27.104162	92.113017	Tshanglic	3 7	AX	SA	4	4.S.C 4.A.V	2.0 1.5	sa	0	1760
 2150	196_soilground	soil ground	MonpaBalemu	Monpa Balemu	sah̥	sah̥	s a h̥	kala1376	26.964717	92.164581	Tshanglic	3 7 3	AXN	SAH	1	1.S.C 1.A.V 1.H.c	2.0 1.5 0.8	sah̥	0	1760
 2151	196_soilground	soil ground	MonpaTomko	Monpa Tomko	sah̥	sah̥	s a h̥	kala1376	27.16536	92.23077	Tshanglic	3 7 3	AXN	SAH	8	8.S.C 8.A.V 8.H.c	2.0 1.5 0.8	sah̥	0	1763
-2152	196_soilground	soil ground	MonpaNamsu	Monpa Namsu	saʔ	saʔ	s a ʔ	kala1376	27.359505	92.34921	Tshanglic	3 7 1	AXN	SAH	5	5.S.C 5.A.V 5.H.c	2.0 1.5 0.8	saʔ	0	1762
-2153	196_soilground	soil ground	MonpaTembang	Monpa Tembang	saʔ	saʔ	s a ʔ	tsha1245	27.333876	92.40513	Tshanglic	3 7 1	AXN	SAH	7	7.S.C 7.A.V 7.H.c	2.0 1.5 0.8	saʔ	0	1760
+2152	196_soilground	soil ground	MonpaNamsu	Monpa Namsu	saʔ	saʔ	s a ʔ	kala1376	27.359505	92.34921	Tshanglic	3 7 1	AXN	SAH	5	5.S.C 5.A.V 5.H.c	2.0 1.5 0.8	saʔ	0	1761
+2153	196_soilground	soil ground	MonpaTembang	Monpa Tembang	saʔ	saʔ	s a ʔ	tsha1245	27.333876	92.40513	Tshanglic	3 7 1	AXN	SAH	7	7.S.C 7.A.V 7.H.c	2.0 1.5 0.8	saʔ	0	1762
 2154	196_soilground	soil ground	MonpaDirangDum	Monpa Dirang Dum	sa	sa	s a	tsha1245	27.334341	92.293734	Tshanglic	3 7	AX	SA	3	3.S.C 3.A.V	2.0 1.5	sa	0	1760
-2155	196_soilground	soil ground	MonpaSangti	Monpa Sangti	sah̥	sah̥	s a h̥	tsha1245	27.402266	92.314934	Tshanglic	3 7 3	AXN	SAH	6	6.S.C 6.A.V 6.H.c	2.0 1.5 0.8	sah̥	0	1762
-2156	196_soilground	soil ground	MonpaDirang	Monpa Dirang	sah̥	sah̥	s a h̥	tsha1245	27.34959	92.27914	Tshanglic	3 7 3	AXN	SAH	2	2.S.C 2.A.V 2.H.c	2.0 1.5 0.8	sah̥	0	1761
+2155	196_soilground	soil ground	MonpaSangti	Monpa Sangti	sah̥	sah̥	s a h̥	tsha1245	27.402266	92.314934	Tshanglic	3 7 3	AXN	SAH	6	6.S.C 6.A.V 6.H.c	2.0 1.5 0.8	sah̥	0	1761
+2156	196_soilground	soil ground	MonpaDirang	Monpa Dirang	sah̥	sah̥	s a h̥	tsha1245	27.34959	92.27914	Tshanglic	3 7 3	AXN	SAH	2	2.S.C 2.A.V 2.H.c	2.0 1.5 0.8	sah̥	0	1760
 2157	196_soilground	soil ground	MonpaTawangMonastery	Monpa Tawang Monastery	sah̥	sah̥	s a h̥	dakp1242	27.586829	91.85796	Takpa
 2158	196_soilground	soil ground	MonpaZimithang	Monpa Zimithang	sah̥	sah̥	s a h̥	dakp1242	27.335901	92.306528	Takpa
 2159	196_soilground	soil ground	MonpaChangprong	Monpa Changprong	satʃa	satʃa	s a tʃ a	dakp1242	27.578928	91.876393	Takpa
 2160	197_some	some	MonpaKalaktang	Monpa Kalaktang	anithur	anithur	a n i tʰ u r	kala1376	27.104162	92.113017	Tshanglic	7 4 7 1 7 5	XBYBYN	ANITYR	4	4.A.V 4.N.C 4.I.V 4.T.C 4.Y.V 4.R.c	1.5 1.75 1.3 1.75 1.3 0.8	anitʰur	1	1772
 2161	197_some	some	MonpaBalemu	Monpa Balemu	naka	naka	n a k a	kala1376	26.964717	92.164581	Tshanglic	4 7 1 7	AXBZ	NAKA	1	1.N.C 1.A.V 1.K.C 1.A.V	2.0 1.5 1.75 0.8	naka	0	1769
-2162	197_some	some	MonpaTomko	Monpa Tomko	haŋginu	haŋginu	h a ŋ g i n u	kala1376	27.16536	92.23077	Tshanglic	3 7 4 1 7 4 7	AXMBYBZ	HANKINY	8	8.H.C 8.A.V 8.N.c 8.K.C 8.I.V 8.N.C 8.Y.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	haŋginu	0	1775
+2162	197_some	some	MonpaTomko	Monpa Tomko	haŋginu	haŋginu	h a ŋ g i n u	kala1376	27.16536	92.23077	Tshanglic	3 7 4 1 7 4 7	AXMBYBZ	HANKINY	8	8.H.C 8.A.V 8.N.c 8.K.C 8.I.V 8.N.C 8.Y.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	haŋginu	0	1773
 2163	197_some	some	MonpaNamsu	Monpa Namsu	otʃan	otʃan	o tʃ a n	kala1376	27.359505	92.34921	Tshanglic	7 1 7 4	XBYN	UTAN	5	5.U.V 5.T.C 5.A.V 5.N.c	1.5 1.75 1.3 0.8	otʃan	0	1770
 2164	197_some	some	MonpaTembang	Monpa Tembang	tʃat	tʃat	tʃ a t	tsha1245	27.333876	92.40513	Tshanglic	1 7 1	AXN	TAT	7	7.T.C 7.A.V 7.T.c	2.0 1.5 0.8	tʃat	0	1774
 2165	197_some	some	MonpaDirangDum	Monpa Dirang Dum	tʃhatʃhatʃhona	tʃhatʃhatʃhona	tʃʰ a tʃʰ a tʃʰ o n a	tsha1245	27.334341	92.293734	Tshanglic	1 7 1 7 1 7 4 7	AXBYBYBZ	TATATUNA	3	3.T.C 3.A.V 3.T.C 3.A.V 3.T.C 3.U.V 3.N.C 3.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	tʃʰatʃʰatʃʰona	0	1771
@@ -5804,7 +5804,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 7348	200_spear	spear	DammaiDibin	Dammai Dibin	dʒuŋ	dʒuŋ	dʒ u ŋ	miji1239	27.437363	92.531354	Khobwa
 2203	201_spicyhot	spicy, hot	MonpaKalaktang	Monpa Kalaktang	ʃokpu	ʃokpu	ʃ o k p u	kala1376	27.104162	92.113017	Tshanglic	3 7 1 1 7	AXMBZ	SUKPY	4	4.S.C 4.U.V 4.K.c 4.P.C 4.Y.V	2.0 1.5 1.1 1.75 0.8	ʃokpu	0	1808
 2204	201_spicyhot	spicy, hot	MonpaBalemu	Monpa Balemu	hasok1a	hasok1a	h a s o k l a	kala1376	26.964717	92.164581	Tshanglic	3 7 3 7 1 5 7	AXBYBCZ	HASUKLA	1	1.H.C 1.A.V 1.S.C 1.U.V 1.K.C 1.L.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	hasokla	0	1805
-2205	201_spicyhot	spicy, hot	MonpaTomko	Monpa Tomko	khaso	khaso	kʰ a s o	kala1376	27.16536	92.23077	Tshanglic	1 7 3 7	AXBZ	KASU	8	8.K.C 8.A.V 8.S.C 8.U.V	2.0 1.5 1.75 0.8	kʰaso	0	1810
+2205	201_spicyhot	spicy, hot	MonpaTomko	Monpa Tomko	khaso	khaso	kʰ a s o	kala1376	27.16536	92.23077	Tshanglic	1 7 3 7	AXBZ	KASU	8	8.K.C 8.A.V 8.S.C 8.U.V	2.0 1.5 1.75 0.8	kʰaso	0	1805
 2206	201_spicyhot	spicy, hot	MonpaNamsu	Monpa Namsu	tʃikhen	tʃikhen	tʃ i kʰ e n	kala1376	27.359505	92.34921	Tshanglic	1 7 1 7 4	AXBYN	TIKEN	5	5.T.C 5.I.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 0.8	tʃikʰen	0	1809
 2207	201_spicyhot	spicy, hot	MonpaTembang	Monpa Tembang	tʃikhen	tʃikhen	tʃ i kʰ e n	tsha1245	27.333876	92.40513	Tshanglic	1 7 1 7 4	AXBYN	TIKEN	7	7.T.C 7.I.V 7.K.C 7.E.V 7.N.c	2.0 1.5 1.75 1.3 0.8	tʃikʰen	0	1809
 2208	201_spicyhot	spicy, hot	MonpaDirangDum	Monpa Dirang Dum	tʃhinla	tʃhinla	tʃʰ i n l a	tsha1245	27.334341	92.293734	Tshanglic	1 7 4 5 7	AXBCZ	TINLA	3	3.T.C 3.I.V 3.N.C 3.L.C 3.A.V	2.0 1.5 1.75 1.5 0.8	tʃʰinla	0	1807
@@ -6927,10 +6927,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 7564	252_toplay	to play	DammaiDibin	Dammai Dibin	səthe	səthe	s ə tʰ e	miji1239	27.437363	92.531354	Khobwa
 2790	253_topull	to pull	MonpaKalaktang	Monpa Kalaktang	dʒaŋtʃham	dʒaŋtʃham	dʒ a ŋ tʃʰ a m	kala1376	27.104162	92.113017	Tshanglic	1 7 4 1 7 4	AXMBYN	TANTAM	4	4.T.C 4.A.V 4.N.c 4.T.C 4.A.V 4.M.c	2.0 1.5 1.1 1.75 1.3 0.8	dʒaŋtʃʰam	0	2286
 2791	253_topull	to pull	MonpaBalemu	Monpa Balemu	dʒakphalo	dʒakphalo	dʒ a k pʰ a l o	kala1376	26.964717	92.164581	Tshanglic	1 7 1 1 7 5 7	AXMBYBZ	TAKPALU	1	1.T.C 1.A.V 1.K.c 1.P.C 1.A.V 1.L.C 1.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	dʒakpʰalo	0	2284
-2792	253_topull	to pull	MonpaTomko	Monpa Tomko	dʒaŋpan	dʒaŋpan	dʒ a ŋ p a n	kala1376	27.16536	92.23077	Tshanglic	1 7 4 1 7 4	AXMBYN	TANPAN	8	8.T.C 8.A.V 8.N.c 8.P.C 8.A.V 8.N.c	2.0 1.5 1.1 1.75 1.3 0.8	dʒaŋpan	0	2286
-2793	253_topull	to pull	MonpaNamsu	Monpa Namsu	dʒaŋpo	dʒaŋpo	dʒ a ŋ p o	kala1376	27.359505	92.34921	Tshanglic	1 7 4 1 7	AXMBZ	TANPU	5	5.T.C 5.A.V 5.N.c 5.P.C 5.U.V	2.0 1.5 1.1 1.75 0.8	dʒaŋpo	0	2286
+2792	253_topull	to pull	MonpaTomko	Monpa Tomko	dʒaŋpan	dʒaŋpan	dʒ a ŋ p a n	kala1376	27.16536	92.23077	Tshanglic	1 7 4 1 7 4	AXMBYN	TANPAN	8	8.T.C 8.A.V 8.N.c 8.P.C 8.A.V 8.N.c	2.0 1.5 1.1 1.75 1.3 0.8	dʒaŋpan	0	2285
+2793	253_topull	to pull	MonpaNamsu	Monpa Namsu	dʒaŋpo	dʒaŋpo	dʒ a ŋ p o	kala1376	27.359505	92.34921	Tshanglic	1 7 4 1 7	AXMBZ	TANPU	5	5.T.C 5.A.V 5.N.c 5.P.C 5.U.V	2.0 1.5 1.1 1.75 0.8	dʒaŋpo	0	2285
 2794	253_topull	to pull	MonpaTembang	Monpa Tembang	dʒaŋakhen	dʒaŋakhen	dʒ a ŋ a kʰ e n	tsha1245	27.333876	92.40513	Tshanglic	1 7 4 7 1 7 4	AXBYBYN	TANAKEN	7	7.T.C 7.A.V 7.N.C 7.A.V 7.K.C 7.E.V 7.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	dʒaŋakʰen	0	2287
-2795	253_topull	to pull	MonpaDirangDum	Monpa Dirang Dum	dʒaŋpo	dʒaŋpo	dʒ a ŋ p o	tsha1245	27.334341	92.293734	Tshanglic	1 7 4 1 7	AXMBZ	TANPU	3	3.T.C 3.A.V 3.N.c 3.P.C 3.U.V	2.0 1.5 1.1 1.75 0.8	dʒaŋpo	0	2286
+2795	253_topull	to pull	MonpaDirangDum	Monpa Dirang Dum	dʒaŋpo	dʒaŋpo	dʒ a ŋ p o	tsha1245	27.334341	92.293734	Tshanglic	1 7 4 1 7	AXMBZ	TANPU	3	3.T.C 3.A.V 3.N.c 3.P.C 3.U.V	2.0 1.5 1.1 1.75 0.8	dʒaŋpo	0	2285
 2796	253_topull	to pull	MonpaSangti	Monpa Sangti	tʃaŋku	tʃaŋku	tʃ a ŋ k u	tsha1245	27.402266	92.314934	Tshanglic	1 7 4 1 7	AXMBZ	TANKY	6	6.T.C 6.A.V 6.N.c 6.K.C 6.Y.V	2.0 1.5 1.1 1.75 0.8	tʃaŋku	0	2285
 2797	253_topull	to pull	MonpaDirang	Monpa Dirang	dʒaŋku	dʒaŋku	dʒ a ŋ k u	tsha1245	27.34959	92.27914	Tshanglic	1 7 4 1 7	AXMBZ	TANKY	2	2.T.C 2.A.V 2.N.c 2.K.C 2.Y.V	2.0 1.5 1.1 1.75 0.8	dʒaŋku	0	2285
 2798	253_topull	to pull	MonpaTawangMonastery	Monpa Tawang Monastery	tjaŋo	tjaŋo	t j a ŋ o	dakp1242	27.586829	91.85796	Takpa
@@ -7027,14 +7027,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 7618	258_tosew	to sew	NamreiBisai	Namrei Bisai	gəikhrə	gəikhrə	g ə i kʰ r ə	miji1239	27.682796	92.700031	Khobwa
 7619	258_tosew	to sew	DammaiRurang	Dammai Rurang	khri	khri	kʰ r i	miji1239	27.368455	92.500637	Khobwa
 7620	258_tosew	to sew	DammaiDibin	Dammai Dibin	grəkhri	grəkhri	g r ə kʰ r i	miji1239	27.437363	92.531354	Khobwa
-2856	259_tosing	to sing	MonpaKalaktang	Monpa Kalaktang	ŋanzamtʃham	ŋanzamtʃham	ŋ a n z a m tʃʰ a m	kala1376	27.104162	92.113017	Tshanglic	4 7 4 3 7 4 1 7 4	AXMBYMBYN	NANSAMTAM	4	4.N.C 4.A.V 4.N.c 4.S.C 4.A.V 4.M.c 4.T.C 4.A.V 4.M.c	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 0.8	ŋanzamtʃʰam	0	2341
+2856	259_tosing	to sing	MonpaKalaktang	Monpa Kalaktang	ŋanzamtʃham	ŋanzamtʃham	ŋ a n z a m tʃʰ a m	kala1376	27.104162	92.113017	Tshanglic	4 7 4 3 7 4 1 7 4	AXMBYMBYN	NANSAMTAM	4	4.N.C 4.A.V 4.N.c 4.S.C 4.A.V 4.M.c 4.T.C 4.A.V 4.M.c	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 0.8	ŋanzamtʃʰam	0	2340
 2857	259_tosing	to sing	MonpaBalemu	Monpa Balemu	ɲoɾla	ɲoɾla	ɲ o ɾ l a	kala1376	26.964717	92.164581	Tshanglic	4 7 5 5 7	AXMBZ	NURLA	1	1.N.C 1.U.V 1.R.c 1.L.C 1.A.V	2.0 1.5 1.1 1.75 0.8	ɲoɾla	0	2338
-2858	259_tosing	to sing	MonpaTomko	Monpa Tomko	ɲirpan	ɲirpan	ɲ i r p a n	kala1376	27.16536	92.23077	Tshanglic	4 7 5 1 7 4	AXMBYN	NIRPAN	8	8.N.C 8.I.V 8.R.c 8.P.C 8.A.V 8.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ɲirpan	0	2340
+2858	259_tosing	to sing	MonpaTomko	Monpa Tomko	ɲirpan	ɲirpan	ɲ i r p a n	kala1376	27.16536	92.23077	Tshanglic	4 7 5 1 7 4	AXMBYN	NIRPAN	8	8.N.C 8.I.V 8.R.c 8.P.C 8.A.V 8.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ɲirpan	0	2339
 2859	259_tosing	to sing	MonpaNamsu	Monpa Namsu	ɲurkhən	ɲurkhən	ɲ u r kʰ ə n	kala1376	27.359505	92.34921	Tshanglic	4 7 5 1 7 4	AXMBYN	NYRKEN	5	5.N.C 5.Y.V 5.R.c 5.K.C 5.E.V 5.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ɲurkʰən	0	2339
-2860	259_tosing	to sing	MonpaTembang	Monpa Tembang	ɲurkhən	ɲurkhən	ɲ u r kʰ ə n	tsha1245	27.333876	92.40513	Tshanglic	4 7 5 1 7 4	AXMBYN	NYRKEN	7	7.N.C 7.Y.V 7.R.c 7.K.C 7.E.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ɲurkʰən	0	2339
-2861	259_tosing	to sing	MonpaDirangDum	Monpa Dirang Dum	ŋaŋɲirpo	ŋaŋɲirpo	ŋ a ŋ ɲ i r p o	tsha1245	27.334341	92.293734	Tshanglic	4 7 4 4 7 5 1 7	AXMBYMBZ	NANNIRPU	3	3.N.C 3.A.V 3.N.c 3.N.C 3.I.V 3.R.c 3.P.C 3.U.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 0.8	ŋaŋɲirpo	0	2340
-2862	259_tosing	to sing	MonpaSangti	Monpa Sangti	jurtʃu	jurtʃu	j u r tʃ u	tsha1245	27.402266	92.314934	Tshanglic	6 7 5 1 7	AXMBZ	JYRTY	6	6.J.C 6.Y.V 6.R.c 6.T.C 6.Y.V	2.0 1.5 1.1 1.75 0.8	jurtʃu	0	2339
-2863	259_tosing	to sing	MonpaDirang	Monpa Dirang	ɲurtʃu	ɲurtʃu	ɲ u r tʃ u	tsha1245	27.34959	92.27914	Tshanglic	4 7 5 1 7	AXMBZ	NYRTY	2	2.N.C 2.Y.V 2.R.c 2.T.C 2.Y.V	2.0 1.5 1.1 1.75 0.8	ɲurtʃu	0	2339
+2860	259_tosing	to sing	MonpaTembang	Monpa Tembang	ɲurkhən	ɲurkhən	ɲ u r kʰ ə n	tsha1245	27.333876	92.40513	Tshanglic	4 7 5 1 7 4	AXMBYN	NYRKEN	7	7.N.C 7.Y.V 7.R.c 7.K.C 7.E.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	ɲurkʰən	0	2338
+2861	259_tosing	to sing	MonpaDirangDum	Monpa Dirang Dum	ŋaŋɲirpo	ŋaŋɲirpo	ŋ a ŋ ɲ i r p o	tsha1245	27.334341	92.293734	Tshanglic	4 7 4 4 7 5 1 7	AXMBYMBZ	NANNIRPU	3	3.N.C 3.A.V 3.N.c 3.N.C 3.I.V 3.R.c 3.P.C 3.U.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 0.8	ŋaŋɲirpo	0	2339
+2862	259_tosing	to sing	MonpaSangti	Monpa Sangti	jurtʃu	jurtʃu	j u r tʃ u	tsha1245	27.402266	92.314934	Tshanglic	6 7 5 1 7	AXMBZ	JYRTY	6	6.J.C 6.Y.V 6.R.c 6.T.C 6.Y.V	2.0 1.5 1.1 1.75 0.8	jurtʃu	0	2338
+2863	259_tosing	to sing	MonpaDirang	Monpa Dirang	ɲurtʃu	ɲurtʃu	ɲ u r tʃ u	tsha1245	27.34959	92.27914	Tshanglic	4 7 5 1 7	AXMBZ	NYRTY	2	2.N.C 2.Y.V 2.R.c 2.T.C 2.Y.V	2.0 1.5 1.1 1.75 0.8	ɲurtʃu	0	2338
 2864	259_tosing	to sing	MonpaTawangMonastery	Monpa Tawang Monastery	ɲoɾo	ɲoɾo	ɲ o ɾ o	dakp1242	27.586829	91.85796	Takpa
 2865	259_tosing	to sing	MonpaZimithang	Monpa Zimithang	ɲorduni	ɲorduni	ɲ o r d u n i	dakp1242	27.335901	92.306528	Takpa
 2866	259_tosing	to sing	MonpaChangprong	Monpa Changprong	dʒu; ɲorgosu	dʒu	dʒ u	dakp1242	27.578928	91.876393	Takpa
@@ -7064,7 +7064,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 7414	260_tosit	to sit	DammaiDibin	Dammai Dibin	gijoŋ	gijoŋ	g i j o ŋ	miji1239	27.437363	92.531354	Khobwa
 2879	261_tosleep	to sleep	MonpaKalaktang	Monpa Kalaktang	iptʃham	iptʃham	i p tʃʰ a m	kala1376	27.104162	92.113017	Tshanglic	7 1 1 7 4	XMBYN	IPTAM	4	4.I.V 4.P.c 4.T.C 4.A.V 4.M.c	1.5 1.1 1.75 1.3 0.8	iptʃʰam	0	2356
 2880	261_tosleep	to sleep	MonpaBalemu	Monpa Balemu	ipka	ipka	i p k a	kala1376	26.964717	92.164581	Tshanglic	7 1 1 7	XMBZ	IPKA	1	1.I.V 1.P.c 1.K.C 1.A.V	1.5 1.1 1.75 0.8	ipka	0	2356
-2881	261_tosleep	to sleep	MonpaTomko	Monpa Tomko	ipan	ipan	i p a n	kala1376	27.16536	92.23077	Tshanglic	7 1 7 4	XBYN	IPAN	8	8.I.V 8.P.C 8.A.V 8.N.c	1.5 1.75 1.3 0.8	ipan	0	2360
+2881	261_tosleep	to sleep	MonpaTomko	Monpa Tomko	ipan	ipan	i p a n	kala1376	27.16536	92.23077	Tshanglic	7 1 7 4	XBYN	IPAN	8	8.I.V 8.P.C 8.A.V 8.N.c	1.5 1.75 1.3 0.8	ipan	0	2356
 2882	261_tosleep	to sleep	MonpaNamsu	Monpa Namsu	iho; ipkhen	iho	i h o	kala1376	27.359505	92.34921	Tshanglic	7 3 7	XBZ	IHU	5	5.I.V 5.H.C 5.U.V	1.5 1.75 0.8	iho	0	2359
 2883	261_tosleep	to sleep	MonpaNamsu	Monpa Namsu	iho; ipkhen	ipkhen	i p kʰ e n	kala1376	27.359505	92.34921	Tshanglic	7 1 1 7 4	XMBYN	IPKEN	5	5.I.V 5.P.c 5.K.C 5.E.V 5.N.c	1.5 1.1 1.75 1.3 0.8	ipkʰen	0	2356
 2884	261_tosleep	to sleep	MonpaTembang	Monpa Tembang	ipkhen	ipkhen	i p kʰ e n	tsha1245	27.333876	92.40513	Tshanglic	7 1 1 7 4	XMBYN	IPKEN	7	7.I.V 7.P.c 7.K.C 7.E.V 7.N.c	1.5 1.1 1.75 1.3 0.8	ipkʰen	0	2356
@@ -7099,7 +7099,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 7520	262_tospeak	to speak	NamreiBisai	Namrei Bisai	ta	ta	t a	miji1239	27.682796	92.700031	Khobwa
 7521	262_tospeak	to speak	DammaiRurang	Dammai Rurang	ʃoʔ	ʃoʔ	ʃ o ʔ	miji1239	27.368455	92.500637	Khobwa
 7522	262_tospeak	to speak	DammaiDibin	Dammai Dibin	tʃoʔ	tʃoʔ	tʃ o ʔ	miji1239	27.437363	92.531354	Khobwa
-2904	263_tostand	to stand	MonpaKalaktang	Monpa Kalaktang	thintʃhoŋtʃham	thintʃhoŋtʃham	tʰ i n tʃʰ o ŋ tʃʰ a m	kala1376	27.104162	92.113017	Tshanglic	1 7 4 1 7 4 1 7 4	AXMBYMBYN	TINTUNTAM	4	4.T.C 4.I.V 4.N.c 4.T.C 4.U.V 4.N.c 4.T.C 4.A.V 4.M.c	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 0.8	tʰintʃʰoŋtʃʰam	0	2377
+2904	263_tostand	to stand	MonpaKalaktang	Monpa Kalaktang	thintʃhoŋtʃham	thintʃhoŋtʃham	tʰ i n tʃʰ o ŋ tʃʰ a m	kala1376	27.104162	92.113017	Tshanglic	1 7 4 1 7 4 1 7 4	AXMBYMBYN	TINTUNTAM	4	4.T.C 4.I.V 4.N.c 4.T.C 4.U.V 4.N.c 4.T.C 4.A.V 4.M.c	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 0.8	tʰintʃʰoŋtʃʰam	0	2380
 2905	263_tostand	to stand	MonpaBalemu	Monpa Balemu	thindʒok	thindʒok	tʰ i n dʒ o k	kala1376	26.964717	92.164581	Tshanglic	1 7 4 1 7 1	AXMBYN	TINTUK	1	1.T.C 1.I.V 1.N.c 1.T.C 1.U.V 1.K.c	2.0 1.5 1.1 1.75 1.3 0.8	tʰindʒok	0	2377
 2906	263_tostand	to stand	MonpaTomko	Monpa Tomko	thiŋman	thiŋman	tʰ i ŋ m a n	kala1376	27.16536	92.23077	Tshanglic	1 7 4 4 7 4	AXMBYN	TINMAN	8	8.T.C 8.I.V 8.N.c 8.M.C 8.A.V 8.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tʰiŋman	0	2379
 2907	263_tostand	to stand	MonpaNamsu	Monpa Namsu	thiŋkhən	thiŋkhən	tʰ i ŋ kʰ ə n	kala1376	27.359505	92.34921	Tshanglic	1 7 4 1 7 4	AXMBYN	TINKEN	5	5.T.C 5.I.V 5.N.c 5.K.C 5.E.V 5.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tʰiŋkʰən	0	2379
@@ -7255,10 +7255,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 7466	271_towait	to wait	NamreiBisai	Namrei Bisai	kherdʒaŋna	kherdʒaŋna	kʰ e r dʒ a ŋ n a	miji1239	27.682796	92.700031	Khobwa
 7467	271_towait	to wait	DammaiRurang	Dammai Rurang	raŋbija	raŋbija	r a ŋ b i j a	miji1239	27.368455	92.500637	Khobwa
 7468	271_towait	to wait	DammaiDibin	Dammai Dibin	khandʒaŋ	khandʒaŋ	kʰ a n dʒ a ŋ	miji1239	27.437363	92.531354	Khobwa
-3006	272_towalk	to walk	MonpaKalaktang	Monpa Kalaktang	d̪aŋtʃham	d̪aŋtʃham	d̪ a ŋ tʃʰ a m	kala1376	27.104162	92.113017	Tshanglic	1 7 4 1 7 4	AXMBYN	TANTAM	4	4.T.C 4.A.V 4.N.c 4.T.C 4.A.V 4.M.c	2.0 1.5 1.1 1.75 1.3 0.8	d̪aŋtʃʰam	0	2464
+3006	272_towalk	to walk	MonpaKalaktang	Monpa Kalaktang	d̪aŋtʃham	d̪aŋtʃham	d̪ a ŋ tʃʰ a m	kala1376	27.104162	92.113017	Tshanglic	1 7 4 1 7 4	AXMBYN	TANTAM	4	4.T.C 4.A.V 4.N.c 4.T.C 4.A.V 4.M.c	2.0 1.5 1.1 1.75 1.3 0.8	d̪aŋtʃʰam	0	2463
 3007	272_towalk	to walk	MonpaBalemu	Monpa Balemu	d̪aŋla	d̪aŋla	d̪ a ŋ l a	kala1376	26.964717	92.164581	Tshanglic	1 7 4 5 7	AXBCZ	TANLA	1	1.T.C 1.A.V 1.N.C 1.L.C 1.A.V	2.0 1.5 1.75 1.5 0.8	d̪aŋla	0	2461
 3008	272_towalk	to walk	MonpaTomko	Monpa Tomko	thaŋman	thaŋman	tʰ a ŋ m a n	kala1376	27.16536	92.23077	Tshanglic	1 7 4 4 7 4	AXMBYN	TANMAN	8	8.T.C 8.A.V 8.N.c 8.M.C 8.A.V 8.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tʰaŋman	0	2462
-3009	272_towalk	to walk	MonpaNamsu	Monpa Namsu	dikhən	dikhən	d i kʰ ə n	kala1376	27.359505	92.34921	Tshanglic	1 7 1 7 4	AXBYN	TIKEN	5	5.T.C 5.I.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 0.8	dikʰən	0	2465
+3009	272_towalk	to walk	MonpaNamsu	Monpa Namsu	dikhən	dikhən	d i kʰ ə n	kala1376	27.359505	92.34921	Tshanglic	1 7 1 7 4	AXBYN	TIKEN	5	5.T.C 5.I.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 0.8	dikʰən	0	2464
 3010	272_towalk	to walk	MonpaTembang	Monpa Tembang	daŋkhən	daŋkhən	d a ŋ kʰ ə n	tsha1245	27.333876	92.40513	Tshanglic	1 7 4 1 7 4	AXMBYN	TANKEN	7	7.T.C 7.A.V 7.N.c 7.K.C 7.E.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	daŋkʰən	0	2462
 3011	272_towalk	to walk	MonpaDirangDum	Monpa Dirang Dum	d̪aŋba	d̪aŋba	d̪ a ŋ b a	tsha1245	27.334341	92.293734	Tshanglic	1 7 4 1 7	AXMBZ	TANPA	3	3.T.C 3.A.V 3.N.c 3.P.C 3.A.V	2.0 1.5 1.1 1.75 0.8	d̪aŋba	0	2463
 3012	272_towalk	to walk	MonpaSangti	Monpa Sangti	d̪amku	d̪amku	d̪ a m k u	tsha1245	27.402266	92.314934	Tshanglic	1 7 4 1 7	AXMBZ	TAMKY	6	6.T.C 6.A.V 6.M.c 6.K.C 6.Y.V	2.0 1.5 1.1 1.75 0.8	d̪amku	0	2462
@@ -7442,7 +7442,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 3100	280_tooth	tooth	MonpaTembang	Monpa Tembang	ʃa	ʃa	ʃ a	tsha1245	27.333876	92.40513	Tshanglic	3 7	AX	SA	7	7.S.C 7.A.V	2.0 1.5	ʃa	1	2535
 3101	280_tooth	tooth	MonpaDirangDum	Monpa Dirang Dum	ɕja	ɕja	ɕ j a	tsha1245	27.334341	92.293734	Tshanglic	3 6 7	ACX	SJA	3	3.S.C 3.J.C 3.A.V	2.0 1.5 1.5	ɕja	0	2535
 3102	280_tooth	tooth	MonpaSangti	Monpa Sangti	ɕa	ɕa	ɕ a	tsha1245	27.402266	92.314934	Tshanglic	3 7	AX	SA	6	6.S.C 6.A.V	2.0 1.5	ɕa	0	2535
-3103	280_tooth	tooth	MonpaDirang	Monpa Dirang	ʃah̩	ʃah̩	ʃ a h̩/h	tsha1245	27.34959	92.27914	Tshanglic	3 7 3	AXN	SAH	2	2.S.C 2.A.V 2.H.c	2.0 1.5 0.8	ʃah̩/h	0	2536
+3103	280_tooth	tooth	MonpaDirang	Monpa Dirang	ʃah̩	ʃah̩	ʃ a h̩/h	tsha1245	27.34959	92.27914	Tshanglic	3 7 3	AXN	SAH	2	2.S.C 2.A.V 2.H.c	2.0 1.5 0.8	ʃah̩/h	0	2535
 3104	280_tooth	tooth	MonpaTawangMonastery	Monpa Tawang Monastery	wah̥	wah̥	w a h̥	dakp1242	27.586829	91.85796	Takpa
 3105	280_tooth	tooth	MonpaZimithang	Monpa Zimithang	wah̥	wah̥	w a h̥	dakp1242	27.335901	92.306528	Takpa
 3106	280_tooth	tooth	MonpaChangprong	Monpa Changprong	wah̥	wah̥	w a h̥	dakp1242	27.578928	91.876393	Takpa
@@ -7775,14 +7775,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATIT
 7996	291_wet	wet	NamreiBisai	Namrei Bisai	məgəro	məgəro	m ə g ə r o	miji1239	27.682796	92.700031	Khobwa
 7997	291_wet	wet	DammaiRurang	Dammai Rurang	məgeru	məgeru	m ə g e r u	miji1239	27.368455	92.500637	Khobwa
 7998	291_wet	wet	DammaiDibin	Dammai Dibin	ablija	ablija	a b l i j a	miji1239	27.437363	92.531354	Khobwa
-3232	292_what	what	MonpaKalaktang	Monpa Kalaktang	hăŋ	hăŋ	h ă ŋ	kala1376	27.104162	92.113017	Tshanglic	3 7 4	AXN	HAN	4	4.H.C 4.A.V 4.N.c	2.0 1.5 0.8	hăŋ	0	2646
+3232	292_what	what	MonpaKalaktang	Monpa Kalaktang	hăŋ	hăŋ	h ă ŋ	kala1376	27.104162	92.113017	Tshanglic	3 7 4	AXN	HAN	4	4.H.C 4.A.V 4.N.c	2.0 1.5 0.8	hăŋ	0	2647
 3233	292_what	what	MonpaBalemu	Monpa Balemu	hăŋ	hăŋ	h ă ŋ	kala1376	26.964717	92.164581	Tshanglic	3 7 4	AXN	HAN	1	1.H.C 1.A.V 1.N.c	2.0 1.5 0.8	hăŋ	0	2645
 3234	292_what	what	MonpaTomko	Monpa Tomko	hăŋ	hăŋ	h ă ŋ	kala1376	27.16536	92.23077	Tshanglic	3 7 4	AXN	HAN	8	8.H.C 8.A.V 8.N.c	2.0 1.5 0.8	hăŋ	0	2645
 3235	292_what	what	MonpaNamsu	Monpa Namsu	hăŋ	hăŋ	h ă ŋ	kala1376	27.359505	92.34921	Tshanglic	3 7 4	AXN	HAN	5	5.H.C 5.A.V 5.N.c	2.0 1.5 0.8	hăŋ	0	2645
-3236	292_what	what	MonpaTembang	Monpa Tembang	hăŋ	hăŋ	h ă ŋ	tsha1245	27.333876	92.40513	Tshanglic	3 7 4	AXN	HAN	7	7.H.C 7.A.V 7.N.c	2.0 1.5 0.8	hăŋ	0	2647
+3236	292_what	what	MonpaTembang	Monpa Tembang	hăŋ	hăŋ	h ă ŋ	tsha1245	27.333876	92.40513	Tshanglic	3 7 4	AXN	HAN	7	7.H.C 7.A.V 7.N.c	2.0 1.5 0.8	hăŋ	0	2648
 3237	292_what	what	MonpaDirangDum	Monpa Dirang Dum	hăŋ	hăŋ	h ă ŋ	tsha1245	27.334341	92.293734	Tshanglic	3 7 4	AXN	HAN	3	3.H.C 3.A.V 3.N.c	2.0 1.5 0.8	hăŋ	0	2645
-3238	292_what	what	MonpaSangti	Monpa Sangti	haŋja	haŋja	h a ŋ j a	tsha1245	27.402266	92.314934	Tshanglic	3 7 4 6 7	AXBCZ	HANJA	6	6.H.C 6.A.V 6.N.C 6.J.C 6.A.V	2.0 1.5 1.75 1.5 0.8	haŋja	0	2645
-3239	292_what	what	MonpaDirang	Monpa Dirang	haŋja	haŋja	h a ŋ j a	tsha1245	27.34959	92.27914	Tshanglic	3 7 4 6 7	AXBCZ	HANJA	2	2.H.C 2.A.V 2.N.C 2.J.C 2.A.V	2.0 1.5 1.75 1.5 0.8	haŋja	0	2645
+3238	292_what	what	MonpaSangti	Monpa Sangti	haŋja	haŋja	h a ŋ j a	tsha1245	27.402266	92.314934	Tshanglic	3 7 4 6 7	AXBCZ	HANJA	6	6.H.C 6.A.V 6.N.C 6.J.C 6.A.V	2.0 1.5 1.75 1.5 0.8	haŋja	0	2646
+3239	292_what	what	MonpaDirang	Monpa Dirang	haŋja	haŋja	h a ŋ j a	tsha1245	27.34959	92.27914	Tshanglic	3 7 4 6 7	AXBCZ	HANJA	2	2.H.C 2.A.V 2.N.C 2.J.C 2.A.V	2.0 1.5 1.75 1.5 0.8	haŋja	0	2646
 3240	292_what	what	MonpaTawangMonastery	Monpa Tawang Monastery	zi	zi	z i	dakp1242	27.586829	91.85796	Takpa
 3241	292_what	what	MonpaZimithang	Monpa Zimithang	zilo	zilo	z i l o	dakp1242	27.335901	92.306528	Takpa
 3242	292_what	what	MonpaChangprong	Monpa Changprong	zilo	zilo	z i l o	dakp1242	27.578928	91.876393	Takpa
