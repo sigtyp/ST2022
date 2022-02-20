@@ -12,14 +12,14 @@ DATASETS = {
       "name": "Bai",
       "path": "lexibank/allenbai",
       "version": "v4.0",
-      "cognates": "false"
+      "cognates": ""
       },
     "listsamplesize": {
       "subgroup": "family",
       "name": "Indo-European",
       "path": "sequencecomparison/listsamplesize",
       "version": "v1.0",
-      "cognates": "true"}}
+      "cognates": "cogid_cognateset_id"}}
 
 
 def data_path(*comps):
