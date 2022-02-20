@@ -1,5 +1,22 @@
 # SIGTYP 2022 Shared Task: Prediction of Cognate Reflexes
 
+In 2022, SIGTYP is hosting a shared task on predicting words and morphemes from cognate words in related languages (Cognate Reflex Prediction Task). We provide 20 cognate-coded multilingual wordlists (10 for development, and 10 withheld for testing) from which we have withheld varying amounts of cognate sets from which the systems provided by participants should later predict individual words and morphemes. The code we provide allows to transparently access the data from its standardized format, compute sample predictions with a baseline method, and to evaluate results with three evaluation metrics.
+
+**Important Dates**
+
+* Feb 21, 2022: Training data and baseline are released at https://github.com/sigtyp/ST2022/tree/v0.1
+* Apr 11, 2022: Test data released at https://github.com/sigtyp/ST2022/tree/v1.0
+* Apr 25, 2022: System submissions are due    
+* May 13, 2022: System description papers are due
+* May 20, 2022: Camera-ready papers due
+
+**Important Links**
+
+* [Register for the task](https://docs.google.com/forms/d/e/1FAIpQLSdKvUOOUQSUpbOCWGR6a3zXUTEhhDqTRIXwhlgPwGPrpNpPcQ/viewform?usp=sf_link)
+* [Code Base and Data](https://github.com/sigtyp/ST2022)
+* [Documentation of Data and Software](https://github.com/sigtyp/ST2022/blob/v0.1/DOCUMENTATION.md)
+
+
 ## 1 The Reflex Prediction Task
 
 In historical-comparative linguistics, scholars typically assemble words from
@@ -91,5 +108,6 @@ In order to participate in the shared task, we ask participants to write their c
 # 7 Concluding Remarks
 
 In case of questions, we kindly ask to raise issues, which we will try to answer as quickly as possible. In order to guarantee that users use the same datasets and the same code basis to access the data, we will provide releases of this code base. If problems should be detected at a later stage, we can make a new release and ask all users to switch to the most recent version. 
+
 
 
