@@ -18,7 +18,7 @@ The packages are stored in the file `datasets.json`. This file contains the deve
 To download the 10 development datasets with GIT, you can use the commandline, after having installed the `st2022` package successfully:
 
 ```
-$ st2022 --download --cldf-data=cldf-data --datapath=data --datasets=datasts.json
+$ st2022 --download --cldf-data=cldf-data --datapath=data --datasets=datasets.json
 ```
 
 This will download the data and store the datasets in the folder `cldf-data` on your system. Since the datasets are GIT repositories themselves, we do not provide them along with this package, but since they are all versionized, you will have the same versions on your system as other users, if you download them with the command above.
