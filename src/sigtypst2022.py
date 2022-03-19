@@ -16,6 +16,7 @@ from lingpy.align.multiple import Multiple
 from itertools import combinations
 from tabulate import tabulate
 import json
+from tqdm import tqdm as progressbar
 
 
 def download(datasets, pth):
@@ -109,17 +110,17 @@ def prepare(datasets, datapath, cldfdatapath, runs=1000):
             part.partial_cluster(method="lexstat", threshold=0.45, ref="cogids",
                     cluster_method="infomap")
             ref = "cogids"
-        elif conditions["cognates"] == "cognacy":
+        elif conditions["cognates"] in ["cognacy", "partial_cognacy"]:
             part = Wordlist(D)
             ref = "cogids"
             C = {}
             for idx in part:
-                C[idx] = basictypes.ints(part[idx, "cognacy"])
-            part.add_entries("cogids", C, lambda x: x)
+                C[idx] = basictypes.ints(part[idx, conditions["cognates"]])
+            part.add_entries(ref, C, lambda x: x)
         else:
             part = Wordlist(D)
             ref = "cogid"
-        cognates = get_cognates(part, ref)            
+        cognates = get_cognates(part, ref)
 
         if datapath.joinpath(dataset).exists():
             pass
@@ -132,8 +133,11 @@ def prepare(datasets, datapath, cldfdatapath, runs=1000):
                 for language in part.cols:
                     f.write("\t{0}".format(idxs[language]))
                 f.write("\n")
-        wl.output(
+        part.output(
                 "tsv", filename=datapath.joinpath(dataset, "wordlist").as_posix(), ignore="all", prettify=False)
+
+
+
 
 
 def load_cognate_file(path):
@@ -372,11 +376,11 @@ class CorPaRClassifier(object):
                         for ptnB in self.ptnlkp[i, ptn[i]]:
                             if ptnB not in visited:
                                 visited.add(ptnB)
-                                match, mismatch = self.compatible(ptn, ptnB)
-                                if match and not mismatch:
-                                    candidates += [(ptnB, match+len(ptn))]
-                                elif match-mismatch:
-                                    candidates += [(ptnB, match-mismatch)]
+                                match_, mismatch = self.compatible(ptn, ptnB)
+                                if match_ and not mismatch:
+                                    candidates += [(ptnB, match_+len(ptn))]
+                                elif match_-mismatch:
+                                    candidates += [(ptnB, match_-mismatch)]
                 if candidates:
                     ptn = [x for x, y in sorted(
                         candidates,
@@ -492,7 +496,7 @@ class Baseline(object):
         self.sound2idx[self.missing] = 0
         self.idx2sound = {v: k for k, v in self.sound2idx.items()}
 
-        for language in self.languages:
+        for language in progressbar(self.languages, desc="fitting classifiers"):
             for pattern, sounds in self.patterns[language].items():
                 for sound, vals in sounds.items():
                     target = self.sound2idx[sound]
@@ -500,11 +504,9 @@ class Baseline(object):
                     for cogid, idx in vals:
                         self.matrices[language] += [row]
                         self.solutions[language] += [target]
-            print("[i] fitting classifier for {0}".format(language))
             self.classifiers[language].fit(
                     self.matrices[language],
                     self.solutions[language])
-            print('... fitted the classifier')
     
     def predict(self, languages, alignments, target, unknown="?"):
         
@@ -528,7 +530,7 @@ def predict_words(ifile, pfile, ofile):
     bs.fit()
     languages, sounds, testdata = load_cognate_file(pfile)
     predictions = defaultdict(dict)
-    for cogid, values in testdata.items():
+    for cogid, values in progressbar(testdata.items(), desc="predicting words"):
         alms, current_languages = [], []
         target = ""
         for language in languages:
