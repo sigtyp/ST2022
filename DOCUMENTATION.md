@@ -64,21 +64,21 @@ $ st2022 --compare --prediction-file=data/allenbai/result-0.20.tsv --solution-fi
 This will yield the following output:
 
 ``` 
-Language       ED    ED (Normalized)    B-Cubed FS
-----------  -----  -----------------  ------------
-Eryuan      0.474              0.155         0.810
-Heqing      1.005              0.321         0.704
-Jianchuan   0.784              0.260         0.762
-Lanping     1.242              0.392         0.656
-Luobenzhuo  2.015              0.645         0.440
-Qiliqiao    0.423              0.131         0.827
-Xiangyun    0.820              0.270         0.740
-Yunlong     0.536              0.171         0.797
-Zhoucheng   0.330              0.108         0.859
-TOTAL       0.848              0.273         0.733
+Language       ED    ED (Normalized)    B-Cubed FS    BLEU
+----------  -----  -----------------  ------------  ------
+Eryuan      0.526              0.173         0.791   0.746
+Heqing      1.041              0.332         0.691   0.562
+Jianchuan   0.804              0.268         0.753   0.627
+Lanping     1.273              0.399         0.643   0.458
+Luobenzhuo  2.000              0.656         0.444   0.224
+Qiliqiao    0.438              0.137         0.819   0.794
+Xiangyun    0.830              0.274         0.737   0.606
+Yunlong     0.521              0.166         0.817   0.761
+Zhoucheng   0.320              0.104         0.861   0.846
+TOTAL       0.861              0.279         0.728   0.625
 ```
 
-The column ED yields the un-normalized edit distance between prediction and attested word or morpheme. The column ED (Normalized) is the normalized score, and the column B-Cubed FS provides B-Cubed scores, following the suggestion of List (2019b) for computing B-Cubed scores instead of edit distances, which rank between 1 (perfect agreement) and 0.
+The column ED yields the un-normalized edit distance between prediction and attested word or morpheme. The column ED (Normalized) is the normalized score, and the column B-Cubed FS provides B-Cubed scores, following the suggestion of List (2019b) for computing B-Cubed scores instead of edit distances, which rank between 1 (perfect agreement) and 0. The column BLEU provides BLEU scores (Papineni et al. 2002) in a new implementation that was tested to yield the scores as the NLTK implementation (`nltk.translation.sentence_bleu`).
 
 To compute the evaluation for the entire data, just type:
 
@@ -89,18 +89,18 @@ $ st2022 --evaluate --datapath=data --datasets=datasets.json --all --proportion=
 The result here will summarize the scores per dataset:
 
 ```
-DATASET                       ED    ED (NORM)    B-CUBED FS
--------------------------  -----  -----------  ------------
-abrahammonpa               0.662        0.121         0.817
-allenbai                   0.840        0.273         0.731
-backstromnorthernpakistan  1.126        0.240         0.780
-castrosui                  0.323        0.080         0.905
-davletshinaztecan          3.310        0.490         0.537
-felekesemitic              3.254        0.556         0.476
-hantganbangime             2.572        0.600         0.436
-hattorijaponic             1.364        0.302         0.702
-listsamplesize             3.922        0.694         0.345
-mannburmish                2.418        0.609         0.464
+DATASET                       ED    ED (NORM)    B-CUBED FS    BLEU
+-------------------------  -----  -----------  ------------  ------
+abrahammonpa               0.681        0.124         0.812   0.803
+allenbai                   0.861        0.279         0.728   0.625
+backstromnorthernpakistan  1.197        0.256         0.774   0.606
+castrosui                  0.332        0.081         0.903   0.868
+davletshinaztecan          3.310        0.490         0.537   0.319
+felekesemitic              3.254        0.556         0.476   0.274
+hantganbangime             2.697        0.616         0.422   0.254
+hattorijaponic             1.364        0.302         0.702   0.586
+listsamplesize             3.922        0.694         0.345   0.180
+mannburmish                2.596        0.646         0.402   0.204
 ```
 
 You can also evoke the evaluation by using the `sigtypst2022` package directly.
