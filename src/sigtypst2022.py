@@ -12,10 +12,47 @@ import networkx as nx
 from networkx.algorithms.clique import find_cliques
 from lingpy.align.sca import get_consensus
 from lingpy.sequence.sound_classes import prosodic_string, class2tokens
+from lingpy.sequence.ngrams import get_n_ngrams
 from lingpy.align.multiple import Multiple
 from itertools import combinations
 from tabulate import tabulate
 import json
+import math
+
+
+def bleu_score(word, reference, n=4, weights=None, trim=False):
+    """
+    Compute the BLEU score for predicted word and reference.
+    """
+
+    if not weights:
+        weights = [1/n for x in range(n)]
+    
+    scores = []
+    for i in range(1, n+1):
+        
+        new_wrd = list(get_n_ngrams(word, i))
+        new_ref = list(get_n_ngrams(reference, i))
+        if trim and i > 1:
+            new_wrd = new_wrd[i-1:-(i-1)]
+            new_ref = new_ref[i-1:-(i-1)]
+
+        clipped, divide = [], []
+        for itm in set(new_wrd):
+            clipped += [new_ref.count(itm)]
+            divide += [new_wrd.count(itm)]
+        scores += [sum(clipped) / sum(divide)]
+
+    # calculate arithmetic mean
+    out_score  = 1
+    for weight, score in zip(weights, scores):
+        out_score = out_score * (score ** weight)
+    
+    if len(word) > len(reference):
+        bp = 1
+    else:
+        bp = math.e ** (1-(len(reference)/len(word)))
+    return bp * (out_score ** (1/sum(weights)))
 
 
 def download(datasets, pth):
@@ -569,24 +606,31 @@ def compare_words(firstfile, secondfile, report=True):
                         elif a != b:
                             score += 1
                     scoreD = score / len(almA)
-                    scores += [[key, entryA, entryB, score, scoreD]]
+                    bleu = bleu_score(entryA, entryB, n=4, trim=False)
+                    scores += [[key, entryA, entryB, score, scoreD, bleu]]
         if scores:
             p, r = bcubed_score(almsA, almsB), bcubed_score(almsB, almsA)
             fs = 2 * (p*r) / (p+r)
             all_scores += [[
                 language,
+                sum([row[-3] for row in scores])/len(scores),
                 sum([row[-2] for row in scores])/len(scores),
-                sum([row[-1] for row in scores])/len(scores),
-                fs]]
+                fs,
+                sum([row[-1] for row in scores])/len(scores)]]
     all_scores += [[
         "TOTAL", 
+        sum([row[-4] for row in all_scores])/len(languages),
         sum([row[-3] for row in all_scores])/len(languages),
         sum([row[-2] for row in all_scores])/len(languages),
-        sum([row[-1] for row in all_scores])/len(languages)
+        sum([row[-1] for row in all_scores])/len(languages),
         ]]
     if report:
-        print(tabulate(all_scores, headers=["Language", "ED", 
-            "ED (Normalized)", "B-Cubed FS"], floatfmt=".3f"))
+        print(
+                tabulate(
+                    all_scores, 
+                    headers=[
+                        "Language", "ED", "ED (Normalized)", 
+                        "B-Cubed FS", "BLEU"], floatfmt=".3f"))
     return all_scores
     
 
@@ -746,7 +790,7 @@ def main(*args):
                         report=False)[-1]]
                 results[-1][0] = data
             print(tabulate(sorted(results), headers=[
-                "DATASET", "ED", "ED (NORM)", "B-CUBED FS"], floatfmt=".3f"))
+                "DATASET", "ED", "ED (NORM)", "B-CUBED FS", "BLEU"], floatfmt=".3f"))
 
 
     if args.compare:
