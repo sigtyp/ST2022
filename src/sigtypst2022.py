@@ -13,10 +13,15 @@ from networkx.algorithms.clique import find_cliques
 from lingpy.align.sca import get_consensus
 from lingpy.sequence.sound_classes import prosodic_string, class2tokens
 from lingpy.align.multiple import Multiple
+from lingrex.reconstruct import CorPaRClassifier, transform_alignment
+from lingrex.util import bleu_score
 from itertools import combinations
 from tabulate import tabulate
 import json
 from tqdm import tqdm as progressbar
+import math
+
+
 
 
 def download(datasets, pth):
@@ -282,117 +287,6 @@ def ungap(alignment, languages, proto):
     return alignment
 
 
-class CorPaRClassifier(object):
-
-    def __init__(self, minrefs=2, missing=0, threshold=1):
-        """
-        Word prediction method adopted from List (2019).
-        """
-        self.G = nx.Graph()
-        self.missing = 0
-        self.threshold = threshold
-
-    def compatible(self, ptA, ptB):
-        match_, mismatch = 0, 0
-        for a, b in zip(ptA, ptB):
-            if not a or not b:
-                pass
-            elif a == b:
-                match_ += 1
-            else:
-                mismatch += 1
-        return match_, mismatch
-
-    def consensus(self, nodes):
-        
-        cons = []
-        for i in range(len(nodes[0])):
-            nocons = True
-            for node in nodes:
-                if node[i] != self.missing:
-                    cons += [node[i]]
-                    nocons = False
-                    break
-            if nocons:
-                cons += [self.missing]
-        return tuple(cons)
-
-    def fit(self, X, y):
-        """
-        Fit the data to the classifier.
-        """
-        # get identical patterns
-        P = defaultdict(list)
-        for i, row in enumerate(X):
-            P[tuple(row+[y[i]])] += [i]
-        # make graph
-        for (pA, vA), (pB, vB) in combinations(P.items(), r=2):
-            match, mismatch = self.compatible(pA, pB)
-            if not mismatch and match >= self.threshold:
-                if not pA in self.G:
-                    self.G.add_node(pA, freq=len(vA))
-                if not pB in self.G:
-                    self.G.add_node(pB, freq=len(vB))
-                self.G.add_edge(pA, pB, weight=match)
-        self.patterns = defaultdict(lambda : defaultdict(list))
-        self.lookup = defaultdict(lambda : defaultdict(int))
-        # get cliques
-        for nodes in find_cliques(self.G):
-            cons = self.consensus(list(nodes))
-            self.patterns[cons[:-1]][cons[-1]] = len(nodes)
-            for node in nodes:
-                self.lookup[node[:-1]][cons[:-1]] += len(nodes)
-        self.candidates = {}
-        self.predictions = {}
-        for ptn in self.patterns:
-            self.predictions[ptn] = [x for x, y in sorted(
-                self.patterns[ptn].items(),
-                key=lambda p: p[1],
-                reverse=True)][0]
-        for ptn in self.lookup:
-            ptnB = [x for x, y in sorted(self.lookup[ptn].items(),
-                key=lambda p: p[1],
-                reverse=True)][0]
-            self.predictions[ptn] = self.predictions[ptnB]
-
-        # make index of data points for quick search based on attested data
-        self.ptnlkp = defaultdict(list)
-        for ptn in self.patterns:
-            for i in range(len(ptn)):
-                if ptn[i] != self.missing:
-                    self.ptnlkp[i, ptn[i]] += [ptn]
-
-    def predict(self, matrix):
-        out = []
-        for row in matrix:
-            ptn = tuple(row)
-            try:
-                out += [self.predictions[ptn]]
-            except KeyError:
-                candidates = []
-                visited = set()
-                for i in range(len(ptn)-1):
-                    if ptn[i] != self.missing:
-                        for ptnB in self.ptnlkp[i, ptn[i]]:
-                            if ptnB not in visited:
-                                visited.add(ptnB)
-                                match_, mismatch = self.compatible(ptn, ptnB)
-                                if match_ and not mismatch:
-                                    candidates += [(ptnB, match_+len(ptn))]
-                                elif match_-mismatch:
-                                    candidates += [(ptnB, match_-mismatch)]
-                if candidates:
-                    ptn = [x for x, y in sorted(
-                        candidates,
-                        key=lambda p: p[1],
-                        reverse=True)][0]
-                    self.predictions[tuple(row)] = self.predictions[ptn]
-                    out += [self.predictions[tuple(row)]]
-                else:
-                    out += [self.missing]
-        return out
-
-
 def simple_align(
         seqs, 
         languages, 
@@ -405,28 +299,10 @@ def simple_align(
     """
     Simple alignment function that inserts entries for missing data.
     """
-    if align:
-        seqs = [[s for s in seq if s != gap] for seq in seqs]
-        msa = Multiple([[s for s in seq if s != gap] for seq in seqs])
-        msa.prog_align()
-        alms = [alm for alm in msa.alm_matrix]
-    else:
-        seqs = [[s for s in seq if s != gap] for seq in seqs]
-        alms = normalize_alignment([s for s in seqs])
-    if training:
-        alms = ungap(alms, languages, languages[-1])
-        these_seqs = seqs[:-1]
-    else:
-        these_seqs = seqs
-    matrix = [[missing for x in all_languages] for y in alms[0]]
-    for i in range(len(alms[0])):
-        for j, lng in enumerate(languages):
-            lidx = all_languages.index(lng)
-            matrix[i][lidx] = alms[j][i]    
-    # for debugging
-    for row in matrix:
-        assert len(row) == len(matrix[0])
-    return matrix
+    return transform_alignment(
+            seqs, languages, all_languages, align=align,
+            training=training, missing=missing, gap=gap, startend=False,
+            prosody=False, position=False, firstlast=False)
 
 
 class Baseline(object):
@@ -486,8 +362,8 @@ class Baseline(object):
                         alms, languages, self.languages,
                         training=True)
                 for i, row in enumerate(alm_matrix):
-                    ptn = tuple(row[:len(self.languages)-1])
-                    self.patterns[language][ptn][row[-1]] += [(cogid, i)]
+                    ptn = tuple(row[:len(self.languages)]+row[len(self.languages)+1:])
+                    self.patterns[language][ptn][row[len(self.languages)-1]] += [(cogid, i)]
                     for sound in ptn:
                         sounds.add(sound)
                     sounds.add(row[-1])
@@ -571,24 +447,31 @@ def compare_words(firstfile, secondfile, report=True):
                         elif a != b:
                             score += 1
                     scoreD = score / len(almA)
-                    scores += [[key, entryA, entryB, score, scoreD]]
+                    bleu = bleu_score(entryA, entryB, n=4, trim=False)
+                    scores += [[key, entryA, entryB, score, scoreD, bleu]]
         if scores:
             p, r = bcubed_score(almsA, almsB), bcubed_score(almsB, almsA)
             fs = 2 * (p*r) / (p+r)
             all_scores += [[
                 language,
+                sum([row[-3] for row in scores])/len(scores),
                 sum([row[-2] for row in scores])/len(scores),
-                sum([row[-1] for row in scores])/len(scores),
-                fs]]
+                fs,
+                sum([row[-1] for row in scores])/len(scores)]]
     all_scores += [[
         "TOTAL", 
+        sum([row[-4] for row in all_scores])/len(languages),
         sum([row[-3] for row in all_scores])/len(languages),
         sum([row[-2] for row in all_scores])/len(languages),
-        sum([row[-1] for row in all_scores])/len(languages)
+        sum([row[-1] for row in all_scores])/len(languages),
         ]]
     if report:
-        print(tabulate(all_scores, headers=["Language", "ED", 
-            "ED (Normalized)", "B-Cubed FS"], floatfmt=".3f"))
+        print(
+                tabulate(
+                    all_scores, 
+                    headers=[
+                        "Language", "ED", "ED (Normalized)", 
+                        "B-Cubed FS", "BLEU"], floatfmt=".3f"))
     return all_scores
     
 
@@ -748,7 +631,7 @@ def main(*args):
                         report=False)[-1]]
                 results[-1][0] = data
             print(tabulate(sorted(results), headers=[
-                "DATASET", "ED", "ED (NORM)", "B-CUBED FS"], floatfmt=".3f"))
+                "DATASET", "ED", "ED (NORM)", "B-CUBED FS", "BLEU"], floatfmt=".3f"))
 
 
     if args.compare:
