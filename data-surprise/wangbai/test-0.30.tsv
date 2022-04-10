@@ -33,7 +33,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-1	?	ɕ a ⁴⁴	ɕ j æ ⁵⁵	s æ ²⁴	ɕ a ⁵⁵	s a ⁴⁴	s ə˞ ⁴⁴	sʰ r æ ⁴	ɕ a ⁴²	s ɛ ⁴⁴
 1173-1	?	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
 1195-1	?	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
-1230-1	?	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²	qʰ õ ²²	kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1241-1	?	m ɛ ²¹	m ɛ ²¹	m ə n ¹²	m e ²¹	m e ²¹	m e ²¹	m ɛ ¹	m ɛ ³⁵	m e ²¹
 1252-1	?	l u ²¹	l u ²¹	l õ ¹²	l u ²¹	l ʯ̃ ²¹	l o ŋ ²¹	l o ŋ ¹	l o ŋ ³⁵	l ʯ ²¹
 1294-1	?	q o ⁵⁵	q a ²⁴	q a ŋ ⁵⁵	q ã ⁵⁵	k ɑ̃ ⁵⁵	k a ŋ ⁵⁵	q a ŋ ¹	q ɔ ŋ ⁵⁵	k a ³⁵
@@ -49,6 +48,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-1	?	p ɯ ²¹	b ɯ ²¹	b u ¹²	p ɯ ²¹	p ɯ ²¹	p əɯ ²¹	b ɯ ¹	b ɯ ³⁵	p ɯ ²¹
 1640-1	?	k u ⁴⁴	k u ⁵⁵	k u ²⁴	k o ⁵⁵	k ou ⁴⁴	k o ⁴⁴	k o ⁴	k o ⁴²	k o ⁴⁴
 1671-1	?	s i ⁴⁴	s i ⁵⁵	ɕ i ²⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	s j i ⁴	ɕ i ⁴²	ɕ i ⁴⁴
+1731-1	?	ɕ w o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1762-1	?	s w a ⁴²	ɕ ɥ ɛ ⁴²	s w a ŋ ⁴²	s w ã ⁴²	s u ɑ ³¹	s w a ŋ ²¹	sʰ w a ŋ ³	s o ŋ ²¹	s w a ³¹
 1773-1	?	t ɯ ⁴⁴	t ə ⁵⁵	t i ²⁴	t ɯ ⁵⁵	t ə ⁴⁴	t əɯ ⁴⁴	t ɯ ⁴	t ɯ ⁴²	t ɯ ⁴⁴
 1794-1	?	k u ⁵⁵	k o ²⁴	k o ŋ ⁵⁵	k o ŋ ⁵⁵	k õ ⁵⁵	k o ŋ ⁵⁵	k o ŋ ¹	k o ŋ ⁵⁵	k ou ³⁵
@@ -81,6 +81,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-1	?	t i ⁵⁵	t i ²⁴	t i ⁵⁵	t i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tʲ ɯ ¹	tɕ j ɯ ⁵⁵	tɕ i ³⁵
 2611-1	?	j u ⁴⁴	j u ⁵⁵	j u ⁴²	j o ⁵⁵	j ou ⁴⁴	j o ⁴⁴	j ɔ ⁴	j ɔ ⁴²	j ou ⁴⁴
 2632-1	?	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ²⁴	w a ŋ ⁵⁵	w ɑ̃ ⁴⁴	ŋ w a ⁴⁴	ŋ w a ⁴	ŋ w ɔ ⁴²	w a ⁴⁴
+2644-1	?	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ⁵⁵	ŋ õ ⁵⁵	w ɑ̃ ⁵⁵	ŋ w a ⁴⁴	ŋ w a ⁴	w o ⁴²	w a ⁴⁴
 2674-1	?	m o ²²	m o ²²	m u ²²	m o ²²	m õ ³³	m o ŋ ³³	m ø ²	m o ³³	m o ³³
 2698-1	?	ɕ y ²²	ɕ u ²²	s ao ²²	ɕ u ²²	s ʯ ³³	s ou ³³	s r o ²	ʂ ʯ ³³	s ʯ ³³
 2709-1	?	n ɛ ²¹	n ɛ ²¹	n ɛ ²⁴	n e ²¹	n i ³¹	n e ⁴²	n ɛ ¹	n ɛ ³⁵	n e ²¹
@@ -157,7 +158,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5192-1	?	tɕ i u ²¹	tɕ j o ²¹	dz ao ¹²	tɕ i u ²¹	ts ʯ̃ ²¹	dz õ ²¹	ɖʐ u ŋ ¹	ʐ ʯ ³⁵	ts ʯ ²¹
 5225-1	?	n o ⁴²	n o ⁴³	n a ⁴²	n o ⁴²	n ou ³¹	n e n ⁴²	n ɔ ³	n ɔ ²¹	n o ³¹
 5236-1	?	tʰ i ²²	tʰ i ²²	tʰ i ²²	tʰ j e ²²	tʰ i ³³	tʰ ɛ ³³	tʰ j e ²	tʰ i ³³	tʰ e ³³
-141-1	?	ŋ o ⁴²	ɴ o ⁴³	ŋ a ⁴²	õ ⁴²		n e n ⁴²	ŋ ɔ ³	ŋ ɔ ²¹	ŋ o ³¹
 247-1	?	p ɯ ²¹	p ɯ ²¹	b u ¹²	p ɯ ²¹	p õ ²¹	p əɯ ²¹	b r i ¹		p i ²¹
 289-1	?	tsʰ i ⁴²	s ɿ ⁵⁵		ʂ ə˞ ⁵⁵	s a ⁴⁴	s i ⁴⁴	s r i ⁴	ʂ i ⁴	s i ⁵⁵
 338-1	?	q w ɛ ⁴²	q u ɛ ⁴³	q w ɛ ⁴²	q w e ⁴²	k w a ⁴⁴	k w ɛ ⁴⁴	q w ɛ ³	q w ɛ ²¹	
@@ -176,6 +176,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1074-1	?	x o ⁵⁵	χ o ²⁴	h o ¹²		x ou ⁵⁵	x o ⁵⁵	h ɔ ¹	h ɔ ⁵⁵	x o ³⁵
 1130-1	?		pʰ æ ⁴⁴	pʰ æ ²⁴	pʰ o ⁴²	pʰ a ⁴⁴	pʰ ə˞ ⁴⁴	pʰ æ ⁴	pʰ a ⁴²	pʰ ɛ ³³
 1184-1	?	s ɛ ⁵⁵	s ɿ ²⁴	ʂ i ⁵⁵		s a n ⁵⁵	s e n ⁵⁵	sʰ r e ŋ ¹	ʂ ə̃˞ ⁵⁵	s i ⁵⁵
+1230-1	?	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²		kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1263-1	?	m ɯ̃ ⁵⁵	m ɯ ⁴³		m ɯ ⁴²	m ə̃ ³¹	m əɯ ²¹	m ɯ ⁵	m o ²¹	m ɯ ⁵³
 1423-1	?	qʰ õ ⁵⁵	qʰ o ²⁴	qʰ o ŋ ⁵⁵	qʰ õ ⁵⁵	kʰ ʯ̃ ⁵⁵	k o ŋ ⁵⁵	qʰ o ŋ ¹	qʰ o ŋ ⁵⁵	
 1433-1	?	m ɯ ²¹	m ɯ ²¹	m o ŋ ¹²	m ɯ ²¹	m õ ²¹		m ɯ ¹	m ɯ ³⁵	m o ²¹
@@ -183,14 +184,11 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1629-1	?		f ɛ ²⁴	pf u ⁵⁵	f i ⁵⁵	f ʯ ⁵⁵	p i ⁵⁵	p j e ¹	f ə˞ ⁵⁵	f ʯ ³⁵
 1682-1	?		ɕ j o ²⁴	ɕ j o ŋ ⁵⁵	ɕ õ ⁵⁵	ɕ i õ ⁵⁵	ɕ o ŋ ⁵⁵	ɕ o ŋ ¹	ɕ o ŋ ⁵⁵	ɕ ou ³⁵
 1706-1	?	dz j o ⁴²	dz j a ²¹	dʑ j a ²¹	tɕ a ⁴²	tɕ i ɑ ⁴²	tɕʰ a ⁴²	dʑ a ⁴		tɕ j a ⁴²
-1731-1	?		ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1925-1	?	dʑ i ²²	dʑ ɯ ²²	dz i ²²	dʑ i ²²	ts i ³³	dz əɯ ³³	dʑ ɯ ²		ts ɯ ³³
 1991-1	?	dʑ o ²²	ɖʐ o ²²	dz o ŋ ²²	dʑ õ ²²	ts ʯ̃ ³³		ɖʐ u ŋ ²	ʐ ʯ ŋ ³³	ts ʯ ³³
 2040-1	?	b o ²²	b o ²²	b õ ²²	b o ²²	p ao ³¹		b o ŋ ²	b o ŋ ³³	b o ³³
 2107-1	?	x o ⁴²	x o ⁴³	h a ⁴²	x o ⁴²	x ou ³¹	x o ²¹	h ɔ ³	h ɔ ²¹	
 2118-1	?	p ɯ ²²	b ɯ ²²	b u ²²	b u ²²	p u ³³	b ɯ ³³	b ɯ ²	b ɯ ³³	
-2141-1	?	ɕ j o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s ou ⁵⁵	ɕ ɥ ɛ ⁴⁴	sʰ r o ŋ ¹	ɕ j o ŋ ⁵⁵	
-2540-1	?	tɕ i u ²¹	tɕ j o ²¹	dz ao ¹²	tɕ i u ²¹	ts ʯ̃ ²¹		ɖʐ o ¹	ʐ y ³⁵	ts ʯ ²¹
 32-2	m ə˞ ⁴⁴	?	m æ ⁵⁵	m æ ²⁴	m a ⁵⁵	m a ⁴⁴	m ə˞ ⁴⁴	m æ ⁴	m a ⁴²	m ɛ ⁴⁴
 53-2	ʈʂ i ³¹	?	ts ɿ ²¹	ɖʐ i ²¹	tɕ ə˞ ²¹	ts a ²¹	dz i ²¹	ɖʐ i ¹	ʐ ə˞ ³⁵	ts i ²¹
 93-2	k ɯ ²¹	?	k ɯ ²¹	g ɯ ¹²	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹	g ɯ ³⁵	k ɯ ²¹
@@ -225,7 +223,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-2	ʂʰ ə˞ ⁴⁴	?	ɕ j æ ⁵⁵	s æ ²⁴	ɕ a ⁵⁵	s a ⁴⁴	s ə˞ ⁴⁴	sʰ r æ ⁴	ɕ a ⁴²	s ɛ ⁴⁴
 1173-2	ɕ i ³³	?	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
 1195-2	ɕ i ³³	?	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
-1230-2	kʰ w a ŋ ³³	?	qʰ w a ²²	qʰ w a ŋ ²²	qʰ õ ²²	kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1241-2	m e ²¹	?	m ɛ ²¹	m ə n ¹²	m e ²¹	m e ²¹	m e ²¹	m ɛ ¹	m ɛ ³⁵	m e ²¹
 1252-2	l õ ²¹	?	l u ²¹	l õ ¹²	l u ²¹	l ʯ̃ ²¹	l o ŋ ²¹	l o ŋ ¹	l o ŋ ³⁵	l ʯ ²¹
 1294-2	k ã ³⁵	?	q a ²⁴	q a ŋ ⁵⁵	q ã ⁵⁵	k ɑ̃ ⁵⁵	k a ŋ ⁵⁵	q a ŋ ¹	q ɔ ŋ ⁵⁵	k a ³⁵
@@ -241,6 +238,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-2	p u ²¹	?	b ɯ ²¹	b u ¹²	p ɯ ²¹	p ɯ ²¹	p əɯ ²¹	b ɯ ¹	b ɯ ³⁵	p ɯ ²¹
 1640-2	k ou ⁴⁴	?	k u ⁵⁵	k u ²⁴	k o ⁵⁵	k ou ⁴⁴	k o ⁴⁴	k o ⁴	k o ⁴²	k o ⁴⁴
 1671-2	ɕ i ⁴⁴	?	s i ⁵⁵	ɕ i ²⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	s j i ⁴	ɕ i ⁴²	ɕ i ⁴⁴
+1731-2	ʂ ou ⁴⁴	?	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1762-2	sʰ w a ŋ ³¹	?	ɕ ɥ ɛ ⁴²	s w a ŋ ⁴²	s w ã ⁴²	s u ɑ ³¹	s w a ŋ ²¹	sʰ w a ŋ ³	s o ŋ ²¹	s w a ³¹
 1773-2	tʲ ɯ ⁴⁴	?	t ə ⁵⁵	t i ²⁴	t ɯ ⁵⁵	t ə ⁴⁴	t əɯ ⁴⁴	t ɯ ⁴	t ɯ ⁴²	t ɯ ⁴⁴
 1794-2	k o ŋ ⁵⁵	?	k o ²⁴	k o ŋ ⁵⁵	k o ŋ ⁵⁵	k õ ⁵⁵	k o ŋ ⁵⁵	k o ŋ ¹	k o ŋ ⁵⁵	k ou ³⁵
@@ -273,6 +271,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-2	tɕ i ³⁵	?	t i ²⁴	t i ⁵⁵	t i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tʲ ɯ ¹	tɕ j ɯ ⁵⁵	tɕ i ³⁵
 2611-2	j ou ⁴⁴	?	j u ⁵⁵	j u ⁴²	j o ⁵⁵	j ou ⁴⁴	j o ⁴⁴	j ɔ ⁴	j ɔ ⁴²	j ou ⁴⁴
 2632-2	w a ŋ ³³	?	w a ⁵⁵	w a ŋ ²⁴	w a ŋ ⁵⁵	w ɑ̃ ⁴⁴	ŋ w a ⁴⁴	ŋ w a ⁴	ŋ w ɔ ⁴²	w a ⁴⁴
+2644-2	w ã ⁵⁵	?	w a ⁵⁵	w a ŋ ⁵⁵	ŋ õ ⁵⁵	w ɑ̃ ⁵⁵	ŋ w a ⁴⁴	ŋ w a ⁴	w o ⁴²	w a ⁴⁴
 2674-2	m ou ³³	?	m o ²²	m u ²²	m o ²²	m õ ³³	m o ŋ ³³	m ø ²	m o ³³	m o ³³
 2698-2	ʂ o ³³	?	ɕ u ²²	s ao ²²	ɕ u ²²	s ʯ ³³	s ou ³³	s r o ²	ʂ ʯ ³³	s ʯ ³³
 2709-2	n e ⁴²	?	n ɛ ²¹	n ɛ ²⁴	n e ²¹	n i ³¹	n e ⁴²	n ɛ ¹	n ɛ ³⁵	n e ²¹
@@ -351,7 +350,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5236-2	tʰ e ³³	?	tʰ i ²²	tʰ i ²²	tʰ j e ²²	tʰ i ³³	tʰ ɛ ³³	tʰ j e ²	tʰ i ³³	tʰ e ³³
 64-2		?	pʰ æ ⁴³	pʰ a n ⁴²	pʰ ã ⁴²	pʰ a n ³¹	pʰ ə˞ ²¹	pʰ æ n ³	pʰ a ŋ ²¹	pʰ o ³¹
 104-2		?	χ w a ⁵⁵	x w a ²⁴	x w a ⁵⁵	x u ɑ ⁴⁴	x w a ⁴⁴	h w a ⁴	h w ɔ ⁴²	x w a ⁴⁴
-141-2	ŋ õ ³¹	?	ɴ o ⁴³	ŋ a ⁴²	õ ⁴²		n e n ⁴²	ŋ ɔ ³	ŋ ɔ ²¹	ŋ o ³¹
 247-2	p i ²¹	?	p ɯ ²¹	b u ¹²	p ɯ ²¹	p õ ²¹	p əɯ ²¹	b r i ¹		p i ²¹
 289-2	ʂ i ⁴⁴	?	s ɿ ⁵⁵		ʂ ə˞ ⁵⁵	s a ⁴⁴	s i ⁴⁴	s r i ⁴	ʂ i ⁴	s i ⁵⁵
 338-2	k w e ⁴²	?	q u ɛ ⁴³	q w ɛ ⁴²	q w e ⁴²	k w a ⁴⁴	k w ɛ ⁴⁴	q w ɛ ³	q w ɛ ²¹	
@@ -370,6 +368,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1086-2		?	qʰ u ⁵⁵	qʰ u ²²⁴	qʰ o ⁵⁵	kʰ ou ⁴⁴	kʰ o ⁴⁴	qʰ ɔ ⁴	qʰ o ⁴²	kʰ ɑ ⁴⁴
 1097-2		?	kʰ o ⁵⁵	kʰ ao ²⁴	k ɯ ⁵⁵	kʰ ʯ ⁴⁴	kʰ u ⁵⁵	kʰ o ⁴	kʰ ʯ ⁴²	kʰ ʯ ⁴⁴
 1184-2	ʂʰ ə˞ ⁵⁵	?	s ɿ ²⁴	ʂ i ⁵⁵		s a n ⁵⁵	s e n ⁵⁵	sʰ r e ŋ ¹	ʂ ə̃˞ ⁵⁵	s i ⁵⁵
+1230-2	kʰ w a ŋ ³³	?	qʰ w a ²²	qʰ w a ŋ ²²		kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1263-2	m ə̃ ⁴²	?	m ɯ ⁴³		m ɯ ⁴²	m ə̃ ³¹	m əɯ ²¹	m ɯ ⁵	m o ²¹	m ɯ ⁵³
 1423-2	kʰ õ ⁵⁵	?	qʰ o ²⁴	qʰ o ŋ ⁵⁵	qʰ õ ⁵⁵	kʰ ʯ̃ ⁵⁵	k o ŋ ⁵⁵	qʰ o ŋ ¹	qʰ o ŋ ⁵⁵	
 1433-2	m ə̃ ²¹	?	m ɯ ²¹	m o ŋ ¹²	m ɯ ²¹	m õ ²¹		m ɯ ¹	m ɯ ³⁵	m o ²¹
@@ -381,8 +380,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2040-2	b au ³³	?	b o ²²	b õ ²²	b o ²²	p ao ³¹		b o ŋ ²	b o ŋ ³³	b o ³³
 2107-2	x ou ³¹	?	x o ⁴³	h a ⁴²	x o ⁴²	x ou ³¹	x o ²¹	h ɔ ³	h ɔ ²¹	
 2118-2	p u ³³	?	b ɯ ²²	b u ²²	b u ²²	p u ³³	b ɯ ³³	b ɯ ²	b ɯ ³³	
-2141-2	ʂ ou ⁵⁵	?	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s ou ⁵⁵	ɕ ɥ ɛ ⁴⁴	sʰ r o ŋ ¹	ɕ j o ŋ ⁵⁵	
-2540-2	ʈʂ o ²¹	?	tɕ j o ²¹	dz ao ¹²	tɕ i u ²¹	ts ʯ̃ ²¹		ɖʐ o ¹	ʐ y ³⁵	ts ʯ ²¹
 32-3	m ə˞ ⁴⁴	m a ⁴⁴	?	m æ ²⁴	m a ⁵⁵	m a ⁴⁴	m ə˞ ⁴⁴	m æ ⁴	m a ⁴²	m ɛ ⁴⁴
 53-3	ʈʂ i ³¹	ts ɛ ²¹	?	ɖʐ i ²¹	tɕ ə˞ ²¹	ts a ²¹	dz i ²¹	ɖʐ i ¹	ʐ ə˞ ³⁵	ts i ²¹
 93-3	k ɯ ²¹	k ɯ ²¹	?	g ɯ ¹²	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹	g ɯ ³⁵	k ɯ ²¹
@@ -417,7 +414,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-3	ʂʰ ə˞ ⁴⁴	ɕ a ⁴⁴	?	s æ ²⁴	ɕ a ⁵⁵	s a ⁴⁴	s ə˞ ⁴⁴	sʰ r æ ⁴	ɕ a ⁴²	s ɛ ⁴⁴
 1173-3	ɕ i ³³	s i ²²	?	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
 1195-3	ɕ i ³³	s i ²²	?	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
-1230-3	kʰ w a ŋ ³³	qʰ w a ²²	?	qʰ w a ŋ ²²	qʰ õ ²²	kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1241-3	m e ²¹	m ɛ ²¹	?	m ə n ¹²	m e ²¹	m e ²¹	m e ²¹	m ɛ ¹	m ɛ ³⁵	m e ²¹
 1252-3	l õ ²¹	l u ²¹	?	l õ ¹²	l u ²¹	l ʯ̃ ²¹	l o ŋ ²¹	l o ŋ ¹	l o ŋ ³⁵	l ʯ ²¹
 1294-3	k ã ³⁵	q o ⁵⁵	?	q a ŋ ⁵⁵	q ã ⁵⁵	k ɑ̃ ⁵⁵	k a ŋ ⁵⁵	q a ŋ ¹	q ɔ ŋ ⁵⁵	k a ³⁵
@@ -433,6 +429,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-3	p u ²¹	p ɯ ²¹	?	b u ¹²	p ɯ ²¹	p ɯ ²¹	p əɯ ²¹	b ɯ ¹	b ɯ ³⁵	p ɯ ²¹
 1640-3	k ou ⁴⁴	k u ⁴⁴	?	k u ²⁴	k o ⁵⁵	k ou ⁴⁴	k o ⁴⁴	k o ⁴	k o ⁴²	k o ⁴⁴
 1671-3	ɕ i ⁴⁴	s i ⁴⁴	?	ɕ i ²⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	s j i ⁴	ɕ i ⁴²	ɕ i ⁴⁴
+1731-3	ʂ ou ⁴⁴	ɕ w o ŋ ⁵⁵	?	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1762-3	sʰ w a ŋ ³¹	s w a ⁴²	?	s w a ŋ ⁴²	s w ã ⁴²	s u ɑ ³¹	s w a ŋ ²¹	sʰ w a ŋ ³	s o ŋ ²¹	s w a ³¹
 1773-3	tʲ ɯ ⁴⁴	t ɯ ⁴⁴	?	t i ²⁴	t ɯ ⁵⁵	t ə ⁴⁴	t əɯ ⁴⁴	t ɯ ⁴	t ɯ ⁴²	t ɯ ⁴⁴
 1794-3	k o ŋ ⁵⁵	k u ⁵⁵	?	k o ŋ ⁵⁵	k o ŋ ⁵⁵	k õ ⁵⁵	k o ŋ ⁵⁵	k o ŋ ¹	k o ŋ ⁵⁵	k ou ³⁵
@@ -465,6 +462,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-3	tɕ i ³⁵	t i ⁵⁵	?	t i ⁵⁵	t i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tʲ ɯ ¹	tɕ j ɯ ⁵⁵	tɕ i ³⁵
 2611-3	j ou ⁴⁴	j u ⁴⁴	?	j u ⁴²	j o ⁵⁵	j ou ⁴⁴	j o ⁴⁴	j ɔ ⁴	j ɔ ⁴²	j ou ⁴⁴
 2632-3	w a ŋ ³³	ŋ w a ⁴⁴	?	w a ŋ ²⁴	w a ŋ ⁵⁵	w ɑ̃ ⁴⁴	ŋ w a ⁴⁴	ŋ w a ⁴	ŋ w ɔ ⁴²	w a ⁴⁴
+2644-3	w ã ⁵⁵	ŋ w a ⁴⁴	?	w a ŋ ⁵⁵	ŋ õ ⁵⁵	w ɑ̃ ⁵⁵	ŋ w a ⁴⁴	ŋ w a ⁴	w o ⁴²	w a ⁴⁴
 2674-3	m ou ³³	m o ²²	?	m u ²²	m o ²²	m õ ³³	m o ŋ ³³	m ø ²	m o ³³	m o ³³
 2698-3	ʂ o ³³	ɕ y ²²	?	s ao ²²	ɕ u ²²	s ʯ ³³	s ou ³³	s r o ²	ʂ ʯ ³³	s ʯ ³³
 2709-3	n e ⁴²	n ɛ ²¹	?	n ɛ ²⁴	n e ²¹	n i ³¹	n e ⁴²	n ɛ ¹	n ɛ ³⁵	n e ²¹
@@ -543,7 +541,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5236-3	tʰ e ³³	tʰ i ²²	?	tʰ i ²²	tʰ j e ²²	tʰ i ³³	tʰ ɛ ³³	tʰ j e ²	tʰ i ³³	tʰ e ³³
 64-3		pʰ ə ⁴²	?	pʰ a n ⁴²	pʰ ã ⁴²	pʰ a n ³¹	pʰ ə˞ ²¹	pʰ æ n ³	pʰ a ŋ ²¹	pʰ o ³¹
 104-3		x w a ⁴⁴	?	x w a ²⁴	x w a ⁵⁵	x u ɑ ⁴⁴	x w a ⁴⁴	h w a ⁴	h w ɔ ⁴²	x w a ⁴⁴
-141-3	ŋ õ ³¹	ŋ o ⁴²	?	ŋ a ⁴²	õ ⁴²		n e n ⁴²	ŋ ɔ ³	ŋ ɔ ²¹	ŋ o ³¹
 247-3	p i ²¹	p ɯ ²¹	?	b u ¹²	p ɯ ²¹	p õ ²¹	p əɯ ²¹	b r i ¹		p i ²¹
 289-3	ʂ i ⁴⁴	tsʰ i ⁴²	?		ʂ ə˞ ⁵⁵	s a ⁴⁴	s i ⁴⁴	s r i ⁴	ʂ i ⁴	s i ⁵⁵
 338-3	k w e ⁴²	q w ɛ ⁴²	?	q w ɛ ⁴²	q w e ⁴²	k w a ⁴⁴	k w ɛ ⁴⁴	q w ɛ ³	q w ɛ ²¹	
@@ -566,6 +563,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1097-3		kʰ u ⁴⁴	?	kʰ ao ²⁴	k ɯ ⁵⁵	kʰ ʯ ⁴⁴	kʰ u ⁵⁵	kʰ o ⁴	kʰ ʯ ⁴²	kʰ ʯ ⁴⁴
 1130-3	pʰ ou ³³		?	pʰ æ ²⁴	pʰ o ⁴²	pʰ a ⁴⁴	pʰ ə˞ ⁴⁴	pʰ æ ⁴	pʰ a ⁴²	pʰ ɛ ³³
 1184-3	ʂʰ ə˞ ⁵⁵	s ɛ ⁵⁵	?	ʂ i ⁵⁵		s a n ⁵⁵	s e n ⁵⁵	sʰ r e ŋ ¹	ʂ ə̃˞ ⁵⁵	s i ⁵⁵
+1230-3	kʰ w a ŋ ³³	qʰ w a ²²	?	qʰ w a ŋ ²²		kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1263-3	m ə̃ ⁴²	m ɯ̃ ⁵⁵	?		m ɯ ⁴²	m ə̃ ³¹	m əɯ ²¹	m ɯ ⁵	m o ²¹	m ɯ ⁵³
 1423-3	kʰ õ ⁵⁵	qʰ õ ⁵⁵	?	qʰ o ŋ ⁵⁵	qʰ õ ⁵⁵	kʰ ʯ̃ ⁵⁵	k o ŋ ⁵⁵	qʰ o ŋ ¹	qʰ o ŋ ⁵⁵	
 1433-3	m ə̃ ²¹	m ɯ ²¹	?	m o ŋ ¹²	m ɯ ²¹	m õ ²¹		m ɯ ¹	m ɯ ³⁵	m o ²¹
@@ -574,14 +572,11 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1629-3	f ʯ ³⁵		?	pf u ⁵⁵	f i ⁵⁵	f ʯ ⁵⁵	p i ⁵⁵	p j e ¹	f ə˞ ⁵⁵	f ʯ ³⁵
 1682-3	ɕ o ŋ ³⁵		?	ɕ j o ŋ ⁵⁵	ɕ õ ⁵⁵	ɕ i õ ⁵⁵	ɕ o ŋ ⁵⁵	ɕ o ŋ ¹	ɕ o ŋ ⁵⁵	ɕ ou ³⁵
 1706-3	tɕ j a ⁴²	dz j o ⁴²	?	dʑ j a ²¹	tɕ a ⁴²	tɕ i ɑ ⁴²	tɕʰ a ⁴²	dʑ a ⁴		tɕ j a ⁴²
-1731-3	ʂ ou ⁴⁴		?	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1925-3	ts ɯ ³³	dʑ i ²²	?	dz i ²²	dʑ i ²²	ts i ³³	dz əɯ ³³	dʑ ɯ ²		ts ɯ ³³
 1991-3	ʈʂ õ ³³	dʑ o ²²	?	dz o ŋ ²²	dʑ õ ²²	ts ʯ̃ ³³		ɖʐ u ŋ ²	ʐ ʯ ŋ ³³	ts ʯ ³³
 2040-3	b au ³³	b o ²²	?	b õ ²²	b o ²²	p ao ³¹		b o ŋ ²	b o ŋ ³³	b o ³³
 2107-3	x ou ³¹	x o ⁴²	?	h a ⁴²	x o ⁴²	x ou ³¹	x o ²¹	h ɔ ³	h ɔ ²¹	
 2118-3	p u ³³	p ɯ ²²	?	b u ²²	b u ²²	p u ³³	b ɯ ³³	b ɯ ²	b ɯ ³³	
-2141-3	ʂ ou ⁵⁵	ɕ j o ŋ ⁵⁵	?	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s ou ⁵⁵	ɕ ɥ ɛ ⁴⁴	sʰ r o ŋ ¹	ɕ j o ŋ ⁵⁵	
-2540-3	ʈʂ o ²¹	tɕ i u ²¹	?	dz ao ¹²	tɕ i u ²¹	ts ʯ̃ ²¹		ɖʐ o ¹	ʐ y ³⁵	ts ʯ ²¹
 32-4	m ə˞ ⁴⁴	m a ⁴⁴	m æ ⁵⁵	?	m a ⁵⁵	m a ⁴⁴	m ə˞ ⁴⁴	m æ ⁴	m a ⁴²	m ɛ ⁴⁴
 53-4	ʈʂ i ³¹	ts ɛ ²¹	ts ɿ ²¹	?	tɕ ə˞ ²¹	ts a ²¹	dz i ²¹	ɖʐ i ¹	ʐ ə˞ ³⁵	ts i ²¹
 93-4	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	?	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹	g ɯ ³⁵	k ɯ ²¹
@@ -616,7 +611,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-4	ʂʰ ə˞ ⁴⁴	ɕ a ⁴⁴	ɕ j æ ⁵⁵	?	ɕ a ⁵⁵	s a ⁴⁴	s ə˞ ⁴⁴	sʰ r æ ⁴	ɕ a ⁴²	s ɛ ⁴⁴
 1173-4	ɕ i ³³	s i ²²	s i ²²	?	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
 1195-4	ɕ i ³³	s i ²²	s i ²²	?	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
-1230-4	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	?	qʰ õ ²²	kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1241-4	m e ²¹	m ɛ ²¹	m ɛ ²¹	?	m e ²¹	m e ²¹	m e ²¹	m ɛ ¹	m ɛ ³⁵	m e ²¹
 1252-4	l õ ²¹	l u ²¹	l u ²¹	?	l u ²¹	l ʯ̃ ²¹	l o ŋ ²¹	l o ŋ ¹	l o ŋ ³⁵	l ʯ ²¹
 1294-4	k ã ³⁵	q o ⁵⁵	q a ²⁴	?	q ã ⁵⁵	k ɑ̃ ⁵⁵	k a ŋ ⁵⁵	q a ŋ ¹	q ɔ ŋ ⁵⁵	k a ³⁵
@@ -632,6 +626,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-4	p u ²¹	p ɯ ²¹	b ɯ ²¹	?	p ɯ ²¹	p ɯ ²¹	p əɯ ²¹	b ɯ ¹	b ɯ ³⁵	p ɯ ²¹
 1640-4	k ou ⁴⁴	k u ⁴⁴	k u ⁵⁵	?	k o ⁵⁵	k ou ⁴⁴	k o ⁴⁴	k o ⁴	k o ⁴²	k o ⁴⁴
 1671-4	ɕ i ⁴⁴	s i ⁴⁴	s i ⁵⁵	?	ɕ i ⁴⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	s j i ⁴	ɕ i ⁴²	ɕ i ⁴⁴
+1731-4	ʂ ou ⁴⁴	ɕ w o ŋ ⁵⁵	ɕ j o ²⁴	?	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1762-4	sʰ w a ŋ ³¹	s w a ⁴²	ɕ ɥ ɛ ⁴²	?	s w ã ⁴²	s u ɑ ³¹	s w a ŋ ²¹	sʰ w a ŋ ³	s o ŋ ²¹	s w a ³¹
 1773-4	tʲ ɯ ⁴⁴	t ɯ ⁴⁴	t ə ⁵⁵	?	t ɯ ⁵⁵	t ə ⁴⁴	t əɯ ⁴⁴	t ɯ ⁴	t ɯ ⁴²	t ɯ ⁴⁴
 1794-4	k o ŋ ⁵⁵	k u ⁵⁵	k o ²⁴	?	k o ŋ ⁵⁵	k õ ⁵⁵	k o ŋ ⁵⁵	k o ŋ ¹	k o ŋ ⁵⁵	k ou ³⁵
@@ -664,6 +659,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-4	tɕ i ³⁵	t i ⁵⁵	t i ²⁴	?	t i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tʲ ɯ ¹	tɕ j ɯ ⁵⁵	tɕ i ³⁵
 2611-4	j ou ⁴⁴	j u ⁴⁴	j u ⁵⁵	?	j o ⁵⁵	j ou ⁴⁴	j o ⁴⁴	j ɔ ⁴	j ɔ ⁴²	j ou ⁴⁴
 2632-4	w a ŋ ³³	ŋ w a ⁴⁴	w a ⁵⁵	?	w a ŋ ⁵⁵	w ɑ̃ ⁴⁴	ŋ w a ⁴⁴	ŋ w a ⁴	ŋ w ɔ ⁴²	w a ⁴⁴
+2644-4	w ã ⁵⁵	ŋ w a ⁴⁴	w a ⁵⁵	?	ŋ õ ⁵⁵	w ɑ̃ ⁵⁵	ŋ w a ⁴⁴	ŋ w a ⁴	w o ⁴²	w a ⁴⁴
 2674-4	m ou ³³	m o ²²	m o ²²	?	m o ²²	m õ ³³	m o ŋ ³³	m ø ²	m o ³³	m o ³³
 2698-4	ʂ o ³³	ɕ y ²²	ɕ u ²²	?	ɕ u ²²	s ʯ ³³	s ou ³³	s r o ²	ʂ ʯ ³³	s ʯ ³³
 2709-4	n e ⁴²	n ɛ ²¹	n ɛ ²¹	?	n e ²¹	n i ³¹	n e ⁴²	n ɛ ¹	n ɛ ³⁵	n e ²¹
@@ -742,7 +738,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5236-4	tʰ e ³³	tʰ i ²²	tʰ i ²²	?	tʰ j e ²²	tʰ i ³³	tʰ ɛ ³³	tʰ j e ²	tʰ i ³³	tʰ e ³³
 64-4		pʰ ə ⁴²	pʰ æ ⁴³	?	pʰ ã ⁴²	pʰ a n ³¹	pʰ ə˞ ²¹	pʰ æ n ³	pʰ a ŋ ²¹	pʰ o ³¹
 104-4		x w a ⁴⁴	χ w a ⁵⁵	?	x w a ⁵⁵	x u ɑ ⁴⁴	x w a ⁴⁴	h w a ⁴	h w ɔ ⁴²	x w a ⁴⁴
-141-4	ŋ õ ³¹	ŋ o ⁴²	ɴ o ⁴³	?	õ ⁴²		n e n ⁴²	ŋ ɔ ³	ŋ ɔ ²¹	ŋ o ³¹
 247-4	p i ²¹	p ɯ ²¹	p ɯ ²¹	?	p ɯ ²¹	p õ ²¹	p əɯ ²¹	b r i ¹		p i ²¹
 338-4	k w e ⁴²	q w ɛ ⁴²	q u ɛ ⁴³	?	q w e ⁴²	k w a ⁴⁴	k w ɛ ⁴⁴	q w ɛ ³	q w ɛ ²¹	
 378-4	ʈʂ ɯ ²¹	dʑ i ⁴²	d j ɯ ⁴³	?	ɖ ɯ ⁴²	ts ɯ ³¹		d r ɯ ³	d j ɯ ²¹	ts ɯ ⁰
@@ -763,6 +758,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1097-4		kʰ u ⁴⁴	kʰ o ⁵⁵	?	k ɯ ⁵⁵	kʰ ʯ ⁴⁴	kʰ u ⁵⁵	kʰ o ⁴	kʰ ʯ ⁴²	kʰ ʯ ⁴⁴
 1130-4	pʰ ou ³³		pʰ æ ⁴⁴	?	pʰ o ⁴²	pʰ a ⁴⁴	pʰ ə˞ ⁴⁴	pʰ æ ⁴	pʰ a ⁴²	pʰ ɛ ³³
 1184-4	ʂʰ ə˞ ⁵⁵	s ɛ ⁵⁵	s ɿ ²⁴	?		s a n ⁵⁵	s e n ⁵⁵	sʰ r e ŋ ¹	ʂ ə̃˞ ⁵⁵	s i ⁵⁵
+1230-4	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	?		kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1423-4	kʰ õ ⁵⁵	qʰ õ ⁵⁵	qʰ o ²⁴	?	qʰ õ ⁵⁵	kʰ ʯ̃ ⁵⁵	k o ŋ ⁵⁵	qʰ o ŋ ¹	qʰ o ŋ ⁵⁵	
 1433-4	m ə̃ ²¹	m ɯ ²¹	m ɯ ²¹	?	m ɯ ²¹	m õ ²¹		m ɯ ¹	m ɯ ³⁵	m o ²¹
 1462-4	w ẽ ³³	ŋ w i ²²	ŋ w i ²²	?		w ẽ ³³	ŋ w ɛ ³³	ŋ w e n ²	w e n ³³	w e ³³
@@ -770,14 +766,11 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1629-4	f ʯ ³⁵		f ɛ ²⁴	?	f i ⁵⁵	f ʯ ⁵⁵	p i ⁵⁵	p j e ¹	f ə˞ ⁵⁵	f ʯ ³⁵
 1682-4	ɕ o ŋ ³⁵		ɕ j o ²⁴	?	ɕ õ ⁵⁵	ɕ i õ ⁵⁵	ɕ o ŋ ⁵⁵	ɕ o ŋ ¹	ɕ o ŋ ⁵⁵	ɕ ou ³⁵
 1706-4	tɕ j a ⁴²	dz j o ⁴²	dz j a ²¹	?	tɕ a ⁴²	tɕ i ɑ ⁴²	tɕʰ a ⁴²	dʑ a ⁴		tɕ j a ⁴²
-1731-4	ʂ ou ⁴⁴		ɕ j o ²⁴	?	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1925-4	ts ɯ ³³	dʑ i ²²	dʑ ɯ ²²	?	dʑ i ²²	ts i ³³	dz əɯ ³³	dʑ ɯ ²		ts ɯ ³³
 1991-4	ʈʂ õ ³³	dʑ o ²²	ɖʐ o ²²	?	dʑ õ ²²	ts ʯ̃ ³³		ɖʐ u ŋ ²	ʐ ʯ ŋ ³³	ts ʯ ³³
 2040-4	b au ³³	b o ²²	b o ²²	?	b o ²²	p ao ³¹		b o ŋ ²	b o ŋ ³³	b o ³³
 2107-4	x ou ³¹	x o ⁴²	x o ⁴³	?	x o ⁴²	x ou ³¹	x o ²¹	h ɔ ³	h ɔ ²¹	
 2118-4	p u ³³	p ɯ ²²	b ɯ ²²	?	b u ²²	p u ³³	b ɯ ³³	b ɯ ²	b ɯ ³³	
-2141-4	ʂ ou ⁵⁵	ɕ j o ŋ ⁵⁵	ɕ j o ²⁴	?	ɕ i õ ⁵⁵	s ou ⁵⁵	ɕ ɥ ɛ ⁴⁴	sʰ r o ŋ ¹	ɕ j o ŋ ⁵⁵	
-2540-4	ʈʂ o ²¹	tɕ i u ²¹	tɕ j o ²¹	?	tɕ i u ²¹	ts ʯ̃ ²¹		ɖʐ o ¹	ʐ y ³⁵	ts ʯ ²¹
 32-5	m ə˞ ⁴⁴	m a ⁴⁴	m æ ⁵⁵	m æ ²⁴	?	m a ⁴⁴	m ə˞ ⁴⁴	m æ ⁴	m a ⁴²	m ɛ ⁴⁴
 53-5	ʈʂ i ³¹	ts ɛ ²¹	ts ɿ ²¹	ɖʐ i ²¹	?	ts a ²¹	dz i ²¹	ɖʐ i ¹	ʐ ə˞ ³⁵	ts i ²¹
 93-5	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹²	?	k ɯ ²¹	k ɯ ²¹	g ɯ ¹	g ɯ ³⁵	k ɯ ²¹
@@ -812,7 +805,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-5	ʂʰ ə˞ ⁴⁴	ɕ a ⁴⁴	ɕ j æ ⁵⁵	s æ ²⁴	?	s a ⁴⁴	s ə˞ ⁴⁴	sʰ r æ ⁴	ɕ a ⁴²	s ɛ ⁴⁴
 1173-5	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	?	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
 1195-5	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	?	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
-1230-5	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²	?	kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1241-5	m e ²¹	m ɛ ²¹	m ɛ ²¹	m ə n ¹²	?	m e ²¹	m e ²¹	m ɛ ¹	m ɛ ³⁵	m e ²¹
 1252-5	l õ ²¹	l u ²¹	l u ²¹	l õ ¹²	?	l ʯ̃ ²¹	l o ŋ ²¹	l o ŋ ¹	l o ŋ ³⁵	l ʯ ²¹
 1294-5	k ã ³⁵	q o ⁵⁵	q a ²⁴	q a ŋ ⁵⁵	?	k ɑ̃ ⁵⁵	k a ŋ ⁵⁵	q a ŋ ¹	q ɔ ŋ ⁵⁵	k a ³⁵
@@ -828,6 +820,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-5	p u ²¹	p ɯ ²¹	b ɯ ²¹	b u ¹²	?	p ɯ ²¹	p əɯ ²¹	b ɯ ¹	b ɯ ³⁵	p ɯ ²¹
 1640-5	k ou ⁴⁴	k u ⁴⁴	k u ⁵⁵	k u ²⁴	?	k ou ⁴⁴	k o ⁴⁴	k o ⁴	k o ⁴²	k o ⁴⁴
 1671-5	ɕ i ⁴⁴	s i ⁴⁴	s i ⁵⁵	ɕ i ²⁴	?	ɕ i ⁴⁴	ɕ i ⁴⁴	s j i ⁴	ɕ i ⁴²	ɕ i ⁴⁴
+1731-5	ʂ ou ⁴⁴	ɕ w o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	?	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1762-5	sʰ w a ŋ ³¹	s w a ⁴²	ɕ ɥ ɛ ⁴²	s w a ŋ ⁴²	?	s u ɑ ³¹	s w a ŋ ²¹	sʰ w a ŋ ³	s o ŋ ²¹	s w a ³¹
 1773-5	tʲ ɯ ⁴⁴	t ɯ ⁴⁴	t ə ⁵⁵	t i ²⁴	?	t ə ⁴⁴	t əɯ ⁴⁴	t ɯ ⁴	t ɯ ⁴²	t ɯ ⁴⁴
 1794-5	k o ŋ ⁵⁵	k u ⁵⁵	k o ²⁴	k o ŋ ⁵⁵	?	k õ ⁵⁵	k o ŋ ⁵⁵	k o ŋ ¹	k o ŋ ⁵⁵	k ou ³⁵
@@ -860,6 +853,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-5	tɕ i ³⁵	t i ⁵⁵	t i ²⁴	t i ⁵⁵	?	tɕ i ⁵⁵	t i ⁵⁵	tʲ ɯ ¹	tɕ j ɯ ⁵⁵	tɕ i ³⁵
 2611-5	j ou ⁴⁴	j u ⁴⁴	j u ⁵⁵	j u ⁴²	?	j ou ⁴⁴	j o ⁴⁴	j ɔ ⁴	j ɔ ⁴²	j ou ⁴⁴
 2632-5	w a ŋ ³³	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ²⁴	?	w ɑ̃ ⁴⁴	ŋ w a ⁴⁴	ŋ w a ⁴	ŋ w ɔ ⁴²	w a ⁴⁴
+2644-5	w ã ⁵⁵	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ⁵⁵	?	w ɑ̃ ⁵⁵	ŋ w a ⁴⁴	ŋ w a ⁴	w o ⁴²	w a ⁴⁴
 2674-5	m ou ³³	m o ²²	m o ²²	m u ²²	?	m õ ³³	m o ŋ ³³	m ø ²	m o ³³	m o ³³
 2698-5	ʂ o ³³	ɕ y ²²	ɕ u ²²	s ao ²²	?	s ʯ ³³	s ou ³³	s r o ²	ʂ ʯ ³³	s ʯ ³³
 2709-5	n e ⁴²	n ɛ ²¹	n ɛ ²¹	n ɛ ²⁴	?	n i ³¹	n e ⁴²	n ɛ ¹	n ɛ ³⁵	n e ²¹
@@ -938,7 +932,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5236-5	tʰ e ³³	tʰ i ²²	tʰ i ²²	tʰ i ²²	?	tʰ i ³³	tʰ ɛ ³³	tʰ j e ²	tʰ i ³³	tʰ e ³³
 64-5		pʰ ə ⁴²	pʰ æ ⁴³	pʰ a n ⁴²	?	pʰ a n ³¹	pʰ ə˞ ²¹	pʰ æ n ³	pʰ a ŋ ²¹	pʰ o ³¹
 104-5		x w a ⁴⁴	χ w a ⁵⁵	x w a ²⁴	?	x u ɑ ⁴⁴	x w a ⁴⁴	h w a ⁴	h w ɔ ⁴²	x w a ⁴⁴
-141-5	ŋ õ ³¹	ŋ o ⁴²	ɴ o ⁴³	ŋ a ⁴²	?		n e n ⁴²	ŋ ɔ ³	ŋ ɔ ²¹	ŋ o ³¹
 247-5	p i ²¹	p ɯ ²¹	p ɯ ²¹	b u ¹²	?	p õ ²¹	p əɯ ²¹	b r i ¹		p i ²¹
 289-5	ʂ i ⁴⁴	tsʰ i ⁴²	s ɿ ⁵⁵		?	s a ⁴⁴	s i ⁴⁴	s r i ⁴	ʂ i ⁴	s i ⁵⁵
 338-5	k w e ⁴²	q w ɛ ⁴²	q u ɛ ⁴³	q w ɛ ⁴²	?	k w a ⁴⁴	k w ɛ ⁴⁴	q w ɛ ³	q w ɛ ²¹	
@@ -965,14 +958,11 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1629-5	f ʯ ³⁵		f ɛ ²⁴	pf u ⁵⁵	?	f ʯ ⁵⁵	p i ⁵⁵	p j e ¹	f ə˞ ⁵⁵	f ʯ ³⁵
 1682-5	ɕ o ŋ ³⁵		ɕ j o ²⁴	ɕ j o ŋ ⁵⁵	?	ɕ i õ ⁵⁵	ɕ o ŋ ⁵⁵	ɕ o ŋ ¹	ɕ o ŋ ⁵⁵	ɕ ou ³⁵
 1706-5	tɕ j a ⁴²	dz j o ⁴²	dz j a ²¹	dʑ j a ²¹	?	tɕ i ɑ ⁴²	tɕʰ a ⁴²	dʑ a ⁴		tɕ j a ⁴²
-1731-5	ʂ ou ⁴⁴		ɕ j o ²⁴	s o ŋ ⁵⁵	?	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1925-5	ts ɯ ³³	dʑ i ²²	dʑ ɯ ²²	dz i ²²	?	ts i ³³	dz əɯ ³³	dʑ ɯ ²		ts ɯ ³³
 1991-5	ʈʂ õ ³³	dʑ o ²²	ɖʐ o ²²	dz o ŋ ²²	?	ts ʯ̃ ³³		ɖʐ u ŋ ²	ʐ ʯ ŋ ³³	ts ʯ ³³
 2040-5	b au ³³	b o ²²	b o ²²	b õ ²²	?	p ao ³¹		b o ŋ ²	b o ŋ ³³	b o ³³
 2107-5	x ou ³¹	x o ⁴²	x o ⁴³	h a ⁴²	?	x ou ³¹	x o ²¹	h ɔ ³	h ɔ ²¹	
 2118-5	p u ³³	p ɯ ²²	b ɯ ²²	b u ²²	?	p u ³³	b ɯ ³³	b ɯ ²	b ɯ ³³	
-2141-5	ʂ ou ⁵⁵	ɕ j o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	?	s ou ⁵⁵	ɕ ɥ ɛ ⁴⁴	sʰ r o ŋ ¹	ɕ j o ŋ ⁵⁵	
-2540-5	ʈʂ o ²¹	tɕ i u ²¹	tɕ j o ²¹	dz ao ¹²	?	ts ʯ̃ ²¹		ɖʐ o ¹	ʐ y ³⁵	ts ʯ ²¹
 32-6	m ə˞ ⁴⁴	m a ⁴⁴	m æ ⁵⁵	m æ ²⁴	m a ⁵⁵	?	m ə˞ ⁴⁴	m æ ⁴	m a ⁴²	m ɛ ⁴⁴
 53-6	ʈʂ i ³¹	ts ɛ ²¹	ts ɿ ²¹	ɖʐ i ²¹	tɕ ə˞ ²¹	?	dz i ²¹	ɖʐ i ¹	ʐ ə˞ ³⁵	ts i ²¹
 93-6	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹²	k ɯ ²¹	?	k ɯ ²¹	g ɯ ¹	g ɯ ³⁵	k ɯ ²¹
@@ -1007,7 +997,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-6	ʂʰ ə˞ ⁴⁴	ɕ a ⁴⁴	ɕ j æ ⁵⁵	s æ ²⁴	ɕ a ⁵⁵	?	s ə˞ ⁴⁴	sʰ r æ ⁴	ɕ a ⁴²	s ɛ ⁴⁴
 1173-6	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	?	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
 1195-6	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	?	ɕ i ³³	s j i ²	ɕ i ³³	ɕ i ³³
-1230-6	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²	qʰ õ ²²	?	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1241-6	m e ²¹	m ɛ ²¹	m ɛ ²¹	m ə n ¹²	m e ²¹	?	m e ²¹	m ɛ ¹	m ɛ ³⁵	m e ²¹
 1252-6	l õ ²¹	l u ²¹	l u ²¹	l õ ¹²	l u ²¹	?	l o ŋ ²¹	l o ŋ ¹	l o ŋ ³⁵	l ʯ ²¹
 1294-6	k ã ³⁵	q o ⁵⁵	q a ²⁴	q a ŋ ⁵⁵	q ã ⁵⁵	?	k a ŋ ⁵⁵	q a ŋ ¹	q ɔ ŋ ⁵⁵	k a ³⁵
@@ -1023,6 +1012,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-6	p u ²¹	p ɯ ²¹	b ɯ ²¹	b u ¹²	p ɯ ²¹	?	p əɯ ²¹	b ɯ ¹	b ɯ ³⁵	p ɯ ²¹
 1640-6	k ou ⁴⁴	k u ⁴⁴	k u ⁵⁵	k u ²⁴	k o ⁵⁵	?	k o ⁴⁴	k o ⁴	k o ⁴²	k o ⁴⁴
 1671-6	ɕ i ⁴⁴	s i ⁴⁴	s i ⁵⁵	ɕ i ²⁴	ɕ i ⁴⁴	?	ɕ i ⁴⁴	s j i ⁴	ɕ i ⁴²	ɕ i ⁴⁴
+1731-6	ʂ ou ⁴⁴	ɕ w o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	?	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1762-6	sʰ w a ŋ ³¹	s w a ⁴²	ɕ ɥ ɛ ⁴²	s w a ŋ ⁴²	s w ã ⁴²	?	s w a ŋ ²¹	sʰ w a ŋ ³	s o ŋ ²¹	s w a ³¹
 1773-6	tʲ ɯ ⁴⁴	t ɯ ⁴⁴	t ə ⁵⁵	t i ²⁴	t ɯ ⁵⁵	?	t əɯ ⁴⁴	t ɯ ⁴	t ɯ ⁴²	t ɯ ⁴⁴
 1794-6	k o ŋ ⁵⁵	k u ⁵⁵	k o ²⁴	k o ŋ ⁵⁵	k o ŋ ⁵⁵	?	k o ŋ ⁵⁵	k o ŋ ¹	k o ŋ ⁵⁵	k ou ³⁵
@@ -1055,6 +1045,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-6	tɕ i ³⁵	t i ⁵⁵	t i ²⁴	t i ⁵⁵	t i ⁵⁵	?	t i ⁵⁵	tʲ ɯ ¹	tɕ j ɯ ⁵⁵	tɕ i ³⁵
 2611-6	j ou ⁴⁴	j u ⁴⁴	j u ⁵⁵	j u ⁴²	j o ⁵⁵	?	j o ⁴⁴	j ɔ ⁴	j ɔ ⁴²	j ou ⁴⁴
 2632-6	w a ŋ ³³	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ²⁴	w a ŋ ⁵⁵	?	ŋ w a ⁴⁴	ŋ w a ⁴	ŋ w ɔ ⁴²	w a ⁴⁴
+2644-6	w ã ⁵⁵	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ⁵⁵	ŋ õ ⁵⁵	?	ŋ w a ⁴⁴	ŋ w a ⁴	w o ⁴²	w a ⁴⁴
 2674-6	m ou ³³	m o ²²	m o ²²	m u ²²	m o ²²	?	m o ŋ ³³	m ø ²	m o ³³	m o ³³
 2698-6	ʂ o ³³	ɕ y ²²	ɕ u ²²	s ao ²²	ɕ u ²²	?	s ou ³³	s r o ²	ʂ ʯ ³³	s ʯ ³³
 2709-6	n e ⁴²	n ɛ ²¹	n ɛ ²¹	n ɛ ²⁴	n e ²¹	?	n e ⁴²	n ɛ ¹	n ɛ ³⁵	n e ²¹
@@ -1155,6 +1146,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1097-6		kʰ u ⁴⁴	kʰ o ⁵⁵	kʰ ao ²⁴	k ɯ ⁵⁵	?	kʰ u ⁵⁵	kʰ o ⁴	kʰ ʯ ⁴²	kʰ ʯ ⁴⁴
 1130-6	pʰ ou ³³		pʰ æ ⁴⁴	pʰ æ ²⁴	pʰ o ⁴²	?	pʰ ə˞ ⁴⁴	pʰ æ ⁴	pʰ a ⁴²	pʰ ɛ ³³
 1184-6	ʂʰ ə˞ ⁵⁵	s ɛ ⁵⁵	s ɿ ²⁴	ʂ i ⁵⁵		?	s e n ⁵⁵	sʰ r e ŋ ¹	ʂ ə̃˞ ⁵⁵	s i ⁵⁵
+1230-6	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²		?	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1263-6	m ə̃ ⁴²	m ɯ̃ ⁵⁵	m ɯ ⁴³		m ɯ ⁴²	?	m əɯ ²¹	m ɯ ⁵	m o ²¹	m ɯ ⁵³
 1423-6	kʰ õ ⁵⁵	qʰ õ ⁵⁵	qʰ o ²⁴	qʰ o ŋ ⁵⁵	qʰ õ ⁵⁵	?	k o ŋ ⁵⁵	qʰ o ŋ ¹	qʰ o ŋ ⁵⁵	
 1433-6	m ə̃ ²¹	m ɯ ²¹	m ɯ ²¹	m o ŋ ¹²	m ɯ ²¹	?		m ɯ ¹	m ɯ ³⁵	m o ²¹
@@ -1163,14 +1155,11 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1629-6	f ʯ ³⁵		f ɛ ²⁴	pf u ⁵⁵	f i ⁵⁵	?	p i ⁵⁵	p j e ¹	f ə˞ ⁵⁵	f ʯ ³⁵
 1682-6	ɕ o ŋ ³⁵		ɕ j o ²⁴	ɕ j o ŋ ⁵⁵	ɕ õ ⁵⁵	?	ɕ o ŋ ⁵⁵	ɕ o ŋ ¹	ɕ o ŋ ⁵⁵	ɕ ou ³⁵
 1706-6	tɕ j a ⁴²	dz j o ⁴²	dz j a ²¹	dʑ j a ²¹	tɕ a ⁴²	?	tɕʰ a ⁴²	dʑ a ⁴		tɕ j a ⁴²
-1731-6	ʂ ou ⁴⁴		ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	?	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1925-6	ts ɯ ³³	dʑ i ²²	dʑ ɯ ²²	dz i ²²	dʑ i ²²	?	dz əɯ ³³	dʑ ɯ ²		ts ɯ ³³
 1991-6	ʈʂ õ ³³	dʑ o ²²	ɖʐ o ²²	dz o ŋ ²²	dʑ õ ²²	?		ɖʐ u ŋ ²	ʐ ʯ ŋ ³³	ts ʯ ³³
 2040-6	b au ³³	b o ²²	b o ²²	b õ ²²	b o ²²	?		b o ŋ ²	b o ŋ ³³	b o ³³
 2107-6	x ou ³¹	x o ⁴²	x o ⁴³	h a ⁴²	x o ⁴²	?	x o ²¹	h ɔ ³	h ɔ ²¹	
 2118-6	p u ³³	p ɯ ²²	b ɯ ²²	b u ²²	b u ²²	?	b ɯ ³³	b ɯ ²	b ɯ ³³	
-2141-6	ʂ ou ⁵⁵	ɕ j o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	?	ɕ ɥ ɛ ⁴⁴	sʰ r o ŋ ¹	ɕ j o ŋ ⁵⁵	
-2540-6	ʈʂ o ²¹	tɕ i u ²¹	tɕ j o ²¹	dz ao ¹²	tɕ i u ²¹	?		ɖʐ o ¹	ʐ y ³⁵	ts ʯ ²¹
 32-7	m ə˞ ⁴⁴	m a ⁴⁴	m æ ⁵⁵	m æ ²⁴	m a ⁵⁵	m a ⁴⁴	?	m æ ⁴	m a ⁴²	m ɛ ⁴⁴
 53-7	ʈʂ i ³¹	ts ɛ ²¹	ts ɿ ²¹	ɖʐ i ²¹	tɕ ə˞ ²¹	ts a ²¹	?	ɖʐ i ¹	ʐ ə˞ ³⁵	ts i ²¹
 93-7	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹²	k ɯ ²¹	k ɯ ²¹	?	g ɯ ¹	g ɯ ³⁵	k ɯ ²¹
@@ -1205,7 +1194,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-7	ʂʰ ə˞ ⁴⁴	ɕ a ⁴⁴	ɕ j æ ⁵⁵	s æ ²⁴	ɕ a ⁵⁵	s a ⁴⁴	?	sʰ r æ ⁴	ɕ a ⁴²	s ɛ ⁴⁴
 1173-7	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	?	s j i ²	ɕ i ³³	ɕ i ³³
 1195-7	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	?	s j i ²	ɕ i ³³	ɕ i ³³
-1230-7	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²	qʰ õ ²²	kʰ w ɑ̃ g ³³	?	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1241-7	m e ²¹	m ɛ ²¹	m ɛ ²¹	m ə n ¹²	m e ²¹	m e ²¹	?	m ɛ ¹	m ɛ ³⁵	m e ²¹
 1252-7	l õ ²¹	l u ²¹	l u ²¹	l õ ¹²	l u ²¹	l ʯ̃ ²¹	?	l o ŋ ¹	l o ŋ ³⁵	l ʯ ²¹
 1294-7	k ã ³⁵	q o ⁵⁵	q a ²⁴	q a ŋ ⁵⁵	q ã ⁵⁵	k ɑ̃ ⁵⁵	?	q a ŋ ¹	q ɔ ŋ ⁵⁵	k a ³⁵
@@ -1221,6 +1209,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-7	p u ²¹	p ɯ ²¹	b ɯ ²¹	b u ¹²	p ɯ ²¹	p ɯ ²¹	?	b ɯ ¹	b ɯ ³⁵	p ɯ ²¹
 1640-7	k ou ⁴⁴	k u ⁴⁴	k u ⁵⁵	k u ²⁴	k o ⁵⁵	k ou ⁴⁴	?	k o ⁴	k o ⁴²	k o ⁴⁴
 1671-7	ɕ i ⁴⁴	s i ⁴⁴	s i ⁵⁵	ɕ i ²⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	?	s j i ⁴	ɕ i ⁴²	ɕ i ⁴⁴
+1731-7	ʂ ou ⁴⁴	ɕ w o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	?	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1762-7	sʰ w a ŋ ³¹	s w a ⁴²	ɕ ɥ ɛ ⁴²	s w a ŋ ⁴²	s w ã ⁴²	s u ɑ ³¹	?	sʰ w a ŋ ³	s o ŋ ²¹	s w a ³¹
 1773-7	tʲ ɯ ⁴⁴	t ɯ ⁴⁴	t ə ⁵⁵	t i ²⁴	t ɯ ⁵⁵	t ə ⁴⁴	?	t ɯ ⁴	t ɯ ⁴²	t ɯ ⁴⁴
 1794-7	k o ŋ ⁵⁵	k u ⁵⁵	k o ²⁴	k o ŋ ⁵⁵	k o ŋ ⁵⁵	k õ ⁵⁵	?	k o ŋ ¹	k o ŋ ⁵⁵	k ou ³⁵
@@ -1253,6 +1242,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-7	tɕ i ³⁵	t i ⁵⁵	t i ²⁴	t i ⁵⁵	t i ⁵⁵	tɕ i ⁵⁵	?	tʲ ɯ ¹	tɕ j ɯ ⁵⁵	tɕ i ³⁵
 2611-7	j ou ⁴⁴	j u ⁴⁴	j u ⁵⁵	j u ⁴²	j o ⁵⁵	j ou ⁴⁴	?	j ɔ ⁴	j ɔ ⁴²	j ou ⁴⁴
 2632-7	w a ŋ ³³	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ²⁴	w a ŋ ⁵⁵	w ɑ̃ ⁴⁴	?	ŋ w a ⁴	ŋ w ɔ ⁴²	w a ⁴⁴
+2644-7	w ã ⁵⁵	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ⁵⁵	ŋ õ ⁵⁵	w ɑ̃ ⁵⁵	?	ŋ w a ⁴	w o ⁴²	w a ⁴⁴
 2674-7	m ou ³³	m o ²²	m o ²²	m u ²²	m o ²²	m õ ³³	?	m ø ²	m o ³³	m o ³³
 2698-7	ʂ o ³³	ɕ y ²²	ɕ u ²²	s ao ²²	ɕ u ²²	s ʯ ³³	?	s r o ²	ʂ ʯ ³³	s ʯ ³³
 2709-7	n e ⁴²	n ɛ ²¹	n ɛ ²¹	n ɛ ²⁴	n e ²¹	n i ³¹	?	n ɛ ¹	n ɛ ³⁵	n e ²¹
@@ -1331,7 +1321,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5236-7	tʰ e ³³	tʰ i ²²	tʰ i ²²	tʰ i ²²	tʰ j e ²²	tʰ i ³³	?	tʰ j e ²	tʰ i ³³	tʰ e ³³
 64-7		pʰ ə ⁴²	pʰ æ ⁴³	pʰ a n ⁴²	pʰ ã ⁴²	pʰ a n ³¹	?	pʰ æ n ³	pʰ a ŋ ²¹	pʰ o ³¹
 104-7		x w a ⁴⁴	χ w a ⁵⁵	x w a ²⁴	x w a ⁵⁵	x u ɑ ⁴⁴	?	h w a ⁴	h w ɔ ⁴²	x w a ⁴⁴
-141-7	ŋ õ ³¹	ŋ o ⁴²	ɴ o ⁴³	ŋ a ⁴²	õ ⁴²		?	ŋ ɔ ³	ŋ ɔ ²¹	ŋ o ³¹
 247-7	p i ²¹	p ɯ ²¹	p ɯ ²¹	b u ¹²	p ɯ ²¹	p õ ²¹	?	b r i ¹		p i ²¹
 289-7	ʂ i ⁴⁴	tsʰ i ⁴²	s ɿ ⁵⁵		ʂ ə˞ ⁵⁵	s a ⁴⁴	?	s r i ⁴	ʂ i ⁴	s i ⁵⁵
 338-7	k w e ⁴²	q w ɛ ⁴²	q u ɛ ⁴³	q w ɛ ⁴²	q w e ⁴²	k w a ⁴⁴	?	q w ɛ ³	q w ɛ ²¹	
@@ -1350,6 +1339,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1097-7		kʰ u ⁴⁴	kʰ o ⁵⁵	kʰ ao ²⁴	k ɯ ⁵⁵	kʰ ʯ ⁴⁴	?	kʰ o ⁴	kʰ ʯ ⁴²	kʰ ʯ ⁴⁴
 1130-7	pʰ ou ³³		pʰ æ ⁴⁴	pʰ æ ²⁴	pʰ o ⁴²	pʰ a ⁴⁴	?	pʰ æ ⁴	pʰ a ⁴²	pʰ ɛ ³³
 1184-7	ʂʰ ə˞ ⁵⁵	s ɛ ⁵⁵	s ɿ ²⁴	ʂ i ⁵⁵		s a n ⁵⁵	?	sʰ r e ŋ ¹	ʂ ə̃˞ ⁵⁵	s i ⁵⁵
+1230-7	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²		kʰ w ɑ̃ g ³³	?	qʰ w a ŋ ²	qʰ w a ŋ ³³	kʰ w a ³³
 1263-7	m ə̃ ⁴²	m ɯ̃ ⁵⁵	m ɯ ⁴³		m ɯ ⁴²	m ə̃ ³¹	?	m ɯ ⁵	m o ²¹	m ɯ ⁵³
 1423-7	kʰ õ ⁵⁵	qʰ õ ⁵⁵	qʰ o ²⁴	qʰ o ŋ ⁵⁵	qʰ õ ⁵⁵	kʰ ʯ̃ ⁵⁵	?	qʰ o ŋ ¹	qʰ o ŋ ⁵⁵	
 1462-7	w ẽ ³³	ŋ w i ²²	ŋ w i ²²	w e n ²²		w ẽ ³³	?	ŋ w e n ²	w e n ³³	w e ³³
@@ -1357,11 +1347,9 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1629-7	f ʯ ³⁵		f ɛ ²⁴	pf u ⁵⁵	f i ⁵⁵	f ʯ ⁵⁵	?	p j e ¹	f ə˞ ⁵⁵	f ʯ ³⁵
 1682-7	ɕ o ŋ ³⁵		ɕ j o ²⁴	ɕ j o ŋ ⁵⁵	ɕ õ ⁵⁵	ɕ i õ ⁵⁵	?	ɕ o ŋ ¹	ɕ o ŋ ⁵⁵	ɕ ou ³⁵
 1706-7	tɕ j a ⁴²	dz j o ⁴²	dz j a ²¹	dʑ j a ²¹	tɕ a ⁴²	tɕ i ɑ ⁴²	?	dʑ a ⁴		tɕ j a ⁴²
-1731-7	ʂ ou ⁴⁴		ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	?	s o ŋ ¹	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1925-7	ts ɯ ³³	dʑ i ²²	dʑ ɯ ²²	dz i ²²	dʑ i ²²	ts i ³³	?	dʑ ɯ ²		ts ɯ ³³
 2107-7	x ou ³¹	x o ⁴²	x o ⁴³	h a ⁴²	x o ⁴²	x ou ³¹	?	h ɔ ³	h ɔ ²¹	
 2118-7	p u ³³	p ɯ ²²	b ɯ ²²	b u ²²	b u ²²	p u ³³	?	b ɯ ²	b ɯ ³³	
-2141-7	ʂ ou ⁵⁵	ɕ j o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s ou ⁵⁵	?	sʰ r o ŋ ¹	ɕ j o ŋ ⁵⁵	
 32-8	m ə˞ ⁴⁴	m a ⁴⁴	m æ ⁵⁵	m æ ²⁴	m a ⁵⁵	m a ⁴⁴	m ə˞ ⁴⁴	?	m a ⁴²	m ɛ ⁴⁴
 53-8	ʈʂ i ³¹	ts ɛ ²¹	ts ɿ ²¹	ɖʐ i ²¹	tɕ ə˞ ²¹	ts a ²¹	dz i ²¹	?	ʐ ə˞ ³⁵	ts i ²¹
 93-8	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹²	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	?	g ɯ ³⁵	k ɯ ²¹
@@ -1396,7 +1384,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-8	ʂʰ ə˞ ⁴⁴	ɕ a ⁴⁴	ɕ j æ ⁵⁵	s æ ²⁴	ɕ a ⁵⁵	s a ⁴⁴	s ə˞ ⁴⁴	?	ɕ a ⁴²	s ɛ ⁴⁴
 1173-8	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	?	ɕ i ³³	ɕ i ³³
 1195-8	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	?	ɕ i ³³	ɕ i ³³
-1230-8	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²	qʰ õ ²²	kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	?	qʰ w a ŋ ³³	kʰ w a ³³
 1241-8	m e ²¹	m ɛ ²¹	m ɛ ²¹	m ə n ¹²	m e ²¹	m e ²¹	m e ²¹	?	m ɛ ³⁵	m e ²¹
 1252-8	l õ ²¹	l u ²¹	l u ²¹	l õ ¹²	l u ²¹	l ʯ̃ ²¹	l o ŋ ²¹	?	l o ŋ ³⁵	l ʯ ²¹
 1294-8	k ã ³⁵	q o ⁵⁵	q a ²⁴	q a ŋ ⁵⁵	q ã ⁵⁵	k ɑ̃ ⁵⁵	k a ŋ ⁵⁵	?	q ɔ ŋ ⁵⁵	k a ³⁵
@@ -1412,6 +1399,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-8	p u ²¹	p ɯ ²¹	b ɯ ²¹	b u ¹²	p ɯ ²¹	p ɯ ²¹	p əɯ ²¹	?	b ɯ ³⁵	p ɯ ²¹
 1640-8	k ou ⁴⁴	k u ⁴⁴	k u ⁵⁵	k u ²⁴	k o ⁵⁵	k ou ⁴⁴	k o ⁴⁴	?	k o ⁴²	k o ⁴⁴
 1671-8	ɕ i ⁴⁴	s i ⁴⁴	s i ⁵⁵	ɕ i ²⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	?	ɕ i ⁴²	ɕ i ⁴⁴
+1731-8	ʂ ou ⁴⁴	ɕ w o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	?	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1762-8	sʰ w a ŋ ³¹	s w a ⁴²	ɕ ɥ ɛ ⁴²	s w a ŋ ⁴²	s w ã ⁴²	s u ɑ ³¹	s w a ŋ ²¹	?	s o ŋ ²¹	s w a ³¹
 1773-8	tʲ ɯ ⁴⁴	t ɯ ⁴⁴	t ə ⁵⁵	t i ²⁴	t ɯ ⁵⁵	t ə ⁴⁴	t əɯ ⁴⁴	?	t ɯ ⁴²	t ɯ ⁴⁴
 1794-8	k o ŋ ⁵⁵	k u ⁵⁵	k o ²⁴	k o ŋ ⁵⁵	k o ŋ ⁵⁵	k õ ⁵⁵	k o ŋ ⁵⁵	?	k o ŋ ⁵⁵	k ou ³⁵
@@ -1444,6 +1432,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-8	tɕ i ³⁵	t i ⁵⁵	t i ²⁴	t i ⁵⁵	t i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	?	tɕ j ɯ ⁵⁵	tɕ i ³⁵
 2611-8	j ou ⁴⁴	j u ⁴⁴	j u ⁵⁵	j u ⁴²	j o ⁵⁵	j ou ⁴⁴	j o ⁴⁴	?	j ɔ ⁴²	j ou ⁴⁴
 2632-8	w a ŋ ³³	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ²⁴	w a ŋ ⁵⁵	w ɑ̃ ⁴⁴	ŋ w a ⁴⁴	?	ŋ w ɔ ⁴²	w a ⁴⁴
+2644-8	w ã ⁵⁵	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ⁵⁵	ŋ õ ⁵⁵	w ɑ̃ ⁵⁵	ŋ w a ⁴⁴	?	w o ⁴²	w a ⁴⁴
 2674-8	m ou ³³	m o ²²	m o ²²	m u ²²	m o ²²	m õ ³³	m o ŋ ³³	?	m o ³³	m o ³³
 2698-8	ʂ o ³³	ɕ y ²²	ɕ u ²²	s ao ²²	ɕ u ²²	s ʯ ³³	s ou ³³	?	ʂ ʯ ³³	s ʯ ³³
 2709-8	n e ⁴²	n ɛ ²¹	n ɛ ²¹	n ɛ ²⁴	n e ²¹	n i ³¹	n e ⁴²	?	n ɛ ³⁵	n e ²¹
@@ -1522,7 +1511,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5236-8	tʰ e ³³	tʰ i ²²	tʰ i ²²	tʰ i ²²	tʰ j e ²²	tʰ i ³³	tʰ ɛ ³³	?	tʰ i ³³	tʰ e ³³
 64-8		pʰ ə ⁴²	pʰ æ ⁴³	pʰ a n ⁴²	pʰ ã ⁴²	pʰ a n ³¹	pʰ ə˞ ²¹	?	pʰ a ŋ ²¹	pʰ o ³¹
 104-8		x w a ⁴⁴	χ w a ⁵⁵	x w a ²⁴	x w a ⁵⁵	x u ɑ ⁴⁴	x w a ⁴⁴	?	h w ɔ ⁴²	x w a ⁴⁴
-141-8	ŋ õ ³¹	ŋ o ⁴²	ɴ o ⁴³	ŋ a ⁴²	õ ⁴²		n e n ⁴²	?	ŋ ɔ ²¹	ŋ o ³¹
 247-8	p i ²¹	p ɯ ²¹	p ɯ ²¹	b u ¹²	p ɯ ²¹	p õ ²¹	p əɯ ²¹	?		p i ²¹
 289-8	ʂ i ⁴⁴	tsʰ i ⁴²	s ɿ ⁵⁵		ʂ ə˞ ⁵⁵	s a ⁴⁴	s i ⁴⁴	?	ʂ i ⁴	s i ⁵⁵
 338-8	k w e ⁴²	q w ɛ ⁴²	q u ɛ ⁴³	q w ɛ ⁴²	q w e ⁴²	k w a ⁴⁴	k w ɛ ⁴⁴	?	q w ɛ ²¹	
@@ -1545,6 +1533,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1097-8		kʰ u ⁴⁴	kʰ o ⁵⁵	kʰ ao ²⁴	k ɯ ⁵⁵	kʰ ʯ ⁴⁴	kʰ u ⁵⁵	?	kʰ ʯ ⁴²	kʰ ʯ ⁴⁴
 1130-8	pʰ ou ³³		pʰ æ ⁴⁴	pʰ æ ²⁴	pʰ o ⁴²	pʰ a ⁴⁴	pʰ ə˞ ⁴⁴	?	pʰ a ⁴²	pʰ ɛ ³³
 1184-8	ʂʰ ə˞ ⁵⁵	s ɛ ⁵⁵	s ɿ ²⁴	ʂ i ⁵⁵		s a n ⁵⁵	s e n ⁵⁵	?	ʂ ə̃˞ ⁵⁵	s i ⁵⁵
+1230-8	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²		kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	?	qʰ w a ŋ ³³	kʰ w a ³³
 1263-8	m ə̃ ⁴²	m ɯ̃ ⁵⁵	m ɯ ⁴³		m ɯ ⁴²	m ə̃ ³¹	m əɯ ²¹	?	m o ²¹	m ɯ ⁵³
 1423-8	kʰ õ ⁵⁵	qʰ õ ⁵⁵	qʰ o ²⁴	qʰ o ŋ ⁵⁵	qʰ õ ⁵⁵	kʰ ʯ̃ ⁵⁵	k o ŋ ⁵⁵	?	qʰ o ŋ ⁵⁵	
 1433-8	m ə̃ ²¹	m ɯ ²¹	m ɯ ²¹	m o ŋ ¹²	m ɯ ²¹	m õ ²¹		?	m ɯ ³⁵	m o ²¹
@@ -1553,14 +1542,11 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1629-8	f ʯ ³⁵		f ɛ ²⁴	pf u ⁵⁵	f i ⁵⁵	f ʯ ⁵⁵	p i ⁵⁵	?	f ə˞ ⁵⁵	f ʯ ³⁵
 1682-8	ɕ o ŋ ³⁵		ɕ j o ²⁴	ɕ j o ŋ ⁵⁵	ɕ õ ⁵⁵	ɕ i õ ⁵⁵	ɕ o ŋ ⁵⁵	?	ɕ o ŋ ⁵⁵	ɕ ou ³⁵
 1706-8	tɕ j a ⁴²	dz j o ⁴²	dz j a ²¹	dʑ j a ²¹	tɕ a ⁴²	tɕ i ɑ ⁴²	tɕʰ a ⁴²	?		tɕ j a ⁴²
-1731-8	ʂ ou ⁴⁴		ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	?	ɕ j o ŋ ⁵⁵	s ou ⁵⁵
 1925-8	ts ɯ ³³	dʑ i ²²	dʑ ɯ ²²	dz i ²²	dʑ i ²²	ts i ³³	dz əɯ ³³	?		ts ɯ ³³
 1991-8	ʈʂ õ ³³	dʑ o ²²	ɖʐ o ²²	dz o ŋ ²²	dʑ õ ²²	ts ʯ̃ ³³		?	ʐ ʯ ŋ ³³	ts ʯ ³³
 2040-8	b au ³³	b o ²²	b o ²²	b õ ²²	b o ²²	p ao ³¹		?	b o ŋ ³³	b o ³³
 2107-8	x ou ³¹	x o ⁴²	x o ⁴³	h a ⁴²	x o ⁴²	x ou ³¹	x o ²¹	?	h ɔ ²¹	
 2118-8	p u ³³	p ɯ ²²	b ɯ ²²	b u ²²	b u ²²	p u ³³	b ɯ ³³	?	b ɯ ³³	
-2141-8	ʂ ou ⁵⁵	ɕ j o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s ou ⁵⁵	ɕ ɥ ɛ ⁴⁴	?	ɕ j o ŋ ⁵⁵	
-2540-8	ʈʂ o ²¹	tɕ i u ²¹	tɕ j o ²¹	dz ao ¹²	tɕ i u ²¹	ts ʯ̃ ²¹		?	ʐ y ³⁵	ts ʯ ²¹
 32-9	m ə˞ ⁴⁴	m a ⁴⁴	m æ ⁵⁵	m æ ²⁴	m a ⁵⁵	m a ⁴⁴	m ə˞ ⁴⁴	m æ ⁴	?	m ɛ ⁴⁴
 53-9	ʈʂ i ³¹	ts ɛ ²¹	ts ɿ ²¹	ɖʐ i ²¹	tɕ ə˞ ²¹	ts a ²¹	dz i ²¹	ɖʐ i ¹	?	ts i ²¹
 93-9	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹²	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹	?	k ɯ ²¹
@@ -1595,7 +1581,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-9	ʂʰ ə˞ ⁴⁴	ɕ a ⁴⁴	ɕ j æ ⁵⁵	s æ ²⁴	ɕ a ⁵⁵	s a ⁴⁴	s ə˞ ⁴⁴	sʰ r æ ⁴	?	s ɛ ⁴⁴
 1173-9	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	?	ɕ i ³³
 1195-9	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	?	ɕ i ³³
-1230-9	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²	qʰ õ ²²	kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	?	kʰ w a ³³
 1241-9	m e ²¹	m ɛ ²¹	m ɛ ²¹	m ə n ¹²	m e ²¹	m e ²¹	m e ²¹	m ɛ ¹	?	m e ²¹
 1252-9	l õ ²¹	l u ²¹	l u ²¹	l õ ¹²	l u ²¹	l ʯ̃ ²¹	l o ŋ ²¹	l o ŋ ¹	?	l ʯ ²¹
 1294-9	k ã ³⁵	q o ⁵⁵	q a ²⁴	q a ŋ ⁵⁵	q ã ⁵⁵	k ɑ̃ ⁵⁵	k a ŋ ⁵⁵	q a ŋ ¹	?	k a ³⁵
@@ -1611,6 +1596,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-9	p u ²¹	p ɯ ²¹	b ɯ ²¹	b u ¹²	p ɯ ²¹	p ɯ ²¹	p əɯ ²¹	b ɯ ¹	?	p ɯ ²¹
 1640-9	k ou ⁴⁴	k u ⁴⁴	k u ⁵⁵	k u ²⁴	k o ⁵⁵	k ou ⁴⁴	k o ⁴⁴	k o ⁴	?	k o ⁴⁴
 1671-9	ɕ i ⁴⁴	s i ⁴⁴	s i ⁵⁵	ɕ i ²⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	s j i ⁴	?	ɕ i ⁴⁴
+1731-9	ʂ ou ⁴⁴	ɕ w o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	?	s ou ⁵⁵
 1762-9	sʰ w a ŋ ³¹	s w a ⁴²	ɕ ɥ ɛ ⁴²	s w a ŋ ⁴²	s w ã ⁴²	s u ɑ ³¹	s w a ŋ ²¹	sʰ w a ŋ ³	?	s w a ³¹
 1773-9	tʲ ɯ ⁴⁴	t ɯ ⁴⁴	t ə ⁵⁵	t i ²⁴	t ɯ ⁵⁵	t ə ⁴⁴	t əɯ ⁴⁴	t ɯ ⁴	?	t ɯ ⁴⁴
 1794-9	k o ŋ ⁵⁵	k u ⁵⁵	k o ²⁴	k o ŋ ⁵⁵	k o ŋ ⁵⁵	k õ ⁵⁵	k o ŋ ⁵⁵	k o ŋ ¹	?	k ou ³⁵
@@ -1643,6 +1629,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-9	tɕ i ³⁵	t i ⁵⁵	t i ²⁴	t i ⁵⁵	t i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tʲ ɯ ¹	?	tɕ i ³⁵
 2611-9	j ou ⁴⁴	j u ⁴⁴	j u ⁵⁵	j u ⁴²	j o ⁵⁵	j ou ⁴⁴	j o ⁴⁴	j ɔ ⁴	?	j ou ⁴⁴
 2632-9	w a ŋ ³³	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ²⁴	w a ŋ ⁵⁵	w ɑ̃ ⁴⁴	ŋ w a ⁴⁴	ŋ w a ⁴	?	w a ⁴⁴
+2644-9	w ã ⁵⁵	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ⁵⁵	ŋ õ ⁵⁵	w ɑ̃ ⁵⁵	ŋ w a ⁴⁴	ŋ w a ⁴	?	w a ⁴⁴
 2674-9	m ou ³³	m o ²²	m o ²²	m u ²²	m o ²²	m õ ³³	m o ŋ ³³	m ø ²	?	m o ³³
 2698-9	ʂ o ³³	ɕ y ²²	ɕ u ²²	s ao ²²	ɕ u ²²	s ʯ ³³	s ou ³³	s r o ²	?	s ʯ ³³
 2709-9	n e ⁴²	n ɛ ²¹	n ɛ ²¹	n ɛ ²⁴	n e ²¹	n i ³¹	n e ⁴²	n ɛ ¹	?	n e ²¹
@@ -1721,7 +1708,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5236-9	tʰ e ³³	tʰ i ²²	tʰ i ²²	tʰ i ²²	tʰ j e ²²	tʰ i ³³	tʰ ɛ ³³	tʰ j e ²	?	tʰ e ³³
 64-9		pʰ ə ⁴²	pʰ æ ⁴³	pʰ a n ⁴²	pʰ ã ⁴²	pʰ a n ³¹	pʰ ə˞ ²¹	pʰ æ n ³	?	pʰ o ³¹
 104-9		x w a ⁴⁴	χ w a ⁵⁵	x w a ²⁴	x w a ⁵⁵	x u ɑ ⁴⁴	x w a ⁴⁴	h w a ⁴	?	x w a ⁴⁴
-141-9	ŋ õ ³¹	ŋ o ⁴²	ɴ o ⁴³	ŋ a ⁴²	õ ⁴²		n e n ⁴²	ŋ ɔ ³	?	ŋ o ³¹
 289-9	ʂ i ⁴⁴	tsʰ i ⁴²	s ɿ ⁵⁵		ʂ ə˞ ⁵⁵	s a ⁴⁴	s i ⁴⁴	s r i ⁴	?	s i ⁵⁵
 338-9	k w e ⁴²	q w ɛ ⁴²	q u ɛ ⁴³	q w ɛ ⁴²	q w e ⁴²	k w a ⁴⁴	k w ɛ ⁴⁴	q w ɛ ³	?	
 378-9	ʈʂ ɯ ²¹	dʑ i ⁴²	d j ɯ ⁴³	ɖʐ i ¹²	ɖ ɯ ⁴²	ts ɯ ³¹		d r ɯ ³	?	ts ɯ ⁰
@@ -1741,6 +1727,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1097-9		kʰ u ⁴⁴	kʰ o ⁵⁵	kʰ ao ²⁴	k ɯ ⁵⁵	kʰ ʯ ⁴⁴	kʰ u ⁵⁵	kʰ o ⁴	?	kʰ ʯ ⁴⁴
 1130-9	pʰ ou ³³		pʰ æ ⁴⁴	pʰ æ ²⁴	pʰ o ⁴²	pʰ a ⁴⁴	pʰ ə˞ ⁴⁴	pʰ æ ⁴	?	pʰ ɛ ³³
 1184-9	ʂʰ ə˞ ⁵⁵	s ɛ ⁵⁵	s ɿ ²⁴	ʂ i ⁵⁵		s a n ⁵⁵	s e n ⁵⁵	sʰ r e ŋ ¹	?	s i ⁵⁵
+1230-9	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²		kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	?	kʰ w a ³³
 1263-9	m ə̃ ⁴²	m ɯ̃ ⁵⁵	m ɯ ⁴³		m ɯ ⁴²	m ə̃ ³¹	m əɯ ²¹	m ɯ ⁵	?	m ɯ ⁵³
 1423-9	kʰ õ ⁵⁵	qʰ õ ⁵⁵	qʰ o ²⁴	qʰ o ŋ ⁵⁵	qʰ õ ⁵⁵	kʰ ʯ̃ ⁵⁵	k o ŋ ⁵⁵	qʰ o ŋ ¹	?	
 1433-9	m ə̃ ²¹	m ɯ ²¹	m ɯ ²¹	m o ŋ ¹²	m ɯ ²¹	m õ ²¹		m ɯ ¹	?	m o ²¹
@@ -1748,13 +1735,10 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1545-9		ts ɛ ²²	ts ɿ ²²	ʈʂ i ²²	ʈʂ ə˞ ²²	ts i ³³	ts i ⁴⁴	ts r i ²	?	ts i ³³
 1629-9	f ʯ ³⁵		f ɛ ²⁴	pf u ⁵⁵	f i ⁵⁵	f ʯ ⁵⁵	p i ⁵⁵	p j e ¹	?	f ʯ ³⁵
 1682-9	ɕ o ŋ ³⁵		ɕ j o ²⁴	ɕ j o ŋ ⁵⁵	ɕ õ ⁵⁵	ɕ i õ ⁵⁵	ɕ o ŋ ⁵⁵	ɕ o ŋ ¹	?	ɕ ou ³⁵
-1731-9	ʂ ou ⁴⁴		ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	?	s ou ⁵⁵
 1991-9	ʈʂ õ ³³	dʑ o ²²	ɖʐ o ²²	dz o ŋ ²²	dʑ õ ²²	ts ʯ̃ ³³		ɖʐ u ŋ ²	?	ts ʯ ³³
 2040-9	b au ³³	b o ²²	b o ²²	b õ ²²	b o ²²	p ao ³¹		b o ŋ ²	?	b o ³³
 2107-9	x ou ³¹	x o ⁴²	x o ⁴³	h a ⁴²	x o ⁴²	x ou ³¹	x o ²¹	h ɔ ³	?	
 2118-9	p u ³³	p ɯ ²²	b ɯ ²²	b u ²²	b u ²²	p u ³³	b ɯ ³³	b ɯ ²	?	
-2141-9	ʂ ou ⁵⁵	ɕ j o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s ou ⁵⁵	ɕ ɥ ɛ ⁴⁴	sʰ r o ŋ ¹	?	
-2540-9	ʈʂ o ²¹	tɕ i u ²¹	tɕ j o ²¹	dz ao ¹²	tɕ i u ²¹	ts ʯ̃ ²¹		ɖʐ o ¹	?	ts ʯ ²¹
 32-10	m ə˞ ⁴⁴	m a ⁴⁴	m æ ⁵⁵	m æ ²⁴	m a ⁵⁵	m a ⁴⁴	m ə˞ ⁴⁴	m æ ⁴	m a ⁴²	?
 53-10	ʈʂ i ³¹	ts ɛ ²¹	ts ɿ ²¹	ɖʐ i ²¹	tɕ ə˞ ²¹	ts a ²¹	dz i ²¹	ɖʐ i ¹	ʐ ə˞ ³⁵	?
 93-10	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹²	k ɯ ²¹	k ɯ ²¹	k ɯ ²¹	g ɯ ¹	g ɯ ³⁵	?
@@ -1789,7 +1773,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1107-10	ʂʰ ə˞ ⁴⁴	ɕ a ⁴⁴	ɕ j æ ⁵⁵	s æ ²⁴	ɕ a ⁵⁵	s a ⁴⁴	s ə˞ ⁴⁴	sʰ r æ ⁴	ɕ a ⁴²	?
 1173-10	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	?
 1195-10	ɕ i ³³	s i ²²	s i ²²	ɕ i ²²	ɕ i ²²	ɕ i ³³	ɕ i ³³	s j i ²	ɕ i ³³	?
-1230-10	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²	qʰ õ ²²	kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	?
 1241-10	m e ²¹	m ɛ ²¹	m ɛ ²¹	m ə n ¹²	m e ²¹	m e ²¹	m e ²¹	m ɛ ¹	m ɛ ³⁵	?
 1252-10	l õ ²¹	l u ²¹	l u ²¹	l õ ¹²	l u ²¹	l ʯ̃ ²¹	l o ŋ ²¹	l o ŋ ¹	l o ŋ ³⁵	?
 1294-10	k ã ³⁵	q o ⁵⁵	q a ²⁴	q a ŋ ⁵⁵	q ã ⁵⁵	k ɑ̃ ⁵⁵	k a ŋ ⁵⁵	q a ŋ ¹	q ɔ ŋ ⁵⁵	?
@@ -1805,6 +1788,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1618-10	p u ²¹	p ɯ ²¹	b ɯ ²¹	b u ¹²	p ɯ ²¹	p ɯ ²¹	p əɯ ²¹	b ɯ ¹	b ɯ ³⁵	?
 1640-10	k ou ⁴⁴	k u ⁴⁴	k u ⁵⁵	k u ²⁴	k o ⁵⁵	k ou ⁴⁴	k o ⁴⁴	k o ⁴	k o ⁴²	?
 1671-10	ɕ i ⁴⁴	s i ⁴⁴	s i ⁵⁵	ɕ i ²⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	ɕ i ⁴⁴	s j i ⁴	ɕ i ⁴²	?
+1731-10	ʂ ou ⁴⁴	ɕ w o ŋ ⁵⁵	ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	?
 1762-10	sʰ w a ŋ ³¹	s w a ⁴²	ɕ ɥ ɛ ⁴²	s w a ŋ ⁴²	s w ã ⁴²	s u ɑ ³¹	s w a ŋ ²¹	sʰ w a ŋ ³	s o ŋ ²¹	?
 1773-10	tʲ ɯ ⁴⁴	t ɯ ⁴⁴	t ə ⁵⁵	t i ²⁴	t ɯ ⁵⁵	t ə ⁴⁴	t əɯ ⁴⁴	t ɯ ⁴	t ɯ ⁴²	?
 1794-10	k o ŋ ⁵⁵	k u ⁵⁵	k o ²⁴	k o ŋ ⁵⁵	k o ŋ ⁵⁵	k õ ⁵⁵	k o ŋ ⁵⁵	k o ŋ ¹	k o ŋ ⁵⁵	?
@@ -1837,6 +1821,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2565-10	tɕ i ³⁵	t i ⁵⁵	t i ²⁴	t i ⁵⁵	t i ⁵⁵	tɕ i ⁵⁵	t i ⁵⁵	tʲ ɯ ¹	tɕ j ɯ ⁵⁵	?
 2611-10	j ou ⁴⁴	j u ⁴⁴	j u ⁵⁵	j u ⁴²	j o ⁵⁵	j ou ⁴⁴	j o ⁴⁴	j ɔ ⁴	j ɔ ⁴²	?
 2632-10	w a ŋ ³³	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ²⁴	w a ŋ ⁵⁵	w ɑ̃ ⁴⁴	ŋ w a ⁴⁴	ŋ w a ⁴	ŋ w ɔ ⁴²	?
+2644-10	w ã ⁵⁵	ŋ w a ⁴⁴	w a ⁵⁵	w a ŋ ⁵⁵	ŋ õ ⁵⁵	w ɑ̃ ⁵⁵	ŋ w a ⁴⁴	ŋ w a ⁴	w o ⁴²	?
 2674-10	m ou ³³	m o ²²	m o ²²	m u ²²	m o ²²	m õ ³³	m o ŋ ³³	m ø ²	m o ³³	?
 2698-10	ʂ o ³³	ɕ y ²²	ɕ u ²²	s ao ²²	ɕ u ²²	s ʯ ³³	s ou ³³	s r o ²	ʂ ʯ ³³	?
 2709-10	n e ⁴²	n ɛ ²¹	n ɛ ²¹	n ɛ ²⁴	n e ²¹	n i ³¹	n e ⁴²	n ɛ ¹	n ɛ ³⁵	?
@@ -1915,7 +1900,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5236-10	tʰ e ³³	tʰ i ²²	tʰ i ²²	tʰ i ²²	tʰ j e ²²	tʰ i ³³	tʰ ɛ ³³	tʰ j e ²	tʰ i ³³	?
 64-10		pʰ ə ⁴²	pʰ æ ⁴³	pʰ a n ⁴²	pʰ ã ⁴²	pʰ a n ³¹	pʰ ə˞ ²¹	pʰ æ n ³	pʰ a ŋ ²¹	?
 104-10		x w a ⁴⁴	χ w a ⁵⁵	x w a ²⁴	x w a ⁵⁵	x u ɑ ⁴⁴	x w a ⁴⁴	h w a ⁴	h w ɔ ⁴²	?
-141-10	ŋ õ ³¹	ŋ o ⁴²	ɴ o ⁴³	ŋ a ⁴²	õ ⁴²		n e n ⁴²	ŋ ɔ ³	ŋ ɔ ²¹	?
 247-10	p i ²¹	p ɯ ²¹	p ɯ ²¹	b u ¹²	p ɯ ²¹	p õ ²¹	p əɯ ²¹	b r i ¹		?
 289-10	ʂ i ⁴⁴	tsʰ i ⁴²	s ɿ ⁵⁵		ʂ ə˞ ⁵⁵	s a ⁴⁴	s i ⁴⁴	s r i ⁴	ʂ i ⁴	?
 378-10	ʈʂ ɯ ²¹	dʑ i ⁴²	d j ɯ ⁴³	ɖʐ i ¹²	ɖ ɯ ⁴²	ts ɯ ³¹		d r ɯ ³	d j ɯ ²¹	?
@@ -1936,6 +1920,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1097-10		kʰ u ⁴⁴	kʰ o ⁵⁵	kʰ ao ²⁴	k ɯ ⁵⁵	kʰ ʯ ⁴⁴	kʰ u ⁵⁵	kʰ o ⁴	kʰ ʯ ⁴²	?
 1130-10	pʰ ou ³³		pʰ æ ⁴⁴	pʰ æ ²⁴	pʰ o ⁴²	pʰ a ⁴⁴	pʰ ə˞ ⁴⁴	pʰ æ ⁴	pʰ a ⁴²	?
 1184-10	ʂʰ ə˞ ⁵⁵	s ɛ ⁵⁵	s ɿ ²⁴	ʂ i ⁵⁵		s a n ⁵⁵	s e n ⁵⁵	sʰ r e ŋ ¹	ʂ ə̃˞ ⁵⁵	?
+1230-10	kʰ w a ŋ ³³	qʰ w a ²²	qʰ w a ²²	qʰ w a ŋ ²²		kʰ w ɑ̃ g ³³	kʰ w a ŋ ³³	qʰ w a ŋ ²	qʰ w a ŋ ³³	?
 1263-10	m ə̃ ⁴²	m ɯ̃ ⁵⁵	m ɯ ⁴³		m ɯ ⁴²	m ə̃ ³¹	m əɯ ²¹	m ɯ ⁵	m o ²¹	?
 1433-10	m ə̃ ²¹	m ɯ ²¹	m ɯ ²¹	m o ŋ ¹²	m ɯ ²¹	m õ ²¹		m ɯ ¹	m ɯ ³⁵	?
 1462-10	w ẽ ³³	ŋ w i ²²	ŋ w i ²²	w e n ²²		w ẽ ³³	ŋ w ɛ ³³	ŋ w e n ²	w e n ³³	?
@@ -1943,8 +1928,6 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1629-10	f ʯ ³⁵		f ɛ ²⁴	pf u ⁵⁵	f i ⁵⁵	f ʯ ⁵⁵	p i ⁵⁵	p j e ¹	f ə˞ ⁵⁵	?
 1682-10	ɕ o ŋ ³⁵		ɕ j o ²⁴	ɕ j o ŋ ⁵⁵	ɕ õ ⁵⁵	ɕ i õ ⁵⁵	ɕ o ŋ ⁵⁵	ɕ o ŋ ¹	ɕ o ŋ ⁵⁵	?
 1706-10	tɕ j a ⁴²	dz j o ⁴²	dz j a ²¹	dʑ j a ²¹	tɕ a ⁴²	tɕ i ɑ ⁴²	tɕʰ a ⁴²	dʑ a ⁴		?
-1731-10	ʂ ou ⁴⁴		ɕ j o ²⁴	s o ŋ ⁵⁵	ɕ i õ ⁵⁵	s õ ⁵⁵	s o ŋ ⁵⁵	s o ŋ ¹	ɕ j o ŋ ⁵⁵	?
 1925-10	ts ɯ ³³	dʑ i ²²	dʑ ɯ ²²	dz i ²²	dʑ i ²²	ts i ³³	dz əɯ ³³	dʑ ɯ ²		?
 1991-10	ʈʂ õ ³³	dʑ o ²²	ɖʐ o ²²	dz o ŋ ²²	dʑ õ ²²	ts ʯ̃ ³³		ɖʐ u ŋ ²	ʐ ʯ ŋ ³³	?
 2040-10	b au ³³	b o ²²	b o ²²	b õ ²²	b o ²²	p ao ³¹		b o ŋ ²	b o ŋ ³³	?
-2540-10	ʈʂ o ²¹	tɕ i u ²¹	tɕ j o ²¹	dz ao ¹²	tɕ i u ²¹	ts ʯ̃ ²¹		ɖʐ o ¹	ʐ y ³⁵	?

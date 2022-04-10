@@ -1,47 +1,45 @@
 COGID	1	10	2	3	4	5	6	7	8	9
-660	l ɛ l a	l e l a	l e l a				r e r a	r ɛ r a		
-848	k a l a	k á l a			k á l aː		k á a	k a r a		
-1083	l i l a		l i l a					l i r a	l i l a	l i l a
-1122	f u n a	v i n a		b i n a			v i n a			b i n a
 1159	ɲ a	ɲ a			ɲ		ɲ a	ɲ a		
 1350	l j a a	d j a	l j a		l j			l j a		
 1374	n a á n ɛ	n s a a n á	n a a n e				n a n e		n á a n a	
+1396	z ɔ v u		dʒ o f u		s o f u		z o v u	dʒ o v u		
+1430	i s ɔ			i s u	i n s o		i s o		i s o	
 1666	t a a n ɔ		r a a n o	t á n o				t á n o	t á n o	
+1767	g ɔ k ɔ		g o x o	ts o ts o	k o k o				k o k o	
 1906	i ŋ g i l a	iː n dʒ i l a	ŋ g i l a				i ŋ g i a		i ŋ g i l a	
 2177	ŋ g a		ŋ g a				ŋ g a h i	ŋ g á p i	ŋ g a	
 2286	l a		l a		l a	l a				l a
 2317	β ʊ β a		β u β a		f u β a			f u p a		f u f a
 2419	s ɛ k a	s e k a			s e k		s e k a		s e k a	
-2738	β ɛ ɛ l ɛ		β e e l e		β e e l e		v e e		b e l e	
 2750	ɛ ɛ z i	a s i	e e s i		e ʃ i				e z i	
 3018	z i l a				ʃ i l a		z i a		z i l a	ts i l a
 3275	k a á n a		k a a n a		k a a n		k á n a			χ á n a
 3441	s ɛ ɛ ŋ g a	s a a ŋ g a			s e ŋ g a		s a ŋ g a		s á ŋ g a	
+3464	β ɔ n a	w o n a	β o n a				v o n a			b ɔ n a
 3639	d i t i m a	t e t e m e l a	tʰ e r e m a				t e t e m a			t ɛ t ɛ s ɛ l a
-3865	s a s i		dʒ a s i		s á s e				s á s e	t ɬʰ á s i
+3885	tʃ i m u				f u m o		tʃ u m o		s u m o	r u m ɔ
 3981	i m a	iː m a	i i m a						i m a n a	ɛ m a
 4192	β i i m b a	j i i m b a	β ìì m b a		f i m b		v i m b a			
 4260	s w a a		s w a		s w a			ʃ w a	s w a	
 4350	l ɛ ɛ l ɔ ɔ	l e e l o	l e e l o		l e e l o				l e l o	
 278		v a	β a		β	ɓ a			b a	
 745			tʰ a x o		t á k o		t á k o	t a k o	t á k o	
-1180		w a	f w a		f w		f w a		k w a	
 3971		k a m a	x a m a		k á m		k á m a	k a m a		
-4374			l i m i	l e m u	l i m i				l á m i	l i m i
 55		ɲ a m a		ɲ a m a	n a m a		a m a		ɲ a m a	
 94				b ɔ g ɔ	β o k o			β ɔ k ɔ	b o k o	b ɔ χ ɔ
 2717				ŋ g a ŋ g a	ŋ a ŋ g a	g a ŋ g a	ɣ a ŋ g a	g a ŋ g a		
+4139					m i n		m i dʒ a	m i n a	m e n a	m i ts a
 43	z i m u	s i i m u						d î m u		d i m ʊ
 93	k ɔ n ɔ	k o n o	x o n o				k o n o			
+200	β i i		β i		β i				b i	
 374	a a l w a a		l w a		a l w a					dʒ a l w a
+459	l u m a	l u m a					u m a			l ʊ m a
 508	h ɔ f u		β o f u		p o f u					f o f u
 528	β i l i		β i l i		β i l i				b i l i	
 575	t a a				t a		t a	t a		
 871	t a m a							t a m a	t á m a	r á m a
 1137	ʃ i k ʊ	s i k u	s u k u		ʃ i k u					
-1273	l ɔ ɔ t a		l o o r a		l o o t					l ɔ r a
 1339	t w i i			t w e e	t w i			t w i		
-1430	i s ɔ				i n s o		i s o		i s o	
 1585	a a l a	a l a	a a l a					a r a		
 1712	f u l ɔ		f u l o				f u o			f u l ɔ
 1872	p a a	p a			p			p a		
@@ -51,13 +49,14 @@ COGID	1	10	2	3	4	5	6	7	8	9
 2393	m a n a		m a ɲ a				m a ɲ a		m e ɲ a	
 2537	l ɔ m ɔ				l o m o		o m o		l o m o	
 2665	i ŋ g i		i i ŋ g i				i ŋ g i		i ŋ g i	
+2738	β ɛ ɛ l ɛ		β e e l e		β e e l e				b e l e	
 2872	k ɔ s i	k o s i			k o ʃ i				k o s i	
 2893	z i k ʊ				ʃ i k u a			t î k u		s i χ ʊ
 2997	g a a n z a	g a a s a					ɣ a n z a		k á s a	
 3075	g u l u β ɛ	g u l u v e							g ʊ l ʊ b e	k ʊ l ʊ b ɛ
-3419	t ɛ ɛ			t ɛ ɛ	t e		t e			
 3675	l w i i l ɛ	l w e e l e	l w á a l e		l w e l e					
 4028	w ɛ				β w e		b w e	w e		
+4137	m i l a	m i l a	m i l a			m i l				
 4238	i i s ɔ z i	i s o s i			s o ʃ i				i s o z i	
 4316	d á t ʊ	t a t u					t á t u	t á t u		
 4429	β a s a				p á s a		a z a		a s a	
@@ -70,19 +69,16 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3531		a a n i k a	a a n i x a		a n i k					a n ɛ χ a
 3767			l o		l o	l ɔ			l o	
 4632			x a s i	a s i	k á ʃ i				k á z i	
-1631				k o ɲ i	k u n i			k u n i		χ ʊ ŋ̍
+1033		k o s o m o l a			k o o l	k ɔ h ɔ l			k o s o l a	
 3185		v i i k a			β i i k		v i k a		b i k a	
-3889					f u m o		tʃ u m o		s u m o	r u m ɔ
 794		v e l e k a					v e k a	v i k a		b ɛ l ɛ χ a
-84	g ʊ l ʊ̀				u l u					ʊ l ʊ̀
+143	β u u	w u					v u			
 240	ɔ g a	o o g a							o g a	
-251	ɔ g ɔ h a	o o g o p a					o ɣ o h a			
 388	n u m a	p a ɲ u m a					u m a			
 401	d a		d a						d a	
 599	t a á m b i	dʒ a a m b i					t á m b i			
 649	l ɛ ɛ t a		l e e r a		l e e t					
 755	g ʊ l a		k u l a						g ʊ l a	
-823	m a l a		m a l a			m a l				
 836	s ʊ ʊ m b i						tʃ u m b i		s u m b i	
 969	i z a	iː s a					z a			
 994	d ɛ ɛ k a	t e l e k a						t e r e k a		
@@ -91,6 +87,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 1043	β a l a		β a l a					v á r a		
 1110	t ɛ m a				t e m		t e m a			
 1263	d a h a				t á p		t á h a			
+1273	l ɔ ɔ t a		l o o r a		l o o t					
 1329	i k a l a				i k a l		i k a a			
 1362	g i i		k i				g i			
 1606	ɔ ɔ t ɔ	o o t o					o t o			
@@ -104,7 +101,6 @@ COGID	1	10	2	3	4	5	6	7	8	9
 2037	g a t a						ŋ g á t a		k a r a	
 2128	g ɛ ɛ m b ɛ						ɣ e m b e		e m b e	
 2186	g a n a						ɣ a n a		g a n a	
-2345	β ʊ l á g a	w u l a g a								b ʊ l á j a
 2483	g ʊ l ʊ̀				u l u				g ʊ l ʊ̀	
 2592	l ɔ l a	l o l a							l o l a	
 2615	d a a		d a		d a					
@@ -120,12 +116,14 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3261	d ɛ t ɛ	t e t e			t e t e					
 3364	ɔ tʃ a						ʃ o t a	ʝ o t a		
 3385	z i		s i						z i	
+3419	t ɛ ɛ				t e		t e			
 3430	n u		u ɲ u				u ɲ u			
 3583	n ɔ ɔ l a	n oː l a					n o a			
 3664	β ɛ g a		β e k a		β e a					
 3706	t a a n d a t ʊ				t a n d a		t á n d á t u			
 3756	s i i n z a		s ìì n dʒ a				s i n z a			
-4216	z u u l a		f u u l a		f u u l					
+3837	k ɔ l ɔ m a	k o l o m a					h o r o m a			
+3865	s a s i				s á s e				s á s e	
 4406	t i i				t i		t i			
 4530	l ʊ k a				l u k			r u k a		
 4552	i i n z i				i n ʃ i				n z i	
@@ -134,6 +132,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 542			β i l a		β i l a u k					b i l a
 564			a a x a				h a k a		a g a	
 928			x o l o				k o l o	k ô r o		
+1181			f w a		f w		f w a			
 1241			p u u n d a		p u n d a		p u n d a			
 1607			l i l o		l i l o					l i l ɔ
 1929		b u s i	b u s i		b u ʃ i					
@@ -144,35 +143,36 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3698			i i x a l a		i k a l				i k a l a	
 3735			k u l u		u l u				g ʊ l ʊ̀	
 3940		v á l a	p á l a		β á l a					
-315				w o m a			o m a			ɔ m a
 675				t o ŋ g a			dʒ e ŋ g a	t u ŋ g a		
 860		v i i ŋ g a		b e ŋ g a				β i ŋ g a		
+1151				s a			s i		s i	
+1631				k o ɲ i	k u n i			k u n i		
 2057		t i m a		t e m a	t i m a					
-3176				ts i n dʒ a		t i n d ɛ		t î n d e k a		
 552		w u p a			f u p a			f u p a		
 959		b e p o			p e p o		p e h o			
-1033		k o s o m o l a			k o o l				k o s o l a	
 1318					k u ŋ g u			k u ŋ g u	k u ŋ g u	
 1411					f i		v i		b i	
 1495		w u t a			f u t a		f u t a			
 1578					l w			r w a		l w a
 2232		l u m e			l u m e		u m e			
+3466					m o n			m ô n a	m o n a	
 4092		o o ŋ g a			o n k		o ŋ k a			
 4127					s u β a		z u v a	ʝ u β a		
-4139					m i n			m i n a	m e n a	
 4329					k u p a			k u p a		qʰ ʊ f a
 4508		s i			ʃ i		z i			
 3724						k o p		k ô β a	k o b a	
 166		s o o k a					z o k a		s a g a	
+1025							i m b a	tʃ i m b a	r ʊ m b a	
+1770							k u k u	k u k u		k ʊ k ʊ
 4712		e e n u					e ɲ u		i ɲ ʊ	
 105		g w a a p a						k w á p a		χ w á f a
-3843								ɣ o n a	g o n a	ɔ n a
+3842								ɣ o n a	g o n a	ɔ n a
 4149		t u k a n a						t u k a	s u g a	
 32	ɔ s ɛ						o s e			
 104	a a p a				a p a					
 134	s ɔ ɔ ŋ g a								s o ŋ g o	
-143	β u u						v u			
 153	l ɔ ɔ m b a							r ɔ m b a		
+251	ɔ g ɔ h a						o ɣ o h a			
 263	l ɛ m a a l a		l e m a l a							
 272	i g ʊ t a						i ɣ u t a			
 303	p j a a				p j					
@@ -180,17 +180,19 @@ COGID	1	10	2	3	4	5	6	7	8	9
 346	k ʊ l a				k u l					
 483	p i			p i i						
 720	dʒ i i k a						dʒ i k a			
-828	ʃ i l a						s i a			
+823	m a l a		m a l a							
+829	ʃ i l a						s i a			
 882	k u β a								k u b a	
+904	l ɛ z u									l e d u
 915	s a a g ʊ l a						s a ɣ u r a			
 1019	l a a m b ɔ		l a a m b o							
 1073	k i l a									tsʰ i l a
-1192	s i i m b a								ʊ m b a	
 1453	g ɔ h ɛ						ɣ o h e			
 1486	k ʊ l ɛ									χ ʊ l ɛ
 1529	ɔ ɔ j a a		o o j a							
 1641	s ɔ ɔ m b a	s o o m b a								
 1722	l ɔ ɔ n d a		l o o n d a							
+1800	k u m i i ŋ g a								k ʊ ŋ g a	
 1814	m a n i i l a						m a ɲ i r a			
 1849	d ɔ t a		tʰ o r a							
 1939	s ɔ g a								s o g a	
@@ -202,6 +204,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 2243	b i t i									pʰ i r i
 2263	ɔ ŋ g ɛ dʒ a						o ŋ g e dʒ a			
 2274	g a t i i						ɣ a t i			
+2345	β ʊ l á g a	w u l a g a								
 2404	ɲ a a ɲ z a a	ɲ a á s a								
 2471	m ɔ s ɔ						m o s o			
 2496	l a á m b a								l á m b a	
@@ -213,7 +216,6 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3550	s u m a						tʃ u m a			
 3596	m ɔ ɔ g a	m oː g a								
 3744	p i i				p i					
-3837	k ɔ l ɔ m a	k o l o m a								
 3903	t a á n d ʊ				t a n d a					
 3970	n i n a								i nː a	
 4091	ɔ ŋʰ a									a ɲ a
@@ -223,7 +225,6 @@ COGID	1	10	2	3	4	5	6	7	8	9
 4203	k i l a								k i l a	
 4282	t a á ŋ g ɔ		r a a ŋ g o							
 4294	n ɔ ɔ t a							n ô t a		
-4373	d i m i	d i m i								
 4473	s u β a a l a								s ʊ b a l a	
 4519	z w i i							ʝ w i		
 4593	k i i								k i	
@@ -250,20 +251,22 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3779			tʰ i i tʰ i					d î d i		
 3817			s i							s i
 3849			b i l o						b i l o	
+3867			dʒ a s i							t ɬʰ á s i
 3948			a a l a							a l a
 4083			k u k u m a				g u g u m a			
+4218			f u u l a		f u u l					
 4317			tʰ a r u	ts á r o						
+4397			x u tʰ u							kʰ u d u
 4655			p a p a l i l o						p o p i l i l o	
 615				b u ɲ a				v u ɲ a		
 631				b ɛ ɛ		ɓ e e				
+984				s i s a					s i l a	
 1171				b o n dʒ a			b u n t a			
 1195				t i m a				t i m a		
 1351				dʒ á a						dʒ a
 1724				l ɔ n d ɔ	l o n d o l					
 1884				b o r a					b ʊ r a	
-1930				m b o s i			m b u dʒ i			
 1972				k ɔ g ɔ			k o k o			
-2234				l o m i		l o m				
 2564				b a		ɓ a a				
 2842				k ɔ r i					k o r o	
 2975				n dʒ e e						n̩ tɬ ɛ
@@ -271,22 +274,18 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3138				t ɔ g ɔ		tʃ o k				
 3432				k w a				ŋ g w a		
 3553				t o ŋ g a				t ô ŋ g a		
-3888				k ɔ ŋ g ɔ				ɣ o ŋ g a		
-3982				t ɛ		t e e				
 4115				k o g o		k o g o				
 4307				l ɔ ɔ		l ɔ ɔ				
 131					f w i		v w i			
 182		ɲ u m a			n u m a					
 212					k o n d e	k ɔ n d ɔ				
 294					e f u		d e v u			
+462					s u m			ʃ u m a		
 624					s u l	s u l				
-810					ɲ a u				ɲ á g ʊ̀	
 837		p a a n d o			p a n d o					
-951					k u m b i		dʒ u m b i			
 1255					i β i				i b i	
 1388					k o ŋ k o n i			k ô k o n a		
 1570					k á l i p				k á l i	
-1677		l u u v a			l u β a					
 4					l u ŋ g u		r u ŋ g u			
 2144		u tʃ i			u tʃ i					
 2156		s e e ŋ g o			s e ŋ g o					
@@ -294,7 +293,6 @@ COGID	1	10	2	3	4	5	6	7	8	9
 2510					l a a l	l a l				
 3068					t u					tʰ ʊ̀
 3254					k u l a				k ʊ l a	
-3410		w u t u k a			β u t u k					
 3431		dʒ e t e			tʃ e l e					
 3554					s o n				s o n a	
 3586					s o ŋ g o l				s o ŋ g o l a	
@@ -306,13 +304,12 @@ COGID	1	10	2	3	4	5	6	7	8	9
 4544					t a		t a			
 6						a m b ɛ		a m b i		
 2767						ɲ ɔ ŋ				n a ŋ̍
+3178						t i n d ɛ		t î n d e k a		
+4400						k u l			k u l u	
 76		iː t i k a					i t i k a			
-85		s u g u l u					s u g u r u			
-442		j o o ŋ g o					o ŋ g o			
+318							o m a			ɔ m a
 473		v a v a					v á v a			
 539		t o k o t a					d o ɣ o d a			
-1025							i m b a	tʃ i m b a		
-1154							s i		s i	
 1277							o t a	r ô t a		
 1397		d e e m b o					t e m b o			
 1667		n s a a n o					s á n o			
@@ -343,10 +340,11 @@ COGID	1	10	2	3	4	5	6	7	8	9
 214								b a n á n a		p a n á n a
 438								n ɛ n ɛ	n e n e	
 1244								d o ŋ g i		t o ŋ k i
+1478								w a		w a
 2754								k w e d i		qʰ w e d i
 3143		p oː n d a						p o n d a		
 3166								k ô k a		χ ɔ χ a
 673		v a k a							o b a k a	
-2260									b e l e	p i l i
+1180		w a							k w a	
 2441		s a a m b a							s a m b a	
 4182		n d o o l o							n d o l o	

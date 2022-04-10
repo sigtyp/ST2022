@@ -10,7 +10,6 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 478-1	?	eː g oː ɗ a	g ɔ ɗ a	g oː ɗ e
 409-1	?	a r e	a r e	a r e
 410-1	?	g u n d i	g u n d i	g u n d i
-946-1	?	ɓ a ŋ g o	p ʔ a g u	ɓ a ŋ g o
 256-1	?	ɓ aː l e	p ʔ aː l a	ɓ aː l e
 622-1	?	n d u	n d u	n d u
 546-1	?	n d u	n d u	n d u
@@ -34,6 +33,7 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 884-1	?	g u n d i	g ʊ n d i	g uː n d o
 166-1	?	g u n d i	g u n d i	g u n d i
 918-1	?	a b ɛ r e	a b a r o	a b ɛ r e
+831-1	?	h aː ʃ e	h aː ʃ i	h əː n ʃ e
 616-1	?	ɓ aːi̯ e	b iː e	b iː e
 84-1	?	h o ʃ ɛ l e	h ɔ ʃ ə l a	h o ʃ a l a
 346-1	?	h o l u	h u h u l u	h oː h o l u
@@ -53,14 +53,13 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 278-1	?	a m i l u ʔ a	a m i l o	a m i l u ʔ i
 766-1	?	ʃ oː r a	ʃ ɔː r a	ʃ oː r a
 251-1	?	a g uː r u	a g uː r u	a g uː r u
+582-1	?	o ʔ o ŋ	ʊ ʔ u ŋ	u q u ɲ
 6-1	?	a l i	a l i	a l i
+1106-1	?	n g o	ŋ g o	ɲ ɦ o
 473-1	?	ɲ i n e	ɲ i n e	ɪ nː e
 1111-1	?	h a l u	h a θ u	h a θ u
 957-1	?	m a r e	m ə r e	m a r e
 41-1	?	b eː		b i e
-24-1	?	s iː	s iː	
-25-1	?	θ aː r e	θ aː r e	
-879-1	?	a b a r a b ɛ t	a b a r ə b ɛ d	
 468-2	l aː b a	?	θ a b a	θ a b a
 222-2	a b a b ɔ ʔ i	?	a b ɔ b ɔ n e	aː b ɔ b ɔ ʔ i
 208-2	a b u r b u d u	?	a b u r b u d u	a b u r b u d u
@@ -72,7 +71,6 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 478-2	g o ɗ e	?	g ɔ ɗ a	g oː ɗ e
 409-2	a r e	?	a r e	a r e
 410-2	g u n d i	?	g u n d i	g u n d i
-946-2	ɓ a ŋ g o	?	p ʔ a g u	ɓ a ŋ g o
 256-2	ɓ aː l e	?	p ʔ aː l a	ɓ aː l e
 622-2	n d u	?	n d u	n d u
 546-2	n d u	?	n d u	n d u
@@ -96,6 +94,7 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 884-2	g u n d i	?	g ʊ n d i	g uː n d o
 166-2	g u n d u	?	g u n d i	g u n d i
 918-2	a b a r e	?	a b a r o	a b ɛ r e
+831-2	h aː s e	?	h aː ʃ i	h əː n ʃ e
 616-2	b iː e	?	b iː e	b iː e
 84-2	h o s a l e	?	h ɔ ʃ ə l a	h o ʃ a l a
 346-2	h oː h o l o	?	h u h u l u	h oː h o l u
@@ -115,14 +114,13 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 278-2	m i l o ʔ i	?	a m i l o	a m i l u ʔ i
 766-2	s oː r e	?	ʃ ɔː r a	ʃ oː r a
 251-2	a g u r u	?	a g uː r u	a g uː r u
+582-2	o ʔ o ɲ e	?	ʊ ʔ u ŋ	u q u ɲ
 6-2	a l i	?	a l i	a l i
+1106-2	n g o	?	ŋ g o	ɲ ɦ o
 473-2	ɪ nː e	?	ɲ i n e	ɪ nː e
 1111-2	h a l u	?	h a θ u	h a θ u
 957-2	m a r e	?	m ə r e	m a r e
 41-2	b i e	?		b i e
-24-2	s i	?	s iː	
-25-2	lː a r e	?	θ aː r e	
-879-2	a b a r a b ɛ t i	?	a b a r ə b ɛ d	
 468-3	l aː b a	θ a b a	?	θ a b a
 222-3	a b a b ɔ ʔ i	a b ɔ b ɔ n e	?	aː b ɔ b ɔ ʔ i
 208-3	a b u r b u d u	a b u r b u d u	?	a b u r b u d u
@@ -134,7 +132,6 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 478-3	g o ɗ e	eː g oː ɗ a	?	g oː ɗ e
 409-3	a r e	a r e	?	a r e
 410-3	g u n d i	g u n d i	?	g u n d i
-946-3	ɓ a ŋ g o	ɓ a ŋ g o	?	ɓ a ŋ g o
 256-3	ɓ aː l e	ɓ aː l e	?	ɓ aː l e
 622-3	n d u	n d u	?	n d u
 546-3	n d u	n d u	?	n d u
@@ -158,6 +155,7 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 884-3	g u n d i	g u n d i	?	g uː n d o
 166-3	g u n d u	g u n d i	?	g u n d i
 918-3	a b a r e	a b ɛ r e	?	a b ɛ r e
+831-3	h aː s e	h aː ʃ e	?	h əː n ʃ e
 616-3	b iː e	ɓ aːi̯ e	?	b iː e
 84-3	h o s a l e	h o ʃ ɛ l e	?	h o ʃ a l a
 346-3	h oː h o l o	h o l u	?	h oː h o l u
@@ -177,13 +175,12 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 278-3	m i l o ʔ i	a m i l u ʔ a	?	a m i l u ʔ i
 766-3	s oː r e	ʃ oː r a	?	ʃ oː r a
 251-3	a g u r u	a g uː r u	?	a g uː r u
+582-3	o ʔ o ɲ e	o ʔ o ŋ	?	u q u ɲ
 6-3	a l i	a l i	?	a l i
+1106-3	n g o	n g o	?	ɲ ɦ o
 473-3	ɪ nː e	ɲ i n e	?	ɪ nː e
 1111-3	h a l u	h a l u	?	h a θ u
 957-3	m a r e	m a r e	?	m a r e
-24-3	s i	s iː	?	
-25-3	lː a r e	θ aː r e	?	
-879-3	a b a r a b ɛ t i	a b a r a b ɛ t	?	
 468-4	l aː b a	θ a b a	θ a b a	?
 222-4	a b a b ɔ ʔ i	a b ɔ b ɔ n e	a b ɔ b ɔ n e	?
 208-4	a b u r b u d u	a b u r b u d u	a b u r b u d u	?
@@ -195,7 +192,6 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 478-4	g o ɗ e	eː g oː ɗ a	g ɔ ɗ a	?
 409-4	a r e	a r e	a r e	?
 410-4	g u n d i	g u n d i	g u n d i	?
-946-4	ɓ a ŋ g o	ɓ a ŋ g o	p ʔ a g u	?
 256-4	ɓ aː l e	ɓ aː l e	p ʔ aː l a	?
 622-4	n d u	n d u	n d u	?
 546-4	n d u	n d u	n d u	?
@@ -219,6 +215,7 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 884-4	g u n d i	g u n d i	g ʊ n d i	?
 166-4	g u n d u	g u n d i	g u n d i	?
 918-4	a b a r e	a b ɛ r e	a b a r o	?
+831-4	h aː s e	h aː ʃ e	h aː ʃ i	?
 616-4	b iː e	ɓ aːi̯ e	b iː e	?
 84-4	h o s a l e	h o ʃ ɛ l e	h ɔ ʃ ə l a	?
 346-4	h oː h o l o	h o l u	h u h u l u	?
@@ -238,7 +235,9 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 278-4	m i l o ʔ i	a m i l u ʔ a	a m i l o	?
 766-4	s oː r e	ʃ oː r a	ʃ ɔː r a	?
 251-4	a g u r u	a g uː r u	a g uː r u	?
+582-4	o ʔ o ɲ e	o ʔ o ŋ	ʊ ʔ u ŋ	?
 6-4	a l i	a l i	a l i	?
+1106-4	n g o	n g o	ŋ g o	?
 473-4	ɪ nː e	ɲ i n e	ɲ i n e	?
 1111-4	h a l u	h a l u	h a θ u	?
 957-4	m a r e	m a r e	m ə r e	?

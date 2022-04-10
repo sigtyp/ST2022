@@ -12,7 +12,9 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 278	m i l o ʔ i	a m i l u ʔ a	a m i l o	a m i l u ʔ i
 766	s oː r e	ʃ oː r a	ʃ ɔː r a	ʃ oː r a
 251	a g u r u	a g uː r u	a g uː r u	a g uː r u
+582	o ʔ o ɲ e	o ʔ o ŋ	ʊ ʔ u ŋ	u q u ɲ
 6	a l i	a l i	a l i	a l i
+1106	n g o	n g o	ŋ g o	ɲ ɦ o
 473	ɪ nː e	ɲ i n e	ɲ i n e	ɪ nː e
 1111	h a l u	h a l u	h a θ u	h a θ u
 957	m a r e	m a r e	m ə r e	m a r e
@@ -29,6 +31,8 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 233	ɓ i ɓ i o	b i b i y o	p ʔ iː p i o	
 938	ɓ u l ei̯ a n e	ɓ u l a	p ʔ u l a	
 369	a r e	a r e	a r e	
+946	ɓ a ŋ g o	ɓ a ŋ g o		ɓ a ŋ g o
+889	ɓ iː l o	ɓ eː l e	p ʔ eː l a	
 820	a s o r i	aː ʃ o r e		aː ʃ o r e n
 405		b ə d e	b ə d a	b ə d e
 134		ɓ ə ɗ i ʔ i	p ʔ a ɗ i ʔ i	ɓ ə ɗ i ʔ e
@@ -49,7 +53,6 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 777		g i n d aː l i a	d aː l i a	g i n d aː l i a
 728		s i ʔ i	h u ʃ i	s i ʔ i
 165	m a	m a	m a	
-831	h aː s e	h aː ʃ e	h aː ʃ i	
 1007	ɪ ŋ g o l e	ɪ ŋ g o l e		o ŋ g o l e
 1088	h o s a l e		h ɔ ʃ ɛ l i	h o ʃ ɛ l e
 1087	ɪ ŋ g o l e	ɪ ŋ g o l e		o ŋ g o l e
@@ -85,9 +88,7 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 419		e ʔ a f iː ŋ a	a f iː ŋ a	a f iː ɲ a
 683		θ oː l a	θ ʊː θ a	θ uː θ e
 644		t o k o l o	t ʔ ɔ k ʔ ɔ l o	t ʔ o k ʔ o l o
-582	o ʔ o ɲ e	o ʔ o ŋ	ʊ ʔ u ŋ	
 542		s oː s o ʔ	s ɔ s ɔ ʔ	z o z o
-1106	n g o	n g o	ŋ g o	
 1062		h aː ʃ a	h a h a ʃ a	h a h a ʃ a
 632	a b u lː u		a b u l d u	
 633		k o r o m b o		a g o r o m b o
@@ -95,7 +96,6 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 396			a g o ŋ g o r	a g o ŋ h o r
 804	ɛ l e n o l o	ɛ l e n e l o		
 1001		ʃ i ɲ	ʃ i ŋ	
-1000	j a l i	a l i		
 353			f i l	a l f i l
 351	m e t ɪ k eː	m ɛ d e g e		
 129		s uː w a ʔ i	s ʔ ʊ w i	
@@ -111,7 +111,6 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 370		a r e ʔ o l o		a r o ʔ o l o
 993		m ɛ n ɗ a ʃ i		m e n ɗ ɛ ʃ i
 531		m ə r i ɛ n e		m ə r i ɛ n e
-890		ɓ eː l e	p ʔ eː l a	
 709		a ʃ iː b a	a ʃ iː b a	
 708		g u ɗ u b a		g u ɗ u b i
 1022		ʃ ɪ m b i r a	a ʃ ɪ m b r i ŋ a	
@@ -141,7 +140,6 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 520		m o f a		m o f a
 182		k ʔ u r f e	k ʔ u r f e	
 20		f i ʃ	f i ʃ	
-597		h oː d a	f ʊː d a	
 748			f ʊː f u r	f uː f u r
 161		ɓ ə ɗ e		ɓ ɛ ɗ e
 657		m a n e n k u		m u n e n k o
@@ -153,7 +151,6 @@ COGID	BelejeGonfoye	Fadashi	Maiyu	Undulu
 1071	m b o l e ʔ i a	m b o l e j a		
 145		a sː e	a sː e	
 799			p ʔ eː r a	ɓ eː r a
-314		h oː ɗ a	f ʊ d a	
 1013		a sː u r w a l	a s ʊ r w a l	
 973		a ŋ	aː ŋ	
 794		ʃ eː k ʔ e	ʃ eː k ʔ e	
