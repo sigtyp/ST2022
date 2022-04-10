@@ -1,0 +1,1001 @@
+ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATITUDE	LONGITUDE	LANGUAGE_FAMILY	COGID
+649	82_i	I	Albanian	Albanian	unë	u.n.ə	u n ə	gheg1238	42.317	21.3837	Indo-European	1068
+650	82_i	I	English	English	I	ai	ai	stan1293	53.0	-1.0	Indo-European	1066
+651	82_i	I	French	French	je	ʒ.ə	ʒ ə	stan1290	48.0	2.0	Indo-European	1066
+652	82_i	I	German	German	ich	i.x	i x	stan1295	48.649	12.4676	Indo-European	1066
+654	82_i	I	Latin	Latin	ego	e.g.o	e g o	lati1261	41.9026	12.4502	Indo-European	1066
+1	1_all	all	Albanian	Albanian	gjithë	ɟ.i.θ	ɟ i θ	gheg1238	42.317	21.3837	Indo-European	4
+2	1_all	all	English	English	all	ɔ.l	ɔ l	stan1293	53.0	-1.0	Indo-European	1
+3	1_all	all	French	French	tous	t.u.t	t u t	stan1290	48.0	2.0	Indo-European	2
+4	1_all	all	German	German	alle	a.l	a l	stan1295	48.649	12.4676	Indo-European	1
+6	1_all	all	Latin	Latin	omnes	o.m.n.i	o m n i	lati1261	41.9026	12.4502	Indo-European	6
+9	2_and	and	Albanian	Albanian	e	e	e	gheg1238	42.317	21.3837	Indo-European	916
+10	2_and	and	English	English	and	a.n.d	a n d	stan1293	53.0	-1.0	Indo-European	915
+11	2_and	and	French	French	et	e	e	stan1290	48.0	2.0	Indo-European	916
+12	2_and	and	German	German	und	u.n.t	u n t	stan1295	48.649	12.4676	Indo-European	915
+14	2_and	and	Latin	Latin	et	e.t	e t	lati1261	41.9026	12.4502	Indo-European	916
+17	3_animal	animal	Albanian	Albanian	kafshë	k.a.f.ʃ	k a f ʃ	gheg1238	42.317	21.3837	Indo-European	1018
+18	3_animal	animal	English	English	animal	a.n.ə.m.ə.l	a n ə m ə l	stan1293	53.0	-1.0	Indo-European	1016
+19	3_animal	animal	French	French	animal	a.n.i.m.a.l	a n i m a l	stan1290	48.0	2.0	Indo-European	1016
+20	3_animal	animal	German	German	Tier	t.iː.r	t iː r	stan1295	48.649	12.4676	Indo-European	1015
+22	3_animal	animal	Latin	Latin	animal	a.n.i.m.aː.l	a n i m aː l	lati1261	41.9026	12.4502	Indo-European	1016
+25	4_ashes	ashes	Albanian	Albanian	hi	h.i.r	h i r	gheg1238	42.317	21.3837	Indo-European	274
+26	4_ashes	ashes	English	English	ashes	a.ʃ	a ʃ	stan1293	53.0	-1.0	Indo-European	271
+27	4_ashes	ashes	French	French	cendre	s.ɑ̃.d.r	s ɑ̃ d r	stan1290	48.0	2.0	Indo-European	272
+28	4_ashes	ashes	German	German	Asche	a.ʃ.ə	a ʃ ə	stan1295	48.649	12.4676	Indo-European	271
+30	4_ashes	ashes	Latin	Latin	cinis	k.i.n.e.r	k i n e r	lati1261	41.9026	12.4502	Indo-European	272
+33	5_at	at	Albanian	Albanian	në	n.ə	n ə	gheg1238	42.317	21.3837	Indo-European	954
+34	5_at	at	English	English	at	a.t	a t	stan1293	53.0	-1.0	Indo-European	952
+35	5_at	at	French	French	à	a	a	stan1290	48.0	2.0	Indo-European	952
+36	5_at	at	German	German	an	a.n	a n	stan1295	48.649	12.4676	Indo-European	951
+38	5_at	at	Latin	Latin	ad	a.d	a d	lati1261	41.9026	12.4502	Indo-European	952
+41	6_back	back	Albanian	Albanian	shpinë	ʃ.p.i.n	ʃ p i n	gheg1238	42.317	21.3837	Indo-European	369
+42	6_back	back	English	English	back	b.a.k	b a k	stan1293	53.0	-1.0	Indo-European	367
+43	6_back	back	French	French	dos	d.o	d o	stan1290	48.0	2.0	Indo-European	366
+44	6_back	back	German	German	Rücken	r.y.k.ə.n	r y k ə n	stan1295	48.649	12.4676	Indo-European	365
+46	6_back	back	Latin	Latin	tergum	t.e.r.g.o	t e r g o	lati1261	41.9026	12.4502	Indo-European	371
+49	7_bad	bad	Albanian	Albanian	keq	k.e.c	k e c	gheg1238	42.317	21.3837	Indo-European	281
+50	7_bad	bad	English	English	bad	b.a.d	b a d	stan1293	53.0	-1.0	Indo-European	279
+51	7_bad	bad	French	French	mauvais	m.ɔ.v.ɛ.z	m ɔ v ɛ z	stan1290	48.0	2.0	Indo-European	278
+52	7_bad	bad	German	German	schlecht	ʃ.l.e.x.t	ʃ l e x t	stan1295	48.649	12.4676	Indo-European	277
+54	7_bad	bad	Latin	Latin	malus	m.a.l.o	m a l o	lati1261	41.9026	12.4502	Indo-European	278
+57	8_bark	bark	Albanian	Albanian	shkëlbozë	ʃ.k.ə.l.b.o.z	ʃ k ə l b o z	gheg1238	42.317	21.3837	Indo-European	413
+58	8_bark	bark	English	English	bark	b.ɑ.r.k	b ɑ r k	stan1293	53.0	-1.0	Indo-European	411
+59	8_bark	bark	French	French	écorce	e.k.ɔ.r.s	e k ɔ r s	stan1290	48.0	2.0	Indo-European	410
+60	8_bark	bark	German	German	Rinde	r.i.n.d.ə	r i n d ə	stan1295	48.649	12.4676	Indo-European	409
+62	8_bark	bark	Latin	Latin	cortex	k.o.r.t.i.k	k o r t i k	lati1261	41.9026	12.4502	Indo-European	410
+65	9_because	because	Albanian	Albanian	sepse	s.e.p.s.e	s e p s e	gheg1238	42.317	21.3837	Indo-European	336
+66	9_because	because	English	English	because	b.ə.k.ɔ.z	b ə k ɔ z	stan1293	53.0	-1.0	Indo-European	337
+67	9_because	because	French	French	parce que	p.a.r.s	p a r s	stan1290	48.0	2.0	Indo-European	336
+68	9_because	because	German	German	weil	v.ai.l	v ai l	stan1295	48.649	12.4676	Indo-European	335
+70	9_because	because	Latin	Latin	quod	kw.o.d	kʷ o d	lati1261	41.9026	12.4502	Indo-European	340
+73	10_belly	belly	Albanian	Albanian	bark	b.a.r.k	b a r k	gheg1238	42.317	21.3837	Indo-European	1012
+74	10_belly	belly	English	English	belly	b.ɛ.l.i	b ɛ l i	stan1293	53.0	-1.0	Indo-European	1010
+75	10_belly	belly	French	French	ventre	v.ɑ̃.t.r	v ɑ̃ t r	stan1290	48.0	2.0	Indo-European	1009
+76	10_belly	belly	German	German	Bauch	b.au.x	b au x	stan1295	48.649	12.4676	Indo-European	1008
+78	10_belly	belly	Latin	Latin	venter	w.e.n.t.r	w e n t r	lati1261	41.9026	12.4502	Indo-European	1009
+81	11_big	big	Albanian	Albanian	madh	m.a.ð	m a ð	gheg1238	42.317	21.3837	Indo-European	198
+82	11_big	big	English	English	big	b.ɪ.g	b ɪ g	stan1293	53.0	-1.0	Indo-European	196
+83	11_big	big	French	French	grand	g.r.ɑ̃.d	g r ɑ̃ d	stan1290	48.0	2.0	Indo-European	195
+84	11_big	big	German	German	groß	g.r.oː.s	g r oː s	stan1295	48.649	12.4676	Indo-European	194
+86	11_big	big	Latin	Latin	magnus	m.a.g.n.o	m a g n o	lati1261	41.9026	12.4502	Indo-European	198
+89	12_bird	bird	Albanian	Albanian	zog	z.o.g	z o g	gheg1238	42.317	21.3837	Indo-European	482
+90	12_bird	bird	English	English	bird	b.ə.r.d	b ə r d	stan1293	53.0	-1.0	Indo-European	480
+91	12_bird	bird	French	French	oiseau	w.a.z.o	w a z o	stan1290	48.0	2.0	Indo-European	479
+92	12_bird	bird	German	German	Vogel	f.oː.g.ə.l	f oː g ə l	stan1295	48.649	12.4676	Indo-European	478
+94	12_bird	bird	Latin	Latin	avis	a.w.i	a w i	lati1261	41.9026	12.4502	Indo-European	479
+97	13_bite	bite	Albanian	Albanian	kafshon	k.a.f.ʃ.o	k a f ʃ o	gheg1238	42.317	21.3837	Indo-European	714
+98	13_bite	bite	English	English	bites	b.ai.t	b ai t	stan1293	53.0	-1.0	Indo-European	711
+99	13_bite	bite	French	French	mord	m.ɔ.r	m ɔ r	stan1290	48.0	2.0	Indo-European	712
+100	13_bite	bite	German	German	beißt	b.ai.s	b ai s	stan1295	48.649	12.4676	Indo-European	711
+102	13_bite	bite	Latin	Latin	mordet	m.o.r.d.eː	m o r d eː	lati1261	41.9026	12.4502	Indo-European	712
+105	14_black	black	Albanian	Albanian	zi	z.e.z	z e z	gheg1238	42.317	21.3837	Indo-European	133
+106	14_black	black	English	English	black	b.l.a.k	b l a k	stan1293	53.0	-1.0	Indo-European	131
+107	14_black	black	French	French	noir	n.w.a.r	n w a r	stan1290	48.0	2.0	Indo-European	130
+108	14_black	black	German	German	schwarz	ʃ.v.a.r.ʦ	ʃ v a r ts	stan1295	48.649	12.4676	Indo-European	129
+110	14_black	black	Latin	Latin	ater	aː.t.r.o	aː t r o	lati1261	41.9026	12.4502	Indo-European	135
+113	15_blood	blood	Albanian	Albanian	gjak	ɟ.a.k.r	ɟ a k r	gheg1238	42.317	21.3837	Indo-European	1115
+114	15_blood	blood	English	English	blood	b.l.ə.d	b l ə d	stan1293	53.0	-1.0	Indo-European	1112
+115	15_blood	blood	French	French	sang	s.ɑ̃	s ɑ̃	stan1290	48.0	2.0	Indo-European	1113
+116	15_blood	blood	German	German	Blut	b.l.uː.t	b l uː t	stan1295	48.649	12.4676	Indo-European	1112
+118	15_blood	blood	Latin	Latin	sanguis	s.a.n.gw.i.n	s a n gʷ i n	lati1261	41.9026	12.4502	Indo-European	1113
+121	16_blow	blow	Albanian	Albanian	fryn	f.r.y	f r y	gheg1238	42.317	21.3837	Indo-European	81
+122	16_blow	blow	English	English	blows	b.l.o	b l o	stan1293	53.0	-1.0	Indo-European	78
+123	16_blow	blow	French	French	vente	v.ɑ̃.t.e	v ɑ̃ t e	stan1290	48.0	2.0	Indo-European	79
+124	16_blow	blow	German	German	bläst	b.l.aː.z	b l aː z	stan1295	48.649	12.4676	Indo-European	78
+126	16_blow	blow	Latin	Latin	flat	f.l.aː	f l aː	lati1261	41.9026	12.4502	Indo-European	78
+129	17_bone	bone	Albanian	Albanian	kockë	k.o.ʦ.k	k o ts k	gheg1238	42.317	21.3837	Indo-European	608
+130	17_bone	bone	English	English	bone	b.o.n	b o n	stan1293	53.0	-1.0	Indo-European	606
+131	17_bone	bone	French	French	os	ɔ.s	ɔ s	stan1290	48.0	2.0	Indo-European	605
+132	17_bone	bone	German	German	Knochen	k.n.o.x.ə.n	k n o x ə n	stan1295	48.649	12.4676	Indo-European	604
+134	17_bone	bone	Latin	Latin	os	o.s.s	o s s	lati1261	41.9026	12.4502	Indo-European	605
+137	18_breast	breast	Albanian	Albanian	gji	ɟ.i.r	ɟ i r	gheg1238	42.317	21.3837	Indo-European	208
+138	18_breast	breast	English	English	breast	b.r.ɛ.s.t	b r ɛ s t	stan1293	53.0	-1.0	Indo-European	205
+139	18_breast	breast	French	French	sein	s.ɛ̃	s ɛ̃	stan1290	48.0	2.0	Indo-European	206
+140	18_breast	breast	German	German	Brust	b.r.u.s.t	b r u s t	stan1295	48.649	12.4676	Indo-European	205
+142	18_breast	breast	Latin	Latin	mamma	m.a.mː.a	m a mː a	lati1261	41.9026	12.4502	Indo-European	210
+145	19_breathe	breathe	Albanian	Albanian	marr frymë	f.r.y.m	f r y m	gheg1238	42.317	21.3837	Indo-European	755
+146	19_breathe	breathe	English	English	breathes	b.r.i.ð	b r i ð	stan1293	53.0	-1.0	Indo-European	753
+147	19_breathe	breathe	French	French	respire	r.ɛ.s.p.i.r.e	r ɛ s p i r e	stan1290	48.0	2.0	Indo-European	752
+148	19_breathe	breathe	German	German	atmet	aː.t.m	aː t m	stan1295	48.649	12.4676	Indo-European	751
+150	19_breathe	breathe	Latin	Latin	spirat	s.p.iː.r.aː	s p iː r aː	lati1261	41.9026	12.4502	Indo-European	752
+153	20_burn	burn	Albanian	Albanian	digjet	d.i.ɟ	d i ɟ	gheg1238	42.317	21.3837	Indo-European	516
+154	20_burn	burn	English	English	burns	b.ə.r.n	b ə r n	stan1293	53.0	-1.0	Indo-European	514
+155	20_burn	burn	French	French	brûle	b.r.y.l.e	b r y l e	stan1290	48.0	2.0	Indo-European	514
+156	20_burn	burn	German	German	brennt	b.r.e.n	b r e n	stan1295	48.649	12.4676	Indo-European	514
+158	20_burn	burn	Latin	Latin	ardet	aː.r.d.eː	aː r d eː	lati1261	41.9026	12.4502	Indo-European	518
+161	21_child	child	Albanian	Albanian	fëmiljë	f.ə.m.i.ʎ	f ə m i ʎ	gheg1238	42.317	21.3837	Indo-European	804
+162	21_child	child	English	English	child	ʧ.ai.l.d	tʃ ai l d	stan1293	53.0	-1.0	Indo-European	802
+163	21_child	child	French	French	enfant	ɑ̃.f.ɑ̃.t	ɑ̃ f ɑ̃ t	stan1290	48.0	2.0	Indo-European	801
+164	21_child	child	German	German	Kind	k.i.n.d	k i n d	stan1295	48.649	12.4676	Indo-European	800
+166	21_child	child	Latin	Latin	puer	p.u.e.r	p u e r	lati1261	41.9026	12.4502	Indo-European	806
+169	22_claw	claw	Albanian	Albanian	thua	θ.o.n	θ o n	gheg1238	42.317	21.3837	Indo-European	304
+170	22_claw	claw	English	English	claw	k.l.ɔ	k l ɔ	stan1293	53.0	-1.0	Indo-European	301
+171	22_claw	claw	French	French	griffe	g.r.i.f	g r i f	stan1290	48.0	2.0	Indo-European	302
+172	22_claw	claw	German	German	Klaue	k.l.au.ə	k l au ə	stan1295	48.649	12.4676	Indo-European	301
+174	22_claw	claw	Latin	Latin	unguis	u.n.gw.i	u n gʷ i	lati1261	41.9026	12.4502	Indo-European	306
+177	23_cloud	cloud	Albanian	Albanian	re	r.e	r e	gheg1238	42.317	21.3837	Indo-European	698
+178	23_cloud	cloud	English	English	cloud	k.l.au.d	k l au d	stan1293	53.0	-1.0	Indo-European	696
+179	23_cloud	cloud	French	French	nuage	n.ɥ.a.ʒ	n ɥ a ʒ	stan1290	48.0	2.0	Indo-European	695
+180	23_cloud	cloud	German	German	Wolke	v.o.l.k.ə	v o l k ə	stan1295	48.649	12.4676	Indo-European	694
+182	23_cloud	cloud	Latin	Latin	nubes	n.uː.b.eː	n uː b eː	lati1261	41.9026	12.4502	Indo-European	695
+185	24_cold	cold	Albanian	Albanian	ftohët	f.t.o.h.ə.t	f t o h ə t	gheg1238	42.317	21.3837	Indo-European	75
+186	24_cold	cold	English	English	cold	k.o.l.d	k o l d	stan1293	53.0	-1.0	Indo-European	72
+187	24_cold	cold	French	French	froid	f.r.w.a.d	f r w a d	stan1290	48.0	2.0	Indo-European	73
+188	24_cold	cold	German	German	kalt	k.a.l.t	k a l t	stan1295	48.649	12.4676	Indo-European	72
+190	24_cold	cold	Latin	Latin	frigidus	f.r.iː.g.i.d.o	f r iː g i d o	lati1261	41.9026	12.4502	Indo-European	73
+193	25_come	come	Albanian	Albanian	vjen	v.j.e.n	v j e n	gheg1238	42.317	21.3837	Indo-European	560
+194	25_come	come	English	English	comes	k.ə.m	k ə m	stan1293	53.0	-1.0	Indo-European	560
+195	25_come	come	French	French	vient	v.j.ɛ̃	v j ɛ̃	stan1290	48.0	2.0	Indo-European	560
+196	25_come	come	German	German	kommt	k.o.m	k o m	stan1295	48.649	12.4676	Indo-European	560
+198	25_come	come	Latin	Latin	venit	w.e.n.iː	w e n iː	lati1261	41.9026	12.4502	Indo-European	560
+201	26_count	count	Albanian	Albanian	numëron	n.u.m.ə.r.u.a.r	n u m ə r u a r	gheg1238	42.317	21.3837	Indo-European	164
+202	26_count	count	English	English	counts	k.au.n.t	k au n t	stan1293	53.0	-1.0	Indo-European	162
+203	26_count	count	French	French	compte	k.ɔ̃.t.e	k ɔ̃ t e	stan1290	48.0	2.0	Indo-European	162
+204	26_count	count	German	German	zählt	ʦ.eː.l	ts eː l	stan1295	48.649	12.4676	Indo-European	161
+206	26_count	count	Latin	Latin	numerat	n.u.m.e.r.aː	n u m e r aː	lati1261	41.9026	12.4502	Indo-European	164
+209	27_cut	cut	Albanian	Albanian	pres	p.r.e.s	p r e s	gheg1238	42.317	21.3837	Indo-European	88
+210	27_cut	cut	English	English	cuts	k.ə.t	k ə t	stan1293	53.0	-1.0	Indo-European	86
+211	27_cut	cut	French	French	coupe	k.u.p.e	k u p e	stan1290	48.0	2.0	Indo-European	85
+212	27_cut	cut	German	German	schneidet	ʃ.n.ai.d	ʃ n ai d	stan1295	48.649	12.4676	Indo-European	84
+214	27_cut	cut	Latin	Latin	secat	s.e.k.aː	s e k aː	lati1261	41.9026	12.4502	Indo-European	90
+217	28_day	day	Albanian	Albanian	ditë	d.i.t	d i t	gheg1238	42.317	21.3837	Indo-European	241
+218	28_day	day	English	English	day	d.e	d e	stan1293	53.0	-1.0	Indo-European	238
+219	28_day	day	French	French	jour	ʒ.u.r	ʒ u r	stan1290	48.0	2.0	Indo-European	239
+220	28_day	day	German	German	Tag	t.aː.g	t aː g	stan1295	48.649	12.4676	Indo-European	238
+222	28_day	day	Latin	Latin	dies	d.i.eː	d i eː	lati1261	41.9026	12.4502	Indo-European	239
+225	29_die	die	Albanian	Albanian	vdes	v.d.e.s	v d e s	gheg1238	42.317	21.3837	Indo-European	260
+226	29_die	die	English	English	dies	d.ai	d ai	stan1293	53.0	-1.0	Indo-European	258
+227	29_die	die	French	French	meurt	m.œ.r	m œ r	stan1290	48.0	2.0	Indo-European	257
+228	29_die	die	German	German	stirbt	ʃ.t.e.r.b	ʃ t e r b	stan1295	48.649	12.4676	Indo-European	256
+230	29_die	die	Latin	Latin	moritur	m.o.r.iː	m o r iː	lati1261	41.9026	12.4502	Indo-European	257
+233	30_dig	dig	Albanian	Albanian	gërmon	g.ə.r.m.o	g ə r m o	gheg1238	42.317	21.3837	Indo-European	543
+234	30_dig	dig	English	English	digs	d.ɪ.g	d ɪ g	stan1293	53.0	-1.0	Indo-European	541
+235	30_dig	dig	French	French	creuse	k.r.ø.z.e	k r ø z e	stan1290	48.0	2.0	Indo-European	540
+236	30_dig	dig	German	German	gräbt	g.r.aː.b	g r aː b	stan1295	48.649	12.4676	Indo-European	539
+238	30_dig	dig	Latin	Latin	fodit	f.o.d.e	f o d e	lati1261	41.9026	12.4502	Indo-European	545
+241	31_dirty	dirty	Albanian	Albanian	ndyrë	n.d.y.r	n d y r	gheg1238	42.317	21.3837	Indo-European	900
+242	31_dirty	dirty	English	English	dirty	d.ə.r.t.i	d ə r t i	stan1293	53.0	-1.0	Indo-European	898
+243	31_dirty	dirty	French	French	sale	s.a.l	s a l	stan1290	48.0	2.0	Indo-European	897
+244	31_dirty	dirty	German	German	schmutzig	ʃ.m.u.ʦ.i.x	ʃ m u ts i x	stan1295	48.649	12.4676	Indo-European	896
+246	31_dirty	dirty	Latin	Latin	sordidus	s.o.r.d.i.d.o	s o r d i d o	lati1261	41.9026	12.4502	Indo-European	902
+249	32_dog	dog	Albanian	Albanian	qen	c.e.n	c e n	gheg1238	42.317	21.3837	Indo-European	1181
+250	32_dog	dog	English	English	dog	d.ɑ.g	d ɑ g	stan1293	53.0	-1.0	Indo-European	1182
+251	32_dog	dog	French	French	chien	ʃ.j.ɛ.n	ʃ j ɛ n	stan1290	48.0	2.0	Indo-European	1181
+252	32_dog	dog	German	German	Hund	h.u.n.d	h u n d	stan1295	48.649	12.4676	Indo-European	1181
+254	32_dog	dog	Latin	Latin	canis	k.a.n.i	k a n i	lati1261	41.9026	12.4502	Indo-European	1181
+257	33_drink	drink	Albanian	Albanian	pi	p.i	p i	gheg1238	42.317	21.3837	Indo-European	1079
+258	33_drink	drink	English	English	drinks	d.r.ɪ.ŋ.k	d r ɪ ŋ k	stan1293	53.0	-1.0	Indo-European	1078
+259	33_drink	drink	French	French	bois	b.w.a	b w a	stan1290	48.0	2.0	Indo-European	1079
+260	33_drink	drink	German	German	trinkt	t.r.i.ŋ.k	t r i ŋ k	stan1295	48.649	12.4676	Indo-European	1078
+262	33_drink	drink	Latin	Latin	bibit	b.i.b.e	b i b e	lati1261	41.9026	12.4502	Indo-European	1079
+265	34_dry	dry	Albanian	Albanian	thatë	θ.a.t	θ a t	gheg1238	42.317	21.3837	Indo-European	575
+266	34_dry	dry	English	English	dry	d.r.ai	d r ai	stan1293	53.0	-1.0	Indo-European	572
+267	34_dry	dry	French	French	sec	s.ɛ.ʃ	s ɛ ʃ	stan1290	48.0	2.0	Indo-European	573
+268	34_dry	dry	German	German	trocken	t.r.o.k.ə.n	t r o k ə n	stan1295	48.649	12.4676	Indo-European	572
+270	34_dry	dry	Latin	Latin	siccus	s.i.kː.o	s i kː o	lati1261	41.9026	12.4502	Indo-European	573
+273	35_dull	dull	Albanian	Albanian	pa mprehtë	m.p.r.e.h.t	m p r e h t	gheg1238	42.317	21.3837	Indo-European	823
+274	35_dull	dull	English	English	dull	d.ə.l	d ə l	stan1293	53.0	-1.0	Indo-European	821
+275	35_dull	dull	French	French	émoussé	e.m.u.s.e	e m u s e	stan1290	48.0	2.0	Indo-European	820
+276	35_dull	dull	German	German	stumpf	ʃ.t.u.m.p͡f	ʃ t u m pf	stan1295	48.649	12.4676	Indo-European	819
+278	35_dull	dull	Latin	Latin	hebes	h.e.b.e.t	h e b e t	lati1261	41.9026	12.4502	Indo-European	825
+281	36_dust	dust	Albanian	Albanian	pluhur	p.l.u.h.u.r	p l u h u r	gheg1238	42.317	21.3837	Indo-European	1122
+282	36_dust	dust	English	English	dust	d.ə.s.t	d ə s t	stan1293	53.0	-1.0	Indo-European	1120
+283	36_dust	dust	French	French	poussière	p.u.s.j.ɛ.r	p u s j ɛ r	stan1290	48.0	2.0	Indo-European	1119
+284	36_dust	dust	German	German	Staub	ʃ.t.au.b	ʃ t au b	stan1295	48.649	12.4676	Indo-European	1118
+286	36_dust	dust	Latin	Latin	pulvis	p.u.l.w.i.s	p u l w i s	lati1261	41.9026	12.4502	Indo-European	1119
+289	37_ear	ear	Albanian	Albanian	vesh	v.e.ʃ	v e ʃ	gheg1238	42.317	21.3837	Indo-European	438
+290	37_ear	ear	English	English	ear	ɪ.r	ɪ r	stan1293	53.0	-1.0	Indo-European	438
+291	37_ear	ear	French	French	oreille	ɔ.r.ɛ.j	ɔ r ɛ j	stan1290	48.0	2.0	Indo-European	438
+292	37_ear	ear	German	German	Ohr	oː.r	oː r	stan1295	48.649	12.4676	Indo-European	438
+294	37_ear	ear	Latin	Latin	auris	au.r.i	au r i	lati1261	41.9026	12.4502	Indo-European	438
+297	38_earth	earth	Albanian	Albanian	dhe	ð.e.r	ð e r	gheg1238	42.317	21.3837	Indo-European	69
+298	38_earth	earth	English	English	earth	ə.r.θ	ə r θ	stan1293	53.0	-1.0	Indo-European	66
+299	38_earth	earth	French	French	terre	t.ɛ.r	t ɛ r	stan1290	48.0	2.0	Indo-European	67
+300	38_earth	earth	German	German	Erde	eː.r.d.ə	eː r d ə	stan1295	48.649	12.4676	Indo-European	66
+302	38_earth	earth	Latin	Latin	terra	t.e.rː.a	t e rː a	lati1261	41.9026	12.4502	Indo-European	67
+305	39_eat	eat	Albanian	Albanian	ha	h.a	h a	gheg1238	42.317	21.3837	Indo-European	119
+306	39_eat	eat	English	English	eats	i.t	i t	stan1293	53.0	-1.0	Indo-European	116
+307	39_eat	eat	French	French	mange	m.ɑ̃.ʒ.e	m ɑ̃ ʒ e	stan1290	48.0	2.0	Indo-European	117
+308	39_eat	eat	German	German	ißt	e.s	e s	stan1295	48.649	12.4676	Indo-European	116
+310	39_eat	eat	Latin	Latin	edit	e.d.e	e d e	lati1261	41.9026	12.4502	Indo-European	116
+313	40_egg	egg	Albanian	Albanian	vezë	v.e.z	v e z	gheg1238	42.317	21.3837	Indo-European	1222
+314	40_egg	egg	English	English	egg	ɛ.g	ɛ g	stan1293	53.0	-1.0	Indo-European	1222
+315	40_egg	egg	French	French	œuf	œ.f	œ f	stan1290	48.0	2.0	Indo-European	1222
+316	40_egg	egg	German	German	Ei	ai	ai	stan1295	48.649	12.4676	Indo-European	1222
+318	40_egg	egg	Latin	Latin	ovom	oː.w.o	oː w o	lati1261	41.9026	12.4502	Indo-European	1222
+321	41_eye	eye	Albanian	Albanian	sy	s.y.r	s y r	gheg1238	42.317	21.3837	Indo-European	708
+322	41_eye	eye	English	English	eye	ai	ai	stan1293	53.0	-1.0	Indo-European	706
+323	41_eye	eye	French	French	œil	œ.j	œ j	stan1290	48.0	2.0	Indo-European	706
+324	41_eye	eye	German	German	Auge	au.g.ə	au g ə	stan1295	48.649	12.4676	Indo-European	706
+326	41_eye	eye	Latin	Latin	oculus	o.k.u.l.o	o k u l o	lati1261	41.9026	12.4502	Indo-European	706
+329	42_fall	fall	Albanian	Albanian	bie	b.i.e	b i e	gheg1238	42.317	21.3837	Indo-European	223
+330	42_fall	fall	English	English	falls	f.ɔ.l	f ɔ l	stan1293	53.0	-1.0	Indo-European	220
+331	42_fall	fall	French	French	tombe	t.ɔ̃.b.e	t ɔ̃ b e	stan1290	48.0	2.0	Indo-European	221
+332	42_fall	fall	German	German	fällt	f.a.l	f a l	stan1295	48.649	12.4676	Indo-European	220
+334	42_fall	fall	Latin	Latin	cadit	k.a.d.e	k a d e	lati1261	41.9026	12.4502	Indo-European	225
+337	43_far	far	Albanian	Albanian	larg	l.a.r.g	l a r g	gheg1238	42.317	21.3837	Indo-European	191
+338	43_far	far	English	English	far	f.ɑ.r	f ɑ r	stan1293	53.0	-1.0	Indo-European	188
+339	43_far	far	French	French	loin	l.w.ɛ̃	l w ɛ̃	stan1290	48.0	2.0	Indo-European	189
+340	43_far	far	German	German	fern	f.e.r.n	f e r n	stan1295	48.649	12.4676	Indo-European	188
+342	43_far	far	Latin	Latin	procul	p.r.o.k.u.l	p r o k u l	lati1261	41.9026	12.4502	Indo-European	188
+345	44_father	father	Albanian	Albanian	babë	b.a.b.ə	b a b ə	gheg1238	42.317	21.3837	Indo-European	107
+346	44_father	father	English	English	father	f.ɑ.ð.ə.r	f ɑ ð ə r	stan1293	53.0	-1.0	Indo-European	106
+347	44_father	father	French	French	père	p.ɛ.r	p ɛ r	stan1290	48.0	2.0	Indo-European	106
+348	44_father	father	German	German	Vater	f.aː.t.ə.r	f aː t ə r	stan1295	48.649	12.4676	Indo-European	106
+350	44_father	father	Latin	Latin	pater	p.a.t.r	p a t r	lati1261	41.9026	12.4502	Indo-European	106
+353	45_feather	feather	Albanian	Albanian	pendë	p.e.n.d	p e n d	gheg1238	42.317	21.3837	Indo-European	748
+354	45_feather	feather	English	English	feather	f.ɛ.ð.ə.r	f ɛ ð ə r	stan1293	53.0	-1.0	Indo-European	745
+355	45_feather	feather	French	French	plume	p.l.y.m	p l y m	stan1290	48.0	2.0	Indo-European	746
+356	45_feather	feather	German	German	Feder	f.eː.d.ə.r	f eː d ə r	stan1295	48.649	12.4676	Indo-European	745
+358	45_feather	feather	Latin	Latin	penna	p.e.nː.a	p e nː a	lati1261	41.9026	12.4502	Indo-European	745
+361	46_few	few	Albanian	Albanian	pak	p.a.k	p a k	gheg1238	42.317	21.3837	Indo-European	741
+362	46_few	few	English	English	few	f.j.u	f j u	stan1293	53.0	-1.0	Indo-European	741
+363	46_few	few	French	French	peu de	p.ø	p ø	stan1290	48.0	2.0	Indo-European	741
+364	46_few	few	German	German	wenige	v.eː.n.i.g	v eː n i g	stan1295	48.649	12.4676	Indo-European	740
+366	46_few	few	Latin	Latin	pauci	p.au.k.o	p au k o	lati1261	41.9026	12.4502	Indo-European	741
+369	47_fight	fight	Albanian	Albanian	lufton	l.u.f.t.o	l u f t o	gheg1238	42.317	21.3837	Indo-European	736
+370	47_fight	fight	English	English	fights	f.ai.t	f ai t	stan1293	53.0	-1.0	Indo-European	734
+371	47_fight	fight	French	French	bat	b.a.t	b a t	stan1290	48.0	2.0	Indo-European	733
+372	47_fight	fight	German	German	kämpft	k.a.m.p͡f	k a m pf	stan1295	48.649	12.4676	Indo-European	732
+374	47_fight	fight	Latin	Latin	pugnat	p.u.g.n.aː	p u g n aː	lati1261	41.9026	12.4502	Indo-European	738
+377	48_fire	fire	Albanian	Albanian	zjarr	z.j.a.rː	z j a rː	gheg1238	42.317	21.3837	Indo-European	782
+378	48_fire	fire	English	English	fire	f.ai.ə.r	f ai ə r	stan1293	53.0	-1.0	Indo-European	779
+379	48_fire	fire	French	French	feu	f.ø	f ø	stan1290	48.0	2.0	Indo-European	780
+380	48_fire	fire	German	German	Feuer	f.oi.ə.r	f oi ə r	stan1295	48.649	12.4676	Indo-European	779
+382	48_fire	fire	Latin	Latin	ignis	i.g.n.i	i g n i	lati1261	41.9026	12.4502	Indo-European	784
+385	49_fish	fish	Albanian	Albanian	peshk	p.e.ʃ.k	p e ʃ k	gheg1238	42.317	21.3837	Indo-European	353
+386	49_fish	fish	English	English	fish	f.ɪ.ʃ	f ɪ ʃ	stan1293	53.0	-1.0	Indo-European	353
+387	49_fish	fish	French	French	poisson	p.w.a.s.ɔ̃	p w a s ɔ̃	stan1290	48.0	2.0	Indo-European	353
+388	49_fish	fish	German	German	Fisch	f.i.ʃ	f i ʃ	stan1295	48.649	12.4676	Indo-European	353
+390	49_fish	fish	Latin	Latin	piscis	p.i.s.k.i	p i s k i	lati1261	41.9026	12.4502	Indo-European	353
+393	50_five	five	Albanian	Albanian	pesë	p.e.s.ə	p e s ə	gheg1238	42.317	21.3837	Indo-European	201
+394	50_five	five	English	English	five	f.ai.v	f ai v	stan1293	53.0	-1.0	Indo-European	201
+395	50_five	five	French	French	cinq	s.ɛ̃.k	s ɛ̃ k	stan1290	48.0	2.0	Indo-European	201
+396	50_five	five	German	German	fünf	f.y.n.f	f y n f	stan1295	48.649	12.4676	Indo-European	201
+398	50_five	five	Latin	Latin	quinque	kw.iː.n.kw.e	kʷ iː n kʷ e	lati1261	41.9026	12.4502	Indo-European	201
+401	51_flow	flow	Albanian	Albanian	rrjedh	rː.e.ð	rː e ð	gheg1238	42.317	21.3837	Indo-European	1177
+402	51_flow	flow	English	English	flows	f.l.o	f l o	stan1293	53.0	-1.0	Indo-European	1174
+403	51_flow	flow	French	French	coule	k.u.l.e	k u l e	stan1290	48.0	2.0	Indo-European	1175
+404	51_flow	flow	German	German	fließt	f.l.iː.s	f l iː s	stan1295	48.649	12.4676	Indo-European	1174
+406	51_flow	flow	Latin	Latin	fluit	f.l.u.e	f l u e	lati1261	41.9026	12.4502	Indo-European	1179
+409	52_flower	flower	Albanian	Albanian	lule	l.u.l	l u l	gheg1238	42.317	21.3837	Indo-European	423
+410	52_flower	flower	English	English	flower	f.l.au.ə.r	f l au ə r	stan1293	53.0	-1.0	Indo-European	421
+411	52_flower	flower	French	French	fleur	f.l.œ.r	f l œ r	stan1290	48.0	2.0	Indo-European	421
+412	52_flower	flower	German	German	Blume	b.l.uː.m	b l uː m	stan1295	48.649	12.4676	Indo-European	421
+414	52_flower	flower	Latin	Latin	flos	f.l.oː.s	f l oː s	lati1261	41.9026	12.4502	Indo-European	421
+417	53_fly	fly	Albanian	Albanian	fluturon	f.l.u.t.u.r.o	f l u t u r o	gheg1238	42.317	21.3837	Indo-European	844
+418	53_fly	fly	English	English	flies	f.l.ai	f l ai	stan1293	53.0	-1.0	Indo-European	841
+419	53_fly	fly	French	French	vole	v.ɔ.l.e	v ɔ l e	stan1290	48.0	2.0	Indo-European	842
+420	53_fly	fly	German	German	fliegt	f.l.iː.g	f l iː g	stan1295	48.649	12.4676	Indo-European	841
+422	53_fly	fly	Latin	Latin	volat	w.o.l.aː	w o l aː	lati1261	41.9026	12.4502	Indo-European	842
+425	54_fog	fog	Albanian	Albanian	mjegull	m.j.e.g.u.ł	m j e g u ł	gheg1238	42.317	21.3837	Indo-European	470
+426	54_fog	fog	English	English	fog	f.ɑ.g	f ɑ g	stan1293	53.0	-1.0	Indo-European	468
+427	54_fog	fog	French	French	brouillard	b.r.u.j.a.r	b r u j a r	stan1290	48.0	2.0	Indo-European	467
+428	54_fog	fog	German	German	Nebel	n.eː.b.ə.l	n eː b ə l	stan1295	48.649	12.4676	Indo-European	466
+430	54_fog	fog	Latin	Latin	nebula	n.e.b.u.l.a	n e b u l a	lati1261	41.9026	12.4502	Indo-European	466
+433	55_foot	foot	Albanian	Albanian	këmbë	k.ə.m.b	k ə m b	gheg1238	42.317	21.3837	Indo-European	229
+434	55_foot	foot	English	English	foot	f.ʊ.t	f ʊ t	stan1293	53.0	-1.0	Indo-European	227
+435	55_foot	foot	French	French	pied	p.j.e	p j e	stan1290	48.0	2.0	Indo-European	227
+436	55_foot	foot	German	German	Fuß	f.uː.s	f uː s	stan1295	48.649	12.4676	Indo-European	227
+438	55_foot	foot	Latin	Latin	pes	p.e.d	p e d	lati1261	41.9026	12.4502	Indo-European	227
+441	56_four	four	Albanian	Albanian	katër	k.a.t.ə.r	k a t ə r	gheg1238	42.317	21.3837	Indo-European	20
+442	56_four	four	English	English	four	f.ɔ.r	f ɔ r	stan1293	53.0	-1.0	Indo-European	20
+443	56_four	four	French	French	quatre	k.a.t.r	k a t r	stan1290	48.0	2.0	Indo-European	20
+444	56_four	four	German	German	vier	f.iː.r	f iː r	stan1295	48.649	12.4676	Indo-European	20
+446	56_four	four	Latin	Latin	quattuor	kw.a.tː.u.o.r	kʷ a tː u o r	lati1261	41.9026	12.4502	Indo-European	20
+449	57_freeze	freeze	Albanian	Albanian	ngrin	n.g.r.i	n g r i	gheg1238	42.317	21.3837	Indo-European	376
+450	57_freeze	freeze	English	English	freezes	f.r.i.z	f r i z	stan1293	53.0	-1.0	Indo-European	373
+451	57_freeze	freeze	French	French	gèle	ʒ.ɛ.l.e	ʒ ɛ l e	stan1290	48.0	2.0	Indo-European	374
+452	57_freeze	freeze	German	German	friert	f.r.iː.r	f r iː r	stan1295	48.649	12.4676	Indo-European	373
+454	57_freeze	freeze	Latin	Latin	gelat	g.e.l.aː	g e l aː	lati1261	41.9026	12.4502	Indo-European	374
+457	58_fruit	fruit	Albanian	Albanian	pemë	p.e.m	p e m	gheg1238	42.317	21.3837	Indo-European	1102
+458	58_fruit	fruit	English	English	fruit	f.r.u.t	f r u t	stan1293	53.0	-1.0	Indo-European	1100
+459	58_fruit	fruit	French	French	fruit	f.r.ɥ.i	f r ɥ i	stan1290	48.0	2.0	Indo-European	1100
+460	58_fruit	fruit	German	German	Frucht	f.r.u.x.t	f r u x t	stan1295	48.649	12.4676	Indo-European	1100
+462	58_fruit	fruit	Latin	Latin	pomum	p.oː.m.o	p oː m o	lati1261	41.9026	12.4502	Indo-European	1102
+465	59_full	full	Albanian	Albanian	plotë	p.l.o.t	p l o t	gheg1238	42.317	21.3837	Indo-European	503
+466	59_full	full	English	English	full	f.ʊ.l	f ʊ l	stan1293	53.0	-1.0	Indo-European	503
+467	59_full	full	French	French	plein	p.l.ɛ.n	p l ɛ n	stan1290	48.0	2.0	Indo-European	503
+468	59_full	full	German	German	voll	f.o.l	f o l	stan1295	48.649	12.4676	Indo-European	503
+470	59_full	full	Latin	Latin	plenus	p.l.eː.n.o	p l eː n o	lati1261	41.9026	12.4502	Indo-European	503
+473	60_give	give	Albanian	Albanian	jep	j.e.p	j e p	gheg1238	42.317	21.3837	Indo-European	936
+474	60_give	give	English	English	gives	g.ɪ.v	g ɪ v	stan1293	53.0	-1.0	Indo-European	933
+475	60_give	give	French	French	donne	d.ɔ.n.e	d ɔ n e	stan1290	48.0	2.0	Indo-European	934
+476	60_give	give	German	German	gibt	g.eː.b	g eː b	stan1295	48.649	12.4676	Indo-European	933
+478	60_give	give	Latin	Latin	dat	d.a	d a	lati1261	41.9026	12.4502	Indo-European	934
+481	61_go	go	Albanian	Albanian	shkon	ʃ.k.o	ʃ k o	gheg1238	42.317	21.3837	Indo-European	62
+482	61_go	go	English	English	goes	g.o	g o	stan1293	53.0	-1.0	Indo-European	59
+483	61_go	go	French	French	va	v	v	stan1290	48.0	2.0	Indo-European	60
+484	61_go	go	German	German	geht	g.eː	g eː	stan1295	48.649	12.4676	Indo-European	59
+486	61_go	go	Latin	Latin	it	iː	iː	lati1261	41.9026	12.4502	Indo-European	64
+489	62_good	good	Albanian	Albanian	mirë	m.i.r	m i r	gheg1238	42.317	21.3837	Indo-European	170
+490	62_good	good	English	English	good	g.ʊ.d	g ʊ d	stan1293	53.0	-1.0	Indo-European	167
+491	62_good	good	French	French	bon	b.ɔ.n	b ɔ n	stan1290	48.0	2.0	Indo-European	168
+492	62_good	good	German	German	gut	g.uː.t	g uː t	stan1295	48.649	12.4676	Indo-European	167
+494	62_good	good	Latin	Latin	bonus	b.o.n.o	b o n o	lati1261	41.9026	12.4502	Indo-European	168
+497	63_grass	grass	Albanian	Albanian	bar	b.a.r	b a r	gheg1238	42.317	21.3837	Indo-European	907
+498	63_grass	grass	English	English	grass	g.r.a.s	g r a s	stan1293	53.0	-1.0	Indo-European	904
+499	63_grass	grass	French	French	herbe	ɛ.r.b	ɛ r b	stan1290	48.0	2.0	Indo-European	905
+500	63_grass	grass	German	German	Gras	g.r.aː.z	g r aː z	stan1295	48.649	12.4676	Indo-European	904
+502	63_grass	grass	Latin	Latin	gramen	g.r.aː.m.e.n	g r aː m e n	lati1261	41.9026	12.4502	Indo-European	909
+505	64_grease	grease	Albanian	Albanian	dhjamë	ð.j.a.m	ð j a m	gheg1238	42.317	21.3837	Indo-European	393
+506	64_grease	grease	English	English	grease	g.r.i.s	g r i s	stan1293	53.0	-1.0	Indo-European	391
+507	64_grease	grease	French	French	graisse	g.r.ɛ.s	g r ɛ s	stan1290	48.0	2.0	Indo-European	391
+508	64_grease	grease	German	German	Fett	f.e.t	f e t	stan1295	48.649	12.4676	Indo-European	390
+510	64_grease	grease	Latin	Latin	adeps	a.d.e.p	a d e p	lati1261	41.9026	12.4502	Indo-European	395
+513	65_green	green	Albanian	Albanian	gjelbër	ɟ.e.l.b.ə.r	ɟ e l b ə r	gheg1238	42.317	21.3837	Indo-European	1194
+514	65_green	green	English	English	green	g.r.i.n	g r i n	stan1293	53.0	-1.0	Indo-European	1191
+515	65_green	green	French	French	vert	v.ɛ.r.t	v ɛ r t	stan1290	48.0	2.0	Indo-European	1192
+516	65_green	green	German	German	grün	g.r.yː.n	g r yː n	stan1295	48.649	12.4676	Indo-European	1191
+518	65_green	green	Latin	Latin	viridis	w.i.r.i.d.i	w i r i d i	lati1261	41.9026	12.4502	Indo-European	1192
+521	66_guts	guts	Albanian	Albanian	zorrë	z.o.rː	z o rː	gheg1238	42.317	21.3837	Indo-European	103
+522	66_guts	guts	English	English	guts	g.ə.t	g ə t	stan1293	53.0	-1.0	Indo-European	101
+523	66_guts	guts	French	French	intestins	ɛ̃.t.ɛ.s.t.ɛ̃	ɛ̃ t ɛ s t ɛ̃	stan1290	48.0	2.0	Indo-European	100
+524	66_guts	guts	German	German	Därme	d.a.r.m	d a r m	stan1295	48.649	12.4676	Indo-European	99
+526	66_guts	guts	Latin	Latin	intestina	i.n.t.e.s.t.iː.n.o	i n t e s t iː n o	lati1261	41.9026	12.4502	Indo-European	100
+529	67_hair	hair	Albanian	Albanian	flok	f.l.o.k	f l o k	gheg1238	42.317	21.3837	Indo-European	382
+530	67_hair	hair	English	English	hair	h.ɛ.r	h ɛ r	stan1293	53.0	-1.0	Indo-European	379
+531	67_hair	hair	French	French	cheveux	ʃ.ə.v.ø	ʃ ə v ø	stan1290	48.0	2.0	Indo-European	380
+532	67_hair	hair	German	German	Haare	h.aː.r	h aː r	stan1295	48.649	12.4676	Indo-European	379
+534	67_hair	hair	Latin	Latin	capillus	k.a.p.i.lː.o	k a p i lː o	lati1261	41.9026	12.4502	Indo-European	380
+537	68_hand	hand	Albanian	Albanian	dorë	d.o.r	d o r	gheg1238	42.317	21.3837	Indo-European	1097
+538	68_hand	hand	English	English	hand	h.a.n.d	h a n d	stan1293	53.0	-1.0	Indo-European	1094
+539	68_hand	hand	French	French	main	m.ɛ̃	m ɛ̃	stan1290	48.0	2.0	Indo-European	1095
+540	68_hand	hand	German	German	Hand	h.a.n.d	h a n d	stan1295	48.649	12.4676	Indo-European	1094
+542	68_hand	hand	Latin	Latin	manus	m.a.n.u	m a n u	lati1261	41.9026	12.4502	Indo-European	1095
+545	69_he	he	Albanian	Albanian	ai	a.i	a i	gheg1238	42.317	21.3837	Indo-European	837
+546	69_he	he	English	English	he	h.i	h i	stan1293	53.0	-1.0	Indo-European	835
+547	69_he	he	French	French	il	i.l	i l	stan1290	48.0	2.0	Indo-European	834
+548	69_he	he	German	German	er	eː.r	eː r	stan1295	48.649	12.4676	Indo-European	833
+550	69_he	he	Latin	Latin	is	i	i	lati1261	41.9026	12.4502	Indo-European	839
+553	70_head	head	Albanian	Albanian	kokë	k.o.k	k o k	gheg1238	42.317	21.3837	Indo-European	762
+554	70_head	head	English	English	head	h.ɛ.d	h ɛ d	stan1293	53.0	-1.0	Indo-European	760
+555	70_head	head	French	French	tête	t.ɛ.t	t ɛ t	stan1290	48.0	2.0	Indo-European	759
+556	70_head	head	German	German	Kopf	k.o.p͡f	k o pf	stan1295	48.649	12.4676	Indo-European	758
+558	70_head	head	Latin	Latin	caput	k.a.p.u.t	k a p u t	lati1261	41.9026	12.4502	Indo-European	760
+561	71_hear	hear	Albanian	Albanian	dëgjon	d.ə.ɟ.o	d ə ɟ o	gheg1238	42.317	21.3837	Indo-European	789
+562	71_hear	hear	English	English	hears	h.ɪ.r	h ɪ r	stan1293	53.0	-1.0	Indo-European	786
+563	71_hear	hear	French	French	entend	ɑ̃.t.ɑ̃.d	ɑ̃ t ɑ̃ d	stan1290	48.0	2.0	Indo-European	787
+564	71_hear	hear	German	German	hört	h.øː.r	h øː r	stan1295	48.649	12.4676	Indo-European	786
+566	71_hear	hear	Latin	Latin	audit	au.d.iː	au d iː	lati1261	41.9026	12.4502	Indo-European	791
+569	72_heart	heart	Albanian	Albanian	zemër	z.e.m.ə.r	z e m ə r	gheg1238	42.317	21.3837	Indo-European	922
+570	72_heart	heart	English	English	heart	h.ɑ.r.t	h ɑ r t	stan1293	53.0	-1.0	Indo-European	920
+571	72_heart	heart	French	French	cœur	k.œ.r	k œ r	stan1290	48.0	2.0	Indo-European	920
+572	72_heart	heart	German	German	Herz	h.e.r.ʦ.ə.n	h e r ts ə n	stan1295	48.649	12.4676	Indo-European	920
+574	72_heart	heart	Latin	Latin	cor	k.o.r.d	k o r d	lati1261	41.9026	12.4502	Indo-European	920
+577	73_heavy	heavy	Albanian	Albanian	rëndë	r.ə.n.d	r ə n d	gheg1238	42.317	21.3837	Indo-European	331
+578	73_heavy	heavy	English	English	heavy	h.ɛ.v.i	h ɛ v i	stan1293	53.0	-1.0	Indo-European	329
+579	73_heavy	heavy	French	French	lourd	l.u.r.d	l u r d	stan1290	48.0	2.0	Indo-European	328
+580	73_heavy	heavy	German	German	schwer	ʃ.v.eː.r	ʃ v eː r	stan1295	48.649	12.4676	Indo-European	327
+582	73_heavy	heavy	Latin	Latin	gravis	g.r.a.w.i	g r a w i	lati1261	41.9026	12.4502	Indo-European	333
+585	74_here	here	Albanian	Albanian	këtu	k.ə.t.u	k ə t u	gheg1238	42.317	21.3837	Indo-European	523
+586	74_here	here	English	English	here	h.ɪ.r	h ɪ r	stan1293	53.0	-1.0	Indo-European	520
+587	74_here	here	French	French	ici	i.s.i	i s i	stan1290	48.0	2.0	Indo-European	521
+588	74_here	here	German	German	hier	h.iː.r	h iː r	stan1295	48.649	12.4676	Indo-European	520
+590	74_here	here	Latin	Latin	hic	h.iː.k	h iː k	lati1261	41.9026	12.4502	Indo-European	525
+593	75_hit	hit	Albanian	Albanian	qëllon	c.ə.ł.o	c ə ł o	gheg1238	42.317	21.3837	Indo-European	177
+594	75_hit	hit	English	English	hits	h.ɪ.t	h ɪ t	stan1293	53.0	-1.0	Indo-European	175
+595	75_hit	hit	French	French	frappe	f.r.a.p.e	f r a p e	stan1290	48.0	2.0	Indo-European	174
+596	75_hit	hit	German	German	schlägt	ʃ.l.aː.g	ʃ l aː g	stan1295	48.649	12.4676	Indo-European	173
+598	75_hit	hit	Latin	Latin	ferit	f.e.r.iː	f e r iː	lati1261	41.9026	12.4502	Indo-European	179
+601	76_hold	hold	Albanian	Albanian	mban	m.b.a	m b a	gheg1238	42.317	21.3837	Indo-European	811
+602	76_hold	hold	English	English	holds	h.o.l.d	h o l d	stan1293	53.0	-1.0	Indo-European	808
+603	76_hold	hold	French	French	tient	t.ə.n	t ə n	stan1290	48.0	2.0	Indo-European	809
+604	76_hold	hold	German	German	hält	h.a.l.t	h a l t	stan1295	48.649	12.4676	Indo-European	808
+606	76_hold	hold	Latin	Latin	tenet	t.e.n.eː	t e n eː	lati1261	41.9026	12.4502	Indo-European	809
+609	77_horn	horn	Albanian	Albanian	bri	b.r.i.r	b r i r	gheg1238	42.317	21.3837	Indo-European	1085
+610	77_horn	horn	English	English	horn	h.ɔ.r.n	h ɔ r n	stan1293	53.0	-1.0	Indo-European	1083
+611	77_horn	horn	French	French	corne	k.ɔ.r.n	k ɔ r n	stan1290	48.0	2.0	Indo-European	1083
+612	77_horn	horn	German	German	Horn	h.o.r.n	h o r n	stan1295	48.649	12.4676	Indo-European	1083
+614	77_horn	horn	Latin	Latin	cornu	k.o.r.n.uː	k o r n uː	lati1261	41.9026	12.4502	Indo-European	1083
+617	78_hot	hot	Albanian	Albanian	nxehtë	n.ʣ.e.h.t	n dz e h t	gheg1238	42.317	21.3837	Indo-European	999
+618	78_hot	hot	English	English	hot	h.ɑ.t	h ɑ t	stan1293	53.0	-1.0	Indo-European	996
+619	78_hot	hot	French	French	chaud	ʃ.o.d	ʃ o d	stan1290	48.0	2.0	Indo-European	997
+620	78_hot	hot	German	German	heiß	h.ai.s	h ai s	stan1295	48.649	12.4676	Indo-European	996
+622	78_hot	hot	Latin	Latin	calidus	k.a.l.i.d.o	k a l i d o	lati1261	41.9026	12.4502	Indo-European	997
+625	79_human	human	Albanian	Albanian	njerí	ɲ.e.r.i	ɲ e r i	gheg1238	42.317	21.3837	Indo-European	49
+626	79_human	human	English	English	human	h.j.u.m.ə.n	h j u m ə n	stan1293	53.0	-1.0	Indo-European	47
+627	79_human	human	French	French	humain	y.m.ɛ.n	y m ɛ n	stan1290	48.0	2.0	Indo-European	47
+628	79_human	human	German	German	Mensch	m.e.n.ʃ.ə.n	m e n ʃ ə n	stan1295	48.649	12.4676	Indo-European	46
+630	79_human	human	Latin	Latin	homo	h.o.m.i.n	h o m i n	lati1261	41.9026	12.4502	Indo-European	47
+633	80_hunt	hunt	Albanian	Albanian	gjuan	ɟ.u.a	ɟ u a	gheg1238	42.317	21.3837	Indo-European	267
+634	80_hunt	hunt	English	English	hunts	h.ə.n.t	h ə n t	stan1293	53.0	-1.0	Indo-European	265
+635	80_hunt	hunt	French	French	chasse	ʃ.a.s.e	ʃ a s e	stan1290	48.0	2.0	Indo-European	264
+636	80_hunt	hunt	German	German	jagt	j.aː.g	j aː g	stan1295	48.649	12.4676	Indo-European	263
+638	80_hunt	hunt	Latin	Latin	venatur	w.eː.n.aː	w eː n aː	lati1261	41.9026	12.4502	Indo-European	269
+641	81_husband	husband	Albanian	Albanian	burrë	b.u.rː	b u rː	gheg1238	42.317	21.3837	Indo-European	324
+642	81_husband	husband	English	English	husband	h.ə.z.b.ə.n.d	h ə z b ə n d	stan1293	53.0	-1.0	Indo-European	322
+643	81_husband	husband	French	French	mari	m.a.r.i	m a r i	stan1290	48.0	2.0	Indo-European	321
+644	81_husband	husband	German	German	Gatte	g.a.t.ə	g a t ə	stan1295	48.649	12.4676	Indo-European	320
+646	81_husband	husband	Latin	Latin	maritus	m.a.r.iː.t.o	m a r iː t o	lati1261	41.9026	12.4502	Indo-European	321
+657	83_ice	ice	Albanian	Albanian	akull	a.k.u.ł	a k u ł	gheg1238	42.317	21.3837	Indo-European	451
+658	83_ice	ice	English	English	ice	ai.s	ai s	stan1293	53.0	-1.0	Indo-European	448
+659	83_ice	ice	French	French	glace	g.l.a.s	g l a s	stan1290	48.0	2.0	Indo-European	449
+660	83_ice	ice	German	German	Eis	ai.s	ai s	stan1295	48.649	12.4676	Indo-European	448
+662	83_ice	ice	Latin	Latin	glacies	g.l.a.k.i.eː	g l a k i eː	lati1261	41.9026	12.4502	Indo-European	449
+665	84_if	if	Albanian	Albanian	në qoftë se	c.o.f.t	c o f t	gheg1238	42.317	21.3837	Indo-European	972
+666	84_if	if	English	English	if	ɪ.f	ɪ f	stan1293	53.0	-1.0	Indo-European	970
+667	84_if	if	French	French	si	s.i	s i	stan1290	48.0	2.0	Indo-European	969
+668	84_if	if	German	German	wenn	v.e.n	v e n	stan1295	48.649	12.4676	Indo-European	968
+670	84_if	if	Latin	Latin	si	s.iː	s iː	lati1261	41.9026	12.4502	Indo-European	969
+673	85_in	in	Albanian	Albanian	në	n.ə	n ə	gheg1238	42.317	21.3837	Indo-European	957
+674	85_in	in	English	English	in	ɪ.n	ɪ n	stan1293	53.0	-1.0	Indo-European	957
+675	85_in	in	French	French	dans	d.ɑ̃	d ɑ̃	stan1290	48.0	2.0	Indo-European	957
+676	85_in	in	German	German	in	i.n	i n	stan1295	48.649	12.4676	Indo-European	957
+678	85_in	in	Latin	Latin	in	i.n	i n	lati1261	41.9026	12.4502	Indo-European	957
+681	86_kill	kill	Albanian	Albanian	vret	v.r	v r	gheg1238	42.317	21.3837	Indo-European	42
+682	86_kill	kill	English	English	kills	k.ɪ.l	k ɪ l	stan1293	53.0	-1.0	Indo-European	40
+683	86_kill	kill	French	French	tue	t.y.e	t y e	stan1290	48.0	2.0	Indo-European	39
+684	86_kill	kill	German	German	tötet	t.øː.t	t øː t	stan1295	48.649	12.4676	Indo-European	38
+686	86_kill	kill	Latin	Latin	interficit	i.n.t.e.r.f.i.k.e	i n t e r f i k e	lati1261	41.9026	12.4502	Indo-European	44
+689	87_knee	knee	Albanian	Albanian	gju	ɟ.u.r	ɟ u r	gheg1238	42.317	21.3837	Indo-European	1127
+690	87_knee	knee	English	English	knee	n.i	n i	stan1293	53.0	-1.0	Indo-European	1125
+691	87_knee	knee	French	French	genou	ʒ.ə.n.u	ʒ ə n u	stan1290	48.0	2.0	Indo-European	1125
+692	87_knee	knee	German	German	Knie	k.n.iː	k n iː	stan1295	48.649	12.4676	Indo-European	1125
+694	87_knee	knee	Latin	Latin	genu	g.e.n.uː	g e n uː	lati1261	41.9026	12.4502	Indo-European	1125
+697	88_knife	knife	Albanian	Albanian	thikë	θ.i.k	θ i k	gheg1238	42.317	21.3837	Indo-European	489
+698	88_knife	knife	English	English	knife	n.ai.f	n ai f	stan1293	53.0	-1.0	Indo-European	487
+699	88_knife	knife	French	French	couteau	k.u.t.o	k u t o	stan1290	48.0	2.0	Indo-European	486
+700	88_knife	knife	German	German	Messer	m.e.s.ə.r	m e s ə r	stan1295	48.649	12.4676	Indo-European	485
+702	88_knife	knife	Latin	Latin	culter	k.u.l.t.r.o	k u l t r o	lati1261	41.9026	12.4502	Indo-European	486
+705	89_know	know	Albanian	Albanian	di	d.i	d i	gheg1238	42.317	21.3837	Indo-European	1242
+706	89_know	know	English	English	knows	n.o	n o	stan1293	53.0	-1.0	Indo-European	1240
+707	89_know	know	French	French	sait	s.a	s a	stan1290	48.0	2.0	Indo-European	1239
+708	89_know	know	German	German	weiß	v.i.s	v i s	stan1295	48.649	12.4676	Indo-European	1238
+710	89_know	know	Latin	Latin	scit	s.k.iː	s k iː	lati1261	41.9026	12.4502	Indo-European	1244
+713	90_lake	lake	Albanian	Albanian	liqen	l.i.c.e.n	l i c e n	gheg1238	42.317	21.3837	Indo-European	113
+714	90_lake	lake	English	English	lake	l.e.k	l e k	stan1293	53.0	-1.0	Indo-European	111
+715	90_lake	lake	French	French	lac	l.a.k	l a k	stan1290	48.0	2.0	Indo-European	111
+716	90_lake	lake	German	German	See	z.eː	z eː	stan1295	48.649	12.4676	Indo-European	110
+718	90_lake	lake	Latin	Latin	lacus	l.a.k.u	l a k u	lati1261	41.9026	12.4502	Indo-European	111
+721	91_laugh	laugh	Albanian	Albanian	qesh	c.e.ʃ	c e ʃ	gheg1238	42.317	21.3837	Indo-European	679
+722	91_laugh	laugh	English	English	laughs	l.a.f	l a f	stan1293	53.0	-1.0	Indo-European	676
+723	91_laugh	laugh	French	French	rit	r.i	r i	stan1290	48.0	2.0	Indo-European	677
+724	91_laugh	laugh	German	German	lacht	l.a.x	l a x	stan1295	48.649	12.4676	Indo-European	676
+726	91_laugh	laugh	Latin	Latin	ridet	r.iː.d.eː	r iː d eː	lati1261	41.9026	12.4502	Indo-European	677
+729	92_leaf	leaf	Albanian	Albanian	gjethe	ɟ.e.θ	ɟ e θ	gheg1238	42.317	21.3837	Indo-European	430
+730	92_leaf	leaf	English	English	leaf	l.i.f	l i f	stan1293	53.0	-1.0	Indo-European	428
+731	92_leaf	leaf	French	French	feuille	f.œ.j	f œ j	stan1290	48.0	2.0	Indo-European	427
+732	92_leaf	leaf	German	German	Blatt	b.l.a.t	b l a t	stan1295	48.649	12.4676	Indo-European	426
+734	92_leaf	leaf	Latin	Latin	folium	f.o.l.i.o	f o l i o	lati1261	41.9026	12.4502	Indo-European	427
+737	93_left	left	Albanian	Albanian	majtë	m.a.j.t	m a j t	gheg1238	42.317	21.3837	Indo-European	1218
+738	93_left	left	English	English	left	l.ɛ.f.t	l ɛ f t	stan1293	53.0	-1.0	Indo-European	1216
+739	93_left	left	French	French	gauche	g.o.ʃ	g o ʃ	stan1290	48.0	2.0	Indo-European	1215
+740	93_left	left	German	German	link	l.i.ŋ.k	l i ŋ k	stan1295	48.649	12.4676	Indo-European	1214
+742	93_left	left	Latin	Latin	sinister	s.i.n.i.s.t.r.o	s i n i s t r o	lati1261	41.9026	12.4502	Indo-European	1220
+745	94_lie	lie	Albanian	Albanian	(rri) shtrirë	ʃ.t.r.i.r	ʃ t r i r	gheg1238	42.317	21.3837	Indo-European	978
+746	94_lie	lie	English	English	lies	l.ai	l ai	stan1293	53.0	-1.0	Indo-European	975
+747	94_lie	lie	French	French	(est) allongé	a.l.ɔ̃.ʒ.e	a l ɔ̃ ʒ e	stan1290	48.0	2.0	Indo-European	976
+748	94_lie	lie	German	German	liegt	l.iː.g	l iː g	stan1295	48.649	12.4676	Indo-European	975
+750	94_lie	lie	Latin	Latin	iacet	j.a.k.eː	j a k eː	lati1261	41.9026	12.4502	Indo-European	980
+753	95_liver	liver	Albanian	Albanian	mëlçi	m.ə.l.ʧ.i	m ə l tʃ i	gheg1238	42.317	21.3837	Indo-European	796
+754	95_liver	liver	English	English	liver	l.ɪ.v.ə.r	l ɪ v ə r	stan1293	53.0	-1.0	Indo-European	793
+755	95_liver	liver	French	French	foie	f.w.a	f w a	stan1290	48.0	2.0	Indo-European	794
+756	95_liver	liver	German	German	Leber	l.eː.b.ə.r	l eː b ə r	stan1295	48.649	12.4676	Indo-European	793
+758	95_liver	liver	Latin	Latin	iecur	j.e.k.i.n	j e k i n	lati1261	41.9026	12.4502	Indo-European	798
+761	96_long	long	Albanian	Albanian	gjatë	ɟ.a.t	ɟ a t	gheg1238	42.317	21.3837	Indo-European	728
+762	96_long	long	English	English	long	l.ɔ.ŋ	l ɔ ŋ	stan1293	53.0	-1.0	Indo-European	728
+763	96_long	long	French	French	long	l.ɔ̃.g	l ɔ̃ g	stan1290	48.0	2.0	Indo-European	728
+764	96_long	long	German	German	lang	l.a.ŋ	l a ŋ	stan1295	48.649	12.4676	Indo-European	728
+766	96_long	long	Latin	Latin	longus	l.o.n.g.o	l o n g o	lati1261	41.9026	12.4502	Indo-European	728
+769	97_louse	louse	Albanian	Albanian	morr	m.o.rː	m o rː	gheg1238	42.317	21.3837	Indo-European	601
+770	97_louse	louse	English	English	louse	l.au.s	l au s	stan1293	53.0	-1.0	Indo-European	598
+771	97_louse	louse	French	French	pou	p.u	p u	stan1290	48.0	2.0	Indo-European	599
+772	97_louse	louse	German	German	Laus	l.au.z	l au z	stan1295	48.649	12.4676	Indo-European	598
+774	97_louse	louse	Latin	Latin	pediculus	p.eː.d.i.k.u.l.o	p eː d i k u l o	lati1261	41.9026	12.4502	Indo-European	599
+777	98_man	man	Albanian	Albanian	burrë	b.u.rː	b u rː	gheg1238	42.317	21.3837	Indo-European	1146
+778	98_man	man	English	English	man	m.a.n	m a n	stan1293	53.0	-1.0	Indo-European	1143
+779	98_man	man	French	French	homme	ɔ.m	ɔ m	stan1290	48.0	2.0	Indo-European	1144
+780	98_man	man	German	German	Mann	m.a.n	m a n	stan1295	48.649	12.4676	Indo-European	1143
+782	98_man	man	Latin	Latin	vir	w.i.r.o	w i r o	lati1261	41.9026	12.4502	Indo-European	1148
+785	99_many	many	Albanian	Albanian	shumë	ʃ.u.m	ʃ u m	gheg1238	42.317	21.3837	Indo-European	594
+786	99_many	many	English	English	many	m.ɛ.n.i	m ɛ n i	stan1293	53.0	-1.0	Indo-European	592
+787	99_many	many	French	French	beaucoup de	b.o.k.u	b o k u	stan1290	48.0	2.0	Indo-European	591
+788	99_many	many	German	German	viele	f.iː.l	f iː l	stan1295	48.649	12.4676	Indo-European	590
+790	99_many	many	Latin	Latin	multi	m.u.l.t.o	m u l t o	lati1261	41.9026	12.4502	Indo-European	596
+793	100_meat	meat	Albanian	Albanian	mish	m.i.ʃ	m i ʃ	gheg1238	42.317	21.3837	Indo-European	252
+794	100_meat	meat	English	English	meat	m.i.t	m i t	stan1293	53.0	-1.0	Indo-European	250
+795	100_meat	meat	French	French	viande	v.j.ɑ̃.d	v j ɑ̃ d	stan1290	48.0	2.0	Indo-European	249
+796	100_meat	meat	German	German	Fleisch	f.l.ai.ʃ	f l ai ʃ	stan1295	48.649	12.4676	Indo-European	248
+798	100_meat	meat	Latin	Latin	caro	k.a.r.n	k a r n	lati1261	41.9026	12.4502	Indo-European	254
+801	101_moon	moon	Albanian	Albanian	hënë	h.ə.n	h ə n	gheg1238	42.317	21.3837	Indo-European	457
+802	101_moon	moon	English	English	moon	m.u.n	m u n	stan1293	53.0	-1.0	Indo-European	454
+803	101_moon	moon	French	French	lune	l.y.n	l y n	stan1290	48.0	2.0	Indo-European	455
+804	101_moon	moon	German	German	Mond	m.oː.n.d	m oː n d	stan1295	48.649	12.4676	Indo-European	454
+806	101_moon	moon	Latin	Latin	luna	l.uː.n.a	l uː n a	lati1261	41.9026	12.4502	Indo-European	455
+809	102_mother	mother	Albanian	Albanian	nënë	n.ə.n	n ə n	gheg1238	42.317	21.3837	Indo-European	1199
+810	102_mother	mother	English	English	mother	m.ə.ð.ə.r	m ə ð ə r	stan1293	53.0	-1.0	Indo-European	1197
+811	102_mother	mother	French	French	mère	m.ɛ.r	m ɛ r	stan1290	48.0	2.0	Indo-European	1197
+812	102_mother	mother	German	German	Mutter	m.u.t.ə.r	m u t ə r	stan1295	48.649	12.4676	Indo-European	1197
+814	102_mother	mother	Latin	Latin	mater	m.aː.t.r	m aː t r	lati1261	41.9026	12.4502	Indo-European	1197
+817	103_mountain	mountain	Albanian	Albanian	mal	m.a.l	m a l	gheg1238	42.317	21.3837	Indo-European	1063
+818	103_mountain	mountain	English	English	mountain	m.au.n.t.ə.n	m au n t ə n	stan1293	53.0	-1.0	Indo-European	1061
+819	103_mountain	mountain	French	French	montagne	m.ɔ̃.t.a.ɲ	m ɔ̃ t a ɲ	stan1290	48.0	2.0	Indo-European	1061
+820	103_mountain	mountain	German	German	Berg	b.e.r.g	b e r g	stan1295	48.649	12.4676	Indo-European	1060
+822	103_mountain	mountain	Latin	Latin	mons	m.o.n.t	m o n t	lati1261	41.9026	12.4502	Indo-European	1061
+825	104_mouth	mouth	Albanian	Albanian	gojë	g.o.j	g o j	gheg1238	42.317	21.3837	Indo-European	1108
+826	104_mouth	mouth	English	English	mouth	m.au.θ	m au θ	stan1293	53.0	-1.0	Indo-European	1105
+827	104_mouth	mouth	French	French	bouche	b.u.ʃ	b u ʃ	stan1290	48.0	2.0	Indo-European	1106
+828	104_mouth	mouth	German	German	Mund	m.u.n.d	m u n d	stan1295	48.649	12.4676	Indo-European	1105
+830	104_mouth	mouth	Latin	Latin	os	oː.r	oː r	lati1261	41.9026	12.4502	Indo-European	1110
+833	105_name	name	Albanian	Albanian	emër	e.m.ə.r	e m ə r	gheg1238	42.317	21.3837	Indo-European	244
+834	105_name	name	English	English	name	n.e.m	n e m	stan1293	53.0	-1.0	Indo-European	244
+835	105_name	name	French	French	nom	n.ɔ̃	n ɔ̃	stan1290	48.0	2.0	Indo-European	244
+836	105_name	name	German	German	Name	n.aː.m.ə.n	n aː m ə n	stan1295	48.649	12.4676	Indo-European	244
+838	105_name	name	Latin	Latin	nomen	n.oː.m.i.n	n oː m i n	lati1261	41.9026	12.4502	Indo-European	244
+841	106_narrow	narrow	Albanian	Albanian	ngushtë	n.g.u.ʃ.t	n g u ʃ t	gheg1238	42.317	21.3837	Indo-European	630
+842	106_narrow	narrow	English	English	narrow	n.a.r.o	n a r o	stan1293	53.0	-1.0	Indo-European	632
+843	106_narrow	narrow	French	French	étroit	e.t.r.w.a.t	e t r w a t	stan1290	48.0	2.0	Indo-European	631
+844	106_narrow	narrow	German	German	eng	e.ŋ	e ŋ	stan1295	48.649	12.4676	Indo-European	630
+846	106_narrow	narrow	Latin	Latin	angustus	a.n.g.u.s.t.o	a n g u s t o	lati1261	41.9026	12.4502	Indo-European	630
+849	107_near	near	Albanian	Albanian	afër	a.f.ə.r	a f ə r	gheg1238	42.317	21.3837	Indo-European	892
+850	107_near	near	English	English	near	n.ɪ.r	n ɪ r	stan1293	53.0	-1.0	Indo-European	889
+851	107_near	near	French	French	près de	p.r.ɛ	p r ɛ	stan1290	48.0	2.0	Indo-European	890
+852	107_near	near	German	German	nah	n.aː	n aː	stan1295	48.649	12.4676	Indo-European	889
+854	107_near	near	Latin	Latin	prope	p.r.o.p.e	p r o p e	lati1261	41.9026	12.4502	Indo-European	894
+857	108_neck	neck	Albanian	Albanian	qafë	c.a.f	c a f	gheg1238	42.317	21.3837	Indo-European	1158
+858	108_neck	neck	English	English	neck	n.ɛ.k	n ɛ k	stan1293	53.0	-1.0	Indo-European	1156
+859	108_neck	neck	French	French	cou	k.u	k u	stan1290	48.0	2.0	Indo-European	1155
+860	108_neck	neck	German	German	Hals	h.a.l.z	h a l z	stan1295	48.649	12.4676	Indo-European	1155
+862	108_neck	neck	Latin	Latin	collum	k.o.l.l.o	k o l l o	lati1261	41.9026	12.4502	Indo-European	1155
+865	109_new	new	Albanian	Albanian	ri	r.i	r i	gheg1238	42.317	21.3837	Indo-European	475
+866	109_new	new	English	English	new	n.u	n u	stan1293	53.0	-1.0	Indo-European	473
+867	109_new	new	French	French	nouveau	n.u.v.ɛ.l	n u v ɛ l	stan1290	48.0	2.0	Indo-European	473
+868	109_new	new	German	German	neu	n.oi	n oi	stan1295	48.649	12.4676	Indo-European	473
+870	109_new	new	Latin	Latin	novos	n.o.w.o	n o w o	lati1261	41.9026	12.4502	Indo-European	473
+873	110_night	night	Albanian	Albanian	natë	n.a.t	n a t	gheg1238	42.317	21.3837	Indo-European	289
+874	110_night	night	English	English	night	n.ai.t	n ai t	stan1293	53.0	-1.0	Indo-European	289
+875	110_night	night	French	French	nuit	n.ɥ.i	n ɥ i	stan1290	48.0	2.0	Indo-European	289
+876	110_night	night	German	German	Nacht	n.a.x.t	n a x t	stan1295	48.649	12.4676	Indo-European	289
+878	110_night	night	Latin	Latin	nox	n.o.k.t	n o k t	lati1261	41.9026	12.4502	Indo-European	289
+881	111_nose	nose	Albanian	Albanian	hundë	h.u.n.d	h u n d	gheg1238	42.317	21.3837	Indo-European	286
+882	111_nose	nose	English	English	nose	n.o.z	n o z	stan1293	53.0	-1.0	Indo-European	284
+883	111_nose	nose	French	French	nez	n.e	n e	stan1290	48.0	2.0	Indo-European	284
+884	111_nose	nose	German	German	Nase	n.aː.z.ə	n aː z ə	stan1295	48.649	12.4676	Indo-European	284
+886	111_nose	nose	Latin	Latin	nasus	n.aː.s.o	n aː s o	lati1261	41.9026	12.4502	Indo-European	284
+889	112_not	not	Albanian	Albanian	nuk	n.u.k	n u k	gheg1238	42.317	21.3837	Indo-European	27
+890	112_not	not	English	English	not	n.ɑ.t	n ɑ t	stan1293	53.0	-1.0	Indo-European	24
+891	112_not	not	French	French	ne...pas	p.a	p a	stan1290	48.0	2.0	Indo-European	25
+892	112_not	not	German	German	nicht	n.i.x.t	n i x t	stan1295	48.649	12.4676	Indo-European	24
+894	112_not	not	Latin	Latin	non	n.oː.n	n oː n	lati1261	41.9026	12.4502	Indo-European	24
+897	113_now	now	Albanian	Albanian	tani	t.a.n.i	t a n i	gheg1238	42.317	21.3837	Indo-European	235
+898	113_now	now	English	English	now	n.au	n au	stan1293	53.0	-1.0	Indo-European	232
+899	113_now	now	French	French	maintenant	m.ɛ̃.t.n.ɑ̃	m ɛ̃ t n ɑ̃	stan1290	48.0	2.0	Indo-European	233
+900	113_now	now	German	German	nun	n.uː.n	n uː n	stan1295	48.649	12.4676	Indo-European	232
+902	113_now	now	Latin	Latin	nunc	n.u.n.k	n u n k	lati1261	41.9026	12.4502	Indo-European	232
+905	114_old	old	Albanian	Albanian	vjetër	v.j.e.t.ə.r	v j e t ə r	gheg1238	42.317	21.3837	Indo-European	343
+906	114_old	old	English	English	old	o.l.d	o l d	stan1293	53.0	-1.0	Indo-European	342
+907	114_old	old	French	French	vieil	v.j.ɛ.j	v j ɛ j	stan1290	48.0	2.0	Indo-European	343
+908	114_old	old	German	German	alt	a.l.t	a l t	stan1295	48.649	12.4676	Indo-European	342
+910	114_old	old	Latin	Latin	vetus	w.e.t.e.r	w e t e r	lati1261	41.9026	12.4502	Indo-European	343
+913	115_one	one	Albanian	Albanian	një	ɲ.ə	ɲ ə	gheg1238	42.317	21.3837	Indo-European	663
+914	115_one	one	English	English	one	w.ə.n	w ə n	stan1293	53.0	-1.0	Indo-European	661
+915	115_one	one	French	French	un	œ̃	œ̃	stan1290	48.0	2.0	Indo-European	661
+916	115_one	one	German	German	eins	ai.n	ai n	stan1295	48.649	12.4676	Indo-European	661
+918	115_one	one	Latin	Latin	unus	uː.n.o	uː n o	lati1261	41.9026	12.4502	Indo-European	661
+921	116_other	other	Albanian	Albanian	tjetër	t.j.e.t.ə.r	t j e t ə r	gheg1238	42.317	21.3837	Indo-European	1005
+922	116_other	other	English	English	other	ə.ð.ə.r	ə ð ə r	stan1293	53.0	-1.0	Indo-European	1002
+923	116_other	other	French	French	autre	o.t.r	o t r	stan1290	48.0	2.0	Indo-European	1003
+924	116_other	other	German	German	anderer	a.n.d.ə.r	a n d ə r	stan1295	48.649	12.4676	Indo-European	1002
+926	116_other	other	Latin	Latin	alius	a.l.i.o	a l i o	lati1261	41.9026	12.4502	Indo-European	1003
+929	117_path	path	Albanian	Albanian	shteg	ʃ.t.e.g	ʃ t e g	gheg1238	42.317	21.3837	Indo-European	557
+930	117_path	path	English	English	path	p.a.θ	p a θ	stan1293	53.0	-1.0	Indo-European	554
+931	117_path	path	French	French	sentier	s.ɑ̃.t.j.e	s ɑ̃ t j e	stan1290	48.0	2.0	Indo-European	555
+932	117_path	path	German	German	Pfad	p͡f.aː.d	pf aː d	stan1295	48.649	12.4676	Indo-European	554
+934	117_path	path	Latin	Latin	semita	s.eː.m.i.t.a	s eː m i t a	lati1261	41.9026	12.4502	Indo-European	555
+937	118_play	play	Albanian	Albanian	luan	l.u.a	l u a	gheg1238	42.317	21.3837	Indo-European	1051
+938	118_play	play	English	English	plays	p.l.e	p l e	stan1293	53.0	-1.0	Indo-European	1049
+939	118_play	play	French	French	joue	ʒ.u.e	ʒ u e	stan1290	48.0	2.0	Indo-European	1048
+940	118_play	play	German	German	spielt	ʃ.p.iː.l	ʃ p iː l	stan1295	48.649	12.4676	Indo-European	1047
+942	118_play	play	Latin	Latin	ludit	l.uː.d.e	l uː d e	lati1261	41.9026	12.4502	Indo-European	1053
+945	119_pull	pull	Albanian	Albanian	tërheq	t.ə.r.h.e.c	t ə r h e c	gheg1238	42.317	21.3837	Indo-European	851
+946	119_pull	pull	English	English	pulls	p.ʊ.l	p ʊ l	stan1293	53.0	-1.0	Indo-European	849
+947	119_pull	pull	French	French	tire	t.i.r.e	t i r e	stan1290	48.0	2.0	Indo-European	848
+948	119_pull	pull	German	German	zieht	ʦ.iː	ts iː	stan1295	48.649	12.4676	Indo-European	847
+950	119_pull	pull	Latin	Latin	trahit	t.r.a.h.e	t r a h e	lati1261	41.9026	12.4502	Indo-European	853
+953	120_push	push	Albanian	Albanian	shtyn	ʃ.t.y	ʃ t y	gheg1238	42.317	21.3837	Indo-European	1202
+954	120_push	push	English	English	pushes	p.ʊ.ʃ	p ʊ ʃ	stan1293	53.0	-1.0	Indo-European	1203
+955	120_push	push	French	French	pousse	p.u.s.e	p u s e	stan1290	48.0	2.0	Indo-European	1203
+956	120_push	push	German	German	stößt	ʃ.t.oː.s	ʃ t oː s	stan1295	48.649	12.4676	Indo-European	1202
+958	120_push	push	Latin	Latin	trudit	t.r.uː.d.e	t r uː d e	lati1261	41.9026	12.4502	Indo-European	1206
+961	121_rain	rain	Albanian	Albanian	shi	ʃ.i	ʃ i	gheg1238	42.317	21.3837	Indo-European	1091
+962	121_rain	rain	English	English	rain	r.e.n	r e n	stan1293	53.0	-1.0	Indo-European	1088
+963	121_rain	rain	French	French	pluie	p.l.ɥ.i	p l ɥ i	stan1290	48.0	2.0	Indo-European	1089
+964	121_rain	rain	German	German	Regen	r.eː.g.ə.n	r eː g ə n	stan1295	48.649	12.4676	Indo-European	1088
+966	121_rain	rain	Latin	Latin	pluvia	p.l.u.w.i.a	p l u w i a	lati1261	41.9026	12.4502	Indo-European	1089
+969	122_red	red	Albanian	Albanian	kuq	k.u.c	k u c	gheg1238	42.317	21.3837	Indo-European	703
+970	122_red	red	English	English	red	r.ɛ.d	r ɛ d	stan1293	53.0	-1.0	Indo-European	701
+971	122_red	red	French	French	rouge	r.u.ʒ	r u ʒ	stan1290	48.0	2.0	Indo-European	701
+972	122_red	red	German	German	rot	r.oː.t	r oː t	stan1295	48.649	12.4676	Indo-European	701
+974	122_red	red	Latin	Latin	ruber	r.u.b.r.o	r u b r o	lati1261	41.9026	12.4502	Indo-European	701
+977	123_right	right	Albanian	Albanian	djathtë	d.j.a.θ.t	d j a θ t	gheg1238	42.317	21.3837	Indo-European	673
+978	123_right	right	English	English	right	r.ai.t	r ai t	stan1293	53.0	-1.0	Indo-European	671
+979	123_right	right	French	French	droit	d.r.w.a.t	d r w a t	stan1290	48.0	2.0	Indo-European	671
+980	123_right	right	German	German	recht	r.e.x.t	r e x t	stan1295	48.649	12.4676	Indo-European	671
+982	123_right	right	Latin	Latin	dexter	d.e.k.s.t.e.r	d e k s t e r	lati1261	41.9026	12.4502	Indo-European	673
+985	124_river	river	Albanian	Albanian	lumë	l.u.m	l u m	gheg1238	42.317	21.3837	Indo-European	312
+986	124_river	river	English	English	river	r.ɪ.v.ə.r	r ɪ v ə r	stan1293	53.0	-1.0	Indo-European	310
+987	124_river	river	French	French	fleuve	f.l.ø.v	f l ø v	stan1290	48.0	2.0	Indo-European	309
+988	124_river	river	German	German	Fluss	f.l.u.s	f l u s	stan1295	48.649	12.4676	Indo-European	308
+990	124_river	river	Latin	Latin	flumen	f.l.uː.m.i.n	f l uː m i n	lati1261	41.9026	12.4502	Indo-European	309
+993	125_root	root	Albanian	Albanian	rrënjë	rː.ə.ɲ	rː ə ɲ	gheg1238	42.317	21.3837	Indo-European	911
+994	125_root	root	English	English	root	r.u.t	r u t	stan1293	53.0	-1.0	Indo-European	911
+995	125_root	root	French	French	racine	r.a.s.i.n	r a s i n	stan1290	48.0	2.0	Indo-European	911
+996	125_root	root	German	German	Wurzel	v.u.r.ʦ.ə.l	v u r ts ə l	stan1295	48.649	12.4676	Indo-European	911
+998	125_root	root	Latin	Latin	radix	r.aː.d.iː.k	r aː d iː k	lati1261	41.9026	12.4502	Indo-European	911
+1001	126_rotten	rotten	Albanian	Albanian	kalbur	k.a.l.b.u.r	k a l b u r	gheg1238	42.317	21.3837	Indo-European	463
+1002	126_rotten	rotten	English	English	rotten	r.ɑ.t.ə.n	r ɑ t ə n	stan1293	53.0	-1.0	Indo-European	461
+1003	126_rotten	rotten	French	French	pourri	p.u.r.i	p u r i	stan1290	48.0	2.0	Indo-European	460
+1004	126_rotten	rotten	German	German	faul	f.au.l	f au l	stan1295	48.649	12.4676	Indo-European	460
+1006	126_rotten	rotten	Latin	Latin	putridus	p.u.t.r.i.d.o	p u t r i d o	lati1261	41.9026	12.4502	Indo-European	460
+1009	127_round	round	Albanian	Albanian	rrumbullák	rː.u.m.b.u.ł.a.k	rː u m b u ł a k	gheg1238	42.317	21.3837	Indo-European	317
+1010	127_round	round	English	English	round	r.au.n.d	r au n d	stan1293	53.0	-1.0	Indo-European	315
+1011	127_round	round	French	French	rond	r.ɔ̃.d	r ɔ̃ d	stan1290	48.0	2.0	Indo-European	315
+1012	127_round	round	German	German	rund	r.u.n.d	r u n d	stan1295	48.649	12.4676	Indo-European	315
+1014	127_round	round	Latin	Latin	rotundus	r.o.t.u.n.d.o	r o t u n d o	lati1261	41.9026	12.4502	Indo-European	315
+1017	128_rub	rub	Albanian	Albanian	fërkon	f.ə.r.k.o	f ə r k o	gheg1238	42.317	21.3837	Indo-European	511
+1018	128_rub	rub	English	English	rubs	r.ə.b	r ə b	stan1293	53.0	-1.0	Indo-European	509
+1019	128_rub	rub	French	French	frotte	f.r.ɔ.t.e	f r ɔ t e	stan1290	48.0	2.0	Indo-European	508
+1020	128_rub	rub	German	German	reibt	r.ai.b	r ai b	stan1295	48.649	12.4676	Indo-European	507
+1022	128_rub	rub	Latin	Latin	fricat	f.r.i.k.aː	f r i k aː	lati1261	41.9026	12.4502	Indo-European	511
+1025	129_salt	salt	Albanian	Albanian	kripë	k.r.i.p	k r i p	gheg1238	42.317	21.3837	Indo-European	1171
+1026	129_salt	salt	English	English	salt	s.ɔ.l.t	s ɔ l t	stan1293	53.0	-1.0	Indo-European	1169
+1027	129_salt	salt	French	French	sel	s.ɛ.l	s ɛ l	stan1290	48.0	2.0	Indo-European	1169
+1028	129_salt	salt	German	German	Salz	z.a.l.ʦ	z a l ts	stan1295	48.649	12.4676	Indo-European	1169
+1030	129_salt	salt	Latin	Latin	sal	s.a.l	s a l	lati1261	41.9026	12.4502	Indo-European	1169
+1033	130_sand	sand	Albanian	Albanian	rërë	r.ə.r	r ə r	gheg1238	42.317	21.3837	Indo-European	445
+1034	130_sand	sand	English	English	sand	s.a.n.d	s a n d	stan1293	53.0	-1.0	Indo-European	442
+1035	130_sand	sand	French	French	sable	s.a.b.l	s a b l	stan1290	48.0	2.0	Indo-European	443
+1036	130_sand	sand	German	German	Sand	z.a.n.d	z a n d	stan1295	48.649	12.4676	Indo-European	442
+1038	130_sand	sand	Latin	Latin	arena	a.r.eː.n.a	a r eː n a	lati1261	41.9026	12.4502	Indo-European	445
+1041	131_say	say	Albanian	Albanian	thotë	θ	θ	gheg1238	42.317	21.3837	Indo-European	942
+1042	131_say	say	English	English	says	s.e	s e	stan1293	53.0	-1.0	Indo-European	939
+1043	131_say	say	French	French	dit	d.i	d i	stan1290	48.0	2.0	Indo-European	940
+1044	131_say	say	German	German	sagt	z.aː.g	z aː g	stan1295	48.649	12.4676	Indo-European	939
+1046	131_say	say	Latin	Latin	dicit	d.iː.k.e	d iː k e	lati1261	41.9026	12.4502	Indo-European	940
+1049	132_scratch	scratch	Albanian	Albanian	gërvish	g.ə.r.v.i.ʃ	g ə r v i ʃ	gheg1238	42.317	21.3837	Indo-European	8
+1050	132_scratch	scratch	English	English	scratches	s.k.r.a.ʧ	s k r a tʃ	stan1293	53.0	-1.0	Indo-European	9
+1051	132_scratch	scratch	French	French	gratte	g.r.a.t	g r a t	stan1290	48.0	2.0	Indo-European	8
+1052	132_scratch	scratch	German	German	kratzt	k.r.a.ʦ	k r a ts	stan1295	48.649	12.4676	Indo-European	8
+1054	132_scratch	scratch	Latin	Latin	scabit	s.k.a.b.e	s k a b e	lati1261	41.9026	12.4502	Indo-European	12
+1057	133_sea	sea	Albanian	Albanian	det	d.e.t	d e t	gheg1238	42.317	21.3837	Indo-European	400
+1058	133_sea	sea	English	English	sea	s.i	s i	stan1293	53.0	-1.0	Indo-European	397
+1059	133_sea	sea	French	French	mer	m.ɛ.r	m ɛ r	stan1290	48.0	2.0	Indo-European	398
+1060	133_sea	sea	German	German	See	z.eː	z eː	stan1295	48.649	12.4676	Indo-European	397
+1062	133_sea	sea	Latin	Latin	mare	m.a.r.e	m a r e	lati1261	41.9026	12.4502	Indo-European	398
+1065	134_see	see	Albanian	Albanian	sheh	ʃ	ʃ	gheg1238	42.317	21.3837	Indo-European	385
+1066	134_see	see	English	English	sees	s.i	s i	stan1293	53.0	-1.0	Indo-European	385
+1067	134_see	see	French	French	voit	v.w.a	v w a	stan1290	48.0	2.0	Indo-European	386
+1068	134_see	see	German	German	sieht	z.eː	z eː	stan1295	48.649	12.4676	Indo-European	385
+1070	134_see	see	Latin	Latin	videt	w.i.d.eː	w i d eː	lati1261	41.9026	12.4502	Indo-European	386
+1073	135_seed	seed	Albanian	Albanian	farë	f.a.r	f a r	gheg1238	42.317	21.3837	Indo-European	948
+1074	135_seed	seed	English	English	seed	s.i.d	s i d	stan1293	53.0	-1.0	Indo-European	945
+1075	135_seed	seed	French	French	graine	g.r.ɛ.n	g r ɛ n	stan1290	48.0	2.0	Indo-European	946
+1076	135_seed	seed	German	German	Same	z.aː.m.ə.n	z aː m ə n	stan1295	48.649	12.4676	Indo-European	945
+1078	135_seed	seed	Latin	Latin	semen	s.eː.m.i.n	s eː m i n	lati1261	41.9026	12.4502	Indo-European	945
+1081	136_sew	sew	Albanian	Albanian	qep	c.e.p	c e p	gheg1238	42.317	21.3837	Indo-European	646
+1082	136_sew	sew	English	English	sews	s.o	s o	stan1293	53.0	-1.0	Indo-European	644
+1083	136_sew	sew	French	French	coud	k.u.z	k u z	stan1290	48.0	2.0	Indo-European	644
+1084	136_sew	sew	German	German	näht	n.eː	n eː	stan1295	48.649	12.4676	Indo-European	643
+1086	136_sew	sew	Latin	Latin	suit	s.u.e	s u e	lati1261	41.9026	12.4502	Indo-European	644
+1089	137_sharp	sharp	Albanian	Albanian	mprehtë	m.p.r.e.h.t	m p r e h t	gheg1238	42.317	21.3837	Indo-European	964
+1090	137_sharp	sharp	English	English	sharp	ʃ.a.r.p	ʃ a r p	stan1293	53.0	-1.0	Indo-European	961
+1091	137_sharp	sharp	French	French	tranchant	t.r.ɑ̃.ʃ.ɑ̃.t	t r ɑ̃ ʃ ɑ̃ t	stan1290	48.0	2.0	Indo-European	962
+1092	137_sharp	sharp	German	German	scharf	ʃ.a.r.f	ʃ a r f	stan1295	48.649	12.4676	Indo-European	961
+1094	137_sharp	sharp	Latin	Latin	acutus	a.k.uː.t.o	a k uː t o	lati1261	41.9026	12.4502	Indo-European	966
+1097	138_short	short	Albanian	Albanian	shkurtër	ʃ.k.u.r.t.ə.r	ʃ k u r t ə r	gheg1238	42.317	21.3837	Indo-European	1150
+1098	138_short	short	English	English	short	ʃ.ɔ.r.t	ʃ ɔ r t	stan1293	53.0	-1.0	Indo-European	1150
+1099	138_short	short	French	French	court	k.u.r.t	k u r t	stan1290	48.0	2.0	Indo-European	1150
+1100	138_short	short	German	German	kurz	k.u.r.ʦ	k u r ts	stan1295	48.649	12.4676	Indo-European	1150
+1102	138_short	short	Latin	Latin	brevis	b.r.e.w.i	b r e w i	lati1261	41.9026	12.4502	Indo-European	1153
+1105	139_sing	sing	Albanian	Albanian	këndon	k.ə.n.d.o	k ə n d o	gheg1238	42.317	21.3837	Indo-European	683
+1106	139_sing	sing	English	English	sings	s.ɪ.ŋ	s ɪ ŋ	stan1293	53.0	-1.0	Indo-European	682
+1107	139_sing	sing	French	French	chante	ʃ.ɑ̃.t.e	ʃ ɑ̃ t e	stan1290	48.0	2.0	Indo-European	683
+1108	139_sing	sing	German	German	singt	z.i.ŋ	z i ŋ	stan1295	48.649	12.4676	Indo-European	682
+1110	139_sing	sing	Latin	Latin	canit	k.a.n.i.t	k a n i t	lati1261	41.9026	12.4502	Indo-European	683
+1113	140_sit	sit	Albanian	Albanian	(rri) ndenjur	n.d.e.ɲ	n d e ɲ	gheg1238	42.317	21.3837	Indo-European	984
+1114	140_sit	sit	English	English	sits	s.ɪ.t	s ɪ t	stan1293	53.0	-1.0	Indo-European	982
+1115	140_sit	sit	French	French	(est) assis	a.s.i.z	a s i z	stan1290	48.0	2.0	Indo-European	982
+1116	140_sit	sit	German	German	sitzt	z.i.ʦ	z i ts	stan1295	48.649	12.4676	Indo-European	982
+1118	140_sit	sit	Latin	Latin	sedet	s.e.d.eː	s e d eː	lati1261	41.9026	12.4502	Indo-European	982
+1121	141_skin	skin	Albanian	Albanian	lëkurë	l.ə.k.u.r	l ə k u r	gheg1238	42.317	21.3837	Indo-European	56
+1122	141_skin	skin	English	English	skin	s.k.i.n	s k i n	stan1293	53.0	-1.0	Indo-European	54
+1123	141_skin	skin	French	French	peau	p.o	p o	stan1290	48.0	2.0	Indo-European	53
+1124	141_skin	skin	German	German	Haut	h.au.t	h au t	stan1295	48.649	12.4676	Indo-European	52
+1126	141_skin	skin	Latin	Latin	cutis	k.u.t.i	k u t i	lati1261	41.9026	12.4502	Indo-European	52
+1129	142_sky	sky	Albanian	Albanian	qiell	c.i.e.ł	c i e ł	gheg1238	42.317	21.3837	Indo-European	650
+1130	142_sky	sky	English	English	sky	s.k.ai	s k ai	stan1293	53.0	-1.0	Indo-European	651
+1131	142_sky	sky	French	French	ciel	s.j.ɛ.l	s j ɛ l	stan1290	48.0	2.0	Indo-European	650
+1132	142_sky	sky	German	German	Himmel	h.i.m.ə.l	h i m ə l	stan1295	48.649	12.4676	Indo-European	649
+1134	142_sky	sky	Latin	Latin	caelum	k.ae.l.o	k ae l o	lati1261	41.9026	12.4502	Indo-European	650
+1137	143_sleep	sleep	Albanian	Albanian	fle	f.l.e	f l e	gheg1238	42.317	21.3837	Indo-European	830
+1138	143_sleep	sleep	English	English	sleeps	s.l.i.p	s l i p	stan1293	53.0	-1.0	Indo-European	827
+1139	143_sleep	sleep	French	French	dort	d.ɔ.r	d ɔ r	stan1290	48.0	2.0	Indo-European	828
+1140	143_sleep	sleep	German	German	schläft	ʃ.l.aː.f	ʃ l aː f	stan1295	48.649	12.4676	Indo-European	827
+1142	143_sleep	sleep	Latin	Latin	dormit	d.o.r.m.iː	d o r m iː	lati1261	41.9026	12.4502	Indo-European	828
+1145	144_small	small	Albanian	Albanian	vogël	v.o.g.ə.l	v o g ə l	gheg1238	42.317	21.3837	Indo-European	297
+1146	144_small	small	English	English	small	s.m.ɔ.l	s m ɔ l	stan1293	53.0	-1.0	Indo-European	295
+1147	144_small	small	French	French	petit	p.ə.t.i.t	p ə t i t	stan1290	48.0	2.0	Indo-European	294
+1148	144_small	small	German	German	klein	k.l.ai.n	k l ai n	stan1295	48.649	12.4676	Indo-European	293
+1150	144_small	small	Latin	Latin	parvos	p.a.r.w.o	p a r w o	lati1261	41.9026	12.4502	Indo-European	299
+1153	145_smell	smell	Albanian	Albanian	marr erë	e.r	e r	gheg1238	42.317	21.3837	Indo-European	1037
+1154	145_smell	smell	English	English	smells	s.m.e.l	s m e l	stan1293	53.0	-1.0	Indo-European	1035
+1155	145_smell	smell	French	French	sent	s.ɑ̃.t	s ɑ̃ t	stan1290	48.0	2.0	Indo-European	1034
+1156	145_smell	smell	German	German	riecht	r.iː.x	r iː x	stan1295	48.649	12.4676	Indo-European	1033
+1158	145_smell	smell	Latin	Latin	olfacit	o.l.f.a.k.e	o l f a k e	lati1261	41.9026	12.4502	Indo-European	1039
+1161	146_smoke	smoke	Albanian	Albanian	tym	t.y.m	t y m	gheg1238	42.317	21.3837	Indo-European	612
+1162	146_smoke	smoke	English	English	smoke	s.m.o.k	s m o k	stan1293	53.0	-1.0	Indo-European	613
+1163	146_smoke	smoke	French	French	fumée	f.y.m.e	f y m e	stan1290	48.0	2.0	Indo-European	612
+1164	146_smoke	smoke	German	German	Rauch	r.au.x	r au x	stan1295	48.649	12.4676	Indo-European	611
+1166	146_smoke	smoke	Latin	Latin	fumus	f.uː.m.o	f uː m o	lati1261	41.9026	12.4502	Indo-European	612
+1169	147_smooth	smooth	Albanian	Albanian	lëmuet	l.ə.m.o	l ə m o	gheg1238	42.317	21.3837	Indo-European	880
+1170	147_smooth	smooth	English	English	smooth	s.m.u.ð	s m u ð	stan1293	53.0	-1.0	Indo-European	878
+1171	147_smooth	smooth	French	French	lisse	l.i.s	l i s	stan1290	48.0	2.0	Indo-European	877
+1172	147_smooth	smooth	German	German	glatt	g.l.a.t	g l a t	stan1295	48.649	12.4676	Indo-European	876
+1174	147_smooth	smooth	Latin	Latin	levis	l.eː.w.i	l eː w i	lati1261	41.9026	12.4502	Indo-European	882
+1177	148_snake	snake	Albanian	Albanian	gjarpër	ɟ.a.r.p.ə.r	ɟ a r p ə r	gheg1238	42.317	21.3837	Indo-European	656
+1178	148_snake	snake	English	English	snake	s.n.e.k	s n e k	stan1293	53.0	-1.0	Indo-European	657
+1179	148_snake	snake	French	French	serpent	s.ɛ.r.p.ɑ̃	s ɛ r p ɑ̃	stan1290	48.0	2.0	Indo-European	656
+1180	148_snake	snake	German	German	Schlange	ʃ.l.a.ŋ.ə	ʃ l a ŋ ə	stan1295	48.649	12.4676	Indo-European	655
+1182	148_snake	snake	Latin	Latin	anguis	a.n.g.w.i	a n g w i	lati1261	41.9026	12.4502	Indo-European	660
+1185	149_snow	snow	Albanian	Albanian	borë	b.o.r	b o r	gheg1238	42.317	21.3837	Indo-European	989
+1186	149_snow	snow	English	English	snow	s.n.o	s n o	stan1293	53.0	-1.0	Indo-European	987
+1187	149_snow	snow	French	French	neige	n.ɛ.ʒ	n ɛ ʒ	stan1290	48.0	2.0	Indo-European	987
+1188	149_snow	snow	German	German	Schnee	ʃ.n.eː	ʃ n eː	stan1295	48.649	12.4676	Indo-European	987
+1190	149_snow	snow	Latin	Latin	nix	n.i.w	n i w	lati1261	41.9026	12.4502	Indo-European	987
+1193	150_some	some	Albanian	Albanian	disa	d.i.s.a	d i s a	gheg1238	42.317	21.3837	Indo-European	361
+1194	150_some	some	English	English	some	s.ə.m	s ə m	stan1293	53.0	-1.0	Indo-European	359
+1195	150_some	some	French	French	quelques	k.ɛ.l.k.ə	k ɛ l k ə	stan1290	48.0	2.0	Indo-European	358
+1196	150_some	some	German	German	einige	ai.n.i.g	ai n i g	stan1295	48.649	12.4676	Indo-European	357
+1198	150_some	some	Latin	Latin	aliqui	a.l.i.k.w.o	a l i k w o	lati1261	41.9026	12.4502	Indo-European	363
+1201	151_spit	spit	Albanian	Albanian	pështyn	p.ə.ʃ.t.y	p ə ʃ t y	gheg1238	42.317	21.3837	Indo-European	769
+1202	151_spit	spit	English	English	spits	s.p.ɪ.t	s p ɪ t	stan1293	53.0	-1.0	Indo-European	767
+1203	151_spit	spit	French	French	crache	k.r.a.ʃ.e	k r a ʃ e	stan1290	48.0	2.0	Indo-European	766
+1204	151_spit	spit	German	German	spuckt	ʃ.p.u.k	ʃ p u k	stan1295	48.649	12.4676	Indo-European	765
+1206	151_spit	spit	Latin	Latin	spuit	s.p.u.e	s p u e	lati1261	41.9026	12.4502	Indo-European	769
+1209	152_split	split	Albanian	Albanian	çan	ʧ.a	tʃ a	gheg1238	42.317	21.3837	Indo-European	152
+1210	152_split	split	English	English	splits	s.p.l.ɪi.t	s p l ɪi t	stan1293	53.0	-1.0	Indo-European	149
+1211	152_split	split	French	French	fend	f.ɑ̃.d	f ɑ̃ d	stan1290	48.0	2.0	Indo-European	150
+1212	152_split	split	German	German	spaltet	ʃ.p.a.l.t	ʃ p a l t	stan1295	48.649	12.4676	Indo-European	149
+1214	152_split	split	Latin	Latin	findit	f.i.n.d.e	f i n d e	lati1261	41.9026	12.4502	Indo-European	150
+1217	153_squeeze	squeeze	Albanian	Albanian	shtrydh	ʃ.t.r.y.ð	ʃ t r y ð	gheg1238	42.317	21.3837	Indo-European	551
+1218	153_squeeze	squeeze	English	English	squeezes	s.k.w.i.z	s k w i z	stan1293	53.0	-1.0	Indo-European	549
+1219	153_squeeze	squeeze	French	French	presse	p.r.ɛ.s.e	p r ɛ s e	stan1290	48.0	2.0	Indo-European	548
+1220	153_squeeze	squeeze	German	German	drückt	d.r.y.k	d r y k	stan1295	48.649	12.4676	Indo-European	547
+1222	153_squeeze	squeeze	Latin	Latin	premit	p.r.e.m.e	p r e m e	lati1261	41.9026	12.4502	Indo-European	548
+1225	154_stab	stab	Albanian	Albanian	ther	θ.e.r	θ e r	gheg1238	42.317	21.3837	Indo-European	621
+1226	154_stab	stab	English	English	stabs	s.t.a.b	s t a b	stan1293	53.0	-1.0	Indo-European	619
+1227	154_stab	stab	French	French	poignarde	p.w.a.ɲ.a.r.d.e	p w a ɲ a r d e	stan1290	48.0	2.0	Indo-European	618
+1228	154_stab	stab	German	German	sticht	ʃ.t.e.x	ʃ t e x	stan1295	48.649	12.4676	Indo-European	617
+1230	154_stab	stab	Latin	Latin	fodit	f.o.d.e	f o d e	lati1261	41.9026	12.4502	Indo-European	623
+1233	155_stand	stand	Albanian	Albanian	(rri) më këmbë	k.ə.m.b	k ə m b	gheg1238	42.317	21.3837	Indo-European	1044
+1234	155_stand	stand	English	English	stands	s.t.a.n.d	s t a n d	stan1293	53.0	-1.0	Indo-European	1041
+1235	155_stand	stand	French	French	(est) debout	d.ə.b.u	d ə b u	stan1290	48.0	2.0	Indo-European	1042
+1236	155_stand	stand	German	German	steht	ʃ.t.eː	ʃ t eː	stan1295	48.649	12.4676	Indo-European	1041
+1238	155_stand	stand	Latin	Latin	stat	s.t.aː	s t aː	lati1261	41.9026	12.4502	Indo-European	1041
+1241	156_star	star	Albanian	Albanian	yll	y.ł	y ł	gheg1238	42.317	21.3837	Indo-European	1057
+1242	156_star	star	English	English	star	s.t.ɑ.r	s t ɑ r	stan1293	53.0	-1.0	Indo-European	1055
+1243	156_star	star	French	French	étoile	e.t.w.a.l	e t w a l	stan1290	48.0	2.0	Indo-European	1055
+1244	156_star	star	German	German	Stern	ʃ.t.e.r.n	ʃ t e r n	stan1295	48.649	12.4676	Indo-European	1055
+1246	156_star	star	Latin	Latin	stella	s.t.eː.lː.a	s t eː lː a	lati1261	41.9026	12.4502	Indo-European	1055
+1249	157_stick	stick	Albanian	Albanian	shkop	ʃ.k.o.p	ʃ k o p	gheg1238	42.317	21.3837	Indo-European	929
+1250	157_stick	stick	English	English	stick	s.t.ɪ.k	s t ɪ k	stan1293	53.0	-1.0	Indo-European	927
+1251	157_stick	stick	French	French	bâton	b.a.t.ɔ̃	b a t ɔ̃	stan1290	48.0	2.0	Indo-European	926
+1252	157_stick	stick	German	German	Stock	ʃ.t.o.k	ʃ t o k	stan1295	48.649	12.4676	Indo-European	925
+1254	157_stick	stick	Latin	Latin	baculum	b.a.k.u.l.o	b a k u l o	lati1261	41.9026	12.4502	Indo-European	931
+1257	158_stone	stone	Albanian	Albanian	gur	g.u.r	g u r	gheg1238	42.317	21.3837	Indo-European	581
+1258	158_stone	stone	English	English	stone	s.t.o.n	s t o n	stan1293	53.0	-1.0	Indo-European	578
+1259	158_stone	stone	French	French	pierre	p.j.ɛ.r	p j ɛ r	stan1290	48.0	2.0	Indo-European	579
+1260	158_stone	stone	German	German	Stein	ʃ.t.ai.n	ʃ t ai n	stan1295	48.649	12.4676	Indo-European	578
+1262	158_stone	stone	Latin	Latin	lapis	l.a.p.i.d	l a p i d	lati1261	41.9026	12.4502	Indo-European	583
+1265	159_straight	straight	Albanian	Albanian	drejtë	d.r.e.j.t	d r e j t	gheg1238	42.317	21.3837	Indo-European	871
+1266	159_straight	straight	English	English	straight	s.t.r.e.t	s t r e t	stan1293	53.0	-1.0	Indo-European	872
+1267	159_straight	straight	French	French	droit	d.r.w.a.t	d r w a t	stan1290	48.0	2.0	Indo-European	871
+1268	159_straight	straight	German	German	gerade	g.ə.r.aː.d.ə	g ə r aː d ə	stan1295	48.649	12.4676	Indo-European	870
+1270	159_straight	straight	Latin	Latin	rectus	r.eː.k.t.o	r eː k t o	lati1261	41.9026	12.4502	Indo-European	871
+1273	160_suck	suck	Albanian	Albanian	thith	θ.i.θ	θ i θ	gheg1238	42.317	21.3837	Indo-European	1132
+1274	160_suck	suck	English	English	sucks	s.ə.k	s ə k	stan1293	53.0	-1.0	Indo-European	1130
+1275	160_suck	suck	French	French	suce	s.y.s.e	s y s e	stan1290	48.0	2.0	Indo-European	1130
+1276	160_suck	suck	German	German	saugt	z.au.g	z au g	stan1295	48.649	12.4676	Indo-European	1130
+1278	160_suck	suck	Latin	Latin	sugit	s.uː.g.e	s uː g e	lati1261	41.9026	12.4502	Indo-European	1130
+1281	161_sun	sun	Albanian	Albanian	diell	d.i.e.ł	d i e ł	gheg1238	42.317	21.3837	Indo-European	435
+1282	161_sun	sun	English	English	sun	s.ə.n	s ə n	stan1293	53.0	-1.0	Indo-European	433
+1283	161_sun	sun	French	French	soleil	s.ɔ.l.ɛ.j	s ɔ l ɛ j	stan1290	48.0	2.0	Indo-European	433
+1284	161_sun	sun	German	German	Sonne	z.o.n.ə	z o n ə	stan1295	48.649	12.4676	Indo-European	433
+1286	161_sun	sun	Latin	Latin	sol	s.oː.l	s oː l	lati1261	41.9026	12.4502	Indo-European	433
+1289	162_swell	swell	Albanian	Albanian	ënj	ə.ɲ	ə ɲ	gheg1238	42.317	21.3837	Indo-European	1074
+1290	162_swell	swell	English	English	swells	s.w.ɛ.l	s w ɛ l	stan1293	53.0	-1.0	Indo-European	1071
+1291	162_swell	swell	French	French	enfle	ɑ̃.f.l.e	ɑ̃ f l e	stan1290	48.0	2.0	Indo-European	1072
+1292	162_swell	swell	German	German	schwillt	ʃ.v.e.l	ʃ v e l	stan1295	48.649	12.4676	Indo-European	1071
+1294	162_swell	swell	Latin	Latin	tumet	t.u.m.eː	t u m eː	lati1261	41.9026	12.4502	Indo-European	1076
+1297	163_swim	swim	Albanian	Albanian	noton	n.o.t.o	n o t o	gheg1238	42.317	21.3837	Indo-European	158
+1298	163_swim	swim	English	English	swims	s.w.ɪ.m	s w ɪ m	stan1293	53.0	-1.0	Indo-European	155
+1299	163_swim	swim	French	French	nage	n.a.ʒ.e	n a ʒ e	stan1290	48.0	2.0	Indo-European	156
+1300	163_swim	swim	German	German	schwimmt	ʃ.v.i.m	ʃ v i m	stan1295	48.649	12.4676	Indo-European	155
+1302	163_swim	swim	Latin	Latin	nat	n.aː	n aː	lati1261	41.9026	12.4502	Indo-European	158
+1305	164_tail	tail	Albanian	Albanian	bisht	b.i.ʃ.t	b i ʃ t	gheg1238	42.317	21.3837	Indo-European	126
+1306	164_tail	tail	English	English	tail	t.e.l	t e l	stan1293	53.0	-1.0	Indo-European	124
+1307	164_tail	tail	French	French	queue	k.ø	k ø	stan1290	48.0	2.0	Indo-European	123
+1308	164_tail	tail	German	German	Schwanz	ʃ.v.a.n.ʦ	ʃ v a n ts	stan1295	48.649	12.4676	Indo-European	122
+1310	164_tail	tail	Latin	Latin	cauda	k.au.d.a	k au d a	lati1261	41.9026	12.4502	Indo-European	123
+1313	165_that	that	Albanian	Albanian	ai	a.i	a i	gheg1238	42.317	21.3837	Indo-European	775
+1314	165_that	that	English	English	that	ð.a.t	ð a t	stan1293	53.0	-1.0	Indo-European	772
+1315	165_that	that	French	French	cela	s.ə.l.a	s ə l a	stan1290	48.0	2.0	Indo-European	773
+1316	165_that	that	German	German	das	d.a.s	d a s	stan1295	48.649	12.4676	Indo-European	772
+1318	165_that	that	Latin	Latin	illud	i.lː.o	i lː o	lati1261	41.9026	12.4502	Indo-European	777
+1321	166_there	there	Albanian	Albanian	aty	a.t.y	a t y	gheg1238	42.317	21.3837	Indo-European	720
+1322	166_there	there	English	English	there	ð.ɛ.r	ð ɛ r	stan1293	53.0	-1.0	Indo-European	717
+1323	166_there	there	French	French	là	l.a	l a	stan1290	48.0	2.0	Indo-European	718
+1324	166_there	there	German	German	da	d.aː	d aː	stan1295	48.649	12.4676	Indo-European	717
+1326	166_there	there	Latin	Latin	ibi	i.b.i	i b i	lati1261	41.9026	12.4502	Indo-European	722
+1329	167_they	they	Albanian	Albanian	ata	a.t.a	a t a	gheg1238	42.317	21.3837	Indo-European	216
+1330	167_they	they	English	English	they	ð.e	ð e	stan1293	53.0	-1.0	Indo-European	214
+1331	167_they	they	French	French	ils	i.l	i l	stan1290	48.0	2.0	Indo-European	213
+1332	167_they	they	German	German	sie	z.iː	z iː	stan1295	48.649	12.4676	Indo-European	212
+1334	167_they	they	Latin	Latin	ei	e.o	e o	lati1261	41.9026	12.4502	Indo-European	218
+1337	168_thick	thick	Albanian	Albanian	trashë	t.r.a.ʃ	t r a ʃ	gheg1238	42.317	21.3837	Indo-European	690
+1338	168_thick	thick	English	English	thick	θ.ɪ.k	θ ɪ k	stan1293	53.0	-1.0	Indo-European	687
+1339	168_thick	thick	French	French	épais	e.p.ɛ.s	e p ɛ s	stan1290	48.0	2.0	Indo-European	688
+1340	168_thick	thick	German	German	dick	d.i.k	d i k	stan1295	48.649	12.4676	Indo-European	687
+1342	168_thick	thick	Latin	Latin	crassus	k.r.a.sː.o	k r a sː o	lati1261	41.9026	12.4502	Indo-European	692
+1345	169_thin	thin	Albanian	Albanian	hollë	h.o.ł	h o ł	gheg1238	42.317	21.3837	Indo-European	495
+1346	169_thin	thin	English	English	thin	θ.ɪ.n	θ ɪ n	stan1293	53.0	-1.0	Indo-European	492
+1347	169_thin	thin	French	French	mince	m.ɛ̃.s	m ɛ̃ s	stan1290	48.0	2.0	Indo-European	493
+1348	169_thin	thin	German	German	dünn	d.y.n	d y n	stan1295	48.649	12.4676	Indo-European	492
+1350	169_thin	thin	Latin	Latin	tenuis	t.e.n.u.i	t e n u i	lati1261	41.9026	12.4502	Indo-European	492
+1353	170_think	think	Albanian	Albanian	mendon	m.e.n.d.o	m e n d o	gheg1238	42.317	21.3837	Indo-European	639
+1354	170_think	think	English	English	thinks	θ.ɪ.ŋ.k	θ ɪ ŋ k	stan1293	53.0	-1.0	Indo-European	636
+1355	170_think	think	French	French	pense	p.ɑ̃.s.e	p ɑ̃ s e	stan1290	48.0	2.0	Indo-European	637
+1356	170_think	think	German	German	denkt	d.e.ŋ.k	d e ŋ k	stan1295	48.649	12.4676	Indo-European	636
+1358	170_think	think	Latin	Latin	cogitat	k.oː.g.i.t.aː	k oː g i t aː	lati1261	41.9026	12.4502	Indo-European	641
+1361	171_this	this	Albanian	Albanian	ky	k	k	gheg1238	42.317	21.3837	Indo-European	866
+1362	171_this	this	English	English	this	ð.ɪ.s	ð ɪ s	stan1293	53.0	-1.0	Indo-European	863
+1363	171_this	this	French	French	ceci	s.ə.s.i	s ə s i	stan1290	48.0	2.0	Indo-European	864
+1364	171_this	this	German	German	dieses	d.iː.z	d iː z	stan1295	48.649	12.4676	Indo-European	863
+1366	171_this	this	Latin	Latin	hoc	h.o.k	h o k	lati1261	41.9026	12.4502	Indo-European	868
+1369	172_thou	thou	Albanian	Albanian	ti	t	t	gheg1238	42.317	21.3837	Indo-European	585
+1370	172_thou	thou	English	English	you	j.u	j u	stan1293	53.0	-1.0	Indo-European	586
+1371	172_thou	thou	French	French	tu	t.y	t y	stan1290	48.0	2.0	Indo-European	585
+1372	172_thou	thou	German	German	du	d.uː	d uː	stan1295	48.649	12.4676	Indo-European	585
+1374	172_thou	thou	Latin	Latin	tu	t.uː	t uː	lati1261	41.9026	12.4502	Indo-European	585
+1377	173_three	three	Albanian	Albanian	tre	t.r.e	t r e	gheg1238	42.317	21.3837	Indo-European	724
+1378	173_three	three	English	English	three	θ.r.i	θ r i	stan1293	53.0	-1.0	Indo-European	724
+1379	173_three	three	French	French	trois	t.r.w.a	t r w a	stan1290	48.0	2.0	Indo-European	724
+1380	173_three	three	German	German	drei	d.r.ai	d r ai	stan1295	48.649	12.4676	Indo-European	724
+1382	173_three	three	Latin	Latin	tres	t.r.i	t r i	lati1261	41.9026	12.4502	Indo-European	724
+1385	174_throw	throw	Albanian	Albanian	hedh	h.e.ð	h e ð	gheg1238	42.317	21.3837	Indo-European	568
+1386	174_throw	throw	English	English	throws	θ.r.o	θ r o	stan1293	53.0	-1.0	Indo-European	566
+1387	174_throw	throw	French	French	lance	l.ɑ̃.s.e	l ɑ̃ s e	stan1290	48.0	2.0	Indo-European	565
+1388	174_throw	throw	German	German	wirft	v.e.r.f	v e r f	stan1295	48.649	12.4676	Indo-European	564
+1390	174_throw	throw	Latin	Latin	iacit	j.a.k.e	j a k e	lati1261	41.9026	12.4502	Indo-European	570
+1393	175_tie	tie	Albanian	Albanian	lidh	l.i.ð	l i ð	gheg1238	42.317	21.3837	Indo-European	1025
+1394	175_tie	tie	English	English	ties	t.ai	t ai	stan1293	53.0	-1.0	Indo-European	1023
+1395	175_tie	tie	French	French	attache	a.t.a.ʃ.e	a t a ʃ e	stan1290	48.0	2.0	Indo-European	1022
+1396	175_tie	tie	German	German	bindet	b.i.n.d	b i n d	stan1295	48.649	12.4676	Indo-European	1021
+1398	175_tie	tie	Latin	Latin	ligat	l.i.g.aː	l i g aː	lati1261	41.9026	12.4502	Indo-European	1025
+1401	176_tongue	tongue	Albanian	Albanian	gjuhë	ɟ.u.h	ɟ u h	gheg1238	42.317	21.3837	Indo-European	627
+1402	176_tongue	tongue	English	English	tongue	t.ə.ŋ	t ə ŋ	stan1293	53.0	-1.0	Indo-European	625
+1403	176_tongue	tongue	French	French	langue	l.ɑ̃.g	l ɑ̃ g	stan1290	48.0	2.0	Indo-European	625
+1404	176_tongue	tongue	German	German	Zunge	ʦ.u.ŋ.ə	ts u ŋ ə	stan1295	48.649	12.4676	Indo-European	625
+1406	176_tongue	tongue	Latin	Latin	lingua	l.i.n.gw.a	l i n gʷ a	lati1261	41.9026	12.4502	Indo-European	625
+1409	177_tooth	tooth	Albanian	Albanian	dhëmb	ð.ə.m.b	ð ə m b	gheg1238	42.317	21.3837	Indo-European	1188
+1410	177_tooth	tooth	English	English	tooth	t.u.θ	t u θ	stan1293	53.0	-1.0	Indo-European	1186
+1411	177_tooth	tooth	French	French	dent	d.ɑ̃	d ɑ̃	stan1290	48.0	2.0	Indo-European	1186
+1412	177_tooth	tooth	German	German	Zahn	ʦ.aː.n	ts aː n	stan1295	48.649	12.4676	Indo-European	1186
+1414	177_tooth	tooth	Latin	Latin	dens	d.e.n.t	d e n t	lati1261	41.9026	12.4502	Indo-European	1186
+1417	178_tree	tree	Albanian	Albanian	dru	d.r.u.r	d r u r	gheg1238	42.317	21.3837	Indo-European	349
+1418	178_tree	tree	English	English	tree	t.r.i	t r i	stan1293	53.0	-1.0	Indo-European	349
+1419	178_tree	tree	French	French	arbre	a.r.b.r	a r b r	stan1290	48.0	2.0	Indo-European	348
+1420	178_tree	tree	German	German	Baum	b.au.m	b au m	stan1295	48.649	12.4676	Indo-European	347
+1422	178_tree	tree	Latin	Latin	arbor	a.r.b.o.s	a r b o s	lati1261	41.9026	12.4502	Indo-European	348
+1425	179_true	true	Albanian	Albanian	vërtetë	v.ə.r.t.e.t	v ə r t e t	gheg1238	42.317	21.3837	Indo-European	814
+1426	179_true	true	English	English	true	t.r.u	t r u	stan1293	53.0	-1.0	Indo-European	815
+1427	179_true	true	French	French	vrai	v.r.ɛ	v r ɛ	stan1290	48.0	2.0	Indo-European	814
+1428	179_true	true	German	German	wahr	v.aː.r	v aː r	stan1295	48.649	12.4676	Indo-European	814
+1430	179_true	true	Latin	Latin	verus	w.eː.r.o	w eː r o	lati1261	41.9026	12.4502	Indo-European	814
+1433	180_two	two	Albanian	Albanian	dy	d.y	d y	gheg1238	42.317	21.3837	Indo-European	145
+1434	180_two	two	English	English	two	t.u	t u	stan1293	53.0	-1.0	Indo-European	145
+1435	180_two	two	French	French	deux	d.ø	d ø	stan1290	48.0	2.0	Indo-European	145
+1436	180_two	two	German	German	zwei	ʦ.v.ai	ts v ai	stan1295	48.649	12.4676	Indo-European	145
+1438	180_two	two	Latin	Latin	duo	d.u.o	d u o	lati1261	41.9026	12.4502	Indo-European	145
+1441	181_vomit	vomit	Albanian	Albanian	vjell	v.j.e.ł	v j e ł	gheg1238	42.317	21.3837	Indo-European	1211
+1442	181_vomit	vomit	English	English	vomits	v.ɑ.m.ə.t	v ɑ m ə t	stan1293	53.0	-1.0	Indo-European	1209
+1443	181_vomit	vomit	French	French	vomit	v.ɔ.m.i	v ɔ m i	stan1290	48.0	2.0	Indo-European	1209
+1444	181_vomit	vomit	German	German	erbricht	e.r.b.r.e.x	e r b r e x	stan1295	48.649	12.4676	Indo-European	1208
+1446	181_vomit	vomit	Latin	Latin	vomit	w.o.m.e	w o m e	lati1261	41.9026	12.4502	Indo-European	1209
+1449	182_wash	wash	Albanian	Albanian	lau	l.a	l a	gheg1238	42.317	21.3837	Indo-European	667
+1450	182_wash	wash	English	English	washes	w.ɑ.ʃ	w ɑ ʃ	stan1293	53.0	-1.0	Indo-European	666
+1451	182_wash	wash	French	French	lave	l.a.v.e	l a v e	stan1290	48.0	2.0	Indo-European	667
+1452	182_wash	wash	German	German	wäscht	v.a.ʃ	v a ʃ	stan1295	48.649	12.4676	Indo-European	666
+1454	182_wash	wash	Latin	Latin	lavat	l.a.w.aː	l a w aː	lati1261	41.9026	12.4502	Indo-European	667
+1457	183_water	water	Albanian	Albanian	ujë	u.j	u j	gheg1238	42.317	21.3837	Indo-European	527
+1458	183_water	water	English	English	water	w.ɑ.t.ə.r	w ɑ t ə r	stan1293	53.0	-1.0	Indo-European	527
+1459	183_water	water	French	French	eau	o	o	stan1290	48.0	2.0	Indo-European	528
+1460	183_water	water	German	German	Wasser	v.a.s.ə.r	v a s ə r	stan1295	48.649	12.4676	Indo-European	527
+1462	183_water	water	Latin	Latin	aqua	a.kw.a	a kʷ a	lati1261	41.9026	12.4502	Indo-European	528
+1465	184_we	we	Albanian	Albanian	né	n	n	gheg1238	42.317	21.3837	Indo-European	499
+1466	184_we	we	English	English	we	w.i	w i	stan1293	53.0	-1.0	Indo-European	498
+1467	184_we	we	French	French	nous	n.u	n u	stan1290	48.0	2.0	Indo-European	499
+1468	184_we	we	German	German	wir	v.iː.r	v iː r	stan1295	48.649	12.4676	Indo-European	498
+1470	184_we	we	Latin	Latin	nos	n.oː	n oː	lati1261	41.9026	12.4502	Indo-European	499
+1473	185_wet	wet	Albanian	Albanian	lagët	l.a.g.ə.t	l a g ə t	gheg1238	42.317	21.3837	Indo-European	141
+1474	185_wet	wet	English	English	wet	w.ɛ.t	w ɛ t	stan1293	53.0	-1.0	Indo-European	139
+1475	185_wet	wet	French	French	mouillé	m.u.j.e	m u j e	stan1290	48.0	2.0	Indo-European	138
+1476	185_wet	wet	German	German	nass	n.a.s	n a s	stan1295	48.649	12.4676	Indo-European	137
+1478	185_wet	wet	Latin	Latin	umidus	uː.m.i.d.o	uː m i d o	lati1261	41.9026	12.4502	Indo-European	143
+1481	186_what	what	Albanian	Albanian	ç'	ʧ	tʃ	gheg1238	42.317	21.3837	Indo-European	418
+1482	186_what	what	English	English	what	w.ɑ.t	w ɑ t	stan1293	53.0	-1.0	Indo-European	416
+1483	186_what	what	French	French	quoi	k.w.a	k w a	stan1290	48.0	2.0	Indo-European	416
+1484	186_what	what	German	German	was	v	v	stan1295	48.649	12.4676	Indo-European	416
+1486	186_what	what	Latin	Latin	quid	kw.o	kʷ o	lati1261	41.9026	12.4502	Indo-European	416
+1489	187_white	white	Albanian	Albanian	bardhë	b.a.r.ð	b a r ð	gheg1238	42.317	21.3837	Indo-European	535
+1490	187_white	white	English	English	white	w.ai.t	w ai t	stan1293	53.0	-1.0	Indo-European	532
+1491	187_white	white	French	French	blanc	b.l.ɑ̃.ʃ	b l ɑ̃ ʃ	stan1290	48.0	2.0	Indo-European	533
+1492	187_white	white	German	German	weiß	v.ai.s	v ai s	stan1295	48.649	12.4676	Indo-European	532
+1494	187_white	white	Latin	Latin	albus	a.l.b.o	a l b o	lati1261	41.9026	12.4502	Indo-European	537
+1497	188_who	who	Albanian	Albanian	kush	k	k	gheg1238	42.317	21.3837	Indo-European	992
+1498	188_who	who	English	English	who	h.u	h u	stan1293	53.0	-1.0	Indo-European	992
+1499	188_who	who	French	French	qui	k.i	k i	stan1290	48.0	2.0	Indo-European	992
+1500	188_who	who	German	German	wer	v.eː	v eː	stan1295	48.649	12.4676	Indo-European	992
+1502	188_who	who	Latin	Latin	quis	kw.o	kʷ o	lati1261	41.9026	12.4502	Indo-European	992
+1505	189_wide	wide	Albanian	Albanian	gjerë	ɟ.e.r	ɟ e r	gheg1238	42.317	21.3837	Indo-European	184
+1506	189_wide	wide	English	English	wide	w.ai.d	w ai d	stan1293	53.0	-1.0	Indo-European	181
+1507	189_wide	wide	French	French	large	l.a.r.ʒ	l a r ʒ	stan1290	48.0	2.0	Indo-European	182
+1508	189_wide	wide	German	German	weit	v.ai.t	v ai t	stan1295	48.649	12.4676	Indo-European	181
+1510	189_wide	wide	Latin	Latin	latus	l.aː.t.o	l aː t o	lati1261	41.9026	12.4502	Indo-European	186
+1513	190_wife	wife	Albanian	Albanian	grua	g.r.u	g r u	gheg1238	42.317	21.3837	Indo-European	1165
+1514	190_wife	wife	English	English	wife	w.ai.f	w ai f	stan1293	53.0	-1.0	Indo-European	1163
+1515	190_wife	wife	French	French	femme	f.a.m	f a m	stan1290	48.0	2.0	Indo-European	1162
+1516	190_wife	wife	German	German	Gattin	g.a.t.i.n	g a t i n	stan1295	48.649	12.4676	Indo-European	1161
+1518	190_wife	wife	Latin	Latin	uxor	u.k.s.o.r	u k s o r	lati1261	41.9026	12.4502	Indo-European	1167
+1521	191_wind	wind	Albanian	Albanian	erë	e.r	e r	gheg1238	42.317	21.3837	Indo-European	1235
+1522	191_wind	wind	English	English	wind	w.ɪ.n.d	w ɪ n d	stan1293	53.0	-1.0	Indo-European	1233
+1523	191_wind	wind	French	French	vent	v.ɑ̃	v ɑ̃	stan1290	48.0	2.0	Indo-European	1233
+1524	191_wind	wind	German	German	Wind	v.i.n.d	v i n d	stan1295	48.649	12.4676	Indo-European	1233
+1526	191_wind	wind	Latin	Latin	ventus	w.e.n.t.o	w e n t o	lati1261	41.9026	12.4502	Indo-European	1233
+1529	192_wing	wing	Albanian	Albanian	fletë	f.l.e.t	f l e t	gheg1238	42.317	21.3837	Indo-European	1230
+1530	192_wing	wing	English	English	wing	w.ɪ.ŋ	w ɪ ŋ	stan1293	53.0	-1.0	Indo-European	1228
+1531	192_wing	wing	French	French	aile	ɛ.l	ɛ l	stan1290	48.0	2.0	Indo-European	1227
+1532	192_wing	wing	German	German	Flügel	f.l.yː.g.ə.l	f l yː g ə l	stan1295	48.649	12.4676	Indo-European	1226
+1534	192_wing	wing	Latin	Latin	ala	aː.l.a	aː l a	lati1261	41.9026	12.4502	Indo-European	1227
+1537	193_wipe	wipe	Albanian	Albanian	fshin	f.ʃ.i	f ʃ i	gheg1238	42.317	21.3837	Indo-European	1139
+1538	193_wipe	wipe	English	English	wipes	w.ai.p	w ai p	stan1293	53.0	-1.0	Indo-European	1137
+1539	193_wipe	wipe	French	French	essuie	e.s.ɥ.i.j.e	e s ɥ i j e	stan1290	48.0	2.0	Indo-European	1136
+1540	193_wipe	wipe	German	German	wischt	v.i.ʃ	v i ʃ	stan1295	48.649	12.4676	Indo-European	1135
+1542	193_wipe	wipe	Latin	Latin	terget	t.e.r.g.eː	t e r g eː	lati1261	41.9026	12.4502	Indo-European	1141
+1545	194_with	with	Albanian	Albanian	me	m.e	m e	gheg1238	42.317	21.3837	Indo-European	92
+1546	194_with	with	English	English	with	w.ɪ.θ	w ɪ θ	stan1293	53.0	-1.0	Indo-European	94
+1547	194_with	with	French	French	avec	a.v.ɛ.k	a v ɛ k	stan1290	48.0	2.0	Indo-European	93
+1548	194_with	with	German	German	mit	m.i.t	m i t	stan1295	48.649	12.4676	Indo-European	92
+1550	194_with	with	Latin	Latin	cum	k.u.m	k u m	lati1261	41.9026	12.4502	Indo-European	97
+1553	195_woman	woman	Albanian	Albanian	grua	g.r.u	g r u	gheg1238	42.317	21.3837	Indo-European	859
+1554	195_woman	woman	English	English	woman	w.ʊ.m.ə.n	w ʊ m ə n	stan1293	53.0	-1.0	Indo-European	857
+1555	195_woman	woman	French	French	femme	f.a.m	f a m	stan1290	48.0	2.0	Indo-European	856
+1556	195_woman	woman	German	German	Frau	f.r.au	f r au	stan1295	48.649	12.4676	Indo-European	855
+1558	195_woman	woman	Latin	Latin	mulier	m.u.l.i.e.r	m u l i e r	lati1261	41.9026	12.4502	Indo-European	861
+1561	196_woods	woods	Albanian	Albanian	pyll	p.y.ł	p y ł	gheg1238	42.317	21.3837	Indo-European	34
+1562	196_woods	woods	English	English	woods	w.ʊ.d	w ʊ d	stan1293	53.0	-1.0	Indo-European	32
+1563	196_woods	woods	French	French	bois	b.w.a	b w a	stan1290	48.0	2.0	Indo-European	31
+1564	196_woods	woods	German	German	Wald	v.a.l.d	v a l d	stan1295	48.649	12.4676	Indo-European	30
+1566	196_woods	woods	Latin	Latin	silva	s.i.l.w.a	s i l w a	lati1261	41.9026	12.4502	Indo-European	36
+1569	197_worm	worm	Albanian	Albanian	krimb	k.r.i.m.b	k r i m b	gheg1238	42.317	21.3837	Indo-European	886
+1570	197_worm	worm	English	English	worm	w.ə.r.m	w ə r m	stan1293	53.0	-1.0	Indo-European	884
+1571	197_worm	worm	French	French	ver	v.ɛ.r	v ɛ r	stan1290	48.0	2.0	Indo-European	884
+1572	197_worm	worm	German	German	Wurm	v.u.r.m	v u r m	stan1295	48.649	12.4676	Indo-European	884
+1574	197_worm	worm	Latin	Latin	vermis	w.e.r.m.i	w e r m i	lati1261	41.9026	12.4502	Indo-European	884
+1577	198_year	year	Albanian	Albanian	vit	v.i.t	v i t	gheg1238	42.317	21.3837	Indo-European	406
+1578	198_year	year	English	English	year	j.ɪ.r	j ɪ r	stan1293	53.0	-1.0	Indo-European	403
+1579	198_year	year	French	French	année	a.n.e	a n e	stan1290	48.0	2.0	Indo-European	404
+1580	198_year	year	German	German	Jahr	j.aː.r	j aː r	stan1295	48.649	12.4676	Indo-European	403
+1582	198_year	year	Latin	Latin	annus	a.nː.o	a nː o	lati1261	41.9026	12.4502	Indo-European	404
+1585	199_yellow	yellow	Albanian	Albanian	verdhë	v.e.r.ð	v e r ð	gheg1238	42.317	21.3837	Indo-European	16
+1586	199_yellow	yellow	English	English	yellow	j.ɛ.l.o	j ɛ l o	stan1293	53.0	-1.0	Indo-European	14
+1587	199_yellow	yellow	French	French	jaune	ʒ.o.n	ʒ o n	stan1290	48.0	2.0	Indo-European	14
+1588	199_yellow	yellow	German	German	gelb	g.e.l.b	g e l b	stan1295	48.649	12.4676	Indo-European	14
+1590	199_yellow	yellow	Latin	Latin	flavos	f.l.aː.w.o	f l aː w o	lati1261	41.9026	12.4502	Indo-European	18
+1593	200_you	you	Albanian	Albanian	ju	j.u	j u	gheg1238	42.317	21.3837	Indo-European	1029
+1594	200_you	you	English	English	you	j.u	j u	stan1293	53.0	-1.0	Indo-European	1028
+1595	200_you	you	French	French	vous	v.u	v u	stan1290	48.0	2.0	Indo-European	1029
+1596	200_you	you	German	German	ihr	iː.r	iː r	stan1295	48.649	12.4676	Indo-European	1028
+1598	200_you	you	Latin	Latin	vos	w.oː	w oː	lati1261	41.9026	12.4502	Indo-European	1029

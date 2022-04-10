@@ -2,8 +2,8 @@ from pathlib import Path
 from sigtypst2022 import (
         CorPaRClassifier, Baseline, download, prepare,
         load_cognate_file, write_cognate_file, 
-        split_training_test_data, split_data, ungap, simple_align,
-        predict_words, compare_words, bleu_score)
+        split_training_test_data, split_data, simple_align,
+        predict_words, compare_words)
 import tempfile
 
 
@@ -33,30 +33,6 @@ def test_download():
                 DATASETS,
                 Path(f))
 
-
-def test_bleu_score():
-
-    candidate = "this is a test".split()
-    reference = "this is a small test".split()
-
-    assert round(
-            bleu_score(
-                candidate, 
-                reference, 
-                weights=[0.5, 0.5],
-                n=2,
-                trim=True
-                ),
-            2) == 0.64
-
-    assert round(
-            bleu_score(
-                candidate,
-                reference,
-                weights=[0.5, 0.5],
-                n=2,
-                trim=False),
-            2) == 0.70
     
 
 
@@ -83,12 +59,6 @@ def test_write_cognate_file():
                 "2": {"a": "b", "b": "c"}
                 }
         write_cognate_file(languages, data, out)
-
-
-def test_ungap():
-    
-    out = ungap([["p", "-", "a"], ["p", "j", "a"]], ["German", "E"], "E")
-    assert out[1][0] == "p.j"
 
 
 def test_simple_align():

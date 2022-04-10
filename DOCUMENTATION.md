@@ -9,7 +9,9 @@ $ cd ST2022
 $ pip install -e .
 ```
 
-## Initializing the Development Data
+## 2 Initializing the Data
+
+### 2.1 Development Data
 
 Development data is derived from CLDF datasts (https://cldf.clld.org) from the Lexibank repository (https://github.com/lexibank/lexibank-analysed). Participants of the shared task do not need to follow these steps, abut we document htem here for completeness.
 
@@ -18,7 +20,7 @@ The packages are stored in the file `datasets.json`. This file contains the deve
 To download the 10 development datasets with GIT, you can use the commandline, after having installed the `st2022` package successfully:
 
 ```
-$ st2022 --download --cldf-data=cldf-data --datapath=data --datasets=datasts.json
+$ st2022 --download --cldf-data=cldf-data --datapath=data --datasets=datasets.json
 ```
 
 This will download the data and store the datasets in the folder `cldf-data` on your system. Since the datasets are GIT repositories themselves, we do not provide them along with this package, but since they are all versionized, you will have the same versions on your system as other users, if you download them with the command above.
@@ -40,6 +42,17 @@ $ st2022 --split --datapath=data --datasets=dataset.json --seed
 This will prepeare test-training splits in five versions (proportions of 0.1, 0.2, 0.3, 0.4, and 0.5 retained for testing). It will produce three files per dataset and proportion, all stored in the folder `data/DATASETID`. A file `solutions-{PROP}.tsv` (e.g., `solutions-0.10.tsv`), containing the solutions, and no further entries in our tabular format with languages as columns and cognate sets as rows. A file `training-{PROP}.tsv` (`training-0.10.tsv`) containing the training data, and a file `test-{PROP}.tsv` (`test-0.20.tsv`), containing the training data. In the latter file, the words that should be predicted are indicated by a `?`.
 
 Note that these two steps are already carried out as part of the release of the development data. So you can test them for curiosity, but there is no need to run them, since we provide all data in the folder `data`.
+
+### 2.2 Surprise Data
+
+The JSON file containing the links to the suprise datasets is called `data-surprise.json`, so in all commands, you have to replace `dataset.json` with `data-surprise.json`. While we download CLDF datasets into the same `cldf-data` folder (for convenience), we make a clear distinction, downloading data now to a `data-surprise` folder. 
+
+```
+$ st2022 --download --cldf-data=cldf-data --datapath=data-surprise --datasets=datasets-surprise.json
+$ st2022 --prepare --cldf-data=cldf-data --datapath=data-surprise --datasets=datasets-surprise.json --runs=10000
+```
+
+
 
 ## 3 Analyzing the Data with the Baseline
 

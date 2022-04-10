@@ -1,4 +1,5 @@
 appdirs==1.4.4
+lingrex==1.2
 asttokens==2.0.5
 attrs==21.4.0
 backcall==0.2.0
