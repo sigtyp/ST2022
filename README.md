@@ -65,7 +65,10 @@ There are quite a few studies on supervised phonological reconstruction now. Unf
 * Liviu Dinu and Alina Maria Ciobanu. 2014. Building a dataset of multilingual cognates for the Romanian lexicon. In Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC’14), pages 1038–1043, Reykjavik, Iceland.  European Language Resources Association (ELRA).
 * Timotheus Adrianus Bodt and Johann-Mattis List. 2021.  Reflex prediction. a case study of Western Kho-Bwa.  Diachronica:1–38.
 * Johann-Mattis List. 2019a. Automatic inference of sound correspondence patterns across multiple languages. Computational Linguistics, 45(1):137–161.
-* Carlo Meloni, Shauli Ravfogel, and Yoav Goldberg.  2021. Ab antiquo: Neural proto-language recon- struction. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Tech- nologies, pages 4460–4473, Online. Association for Computational Linguistics.
+* Carlo Meloni, Shauli Ravfogel, and Yoav Goldberg.  2021. Ab antiquo: Neural proto-language recon- struction. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 4460–4473, Online. Association for Computational Linguistics.
+* Lisa Beinborn, Torsten Zesch, and Iryna Gurevych.  2013. Cognate production using character-based machine translation. In Proceedings of the Sixth International Joint Conference on Natural Language Processing, pages 883–891.
+* Peter Dekker and Willem Zuidema. 2021. Word prediction in computational historical linguistics. Journal of Language Modelling, 8(2):295–336.
+* Clémentine Fourrier, Rachel Bawden, and Benoît Sagot.  2021. Can cognate prediction be modelled as a low-resource machine translation task? In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, pages 847–861, Online. Association for Computational Linguistics.
 
 ## 3 Datasets and Data Formats
 
@@ -85,7 +88,7 @@ All wordlist data are represented in this way, also the test data, and the solut
 
 When testing the methods on the unseen datasets (the surprise data), we provide the input data in the form of a CSV file in which those words which should be predicted are marked by an `?`, while missing entries (resulting from real gaps in the cognate sets) are simply left blank. 
 
-We plan to provide different proportions of missing data, ranging from 10% up to 50% i steps of 10%. This will allow users to check how robust their systems are with respect to differing degrees of missing data.  
+We provide different proportions of missing data, ranging from 10% up to 50% i steps of 10%. This will allow users to check how robust their systems are with respect to differing degrees of missing data.  
 
 # 4 Evaluation
 
@@ -93,13 +96,17 @@ The expected prediction result for a given reflex is a list of phonetic transcri
 
 An additional evaluation measure based on alignments was proposed by [List (2019b)](https://doi.org/10.1515/tl-2019-0016). This measure takes into account that an algorithm might in theory commit systematic errors, which might be overly penalized by the edit distance. This method, which computes the B-Cubed F-Scores between the aligned predictions and attested forms, has been ignored in most approaches to supervised reflex prediction, but we consider it nevertheless useful to include it into the evaluation scores to be reported, since it comes theoretically much closer to the idea of regular sound correspondences in classical historical linguistics. 
 
-Our dedicated Python package for the shared task allows to compute all evaluation measures mentioned above (edit distance in raw and normalized form, B-Cubed F-Scores) from TSV files which can be passed to the command line as input. For the purpose of development, scholars can also use these metrics directly from within their Python scripts.
+After some discussion, we decided to add the BLEU scores (Papineni et al. 2002), although there were mixed opinions in our team, to which degree they are useful for this task in the end. But BLEU scores were now included with [LingRex, version 1.2](https://pypi.org/project/lingrex) and are therefore included in our little library for the shared task.
 
-As a baseline, we will provide the method by [List (2019)](http://doi.org/10.1162/coli_a_00344), for which we will make a new release of the [LingRex](https://github.com/lingpy/lingrex) Python package, where the method will be included.
+Our dedicated Python package for the shared task allows to compute all evaluation measures mentioned above (edit distance in raw and normalized form, B-Cubed F-Scores, BLEU Scores) from TSV files which can be passed to the command line as input. For the purpose of development, scholars can also use these metrics directly from within their Python scripts.
+
+As a baseline, we provide the method by [List (2019)](http://doi.org/10.1162/coli_a_00344) in a new version by [List et al. (forthcoming)](https://doi.org/10.5281/zenodo.6426074) for which we made a new release of the [LingRex](https://github.com/lingpy/lingrex) Python package (Version 1.2).
 
 # 5 Data for Development and Data for the Final Evaluation (Surprise Data)
 
-Our development data, which users should use to test and design their models, consists of 10 CLDF datasets of varying size, language families, and time depths. Some datasets may be extremely small, giving algorithms a hard time to predict words correctly, others are rather large, but languages may be distantly related. Data for the development phase may contain datasets which have been used in previous studies. For the actual testing of different systems, we will use 10 CLDF datasets which have so far not been analyzed in previous studies. To make sure that there are no major flaws in these datasets, all of them will be thoroughly checked and analyzed with our baseline methods.
+Our development data, which users should use to test and design their models, consists of 10 CLDF datasets of varying size, language families, and time depths. Some datasets may be extremely small, giving algorithms a hard time to predict words correctly, others are rather large, but languages may be distantly related. Data for the development phase may contain datasets which have been used in previous studies. 
+
+For the actual testing of different systems, we have selected 10 CLDF datasets which are similar to the data in the training set, with respect to the language families in question and the size of the datasets, and have so far only rarely been used in previous studies. 
 
 # 6 Participation
 

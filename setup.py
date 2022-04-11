@@ -27,7 +27,7 @@ setup(
     zip_safe=False,
     platforms='any',
     python_requires='>=3.6',
-    install_requires=["lingpy", "gitpython", "python-igraph"],
+    install_requires=["lingpy", "gitpython", "lingrex", "python-igraph"],
     entry_points={"console_scripts": ["st2022=sigtypst2022:main"]},
     extras_require={
         'dev': ['wheel', 'twine'],

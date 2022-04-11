@@ -1,0 +1,1585 @@
+ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATITUDE	LONGITUDE	LANGUAGE_SUBGROUP	PARTIAL_COGNACY	COGIDS
+1554	99_i	I	NamHsan	Namhsan	Ɂɔː	Ɂɔː	ʔ ɔː		22.965064	97.163239	Palaung	1	1
+1555	99_i	I	KhunHawt	Khun Hawt	Ɂoː	Ɂoː	ʔ oː		22.965064	97.163239	Palaung	1	1
+1556	99_i	I	HtanHsan	Htan Hsan	Ɂɔː	Ɂɔː	ʔ ɔː		22.675133	97.289942	Palaung	1	1
+1557	99_i	I	ManLoi	Man Loi	Ɂɔː	Ɂɔː	ʔ ɔː		22.636019	97.139264	Palaung	1	1
+1558	99_i	I	MengDan	Meng Dan	ʔoː	ʔoː	ʔ oː	khan1274	24.296522	98.379886	Palaung	1	1
+1559	99_i	I	ChuDongGua	Chu Dong Gua	ʔoː	ʔoː	ʔ oː		24.330889	98.393125	Palaung	1	1
+1560	99_i	I	XiangZhaiTang	Xiang Zhai Tang	Ɂow	Ɂow	ʔ ou̯	ruma1248	24.323819	98.556639	Palaung	1	1
+1561	99_i	I	PongNuea	Pong Nuea	Ɂow	Ɂow	ʔ ou̯		20.321525	99.866817	Palaung	1	1
+1562	99_i	I	NyaungGone	Nyaung Gone	ʔo	ʔo	ʔ o		20.635025	96.545772	Palaung	1	1
+1563	99_i	I	NoeLae	Noe Lae	Ɂo	Ɂo	ʔ o		19.941803	99.044742	Palaung	1	1
+1564	99_i	I	BanPaw	Ban Paw	Ɂo	Ɂo	ʔ o		21.311225	99.557550	Palaung	1	1
+1565	99_i	I	ChaYeQing	Cha Ye Qing	Ɂaw	Ɂaw	ʔ au̯		24.305717	98.463661	Palaung	1	1
+1566	99_i	I	GuangKa	Guang Ka	Ɂau	Ɂau	ʔ au̯	ruma1248	24.065714	97.796281	Palaung	1	1
+1567	99_i	I	MangBang	Mang Bang	Ɂaw	Ɂaw	ʔ au̯	ruma1248	24.416392	98.399078	Palaung	1	1
+1568	99_i	I	NanSang	Nan Sang	Ɂaw	Ɂaw	ʔ au̯	ruma1248	24.019728	97.819736	Palaung	1	1
+593	38_abdomen	abdomen	NamHsan	Namhsan	vɛɁ	vɛɁ	v ɛ ʔ		22.965064	97.163239	Palaung	17	17
+594	38_abdomen	abdomen	KhunHawt	Khun Hawt	vac	vac	v a c		22.965064	97.163239	Palaung	17	17
+595	38_abdomen	abdomen	HtanHsan	Htan Hsan	vaic	vaic	v ai̯ c		22.675133	97.289942	Palaung	17	17
+596	38_abdomen	abdomen	PangKham	Pangkham	waɁ	waɁ	w a ʔ		22.672097	97.161167	Palaung	17	17
+597	38_abdomen	abdomen	ManLoi	Man Loi	vaiɁ	vaiɁ	v ai̯ ʔ		22.636019	97.139264	Palaung	17	17
+598	38_abdomen	abdomen	MengDan	Meng Dan	veʔ	veʔ	v e ʔ	khan1274	24.296522	98.379886	Palaung	17	17
+599	38_abdomen	abdomen	ChuDongGua	Chu Dong Gua	vɛʔ	vɛʔ	v ɛ ʔ		24.330889	98.393125	Palaung	17	17
+600	38_abdomen	abdomen	XiangZhaiTang	Xiang Zhai Tang	vac	vac	v a c	ruma1248	24.323819	98.556639	Palaung	17	17
+601	38_abdomen	abdomen	PongNuea	Pong Nuea	vaic	vaic	v ai̯ c		20.321525	99.866817	Palaung	17	17
+602	38_abdomen	abdomen	NyaungGone	Nyaung Gone	văt	văt	v ă t		20.635025	96.545772	Palaung	17	17
+603	38_abdomen	abdomen	NoeLae	Noe Lae	văc	văc	v ă c		19.941803	99.044742	Palaung	17	17
+604	38_abdomen	abdomen	BanPaw	Ban Paw	văt	văt	v ă t		21.311225	99.557550	Palaung	17	17
+605	38_abdomen	abdomen	ChaYeQing	Cha Ye Qing	vat	vat	v a t		24.305717	98.463661	Palaung	17	17
+606	38_abdomen	abdomen	GuangKa	Guang Ka	vat	vat	v a t	ruma1248	24.065714	97.796281	Palaung	17	17
+607	38_abdomen	abdomen	MangBang	Mang Bang	vat	vat	v a t	ruma1248	24.416392	98.399078	Palaung	17	17
+608	38_abdomen	abdomen	NanSang	Nan Sang	vat	vat	v a t	ruma1248	24.019728	97.819736	Palaung	17	17
+854	55_ashes	ashes	NamHsan	Namhsan	kafaːŋ	kafaːŋ	k a + f aː ŋ		22.965064	97.163239	Palaung	175 37	175 37
+855	55_ashes	ashes	KhunHawt	Khun Hawt	kafaːŋ	kafaːŋ	k a + f aː ŋ		22.965064	97.163239	Palaung	175 37	175 37
+856	55_ashes	ashes	HtanHsan	Htan Hsan	kafaːŋ	kafaːŋ	k a + f aː ŋ		22.675133	97.289942	Palaung	175 37	175 37
+857	55_ashes	ashes	PangKham	Pangkham	kafaːŋ	kafaːŋ	k a + f aː ŋ		22.672097	97.161167	Palaung	175 37	175 37
+858	55_ashes	ashes	ManLoi	Man Loi	kafaːŋ	kafaːŋ	k a + f aː ŋ		22.636019	97.139264	Palaung	175 37	175 37
+859	55_ashes	ashes	MengDan	Meng Dan	kəfɛːŋ	kəfɛːŋ	k ə + f ɛː ŋ	khan1274	24.296522	98.379886	Palaung	175 37	175 37
+860	55_ashes	ashes	ChuDongGua	Chu Dong Gua	kafaːŋ	kafaːŋ	k a + f aː ŋ		24.330889	98.393125	Palaung	175 37	175 37
+861	55_ashes	ashes	XiangZhaiTang	Xiang Zhai Tang	kafaːŋ	kafaːŋ	k a + f aː ŋ	ruma1248	24.323819	98.556639	Palaung	175 37	175 37
+862	55_ashes	ashes	PongNuea	Pong Nuea	brɔŋɔː	brɔŋɔː	b r ɔ + ŋ ɔː		20.321525	99.866817	Palaung	34 35	34 35
+863	55_ashes	ashes	NyaungGone	Nyaung Gone	brɔ ŋɔ	brɔ ŋɔ	b r ɔ + ŋ ɔ		20.635025	96.545772	Palaung	34 35	34 35
+864	55_ashes	ashes	NoeLae	Noe Lae	brɔ ŋɔ	brɔ ŋɔ	b r ɔ + ŋ ɔ		19.941803	99.044742	Palaung	34 35	34 35
+865	55_ashes	ashes	BanPaw	Ban Paw	brɔ ŋɔ	brɔ ŋɔ	b r ɔ + ŋ ɔ		21.311225	99.557550	Palaung	34 576	34 576
+866	55_ashes	ashes	ChaYeQing	Cha Ye Qing	kafaːŋ	kafaːŋ	k a + f aː ŋ		24.305717	98.463661	Palaung	175 37	175 37
+867	55_ashes	ashes	GuangKa	Guang Ka	kafaːŋ	kafaːŋ	k a + f aː ŋ	ruma1248	24.065714	97.796281	Palaung	175 37	175 37
+868	55_ashes	ashes	MangBang	Mang Bang	kafaːŋ	kafaːŋ	k a + f aː ŋ	ruma1248	24.416392	98.399078	Palaung	175 37	175 37
+869	55_ashes	ashes	NanSang	Nan Sang	kafaːŋ	kafaːŋ	k a + f aː ŋ	ruma1248	24.019728	97.819736	Palaung	175 37	175 37
+369	24_bird	bird	NamHsan	Namhsan	sim	sim	s i m		22.965064	97.163239	Palaung	68	68
+370	24_bird	bird	KhunHawt	Khun Hawt	sim	sim	s i m		22.965064	97.163239	Palaung	68	68
+371	24_bird	bird	HtanHsan	Htan Hsan	sim	sim	s i m		22.675133	97.289942	Palaung	68	68
+372	24_bird	bird	PangKham	Pangkham	sim	sim	s i m		22.672097	97.161167	Palaung	68	68
+373	24_bird	bird	ManLoi	Man Loi	sim	sim	s i m		22.636019	97.139264	Palaung	68	68
+374	24_bird	bird	MengDan	Meng Dan	sim	sim	s i m	khan1274	24.296522	98.379886	Palaung	68	68
+375	24_bird	bird	ChuDongGua	Chu Dong Gua	sim	sim	s i m		24.330889	98.393125	Palaung	68	68
+376	24_bird	bird	XiangZhaiTang	Xiang Zhai Tang	siːm	siːm	s iː m	ruma1248	24.323819	98.556639	Palaung	68	68
+377	24_bird	bird	PongNuea	Pong Nuea	masiːm	masiːm	m a + s iː m		20.321525	99.866817	Palaung	1110 68	1110 68
+378	24_bird	bird	NyaungGone	Nyaung Gone	masim	masim	m a + s i m		20.635025	96.545772	Palaung	1110 68	1110 68
+379	24_bird	bird	NoeLae	Noe Lae	masim	masim	m a + s i m		19.941803	99.044742	Palaung	1110 68	1110 68
+380	24_bird	bird	BanPaw	Ban Paw	masim	masim	m a + s i m		21.311225	99.557550	Palaung	1110 68	1110 68
+381	24_bird	bird	ChaYeQing	Cha Ye Qing	siːm	siːm	s iː m		24.305717	98.463661	Palaung	68	68
+382	24_bird	bird	GuangKa	Guang Ka	siːm	siːm	s iː m	ruma1248	24.065714	97.796281	Palaung	68	68
+383	24_bird	bird	MangBang	Mang Bang	siːm	siːm	s iː m	ruma1248	24.416392	98.399078	Palaung	68	68
+384	24_bird	bird	NanSang	Nan Sang	siːm	siːm	s iː m	ruma1248	24.019728	97.819736	Palaung	68	68
+321	21_bite	bite	NamHsan	Namhsan	ɡaɁ	ɡaɁ	g a ʔ		22.965064	97.163239	Palaung	88	88
+322	21_bite	bite	KhunHawt	Khun Hawt	ɡaɁ	ɡaɁ	g a ʔ		22.965064	97.163239	Palaung	88	88
+323	21_bite	bite	HtanHsan	Htan Hsan	ɡaɁ	ɡaɁ	g a ʔ		22.675133	97.289942	Palaung	88	88
+324	21_bite	bite	PangKham	Pangkham	ɡak	ɡak	g a k		22.672097	97.161167	Palaung	88	88
+325	21_bite	bite	ManLoi	Man Loi	kak	kak	k a k		22.636019	97.139264	Palaung	88	88
+326	21_bite	bite	MengDan	Meng Dan	kiaʔ	kiaʔ	k i/j a ʔ	khan1274	24.296522	98.379886	Palaung	88	88
+327	21_bite	bite	ChuDongGua	Chu Dong Gua	ɡa?	ɡa?	g a ʔ		24.330889	98.393125	Palaung	88	88
+328	21_bite	bite	XiangZhaiTang	Xiang Zhai Tang	kɔɁ	kɔɁ	k ɔ ʔ	ruma1248	24.323819	98.556639	Palaung	88	88
+329	21_bite	bite	PongNuea	Pong Nuea	kauɁ	kauɁ	k au̯ ʔ		20.321525	99.866817	Palaung	88	88
+330	21_bite	bite	NyaungGone	Nyaung Gone	kauʔ	kauʔ	k au̯ ʔ		20.635025	96.545772	Palaung	88	88
+331	21_bite	bite	NoeLae	Noe Lae	kauɁ	kauɁ	k au̯ ʔ		19.941803	99.044742	Palaung	88	88
+332	21_bite	bite	BanPaw	Ban Paw	kauɁ	kauɁ	k au̯ ʔ		21.311225	99.557550	Palaung	88	88
+333	21_bite	bite	ChaYeQing	Cha Ye Qing	ɡak	ɡak	g a k		24.305717	98.463661	Palaung	88	88
+334	21_bite	bite	GuangKa	Guang Ka	ɡak	ɡak	g a k	ruma1248	24.065714	97.796281	Palaung	88	88
+335	21_bite	bite	MangBang	Mang Bang	ɡɔk	ɡɔk	g ɔ k	ruma1248	24.416392	98.399078	Palaung	88	88
+336	21_bite	bite	NanSang	Nan Sang	kɔk	kɔk	k ɔ k	ruma1248	24.019728	97.819736	Palaung	88	88
+1426	91_black	black	NamHsan	Namhsan	ʥәm	ʥәm	dʑ ə m		22.965064	97.163239	Palaung	106	106
+1427	91_black	black	KhunHawt	Khun Hawt	ʥәm	ʥәm	dʑ ə m		22.965064	97.163239	Palaung	106	106
+1428	91_black	black	HtanHsan	Htan Hsan	ʥәm	ʥәm	dʑ ə m		22.675133	97.289942	Palaung	106	106
+1429	91_black	black	PangKham	Pangkham	vaŋ	vaŋ	v a ŋ		22.672097	97.161167	Palaung	105	105
+1430	91_black	black	ManLoi	Man Loi	vaŋ	vaŋ	v a ŋ		22.636019	97.139264	Palaung	105	105
+1431	91_black	black	MengDan	Meng Dan	vaŋ	vaŋ	v a ŋ	khan1274	24.296522	98.379886	Palaung	105	105
+1432	91_black	black	ChuDongGua	Chu Dong Gua	vaŋ	vaŋ	v a ŋ		24.330889	98.393125	Palaung	105	105
+1433	91_black	black	XiangZhaiTang	Xiang Zhai Tang	vɔŋ	vɔŋ	v ɔ ŋ	ruma1248	24.323819	98.556639	Palaung	105	105
+1434	91_black	black	PongNuea	Pong Nuea	vɔŋ	vɔŋ	v ɔ ŋ		20.321525	99.866817	Palaung	105	105
+1435	91_black	black	NyaungGone	Nyaung Gone	vɔk	vɔk	v ɔ k		20.635025	96.545772	Palaung	105	105
+1436	91_black	black	NoeLae	Noe Lae	vɔŋ	vɔŋ	v ɔ ŋ		19.941803	99.044742	Palaung	105	105
+1437	91_black	black	BanPaw	Ban Paw	vɔŋ	vɔŋ	v ɔ ŋ		21.311225	99.557550	Palaung	105	105
+1438	91_black	black	ChaYeQing	Cha Ye Qing	vaŋ	vaŋ	v a ŋ		24.305717	98.463661	Palaung	105	105
+1439	91_black	black	GuangKa	Guang Ka	vɔŋ	vɔŋ	v ɔ ŋ	ruma1248	24.065714	97.796281	Palaung	105	105
+1440	91_black	black	MangBang	Mang Bang	vɔŋ	vɔŋ	v ɔ ŋ	ruma1248	24.416392	98.399078	Palaung	105	105
+1441	91_black	black	NanSang	Nan Sang	Ɂivɔŋ	Ɂivɔŋ	ʔ i + v ɔ ŋ	ruma1248	24.019728	97.819736	Palaung	107 105	107 105
+745	48_blood	blood	NamHsan	Namhsan	n̥aːm	n̥aːm	n̥ aː m		22.965064	97.163239	Palaung	123	123
+746	48_blood	blood	KhunHawt	Khun Hawt	n̥aːm	n̥aːm	n̥ aː m		22.965064	97.163239	Palaung	123	123
+747	48_blood	blood	HtanHsan	Htan Hsan	n̥aːm	n̥aːm	n̥ aː m		22.675133	97.289942	Palaung	123	123
+748	48_blood	blood	PangKham	Pangkham	n̥a:m	n̥a:m	n̥ aː m		22.672097	97.161167	Palaung	123	123
+749	48_blood	blood	ManLoi	Man Loi	n̥aːm	n̥aːm	n̥ aː m		22.636019	97.139264	Palaung	123	123
+750	48_blood	blood	MengDan	Meng Dan	n̥ɛːm	n̥ɛːm	n̥ ɛː m	khan1274	24.296522	98.379886	Palaung	123	123
+751	48_blood	blood	ChuDongGua	Chu Dong Gua	n̥aːm	n̥aːm	n̥ aː m		24.330889	98.393125	Palaung	123	123
+752	48_blood	blood	XiangZhaiTang	Xiang Zhai Tang	n̥aːm	n̥aːm	n̥ aː m	ruma1248	24.323819	98.556639	Palaung	123	123
+753	48_blood	blood	PongNuea	Pong Nuea	n̥aːm	n̥aːm	n̥ aː m		20.321525	99.866817	Palaung	123	123
+754	48_blood	blood	NyaungGone	Nyaung Gone	n̥am	n̥am	n̥ a m		20.635025	96.545772	Palaung	123	123
+755	48_blood	blood	NoeLae	Noe Lae	n̥am	n̥am	n̥ a m		19.941803	99.044742	Palaung	123	123
+756	48_blood	blood	BanPaw	Ban Paw	n̥am	n̥am	n̥ a m		21.311225	99.557550	Palaung	123	123
+757	48_blood	blood	ChaYeQing	Cha Ye Qing	n̥aːm	n̥aːm	n̥ aː m		24.305717	98.463661	Palaung	123	123
+758	48_blood	blood	GuangKa	Guang Ka	n̥aːm	n̥aːm	n̥ aː m	ruma1248	24.065714	97.796281	Palaung	123	123
+759	48_blood	blood	MangBang	Mang Bang	n̥aːm	n̥aːm	n̥ aː m	ruma1248	24.416392	98.399078	Palaung	123	123
+760	48_blood	blood	NanSang	Nan Sang	n̥aːm	n̥aːm	n̥ aː m	ruma1248	24.019728	97.819736	Palaung	123	123
+697	45_bone	bone	NamHsan	Namhsan	kaɁaːŋ	kaɁaːŋ	k a + ʔ aː ŋ		22.965064	97.163239	Palaung	175 141	175 141
+698	45_bone	bone	KhunHawt	Khun Hawt	kanɁaːŋ	kanɁaːŋ	k a n + ʔ aː ŋ		22.965064	97.163239	Palaung	140 141	140 141
+699	45_bone	bone	HtanHsan	Htan Hsan	kәnɁaːŋ	kәnɁaːŋ	k ə n + ʔ aː ŋ		22.675133	97.289942	Palaung	140 141	140 141
+700	45_bone	bone	PangKham	Pangkham	kaɁaːŋ	kaɁaːŋ	k a + ʔ aː ŋ		22.672097	97.161167	Palaung	175 141	175 141
+701	45_bone	bone	ManLoi	Man Loi	kaɁaːŋ	kaɁaːŋ	k a + ʔ aː ŋ		22.636019	97.139264	Palaung	175 141	175 141
+702	45_bone	bone	MengDan	Meng Dan	kaʔɛːŋ	kaʔɛːŋ	k a + ʔ ɛː ŋ	khan1274	24.296522	98.379886	Palaung	175 141	175 141
+703	45_bone	bone	ChuDongGua	Chu Dong Gua	kaɁaːŋ	kaɁaːŋ	k a + ʔ aː ŋ		24.330889	98.393125	Palaung	175 141	175 141
+704	45_bone	bone	XiangZhaiTang	Xiang Zhai Tang	kaɁaːŋ	kaɁaːŋ	k a + ʔ aː ŋ	ruma1248	24.323819	98.556639	Palaung	175 141	175 141
+705	45_bone	bone	PongNuea	Pong Nuea	kaɁaːŋ	kaɁaːŋ	k a + ʔ aː ŋ		20.321525	99.866817	Palaung	175 141	175 141
+706	45_bone	bone	NyaungGone	Nyaung Gone	kaʔak	kaʔak	k a + ʔ a k		20.635025	96.545772	Palaung	175 141	175 141
+707	45_bone	bone	NoeLae	Noe Lae	kaɁaŋ	kaɁaŋ	k a + ʔ a ŋ		19.941803	99.044742	Palaung	175 141	175 141
+708	45_bone	bone	BanPaw	Ban Paw	kaɁaŋ	kaɁaŋ	k a + ʔ a ŋ		21.311225	99.557550	Palaung	175 141	175 141
+709	45_bone	bone	ChaYeQing	Cha Ye Qing	kaʔaːŋ	kaʔaːŋ	k a + ʔ aː ŋ		24.305717	98.463661	Palaung	175 141	175 141
+710	45_bone	bone	GuangKa	Guang Ka	kaɁaːŋ	kaɁaːŋ	k a + ʔ aː ŋ	ruma1248	24.065714	97.796281	Palaung	175 141	175 141
+711	45_bone	bone	MangBang	Mang Bang	kaɁaːŋ	kaɁaːŋ	k a + ʔ aː ŋ	ruma1248	24.416392	98.399078	Palaung	175 141	175 141
+712	45_bone	bone	NanSang	Nan Sang	kaɁaːŋ	kaɁaːŋ	k a + ʔ aː ŋ	ruma1248	24.019728	97.819736	Palaung	175 141	175 141
+966	62_breathe	breathe	NamHsan	Namhsan	khriɁ phә:m	khriɁ phә:m	kʰ r i ʔ + pʰ əː m		22.965064	97.163239	Palaung	6 4	6 4
+967	62_breathe	breathe	KhunHawt	Khun Hawt	kanhɔh phә:m	kanhɔh phә:m	k a + nʰ ɔ h + pʰ əː m		22.965064	97.163239	Palaung	175 826 4	175 826 4
+968	62_breathe	breathe	HtanHsan	Htan Hsan	kәnɁɔh phәːm	kәnɁɔh phәːm	k ə + nˀ ɔ h + pʰ əː m		22.675133	97.289942	Palaung	175 826 4	175 826 4
+969	62_breathe	breathe	PangKham	Pangkham	thuj phәːm	thuj phәːm	tʰ ui̯ + pʰ əː m		22.672097	97.161167	Palaung	8 4	8 4
+970	62_breathe	breathe	ManLoi	Man Loi	phәːm leh	phәːm leh	pʰ əː m + l e h		22.636019	97.139264	Palaung	4 173	4 173
+971	62_breathe	breathe	MengDan	Meng Dan	phəːm	phəːm	pʰ əː m	khan1274	24.296522	98.379886	Palaung	4	4
+972	62_breathe	breathe	ChuDongGua	Chu Dong Gua	həh phəːm	həh phəːm	h ə h + pʰ əː m		24.330889	98.393125	Palaung	173 4	173 4
+973	62_breathe	breathe	XiangZhaiTang	Xiang Zhai Tang	hək phəːm	hək phəːm	h ə k + pʰ əː m	ruma1248	24.323819	98.556639	Palaung	173 4	173 4
+974	62_breathe	breathe	PongNuea	Pong Nuea	hək phəːm	hək phəːm	h ə k + pʰ əː m		20.321525	99.866817	Palaung	173 4	173 4
+975	62_breathe	breathe	NyaungGone	Nyaung Gone	phəm	phəm	pʰ ə m		20.635025	96.545772	Palaung	4	4
+976	62_breathe	breathe	NoeLae	Noe Lae	hə̆k phəm	hə̆k phəm	h ə̆ k + pʰ ə m		19.941803	99.044742	Palaung	173 4	173 4
+977	62_breathe	breathe	BanPaw	Ban Paw	hə̆k phəm	hə̆k phəm	h ə̆ k + pʰ ə m		21.311225	99.557550	Palaung	173 4	173 4
+978	62_breathe	breathe	ChaYeQing	Cha Ye Qing	doh pheːm	doh pheːm	d o h + pʰ eː m		24.305717	98.463661	Palaung	8 4	8 4
+979	62_breathe	breathe	GuangKa	Guang Ka	toh phɛːm	toh phɛːm	t o h + pʰ ɛː m	ruma1248	24.065714	97.796281	Palaung	8 4	8 4
+980	62_breathe	breathe	MangBang	Mang Bang	toh phəːm	toh phəːm	t o h + pʰ əː m	ruma1248	24.416392	98.399078	Palaung	8 4	8 4
+981	62_breathe	breathe	NanSang	Nan Sang	tohphəːm	tohphəːm	t o h + pʰ əː m	ruma1248	24.019728	97.819736	Palaung	8 4	8 4
+1188	76_burn	burn	NamHsan	Namhsan	ɡuɁ	ɡuɁ	g u ʔ		22.965064	97.163239	Palaung	206	206
+1189	76_burn	burn	KhunHawt	Khun Hawt	ɡuːt	ɡuːt	g uː t		22.965064	97.163239	Palaung	206	206
+1190	76_burn	burn	HtanHsan	Htan Hsan	ɡuːɁ	ɡuːɁ	g uː ʔ		22.675133	97.289942	Palaung	206	206
+1191	76_burn	burn	PangKham	Pangkham	ɗɔk	ɗɔk	ɗ ɔ k		22.672097	97.161167	Palaung	206	206
+1192	76_burn	burn	ManLoi	Man Loi	ɗok	ɗok	ɗ o k		22.636019	97.139264	Palaung	206	206
+1193	76_burn	burn	MengDan	Meng Dan	ɗoʔ	ɗoʔ	ɗ o ʔ	khan1274	24.296522	98.379886	Palaung	206	206
+1194	76_burn	burn	ChuDongGua	Chu Dong Gua	ɗoʔ	ɗoʔ	ɗ o ʔ		24.330889	98.393125	Palaung	206	206
+1195	76_burn	burn	XiangZhaiTang	Xiang Zhai Tang	douɁ	douɁ	d ou̯ ʔ	ruma1248	24.323819	98.556639	Palaung	206	206
+1196	76_burn	burn	PongNuea	Pong Nuea	douɁ	douɁ	d ou̯ ʔ		20.321525	99.866817	Palaung	206	206
+1197	76_burn	burn	NyaungGone	Nyaung Gone	douʔ	douʔ	d ou̯ ʔ		20.635025	96.545772	Palaung	206	206
+1198	76_burn	burn	NoeLae	Noe Lae	douɁ	douɁ	d ou̯ ʔ		19.941803	99.044742	Palaung	206	206
+1199	76_burn	burn	BanPaw	Ban Paw	douɁ	douɁ	d ou̯ ʔ		21.311225	99.557550	Palaung	206	206
+1200	76_burn	burn	ChaYeQing	Cha Ye Qing	ɗok	ɗok	ɗ o k		24.305717	98.463661	Palaung	206	206
+1201	76_burn	burn	GuangKa	Guang Ka	tok	tok	t o k	ruma1248	24.065714	97.796281	Palaung	206	206
+1202	76_burn	burn	MangBang	Mang Bang	tok	tok	t o k	ruma1248	24.416392	98.399078	Palaung	206	206
+1203	76_burn	burn	NanSang	Nan Sang	tok	tok	t o k	ruma1248	24.019728	97.819736	Palaung	206	206
+777	50_child	child	NamHsan	Namhsan	kuan	kuan	k u/w a n		22.965064	97.163239	Palaung	223	223
+778	50_child	child	HtanHsan	Htan Hsan	kuan	kuan	k u/w a n		22.675133	97.289942	Palaung	223	223
+779	50_child	child	PangKham	Pangkham	ɡɔːn	ɡɔːn	g ɔː n		22.672097	97.161167	Palaung	223	223
+780	50_child	child	ManLoi	Man Loi	ɡɔːn	ɡɔːn	g ɔː n		22.636019	97.139264	Palaung	223	223
+781	50_child	child	MengDan	Meng Dan	kɔnɲɔm	kɔnɲɔm	k ɔ n + ɲ ɔ m	khan1274	24.296522	98.379886	Palaung	223 224	223 224
+782	50_child	child	ChuDongGua	Chu Dong Gua	kɔːn	kɔːn	k ɔː n		24.330889	98.393125	Palaung	223	223
+783	50_child	child	XiangZhaiTang	Xiang Zhai Tang	ɡɔːn	ɡɔːn	g ɔː n	ruma1248	24.323819	98.556639	Palaung	223	223
+784	50_child	child	PongNuea	Pong Nuea	ɡɔːn	ɡɔːn	g ɔː n		20.321525	99.866817	Palaung	223	223
+785	50_child	child	NyaungGone	Nyaung Gone	ɡɔn	ɡɔn	g ɔ n		20.635025	96.545772	Palaung	223	223
+786	50_child	child	NoeLae	Noe Lae	ɡɔn	ɡɔn	g ɔ n		19.941803	99.044742	Palaung	223	223
+787	50_child	child	BanPaw	Ban Paw	ɡɔn	ɡɔn	g ɔ n		21.311225	99.557550	Palaung	223	223
+788	50_child	child	ChaYeQing	Cha Ye Qing	koːn	koːn	k oː n		24.305717	98.463661	Palaung	223	223
+789	50_child	child	GuangKa	Guang Ka	kɔːn	kɔːn	k ɔː n	ruma1248	24.065714	97.796281	Palaung	223	223
+790	50_child	child	MangBang	Mang Bang	kɔːn	kɔːn	k ɔː n	ruma1248	24.416392	98.399078	Palaung	223	223
+791	50_child	child	NanSang	Nan Sang	kɔːn	kɔːn	k ɔː n	ruma1248	24.019728	97.819736	Palaung	223	223
+49	4_cloud	cloud	NamHsan	Namhsan	Ɂuːt	Ɂuːt	ʔ uː t		22.965064	97.163239	Palaung	241	241
+50	4_cloud	cloud	KhunHawt	Khun Hawt	Ɂuːt	Ɂuːt	ʔ uː t		22.965064	97.163239	Palaung	241	241
+51	4_cloud	cloud	HtanHsan	Htan Hsan	ɁuːɁ	ɁuːɁ	ʔ uː ʔ		22.675133	97.289942	Palaung	241	241
+52	4_cloud	cloud	PangKham	Pangkham	ɁaɁuːt	ɁaɁuːt	ʔ a + ʔ uː t		22.672097	97.161167	Palaung	245 241	245 241
+53	4_cloud	cloud	ManLoi	Man Loi	ɁaɁut	ɁaɁut	ʔ a + ʔ u t		22.636019	97.139264	Palaung	244 241	244 241
+54	4_cloud	cloud	MengDan	Meng Dan	ʔuːt	ʔuːt	ʔ uː t	khan1274	24.296522	98.379886	Palaung	241	241
+55	4_cloud	cloud	ChuDongGua	Chu Dong Gua	kɨʔuːt	kɨʔuːt	k ɨ + ʔ uː t		24.330889	98.393125	Palaung	242 241	242 241
+56	4_cloud	cloud	XiangZhaiTang	Xiang Zhai Tang	ŋɁuɁ	ŋɁuɁ	Ø/ə ŋ + ʔ u ʔ	ruma1248	24.323819	98.556639	Palaung	240 241	240 241
+57	4_cloud	cloud	PongNuea	Pong Nuea	ŋɁuɁ	ŋɁuɁ	Ø/ə ŋ + ʔ u ʔ		20.321525	99.866817	Palaung	240 241	240 241
+58	4_cloud	cloud	NyaungGone	Nyaung Gone	ŋ ʔuʔ	ŋ ʔuʔ	Ø/ə ŋ + ʔ u ʔ		20.635025	96.545772	Palaung	240 241	240 241
+59	4_cloud	cloud	NoeLae	Noe Lae	ŋ Ɂu	ŋ Ɂu	Ø/ə ŋ + ʔ u		19.941803	99.044742	Palaung	240 241	240 241
+60	4_cloud	cloud	BanPaw	Ban Paw	ŋ ɁuɁ	ŋ ɁuɁ	Ø/ə ŋ + ʔ u ʔ		21.311225	99.557550	Palaung	1218 241	1218 241
+61	4_cloud	cloud	ChaYeQing	Cha Ye Qing	ŋɁuːɁ	ŋɁuːɁ	Ø/ə ŋ + ʔ uː ʔ		24.305717	98.463661	Palaung	240 241	240 241
+62	4_cloud	cloud	GuangKa	Guang Ka	ɁoŋɁuːɁ	ɁoŋɁuːɁ	ʔ o ŋ + ʔ uː ʔ	ruma1248	24.065714	97.796281	Palaung	243 241	243 241
+63	4_cloud	cloud	MangBang	Mang Bang	ŋɁuɁ	ŋɁuɁ	Ø/ə ŋ + ʔ u ʔ	ruma1248	24.416392	98.399078	Palaung	240 241	240 241
+64	4_cloud	cloud	NanSang	Nan Sang	ŋɁuːɁ	ŋɁuːɁ	Ø/ə ŋ + ʔ uː ʔ	ruma1248	24.019728	97.819736	Palaung	240 241	240 241
+1490	95_cold	cold	NamHsan	Namhsan	kat	kat	k a t		22.965064	97.163239	Palaung	269	269
+1491	95_cold	cold	KhunHawt	Khun Hawt	kat	kat	k a t		22.965064	97.163239	Palaung	269	269
+1492	95_cold	cold	HtanHsan	Htan Hsan	kat	kat	k a t		22.675133	97.289942	Palaung	269	269
+1493	95_cold	cold	PangKham	Pangkham	ɡiaɁ	ɡiaɁ	g i/j a ʔ		22.672097	97.161167	Palaung	269	269
+1494	95_cold	cold	ManLoi	Man Loi	ɡaɁ	ɡaɁ	g a ʔ		22.636019	97.139264	Palaung	269	269
+1495	95_cold	cold	MengDan	Meng Dan	ɡat	ɡat	g a t	khan1274	24.296522	98.379886	Palaung	269	269
+1496	95_cold	cold	ChuDongGua	Chu Dong Gua	kat	kat	k a t		24.330889	98.393125	Palaung	269	269
+1497	95_cold	cold	XiangZhaiTang	Xiang Zhai Tang	ɡat	ɡat	g a t	ruma1248	24.323819	98.556639	Palaung	269	269
+1498	95_cold	cold	PongNuea	Pong Nuea	ɡat	ɡat	g a t		20.321525	99.866817	Palaung	269	269
+1499	95_cold	cold	NyaungGone	Nyaung Gone	ɡăt	ɡăt	g ă t		20.635025	96.545772	Palaung	269	269
+1500	95_cold	cold	NoeLae	Noe Lae	ɡăt	ɡăt	g ă t		19.941803	99.044742	Palaung	269	269
+1501	95_cold	cold	BanPaw	Ban Paw	ɡăt	ɡăt	g ă t		21.311225	99.557550	Palaung	269	269
+1502	95_cold	cold	ChaYeQing	Cha Ye Qing	kok	kok	k o k		24.305717	98.463661	Palaung	269	269
+1503	95_cold	cold	GuangKa	Guang Ka	kɔːɁ	kɔːɁ	k ɔː ʔ	ruma1248	24.065714	97.796281	Palaung	269	269
+1504	95_cold	cold	MangBang	Mang Bang	kɔːɁ	kɔːɁ	k ɔː ʔ	ruma1248	24.416392	98.399078	Palaung	269	269
+1505	95_cold	cold	NanSang	Nan Sang	kɔːɁ	kɔːɁ	k ɔː ʔ	ruma1248	24.019728	97.819736	Palaung	269	269
+1156	74_cut	cut	NamHsan	Namhsan	ɡәp	ɡәp	g ə p		22.965064	97.163239	Palaung	287	287
+1157	74_cut	cut	KhunHawt	Khun Hawt	ɡәp	ɡәp	g ə p		22.965064	97.163239	Palaung	287	287
+1158	74_cut	cut	HtanHsan	Htan Hsan	ɡәp	ɡәp	g ə p		22.675133	97.289942	Palaung	287	287
+1159	74_cut	cut	PangKham	Pangkham	kap	kap	k a p		22.672097	97.161167	Palaung	287	287
+1160	74_cut	cut	ManLoi	Man Loi	kap	kap	k a p		22.636019	97.139264	Palaung	287	287
+1161	74_cut	cut	MengDan	Meng Dan	kiap	kiap	k i/j a p	khan1274	24.296522	98.379886	Palaung	287	287
+1162	74_cut	cut	ChuDongGua	Chu Dong Gua	kap	kap	k a p		24.330889	98.393125	Palaung	287	287
+1163	74_cut	cut	XiangZhaiTang	Xiang Zhai Tang	kəp	kəp	k ə p	ruma1248	24.323819	98.556639	Palaung	287	287
+1164	74_cut	cut	PongNuea	Pong Nuea	kəp	kəp	k ə p		20.321525	99.866817	Palaung	287	287
+1165	74_cut	cut	NyaungGone	Nyaung Gone	kăp	kăp	k ă p		20.635025	96.545772	Palaung	287	287
+1166	74_cut	cut	NoeLae	Noe Lae	kə̆p	kə̆p	k ə̆ p		19.941803	99.044742	Palaung	287	287
+1167	74_cut	cut	BanPaw	Ban Paw	kakə̆p	kakə̆p	k a + k ə̆ p		21.311225	99.557550	Palaung	175 287	175 287
+1168	74_cut	cut	ChaYeQing	Cha Ye Qing	kep	kep	k e p		24.305717	98.463661	Palaung	287	287
+1169	74_cut	cut	GuangKa	Guang Ka	kjap	kjap	k j a p	ruma1248	24.065714	97.796281	Palaung	287	287
+1170	74_cut	cut	MangBang	Mang Bang	kiap	kiap	k i/j a p	ruma1248	24.416392	98.399078	Palaung	287	287
+1171	74_cut	cut	NanSang	Nan Sang	kiap	kiap	k i/j a p	ruma1248	24.019728	97.819736	Palaung	287	287
+1061	68_die	die	NamHsan	Namhsan	jam	jam	j a m		22.965064	97.163239	Palaung	304	304
+1062	68_die	die	KhunHawt	Khun Hawt	jam	jam	j a m		22.965064	97.163239	Palaung	304	304
+1063	68_die	die	HtanHsan	Htan Hsan	jam	jam	j a m		22.675133	97.289942	Palaung	304	304
+1064	68_die	die	PangKham	Pangkham	jam	jam	j a m		22.672097	97.161167	Palaung	304	304
+1065	68_die	die	ManLoi	Man Loi	jaːm	jaːm	j aː m		22.636019	97.139264	Palaung	304	304
+1066	68_die	die	MengDan	Meng Dan	ʥam	ʥam	dʑ a m	khan1274	24.296522	98.379886	Palaung	304	304
+1067	68_die	die	ChuDongGua	Chu Dong Gua	jam	jam	j a m		24.330889	98.393125	Palaung	304	304
+1068	68_die	die	XiangZhaiTang	Xiang Zhai Tang	jam	jam	j a m	ruma1248	24.323819	98.556639	Palaung	304	304
+1069	68_die	die	PongNuea	Pong Nuea	jam	jam	j a m		20.321525	99.866817	Palaung	304	304
+1070	68_die	die	NyaungGone	Nyaung Gone	jăm	jăm	j ă m		20.635025	96.545772	Palaung	304	304
+1071	68_die	die	NoeLae	Noe Lae	jăm	jăm	j ă m		19.941803	99.044742	Palaung	304	304
+1072	68_die	die	BanPaw	Ban Paw	jăm	jăm	j ă m		21.311225	99.557550	Palaung	304	304
+1073	68_die	die	ChaYeQing	Cha Ye Qing	ʥɔːm	ʥɔːm	dʑ ɔː m		24.305717	98.463661	Palaung	304	304
+1074	68_die	die	GuangKa	Guang Ka	ʥɔːm	ʥɔːm	dʑ ɔː m	ruma1248	24.065714	97.796281	Palaung	304	304
+1075	68_die	die	MangBang	Mang Bang	jɔm	jɔm	j ɔ m	ruma1248	24.416392	98.399078	Palaung	304	304
+1076	68_die	die	NanSang	Nan Sang	jɔm	jɔm	j ɔ m	ruma1248	24.019728	97.819736	Palaung	304	304
+1172	75_dig	dig	NamHsan	Namhsan	kәhɓɨŋ	kәhɓɨŋ	k ə h + ɓ ɨ ŋ		22.965064	97.163239	Palaung	321 322	321 322
+1173	75_dig	dig	KhunHawt	Khun Hawt	kәːŋ	kәːŋ	k əː ŋ		22.965064	97.163239	Palaung	321	321
+1174	75_dig	dig	HtanHsan	Htan Hsan	kәːŋ	kәːŋ	k əː ŋ		22.675133	97.289942	Palaung	321	321
+1175	75_dig	dig	PangKham	Pangkham	ɡəh	ɡəh	g ə h		22.672097	97.161167	Palaung	321	321
+1176	75_dig	dig	ManLoi	Man Loi	ɡəh	ɡəh	g ə h		22.636019	97.139264	Palaung	321	321
+1177	75_dig	dig	MengDan	Meng Dan	loʔ	loʔ	l o ʔ	khan1274	24.296522	98.379886	Palaung	321	321
+1178	75_dig	dig	ChuDongGua	Chu Dong Gua	loʔ	loʔ	l o ʔ		24.330889	98.393125	Palaung	321	321
+1179	75_dig	dig	XiangZhaiTang	Xiang Zhai Tang	ɡəx	ɡəx	g ə x	ruma1248	24.323819	98.556639	Palaung	321	321
+1180	75_dig	dig	PongNuea	Pong Nuea	ɡəh	ɡəh	g ə h		20.321525	99.866817	Palaung	321	321
+1181	75_dig	dig	NyaungGone	Nyaung Gone	ɡə̆h	ɡə̆h	g ə̆ h		20.635025	96.545772	Palaung	321	321
+1182	75_dig	dig	NoeLae	Noe Lae	ɡə̆h	ɡə̆h	g ə̆ h		19.941803	99.044742	Palaung	321	321
+1183	75_dig	dig	BanPaw	Ban Paw	ɡə̆h	ɡə̆h	g ə̆ h		21.311225	99.557550	Palaung	321	321
+1184	75_dig	dig	ChaYeQing	Cha Ye Qing	khut	khut	kʰ u t		24.305717	98.463661	Palaung	321	321
+1185	75_dig	dig	GuangKa	Guang Ka	lok	lok	l o k	ruma1248	24.065714	97.796281	Palaung	321	321
+1186	75_dig	dig	MangBang	Mang Bang	lok	lok	l o k	ruma1248	24.416392	98.399078	Palaung	321	321
+1187	75_dig	dig	NanSang	Nan Sang	kəh	kəh	k ə h	ruma1248	24.019728	97.819736	Palaung	321	321
+305	20_dog	dog	NamHsan	Namhsan	ɁaɁoɁ	ɁaɁoɁ	ʔ a + ʔ o ʔ		22.965064	97.163239	Palaung	340 341	340 341
+306	20_dog	dog	KhunHawt	Khun Hawt	ɁaɁoɁ	ɁaɁoɁ	ʔ a + ʔ o ʔ		22.965064	97.163239	Palaung	340 341	340 341
+307	20_dog	dog	HtanHsan	Htan Hsan	ɁaɁoɁ	ɁaɁoɁ	ʔ a + ʔ o ʔ		22.675133	97.289942	Palaung	340 341	340 341
+308	20_dog	dog	PangKham	Pangkham	ɁaɁoɁ	ɁaɁoɁ	ʔ a + ʔ o ʔ		22.672097	97.161167	Palaung	340 341	340 341
+309	20_dog	dog	ManLoi	Man Loi	ɁaɁoɁ	ɁaɁoɁ	ʔ a + ʔ o ʔ		22.636019	97.139264	Palaung	340 341	340 341
+310	20_dog	dog	MengDan	Meng Dan	ʔaʔuʔ	ʔaʔuʔ	ʔ a + ʔ u ʔ	khan1274	24.296522	98.379886	Palaung	340 341	340 341
+311	20_dog	dog	ChuDongGua	Chu Dong Gua	ʔaʔoʔ	ʔaʔoʔ	ʔ a + ʔ o ʔ		24.330889	98.393125	Palaung	340 341	340 341
+312	20_dog	dog	XiangZhaiTang	Xiang Zhai Tang	sow	sow	s ou̯	ruma1248	24.323819	98.556639	Palaung	340	340
+313	20_dog	dog	PongNuea	Pong Nuea	masow	masow	m a + s ou̯		20.321525	99.866817	Palaung	339 340	339 340
+314	20_dog	dog	NyaungGone	Nyaung Gone	maso	maso	m a + s o		20.635025	96.545772	Palaung	339 340	339 340
+315	20_dog	dog	NoeLae	Noe Lae	maso	maso	m a + s o		19.941803	99.044742	Palaung	339 340	339 340
+316	20_dog	dog	BanPaw	Ban Paw	maso	maso	m a + s o		21.311225	99.557550	Palaung	1110 340	1110 340
+317	20_dog	dog	ChaYeQing	Cha Ye Qing	maʔoʔ	maʔoʔ	m a + ʔ o ʔ		24.305717	98.463661	Palaung	339 341	339 341
+318	20_dog	dog	GuangKa	Guang Ka	saw	saw	s au̯	ruma1248	24.065714	97.796281	Palaung	340	340
+319	20_dog	dog	MangBang	Mang Bang	saw	saw	s au̯	ruma1248	24.416392	98.399078	Palaung	340	340
+320	20_dog	dog	NanSang	Nan Sang	sow	sow	s ou̯	ruma1248	24.019728	97.819736	Palaung	340	340
+934	60_drink	drink	NamHsan	Namhsan	ɗiaŋ	ɗiaŋ	ɗ i/j a ŋ		22.965064	97.163239	Palaung	368	368
+935	60_drink	drink	KhunHawt	Khun Hawt	tiaŋ	tiaŋ	t i/j a ŋ		22.965064	97.163239	Palaung	368	368
+936	60_drink	drink	HtanHsan	Htan Hsan	ɗiaŋ	ɗiaŋ	ɗ i/j a ŋ		22.675133	97.289942	Palaung	368	368
+937	60_drink	drink	PangKham	Pangkham	ɗiaŋ	ɗiaŋ	ɗ i/j a ŋ		22.672097	97.161167	Palaung	368	368
+938	60_drink	drink	ManLoi	Man Loi	ɗiaŋ	ɗiaŋ	ɗ i/j a ŋ		22.636019	97.139264	Palaung	368	368
+939	60_drink	drink	MengDan	Meng Dan	diaŋ	diaŋ	d i/j a ŋ	khan1274	24.296522	98.379886	Palaung	368	368
+940	60_drink	drink	ChuDongGua	Chu Dong Gua	diaŋ	diaŋ	d i/j a ŋ		24.330889	98.393125	Palaung	368	368
+941	60_drink	drink	XiangZhaiTang	Xiang Zhai Tang	diaŋ	diaŋ	d i/j a ŋ	ruma1248	24.323819	98.556639	Palaung	368	368
+942	60_drink	drink	PongNuea	Pong Nuea	diaŋ	diaŋ	d i/j a ŋ		20.321525	99.866817	Palaung	368	368
+943	60_drink	drink	NyaungGone	Nyaung Gone	diak	diak	d i/j a k		20.635025	96.545772	Palaung	368	368
+944	60_drink	drink	NoeLae	Noe Lae	diaŋ	diaŋ	d i/j a ŋ		19.941803	99.044742	Palaung	368	368
+945	60_drink	drink	BanPaw	Ban Paw	diaŋ	diaŋ	d i/j a ŋ		21.311225	99.557550	Palaung	368	368
+946	60_drink	drink	ChaYeQing	Cha Ye Qing	ʨoŋ	ʨoŋ	tɕ o ŋ		24.305717	98.463661	Palaung	368	368
+947	60_drink	drink	GuangKa	Guang Ka	ʨoŋ	ʨoŋ	tɕ o ŋ	ruma1248	24.065714	97.796281	Palaung	368	368
+948	60_drink	drink	MangBang	Mang Bang	ʨoŋ	ʨoŋ	tɕ o ŋ	ruma1248	24.416392	98.399078	Palaung	368	368
+949	60_drink	drink	NanSang	Nan Sang	ʨoŋ	ʨoŋ	tɕ o ŋ	ruma1248	24.019728	97.819736	Palaung	368	368
+529	34_ear	ear	NamHsan	Namhsan	lajʨhɔːɁ	lajʨhɔːɁ	l a j + tɕʰ ɔː ʔ		22.965064	97.163239	Palaung	387 386	387 386
+530	34_ear	ear	KhunHawt	Khun Hawt	ralaŋ	ralaŋ	r a + l a ŋ		22.965064	97.163239	Palaung	387 389	387 389
+531	34_ear	ear	HtanHsan	Htan Hsan	lalaŋ	lalaŋ	l a + l a ŋ		22.675133	97.289942	Palaung	387 388	387 388
+532	34_ear	ear	PangKham	Pangkham	j̊ok	j̊ok	j̊ o k		22.672097	97.161167	Palaung	386	386
+533	34_ear	ear	ManLoi	Man Loi	lɛːj̊ok	lɛːj̊ok	l ɛː + j̊ o k		22.636019	97.139264	Palaung	387 386	387 386
+534	34_ear	ear	MengDan	Meng Dan	j̊ok	j̊ok	j̊ o k	khan1274	24.296522	98.379886	Palaung	386	386
+535	34_ear	ear	ChuDongGua	Chu Dong Gua	j̊o?	j̊o?	j̊ o ʔ		24.330889	98.393125	Palaung	386	386
+536	34_ear	ear	XiangZhaiTang	Xiang Zhai Tang	j̊auɁ	j̊auɁ	j̊ au̯ ʔ	ruma1248	24.323819	98.556639	Palaung	386	386
+537	34_ear	ear	PongNuea	Pong Nuea	jaj̊auɁ	jaj̊auɁ	j a j̊ au̯ ʔ		20.321525	99.866817	Palaung	386	386
+538	34_ear	ear	NyaungGone	Nyaung Gone	j̊ouʔ	j̊ouʔ	j̊ ou̯ ʔ		20.635025	96.545772	Palaung	386	386
+539	34_ear	ear	NoeLae	Noe Lae	Ɂaj̊ouʔ	Ɂaj̊ouʔ	ʔ a + j̊ ou̯ ʔ		19.941803	99.044742	Palaung	385 386	385 386
+540	34_ear	ear	BanPaw	Ban Paw	Ɂaj̊ouɁ	Ɂaj̊ouɁ	ʔ a + j̊ ou̯ ʔ		21.311225	99.557550	Palaung	2042 386	2042 386
+541	34_ear	ear	ChaYeQing	Cha Ye Qing	ʨhok	ʨhok	tɕʰ o k		24.305717	98.463661	Palaung	386	386
+542	34_ear	ear	GuangKa	Guang Ka	ʨhok	ʨhok	tɕʰ o k	ruma1248	24.065714	97.796281	Palaung	386	386
+543	34_ear	ear	MangBang	Mang Bang	laʨhok	laʨhok	l a + tɕʰ o k	ruma1248	24.416392	98.399078	Palaung	387 386	387 386
+544	34_ear	ear	NanSang	Nan Sang	ʨhok	ʨhok	tɕʰ o k	ruma1248	24.019728	97.819736	Palaung	386	386
+145	10_earthsoil	earth, soil	NamHsan	Namhsan	kәɗɛː	kәɗɛː	k ə + ɗ ɛː		22.965064	97.163239	Palaung	409 410	409 410
+146	10_earthsoil	earth, soil	KhunHawt	Khun Hawt	kәndɛj	kәndɛj	k ə n + d ɛi̯		22.965064	97.163239	Palaung	409 410	409 410
+147	10_earthsoil	earth, soil	HtanHsan	Htan Hsan	kaɗej	kaɗej	k a + ɗ ei̯		22.675133	97.289942	Palaung	175 410	175 410
+148	10_earthsoil	earth, soil	PangKham	Pangkham	kaɗaːj	kaɗaːj	k a + ɗ aːi̯		22.672097	97.161167	Palaung	175 410	175 410
+149	10_earthsoil	earth, soil	ManLoi	Man Loi	kaɗaːj	kaɗaːj	k a + ɗ aːi̯		22.636019	97.139264	Palaung	175 410	175 410
+150	10_earthsoil	earth, soil	MengDan	Meng Dan	kədaj	kədaj	k ə + d ai̯	khan1274	24.296522	98.379886	Palaung	175 410	175 410
+151	10_earthsoil	earth, soil	ChuDongGua	Chu Dong Gua	kaɗaːj	kaɗaːj	k a + ɗ aːi̯		24.330889	98.393125	Palaung	175 410	175 410
+152	10_earthsoil	earth, soil	XiangZhaiTang	Xiang Zhai Tang	kadɛːj	kadɛːj	k a + d ɛːi̯	ruma1248	24.323819	98.556639	Palaung	175 410	175 410
+153	10_earthsoil	earth, soil	PongNuea	Pong Nuea	kadaːj	kadaːj	k a + d aːi̯		20.321525	99.866817	Palaung	175 410	175 410
+154	10_earthsoil	earth, soil	NyaungGone	Nyaung Gone	kadaj	kadaj	k a + d ai̯		20.635025	96.545772	Palaung	175 410	175 410
+155	10_earthsoil	earth, soil	NoeLae	Noe Lae	kadaj	kadaj	k a + d ai̯		19.941803	99.044742	Palaung	175 410	175 410
+156	10_earthsoil	earth, soil	BanPaw	Ban Paw	kadaj	kadaj	k a + d ai̯		21.311225	99.557550	Palaung	175 410	175 410
+157	10_earthsoil	earth, soil	ChaYeQing	Cha Ye Qing	kadaːj	kadaːj	k a + d aːi̯		24.305717	98.463661	Palaung	175 410	175 410
+158	10_earthsoil	earth, soil	GuangKa	Guang Ka	kataːj	kataːj	k a + t aːi̯	ruma1248	24.065714	97.796281	Palaung	175 410	175 410
+159	10_earthsoil	earth, soil	MangBang	Mang Bang	kataːj	kataːj	k a + t aːi̯	ruma1248	24.416392	98.399078	Palaung	175 410	175 410
+160	10_earthsoil	earth, soil	NanSang	Nan Sang	kataːj	kataːj	k a + t aːi̯	ruma1248	24.019728	97.819736	Palaung	175 410	175 410
+918	59_eat	eat	NamHsan	Namhsan	hɔːm	hɔːm	h ɔː m		22.965064	97.163239	Palaung	442	442
+919	59_eat	eat	KhunHawt	Khun Hawt	hɔːm	hɔːm	h ɔː m		22.965064	97.163239	Palaung	442	442
+920	59_eat	eat	HtanHsan	Htan Hsan	hɔm	hɔm	h ɔ m		22.675133	97.289942	Palaung	442	442
+921	59_eat	eat	PangKham	Pangkham	hɔːm	hɔːm	h ɔː m		22.672097	97.161167	Palaung	442	442
+922	59_eat	eat	ManLoi	Man Loi	hɔːm	hɔːm	h ɔː m		22.636019	97.139264	Palaung	442	442
+923	59_eat	eat	MengDan	Meng Dan	hɔːm	hɔːm	h ɔː m	khan1274	24.296522	98.379886	Palaung	442	442
+924	59_eat	eat	ChuDongGua	Chu Dong Gua	hoːm	hoːm	h oː m		24.330889	98.393125	Palaung	442	442
+925	59_eat	eat	XiangZhaiTang	Xiang Zhai Tang	hoːm	hoːm	h oː m	ruma1248	24.323819	98.556639	Palaung	442	442
+926	59_eat	eat	PongNuea	Pong Nuea	hoːm	hoːm	h oː m		20.321525	99.866817	Palaung	442	442
+927	59_eat	eat	NyaungGone	Nyaung Gone	hom	hom	h o m		20.635025	96.545772	Palaung	442	442
+928	59_eat	eat	NoeLae	Noe Lae	hom	hom	h o m		19.941803	99.044742	Palaung	442	442
+929	59_eat	eat	BanPaw	Ban Paw	hom	hom	h o m		21.311225	99.557550	Palaung	442	442
+930	59_eat	eat	ChaYeQing	Cha Ye Qing	hoːm	hoːm	h oː m		24.305717	98.463661	Palaung	442	442
+931	59_eat	eat	GuangKa	Guang Ka	hoːm	hoːm	h oː m	ruma1248	24.065714	97.796281	Palaung	442	442
+932	59_eat	eat	MangBang	Mang Bang	hom	hom	h o m	ruma1248	24.416392	98.399078	Palaung	442	442
+933	59_eat	eat	NanSang	Nan Sang	hoːm	hoːm	h oː m	ruma1248	24.019728	97.819736	Palaung	442	442
+401	26_egg	egg	NamHsan	Namhsan	kadam ɓeɁ	kadam ɓeɁ	k a + d a m + ɓ e ʔ		22.965064	97.163239	Palaung	175 462 459	175 462 459
+402	26_egg	egg	KhunHawt	Khun Hawt	kaɗam	kaɗam	k a + ɗ a m		22.965064	97.163239	Palaung	175 462	175 462
+403	26_egg	egg	HtanHsan	Htan Hsan	kaɗam	kaɗam	k a + ɗ a m		22.675133	97.289942	Palaung	175 462	175 462
+404	26_egg	egg	PangKham	Pangkham	ɡlaw	ɡlaw	g l au̯		22.672097	97.161167	Palaung	461	461
+405	26_egg	egg	ManLoi	Man Loi	klaw khaj	klaw khaj	k l au̯ + kʰ ai̯		22.636019	97.139264	Palaung	463 461	463 461
+406	26_egg	egg	MengDan	Meng Dan	ɡlɛːw	ɡlɛːw	g l ɛːu̯	khan1274	24.296522	98.379886	Palaung	461	461
+407	26_egg	egg	ChuDongGua	Chu Dong Gua	ɡraːw ʔiar	ɡraːw ʔiar	g r aːu̯ + ʔ i/j a r		24.330889	98.393125	Palaung	461 460	461 460
+408	26_egg	egg	XiangZhaiTang	Xiang Zhai Tang	pəːn	pəːn	p əː n	ruma1248	24.323819	98.556639	Palaung	459	459
+409	26_egg	egg	PongNuea	Pong Nuea	pəan	pəan	p əa n		20.321525	99.866817	Palaung	459	459
+410	26_egg	egg	NyaungGone	Nyaung Gone	pən ʔian	pən ʔian	p ə n + ʔ i/j a n		20.635025	96.545772	Palaung	459 460	459 460
+411	26_egg	egg	NoeLae	Noe Lae	pən Ɂian	pən Ɂian	p ə n + ʔ i/j a n		19.941803	99.044742	Palaung	459 460	459 460
+412	26_egg	egg	BanPaw	Ban Paw	pən Ɂian	pən Ɂian	p ə n + ʔ i/j a n		21.311225	99.557550	Palaung	459 460	459 460
+413	26_egg	egg	ChaYeQing	Cha Ye Qing	bəːn	bəːn	b əː n		24.305717	98.463661	Palaung	459	459
+414	26_egg	egg	GuangKa	Guang Ka	bəːn	bəːn	b əː n	ruma1248	24.065714	97.796281	Palaung	459	459
+415	26_egg	egg	MangBang	Mang Bang	bəːn	bəːn	b əː n	ruma1248	24.416392	98.399078	Palaung	459	459
+416	26_egg	egg	NanSang	Nan Sang	bəːn	bəːn	b əː n	ruma1248	24.019728	97.819736	Palaung	459	459
+497	32_eye	eye	NamHsan	Namhsan	ŋaːj	ŋaːj	ŋ aːi̯		22.965064	97.163239	Palaung	485	485
+498	32_eye	eye	KhunHawt	Khun Hawt	ŋaːj	ŋaːj	ŋ aːi̯		22.965064	97.163239	Palaung	418	418
+499	32_eye	eye	HtanHsan	Htan Hsan	ŋaːj	ŋaːj	ŋ aːi̯		22.675133	97.289942	Palaung	485	485
+500	32_eye	eye	PangKham	Pangkham	bleː ŋaːj	bleː ŋaːj	b l eː + ŋ aːi̯		22.672097	97.161167	Palaung	486 485	486 485
+501	32_eye	eye	ManLoi	Man Loi	bleː ŋaːj	bleː ŋaːj	b l eː + ŋ aːi̯		22.636019	97.139264	Palaung	486 485	486 485
+502	32_eye	eye	MengDan	Meng Dan	ŋaːj	ŋaːj	ŋ aːi̯	khan1274	24.296522	98.379886	Palaung	485	485
+503	32_eye	eye	ChuDongGua	Chu Dong Gua	ŋaːj	ŋaːj	ŋ aːi̯		24.330889	98.393125	Palaung	485	485
+504	32_eye	eye	XiangZhaiTang	Xiang Zhai Tang	ŋaːj	ŋaːj	ŋ aːi̯	ruma1248	24.323819	98.556639	Palaung	485	485
+505	32_eye	eye	PongNuea	Pong Nuea	ŋaːj	ŋaːj	ŋ aːi̯		20.321525	99.866817	Palaung	485	485
+506	32_eye	eye	NyaungGone	Nyaung Gone	ŋaj	ŋaj	ŋ ai̯		20.635025	96.545772	Palaung	485	485
+507	32_eye	eye	NoeLae	Noe Lae	ŋaj	ŋaj	ŋ ai̯		19.941803	99.044742	Palaung	485	485
+508	32_eye	eye	BanPaw	Ban Paw	ŋaj	ŋaj	ŋ ai̯		21.311225	99.557550	Palaung	485	485
+509	32_eye	eye	ChaYeQing	Cha Ye Qing	ŋaːj	ŋaːj	ŋ aːi̯		24.305717	98.463661	Palaung	485	485
+510	32_eye	eye	GuangKa	Guang Ka	ŋaːj	ŋaːj	ŋ aːi̯	ruma1248	24.065714	97.796281	Palaung	485	485
+511	32_eye	eye	MangBang	Mang Bang	ŋaːj	ŋaːj	ŋ aːi̯	ruma1248	24.416392	98.399078	Palaung	485	485
+512	32_eye	eye	NanSang	Nan Sang	ŋaːj	ŋaːj	ŋ aːi̯	ruma1248	24.019728	97.819736	Palaung	485	485
+1109	71_falltodrop	fall, to drop	NamHsan	Namhsan	ʥɔh	ʥɔh	dʑ ɔ h		22.965064	97.163239	Palaung	504	504
+1110	71_falltodrop	fall, to drop	KhunHawt	Khun Hawt	ʥoh	ʥoh	dʑ o h		22.965064	97.163239	Palaung	504	504
+1111	71_falltodrop	fall, to drop	HtanHsan	Htan Hsan	ʥɔh	ʥɔh	dʑ ɔ h		22.675133	97.289942	Palaung	504	504
+1112	71_falltodrop	fall, to drop	PangKham	Pangkham	ʨoh	ʨoh	tɕ o h		22.672097	97.161167	Palaung	504	504
+1113	71_falltodrop	fall, to drop	ManLoi	Man Loi	ʨɔh	ʨɔh	tɕ ɔ h		22.636019	97.139264	Palaung	504	504
+1114	71_falltodrop	fall, to drop	MengDan	Meng Dan	ʨɔh	ʨɔh	tɕ ɔ h	khan1274	24.296522	98.379886	Palaung	504	504
+1115	71_falltodrop	fall, to drop	ChuDongGua	Chu Dong Gua	ʥɔh	ʥɔh	dʑ ɔ h		24.330889	98.393125	Palaung	504	504
+1116	71_falltodrop	fall, to drop	PongNuea	Pong Nuea	ʨouh	ʨouh	tɕ ou̯ h		20.321525	99.866817	Palaung	504	504
+1117	71_falltodrop	fall, to drop	NyaungGone	Nyaung Gone	couh	couh	c ou̯ h		20.635025	96.545772	Palaung	504	504
+1118	71_falltodrop	fall, to drop	NoeLae	Noe Lae	coh	coh	c o h		19.941803	99.044742	Palaung	504	504
+1119	71_falltodrop	fall, to drop	BanPaw	Ban Paw	couh	couh	c ou̯ h		21.311225	99.557550	Palaung	504	504
+1120	71_falltodrop	fall, to drop	ChaYeQing	Cha Ye Qing	ʥɔh	ʥɔh	dʑ ɔ h		24.305717	98.463661	Palaung	504	504
+1121	71_falltodrop	fall, to drop	GuangKa	Guang Ka	ʥoh	ʥoh	dʑ o h	ruma1248	24.065714	97.796281	Palaung	504	504
+1122	71_falltodrop	fall, to drop	MangBang	Mang Bang	ʥoh	ʥoh	dʑ o h	ruma1248	24.416392	98.399078	Palaung	504	504
+1123	71_falltodrop	fall, to drop	NanSang	Nan Sang	ʥoh	ʥoh	dʑ o h	ruma1248	24.019728	97.819736	Palaung	504	504
+1378	88_far	far	NamHsan	Namhsan	saŋaːj	saŋaːj	s a + ŋ aːi̯		22.965064	97.163239	Palaung	521 522	521 522
+1379	88_far	far	KhunHawt	Khun Hawt	saŋaːj	saŋaːj	s a + ŋ aːi̯		22.965064	97.163239	Palaung	1858 418	1858 418
+1380	88_far	far	HtanHsan	Htan Hsan	saŋaːj	saŋaːj	s a + ŋ aːi̯		22.675133	97.289942	Palaung	521 522	521 522
+1381	88_far	far	PangKham	Pangkham	doŋ	doŋ	d o ŋ		22.672097	97.161167	Palaung	520	520
+1382	88_far	far	ManLoi	Man Loi	toŋ	toŋ	t o ŋ		22.636019	97.139264	Palaung	520	520
+1383	88_far	far	MengDan	Meng Dan	doŋ	doŋ	d o ŋ	khan1274	24.296522	98.379886	Palaung	520	520
+1384	88_far	far	ChuDongGua	Chu Dong Gua	doŋ	doŋ	d o ŋ		24.330889	98.393125	Palaung	1093	1093
+1385	88_far	far	XiangZhaiTang	Xiang Zhai Tang	toŋ	toŋ	t o ŋ	ruma1248	24.323819	98.556639	Palaung	520	520
+1386	88_far	far	PongNuea	Pong Nuea	toŋ	toŋ	t o ŋ		20.321525	99.866817	Palaung	520	520
+1387	88_far	far	NyaungGone	Nyaung Gone	n tok	n tok	n + t o k		20.635025	96.545772	Palaung	522 520	522 520
+1388	88_far	far	NoeLae	Noe Lae	toŋ	toŋ	t o ŋ		19.941803	99.044742	Palaung	520	520
+1389	88_far	far	BanPaw	Ban Paw	toŋ	toŋ	t o ŋ		21.311225	99.557550	Palaung	1093	1093
+1390	88_far	far	ChaYeQing	Cha Ye Qing	doŋ	doŋ	d o ŋ		24.305717	98.463661	Palaung	1093	1093
+1391	88_far	far	GuangKa	Guang Ka	doŋ	doŋ	d o ŋ	ruma1248	24.065714	97.796281	Palaung	1093	1093
+1392	88_far	far	MangBang	Mang Bang	doŋ	doŋ	d o ŋ	ruma1248	24.416392	98.399078	Palaung	520	520
+1393	88_far	far	NanSang	Nan Sang	doŋ	doŋ	d o ŋ	ruma1248	24.019728	97.819736	Palaung	520	520
+713	46_fat	fat	NamHsan	Namhsan	priaŋ	priaŋ	p r i/j a ŋ		22.965064	97.163239	Palaung	541	541
+714	46_fat	fat	KhunHawt	Khun Hawt	priaŋ	priaŋ	p r i/j a ŋ		22.965064	97.163239	Palaung	541	541
+715	46_fat	fat	HtanHsan	Htan Hsan	priaŋ	priaŋ	p r i/j a ŋ		22.675133	97.289942	Palaung	541	541
+716	46_fat	fat	PangKham	Pangkham	briaŋ	briaŋ	b r i/j a ŋ		22.672097	97.161167	Palaung	541	541
+717	46_fat	fat	ManLoi	Man Loi	briaŋ	briaŋ	b r i/j a ŋ		22.636019	97.139264	Palaung	541	541
+718	46_fat	fat	MengDan	Meng Dan	priaŋ	priaŋ	p r i/j a ŋ	khan1274	24.296522	98.379886	Palaung	541	541
+719	46_fat	fat	ChuDongGua	Chu Dong Gua	priaŋ	priaŋ	p r i/j a ŋ		24.330889	98.393125	Palaung	541	541
+720	46_fat	fat	XiangZhaiTang	Xiang Zhai Tang	briaŋ	briaŋ	b r i/j a ŋ	ruma1248	24.323819	98.556639	Palaung	541	541
+721	46_fat	fat	PongNuea	Pong Nuea	briaŋ	briaŋ	b r i/j a ŋ		20.321525	99.866817	Palaung	541	541
+722	46_fat	fat	NyaungGone	Nyaung Gone	briak	briak	b r i/j a k		20.635025	96.545772	Palaung	541	541
+723	46_fat	fat	NoeLae	Noe Lae	briaŋ	briaŋ	b r i/j a ŋ		19.941803	99.044742	Palaung	541	541
+724	46_fat	fat	BanPaw	Ban Paw	briaŋ	briaŋ	b r i/j a ŋ		21.311225	99.557550	Palaung	541	541
+725	46_fat	fat	ChaYeQing	Cha Ye Qing	bjoŋ	bjoŋ	b i/j o ŋ		24.305717	98.463661	Palaung	541	541
+726	46_fat	fat	GuangKa	Guang Ka	pjoŋ	pjoŋ	p i/j o ŋ	ruma1248	24.065714	97.796281	Palaung	541	541
+727	46_fat	fat	MangBang	Mang Bang	pjoŋ	pjoŋ	p i/j o ŋ	ruma1248	24.416392	98.399078	Palaung	541	541
+728	46_fat	fat	NanSang	Nan Sang	pjoŋ	pjoŋ	p i/j o ŋ	ruma1248	24.019728	97.819736	Palaung	541	541
+1014	65_fear	fear	NamHsan	Namhsan	ʥɔː	ʥɔː	dʑ ɔː		22.965064	97.163239	Palaung	559	559
+1015	65_fear	fear	KhunHawt	Khun Hawt	jow	jow	j ou̯		22.965064	97.163239	Palaung	558	558
+1016	65_fear	fear	HtanHsan	Htan Hsan	ʥoː	ʥoː	dʑ oː		22.675133	97.289942	Palaung	559	559
+1017	65_fear	fear	PangKham	Pangkham	ʥoː	ʥoː	dʑ oː		22.672097	97.161167	Palaung	559	559
+1018	65_fear	fear	ManLoi	Man Loi	ʥɔː	ʥɔː	dʑ ɔː		22.636019	97.139264	Palaung	559	559
+1019	65_fear	fear	MengDan	Meng Dan	ʥoː	ʥoː	dʑ oː	khan1274	24.296522	98.379886	Palaung	559	559
+1020	65_fear	fear	ChuDongGua	Chu Dong Gua	joː	joː	j oː		24.330889	98.393125	Palaung	558	558
+1021	65_fear	fear	PongNuea	Pong Nuea	jow	jow	j ou̯		20.321525	99.866817	Palaung	558	558
+1022	65_fear	fear	NyaungGone	Nyaung Gone	kacua	kacua	k a + c u/w a		20.635025	96.545772	Palaung	175 559	175 559
+1023	65_fear	fear	NoeLae	Noe Lae	kacua	kacua	k a + c u/w a		19.941803	99.044742	Palaung	175 559	175 559
+1024	65_fear	fear	BanPaw	Ban Paw	jo	jo	j o		21.311225	99.557550	Palaung	558	558
+1025	65_fear	fear	ChaYeQing	Cha Ye Qing	ʥaw	ʥaw	dʑ au̯		24.305717	98.463661	Palaung	559	559
+1026	65_fear	fear	GuangKa	Guang Ka	jaw	jaw	j au̯	ruma1248	24.065714	97.796281	Palaung	558	558
+1027	65_fear	fear	MangBang	Mang Bang	jaw	jaw	j au̯	ruma1248	24.416392	98.399078	Palaung	558	558
+1028	65_fear	fear	NanSang	Nan Sang	jaw	jaw	j au̯	ruma1248	24.019728	97.819736	Palaung	558	558
+838	54_fire	fire	NamHsan	Namhsan	ŋar	ŋar	ŋ a r		22.965064	97.163239	Palaung	576	576
+839	54_fire	fire	KhunHawt	Khun Hawt	ŋar	ŋar	ŋ a r		22.965064	97.163239	Palaung	576	576
+840	54_fire	fire	HtanHsan	Htan Hsan	ŋal	ŋal	ŋ a l		22.675133	97.289942	Palaung	576	576
+841	54_fire	fire	PangKham	Pangkham	ŋɔː	ŋɔː	ŋ ɔː		22.672097	97.161167	Palaung	576	576
+842	54_fire	fire	ManLoi	Man Loi	ŋɔː	ŋɔː	ŋ ɔː		22.636019	97.139264	Palaung	576	576
+843	54_fire	fire	MengDan	Meng Dan	ŋal	ŋal	ŋ a l	khan1274	24.296522	98.379886	Palaung	576	576
+844	54_fire	fire	ChuDongGua	Chu Dong Gua	ŋɔr	ŋɔr	ŋ ɔ r		24.330889	98.393125	Palaung	576	576
+845	54_fire	fire	XiangZhaiTang	Xiang Zhai Tang	ŋɔː	ŋɔː	ŋ ɔː	ruma1248	24.323819	98.556639	Palaung	576	576
+846	54_fire	fire	PongNuea	Pong Nuea	ŋɔː	ŋɔː	ŋ ɔː		20.321525	99.866817	Palaung	576	576
+847	54_fire	fire	NyaungGone	Nyaung Gone	ŋɔ	ŋɔ	ŋ ɔ		20.635025	96.545772	Palaung	576	576
+848	54_fire	fire	NoeLae	Noe Lae	ŋɔ	ŋɔ	ŋ ɔ		19.941803	99.044742	Palaung	576	576
+849	54_fire	fire	BanPaw	Ban Paw	ŋɔ	ŋɔ	ŋ ɔ		21.311225	99.557550	Palaung	576	576
+850	54_fire	fire	ChaYeQing	Cha Ye Qing	ŋaj	ŋaj	ŋ ai̯		24.305717	98.463661	Palaung	576	576
+851	54_fire	fire	GuangKa	Guang Ka	ŋaj	ŋaj	ŋ ai̯	ruma1248	24.065714	97.796281	Palaung	576	576
+852	54_fire	fire	MangBang	Mang Bang	ŋaj	ŋaj	ŋ ai̯	ruma1248	24.416392	98.399078	Palaung	576	576
+853	54_fire	fire	NanSang	Nan Sang	ŋaiɁ	ŋaiɁ	ŋ ai̯ ʔ	ruma1248	24.019728	97.819736	Palaung	576	576
+417	27_fish	fish	NamHsan	Namhsan	kaː	kaː	k aː		22.965064	97.163239	Palaung	594	594
+418	27_fish	fish	KhunHawt	Khun Hawt	kaː	kaː	k aː		22.965064	97.163239	Palaung	594	594
+419	27_fish	fish	HtanHsan	Htan Hsan	kaː	kaː	k aː		22.675133	97.289942	Palaung	594	594
+420	27_fish	fish	PangKham	Pangkham	ɡaː	ɡaː	g aː		22.672097	97.161167	Palaung	594	594
+421	27_fish	fish	ManLoi	Man Loi	ɡɛː	ɡɛː	g ɛː		22.636019	97.139264	Palaung	594	594
+422	27_fish	fish	MengDan	Meng Dan	kɛː	kɛː	k ɛː	khan1274	24.296522	98.379886	Palaung	594	594
+423	27_fish	fish	ChuDongGua	Chu Dong Gua	kaː	kaː	k aː		24.330889	98.393125	Palaung	594	594
+424	27_fish	fish	XiangZhaiTang	Xiang Zhai Tang	ɡaː	ɡaː	g aː	ruma1248	24.323819	98.556639	Palaung	594	594
+425	27_fish	fish	PongNuea	Pong Nuea	maɡɛa	maɡɛa	m a + g ɛa		20.321525	99.866817	Palaung	593 594	593 594
+426	27_fish	fish	NyaungGone	Nyaung Gone	maɡa	maɡa	m a + g a		20.635025	96.545772	Palaung	593 594	593 594
+427	27_fish	fish	NoeLae	Noe Lae	maɡa	maɡa	m a + g a		19.941803	99.044742	Palaung	593 594	593 594
+428	27_fish	fish	BanPaw	Ban Paw	maɡa	maɡa	m a + g a		21.311225	99.557550	Palaung	1110 594	1110 594
+429	27_fish	fish	ChaYeQing	Cha Ye Qing	kaː	kaː	k aː		24.305717	98.463661	Palaung	594	594
+430	27_fish	fish	GuangKa	Guang Ka	kaː	kaː	k aː	ruma1248	24.065714	97.796281	Palaung	594	594
+431	27_fish	fish	MangBang	Mang Bang	kaː	kaː	k aː	ruma1248	24.416392	98.399078	Palaung	594	594
+432	27_fish	fish	NanSang	Nan Sang	kaː	kaː	k aː	ruma1248	24.019728	97.819736	Palaung	594	594
+241	16_flower	flower	NamHsan	Namhsan	ɓoh	ɓoh	ɓ o h		22.965064	97.163239	Palaung	614	614
+242	16_flower	flower	KhunHawt	Khun Hawt	ɓoh	ɓoh	ɓ o h		22.965064	97.163239	Palaung	614	614
+243	16_flower	flower	HtanHsan	Htan Hsan	ɓoh	ɓoh	ɓ o h		22.675133	97.289942	Palaung	614	614
+244	16_flower	flower	PangKham	Pangkham	boh	boh	b o h		22.672097	97.161167	Palaung	614	614
+245	16_flower	flower	ManLoi	Man Loi	ɓoh	ɓoh	ɓ o h		22.636019	97.139264	Palaung	614	614
+246	16_flower	flower	MengDan	Meng Dan	ɓoh	ɓoh	ɓ o h	khan1274	24.296522	98.379886	Palaung	614	614
+247	16_flower	flower	ChuDongGua	Chu Dong Gua	ɓoh	ɓoh	ɓ o h		24.330889	98.393125	Palaung	614	614
+248	16_flower	flower	XiangZhaiTang	Xiang Zhai Tang	boh	boh	b o h	ruma1248	24.323819	98.556639	Palaung	614	614
+249	16_flower	flower	PongNuea	Pong Nuea	bouh	bouh	b ou̯ h		20.321525	99.866817	Palaung	614	614
+250	16_flower	flower	NyaungGone	Nyaung Gone	bouh	bouh	b ou̯ h		20.635025	96.545772	Palaung	614	614
+251	16_flower	flower	NoeLae	Noe Lae	bouh	bouh	b ou̯ h		19.941803	99.044742	Palaung	614	614
+252	16_flower	flower	BanPaw	Ban Paw	bouh	bouh	b ou̯ h		21.311225	99.557550	Palaung	614	614
+253	16_flower	flower	ChaYeQing	Cha Ye Qing	box	box	b o x		24.305717	98.463661	Palaung	614	614
+254	16_flower	flower	GuangKa	Guang Ka	poh	poh	p o h	ruma1248	24.065714	97.796281	Palaung	614	614
+255	16_flower	flower	MangBang	Mang Bang	poh	poh	p o h	ruma1248	24.416392	98.399078	Palaung	614	614
+256	16_flower	flower	NanSang	Nan Sang	poh	poh	p o h	ruma1248	24.019728	97.819736	Palaung	614	614
+385	25_fly	fly	NamHsan	Namhsan	pәr	pәr	p ə r		22.965064	97.163239	Palaung	631	631
+386	25_fly	fly	KhunHawt	Khun Hawt	bәr	bәr	b ə r		22.965064	97.163239	Palaung	631	631
+387	25_fly	fly	HtanHsan	Htan Hsan	ɓәr	ɓәr	ɓ ə r		22.675133	97.289942	Palaung	631	631
+388	25_fly	fly	PangKham	Pangkham	min	min	m i n		22.672097	97.161167	Palaung	631	631
+389	25_fly	fly	ManLoi	Man Loi	bәr	bәr	b ə r		22.636019	97.139264	Palaung	631	631
+390	25_fly	fly	MengDan	Meng Dan	phruː	phruː	pʰ r uː	khan1274	24.296522	98.379886	Palaung	631	631
+391	25_fly	fly	ChuDongGua	Chu Dong Gua	phruː	phruː	pʰ r uː		24.330889	98.393125	Palaung	631	631
+392	25_fly	fly	XiangZhaiTang	Xiang Zhai Tang	bən	bən	b ə n	ruma1248	24.323819	98.556639	Palaung	631	631
+393	25_fly	fly	PongNuea	Pong Nuea	bən	bən	b ə n		20.321525	99.866817	Palaung	631	631
+394	25_fly	fly	NyaungGone	Nyaung Gone	bə̆n	bə̆n	b ə̆ n		20.635025	96.545772	Palaung	631	631
+395	25_fly	fly	NoeLae	Noe Lae	bə̆n	bə̆n	b ə̆ n		19.941803	99.044742	Palaung	631	631
+396	25_fly	fly	BanPaw	Ban Paw	bə̆n	bə̆n	b ə̆ n		21.311225	99.557550	Palaung	631	631
+397	25_fly	fly	ChaYeQing	Cha Ye Qing	ɓaj	ɓaj	ɓ ai̯		24.305717	98.463661	Palaung	631	631
+398	25_fly	fly	GuangKa	Guang Ka	pɨːh	pɨːh	p ɨː h	ruma1248	24.065714	97.796281	Palaung	631	631
+399	25_fly	fly	MangBang	Mang Bang	pɨː	pɨː	p ɨː	ruma1248	24.416392	98.399078	Palaung	631	631
+400	25_fly	fly	NanSang	Nan Sang	pɨː	pɨː	p ɨː	ruma1248	24.019728	97.819736	Palaung	631	631
+681	44_foot	foot	NamHsan	Namhsan	ʥәŋ	ʥәŋ	dʑ ə ŋ		22.965064	97.163239	Palaung	648	648
+682	44_foot	foot	KhunHawt	Khun Hawt	ʥәːŋ	ʥәːŋ	dʑ əː ŋ		22.965064	97.163239	Palaung	648	648
+683	44_foot	foot	HtanHsan	Htan Hsan	ʥәːŋ	ʥәːŋ	dʑ əː ŋ		22.675133	97.289942	Palaung	648	648
+684	44_foot	foot	PangKham	Pangkham	ʨeŋ	ʨeŋ	tɕ e ŋ		22.672097	97.161167	Palaung	648	648
+685	44_foot	foot	ManLoi	Man Loi	ʨeːŋ	ʨeːŋ	tɕ eː ŋ		22.636019	97.139264	Palaung	648	648
+686	44_foot	foot	MengDan	Meng Dan	ʨəŋ	ʨəŋ	tɕ ə ŋ	khan1274	24.296522	98.379886	Palaung	648	648
+687	44_foot	foot	ChuDongGua	Chu Dong Gua	ʥəŋ	ʥəŋ	dʑ ə ŋ		24.330889	98.393125	Palaung	648	648
+688	44_foot	foot	XiangZhaiTang	Xiang Zhai Tang	ʨeːn	ʨeːn	tɕ eː n	ruma1248	24.323819	98.556639	Palaung	648	648
+689	44_foot	foot	PongNuea	Pong Nuea	ceɲ	ceɲ	c e ɲ		20.321525	99.866817	Palaung	648	648
+690	44_foot	foot	NyaungGone	Nyaung Gone	plɔ	plɔ	p l ɔ		20.635025	96.545772	Palaung	649	649
+691	44_foot	foot	NoeLae	Noe Lae	ceɲ	ceɲ	c e ɲ		19.941803	99.044742	Palaung	648	648
+692	44_foot	foot	BanPaw	Ban Paw	ceɲ	ceɲ	c e ɲ		21.311225	99.557550	Palaung	648	648
+693	44_foot	foot	ChaYeQing	Cha Ye Qing	ʥɔːn	ʥɔːn	dʑ ɔː n		24.305717	98.463661	Palaung	648	648
+694	44_foot	foot	GuangKa	Guang Ka	ʥɔːn	ʥɔːn	dʑ ɔː n	ruma1248	24.065714	97.796281	Palaung	648	648
+695	44_foot	foot	MangBang	Mang Bang	ʥɔːn	ʥɔːn	dʑ ɔː n	ruma1248	24.416392	98.399078	Palaung	648	648
+696	44_foot	foot	NanSang	Nan Sang	ʥɔːn	ʥɔːn	dʑ ɔː n	ruma1248	24.019728	97.819736	Palaung	648	648
+1285	82_four	four	NamHsan	Namhsan	phon	phon	pʰ o n		22.965064	97.163239	Palaung	665	665
+1286	82_four	four	KhunHawt	Khun Hawt	phon	phon	pʰ o n		22.965064	97.163239	Palaung	665	665
+1287	82_four	four	HtanHsan	Htan Hsan	phoːn	phoːn	pʰ oː n		22.675133	97.289942	Palaung	665	665
+1288	82_four	four	PangKham	Pangkham	phuan	phuan	pʰ u/w a n		22.672097	97.161167	Palaung	665	665
+1289	82_four	four	ManLoi	Man Loi	phɔːn	phɔːn	pʰ ɔː n		22.636019	97.139264	Palaung	665	665
+1290	82_four	four	MengDan	Meng Dan	phon	phon	pʰ o n	khan1274	24.296522	98.379886	Palaung	665	665
+1291	82_four	four	ChuDongGua	Chu Dong Gua	phɔn	phɔn	pʰ ɔ n		24.330889	98.393125	Palaung	665	665
+1292	82_four	four	XiangZhaiTang	Xiang Zhai Tang	mphuan	mphuan	Ø/ə m + pʰ u/w a n	ruma1248	24.323819	98.556639	Palaung	666 665	666 665
+1293	82_four	four	PongNuea	Pong Nuea	mphaun	mphaun	Ø/ə m + pʰ au̯ n		20.321525	99.866817	Palaung	666 665	666 665
+1294	82_four	four	NyaungGone	Nyaung Gone	m phuan	m phuan	Ø/ə m + pʰ u/w a n		20.635025	96.545772	Palaung	666 665	666 665
+1295	82_four	four	NoeLae	Noe Lae	m phuan	m phuan	Ø/ə m + pʰ u/w a n		19.941803	99.044742	Palaung	666 665	666 665
+1296	82_four	four	BanPaw	Ban Paw	phuan	phuan	pʰ u/w a n		21.311225	99.557550	Palaung	665	665
+1297	82_four	four	ChaYeQing	Cha Ye Qing	phoːm	phoːm	pʰ oː m		24.305717	98.463661	Palaung	665	665
+1298	82_four	four	GuangKa	Guang Ka	phoːn	phoːn	pʰ oː n	ruma1248	24.065714	97.796281	Palaung	665	665
+1299	82_four	four	MangBang	Mang Bang	phoːm	phoːm	pʰ oː m	ruma1248	24.416392	98.399078	Palaung	665	665
+1300	82_four	four	NanSang	Nan Sang	phon	phon	pʰ o n	ruma1248	24.019728	97.819736	Palaung	665	665
+257	17_fruit	fruit	NamHsan	Namhsan	ɓleː	ɓleː	ɓ l eː		22.965064	97.163239	Palaung	686	686
+258	17_fruit	fruit	KhunHawt	Khun Hawt	plej	plej	p l ei̯		22.965064	97.163239	Palaung	686	686
+259	17_fruit	fruit	HtanHsan	Htan Hsan	ɓlej	ɓlej	ɓ l ei̯		22.675133	97.289942	Palaung	686	686
+260	17_fruit	fruit	PangKham	Pangkham	bleː	bleː	b l eː		22.672097	97.161167	Palaung	686	686
+261	17_fruit	fruit	ManLoi	Man Loi	blej	blej	b l ei̯		22.636019	97.139264	Palaung	686	686
+262	17_fruit	fruit	MengDan	Meng Dan	bliː	bliː	b l iː	khan1274	24.296522	98.379886	Palaung	686	686
+263	17_fruit	fruit	ChuDongGua	Chu Dong Gua	ɓliː	ɓliː	ɓ l iː		24.330889	98.393125	Palaung	686	686
+264	17_fruit	fruit	XiangZhaiTang	Xiang Zhai Tang	blej	blej	b l ei̯	ruma1248	24.323819	98.556639	Palaung	686	686
+265	17_fruit	fruit	PongNuea	Pong Nuea	blej	blej	b l ei̯		20.321525	99.866817	Palaung	686	686
+266	17_fruit	fruit	NyaungGone	Nyaung Gone	ble	ble	b l e		20.635025	96.545772	Palaung	686	686
+267	17_fruit	fruit	NoeLae	Noe Lae	ble	ble	b l e		19.941803	99.044742	Palaung	686	686
+268	17_fruit	fruit	BanPaw	Ban Paw	ble	ble	b l e		21.311225	99.557550	Palaung	686	686
+269	17_fruit	fruit	ChaYeQing	Cha Ye Qing	ɓlɔːj	ɓlɔːj	ɓ l ɔːi̯		24.305717	98.463661	Palaung	686	686
+270	17_fruit	fruit	GuangKa	Guang Ka	plɔːj	plɔːj	p l ɔːi̯	ruma1248	24.065714	97.796281	Palaung	686	686
+271	17_fruit	fruit	MangBang	Mang Bang	plɔːj	plɔːj	p l ɔːi̯	ruma1248	24.416392	98.399078	Palaung	686	686
+272	17_fruit	fruit	NanSang	Nan Sang	plɔːj	plɔːj	p l ɔːi̯	ruma1248	24.019728	97.819736	Palaung	686	686
+1330	85_full	full	NamHsan	Namhsan	nɔɁ	nɔɁ	n ɔ ʔ		22.965064	97.163239	Palaung	703	703
+1331	85_full	full	KhunHawt	Khun Hawt	noɁ	noɁ	n o ʔ		22.965064	97.163239	Palaung	703	703
+1332	85_full	full	HtanHsan	Htan Hsan	nauɁ	nauɁ	n au̯ ʔ		22.675133	97.289942	Palaung	703	703
+1333	85_full	full	PangKham	Pangkham	noɁ	noɁ	n o ʔ		22.672097	97.161167	Palaung	703	703
+1334	85_full	full	ManLoi	Man Loi	nok	nok	n o k		22.636019	97.139264	Palaung	703	703
+1335	85_full	full	MengDan	Meng Dan	noʔ	noʔ	n o ʔ	khan1274	24.296522	98.379886	Palaung	703	703
+1336	85_full	full	ChuDongGua	Chu Dong Gua	nok	nok	n o k		24.330889	98.393125	Palaung	703	703
+1337	85_full	full	XiangZhaiTang	Xiang Zhai Tang	nouɁ	nouɁ	n ou̯ ʔ	ruma1248	24.323819	98.556639	Palaung	703	703
+1338	85_full	full	PongNuea	Pong Nuea	nouɁ	nouɁ	n ou̯ ʔ		20.321525	99.866817	Palaung	703	703
+1339	85_full	full	NyaungGone	Nyaung Gone	nouʔ	nouʔ	n ou̯ ʔ		20.635025	96.545772	Palaung	703	703
+1340	85_full	full	NoeLae	Noe Lae	nouɁ	nouɁ	n ou̯ ʔ		19.941803	99.044742	Palaung	703	703
+1341	85_full	full	BanPaw	Ban Paw	nouɁ	nouɁ	n ou̯ ʔ		21.311225	99.557550	Palaung	703	703
+1342	85_full	full	ChaYeQing	Cha Ye Qing	nok	nok	n o k		24.305717	98.463661	Palaung	703	703
+1343	85_full	full	GuangKa	Guang Ka	nok	nok	n o k	ruma1248	24.065714	97.796281	Palaung	703	703
+1344	85_full	full	MangBang	Mang Bang	nok	nok	n o k	ruma1248	24.416392	98.399078	Palaung	703	703
+1345	85_full	full	NanSang	Nan Sang	nok	nok	n o k	ruma1248	24.019728	97.819736	Palaung	703	703
+1124	72_give	give	NamHsan	Namhsan	dɛh	dɛh	d ɛ h		22.965064	97.163239	Palaung	720	720
+1125	72_give	give	KhunHawt	Khun Hawt	daih	daih	d ai̯ h		22.965064	97.163239	Palaung	720	720
+1126	72_give	give	HtanHsan	Htan Hsan	daih	daih	d ai̯ h		22.675133	97.289942	Palaung	720	720
+1127	72_give	give	PangKham	Pangkham	deh	deh	d e h		22.672097	97.161167	Palaung	720	720
+1128	72_give	give	ManLoi	Man Loi	tɛh	tɛh	t ɛ h		22.636019	97.139264	Palaung	720	720
+1129	72_give	give	MengDan	Meng Dan	deh	deh	d e h	khan1274	24.296522	98.379886	Palaung	720	720
+1130	72_give	give	ChuDongGua	Chu Dong Gua	dɛh	dɛh	d ɛ h		24.330889	98.393125	Palaung	720	720
+1131	72_give	give	XiangZhaiTang	Xiang Zhai Tang	tajh	tajh	t ai̯ h	ruma1248	24.323819	98.556639	Palaung	720	720
+1132	72_give	give	PongNuea	Pong Nuea	taih	taih	t ai̯ h		20.321525	99.866817	Palaung	720	720
+1133	72_give	give	NyaungGone	Nyaung Gone	taih	taih	t ai̯ h		20.635025	96.545772	Palaung	720	720
+1134	72_give	give	NoeLae	Noe Lae	taih	taih	t ai̯ h		19.941803	99.044742	Palaung	720	720
+1135	72_give	give	BanPaw	Ban Paw	taih	taih	t ai̯ h		21.311225	99.557550	Palaung	720	720
+1136	72_give	give	ChaYeQing	Cha Ye Qing	dɛh	dɛh	d ɛ h		24.305717	98.463661	Palaung	720	720
+1137	72_give	give	GuangKa	Guang Ka	dɛh	dɛh	d ɛ h	ruma1248	24.065714	97.796281	Palaung	720	720
+1138	72_give	give	MangBang	Mang Bang	dɛh	dɛh	d ɛ h	ruma1248	24.416392	98.399078	Palaung	720	720
+1139	72_give	give	NanSang	Nan Sang	dɛh	dɛh	d ɛ h	ruma1248	24.019728	97.819736	Palaung	720	720
+273	18_grass	grass	NamHsan	Namhsan	kәrbaːn	kәrbaːn	k ə r + b aː n		22.965064	97.163239	Palaung	175 737	175 737
+274	18_grass	grass	KhunHawt	Khun Hawt	kәrbaːn	kәrbaːn	k ə r + b aː n		22.965064	97.163239	Palaung	739 737	739 737
+275	18_grass	grass	HtanHsan	Htan Hsan	brej	brej	b r ei̯		22.675133	97.289942	Palaung	737	737
+276	18_grass	grass	PangKham	Pangkham	praj	praj	p r ai̯		22.672097	97.161167	Palaung	737	737
+277	18_grass	grass	ManLoi	Man Loi	praj	praj	p r ai̯		22.636019	97.139264	Palaung	737	737
+278	18_grass	grass	MengDan	Meng Dan	praj	praj	p r ai̯	khan1274	24.296522	98.379886	Palaung	737	737
+279	18_grass	grass	ChuDongGua	Chu Dong Gua	ɓrai	ɓrai	ɓ r ai̯		24.330889	98.393125	Palaung	737	737
+280	18_grass	grass	XiangZhaiTang	Xiang Zhai Tang	pət	pət	p ə t	ruma1248	24.323819	98.556639	Palaung	737	737
+281	18_grass	grass	PongNuea	Pong Nuea	pət	pət	p ə t		20.321525	99.866817	Palaung	737	737
+282	18_grass	grass	NyaungGone	Nyaung Gone	pə̆t	pə̆t	p ə̆ t		20.635025	96.545772	Palaung	737	737
+283	18_grass	grass	NoeLae	Noe Lae	pə̆t	pə̆t	p ə̆ t		19.941803	99.044742	Palaung	737	737
+284	18_grass	grass	BanPaw	Ban Paw	pə̆t	pə̆t	p ə̆ t		21.311225	99.557550	Palaung	737	737
+285	18_grass	grass	ChaYeQing	Cha Ye Qing	bjai	bjai	b j ai̯		24.305717	98.463661	Palaung	738	738
+286	18_grass	grass	GuangKa	Guang Ka	bat	bat	b a t	ruma1248	24.065714	97.796281	Palaung	737	737
+287	18_grass	grass	MangBang	Mang Bang	bət	bət	b ə t	ruma1248	24.416392	98.399078	Palaung	737	737
+288	18_grass	grass	NanSang	Nan Sang	bat	bat	b a t	ruma1248	24.019728	97.819736	Palaung	737	737
+481	31_hair	hair	NamHsan	Namhsan	huɁkiŋ	huɁkiŋ	h u ʔ + k i ŋ		22.965064	97.163239	Palaung	756 805	756 805
+482	31_hair	hair	KhunHawt	Khun Hawt	houɁ keɲ	houɁ keɲ	h ou̯ ʔ + k e ɲ		22.965064	97.163239	Palaung	756 805	756 805
+483	31_hair	hair	HtanHsan	Htan Hsan	houɁ kiɲ	houɁ kiɲ	h ou̯ ʔ + k i ɲ		22.675133	97.289942	Palaung	756 805	756 805
+484	31_hair	hair	PangKham	Pangkham	hɨk ɡiɲ	hɨk ɡiɲ	h ɨ k + g i ɲ		22.672097	97.161167	Palaung	756 757	756 757
+485	31_hair	hair	ManLoi	Man Loi	huk ɡiŋ	huk ɡiŋ	h u k + g i ŋ		22.636019	97.139264	Palaung	756 757	756 757
+486	31_hair	hair	MengDan	Meng Dan	huʔ kiŋ	huʔ kiŋ	h u ʔ + k i ŋ	khan1274	24.296522	98.379886	Palaung	756 805	756 805
+487	31_hair	hair	ChuDongGua	Chu Dong Gua	huʔ kiŋ	huʔ kiŋ	h u ʔ + k i ŋ		24.330889	98.393125	Palaung	756 805	756 805
+488	31_hair	hair	XiangZhaiTang	Xiang Zhai Tang	huːj	huːj	h uːi̯	ruma1248	24.323819	98.556639	Palaung	756	756
+489	31_hair	hair	PongNuea	Pong Nuea	hɨk ɡiɲ	hɨk ɡiɲ	h ɨ k + g i ɲ		20.321525	99.866817	Palaung	756 757	756 757
+490	31_hair	hair	NyaungGone	Nyaung Gone	hɨk ɡɨn	hɨk ɡɨn	h ɨ k + g ɨ n		20.635025	96.545772	Palaung	756 757	756 757
+491	31_hair	hair	NoeLae	Noe Lae	hɨk ɡiɲ	hɨk ɡiɲ	h ɨ k + g i ɲ		19.941803	99.044742	Palaung	756 757	756 757
+492	31_hair	hair	BanPaw	Ban Paw	hɨk ɡɨɲ	hɨk ɡɨɲ	h ɨ k + g ɨ ɲ		21.311225	99.557550	Palaung	756 757	756 757
+493	31_hair	hair	ChaYeQing	Cha Ye Qing	hɨk ken	hɨk ken	h ɨ k + k e n		24.305717	98.463661	Palaung	756 805	756 805
+494	31_hair	hair	GuangKa	Guang Ka	hɨk ken	hɨk ken	h ɨ k + k e n	ruma1248	24.065714	97.796281	Palaung	756 805	756 805
+495	31_hair	hair	MangBang	Mang Bang	hɨkkən	hɨkkən	h ɨ k + k ə n	ruma1248	24.416392	98.399078	Palaung	756 805	756 805
+496	31_hair	hair	NanSang	Nan Sang	hɨkkən	hɨkkən	h ɨ k + k ə n	ruma1248	24.019728	97.819736	Palaung	756 805	756 805
+649	42_hand	hand	NamHsan	Namhsan	ɗiː	ɗiː	ɗ iː		22.965064	97.163239	Palaung	788	788
+650	42_hand	hand	KhunHawt	Khun Hawt	ɗi:	ɗi:	ɗ iː		22.965064	97.163239	Palaung	788	788
+651	42_hand	hand	HtanHsan	Htan Hsan	ɗiː	ɗiː	ɗ iː		22.675133	97.289942	Palaung	788	788
+652	42_hand	hand	PangKham	Pangkham	ɗaj	ɗaj	ɗ ai̯		22.672097	97.161167	Palaung	788	788
+653	42_hand	hand	ManLoi	Man Loi	ɗaj	ɗaj	ɗ ai̯		22.636019	97.139264	Palaung	788	788
+654	42_hand	hand	MengDan	Meng Dan	ɗaj	ɗaj	ɗ ai̯	khan1274	24.296522	98.379886	Palaung	788	788
+655	42_hand	hand	ChuDongGua	Chu Dong Gua	ɗaj	ɗaj	ɗ ai̯		24.330889	98.393125	Palaung	788	788
+656	42_hand	hand	XiangZhaiTang	Xiang Zhai Tang	dɛː	dɛː	d ɛː	ruma1248	24.323819	98.556639	Palaung	788	788
+657	42_hand	hand	PongNuea	Pong Nuea	dɛː	dɛː	d ɛː		20.321525	99.866817	Palaung	788	788
+658	42_hand	hand	NyaungGone	Nyaung Gone	dɛ	dɛ	d ɛ		20.635025	96.545772	Palaung	788	788
+659	42_hand	hand	NoeLae	Noe Lae	dɛ	dɛ	d ɛ		19.941803	99.044742	Palaung	788	788
+660	42_hand	hand	BanPaw	Ban Paw	dɛ	dɛ	d ɛ		21.311225	99.557550	Palaung	788	788
+661	42_hand	hand	ChaYeQing	Cha Ye Qing	ɗaj	ɗaj	ɗ ai̯		24.305717	98.463661	Palaung	788	788
+662	42_hand	hand	GuangKa	Guang Ka	taj	taj	t ai̯	ruma1248	24.065714	97.796281	Palaung	788	788
+663	42_hand	hand	MangBang	Mang Bang	taj	taj	t ai̯	ruma1248	24.416392	98.399078	Palaung	788	788
+664	42_hand	hand	NanSang	Nan Sang	taiɁ	taiɁ	t ai̯ ʔ	ruma1248	24.019728	97.819736	Palaung	788	788
+465	30_head	head	NamHsan	Namhsan	kiŋ	kiŋ	k i ŋ		22.965064	97.163239	Palaung	805	805
+466	30_head	head	KhunHawt	Khun Hawt	keɲ	keɲ	k e ɲ		22.965064	97.163239	Palaung	805	805
+467	30_head	head	HtanHsan	Htan Hsan	kiɲ	kiɲ	k i ɲ		22.675133	97.289942	Palaung	805	805
+468	30_head	head	PangKham	Pangkham	ɡiɲ	ɡiɲ	g i ɲ		22.672097	97.161167	Palaung	805	805
+469	30_head	head	ManLoi	Man Loi	ɡiŋ	ɡiŋ	g i ŋ		22.636019	97.139264	Palaung	805	805
+470	30_head	head	MengDan	Meng Dan	kiŋ	kiŋ	k i ŋ	khan1274	24.296522	98.379886	Palaung	805	805
+471	30_head	head	ChuDongGua	Chu Dong Gua	ɡiŋ	ɡiŋ	g i ŋ		24.330889	98.393125	Palaung	805	805
+472	30_head	head	XiangZhaiTang	Xiang Zhai Tang	ɡiɲ	ɡiɲ	g i ɲ	ruma1248	24.323819	98.556639	Palaung	805	805
+473	30_head	head	PongNuea	Pong Nuea	ɡiɲ	ɡiɲ	g i ɲ		20.321525	99.866817	Palaung	805	805
+474	30_head	head	NyaungGone	Nyaung Gone	ɡɨn	ɡɨn	g ɨ n		20.635025	96.545772	Palaung	805	805
+475	30_head	head	NoeLae	Noe Lae	ɡiɲ	ɡiɲ	g i ɲ		19.941803	99.044742	Palaung	805	805
+476	30_head	head	BanPaw	Ban Paw	ɡɨɲ	ɡɨɲ	g ɨ ɲ		21.311225	99.557550	Palaung	805	805
+477	30_head	head	ChaYeQing	Cha Ye Qing	ken	ken	k e n		24.305717	98.463661	Palaung	805	805
+478	30_head	head	GuangKa	Guang Ka	ken	ken	k e n	ruma1248	24.065714	97.796281	Palaung	805	805
+479	30_head	head	MangBang	Mang Bang	kən	kən	k ə n	ruma1248	24.416392	98.399078	Palaung	805	805
+480	30_head	head	NanSang	Nan Sang	kən	kən	k ə n	ruma1248	24.019728	97.819736	Palaung	805	805
+609	39_heart	heart	NamHsan	Namhsan	ble phәːm	ble phәːm	b l e + pʰ əː m		22.965064	97.163239	Palaung	827 4	827 4
+610	39_heart	heart	KhunHawt	Khun Hawt	blej phә:m	blej phә:m	b l ei̯ + pʰ əː m		22.965064	97.163239	Palaung	827 4	827 4
+611	39_heart	heart	HtanHsan	Htan Hsan	blej phәːm	blej phәːm	b l ei̯ + pʰ əː m		22.675133	97.289942	Palaung	827 4	827 4
+612	39_heart	heart	PangKham	Pangkham	bleː phәːm	bleː phәːm	b l eː + pʰ əː m		22.672097	97.161167	Palaung	827 4	827 4
+613	39_heart	heart	ManLoi	Man Loi	bleː phәːm	bleː phәːm	b l eː + pʰ əː m		22.636019	97.139264	Palaung	827 4	827 4
+614	39_heart	heart	MengDan	Meng Dan	bli nɔjh	bli nɔjh	b l i + n ɔi̯ h	khan1274	24.296522	98.379886	Palaung	827 826	827 826
+615	39_heart	heart	ChuDongGua	Chu Dong Gua	nɔːj	nɔːj	n ɔːi̯		24.330889	98.393125	Palaung	826	826
+616	39_heart	heart	XiangZhaiTang	Xiang Zhai Tang	blejnɔx	blejnɔx	b l ei̯ + n ɔ x	ruma1248	24.323819	98.556639	Palaung	827 826	827 826
+617	39_heart	heart	PongNuea	Pong Nuea	berɔː	berɔː	b e + r ɔː		20.321525	99.866817	Palaung	827 9	827 9
+618	39_heart	heart	NoeLae	Noe Lae	baraw	baraw	b a + r au̯		19.941803	99.044742	Palaung	827 9	827 9
+619	39_heart	heart	BanPaw	Ban Paw	mahujə	mahujə	m a + h u + j ə		21.311225	99.557550	Palaung	1110 823 824	1110 823 824
+620	39_heart	heart	ChaYeQing	Cha Ye Qing	blɔːjnɔh	blɔːjnɔh	b l ɔːi̯ + n ɔ h		24.305717	98.463661	Palaung	827 826	827 826
+621	39_heart	heart	GuangKa	Guang Ka	poŋ kənɔh	poŋ kənɔh	p o ŋ + k ə + n ɔ h	ruma1248	24.065714	97.796281	Palaung	7 175 826	7 175 826
+622	39_heart	heart	MangBang	Mang Bang	kənɔh	kənɔh	k ə + n ɔ h	ruma1248	24.416392	98.399078	Palaung	175 826	175 826
+623	39_heart	heart	NanSang	Nan Sang	poŋkanɔh	poŋkanɔh	p o n + k a + n ɔ h	ruma1248	24.019728	97.819736	Palaung	7 175 826	7 175 826
+1506	96_heavy	heavy	NamHsan	Namhsan	ʥan	ʥan	dʑ a n		22.965064	97.163239	Palaung	855	855
+1507	96_heavy	heavy	KhunHawt	Khun Hawt	ʥan	ʥan	dʑ a n		22.965064	97.163239	Palaung	855	855
+1508	96_heavy	heavy	HtanHsan	Htan Hsan	ʥan	ʥan	dʑ a n		22.675133	97.289942	Palaung	855	855
+1509	96_heavy	heavy	PangKham	Pangkham	ʨan	ʨan	tɕ a n		22.672097	97.161167	Palaung	855	855
+1510	96_heavy	heavy	ManLoi	Man Loi	ʨɔn	ʨɔn	tɕ ɔ n		22.636019	97.139264	Palaung	855	855
+1511	96_heavy	heavy	MengDan	Meng Dan	ʨan	ʨan	tɕ a n	khan1274	24.296522	98.379886	Palaung	855	855
+1512	96_heavy	heavy	ChuDongGua	Chu Dong Gua	ʥɔːn	ʥɔːn	dʑ ɔː n		24.330889	98.393125	Palaung	855	855
+1513	96_heavy	heavy	XiangZhaiTang	Xiang Zhai Tang	ʨan	ʨan	tɕ a n	ruma1248	24.323819	98.556639	Palaung	855	855
+1514	96_heavy	heavy	PongNuea	Pong Nuea	ʨan	ʨan	tɕ a n		20.321525	99.866817	Palaung	855	855
+1515	96_heavy	heavy	NyaungGone	Nyaung Gone	căn	căn	c ă n		20.635025	96.545772	Palaung	855	855
+1516	96_heavy	heavy	NoeLae	Noe Lae	căn	căn	c ă n		19.941803	99.044742	Palaung	855	855
+1517	96_heavy	heavy	BanPaw	Ban Paw	can	can	c a n		21.311225	99.557550	Palaung	855	855
+1518	96_heavy	heavy	ChaYeQing	Cha Ye Qing	ʥɔːn	ʥɔːn	dʑ ɔː n		24.305717	98.463661	Palaung	855	855
+1519	96_heavy	heavy	GuangKa	Guang Ka	ʥɔn	ʥɔn	dʑ ɔ n	ruma1248	24.065714	97.796281	Palaung	855	855
+1520	96_heavy	heavy	MangBang	Mang Bang	ʥɔːn	ʥɔːn	dʑ ɔː n	ruma1248	24.416392	98.399078	Palaung	855	855
+1521	96_heavy	heavy	NanSang	Nan Sang	ʥan	ʥan	dʑ a n	ruma1248	24.019728	97.819736	Palaung	855	855
+337	22_horn	horn	NamHsan	Namhsan	nuŋ kraɁ	nuŋ kraɁ	n u ŋ + k r a ʔ		22.965064	97.163239	Palaung	872 873	872 873
+338	22_horn	horn	KhunHawt	Khun Hawt	nәŋ	nәŋ	n ə ŋ		22.965064	97.163239	Palaung	872	872
+339	22_horn	horn	HtanHsan	Htan Hsan	nuk	nuk	n u k		22.675133	97.289942	Palaung	872	872
+340	22_horn	horn	PangKham	Pangkham	nɨŋ	nɨŋ	n ɨ ŋ		22.672097	97.161167	Palaung	872	872
+341	22_horn	horn	ManLoi	Man Loi	nuŋ	nuŋ	n u ŋ		22.636019	97.139264	Palaung	872	872
+342	22_horn	horn	MengDan	Meng Dan	nuŋ	nuŋ	n u ŋ	khan1274	24.296522	98.379886	Palaung	872	872
+343	22_horn	horn	ChuDongGua	Chu Dong Gua	nuŋ	nuŋ	n u ŋ		24.330889	98.393125	Palaung	872	872
+344	22_horn	horn	XiangZhaiTang	Xiang Zhai Tang	nɨŋ	nɨŋ	n ɨ ŋ	ruma1248	24.323819	98.556639	Palaung	872	872
+345	22_horn	horn	PongNuea	Pong Nuea	nɨŋ	nɨŋ	n ɨ ŋ		20.321525	99.866817	Palaung	872	872
+346	22_horn	horn	NyaungGone	Nyaung Gone	nɨk	nɨk	n ɨ k		20.635025	96.545772	Palaung	872	872
+347	22_horn	horn	NoeLae	Noe Lae	nɨŋ	nɨŋ	n ɨ ŋ		19.941803	99.044742	Palaung	872	872
+348	22_horn	horn	BanPaw	Ban Paw	nɨŋ	nɨŋ	n ɨ ŋ		21.311225	99.557550	Palaung	872	872
+349	22_horn	horn	ChaYeQing	Cha Ye Qing	nɨŋ	nɨŋ	n ɨ ŋ		24.305717	98.463661	Palaung	872	872
+350	22_horn	horn	GuangKa	Guang Ka	nɨŋ	nɨŋ	n ɨ ŋ	ruma1248	24.065714	97.796281	Palaung	872	872
+351	22_horn	horn	MangBang	Mang Bang	nɨŋ	nɨŋ	n ɨ ŋ	ruma1248	24.416392	98.399078	Palaung	872	872
+352	22_horn	horn	NanSang	Nan Sang	nɨŋ	nɨŋ	n ɨ ŋ	ruma1248	24.019728	97.819736	Palaung	872	872
+1204	77_hunt	hunt	NamHsan	Namhsan	biam	biam	b i/j a m		22.965064	97.163239	Palaung	890	890
+1205	77_hunt	hunt	KhunHawt	Khun Hawt	koh priː	koh priː	k o h + p r iː		22.965064	97.163239	Palaung	895 891	895 891
+1206	77_hunt	hunt	HtanHsan	Htan Hsan	luaŋbrej	luaŋbrej	l u/w a ŋ + b r ei̯		22.675133	97.289942	Palaung	894 891	894 891
+1207	77_hunt	hunt	PangKham	Pangkham	kuh praj	kuh praj	k u h + p r ai̯		22.672097	97.161167	Palaung	895 891	895 891
+1208	77_hunt	hunt	ManLoi	Man Loi	khrɔh praj	khrɔh praj	kʰ r ɔ h + p r ai̯		22.636019	97.139264	Palaung	895 891	895 891
+1209	77_hunt	hunt	MengDan	Meng Dan	lip riŋ	lip riŋ	l i p + r i ŋ	khan1274	24.296522	98.379886	Palaung	892 894	892 894
+1210	77_hunt	hunt	ChuDongGua	Chu Dong Gua	klɔː brai	klɔː brai	k l ɔː + b r ai̯		24.330889	98.393125	Palaung	892 891	892 891
+1211	77_hunt	hunt	XiangZhaiTang	Xiang Zhai Tang	lɨpprɛː	lɨpprɛː	l ɨ p + p r ɛː	ruma1248	24.323819	98.556639	Palaung	892 891	892 891
+1212	77_hunt	hunt	PongNuea	Pong Nuea	ŋauh	ŋauh	ŋ au̯ h		20.321525	99.866817	Palaung	895	895
+1213	77_hunt	hunt	NyaungGone	Nyaung Gone	lɛ khɛ prɛ	lɛ khɛ prɛ	l ɛ + kʰ ɛ + p r ɛ		20.635025	96.545772	Palaung	892 895 891	892 895 891
+1214	77_hunt	hunt	NoeLae	Noe Lae	lɛ prɛ	lɛ prɛ	l ɛ + p r ɛ		19.941803	99.044742	Palaung	892 891	892 891
+1215	77_hunt	hunt	BanPaw	Ban Paw	ba prɛ	ba prɛ	b a + p r ɛ		21.311225	99.557550	Palaung	890 891	890 891
+1216	77_hunt	hunt	ChaYeQing	Cha Ye Qing	ləp bjaj	ləp bjaj	l ə p + b j ai̯		24.305717	98.463661	Palaung	892 890	892 890
+1217	77_hunt	hunt	GuangKa	Guang Ka	pai toː	pai toː	p ai̯ + t oː	ruma1248	24.065714	97.796281	Palaung	891 893	891 893
+1218	77_hunt	hunt	MangBang	Mang Bang	lɛː	lɛː	l ɛː	ruma1248	24.416392	98.399078	Palaung	892	892
+1219	77_hunt	hunt	NanSang	Nan Sang	jɨtoː	jɨtoː	j ɨ + t oː	ruma1248	24.019728	97.819736	Palaung	896 893	896 893
+639	41_intestines	intestines	MengDan	Meng Dan	rɔːn ʔiar	rɔːn ʔiar	r ɔː n + ʔ i/j a r	khan1274	24.296522	98.379886	Palaung	921 925	921 925
+640	41_intestines	intestines	ChuDongGua	Chu Dong Gua	rɔːn	rɔːn	r ɔː n		24.330889	98.393125	Palaung	921	921
+641	41_intestines	intestines	XiangZhaiTang	Xiang Zhai Tang	vac	vac	v a c	ruma1248	24.323819	98.556639	Palaung	922	922
+642	41_intestines	intestines	PongNuea	Pong Nuea	ɲɔŋ vaic	ɲɔŋ vaic	ɲ ɔ ŋ + v ai̯ c		20.321525	99.866817	Palaung	921 922	921 922
+643	41_intestines	intestines	NyaungGone	Nyaung Gone	ɲɔŋ vat	ɲɔŋ vat	ɲ ɔ ŋ + v a t		20.635025	96.545772	Palaung	921 922	921 922
+644	41_intestines	intestines	NoeLae	Noe Lae	ɲɔŋ vac	ɲɔŋ vac	ɲ ɔ ŋ + v a c		19.941803	99.044742	Palaung	921 922	921 922
+645	41_intestines	intestines	BanPaw	Ban Paw	ɲɔŋ văt	ɲɔŋ văt	ɲ ɔ ŋ + v ă t		21.311225	99.557550	Palaung	921 17	921 17
+646	41_intestines	intestines	ChaYeQing	Cha Ye Qing	khəɣan	khəɣan	kʰ ə + ɣ a n		24.305717	98.463661	Palaung	923 921	923 921
+647	41_intestines	intestines	MangBang	Mang Bang	sɔnvat	sɔnvat	s ɔ + n v a t	ruma1248	24.416392	98.399078	Palaung	924 922	924 922
+648	41_intestines	intestines	NanSang	Nan Sang	sɔnvat	sɔnvat	s ɔ + n v a t	ruma1248	24.019728	97.819736	Palaung	924 922	924 922
+1220	78_kill	kill	NamHsan	Namhsan	biam	biam	b i/j a m		22.965064	97.163239	Palaung	941	941
+1221	78_kill	kill	KhunHawt	Khun Hawt	piam	piam	p i/j a m		22.965064	97.163239	Palaung	941	941
+1222	78_kill	kill	HtanHsan	Htan Hsan	ɓiam	ɓiam	ɓ i/j a m		22.675133	97.289942	Palaung	941	941
+1223	78_kill	kill	PangKham	Pangkham	ŋɔh	ŋɔh	ŋ ɔ h		22.672097	97.161167	Palaung	940	940
+1224	78_kill	kill	ManLoi	Man Loi	ŋah	ŋah	ŋ a h		22.636019	97.139264	Palaung	940	940
+1225	78_kill	kill	MengDan	Meng Dan	ŋah	ŋah	ŋ a h	khan1274	24.296522	98.379886	Palaung	940	940
+1226	78_kill	kill	ChuDongGua	Chu Dong Gua	ŋah	ŋah	ŋ a h		24.330889	98.393125	Palaung	940	940
+1227	78_kill	kill	XiangZhaiTang	Xiang Zhai Tang	ŋɔh	ŋɔh	ŋ ɔ h	ruma1248	24.323819	98.556639	Palaung	940	940
+1228	78_kill	kill	PongNuea	Pong Nuea	ŋauh	ŋauh	ŋ au̯ h		20.321525	99.866817	Palaung	940	940
+1229	78_kill	kill	NyaungGone	Nyaung Gone	ŋauh	ŋauh	ŋ au̯ h		20.635025	96.545772	Palaung	940	940
+1230	78_kill	kill	NoeLae	Noe Lae	ŋauh	ŋauh	ŋ au̯ h		19.941803	99.044742	Palaung	940	940
+1231	78_kill	kill	BanPaw	Ban Paw	ŋauh	ŋauh	ŋ au̯ h		21.311225	99.557550	Palaung	940	940
+1232	78_kill	kill	ChaYeQing	Cha Ye Qing	ŋɔh	ŋɔh	ŋ ɔ h		24.305717	98.463661	Palaung	940	940
+1233	78_kill	kill	GuangKa	Guang Ka	ŋai?	ŋai?	ŋ ai̯ ʔ	ruma1248	24.065714	97.796281	Palaung	940	940
+1234	78_kill	kill	MangBang	Mang Bang	ŋaj	ŋaj	ŋ ai̯	ruma1248	24.416392	98.399078	Palaung	940	940
+1235	78_kill	kill	NanSang	Nan Sang	ŋai	ŋai	ŋ ai̯	ruma1248	24.019728	97.819736	Palaung	940	940
+998	64_know	know	NamHsan	Namhsan	nap	nap	n a p		22.965064	97.163239	Palaung	957	957
+999	64_know	know	KhunHawt	Khun Hawt	nap	nap	n a p		22.965064	97.163239	Palaung	957	957
+1000	64_know	know	HtanHsan	Htan Hsan	nap	nap	n a p		22.675133	97.289942	Palaung	957	957
+1001	64_know	know	PangKham	Pangkham	nap	nap	n a p		22.672097	97.161167	Palaung	957	957
+1002	64_know	know	ManLoi	Man Loi	naɁ	naɁ	n a ʔ		22.636019	97.139264	Palaung	957	957
+1003	64_know	know	MengDan	Meng Dan	nap	nap	n a p	khan1274	24.296522	98.379886	Palaung	957	957
+1004	64_know	know	ChuDongGua	Chu Dong Gua	nap	nap	n a p		24.330889	98.393125	Palaung	957	957
+1005	64_know	know	XiangZhaiTang	Xiang Zhai Tang	nap	nap	n a p	ruma1248	24.323819	98.556639	Palaung	957	957
+1006	64_know	know	PongNuea	Pong Nuea	nap	nap	n a p		20.321525	99.866817	Palaung	957	957
+1007	64_know	know	NyaungGone	Nyaung Gone	năp	năp	n ă p		20.635025	96.545772	Palaung	957	957
+1008	64_know	know	NoeLae	Noe Lae	năp	năp	n ă p		19.941803	99.044742	Palaung	957	957
+1009	64_know	know	BanPaw	Ban Paw	năp	năp	n ă p		21.311225	99.557550	Palaung	957	957
+1010	64_know	know	ChaYeQing	Cha Ye Qing	nɔʔ	nɔʔ	n ɔ ʔ		24.305717	98.463661	Palaung	957	957
+1011	64_know	know	GuangKa	Guang Ka	nɔːʔ	nɔːʔ	n ɔː ʔ	ruma1248	24.065714	97.796281	Palaung	957	957
+1012	64_know	know	MangBang	Mang Bang	nɔːʔ	nɔːʔ	n ɔː ʔ	ruma1248	24.416392	98.399078	Palaung	957	957
+1013	64_know	know	NanSang	Nan Sang	naː	naː	n aː	ruma1248	24.019728	97.819736	Palaung	957	957
+982	63_laugh	laugh	NamHsan	Namhsan	jum	jum	j u m		22.965064	97.163239	Palaung	976	976
+983	63_laugh	laugh	KhunHawt	Khun Hawt	ʥum	ʥum	dʑ u m		22.965064	97.163239	Palaung	976	976
+984	63_laugh	laugh	HtanHsan	Htan Hsan	ʥum	ʥum	dʑ u m		22.675133	97.289942	Palaung	976	976
+985	63_laugh	laugh	PangKham	Pangkham	kanɲah	kanɲah	k a n + ɲ a h		22.672097	97.161167	Palaung	974 975	974 975
+986	63_laugh	laugh	ManLoi	Man Loi	kaɲah	kaɲah	k a + ɲ a h		22.636019	97.139264	Palaung	175 975	175 975
+987	63_laugh	laugh	MengDan	Meng Dan	kaŋiah	kaŋiah	k a + ŋ i/j a h	khan1274	24.296522	98.379886	Palaung	175 975	175 975
+988	63_laugh	laugh	ChuDongGua	Chu Dong Gua	kəɲajh	kəɲajh	k ə + ɲ ai̯ h		24.330889	98.393125	Palaung	175 975	175 975
+989	63_laugh	laugh	XiangZhaiTang	Xiang Zhai Tang	kaɲah	kaɲah	k a + ɲ a h	ruma1248	24.323819	98.556639	Palaung	175 975	175 975
+990	63_laugh	laugh	PongNuea	Pong Nuea	kaɲah	kaɲah	k a + ɲ a h		20.321525	99.866817	Palaung	175 975	175 975
+991	63_laugh	laugh	NyaungGone	Nyaung Gone	kaɲăh	kaɲăh	k a + ɲ a h		20.635025	96.545772	Palaung	175 975	175 975
+992	63_laugh	laugh	NoeLae	Noe Lae	kaɲăh	kaɲăh	k a + ɲ a h		19.941803	99.044742	Palaung	175 975	175 975
+993	63_laugh	laugh	BanPaw	Ban Paw	kaɲăh	kaɲăh	k a + ɲ a h		21.311225	99.557550	Palaung	175 975	175 975
+994	63_laugh	laugh	ChaYeQing	Cha Ye Qing	kəɲah	kəɲah	k ə + ɲ a h		24.305717	98.463661	Palaung	974 975	974 975
+995	63_laugh	laugh	GuangKa	Guang Ka	kəɲah	kəɲah	k ə + ɲ a h	ruma1248	24.065714	97.796281	Palaung	175 975	175 975
+996	63_laugh	laugh	MangBang	Mang Bang	kəɲah	kəɲah	k ə + ɲ a h	ruma1248	24.416392	98.399078	Palaung	175 975	175 975
+997	63_laugh	laugh	NanSang	Nan Sang	kaɲah	kaɲah	k a + ɲ a h	ruma1248	24.019728	97.819736	Palaung	175 975	175 975
+225	15_leaf	leaf	NamHsan	Namhsan	l̥a:	l̥a:	l̥ aː		22.965064	97.163239	Palaung	1004	1004
+226	15_leaf	leaf	KhunHawt	Khun Hawt	l̥aː heːj	l̥aː heːj	l̥ aː + h eːi̯		22.965064	97.163239	Palaung	1004 1005	1004 1005
+227	15_leaf	leaf	HtanHsan	Htan Hsan	l̥aː	l̥aː	l̥ aː		22.675133	97.289942	Palaung	1004	1004
+228	15_leaf	leaf	PangKham	Pangkham	l̥aː	l̥aː	l̥ aː		22.672097	97.161167	Palaung	1004	1004
+229	15_leaf	leaf	ManLoi	Man Loi	l̥ɛː	l̥ɛː	l̥ ɛː		22.636019	97.139264	Palaung	1004	1004
+230	15_leaf	leaf	MengDan	Meng Dan	l̥ɛː hi	l̥ɛː hi	l̥ ɛː + h i	khan1274	24.296522	98.379886	Palaung	1004 1005	1004 1005
+231	15_leaf	leaf	ChuDongGua	Chu Dong Gua	l̥aː hiː	l̥aː hiː	l̥ aː + h iː		24.330889	98.393125	Palaung	1004 1005	1004 1005
+232	15_leaf	leaf	XiangZhaiTang	Xiang Zhai Tang	l̥aː	l̥aː	l̥ aː	ruma1248	24.323819	98.556639	Palaung	1004	1004
+233	15_leaf	leaf	PongNuea	Pong Nuea	l̥ɛa	l̥ɛa	l̥ ɛa		20.321525	99.866817	Palaung	1004	1004
+234	15_leaf	leaf	NyaungGone	Nyaung Gone	l̥a	l̥a	l̥ a		20.635025	96.545772	Palaung	1004	1004
+235	15_leaf	leaf	NoeLae	Noe Lae	l̥a	l̥a	l̥ a		19.941803	99.044742	Palaung	1004	1004
+236	15_leaf	leaf	BanPaw	Ban Paw	l̥a	l̥a	l̥ a		21.311225	99.557550	Palaung	1004	1004
+237	15_leaf	leaf	ChaYeQing	Cha Ye Qing	l̥aː	l̥aː	l̥ aː		24.305717	98.463661	Palaung	1004	1004
+238	15_leaf	leaf	GuangKa	Guang Ka	l̥aː hɔːj	l̥aː hɔːj	l̥ aː + h ɔːi̯	ruma1248	24.065714	97.796281	Palaung	1004 2017	1004 2017
+239	15_leaf	leaf	MangBang	Mang Bang	l̥aː hɔːj	l̥aː hɔːj	l̥ aː + h ɔːi̯	ruma1248	24.416392	98.399078	Palaung	1004 1005	1004 1005
+240	15_leaf	leaf	NanSang	Nan Sang	l̥aː	l̥aː	l̥ aː	ruma1248	24.019728	97.819736	Palaung	1004	1004
+1362	87_leftside	left side	NamHsan	Namhsan	khɔn Ɂiveː	khɔn Ɂiveː	kʰ ɔ n + ʔ i + v eː		22.965064	97.163239	Palaung	1027 1028 1030	1027 1028 1030
+1363	87_leftside	left side	KhunHawt	Khun Hawt	khɔnkanap	khɔnkanap	kʰ ɔ n + k a + n a p		22.965064	97.163239	Palaung	1029 175 1026	1029 175 1026
+1364	87_leftside	left side	HtanHsan	Htan Hsan	khɔnkanap	khɔnkanap	kʰ ɔ n + k a + n a p		22.675133	97.289942	Palaung	1029 175 1026	1029 175 1026
+1365	87_leftside	left side	PangKham	Pangkham	ʔakaʔ	ʔakaʔ	ʔ a + k a ʔ		22.672097	97.161167	Palaung	1028 1027	1028 1027
+1366	87_leftside	left side	ManLoi	Man Loi	ʔaɡaʔ	ʔaɡaʔ	ʔ a + g a ʔ		22.636019	97.139264	Palaung	1028 1027	1028 1027
+1367	87_leftside	left side	MengDan	Meng Dan	ʔakɛʔ	ʔakɛʔ	ʔ a + k ɛ ʔ	khan1274	24.296522	98.379886	Palaung	1028 1027	1028 1027
+1368	87_leftside	left side	ChuDongGua	Chu Dong Gua	?aka?	?aka?	ʔ a + k a ʔ		24.330889	98.393125	Palaung	1028 1027	1028 1027
+1369	87_leftside	left side	XiangZhaiTang	Xiang Zhai Tang	naɡaɁ	naɡaɁ	n a + g a ʔ	ruma1248	24.323819	98.556639	Palaung	1026 1027	1026 1027
+1370	87_leftside	left side	PongNuea	Pong Nuea	ʔaɡaɁ	ʔaɡaɁ	ʔ a + g a ʔ		20.321525	99.866817	Palaung	1028 1027	1028 1027
+1371	87_leftside	left side	NyaungGone	Nyaung Gone	ʔaɡăʔ	ʔaɡăʔ	ʔ a + g ă ʔ		20.635025	96.545772	Palaung	1028 1027	1028 1027
+1372	87_leftside	left side	NoeLae	Noe Lae	ɁaɡăɁ	ɁaɡăɁ	ʔ a + g ă ʔ		19.941803	99.044742	Palaung	1028 1027	1028 1027
+1373	87_leftside	left side	BanPaw	Ban Paw	naɡăɁ	naɡăɁ	n a + g ă ʔ		21.311225	99.557550	Palaung	1026 1027	1026 1027
+1374	87_leftside	left side	ChaYeQing	Cha Ye Qing	nakaʔ	nakaʔ	n a + k a ʔ		24.305717	98.463661	Palaung	1026 1027	1026 1027
+1375	87_leftside	left side	GuangKa	Guang Ka	ɁakaɁ	ɁakaɁ	ʔ a + k a ʔ	ruma1248	24.065714	97.796281	Palaung	1028 1027	1028 1027
+1376	87_leftside	left side	MangBang	Mang Bang	ɁakaɁ	ɁakaɁ	ʔ a + k a ʔ	ruma1248	24.416392	98.399078	Palaung	1028 1027	1028 1027
+1377	87_leftside	left side	NanSang	Nan Sang	ɁakaɁ	ɁakaɁ	ʔ a + k a ʔ	ruma1248	24.019728	97.819736	Palaung	1028 1027	1028 1027
+624	40_liver	liver	NamHsan	Namhsan	kәrɗɔːm	kәrɗɔːm	k ə r + ɗ ɔː m		22.965064	97.163239	Palaung	175 1063	175 1063
+625	40_liver	liver	KhunHawt	Khun Hawt	kaɗoːm	kaɗoːm	k a + ɗ oː m		22.965064	97.163239	Palaung	175 1063	175 1063
+626	40_liver	liver	HtanHsan	Htan Hsan	kaɗoːm, ɗap	kaɗoːm	k a + ɗ oː m		22.675133	97.289942	Palaung	175 1063	175 1063
+627	40_liver	liver	PangKham	Pangkham	kaɗɔːm	kaɗɔːm	k a + ɗ ɔː m		22.672097	97.161167	Palaung	175 1063	175 1063
+628	40_liver	liver	ManLoi	Man Loi	khaɗɔːm	khaɗɔːm	kʰ a + ɗ ɔː m		22.636019	97.139264	Palaung	1062 1063	1062 1063
+629	40_liver	liver	MengDan	Meng Dan	kəɗɔːm	kəɗɔːm	k ə + ɗ ɔː m	khan1274	24.296522	98.379886	Palaung	175 1063	175 1063
+630	40_liver	liver	ChuDongGua	Chu Dong Gua	kaɗɔːm	kaɗɔːm	k a + ɗ ɔː m		24.330889	98.393125	Palaung	175 1063	175 1063
+631	40_liver	liver	XiangZhaiTang	Xiang Zhai Tang	kadoːm	kadoːm	k a + d oː m	ruma1248	24.323819	98.556639	Palaung	175 1063	175 1063
+632	40_liver	liver	PongNuea	Pong Nuea	kadoːm	kadoːm	k a + d oː m		20.321525	99.866817	Palaung	175 1063	175 1063
+633	40_liver	liver	NyaungGone	Nyaung Gone	kadom	kadom	k a + d o m		20.635025	96.545772	Palaung	175 1063	175 1063
+634	40_liver	liver	NoeLae	Noe Lae	kadom	kadom	k a + d o m		19.941803	99.044742	Palaung	175 1063	175 1063
+635	40_liver	liver	BanPaw	Ban Paw	kadom	kadom	k a + d o m		21.311225	99.557550	Palaung	175 1063	175 1063
+636	40_liver	liver	ChaYeQing	Cha Ye Qing	kadoːm	kadoːm	k a + d oː m		24.305717	98.463661	Palaung	175 1063	175 1063
+637	40_liver	liver	GuangKa	Guang Ka	katɔːm	katɔːm	k a + t ɔː m	ruma1248	24.065714	97.796281	Palaung	175 1063	175 1063
+638	40_liver	liver	MangBang	Mang Bang	katɔːm	katɔːm	k a + t ɔː m	ruma1248	24.416392	98.399078	Palaung	175 1063	175 1063
+1315	84_long	long	NamHsan	Namhsan	r̥әŋr̥әŋ	r̥әŋr̥әŋ	r̥ ə ŋ + r̥ ə ŋ		22.965064	97.163239	Palaung	1093 1094	1093 1094
+1316	84_long	long	KhunHawt	Khun Hawt	l̥әːŋ	l̥әːŋ	l̥ əː ŋ		22.965064	97.163239	Palaung	1093	1093
+1317	84_long	long	HtanHsan	Htan Hsan	l̥әːŋ	l̥әːŋ	l̥ əː ŋ		22.675133	97.289942	Palaung	1093	1093
+1318	84_long	long	PangKham	Pangkham	d̤oŋ	d̤oŋ	dʱ o ŋ		22.672097	97.161167	Palaung	1093	1093
+1319	84_long	long	ManLoi	Man Loi	toŋ	toŋ	t o ŋ		22.636019	97.139264	Palaung	1093	1093
+1320	84_long	long	MengDan	Meng Dan	doŋ	doŋ	d o ŋ	khan1274	24.296522	98.379886	Palaung	1093	1093
+1321	84_long	long	ChuDongGua	Chu Dong Gua	doŋ	doŋ	d o ŋ		24.330889	98.393125	Palaung	1093	1093
+1322	84_long	long	PongNuea	Pong Nuea	toŋ	toŋ	t o ŋ		20.321525	99.866817	Palaung	1093	1093
+1323	84_long	long	NyaungGone	Nyaung Gone	tok	tok	t o k		20.635025	96.545772	Palaung	1093	1093
+1324	84_long	long	NoeLae	Noe Lae	toŋ	toŋ	t o ŋ		19.941803	99.044742	Palaung	1093	1093
+1325	84_long	long	BanPaw	Ban Paw	toŋ	toŋ	t o ŋ		21.311225	99.557550	Palaung	1093	1093
+1326	84_long	long	ChaYeQing	Cha Ye Qing	doŋ	doŋ	d o ŋ		24.305717	98.463661	Palaung	1093	1093
+1327	84_long	long	GuangKa	Guang Ka	doŋ	doŋ	d o ŋ	ruma1248	24.065714	97.796281	Palaung	1093	1093
+1328	84_long	long	MangBang	Mang Bang	doŋ	doŋ	d o ŋ	ruma1248	24.416392	98.399078	Palaung	1093	1093
+1329	84_long	long	NanSang	Nan Sang	doŋ	doŋ	d o ŋ	ruma1248	24.019728	97.819736	Palaung	1093	1093
+449	29_louse	louse	NamHsan	Namhsan	siː	siː	s iː		22.965064	97.163239	Palaung	1111	1111
+450	29_louse	louse	KhunHawt	Khun Hawt	siː	siː	s iː		22.965064	97.163239	Palaung	1111	1111
+451	29_louse	louse	HtanHsan	Htan Hsan	sej	sej	s ei̯		22.675133	97.289942	Palaung	1111	1111
+452	29_louse	louse	PangKham	Pangkham	saj	saj	s ai̯		22.672097	97.161167	Palaung	1111	1111
+453	29_louse	louse	ManLoi	Man Loi	saj	saj	s ai̯		22.636019	97.139264	Palaung	1111	1111
+454	29_louse	louse	MengDan	Meng Dan	kəbran	kəbran	k ə + b r a n	khan1274	24.296522	98.379886	Palaung	175 1113	175 1113
+455	29_louse	louse	ChuDongGua	Chu Dong Gua	saːj	saːj	s aːi̯		24.330889	98.393125	Palaung	1111	1111
+456	29_louse	louse	XiangZhaiTang	Xiang Zhai Tang	masɛː	masɛː	m a + s ɛː	ruma1248	24.323819	98.556639	Palaung	1110 1111	1110 1111
+457	29_louse	louse	PongNuea	Pong Nuea	masɛː	masɛː	m a + s ɛː		20.321525	99.866817	Palaung	1110 1111	1110 1111
+458	29_louse	louse	NyaungGone	Nyaung Gone	masɛ	masɛ	m a + s ɛ		20.635025	96.545772	Palaung	1110 1111	1110 1111
+459	29_louse	louse	NoeLae	Noe Lae	masɛ	masɛ	m a + s ɛ		19.941803	99.044742	Palaung	1110 1111	1110 1111
+460	29_louse	louse	BanPaw	Ban Paw	masɛ	masɛ	m a + s ɛ		21.311225	99.557550	Palaung	1110 1111	1110 1111
+461	29_louse	louse	ChaYeQing	Cha Ye Qing	masaj	masaj	m a + s ai̯		24.305717	98.463661	Palaung	1110 1111	1110 1111
+462	29_louse	louse	GuangKa	Guang Ka	saj	saj	s ai̯	ruma1248	24.065714	97.796281	Palaung	1111	1111
+463	29_louse	louse	MangBang	Mang Bang	saj	saj	s ai̯	ruma1248	24.416392	98.399078	Palaung	1111	1111
+464	29_louse	louse	NanSang	Nan Sang	saiɁ	saiɁ	s ai̯ ʔ	ruma1248	24.019728	97.819736	Palaung	1111	1111
+1301	83_many	many	NamHsan	Namhsan	bram	bram	b r a m		22.965064	97.163239	Palaung	1135	1135
+1302	83_many	many	KhunHawt	Khun Hawt	sәp,	sәp	s ə p		22.965064	97.163239	Palaung	1137	1137
+1303	83_many	many	HtanHsan	Htan Hsan	pәrʨәɯ	pәrʨәɯ	p ə r + tɕ əɯ̯		22.675133	97.289942	Palaung	1135 1136	1135 1136
+1304	83_many	many	PangKham	Pangkham	rian	rian	r i/j a n		22.672097	97.161167	Palaung	1138	1138
+1305	83_many	many	ManLoi	Man Loi	rian	rian	r i/j a n		22.636019	97.139264	Palaung	1138	1138
+1306	83_many	many	MengDan	Meng Dan	bram	bram	b r a m	khan1274	24.296522	98.379886	Palaung	1135	1135
+1307	83_many	many	ChuDongGua	Chu Dong Gua	bram	bram	b r a m		24.330889	98.393125	Palaung	1135	1135
+1308	83_many	many	NyaungGone	Nyaung Gone	kɨn	kɨn	k ɨ n		20.635025	96.545772	Palaung	1134	1134
+1309	83_many	many	NoeLae	Noe Lae	kɨn	kɨn	k ɨ n		19.941803	99.044742	Palaung	1134	1134
+1310	83_many	many	BanPaw	Ban Paw	kɨn	kɨn	k ɨ n		21.311225	99.557550	Palaung	1134	1134
+1311	83_many	many	ChaYeQing	Cha Ye Qing	ɡɨn	ɡɨn	g ɨ n		24.305717	98.463661	Palaung	1134	1134
+1312	83_many	many	GuangKa	Guang Ka	ɡɨn	ɡɨn	g ɨ n	ruma1248	24.065714	97.796281	Palaung	1134	1134
+1313	83_many	many	MangBang	Mang Bang	ɡɨn	ɡɨn	g ɨ n	ruma1248	24.416392	98.399078	Palaung	1134	1134
+1314	83_many	many	NanSang	Nan Sang	kɨn	kɨn	k ɨ n	ruma1248	24.019728	97.819736	Palaung	1134	1134
+17	2_moon	moon	NamHsan	Namhsan	blaŋkiәːr	blaŋkiәːr	b l a n + k i/j əː r		22.965064	97.163239	Palaung	1152 1151	1152 1151
+18	2_moon	moon	KhunHawt	Khun Hawt	paŋkia	paŋkia	p a n + k i/j a		22.965064	97.163239	Palaung	1152 1151	1152 1151
+19	2_moon	moon	HtanHsan	Htan Hsan	baŋkia	baŋkia	b a n + k i/j a		22.675133	97.289942	Palaung	1152 1151	1152 1151
+20	2_moon	moon	PangKham	Pangkham	blaŋɡian	blaŋɡian	b l a n + g i/j a n		22.672097	97.161167	Palaung	1152 1151	1152 1151
+21	2_moon	moon	ManLoi	Man Loi	blaŋɡiaː	blaŋɡiaː	b l a n + g i/j aː		22.636019	97.139264	Palaung	1152 1151	1152 1151
+22	2_moon	moon	MengDan	Meng Dan	blaŋɡiar	blaŋɡiar	b l a n + g i/j a r	khan1274	24.296522	98.379886	Palaung	1152 1151	1152 1151
+23	2_moon	moon	ChuDongGua	Chu Dong Gua	blaŋkiar	blaŋkiar	b l a n + k i/j a r		24.330889	98.393125	Palaung	1152 1151	1152 1151
+24	2_moon	moon	XiangZhaiTang	Xiang Zhai Tang	məɡian	məɡian	m ə + g i/j a n	ruma1248	24.323819	98.556639	Palaung	1150 1151	1150 1151
+25	2_moon	moon	PongNuea	Pong Nuea	maɡian	maɡian	m a + g i/j a n		20.321525	99.866817	Palaung	1150 1151	1150 1151
+26	2_moon	moon	NyaungGone	Nyaung Gone	maɡian	maɡian	m a + g i/j a n		20.635025	96.545772	Palaung	1150 1151	1150 1151
+27	2_moon	moon	NoeLae	Noe Lae	maɡian	maɡian	m a + g i/j a n		19.941803	99.044742	Palaung	1150 1151	1150 1151
+28	2_moon	moon	BanPaw	Ban Paw	maɡian	maɡian	m a + g i/j a n		21.311225	99.557550	Palaung	1110 1151	1110 1151
+29	2_moon	moon	ChaYeQing	Cha Ye Qing	lənlaːw	lənlaːw	l ə n + l aː w		24.305717	98.463661	Palaung	1152 1153	1152 1153
+30	2_moon	moon	GuangKa	Guang Ka	pakjəː	pakjəː	p a + k j əː	ruma1248	24.065714	97.796281	Palaung	1152 1151	1152 1151
+31	2_moon	moon	MangBang	Mang Bang	pakjəː	pakjəː	p a + k j əː	ruma1248	24.416392	98.399078	Palaung	1152 1151	1152 1151
+32	2_moon	moon	NanSang	Nan Sang	pakjəː	pakjəː	p a + k j əː	ruma1248	24.019728	97.819736	Palaung	1152 1151	1152 1151
+177	12_mountain	mountain	NamHsan	Namhsan	sur	sur	s u r		22.965064	97.163239	Palaung	1185	1185
+178	12_mountain	mountain	KhunHawt	Khun Hawt	sor	sor	s o r		22.965064	97.163239	Palaung	1185	1185
+179	12_mountain	mountain	HtanHsan	Htan Hsan	sur̥	sur̥	s u r̥		22.675133	97.289942	Palaung	1185	1185
+180	12_mountain	mountain	PangKham	Pangkham	ŋɔːt	ŋɔːt	ŋ ɔː t		22.672097	97.161167	Palaung	1183	1183
+181	12_mountain	mountain	ManLoi	Man Loi	ŋauɁ	ŋauɁ	ŋ au̯ ʔ		22.636019	97.139264	Palaung	1183	1183
+182	12_mountain	mountain	MengDan	Meng Dan	sul	sul	s u l	khan1274	24.296522	98.379886	Palaung	1185	1185
+183	12_mountain	mountain	ChuDongGua	Chu Dong Gua	kədiaŋ	kədiaŋ	k ə + d i/j a ŋ		24.330889	98.393125	Palaung	175 1184	175 1184
+184	12_mountain	mountain	XiangZhaiTang	Xiang Zhai Tang	nɔn	nɔn	n ɔ n	ruma1248	24.323819	98.556639	Palaung	1183	1183
+185	12_mountain	mountain	PongNuea	Pong Nuea	nɔːn	nɔːn	n ɔː n		20.321525	99.866817	Palaung	1183	1183
+186	12_mountain	mountain	NyaungGone	Nyaung Gone	nɔn	nɔn	n ɔ n		20.635025	96.545772	Palaung	1183	1183
+187	12_mountain	mountain	NoeLae	Noe Lae	nɔn	nɔn	n ɔ n		19.941803	99.044742	Palaung	1183	1183
+188	12_mountain	mountain	BanPaw	Ban Paw	nɔn	nɔn	n ɔ n		21.311225	99.557550	Palaung	1183	1183
+189	12_mountain	mountain	ChaYeQing	Cha Ye Qing	noː	noː	n oː		24.305717	98.463661	Palaung	1183	1183
+190	12_mountain	mountain	GuangKa	Guang Ka	koŋ	koŋ	k o ŋ	ruma1248	24.065714	97.796281	Palaung	1183	1183
+191	12_mountain	mountain	MangBang	Mang Bang	nɔː	nɔː	n ɔː	ruma1248	24.416392	98.399078	Palaung	1183	1183
+192	12_mountain	mountain	NanSang	Nan Sang	kɔŋ	kɔŋ	k ɔ ŋ	ruma1248	24.019728	97.819736	Palaung	1183	1183
+545	35_mouth	mouth	NamHsan	Namhsan	moːɁ	moːɁ	m oː ʔ		22.965064	97.163239	Palaung	1201	1201
+546	35_mouth	mouth	KhunHawt	Khun Hawt	mur̥	mur̥	m u r̥		22.965064	97.163239	Palaung	1201	1201
+547	35_mouth	mouth	HtanHsan	Htan Hsan	mur̥	mur̥	m u r̥		22.675133	97.289942	Palaung	1201	1201
+548	35_mouth	mouth	PangKham	Pangkham	muaɁ	muaɁ	m u/w a ʔ		22.672097	97.161167	Palaung	1201	1201
+549	35_mouth	mouth	ManLoi	Man Loi	muaɁ	muaɁ	m u/w a ʔ		22.636019	97.139264	Palaung	1201	1201
+550	35_mouth	mouth	MengDan	Meng Dan	mojɁ	mojɁ	m oi̯ ʔ	khan1274	24.296522	98.379886	Palaung	1201	1201
+551	35_mouth	mouth	ChuDongGua	Chu Dong Gua	mojɁ	mojɁ	m oi̯ ʔ		24.330889	98.393125	Palaung	1201	1201
+552	35_mouth	mouth	XiangZhaiTang	Xiang Zhai Tang	mojɁ	mojɁ	m oi̯ ʔ	ruma1248	24.323819	98.556639	Palaung	1201	1201
+553	35_mouth	mouth	PongNuea	Pong Nuea	moːc	moːc	m oː c		20.321525	99.866817	Palaung	1201	1201
+554	35_mouth	mouth	NyaungGone	Nyaung Gone	moc	moc	m o c		20.635025	96.545772	Palaung	1201	1201
+555	35_mouth	mouth	NoeLae	Noe Lae	moc	moc	m o c		19.941803	99.044742	Palaung	1201	1201
+556	35_mouth	mouth	BanPaw	Ban Paw	mot	mot	m o t		21.311225	99.557550	Palaung	1201	1201
+557	35_mouth	mouth	ChaYeQing	Cha Ye Qing	mojʔ	mojʔ	m oi̯ ʔ		24.305717	98.463661	Palaung	1201	1201
+558	35_mouth	mouth	GuangKa	Guang Ka	mojʔ	mojʔ	m oi̯ ʔ	ruma1248	24.065714	97.796281	Palaung	1201	1201
+559	35_mouth	mouth	MangBang	Mang Bang	mojʔ	mojʔ	m oi̯ ʔ	ruma1248	24.416392	98.399078	Palaung	1201	1201
+560	35_mouth	mouth	NanSang	Nan Sang	mojɁ	mojɁ	m oi̯ ʔ	ruma1248	24.019728	97.819736	Palaung	1201	1201
+665	43_nail	nail	NamHsan	Namhsan	rәnim	rәnim	r ə + n i m		22.965064	97.163239	Palaung	1221 1219	1221 1219
+666	43_nail	nail	KhunHawt	Khun Hawt	rәnimɗiː	rәnimɗiː	r ə + n i m + ɗ iː		22.965064	97.163239	Palaung	1221 1219 1222	1221 1219 1222
+667	43_nail	nail	HtanHsan	Htan Hsan	rәnhim	rәnhim	r ə n + h i m		22.675133	97.289942	Palaung	1221 1219	1221 1219
+668	43_nail	nail	PangKham	Pangkham	ʔahim	ʔahim	ʔ a + h i m		22.672097	97.161167	Palaung	1220 1219	1220 1219
+669	43_nail	nail	ManLoi	Man Loi	ʔahim	ʔahim	ʔ a + h i m		22.636019	97.139264	Palaung	1220 1219	1220 1219
+670	43_nail	nail	MengDan	Meng Dan	ʔahim	ʔahim	ʔ a + h i m	khan1274	24.296522	98.379886	Palaung	1220 1219	1220 1219
+671	43_nail	nail	ChuDongGua	Chu Dong Gua	ʔahim	ʔahim	ʔ a + h i m		24.330889	98.393125	Palaung	1220 1219	1220 1219
+672	43_nail	nail	XiangZhaiTang	Xiang Zhai Tang	ŋhiːm	ŋhiːm	ŋ + h iː m	ruma1248	24.323819	98.556639	Palaung	1218 1219	1218 1219
+673	43_nail	nail	PongNuea	Pong Nuea	ŋhiːm	ŋhiːm	Ø/ə ŋ + h iː m		20.321525	99.866817	Palaung	1218 1219	1218 1219
+674	43_nail	nail	NyaungGone	Nyaung Gone	ŋ him	ŋ him	Ø/ə ŋ + h i m		20.635025	96.545772	Palaung	1218 1219	1218 1219
+675	43_nail	nail	NoeLae	Noe Lae	ŋ him	ŋ him	Ø/ə ŋ + h i m		19.941803	99.044742	Palaung	1218 1219	1218 1219
+676	43_nail	nail	BanPaw	Ban Paw	ŋ him	ŋ him	Ø/ə ŋ + h i m		21.311225	99.557550	Palaung	1218 1219	1218 1219
+677	43_nail	nail	ChaYeQing	Cha Ye Qing	khiːm	khiːm	kʰ iː m		24.305717	98.463661	Palaung	1219	1219
+678	43_nail	nail	GuangKa	Guang Ka	khiːm	khiːm	kʰ iː m	ruma1248	24.065714	97.796281	Palaung	1219	1219
+679	43_nail	nail	MangBang	Mang Bang	khiːm	khiːm	kʰ iː m	ruma1248	24.416392	98.399078	Palaung	1219	1219
+680	43_nail	nail	NanSang	Nan Sang	kiːm	kiːm	k iː m	ruma1248	24.019728	97.819736	Palaung	1219	1219
+792	51_name	name	NamHsan	Namhsan	ʨɨː	ʨɨː	tɕ ɨː		22.965064	97.163239	Palaung	1248	1248
+793	51_name	name	KhunHawt	Khun Hawt	ʥɨː	ʥɨː	dʑ ɨː		22.965064	97.163239	Palaung	1248	1248
+794	51_name	name	HtanHsan	Htan Hsan	ʥɨː	ʥɨː	dʑ ɨː		22.675133	97.289942	Palaung	1248	1248
+795	51_name	name	PangKham	Pangkham	ʨɨː	ʨɨː	tɕ ɨː		22.672097	97.161167	Palaung	1248	1248
+796	51_name	name	ManLoi	Man Loi	ʨɨː	ʨɨː	tɕ ɨː		22.636019	97.139264	Palaung	1248	1248
+797	51_name	name	MengDan	Meng Dan	ʨɨː	ʨɨː	tɕ ɨː	khan1274	24.296522	98.379886	Palaung	1248	1248
+798	51_name	name	ChuDongGua	Chu Dong Gua	ʨɨː	ʨɨː	tɕ ɨː		24.330889	98.393125	Palaung	1248	1248
+799	51_name	name	XiangZhaiTang	Xiang Zhai Tang	ʨɨː	ʨɨː	tɕ ɨː	ruma1248	24.323819	98.556639	Palaung	1248	1248
+800	51_name	name	PongNuea	Pong Nuea	ʨɨː	ʨɨː	tɕ ɨː		20.321525	99.866817	Palaung	1248	1248
+801	51_name	name	NyaungGone	Nyaung Gone	cɨ	cɨ	c ɨ		20.635025	96.545772	Palaung	1248	1248
+802	51_name	name	NoeLae	Noe Lae	cɨ	cɨ	c ɨ		19.941803	99.044742	Palaung	1248	1248
+803	51_name	name	BanPaw	Ban Paw	cɨ	cɨ	c ɨ		21.311225	99.557550	Palaung	1248	1248
+804	51_name	name	ChaYeQing	Cha Ye Qing	ʥɨː	ʥɨː	dʑ ɨː		24.305717	98.463661	Palaung	1248	1248
+805	51_name	name	MangBang	Mang Bang	ʥɨː	ʥɨː	dʑ ɨː	ruma1248	24.416392	98.399078	Palaung	1248	1248
+806	51_name	name	NanSang	Nan Sang	ʨɨː	ʨɨː	tɕ ɨː	ruma1248	24.019728	97.819736	Palaung	1248	1248
+1394	89_near	near	NamHsan	Namhsan	tadaɁ	tadaɁ	t a + d a ʔ		22.965064	97.163239	Palaung	1266 1269	1266 1269
+1395	89_near	near	KhunHawt	Khun Hawt	dat	dat	d a t		22.965064	97.163239	Palaung	1266	1266
+1396	89_near	near	HtanHsan	Htan Hsan	dat	dat	d a t		22.675133	97.289942	Palaung	1266	1266
+1397	89_near	near	PangKham	Pangkham	Ɂad̤at	Ɂad̤at	ʔ a + dʱ a t		22.672097	97.161167	Palaung	1270 1266	1270 1266
+1398	89_near	near	ManLoi	Man Loi	taɁ	taɁ	t a ʔ		22.636019	97.139264	Palaung	1266	1266
+1399	89_near	near	MengDan	Meng Dan	ndat	ndat	Ø/ə n + d a t	khan1274	24.296522	98.379886	Palaung	1265 1266	1265 1266
+1400	89_near	near	ChuDongGua	Chu Dong Gua	dat	dat	d a t		24.330889	98.393125	Palaung	1266	1266
+1401	89_near	near	XiangZhaiTang	Xiang Zhai Tang	mtat	mtat	Ø/ə m + t a t	ruma1248	24.323819	98.556639	Palaung	1271 1266	1271 1266
+1402	89_near	near	PongNuea	Pong Nuea	khriaɁ	khriaɁ	kʰ r i/j a ʔ		20.321525	99.866817	Palaung	1264	1264
+1403	89_near	near	NyaungGone	Nyaung Gone	khriaʔ	khriaʔ	kʰ r i/j a ʔ		20.635025	96.545772	Palaung	1264	1264
+1404	89_near	near	NoeLae	Noe Lae	khriaɁ	khriaɁ	kʰ r i/j a ʔ		19.941803	99.044742	Palaung	1264	1264
+1405	89_near	near	BanPaw	Ban Paw	khriaɁ	khriaɁ	kʰ r i/j a ʔ		21.311225	99.557550	Palaung	1264	1264
+1406	89_near	near	ChaYeQing	Cha Ye Qing	ndɔʔ	ndɔʔ	Ø/ə n + d ɔ ʔ		24.305717	98.463661	Palaung	1265 1266	1265 1266
+1407	89_near	near	GuangKa	Guang Ka	təʨɔm	təʨɔm	t ə + tɕ ɔ m	ruma1248	24.065714	97.796281	Palaung	1266 1267	1266 1267
+1408	89_near	near	MangBang	Mang Bang	kaʨam	kaʨam	k a + tɕ a m	ruma1248	24.416392	98.399078	Palaung	175 1267	175 1267
+1409	89_near	near	NanSang	Nan Sang	kaʨam	kaʨam	k a + tɕ a m	ruma1248	24.019728	97.819736	Palaung	175 1267	175 1267
+1458	93_new	new	NamHsan	Namhsan	kәnmɛː	kәnmɛː	k ə n + m ɛː		22.965064	97.163239	Palaung	1289 1290	1289 1290
+1459	93_new	new	KhunHawt	Khun Hawt	karmej	karmej	k a r + m ei̯		22.965064	97.163239	Palaung	1289 1290	1289 1290
+1460	93_new	new	HtanHsan	Htan Hsan	kәnmej	kәnmej	k ə n + m ei̯		22.675133	97.289942	Palaung	1289 1290	1289 1290
+1461	93_new	new	PangKham	Pangkham	kamaːj	kamaːj	k a + m aːi̯		22.672097	97.161167	Palaung	175 1290	175 1290
+1462	93_new	new	ManLoi	Man Loi	kamaːj	kamaːj	k a + m aːi̯		22.636019	97.139264	Palaung	175 1290	175 1290
+1463	93_new	new	MengDan	Meng Dan	kamaj	kamaj	k a + m ai̯	khan1274	24.296522	98.379886	Palaung	175 1290	175 1290
+1464	93_new	new	ChuDongGua	Chu Dong Gua	kamaj	kamaj	k a + m ai̯		24.330889	98.393125	Palaung	175 1290	175 1290
+1465	93_new	new	XiangZhaiTang	Xiang Zhai Tang	kamaːj	kamaːj	k a + m aːi̯	ruma1248	24.323819	98.556639	Palaung	175 1290	175 1290
+1466	93_new	new	PongNuea	Pong Nuea	kamaːj	kamaːj	k a + m aːi̯		20.321525	99.866817	Palaung	175 1290	175 1290
+1467	93_new	new	NyaungGone	Nyaung Gone	kamaj	kamaj	k a + m ai̯		20.635025	96.545772	Palaung	175 1290	175 1290
+1468	93_new	new	NoeLae	Noe Lae	kamaj	kamaj	k a + m ai̯		19.941803	99.044742	Palaung	175 1290	175 1290
+1469	93_new	new	BanPaw	Ban Paw	kamaj	kamaj	k a + m ai̯		21.311225	99.557550	Palaung	175 1290	175 1290
+1470	93_new	new	ChaYeQing	Cha Ye Qing	ləmaj	ləmaj	l ə + m ai̯		24.305717	98.463661	Palaung	1291 1290	1291 1290
+1471	93_new	new	GuangKa	Guang Ka	tamaːj	tamaːj	t a + m aːi̯	ruma1248	24.065714	97.796281	Palaung	1292 1290	1292 1290
+1472	93_new	new	MangBang	Mang Bang	tamaːj	tamaːj	t a + m aːi̯	ruma1248	24.416392	98.399078	Palaung	1292 1290	1292 1290
+1473	93_new	new	NanSang	Nan Sang	tamaːj	tamaːj	t a + m aːi̯	ruma1248	24.019728	97.819736	Palaung	1292 1290	1292 1290
+97	7_night	night	NamHsan	Namhsan	ram̥әɯ	ram̥әɯ	r a + m̥ əɯ̯		22.965064	97.163239	Palaung	1325 1323	1325 1323
+98	7_night	night	KhunHawt	Khun Hawt	lapm̥әː	lapm̥әː	l a p + m̥ əː		22.965064	97.163239	Palaung	1326 1323	1326 1323
+99	7_night	night	HtanHsan	Htan Hsan	rәnm̥әː	rәnm̥әː	r ə n + m̥ əː		22.675133	97.289942	Palaung	1325 1323	1325 1323
+100	7_night	night	PangKham	Pangkham	khimm̥әɯ	khimm̥әɯ	kʰ i m + m̥ əɯ̯		22.672097	97.161167	Palaung	1322 1323	1322 1323
+101	7_night	night	ManLoi	Man Loi	khiːm̥әɯ	khiːm̥әɯ	kʰ iː + m̥ əɯ̯		22.636019	97.139264	Palaung	1322 1323	1322 1323
+102	7_night	night	MengDan	Meng Dan	khiːw m̥əɯ	khiːw m̥əɯ	kʰ iːu̯ + m̥ əɯ̯	khan1274	24.296522	98.379886	Palaung	1322 1323	1322 1323
+103	7_night	night	ChuDongGua	Chu Dong Gua	kham̥ɯ	kham̥ɯ	kʰ a + m̥ ɯ		24.330889	98.393125	Palaung	1322 1323	1322 1323
+104	7_night	night	XiangZhaiTang	Xiang Zhai Tang	ʨuŋm̥əɯ	ʨuŋm̥əɯ	tɕ u ŋ + m̥ əɯ̯	ruma1248	24.323819	98.556639	Palaung	1325 1323	1325 1323
+105	7_night	night	PongNuea	Pong Nuea	khɛm̥әɯ	khɛm̥әɯ	kʰ ɛ + m̥ əɯ̯		20.321525	99.866817	Palaung	1322 1323	1322 1323
+106	7_night	night	NyaungGone	Nyaung Gone	pam̥ə	pam̥ə	p a + m̥ ə		20.635025	96.545772	Palaung	1327 1323	1327 1323
+107	7_night	night	NoeLae	Noe Lae	khɛm̥ə	khɛm̥ə	kʰ ɛ + m̥ ə		19.941803	99.044742	Palaung	1322 1323	1322 1323
+108	7_night	night	BanPaw	Ban Paw	khɛm̥ə	khɛm̥ə	kʰ ɛ + m̥ ə		21.311225	99.557550	Palaung	1322 1323	1322 1323
+109	7_night	night	ChaYeQing	Cha Ye Qing	kham̥eːw	kham̥eːw	kʰ a + m̥ eːu̯		24.305717	98.463661	Palaung	1322 1323	1322 1323
+110	7_night	night	GuangKa	Guang Ka	kasɛm	kasɛm	k a + s ɛ m	ruma1248	24.065714	97.796281	Palaung	175 1324	175 1324
+111	7_night	night	MangBang	Mang Bang	kasəm	kasəm	k a + s ə m	ruma1248	24.416392	98.399078	Palaung	175 1324	175 1324
+112	7_night	night	NanSang	Nan Sang	kasəm	kasəm	k a + s ə m	ruma1248	24.019728	97.819736	Palaung	175 1324	175 1324
+513	33_nose	nose	NamHsan	Namhsan	kɔŋmuh	kɔŋmuh	k ɔ ŋ + m u h		22.965064	97.163239	Palaung	1355 1356	1355 1356
+514	33_nose	nose	KhunHawt	Khun Hawt	kɔŋmur̥	kɔŋmur̥	k ɔ ŋ + m u r̥		22.965064	97.163239	Palaung	1355 1201	1355 1201
+515	33_nose	nose	HtanHsan	Htan Hsan	kɔŋmuh	kɔŋmuh	k ɔ ŋ + m u h		22.675133	97.289942	Palaung	1355 1356	1355 1356
+516	33_nose	nose	PangKham	Pangkham	ɡɔŋmuh	ɡɔŋmuh	g ɔ ŋ + m u h		22.672097	97.161167	Palaung	1355 1356	1355 1356
+517	33_nose	nose	ManLoi	Man Loi	ɡɔŋmuh	ɡɔŋmuh	g ɔ ŋ + m u h		22.636019	97.139264	Palaung	1355 1356	1355 1356
+518	33_nose	nose	MengDan	Meng Dan	ʔamujh	ʔamujh	ʔ a + m ui̯ h	khan1274	24.296522	98.379886	Palaung	1358 1356	1358 1356
+519	33_nose	nose	ChuDongGua	Chu Dong Gua	mujh	mujh	m ui̯ h		24.330889	98.393125	Palaung	1356	1356
+520	33_nose	nose	XiangZhaiTang	Xiang Zhai Tang	ɡuŋmuh	ɡuŋmuh	g u ŋ + m u h	ruma1248	24.323819	98.556639	Palaung	1355 1356	1355 1356
+521	33_nose	nose	PongNuea	Pong Nuea	ɡuŋmuh	ɡuŋmuh	g u ŋ + m u h		20.321525	99.866817	Palaung	1355 1356	1355 1356
+522	33_nose	nose	NyaungGone	Nyaung Gone	ɡumuh	ɡumuh	g u + m u h		20.635025	96.545772	Palaung	1355 1356	1355 1356
+523	33_nose	nose	NoeLae	Noe Lae	ɡoŋmuh	ɡoŋmuh	g o ŋ + m u h		19.941803	99.044742	Palaung	1355 1356	1355 1356
+524	33_nose	nose	BanPaw	Ban Paw	ɡuŋmuh	ɡuŋmuh	g u ŋ + m u h		21.311225	99.557550	Palaung	1355 1356	1355 1356
+525	33_nose	nose	ChaYeQing	Cha Ye Qing	kadoŋmuh	kadoŋmuh	k a + d o ŋ + m u h		24.305717	98.463661	Palaung	175 1093 1356	175 1093 1356
+526	33_nose	nose	GuangKa	Guang Ka	kaduŋ muh	kaduŋ muh	k a + d u ŋ + m u h	ruma1248	24.065714	97.796281	Palaung	175 1357 1356	175 1357 1356
+527	33_nose	nose	MangBang	Mang Bang	kadɔŋ muh	kadɔŋ muh	k a + d ɔ ŋ + m u h	ruma1248	24.416392	98.399078	Palaung	175 1357 1356	175 1357 1356
+528	33_nose	nose	NanSang	Nan Sang	kaduŋmuh	kaduŋmuh	k a + d u ŋ + m u h	ruma1248	24.019728	97.819736	Palaung	175 1357 1356	175 1357 1356
+1474	94_oldaged	old-aged	NamHsan	Namhsan	konʨhaː	konʨhaː	k o n + tɕʰ aː		22.965064	97.163239	Palaung	1391 1393	1391 1393
+1475	94_oldaged	old-aged	KhunHawt	Khun Hawt	paɁaːn	paɁaːn	p a + ʔ aː n		22.965064	97.163239	Palaung	1392 1391	1392 1391
+1476	94_oldaged	old-aged	HtanHsan	Htan Hsan	pәɁaːn	pәɁaːn	p ə + ʔ aː n		22.675133	97.289942	Palaung	1392 1391	1392 1391
+1477	94_oldaged	old-aged	PangKham	Pangkham	kat	kat	k a t		22.672097	97.161167	Palaung	1391	1391
+1478	94_oldaged	old-aged	ManLoi	Man Loi	kaɁ	kaɁ	k a ʔ		22.636019	97.139264	Palaung	1391	1391
+1479	94_oldaged	old-aged	MengDan	Meng Dan	kɛt	kɛt	k ɛ t	khan1274	24.296522	98.379886	Palaung	1391	1391
+1480	94_oldaged	old-aged	ChuDongGua	Chu Dong Gua	ɡat	ɡat	g a t		24.330889	98.393125	Palaung	1391	1391
+1481	94_oldaged	old-aged	XiangZhaiTang	Xiang Zhai Tang	kat	kat	k a t	ruma1248	24.323819	98.556639	Palaung	1391	1391
+1482	94_oldaged	old-aged	PongNuea	Pong Nuea	kat	kat	k a t		20.321525	99.866817	Palaung	1391	1391
+1483	94_oldaged	old-aged	NyaungGone	Nyaung Gone	kăt	kăt	k ă t		20.635025	96.545772	Palaung	1391	1391
+1484	94_oldaged	old-aged	NoeLae	Noe Lae	kăt	kăt	k ă t		19.941803	99.044742	Palaung	1391	1391
+1485	94_oldaged	old-aged	BanPaw	Ban Paw	kăt	kăt	k ă t		21.311225	99.557550	Palaung	1391	1391
+1486	94_oldaged	old-aged	ChaYeQing	Cha Ye Qing	ɡɔʔ	ɡɔʔ	g ɔ ʔ		24.305717	98.463661	Palaung	1391	1391
+1487	94_oldaged	old-aged	GuangKa	Guang Ka	ɡɔːʔ	ɡɔːʔ	g ɔː ʔ	ruma1248	24.065714	97.796281	Palaung	1391	1391
+1488	94_oldaged	old-aged	MangBang	Mang Bang	ɡɔːʔ	ɡɔːʔ	g ɔː ʔ	ruma1248	24.416392	98.399078	Palaung	1391	1391
+1489	94_oldaged	old-aged	NanSang	Nan Sang	ɡɔɁ	ɡɔɁ	g ɔ ʔ	ruma1248	24.019728	97.819736	Palaung	1391	1391
+1236	79_one	one	NamHsan	Namhsan	Ɂur	Ɂur	ʔ u r		22.965064	97.163239	Palaung	1411	1411
+1237	79_one	one	KhunHawt	Khun Hawt	Ɂuː	Ɂuː	ʔ uː		22.965064	97.163239	Palaung	1411	1411
+1238	79_one	one	HtanHsan	Htan Hsan	Ɂu:	Ɂu:	ʔ uː		22.675133	97.289942	Palaung	1411	1411
+1239	79_one	one	PangKham	Pangkham	Ɂuː	Ɂuː	ʔ uː		22.672097	97.161167	Palaung	1411	1411
+1240	79_one	one	ManLoi	Man Loi	Ɂuː	Ɂuː	ʔ uː		22.636019	97.139264	Palaung	1411	1411
+1241	79_one	one	MengDan	Meng Dan	luʔ	luʔ	l u ʔ	khan1274	24.296522	98.379886	Palaung	1412	1412
+1242	79_one	one	ChuDongGua	Chu Dong Gua	Ɂuː	Ɂuː	ʔ uː		24.330889	98.393125	Palaung	1411	1411
+1243	79_one	one	XiangZhaiTang	Xiang Zhai Tang	Ɂuː, l̥ejh	Ɂuː	ʔ uː	ruma1248	24.323819	98.556639	Palaung	1411	1411
+1244	79_one	one	XiangZhaiTang	Xiang Zhai Tang	Ɂuː, l̥ejh	l̥ejh	l̥ e i̯ h	ruma1248	24.323819	98.556639	Palaung	1412	1412
+1245	79_one	one	PongNuea	Pong Nuea	lәih	lәih	l əi̯ h		20.321525	99.866817	Palaung	1412	1412
+1246	79_one	one	NyaungGone	Nyaung Gone	ʔu, l̥eih	ʔu	ʔ u		20.635025	96.545772	Palaung	1411	1411
+1247	79_one	one	NoeLae	Noe Lae	Ɂu, l̥eih	Ɂu	ʔ u		19.941803	99.044742	Palaung	1411	1411
+1248	79_one	one	BanPaw	Ban Paw	Ɂu, l̥eih	Ɂu	ʔ u		21.311225	99.557550	Palaung	1411	1411
+1249	79_one	one	ChaYeQing	Cha Ye Qing	ʔuː	ʔuː	ʔ uː		24.305717	98.463661	Palaung	1411	1411
+1250	79_one	one	GuangKa	Guang Ka	Ɂuː	Ɂuː	ʔ uː	ruma1248	24.065714	97.796281	Palaung	1411	1411
+1251	79_one	one	MangBang	Mang Bang	Ɂuː	Ɂuː	ʔ uː	ruma1248	24.416392	98.399078	Palaung	1411	1411
+1252	79_one	one	NanSang	Nan Sang	Ɂuː	Ɂuː	ʔ uː	ruma1248	24.019728	97.819736	Palaung	1411	1411
+761	49_personhuman	person, human	NamHsan	Namhsan	biː	biː	b iː		22.965064	97.163239	Palaung	1432	1432
+762	49_personhuman	person, human	KhunHawt	Khun Hawt	ɓi:	ɓi:	ɓ iː		22.965064	97.163239	Palaung	1432	1432
+763	49_personhuman	person, human	HtanHsan	Htan Hsan	ɓi	ɓi	ɓ i		22.675133	97.289942	Palaung	1432	1432
+764	49_personhuman	person, human	PangKham	Pangkham	duʔiː	duʔiː	d u + ʔ iː		22.672097	97.161167	Palaung	1430 1431	1430 1431
+765	49_personhuman	person, human	ManLoi	Man Loi	ɗuʔiː	ɗuʔiː	ɗ u + ʔ iː		22.636019	97.139264	Palaung	1430 1431	1430 1431
+766	49_personhuman	person, human	MengDan	Meng Dan	duʔiː	duʔiː	d u + ʔ iː	khan1274	24.296522	98.379886	Palaung	1430 1431	1430 1431
+767	49_personhuman	person, human	ChuDongGua	Chu Dong Gua	duʔiː	duʔiː	d u + ʔ iː		24.330889	98.393125	Palaung	1430 1431	1430 1431
+768	49_personhuman	person, human	XiangZhaiTang	Xiang Zhai Tang	naɁuj	naɁuj	n a + ʔ ui̯	ruma1248	24.323819	98.556639	Palaung	1433 1431	1433 1431
+769	49_personhuman	person, human	PongNuea	Pong Nuea	duvɨj	duvɨj	d u + v ɨi̯		20.321525	99.866817	Palaung	1430 1432	1430 1432
+770	49_personhuman	person, human	NyaungGone	Nyaung Gone	ʔi, duʔi	ʔi	ʔ i		20.635025	96.545772	Palaung	1431	1431
+771	49_personhuman	person, human	NoeLae	Noe Lae	duɁi	duɁi	d u + ʔ i		19.941803	99.044742	Palaung	1430 1431	1430 1431
+772	49_personhuman	person, human	BanPaw	Ban Paw	duɁɨj	duɁɨj	d u + ʔ ɨi̯		21.311225	99.557550	Palaung	1430 1431	1430 1431
+773	49_personhuman	person, human	ChaYeQing	Cha Ye Qing	duʔuj	duʔuj	d u + ʔ ui̯		24.305717	98.463661	Palaung	1430 1431	1430 1431
+774	49_personhuman	person, human	GuangKa	Guang Ka	taɁiː	taɁiː	t a + ʔ iː	ruma1248	24.065714	97.796281	Palaung	1430 1431	1430 1431
+775	49_personhuman	person, human	MangBang	Mang Bang	taɁiː	taɁiː	t a + ʔ iː	ruma1248	24.416392	98.399078	Palaung	1430 1431	1430 1431
+776	49_personhuman	person, human	NanSang	Nan Sang	taɁiː	taɁiː	t a + ʔ iː	ruma1248	24.019728	97.819736	Palaung	1430 1431	1430 1431
+65	5_rain	rain	NamHsan	Namhsan	ʨuŋ	ʨuŋ	tɕ u ŋ		22.965064	97.163239	Palaung	1460	1460
+66	5_rain	rain	KhunHawt	Khun Hawt	ʥoŋ	ʥoŋ	dʑ o ŋ		22.965064	97.163239	Palaung	1460	1460
+67	5_rain	rain	HtanHsan	Htan Hsan	ʥuːŋ	ʥuːŋ	dʑ uː ŋ		22.675133	97.289942	Palaung	1460	1460
+68	5_rain	rain	PangKham	Pangkham	ɡlaːj	ɡlaːj	g l aːi̯		22.672097	97.161167	Palaung	1459	1459
+69	5_rain	rain	ManLoi	Man Loi	ɡlaːj	ɡlaːj	g l aːi̯		22.636019	97.139264	Palaung	1459	1459
+70	5_rain	rain	MengDan	Meng Dan	ɡlaːj	ɡlaːj	g l aːi̯	khan1274	24.296522	98.379886	Palaung	1459	1459
+71	5_rain	rain	ChuDongGua	Chu Dong Gua	klaj	klaj	k l ai̯		24.330889	98.393125	Palaung	1459	1459
+72	5_rain	rain	XiangZhaiTang	Xiang Zhai Tang	ɡlaːj	ɡlaːj	g l aːi̯	ruma1248	24.323819	98.556639	Palaung	1459	1459
+73	5_rain	rain	PongNuea	Pong Nuea	ɡlaːj	ɡlaːj	g l aːi̯		20.321525	99.866817	Palaung	1459	1459
+74	5_rain	rain	NyaungGone	Nyaung Gone	ɡlaj	ɡlaj	g l ai̯		20.635025	96.545772	Palaung	1459	1459
+75	5_rain	rain	NoeLae	Noe Lae	ɡlaj	ɡlaj	g l ai̯		19.941803	99.044742	Palaung	1459	1459
+76	5_rain	rain	BanPaw	Ban Paw	ɡlaj	ɡlaj	g l ai̯		21.311225	99.557550	Palaung	1459	1459
+77	5_rain	rain	ChaYeQing	Cha Ye Qing	ɡlaːj	ɡlaːj	g l aːi̯		24.305717	98.463661	Palaung	1459	1459
+78	5_rain	rain	GuangKa	Guang Ka	klaːj	klaːj	k l aːi̯	ruma1248	24.065714	97.796281	Palaung	1459	1459
+79	5_rain	rain	MangBang	Mang Bang	klaːj	klaːj	k l aːi̯	ruma1248	24.416392	98.399078	Palaung	1459	1459
+80	5_rain	rain	NanSang	Nan Sang	klaːj	klaːj	k l aːi̯	ruma1248	24.019728	97.819736	Palaung	1459	1459
+1346	86_rightside	right side	NamHsan	Namhsan	khɔn Ɂidam	khɔn Ɂidam	kʰ ɔ n + ʔ i + d a m		22.965064	97.163239	Palaung	1480 1479 1478	1480 1479 1478
+1347	86_rightside	right side	KhunHawt	Khun Hawt	khɔnnap	khɔnnap	kʰ ɔ n + n a p		22.965064	97.163239	Palaung	1029 1026	1029 1026
+1348	86_rightside	right side	HtanHsan	Htan Hsan	khɔnnap	khɔnnap	kʰ ɔ n + n a p		22.675133	97.289942	Palaung	1029 1026	1029 1026
+1349	86_rightside	right side	PangKham	Pangkham	ʔaʔɔh	ʔaʔɔh	ʔ a + ʔ ɔ h		22.672097	97.161167	Palaung	1479 1476	1479 1476
+1350	86_rightside	right side	ManLoi	Man Loi	ʔaʔɔh	ʔaʔɔh	ʔ a + ʔ ɔ h		22.636019	97.139264	Palaung	1479 1476	1479 1476
+1351	86_rightside	right side	MengDan	Meng Dan	diŋʔaʔɔjh	diŋʔaʔɔjh	d i ŋ + ʔ a + ʔ ɔi̯ h	khan1274	24.296522	98.379886	Palaung	1478 1479 1476	1478 1479 1476
+1352	86_rightside	right side	ChuDongGua	Chu Dong Gua	dua?ɔjh	dua?ɔjh	d u/w a + ʔ ɔi̯ h		24.330889	98.393125	Palaung	1478 1476	1478 1476
+1353	86_rightside	right side	XiangZhaiTang	Xiang Zhai Tang	naɁah	naɁah	n a + ʔ a h	ruma1248	24.323819	98.556639	Palaung	1477 1476	1477 1476
+1354	86_rightside	right side	PongNuea	Pong Nuea	ʔaʔah	ʔaʔah	ʔ a + ʔ a h		20.321525	99.866817	Palaung	1479 1476	1479 1476
+1355	86_rightside	right side	NyaungGone	Nyaung Gone	ʔaʔăh	ʔaʔăh	ʔ a + ʔ a h		20.635025	96.545772	Palaung	1479 1476	1479 1476
+1356	86_rightside	right side	NoeLae	Noe Lae	ɁaɁăh	ɁaɁăh	ʔ a + ʔ a h		19.941803	99.044742	Palaung	1479 1476	1479 1476
+1357	86_rightside	right side	BanPaw	Ban Paw	naɁăh	naɁăh	n a + ʔ a h		21.311225	99.557550	Palaung	1026 1476	1026 1476
+1358	86_rightside	right side	ChaYeQing	Cha Ye Qing	naʔeh	naʔeh	n a + ʔ e h		24.305717	98.463661	Palaung	1026 1476	1026 1476
+1359	86_rightside	right side	GuangKa	Guang Ka	ɁaɁɛh	ɁaɁɛh	ʔ a + ʔ ɛ h	ruma1248	24.065714	97.796281	Palaung	1479 1476	1479 1476
+1360	86_rightside	right side	MangBang	Mang Bang	ɁaɁəh	ɁaɁəh	ʔ a + ʔ ə h	ruma1248	24.416392	98.399078	Palaung	1479 1476	1479 1476
+1361	86_rightside	right side	NanSang	Nan Sang	ɁaɁəh	ɁaɁəh	ʔ a + ʔ ə h	ruma1248	24.019728	97.819736	Palaung	1479 1476	1479 1476
+807	52_roadpath	road, path	NamHsan	Namhsan	radeːŋ	radeːŋ	r a + d eː ŋ		22.965064	97.163239	Palaung	1511 1509	1511 1509
+808	52_roadpath	road, path	KhunHawt	Khun Hawt	rade:ŋ	rade:ŋ	r a + d eː ŋ		22.965064	97.163239	Palaung	1511 1509	1511 1509
+809	52_roadpath	road, path	HtanHsan	Htan Hsan	d̤eːŋ	d̤eːŋ	dʱ eː ŋ		22.675133	97.289942	Palaung	1509	1509
+810	52_roadpath	road, path	PangKham	Pangkham	nteːŋ	nteːŋ	Ø/ə n + t eː ŋ		22.672097	97.161167	Palaung	1508 1509	1508 1509
+811	52_roadpath	road, path	ManLoi	Man Loi	nteːŋ	nteːŋ	Ø/ə n + t eː ŋ		22.636019	97.139264	Palaung	1508 1509	1508 1509
+812	52_roadpath	road, path	ChuDongGua	Chu Dong Gua	deŋ daːŋ	deŋ daːŋ	d e ŋ + d aː ŋ		24.330889	98.393125	Palaung	1509 1510	1509 1510
+813	52_roadpath	road, path	XiangZhaiTang	Xiang Zhai Tang	nteːn	nteːn	Ø/ə n + t eː n	ruma1248	24.323819	98.556639	Palaung	1508 1509	1508 1509
+814	52_roadpath	road, path	PongNuea	Pong Nuea	nteːɲ	nteːɲ	Ø/ə n + t eː ɲ		20.321525	99.866817	Palaung	1508 1509	1508 1509
+815	52_roadpath	road, path	NyaungGone	Nyaung Gone	n ten	n ten	Ø/ə n + t e n		20.635025	96.545772	Palaung	1508 1509	1508 1509
+816	52_roadpath	road, path	NoeLae	Noe Lae	n teɲ	n teɲ	Ø/ə n + t e ɲ		19.941803	99.044742	Palaung	1508 1509	1508 1509
+817	52_roadpath	road, path	BanPaw	Ban Paw	n teɲ	n teɲ	Ø/ə n + t e ɲ		21.311225	99.557550	Palaung	1508 1509	1508 1509
+818	52_roadpath	road, path	ChaYeQing	Cha Ye Qing	ndɔːn	ndɔːn	Ø/ə n + d ɔː n		24.305717	98.463661	Palaung	1265 1509	1265 1509
+819	52_roadpath	road, path	GuangKa	Guang Ka	ndɔːn	ndɔːn	Ø/ə n + d ɔː n	ruma1248	24.065714	97.796281	Palaung	1508 1509	1508 1509
+820	52_roadpath	road, path	MangBang	Mang Bang	ndɔːn	ndɔːn	Ø/ə n + d ɔː n	ruma1248	24.416392	98.399078	Palaung	1508 1509	1508 1509
+821	52_roadpath	road, path	NanSang	Nan Sang	n dɔn	n dɔn	Ø/ə n + d ɔ n	ruma1248	24.019728	97.819736	Palaung	1508 1509	1508 1509
+209	14_root	root	NamHsan	Namhsan	riah	riah	r i/j a h		22.965064	97.163239	Palaung	1538	1538
+210	14_root	root	KhunHawt	Khun Hawt	riah	riah	r i/j a h		22.965064	97.163239	Palaung	1538	1538
+211	14_root	root	HtanHsan	Htan Hsan	riah hej	riah hej	r i/j a h + h ei̯		22.675133	97.289942	Palaung	1538 1540	1538 1540
+212	14_root	root	PangKham	Pangkham	riah	riah	r i/j a h		22.672097	97.161167	Palaung	1538	1538
+213	14_root	root	ManLoi	Man Loi	riah hej	riah hej	r i/j a h + h ei̯		22.636019	97.139264	Palaung	1538 1540	1538 1540
+214	14_root	root	MengDan	Meng Dan	riah hiː	riah hiː	r i/j a h + h iː	khan1274	24.296522	98.379886	Palaung	1538 1540	1538 1540
+215	14_root	root	ChuDongGua	Chu Dong Gua	riahhi	riahhi	r i/j a h + h i		24.330889	98.393125	Palaung	1538 1540	1538 1540
+216	14_root	root	XiangZhaiTang	Xiang Zhai Tang	riahhej	riahhej	r i/j a h + h ei̯	ruma1248	24.323819	98.556639	Palaung	1538 1540	1538 1540
+217	14_root	root	PongNuea	Pong Nuea	riah	riah	r i/j a h		20.321525	99.866817	Palaung	1538	1538
+218	14_root	root	NyaungGone	Nyaung Gone	riah	riah	r i/j a h		20.635025	96.545772	Palaung	1538	1538
+219	14_root	root	NoeLae	Noe Lae	riah	riah	r i/j a h		19.941803	99.044742	Palaung	1538	1538
+220	14_root	root	BanPaw	Ban Paw	riah	riah	r i/j a h		21.311225	99.557550	Palaung	1538	1538
+221	14_root	root	ChaYeQing	Cha Ye Qing	ɣəhhɔj	ɣəhhɔj	ɣ ə h + h ɔi̯		24.305717	98.463661	Palaung	1539 1540	1539 1540
+222	14_root	root	GuangKa	Guang Ka	ʐəh hɔːj	ʐəh hɔːj	ʐ ə h + h ɔːi̯	ruma1248	24.065714	97.796281	Palaung	1539 2017	1539 2017
+223	14_root	root	MangBang	Mang Bang	ɣəh	ɣəh	ɣ ə h	ruma1248	24.416392	98.399078	Palaung	1539	1539
+224	14_root	root	NanSang	Nan Sang	rəhhɔj	rəhhɔj	r ə h + h ɔi̯	ruma1248	24.019728	97.819736	Palaung	1538 1540	1538 1540
+1140	73_rubhardwithbothhands	rub hard with both hands	NamHsan	Namhsan	sakuaɁ	sakuaɁ	s a + k u/w a ʔ		22.965064	97.163239	Palaung	1563 1567	1563 1567
+1141	73_rubhardwithbothhands	rub hard with both hands	KhunHawt	Khun Hawt	dudit	dudit	d u + d i t		22.965064	97.163239	Palaung	1565 1566	1565 1566
+1142	73_rubhardwithbothhands	rub hard with both hands	HtanHsan	Htan Hsan	thutheiɁ	thutheiɁ	tʰ u + tʰ ei̯ ʔ		22.675133	97.289942	Palaung	1565 1564	1565 1564
+1143	73_rubhardwithbothhands	rub hard with both hands	PangKham	Pangkham	sabɔt	sabɔt	s a + b ɔ t		22.672097	97.161167	Palaung	1563 1564	1563 1564
+1144	73_rubhardwithbothhands	rub hard with both hands	ManLoi	Man Loi	saɓɔɁ	saɓɔɁ	s a + ɓ ɔ ʔ		22.636019	97.139264	Palaung	1563 1564	1563 1564
+1145	73_rubhardwithbothhands	rub hard with both hands	MengDan	Meng Dan	thuʔɗaj	thuʔɗaj	tʰ u ʔ + ɗ ai̯	khan1274	24.296522	98.379886	Palaung	1564 1566	1564 1566
+1146	73_rubhardwithbothhands	rub hard with both hands	ChuDongGua	Chu Dong Gua	səɓɔːt ɗaj	səɓɔːt ɗaj	s ə + ɓ ɔː t + ɗ ai̯		24.330889	98.393125	Palaung	1563 1564 788	1563 1564 788
+1147	73_rubhardwithbothhands	rub hard with both hands	XiangZhaiTang	Xiang Zhai Tang	saboɁ	saboɁ	s a + b o ʔ	ruma1248	24.323819	98.556639	Palaung	1563 1564	1563 1564
+1148	73_rubhardwithbothhands	rub hard with both hands	PongNuea	Pong Nuea	sabɔːɁ	sabɔːɁ	s a + b ɔː ʔ		20.321525	99.866817	Palaung	1563 1564	1563 1564
+1149	73_rubhardwithbothhands	rub hard with both hands	NyaungGone	Nyaung Gone	sabɔʔ	sabɔʔ	s a + b ɔ ʔ		20.635025	96.545772	Palaung	1563 1564	1563 1564
+1150	73_rubhardwithbothhands	rub hard with both hands	NoeLae	Noe Lae	sabɔ	sabɔ	s a + b ɔ		19.941803	99.044742	Palaung	1563 1564	1563 1564
+1151	73_rubhardwithbothhands	rub hard with both hands	BanPaw	Ban Paw	sabɔɁ	sabɔɁ	s a + b ɔ ʔ		21.311225	99.557550	Palaung	1563 1564	1563 1564
+1152	73_rubhardwithbothhands	rub hard with both hands	ChaYeQing	Cha Ye Qing	səboɁ	səboɁ	s ə + b o ʔ		24.305717	98.463661	Palaung	1563 1564	1563 1564
+1153	73_rubhardwithbothhands	rub hard with both hands	GuangKa	Guang Ka	thuthik	thuthik	tʰ u + tʰ i k	ruma1248	24.065714	97.796281	Palaung	1565 1566	1565 1566
+1154	73_rubhardwithbothhands	rub hard with both hands	MangBang	Mang Bang	thuthiː	thuthiː	tʰ u + tʰ iː	ruma1248	24.416392	98.399078	Palaung	1565 1566	1565 1566
+1155	73_rubhardwithbothhands	rub hard with both hands	NanSang	Nan Sang	thuthiː	thuthiː	tʰ u + tʰ iː	ruma1248	24.019728	97.819736	Palaung	1565 1566	1565 1566
+289	19_salty	salty	NamHsan	Namhsan	ʨɛːm	ʨɛːm	tɕ ɛː m		22.965064	97.163239	Palaung	1598	1598
+290	19_salty	salty	KhunHawt	Khun Hawt	saŋ	saŋ	s a ŋ		22.965064	97.163239	Palaung	1597	1597
+291	19_salty	salty	HtanHsan	Htan Hsan	sɔɁ saŋ	sɔɁ saŋ	s ɔ ʔ + s a ŋ		22.675133	97.289942	Palaung	1599 1597	1599 1597
+292	19_salty	salty	PangKham	Pangkham	jɛːm	jɛːm	j ɛː m		22.672097	97.161167	Palaung	1598	1598
+293	19_salty	salty	ManLoi	Man Loi	sɛɁ saŋ	sɛɁ saŋ	s ɛ ʔ + s a ŋ		22.636019	97.139264	Palaung	1599 1597	1599 1597
+294	19_salty	salty	MengDan	Meng Dan	saŋ	saŋ	s a ŋ	khan1274	24.296522	98.379886	Palaung	1597	1597
+295	19_salty	salty	ChuDongGua	Chu Dong Gua	ʨeːm	ʨeːm	tɕ eː m		24.330889	98.393125	Palaung	1598	1598
+296	19_salty	salty	XiangZhaiTang	Xiang Zhai Tang	sɛɁsɔŋ	sɛɁsɔŋ	s ɛ ʔ + s ɔ ŋ	ruma1248	24.323819	98.556639	Palaung	1599 1597	1599 1597
+297	19_salty	salty	PongNuea	Pong Nuea	sɔŋ	sɔŋ	s ɔ ŋ		20.321525	99.866817	Palaung	1597	1597
+298	19_salty	salty	NyaungGone	Nyaung Gone	sɔk	sɔk	s ɔ k		20.635025	96.545772	Palaung	1597	1597
+299	19_salty	salty	NoeLae	Noe Lae	sɔŋ	sɔŋ	s ɔ ŋ		19.941803	99.044742	Palaung	1597	1597
+300	19_salty	salty	BanPaw	Ban Paw	sɔŋ	sɔŋ	s ɔ ŋ		21.311225	99.557550	Palaung	1597	1597
+301	19_salty	salty	ChaYeQing	Cha Ye Qing	ʨeːm	ʨeːm	tɕ eː m		24.305717	98.463661	Palaung	1598	1598
+302	19_salty	salty	GuangKa	Guang Ka	ʨɛːm	ʨɛːm	tɕ ɛː m	ruma1248	24.065714	97.796281	Palaung	1598	1598
+303	19_salty	salty	MangBang	Mang Bang	ʨeːm	ʨeːm	tɕ eː m	ruma1248	24.416392	98.399078	Palaung	1598	1598
+304	19_salty	salty	NanSang	Nan Sang	sɔŋ	sɔŋ	s ɔ ŋ	ruma1248	24.019728	97.819736	Palaung	1597	1597
+1045	67_scratch	scratch	NamHsan	Namhsan	graːɁ	graːɁ	g r aː ʔ		22.965064	97.163239	Palaung	1618	1618
+1046	67_scratch	scratch	KhunHawt	Khun Hawt	kraːjɁ	kraːjɁ	k r aːi̯ ʔ		22.965064	97.163239	Palaung	1618	1618
+1047	67_scratch	scratch	HtanHsan	Htan Hsan	kraːjɁ	kraːjɁ	k r aːi̯ ʔ		22.675133	97.289942	Palaung	1618	1618
+1048	67_scratch	scratch	PangKham	Pangkham	kriah	kriah	k r i/j a h		22.672097	97.161167	Palaung	1618	1618
+1049	67_scratch	scratch	ManLoi	Man Loi	kriaɁ	kriaɁ	k r i/j a ʔ		22.636019	97.139264	Palaung	1618	1618
+1050	67_scratch	scratch	MengDan	Meng Dan	boʔ	boʔ	b o ʔ	khan1274	24.296522	98.379886	Palaung	1617	1617
+1051	67_scratch	scratch	ChuDongGua	Chu Dong Gua	boʔ	boʔ	b o ʔ		24.330889	98.393125	Palaung	1617	1617
+1052	67_scratch	scratch	XiangZhaiTang	Xiang Zhai Tang	bouɁ	bouɁ	b ou̯ ʔ	ruma1248	24.323819	98.556639	Palaung	1617	1617
+1053	67_scratch	scratch	PongNuea	Pong Nuea	bouɁ	bouɁ	b ou̯ ʔ		20.321525	99.866817	Palaung	1617	1617
+1054	67_scratch	scratch	NyaungGone	Nyaung Gone	bouʔ	bouʔ	b ou̯ ʔ		20.635025	96.545772	Palaung	1617	1617
+1055	67_scratch	scratch	NoeLae	Noe Lae	bouɁ	bouɁ	b ou̯ ʔ		19.941803	99.044742	Palaung	1617	1617
+1056	67_scratch	scratch	BanPaw	Ban Paw	bouɁ	bouɁ	b ou̯ ʔ		21.311225	99.557550	Palaung	1617	1617
+1057	67_scratch	scratch	ChaYeQing	Cha Ye Qing	ɓok	ɓok	ɓ o k		24.305717	98.463661	Palaung	1617	1617
+1058	67_scratch	scratch	GuangKa	Guang Ka	pok	pok	p o k	ruma1248	24.065714	97.796281	Palaung	1617	1617
+1059	67_scratch	scratch	MangBang	Mang Bang	pok	pok	p o k	ruma1248	24.416392	98.399078	Palaung	1617	1617
+1060	67_scratch	scratch	NanSang	Nan Sang	kabaːn	kabaːn	k a + b aː n	ruma1248	24.019728	97.819736	Palaung	175 1617	175 1617
+902	58_see	see	NamHsan	Namhsan	ŋәːp	ŋәːp	ŋ əː p		22.965064	97.163239	Palaung	1637	1637
+903	58_see	see	KhunHawt	Khun Hawt	ʥәː	ʥәː	dʑ əː		22.965064	97.163239	Palaung	1636	1636
+904	58_see	see	HtanHsan	Htan Hsan	jəː	jəː	j əː		22.675133	97.289942	Palaung	1635	1635
+905	58_see	see	PangKham	Pangkham	ʥәɯ	ʥәɯ	dʑ ə ɯ		22.672097	97.161167	Palaung	1636	1636
+906	58_see	see	ManLoi	Man Loi	ʥәː	ʥәː	dʑ əː		22.636019	97.139264	Palaung	1636	1636
+907	58_see	see	MengDan	Meng Dan	ʥɨː	ʥɨː	dʑ ɨː	khan1274	24.296522	98.379886	Palaung	1636	1636
+908	58_see	see	ChuDongGua	Chu Dong Gua	jɨː	jɨː	j ɨː		24.330889	98.393125	Palaung	1635	1635
+909	58_see	see	XiangZhaiTang	Xiang Zhai Tang	jəɯ	jəɯ	j əɯ̯	ruma1248	24.323819	98.556639	Palaung	1635	1635
+910	58_see	see	PongNuea	Pong Nuea	jəɯ	jəɯ	j əɯ̯		20.321525	99.866817	Palaung	1635	1635
+911	58_see	see	NyaungGone	Nyaung Gone	jə	jə	j ə		20.635025	96.545772	Palaung	1635	1635
+912	58_see	see	NoeLae	Noe Lae	jə	jə	j ə		19.941803	99.044742	Palaung	1635	1635
+913	58_see	see	BanPaw	Ban Paw	jə	jə	j ə		21.311225	99.557550	Palaung	1635	1635
+914	58_see	see	ChaYeQing	Cha Ye Qing	ʥeːw	ʥeːw	dʑ eː w		24.305717	98.463661	Palaung	1636	1636
+915	58_see	see	GuangKa	Guang Ka	jew	jew	j eu̯	ruma1248	24.065714	97.796281	Palaung	1635	1635
+916	58_see	see	MangBang	Mang Bang	jew	jew	j eu̯	ruma1248	24.416392	98.399078	Palaung	1635	1635
+917	58_see	see	NanSang	Nan Sang	jew	jew	j eu̯	ruma1248	24.019728	97.819736	Palaung	1635	1635
+822	53_sew	sew	NamHsan	Namhsan	ʥɨŋ	ʥɨŋ	dʑ ɨ ŋ		22.965064	97.163239	Palaung	1652	1652
+823	53_sew	sew	KhunHawt	Khun Hawt	ʥeɲ	ʥeɲ	dʑ e ɲ		22.965064	97.163239	Palaung	1652	1652
+824	53_sew	sew	HtanHsan	Htan Hsan	ʥiɲ	ʥiɲ	dʑ i ɲ		22.675133	97.289942	Palaung	1652	1652
+825	53_sew	sew	PangKham	Pangkham	ʨiŋ	ʨiŋ	tɕ i ŋ		22.672097	97.161167	Palaung	1652	1652
+826	53_sew	sew	ManLoi	Man Loi	ʨin	ʨin	tɕ i n		22.636019	97.139264	Palaung	1652	1652
+827	53_sew	sew	MengDan	Meng Dan	ʨiŋ	ʨiŋ	tɕ i ŋ	khan1274	24.296522	98.379886	Palaung	1652	1652
+828	53_sew	sew	ChuDongGua	Chu Dong Gua	ʥiŋ	ʥiŋ	dʑ i ŋ		24.330889	98.393125	Palaung	1652	1652
+829	53_sew	sew	XiangZhaiTang	Xiang Zhai Tang	ʨiɲ	ʨiɲ	tɕ i ɲ	ruma1248	24.323819	98.556639	Palaung	1652	1652
+830	53_sew	sew	PongNuea	Pong Nuea	ʨiɲ	ʨiɲ	tɕ i ɲ		20.321525	99.866817	Palaung	1652	1652
+831	53_sew	sew	NyaungGone	Nyaung Gone	cin	cin	c i n		20.635025	96.545772	Palaung	1652	1652
+832	53_sew	sew	NoeLae	Noe Lae	ciɲ	ciɲ	c i ɲ		19.941803	99.044742	Palaung	1652	1652
+833	53_sew	sew	BanPaw	Ban Paw	cin	cin	c i n		21.311225	99.557550	Palaung	1652	1652
+834	53_sew	sew	ChaYeQing	Cha Ye Qing	ʥen	ʥen	dʑ e n		24.305717	98.463661	Palaung	1652	1652
+835	53_sew	sew	GuangKa	Guang Ka	kaʥən	kaʥən	k a + dʑ ə n	ruma1248	24.065714	97.796281	Palaung	175 1652	175 1652
+836	53_sew	sew	MangBang	Mang Bang	ʥən	ʥən	dʑ ə n	ruma1248	24.416392	98.399078	Palaung	1652	1652
+837	53_sew	sew	NanSang	Nan Sang	ʥən	ʥən	dʑ ə n	ruma1248	24.019728	97.819736	Palaung	1652	1652
+1077	69_sit	sit	NamHsan	Namhsan	mɔɁ	mɔɁ	m ɔ ʔ		22.965064	97.163239	Palaung	1673	1673
+1078	69_sit	sit	KhunHawt	Khun Hawt	moɁ	moɁ	m o ʔ		22.965064	97.163239	Palaung	1673	1673
+1079	69_sit	sit	HtanHsan	Htan Hsan	mɔɁ	mɔɁ	m ɔ ʔ		22.675133	97.289942	Palaung	1673	1673
+1080	69_sit	sit	PangKham	Pangkham	mɔŋ	mɔŋ	m ɔ ŋ		22.672097	97.161167	Palaung	1673	1673
+1081	69_sit	sit	ManLoi	Man Loi	mɔŋ	mɔŋ	m ɔ ŋ		22.636019	97.139264	Palaung	1673	1673
+1082	69_sit	sit	MengDan	Meng Dan	ŋoːj	ŋoːj	ŋ oːi̯	khan1274	24.296522	98.379886	Palaung	1672	1672
+1083	69_sit	sit	ChuDongGua	Chu Dong Gua	ŋoːj	ŋoːj	ŋ oːi̯		24.330889	98.393125	Palaung	1672	1672
+1084	69_sit	sit	XiangZhaiTang	Xiang Zhai Tang	kɔj	kɔj	k ɔi̯	ruma1248	24.323819	98.556639	Palaung	1674	1674
+1085	69_sit	sit	PongNuea	Pong Nuea	tuic	tuic	t ui̯ c		20.321525	99.866817	Palaung	1670	1670
+1086	69_sit	sit	NyaungGone	Nyaung Gone	tuc	tuc	t u c		20.635025	96.545772	Palaung	1670	1670
+1087	69_sit	sit	NoeLae	Noe Lae	tuc	tuc	t u c		19.941803	99.044742	Palaung	1670	1670
+1088	69_sit	sit	BanPaw	Ban Paw	tut	tut	t u t		21.311225	99.557550	Palaung	1670	1670
+1089	69_sit	sit	ChaYeQing	Cha Ye Qing	Ɂak	Ɂak	ʔ a k		24.305717	98.463661	Palaung	1671	1671
+1090	69_sit	sit	GuangKa	Guang Ka	Ɂɔk	Ɂɔk	ʔ ɔ k	ruma1248	24.065714	97.796281	Palaung	1671	1671
+1091	69_sit	sit	MangBang	Mang Bang	Ɂɔk	Ɂɔk	ʔ ɔ k	ruma1248	24.416392	98.399078	Palaung	1671	1671
+1092	69_sit	sit	NanSang	Nan Sang	Ɂak	Ɂak	ʔ a k	ruma1248	24.019728	97.819736	Palaung	1671	1671
+729	47_skin	skin	NamHsan	Namhsan	hur	hur	h u r		22.965064	97.163239	Palaung	1687	1687
+730	47_skin	skin	KhunHawt	Khun Hawt	hur	hur	h u r		22.965064	97.163239	Palaung	1687	1687
+731	47_skin	skin	HtanHsan	Htan Hsan	huːr	huːr	h uː r		22.675133	97.289942	Palaung	1687	1687
+732	47_skin	skin	PangKham	Pangkham	huːn	huːn	h uː n		22.672097	97.161167	Palaung	1687	1687
+733	47_skin	skin	ManLoi	Man Loi	hur	hur	h u r		22.636019	97.139264	Palaung	1687	1687
+734	47_skin	skin	MengDan	Meng Dan	hur	hur	h u r	khan1274	24.296522	98.379886	Palaung	1687	1687
+735	47_skin	skin	ChuDongGua	Chu Dong Gua	hur	hur	h u r		24.330889	98.393125	Palaung	1687	1687
+736	47_skin	skin	XiangZhaiTang	Xiang Zhai Tang	huːn	huːn	h uː n	ruma1248	24.323819	98.556639	Palaung	1687	1687
+737	47_skin	skin	PongNuea	Pong Nuea	huːn	huːn	h uː n		20.321525	99.866817	Palaung	1687	1687
+738	47_skin	skin	NyaungGone	Nyaung Gone	hun	hun	h u n		20.635025	96.545772	Palaung	1687	1687
+739	47_skin	skin	NoeLae	Noe Lae	hun	hun	h u n		19.941803	99.044742	Palaung	1687	1687
+740	47_skin	skin	BanPaw	Ban Paw	hun	hun	h u n		21.311225	99.557550	Palaung	1687	1687
+741	47_skin	skin	ChaYeQing	Cha Ye Qing	huː	huː	h uː		24.305717	98.463661	Palaung	1687	1687
+742	47_skin	skin	GuangKa	Guang Ka	huː	huː	h uː	ruma1248	24.065714	97.796281	Palaung	1687	1687
+743	47_skin	skin	MangBang	Mang Bang	huː	huː	h uː	ruma1248	24.416392	98.399078	Palaung	1687	1687
+744	47_skin	skin	NanSang	Nan Sang	huː	huː	h uː	ruma1248	24.019728	97.819736	Palaung	1687	1687
+1029	66_sleep	sleep	NamHsan	Namhsan	ɁiɁ	ɁiɁ	ʔ i ʔ		22.965064	97.163239	Palaung	1704	1704
+1030	66_sleep	sleep	KhunHawt	Khun Hawt	Ɂiːt	Ɂiːt	ʔ iː t		22.965064	97.163239	Palaung	1704	1704
+1031	66_sleep	sleep	HtanHsan	Htan Hsan	ɁiɁ	ɁiɁ	ʔ i ʔ		22.675133	97.289942	Palaung	1704	1704
+1032	66_sleep	sleep	PangKham	Pangkham	Ɂiːt	Ɂiːt	ʔ iː t		22.672097	97.161167	Palaung	1704	1704
+1033	66_sleep	sleep	ManLoi	Man Loi	Ɂit	Ɂit	ʔ i t		22.636019	97.139264	Palaung	1704	1704
+1034	66_sleep	sleep	MengDan	Meng Dan	ʔit	ʔit	ʔ i t	khan1274	24.296522	98.379886	Palaung	1704	1704
+1035	66_sleep	sleep	ChuDongGua	Chu Dong Gua	ʔit	ʔit	ʔ i t		24.330889	98.393125	Palaung	1704	1704
+1036	66_sleep	sleep	XiangZhaiTang	Xiang Zhai Tang	ʔiʔ	ʔiʔ	ʔ i ʔ	ruma1248	24.323819	98.556639	Palaung	1704	1704
+1037	66_sleep	sleep	PongNuea	Pong Nuea	ʔiːʔ	ʔiːʔ	ʔ iː ʔ		20.321525	99.866817	Palaung	1704	1704
+1038	66_sleep	sleep	NyaungGone	Nyaung Gone	ʔiʔ	ʔiʔ	ʔ i ʔ		20.635025	96.545772	Palaung	1704	1704
+1039	66_sleep	sleep	NoeLae	Noe Lae	ɁiɁ	ɁiɁ	ʔ i ʔ		19.941803	99.044742	Palaung	1704	1704
+1040	66_sleep	sleep	BanPaw	Ban Paw	ʔit	ʔit	ʔ i t		21.311225	99.557550	Palaung	1704	1704
+1041	66_sleep	sleep	ChaYeQing	Cha Ye Qing	ɁiɁ	ɁiɁ	ʔ i ʔ		24.305717	98.463661	Palaung	1704	1704
+1042	66_sleep	sleep	GuangKa	Guang Ka	ɁiɁ	ɁiɁ	ʔ i ʔ	ruma1248	24.065714	97.796281	Palaung	1704	1704
+1043	66_sleep	sleep	MangBang	Mang Bang	ɁiɁ	ɁiɁ	ʔ i ʔ	ruma1248	24.416392	98.399078	Palaung	1704	1704
+1044	66_sleep	sleep	NanSang	Nan Sang	ɁiɁ	ɁiɁ	ʔ i ʔ	ruma1248	24.019728	97.819736	Palaung	1704	1704
+886	57_smell	smell	NamHsan	Namhsan	khriɁ	khriɁ	kʰ r i ʔ		22.965064	97.163239	Palaung	1722	1722
+887	57_smell	smell	KhunHawt	Khun Hawt	kruət	kruət	k r u/w ə t		22.965064	97.163239	Palaung	1722	1722
+888	57_smell	smell	HtanHsan	Htan Hsan	khrɨʔ	khrɨʔ	kʰ r ɨ ʔ		22.675133	97.289942	Palaung	1722	1722
+889	57_smell	smell	PangKham	Pangkham	khrɔːt	khrɔːt	kʰ r ɔː t		22.672097	97.161167	Palaung	1722	1722
+890	57_smell	smell	ManLoi	Man Loi	khrit	khrit	kʰ r i t		22.636019	97.139264	Palaung	1722	1722
+891	57_smell	smell	MengDan	Meng Dan	ʔujh	ʔujh	ʔ ui̯ h	khan1274	24.296522	98.379886	Palaung	1721	1721
+892	57_smell	smell	ChuDongGua	Chu Dong Gua	ʔujh	ʔujh	ʔ ui̯ h		24.330889	98.393125	Palaung	1721	1721
+893	57_smell	smell	XiangZhaiTang	Xiang Zhai Tang	Ɂuh	Ɂuh	ʔ u h	ruma1248	24.323819	98.556639	Palaung	1721	1721
+894	57_smell	smell	PongNuea	Pong Nuea	ɲ̥ɔːɁ	ɲ̥ɔːɁ	ɲ̊ ɔː ʔ		20.321525	99.866817	Palaung	1721	1721
+895	57_smell	smell	NyaungGone	Nyaung Gone	ɲ̥ɔʔ	ɲ̥ɔʔ	ɲ̊ ɔ ʔ		20.635025	96.545772	Palaung	1721	1721
+896	57_smell	smell	NoeLae	Noe Lae	ɲ̥ɔɁ	ɲ̥ɔɁ	ɲ̊ ɔ ʔ		19.941803	99.044742	Palaung	1721	1721
+897	57_smell	smell	BanPaw	Ban Paw	ɲ̥ɔɁ	ɲ̥ɔɁ	ɲ̊ ɔ ʔ		21.311225	99.557550	Palaung	1721	1721
+898	57_smell	smell	ChaYeQing	Cha Ye Qing	ʔuh	ʔuh	ʔ u h		24.305717	98.463661	Palaung	1721	1721
+899	57_smell	smell	GuangKa	Guang Ka	ɲɔjɁ	ɲɔjɁ	ɲ ɔi̯ ʔ	ruma1248	24.065714	97.796281	Palaung	1721	1721
+900	57_smell	smell	MangBang	Mang Bang	ɲɔːj?	ɲɔːj?	ɲ ɔːi̯ ʔ	ruma1248	24.416392	98.399078	Palaung	1721	1721
+901	57_smell	smell	NanSang	Nan Sang	ɲɔjɁ	ɲɔjɁ	ɲ ɔi̯ ʔ	ruma1248	24.019728	97.819736	Palaung	1721	1721
+870	56_smoke	smoke	NamHsan	Namhsan	ɗɨʔŋar	ɗɨʔŋar	ɗ ɨ ʔ + ŋ a r		22.965064	97.163239	Palaung	1738 1739	1738 1739
+871	56_smoke	smoke	KhunHawt	Khun Hawt	ɗәk	ɗәk	ɗ ə k		22.965064	97.163239	Palaung	1738	1738
+872	56_smoke	smoke	HtanHsan	Htan Hsan	ɗәkŋal	ɗәkŋal	ɗ ə k + ŋ a l		22.675133	97.289942	Palaung	1738 576	1738 576
+873	56_smoke	smoke	PangKham	Pangkham	ɗɔk ŋɔː	ɗɔk ŋɔː	ɗ ɔ k + ŋ ɔː		22.672097	97.161167	Palaung	1738 1739	1738 1739
+874	56_smoke	smoke	ManLoi	Man Loi	ɗak	ɗak	ɗ a k		22.636019	97.139264	Palaung	1738	1738
+875	56_smoke	smoke	MengDan	Meng Dan	ɗɔʔ	ɗɔʔ	ɗ ɔ ʔ	khan1274	24.296522	98.379886	Palaung	1738	1738
+876	56_smoke	smoke	ChuDongGua	Chu Dong Gua	ɗɔːk	ɗɔːk	ɗ ɔː k		24.330889	98.393125	Palaung	1738	1738
+877	56_smoke	smoke	XiangZhaiTang	Xiang Zhai Tang	dak	dak	d a k	ruma1248	24.323819	98.556639	Palaung	1738	1738
+878	56_smoke	smoke	PongNuea	Pong Nuea	dak	dak	d a k		20.321525	99.866817	Palaung	1738	1738
+879	56_smoke	smoke	NyaungGone	Nyaung Gone	dăk	dăk	d ă k		20.635025	96.545772	Palaung	1738	1738
+880	56_smoke	smoke	NoeLae	Noe Lae	dăk	dăk	d ă k		19.941803	99.044742	Palaung	1738	1738
+881	56_smoke	smoke	BanPaw	Ban Paw	dăk	dăk	d ă k		21.311225	99.557550	Palaung	1738	1738
+882	56_smoke	smoke	ChaYeQing	Cha Ye Qing	ɗak	ɗak	ɗ a k		24.305717	98.463661	Palaung	1738	1738
+883	56_smoke	smoke	GuangKa	Guang Ka	tak	tak	t a k	ruma1248	24.065714	97.796281	Palaung	1738	1738
+884	56_smoke	smoke	MangBang	Mang Bang	tak	tak	t a k	ruma1248	24.416392	98.399078	Palaung	1738	1738
+885	56_smoke	smoke	NanSang	Nan Sang	tak	tak	t a k	ruma1248	24.019728	97.819736	Palaung	1738	1738
+433	28_snake	snake	NamHsan	Namhsan	haɲ	haɲ	h a ɲ		22.965064	97.163239	Palaung	1759	1759
+434	28_snake	snake	KhunHawt	Khun Hawt	heɲ	heɲ	h e ɲ		22.965064	97.163239	Palaung	1759	1759
+435	28_snake	snake	HtanHsan	Htan Hsan	heɲ	heɲ	h e ɲ		22.675133	97.289942	Palaung	1759	1759
+436	28_snake	snake	PangKham	Pangkham	haɲ	haɲ	h a ɲ		22.672097	97.161167	Palaung	1759	1759
+437	28_snake	snake	ManLoi	Man Loi	han	han	h a n		22.636019	97.139264	Palaung	1759	1759
+438	28_snake	snake	MengDan	Meng Dan	hɔn	hɔn	h ɔ n	khan1274	24.296522	98.379886	Palaung	1759	1759
+439	28_snake	snake	ChuDongGua	Chu Dong Gua	hɔɲ	hɔɲ	h ɔ ɲ		24.330889	98.393125	Palaung	1759	1759
+440	28_snake	snake	XiangZhaiTang	Xiang Zhai Tang	haɲ	haɲ	h a ɲ	ruma1248	24.323819	98.556639	Palaung	1759	1759
+441	28_snake	snake	PongNuea	Pong Nuea	mahaɲ	mahaɲ	m a + h a ɲ		20.321525	99.866817	Palaung	1758 1759	1758 1759
+442	28_snake	snake	NyaungGone	Nyaung Gone	han	han	h a n		20.635025	96.545772	Palaung	1759	1759
+443	28_snake	snake	NoeLae	Noe Lae	mahaɲ	mahaɲ	m a + h a ɲ		19.941803	99.044742	Palaung	1758 1759	1758 1759
+444	28_snake	snake	BanPaw	Ban Paw	mahăɲ	mahăɲ	m a + h ă ɲ		21.311225	99.557550	Palaung	1110 1759	1110 1759
+445	28_snake	snake	ChaYeQing	Cha Ye Qing	han	han	h a n		24.305717	98.463661	Palaung	1759	1759
+446	28_snake	snake	GuangKa	Guang Ka	han	han	h a n	ruma1248	24.065714	97.796281	Palaung	1759	1759
+447	28_snake	snake	MangBang	Mang Bang	han	han	h a n	ruma1248	24.416392	98.399078	Palaung	1759	1759
+448	28_snake	snake	NanSang	Nan Sang	han	han	h a n	ruma1248	24.019728	97.819736	Palaung	1759	1759
+950	61_spit	spit	NamHsan	Namhsan	bɛɁ	bɛɁ	b ɛ ʔ		22.965064	97.163239	Palaung	1778	1778
+951	61_spit	spit	KhunHawt	Khun Hawt	baic	baic	b ai̯ c		22.965064	97.163239	Palaung	1778	1778
+952	61_spit	spit	HtanHsan	Htan Hsan	baic	baic	b ai̯ c		22.675133	97.289942	Palaung	1778	1778
+953	61_spit	spit	PangKham	Pangkham	paɁ	paɁ	p a ʔ		22.672097	97.161167	Palaung	1778	1778
+954	61_spit	spit	ManLoi	Man Loi	paiɁ ɓaiɁ	paiɁ ɓaiɁ	p ai̯ ʔ + ɓ ai̯ ʔ		22.636019	97.139264	Palaung	1778 1779	1778 1779
+955	61_spit	spit	MengDan	Meng Dan	peʔ	peʔ	p e ʔ	khan1274	24.296522	98.379886	Palaung	1778	1778
+956	61_spit	spit	ChuDongGua	Chu Dong Gua	bɛ?	bɛ?	b ɛ ʔ		24.330889	98.393125	Palaung	1778	1778
+957	61_spit	spit	XiangZhaiTang	Xiang Zhai Tang	pec	pec	p e c	ruma1248	24.323819	98.556639	Palaung	1778	1778
+958	61_spit	spit	PongNuea	Pong Nuea	paic	paic	p ai̯ c		20.321525	99.866817	Palaung	1778	1778
+959	61_spit	spit	NyaungGone	Nyaung Gone	păt	păt	p ă t		20.635025	96.545772	Palaung	1778	1778
+960	61_spit	spit	NoeLae	Noe Lae	păc	păc	p ă c		19.941803	99.044742	Palaung	1778	1778
+961	61_spit	spit	BanPaw	Ban Paw	păt	păt	p ă t		21.311225	99.557550	Palaung	1778	1778
+962	61_spit	spit	ChaYeQing	Cha Ye Qing	bat	bat	b a t		24.305717	98.463661	Palaung	1778	1778
+963	61_spit	spit	GuangKa	Guang Ka	bat	bat	b a t	ruma1248	24.065714	97.796281	Palaung	1778	1778
+964	61_spit	spit	MangBang	Mang Bang	bat	bat	b a t	ruma1248	24.416392	98.399078	Palaung	1778	1778
+965	61_spit	spit	NanSang	Nan Sang	bat	bat	b a t	ruma1248	24.019728	97.819736	Palaung	1778	1778
+1093	70_stand	stand	NamHsan	Namhsan	ʥәŋ	ʥәŋ	dʑ ə ŋ		22.965064	97.163239	Palaung	1796	1796
+1094	70_stand	stand	KhunHawt	Khun Hawt	ʥaŋ	ʥaŋ	dʑ a ŋ		22.965064	97.163239	Palaung	1796	1796
+1095	70_stand	stand	HtanHsan	Htan Hsan	ʥaŋ	ʥaŋ	dʑ a ŋ		22.675133	97.289942	Palaung	1796	1796
+1096	70_stand	stand	PangKham	Pangkham	ʨaŋ	ʨaŋ	tɕ a ŋ		22.672097	97.161167	Palaung	1796	1796
+1097	70_stand	stand	ManLoi	Man Loi	ʨaŋ	ʨaŋ	tɕ a ŋ		22.636019	97.139264	Palaung	1796	1796
+1098	70_stand	stand	MengDan	Meng Dan	ʨaŋ	ʨaŋ	tɕ a ŋ	khan1274	24.296522	98.379886	Palaung	1796	1796
+1099	70_stand	stand	ChuDongGua	Chu Dong Gua	ʥaŋ	ʥaŋ	dʑ a ŋ		24.330889	98.393125	Palaung	1796	1796
+1100	70_stand	stand	XiangZhaiTang	Xiang Zhai Tang	ʨɔŋ	ʨɔŋ	tɕ ɔ ŋ	ruma1248	24.323819	98.556639	Palaung	1796	1796
+1101	70_stand	stand	PongNuea	Pong Nuea	ʨɔŋ	ʨɔŋ	tɕ ɔ ŋ		20.321525	99.866817	Palaung	1796	1796
+1102	70_stand	stand	NyaungGone	Nyaung Gone	cɔk	cɔk	c ɔ k		20.635025	96.545772	Palaung	1796	1796
+1103	70_stand	stand	NoeLae	Noe Lae	cɔŋ	cɔŋ	c ɔ ŋ		19.941803	99.044742	Palaung	1796	1796
+1104	70_stand	stand	BanPaw	Ban Paw	cɔŋ	cɔŋ	c ɔ ŋ		21.311225	99.557550	Palaung	1796	1796
+1105	70_stand	stand	ChaYeQing	Cha Ye Qing	ʥaŋ	ʥaŋ	dʑ a ŋ		24.305717	98.463661	Palaung	1796	1796
+1106	70_stand	stand	GuangKa	Guang Ka	ʥɔŋ	ʥɔŋ	dʑ ɔ ŋ	ruma1248	24.065714	97.796281	Palaung	1796	1796
+1107	70_stand	stand	MangBang	Mang Bang	ʥɔŋ	ʥɔŋ	dʑ ɔ ŋ	ruma1248	24.416392	98.399078	Palaung	1796	1796
+1108	70_stand	stand	NanSang	Nan Sang	ʥɔŋ	ʥɔŋ	dʑ ɔ ŋ	ruma1248	24.019728	97.819736	Palaung	1796	1796
+33	3_star	star	NamHsan	Namhsan	samɛŋ	samɛŋ	s a + m ɛ ŋ		22.965064	97.163239	Palaung	1813 1814	1813 1814
+34	3_star	star	KhunHawt	Khun Hawt	sәmeɲ	sәmeɲ	s ə + m e ɲ		22.965064	97.163239	Palaung	1813 1814	1813 1814
+35	3_star	star	HtanHsan	Htan Hsan	sameɲ	sameɲ	s a + m e ɲ		22.675133	97.289942	Palaung	1813 1814	1813 1814
+36	3_star	star	PangKham	Pangkham	plaːŋ	plaːŋ	p l aː ŋ		22.672097	97.161167	Palaung	1817	1817
+37	3_star	star	ManLoi	Man Loi	plaːŋ	plaːŋ	p l aː ŋ		22.636019	97.139264	Palaung	1817	1817
+38	3_star	star	MengDan	Meng Dan	kəman	kəman	k ə + m a n	khan1274	24.296522	98.379886	Palaung	175 1814	175 1814
+39	3_star	star	ChuDongGua	Chu Dong Gua	səmaɲ	səmaɲ	s ə + m a ɲ		24.330889	98.393125	Palaung	1813 1814	1813 1814
+40	3_star	star	XiangZhaiTang	Xiang Zhai Tang	samɛɲ	samɛɲ	s a + m ɛ ɲ	ruma1248	24.323819	98.556639	Palaung	1813 1814	1813 1814
+41	3_star	star	PongNuea	Pong Nuea	samaɲ	samaɲ	s a + m a ɲ		20.321525	99.866817	Palaung	1813 1814	1813 1814
+42	3_star	star	NyaungGone	Nyaung Gone	samăn	samăn	s a + m ă n		20.635025	96.545772	Palaung	1813 1814	1813 1814
+43	3_star	star	NoeLae	Noe Lae	samăɲ	samăɲ	s a + m ă ɲ		19.941803	99.044742	Palaung	1813 1814	1813 1814
+44	3_star	star	BanPaw	Ban Paw	samăn	samăn	s a + m ă n		21.311225	99.557550	Palaung	1563 1814	1563 1814
+45	3_star	star	ChaYeQing	Cha Ye Qing	khaman	khaman	kʰ a + m a n		24.305717	98.463661	Palaung	1322 1814	1322 1814
+46	3_star	star	GuangKa	Guang Ka	laːw	laːw	l aːu̯	ruma1248	24.065714	97.796281	Palaung	1816	1816
+47	3_star	star	MangBang	Mang Bang	laːw	laːw	l aːu̯	ruma1248	24.416392	98.399078	Palaung	1816	1816
+48	3_star	star	NanSang	Nan Sang	laːw	laːw	l aːu̯	ruma1248	24.019728	97.819736	Palaung	1816	1816
+161	11_stone	stone	NamHsan	Namhsan	moː	moː	m oː		22.965064	97.163239	Palaung	1841	1841
+162	11_stone	stone	KhunHawt	Khun Hawt	moːw	moːw	m oːu̯		22.965064	97.163239	Palaung	1841	1841
+163	11_stone	stone	HtanHsan	Htan Hsan	moːw	moːw	m oːu̯		22.675133	97.289942	Palaung	1841	1841
+164	11_stone	stone	PangKham	Pangkham	maːw	maːw	m aːu̯		22.672097	97.161167	Palaung	1841	1841
+165	11_stone	stone	ManLoi	Man Loi	maːw	maːw	m aːu̯		22.636019	97.139264	Palaung	1841	1841
+166	11_stone	stone	MengDan	Meng Dan	mɛːw	mɛːw	m ɛːu̯	khan1274	24.296522	98.379886	Palaung	1841	1841
+167	11_stone	stone	ChuDongGua	Chu Dong Gua	maːw	maːw	m aːu̯		24.330889	98.393125	Palaung	1841	1841
+168	11_stone	stone	XiangZhaiTang	Xiang Zhai Tang	maːw	maːw	m aːu̯	ruma1248	24.323819	98.556639	Palaung	1841	1841
+169	11_stone	stone	PongNuea	Pong Nuea	maːw	maːw	m aːu̯		20.321525	99.866817	Palaung	1841	1841
+170	11_stone	stone	NyaungGone	Nyaung Gone	maw	maw	m au̯		20.635025	96.545772	Palaung	1841	1841
+171	11_stone	stone	NoeLae	Noe Lae	maw	maw	m au̯		19.941803	99.044742	Palaung	1841	1841
+172	11_stone	stone	BanPaw	Ban Paw	maw	maw	m au̯		21.311225	99.557550	Palaung	1841	1841
+173	11_stone	stone	ChaYeQing	Cha Ye Qing	maːw	maːw	m aːu̯		24.305717	98.463661	Palaung	1841	1841
+174	11_stone	stone	GuangKa	Guang Ka	maːw	maːw	m aːu̯	ruma1248	24.065714	97.796281	Palaung	1841	1841
+175	11_stone	stone	MangBang	Mang Bang	maːw	maːw	m aːu̯	ruma1248	24.416392	98.399078	Palaung	1841	1841
+176	11_stone	stone	NanSang	Nan Sang	maːw	maːw	m aːu̯	ruma1248	24.019728	97.819736	Palaung	1841	1841
+1	1_sun	sun	NamHsan	Namhsan	saŋiː	saŋiː	s a + ŋ iː		22.965064	97.163239	Palaung	1858 1859	1858 1859
+2	1_sun	sun	KhunHawt	Khun Hawt	saŋiː	saŋiː	s a + ŋ iː		22.965064	97.163239	Palaung	1858 1859	1858 1859
+3	1_sun	sun	HtanHsan	Htan Hsan	saŋiː	saŋiː	s a + ŋ iː		22.675133	97.289942	Palaung	1858 1859	1858 1859
+4	1_sun	sun	PangKham	Pangkham	saŋaj	saŋaj	s a + ŋ ai̯		22.672097	97.161167	Palaung	1858 1859	1858 1859
+5	1_sun	sun	ManLoi	Man Loi	saŋaj	saŋaj	s a + ŋ ai̯		22.636019	97.139264	Palaung	1858 1859	1858 1859
+6	1_sun	sun	MengDan	Meng Dan	ŋəj	ŋəj	ŋ əi̯	khan1274	24.296522	98.379886	Palaung	1859	1859
+7	1_sun	sun	ChuDongGua	Chu Dong Gua	səŋɔj	səŋɔj	s ə + ŋ ɔi̯		24.330889	98.393125	Palaung	1813 1859	1813 1859
+8	1_sun	sun	XiangZhaiTang	Xiang Zhai Tang	saŋɛː	saŋɛː	s a + ŋ ɛː	ruma1248	24.323819	98.556639	Palaung	1858 1859	1858 1859
+9	1_sun	sun	PongNuea	Pong Nuea	saŋɛj	saŋɛj	s a + ŋ ɛi̯		20.321525	99.866817	Palaung	1858 1859	1858 1859
+10	1_sun	sun	NyaungGone	Nyaung Gone	saŋɛ	saŋɛ	s a + ŋ ɛ		20.635025	96.545772	Palaung	1858 1859	1858 1859
+11	1_sun	sun	NoeLae	Noe Lae	saŋɛ	saŋɛ	s a + ŋ ɛ		19.941803	99.044742	Palaung	1858 1859	1858 1859
+12	1_sun	sun	BanPaw	Ban Paw	saŋɛ	saŋɛ	s a + ŋ ɛ		21.311225	99.557550	Palaung	1563 1859	1563 1859
+13	1_sun	sun	ChaYeQing	Cha Ye Qing	khaŋaj	khaŋaj	kʰ a + ŋ ai̯		24.305717	98.463661	Palaung	1322 1859	1322 1859
+14	1_sun	sun	GuangKa	Guang Ka	saŋaj	saŋaj	s a + ŋ ai̯	ruma1248	24.065714	97.796281	Palaung	1858 1859	1858 1859
+15	1_sun	sun	MangBang	Mang Bang	saŋaj	saŋaj	s a + ŋ ai̯	ruma1248	24.416392	98.399078	Palaung	1858 1859	1858 1859
+16	1_sun	sun	NanSang	Nan Sang	saŋaj	saŋaj	s a + ŋ ai̯	ruma1248	24.019728	97.819736	Palaung	1858 1859	1858 1859
+353	23_tail	tail	NamHsan	Namhsan	saɗaː	saɗaː	s a + ɗ aː		22.965064	97.163239	Palaung	1890 1891	1890 1891
+354	23_tail	tail	KhunHawt	Khun Hawt	saɗaː	saɗaː	s a + ɗ aː		22.965064	97.163239	Palaung	1858 1891	1858 1891
+355	23_tail	tail	HtanHsan	Htan Hsan	saɗaː	saɗaː	s a + ɗ aː		22.675133	97.289942	Palaung	1890 1891	1890 1891
+356	23_tail	tail	PangKham	Pangkham	saɗaː	saɗaː	s a + ɗ aː		22.672097	97.161167	Palaung	1890 1891	1890 1891
+357	23_tail	tail	ManLoi	Man Loi	saɗɛː	saɗɛː	s a + ɗ ɛː		22.636019	97.139264	Palaung	1890 1891	1890 1891
+358	23_tail	tail	MengDan	Meng Dan	kəɗɛː	kəɗɛː	k ə + ɗ ɛː	khan1274	24.296522	98.379886	Palaung	175 1891	175 1891
+359	23_tail	tail	ChuDongGua	Chu Dong Gua	sadaː	sadaː	s a + d aː		24.330889	98.393125	Palaung	1890 1891	1890 1891
+360	23_tail	tail	XiangZhaiTang	Xiang Zhai Tang	sədaː	sədaː	s ə + d aː	ruma1248	24.323819	98.556639	Palaung	1890 1891	1890 1891
+361	23_tail	tail	PongNuea	Pong Nuea	sadɛa	sadɛa	s a + d ɛa		20.321525	99.866817	Palaung	1890 1891	1890 1891
+362	23_tail	tail	NyaungGone	Nyaung Gone	sada	sada	s a + d a		20.635025	96.545772	Palaung	1890 1891	1890 1891
+363	23_tail	tail	NoeLae	Noe Lae	sada	sada	s a + d a		19.941803	99.044742	Palaung	1890 1891	1890 1891
+364	23_tail	tail	BanPaw	Ban Paw	sada	sada	s a + d a		21.311225	99.557550	Palaung	1563 1891	1563 1891
+365	23_tail	tail	ChaYeQing	Cha Ye Qing	khaɗaː	khaɗaː	kʰ a + ɗ aː		24.305717	98.463661	Palaung	1322 1891	1322 1891
+366	23_tail	tail	GuangKa	Guang Ka	sataː	sataː	s a + t aː	ruma1248	24.065714	97.796281	Palaung	1858 1891	1858 1891
+367	23_tail	tail	MangBang	Mang Bang	sataː	sataː	s a + t aː	ruma1248	24.416392	98.399078	Palaung	1890 1891	1890 1891
+368	23_tail	tail	NanSang	Nan Sang	sataː	sataː	s a + t aː	ruma1248	24.019728	97.819736	Palaung	1890 1891	1890 1891
+1410	90_this	this	NamHsan	Namhsan	haɁɨː	haɁɨː	h a + ʔ ɨː		22.965064	97.163239	Palaung	1924 1927	1924 1927
+1411	90_this	this	KhunHawt	Khun Hawt	Ɂanin	Ɂanin	ʔ a + n i n		22.965064	97.163239	Palaung	1924 1923	1924 1923
+1412	90_this	this	HtanHsan	Htan Hsan	Ɂanin	Ɂanin	ʔ a + n i n		22.675133	97.289942	Palaung	1924 1923	1924 1923
+1413	90_this	this	PangKham	Pangkham	niː	niː	n iː		22.672097	97.161167	Palaung	1923	1923
+1414	90_this	this	ManLoi	Man Loi	naŋɁɨː	naŋɁɨː	n a ŋ + ʔ ɨː		22.636019	97.139264	Palaung	1923 1924	1923 1924
+1415	90_this	this	MengDan	Meng Dan	ɗuʔɯː	ɗuʔɯː	ɗ u + ʔ ɯː	khan1274	24.296522	98.379886	Palaung	1926 1924	1926 1924
+1416	90_this	this	ChuDongGua	Chu Dong Gua	ha?ɨ	ha?ɨ	h a + ʔ ɨ		24.330889	98.393125	Palaung	1924 1925	1924 1925
+1417	90_this	this	XiangZhaiTang	Xiang Zhai Tang	Ɂaniː	Ɂaniː	ʔ a + n iː	ruma1248	24.323819	98.556639	Palaung	1924 1923	1924 1923
+1418	90_this	this	PongNuea	Pong Nuea	nɨj	nɨj	n ɨi̯		20.321525	99.866817	Palaung	1923	1923
+1419	90_this	this	NyaungGone	Nyaung Gone	ni	ni	n i		20.635025	96.545772	Palaung	1923	1923
+1420	90_this	this	NoeLae	Noe Lae	ni	ni	n i		19.941803	99.044742	Palaung	1923	1923
+1421	90_this	this	BanPaw	Ban Paw	nɨj	nɨj	n ɨi̯		21.311225	99.557550	Palaung	1923	1923
+1422	90_this	this	ChaYeQing	Cha Ye Qing	ʔanin	ʔanin	ʔ a + n i n		24.305717	98.463661	Palaung	1924 1923	1924 1923
+1423	90_this	this	GuangKa	Guang Ka	niː	niː	n iː	ruma1248	24.065714	97.796281	Palaung	1923	1923
+1424	90_this	this	MangBang	Mang Bang	Ɂaniː	Ɂaniː	ʔ a + n iː	ruma1248	24.416392	98.399078	Palaung	1924 1923	1924 1923
+1425	90_this	this	NanSang	Nan Sang	Ɂani	Ɂani	ʔ a + n i	ruma1248	24.019728	97.819736	Palaung	1924 1923	1924 1923
+1269	81_three	three	NamHsan	Namhsan	Ɂuaj	Ɂuaj	ʔ u/w ai̯		22.965064	97.163239	Palaung	1950	1950
+1270	81_three	three	KhunHawt	Khun Hawt	Ɂuaj	Ɂuaj	ʔ u/w ai̯		22.965064	97.163239	Palaung	1950	1950
+1271	81_three	three	HtanHsan	Htan Hsan	Ɂuaj	Ɂuaj	ʔ u/w ai̯		22.675133	97.289942	Palaung	1950	1950
+1272	81_three	three	PangKham	Pangkham	Ɂuaj	Ɂuaj	ʔ u/w ai̯		22.672097	97.161167	Palaung	1950	1950
+1273	81_three	three	ManLoi	Man Loi	Ɂuaj	Ɂuaj	ʔ u/w ai̯		22.636019	97.139264	Palaung	1950	1950
+1274	81_three	three	MengDan	Meng Dan	ʔoj	ʔoj	ʔ oi̯	khan1274	24.296522	98.379886	Palaung	1950	1950
+1275	81_three	three	ChuDongGua	Chu Dong Gua	Ɂoj	Ɂoj	ʔ oi̯		24.330889	98.393125	Palaung	1950	1950
+1276	81_three	three	XiangZhaiTang	Xiang Zhai Tang	Ɂoːj	Ɂoːj	ʔ oːi̯	ruma1248	24.323819	98.556639	Palaung	1950	1950
+1277	81_three	three	PongNuea	Pong Nuea	Ɂoːj	Ɂoːj	ʔ oːi̯		20.321525	99.866817	Palaung	1950	1950
+1278	81_three	three	NyaungGone	Nyaung Gone	ʔoj	ʔoj	ʔ oi̯		20.635025	96.545772	Palaung	1950	1950
+1279	81_three	three	NoeLae	Noe Lae	Ɂoj	Ɂoj	ʔ oi̯		19.941803	99.044742	Palaung	1950	1950
+1280	81_three	three	BanPaw	Ban Paw	Ɂoj	Ɂoj	ʔ oi̯		21.311225	99.557550	Palaung	1950	1950
+1281	81_three	three	ChaYeQing	Cha Ye Qing	ʔoːj	ʔoːj	ʔ oːi̯		24.305717	98.463661	Palaung	1950	1950
+1282	81_three	three	GuangKa	Guang Ka	ʔoːj	ʔoːj	ʔ oːi̯	ruma1248	24.065714	97.796281	Palaung	1950	1950
+1283	81_three	three	MangBang	Mang Bang	ʔoːj	ʔoːj	ʔ oːi̯	ruma1248	24.416392	98.399078	Palaung	1950	1950
+1284	81_three	three	NanSang	Nan Sang	Ɂoj	Ɂoj	ʔ oi̯	ruma1248	24.019728	97.819736	Palaung	1950	1950
+561	36_tongue	tongue	NamHsan	Namhsan	kәrɗaɁ	kәrɗaɁ	k ə r + ɗ a ʔ		22.965064	97.163239	Palaung	175 1968	175 1968
+562	36_tongue	tongue	KhunHawt	Khun Hawt	kәrɗaɁ	kәrɗaɁ	k ə r + ɗ a ʔ		22.965064	97.163239	Palaung	1969 1968	1969 1968
+563	36_tongue	tongue	HtanHsan	Htan Hsan	kәrɗaɁ	kәrɗaɁ	k ə r + ɗ a ʔ		22.675133	97.289942	Palaung	1969 1968	1969 1968
+564	36_tongue	tongue	PangKham	Pangkham	kaɗaɁ	kaɗaɁ	k a + ɗ a ʔ		22.672097	97.161167	Palaung	175 1968	175 1968
+565	36_tongue	tongue	ManLoi	Man Loi	kaɗaɁ	kaɗaɁ	k a + ɗ a ʔ		22.636019	97.139264	Palaung	175 1968	175 1968
+566	36_tongue	tongue	MengDan	Meng Dan	kədɛʔ	kədɛʔ	k ə + d ɛ ʔ	khan1274	24.296522	98.379886	Palaung	175 1968	175 1968
+567	36_tongue	tongue	ChuDongGua	Chu Dong Gua	kaɗaʔ	kaɗaʔ	k a + ɗ a ʔ		24.330889	98.393125	Palaung	175 1968	175 1968
+568	36_tongue	tongue	XiangZhaiTang	Xiang Zhai Tang	sɨdaʔ	sɨdaʔ	s ɨ + d a ʔ	ruma1248	24.323819	98.556639	Palaung	1967 1968	1967 1968
+569	36_tongue	tongue	PongNuea	Pong Nuea	sadaɁ	sadaɁ	s a + d a ʔ		20.321525	99.866817	Palaung	1967 1968	1967 1968
+570	36_tongue	tongue	NyaungGone	Nyaung Gone	sadăʔ	sadăʔ	s a + d ă ʔ		20.635025	96.545772	Palaung	1967 1968	1967 1968
+571	36_tongue	tongue	NoeLae	Noe Lae	sadăɁ	sadăɁ	s a + d ă ʔ		19.941803	99.044742	Palaung	1967 1968	1967 1968
+572	36_tongue	tongue	BanPaw	Ban Paw	sɨdăʔ	sɨdăʔ	s ɨ + d ă ʔ		21.311225	99.557550	Palaung	1967 1968	1967 1968
+573	36_tongue	tongue	ChaYeQing	Cha Ye Qing	khadaʔ	khadaʔ	kʰ a + d a ʔ		24.305717	98.463661	Palaung	1322 1968	1322 1968
+574	36_tongue	tongue	GuangKa	Guang Ka	sataɁ	sataɁ	s a + t a ʔ	ruma1248	24.065714	97.796281	Palaung	1858 1968	1858 1968
+575	36_tongue	tongue	MangBang	Mang Bang	sətaːɁ	sətaːɁ	s ə + t aː ʔ	ruma1248	24.416392	98.399078	Palaung	1967 1968	1967 1968
+576	36_tongue	tongue	NanSang	Nan Sang	sataɁ	sataɁ	s a + t a ʔ	ruma1248	24.019728	97.819736	Palaung	1967 1968	1967 1968
+577	37_tooth	tooth	NamHsan	Namhsan	r̥aːŋ	r̥aːŋ	r̥ aː ŋ		22.965064	97.163239	Palaung	2000	2000
+578	37_tooth	tooth	KhunHawt	Khun Hawt	r̥aːŋ	r̥aːŋ	r̥ aː ŋ		22.965064	97.163239	Palaung	2000	2000
+579	37_tooth	tooth	HtanHsan	Htan Hsan	r̥aːŋ	r̥aːŋ	r̥ aː ŋ		22.675133	97.289942	Palaung	2000	2000
+580	37_tooth	tooth	PangKham	Pangkham	r̥aːŋ	r̥aːŋ	r̥ aː ŋ		22.672097	97.161167	Palaung	2000	2000
+581	37_tooth	tooth	ManLoi	Man Loi	r̥aːŋ	r̥aːŋ	r̥ aː ŋ		22.636019	97.139264	Palaung	2000	2000
+582	37_tooth	tooth	MengDan	Meng Dan	r̥ɛːŋ	r̥ɛːŋ	r̥ ɛː ŋ	khan1274	24.296522	98.379886	Palaung	2000	2000
+583	37_tooth	tooth	ChuDongGua	Chu Dong Gua	ʂaːŋ	ʂaːŋ	ʂ aː ŋ		24.330889	98.393125	Palaung	2000	2000
+584	37_tooth	tooth	XiangZhaiTang	Xiang Zhai Tang	r̥aːŋ	r̥aːŋ	r̥ aː ŋ	ruma1248	24.323819	98.556639	Palaung	2000	2000
+585	37_tooth	tooth	PongNuea	Pong Nuea	r̥aːŋ	r̥aːŋ	r̥ aː ŋ		20.321525	99.866817	Palaung	2000	2000
+586	37_tooth	tooth	NyaungGone	Nyaung Gone	r̥ak	r̥ak	r̥ a k		20.635025	96.545772	Palaung	2000	2000
+587	37_tooth	tooth	NoeLae	Noe Lae	r̥aŋ	r̥aŋ	r̥ a ŋ		19.941803	99.044742	Palaung	2000	2000
+588	37_tooth	tooth	BanPaw	Ban Paw	r̥aŋ	r̥aŋ	r̥ a ŋ		21.311225	99.557550	Palaung	2000	2000
+589	37_tooth	tooth	ChaYeQing	Cha Ye Qing	xaːŋ	xaːŋ	x aː ŋ		24.305717	98.463661	Palaung	2000	2000
+590	37_tooth	tooth	GuangKa	Guang Ka	ᶊaːŋ	ᶊaːŋ	sʲ aː ŋ	ruma1248	24.065714	97.796281	Palaung	2000	2000
+591	37_tooth	tooth	MangBang	Mang Bang	xaːŋ	xaːŋ	x aː ŋ	ruma1248	24.416392	98.399078	Palaung	2000	2000
+592	37_tooth	tooth	NanSang	Nan Sang	xaːŋ	xaːŋ	x aː ŋ	ruma1248	24.019728	97.819736	Palaung	2000	2000
+193	13_tree	tree	NamHsan	Namhsan	ɗɨŋ heː	ɗɨŋ heː	ɗ ɨ ŋ + h eː		22.965064	97.163239	Palaung	2018 2017	2018 2017
+194	13_tree	tree	KhunHawt	Khun Hawt	ɗәŋ hej	ɗәŋ hej	ɗ ə ŋ + h ei̯		22.965064	97.163239	Palaung	2018 2017	2018 2017
+195	13_tree	tree	HtanHsan	Htan Hsan	ɗɨŋ hej	ɗɨŋ hej	ɗ ɨ ŋ + h ei̯		22.675133	97.289942	Palaung	2018 2017	2018 2017
+196	13_tree	tree	PangKham	Pangkham	hej	hej	h ei̯		22.672097	97.161167	Palaung	2017	2017
+197	13_tree	tree	ManLoi	Man Loi	daŋ heː	daŋ heː	d a ŋ + h eː		22.636019	97.139264	Palaung	2018 2017	2018 2017
+198	13_tree	tree	MengDan	Meng Dan	hi	hi	h i	khan1274	24.296522	98.379886	Palaung	2017	2017
+199	13_tree	tree	ChuDongGua	Chu Dong Gua	hi	hi	h i		24.330889	98.393125	Palaung	2017	2017
+200	13_tree	tree	XiangZhaiTang	Xiang Zhai Tang	daŋhej	daŋhej	d a ŋ + h ei̯	ruma1248	24.323819	98.556639	Palaung	2018 2017	2018 2017
+201	13_tree	tree	PongNuea	Pong Nuea	hej	hej	h ei̯		20.321525	99.866817	Palaung	2017	2017
+202	13_tree	tree	NyaungGone	Nyaung Gone	he	he	h e		20.635025	96.545772	Palaung	2017	2017
+203	13_tree	tree	NoeLae	Noe Lae	he	he	h e		19.941803	99.044742	Palaung	2017	2017
+204	13_tree	tree	BanPaw	Ban Paw	he	he	h e		21.311225	99.557550	Palaung	2017	2017
+205	13_tree	tree	ChaYeQing	Cha Ye Qing	hɔːj	hɔːj	h ɔːi̯		24.305717	98.463661	Palaung	2017	2017
+206	13_tree	tree	GuangKa	Guang Ka	taŋhɔːj	taŋhɔːj	t a ŋ + h ɔːi̯	ruma1248	24.065714	97.796281	Palaung	2018 2017	2018 2017
+207	13_tree	tree	MangBang	Mang Bang	taŋhɔːj	taŋhɔːj	t a ŋ + h ɔːi̯	ruma1248	24.416392	98.399078	Palaung	2018 2017	2018 2017
+208	13_tree	tree	NanSang	Nan Sang	taŋhɔj	taŋhɔj	t a ŋ + h ɔi̯	ruma1248	24.019728	97.819736	Palaung	2018 2017	2018 2017
+1253	80_two	two	NamHsan	Namhsan	Ɂar	Ɂar	ʔ a r		22.965064	97.163239	Palaung	2042	2042
+1254	80_two	two	KhunHawt	Khun Hawt	Ɂar	Ɂar	ʔ a r		22.965064	97.163239	Palaung	2042	2042
+1255	80_two	two	HtanHsan	Htan Hsan	Ɂa:	Ɂa:	ʔ aː		22.675133	97.289942	Palaung	2042	2042
+1256	80_two	two	PangKham	Pangkham	Ɂaː	Ɂaː	ʔ aː		22.672097	97.161167	Palaung	2042	2042
+1257	80_two	two	ManLoi	Man Loi	Ɂɛː	Ɂɛː	ʔ ɛː		22.636019	97.139264	Palaung	2042	2042
+1258	80_two	two	MengDan	Meng Dan	ʔɛː	ʔɛː	ʔ ɛː	khan1274	24.296522	98.379886	Palaung	2042	2042
+1259	80_two	two	ChuDongGua	Chu Dong Gua	Ɂaː	Ɂaː	ʔ aː		24.330889	98.393125	Palaung	2042	2042
+1260	80_two	two	XiangZhaiTang	Xiang Zhai Tang	Ɂaː	Ɂaː	ʔ aː	ruma1248	24.323819	98.556639	Palaung	2042	2042
+1261	80_two	two	PongNuea	Pong Nuea	Ɂaː	Ɂaː	ʔ aː		20.321525	99.866817	Palaung	2042	2042
+1262	80_two	two	NyaungGone	Nyaung Gone	haʔa	haʔa	h a + ʔ a		20.635025	96.545772	Palaung	2042 2043	2042 2043
+1263	80_two	two	NoeLae	Noe Lae	Ɂa	Ɂa	ʔ a		19.941803	99.044742	Palaung	2042	2042
+1264	80_two	two	BanPaw	Ban Paw	Ɂa	Ɂa	ʔ a		21.311225	99.557550	Palaung	2042	2042
+1265	80_two	two	ChaYeQing	Cha Ye Qing	ʔeː	ʔeː	ʔ eː		24.305717	98.463661	Palaung	2042	2042
+1266	80_two	two	GuangKa	Guang Ka	ʔɛː	ʔɛː	ʔ ɛː	ruma1248	24.065714	97.796281	Palaung	2042	2042
+1267	80_two	two	MangBang	Mang Bang	ʔɛː	ʔɛː	ʔ ɛː	ruma1248	24.416392	98.399078	Palaung	2042	2042
+1268	80_two	two	NanSang	Nan Sang	Ɂaː	Ɂaː	ʔ aː	ruma1248	24.019728	97.819736	Palaung	2042	2042
+129	9_water	water	NamHsan	Namhsan	ʔoːm	ʔoːm	ʔ oː m		22.965064	97.163239	Palaung	2060	2060
+130	9_water	water	KhunHawt	Khun Hawt	ʔoːm	ʔoːm	ʔ oː m		22.965064	97.163239	Palaung	2060	2060
+131	9_water	water	HtanHsan	Htan Hsan	ʔoːm	ʔoːm	ʔ oː m		22.675133	97.289942	Palaung	2060	2060
+132	9_water	water	PangKham	Pangkham	ʔoːm	ʔoːm	ʔ oː m		22.672097	97.161167	Palaung	2060	2060
+133	9_water	water	ManLoi	Man Loi	ʔoːm	ʔoːm	ʔ oː m		22.636019	97.139264	Palaung	2060	2060
+134	9_water	water	MengDan	Meng Dan	ʔuːm	ʔuːm	ʔ uː m	khan1274	24.296522	98.379886	Palaung	2060	2060
+135	9_water	water	ChuDongGua	Chu Dong Gua	ʔuːm	ʔuːm	ʔ uː m		24.330889	98.393125	Palaung	2060	2060
+136	9_water	water	XiangZhaiTang	Xiang Zhai Tang	Ɂɨm	Ɂɨm	ʔ ɨ m	ruma1248	24.323819	98.556639	Palaung	2060	2060
+137	9_water	water	PongNuea	Pong Nuea	ʔɨm	ʔɨm	ʔ ɨ m		20.321525	99.866817	Palaung	2060	2060
+138	9_water	water	NyaungGone	Nyaung Gone	ʔɨm	ʔɨm	ʔ ɨ m		20.635025	96.545772	Palaung	2060	2060
+139	9_water	water	NoeLae	Noe Lae	ʔɨm	ʔɨm	ʔ ɨ m		19.941803	99.044742	Palaung	2060	2060
+140	9_water	water	BanPaw	Ban Paw	Ɂɨm	Ɂɨm	ʔ ɨ m		21.311225	99.557550	Palaung	2060	2060
+141	9_water	water	ChaYeQing	Cha Ye Qing	ʔɛm	ʔɛm	ʔ ɛ m		24.305717	98.463661	Palaung	2060	2060
+142	9_water	water	GuangKa	Guang Ka	ʔɛm	ʔɛm	ʔ ɛ m	ruma1248	24.065714	97.796281	Palaung	2060	2060
+143	9_water	water	MangBang	Mang Bang	Ɂəm	Ɂəm	ʔ ə m	ruma1248	24.416392	98.399078	Palaung	2060	2060
+144	9_water	water	NanSang	Nan Sang	Ɂəm	Ɂəm	ʔ ə m	ruma1248	24.019728	97.819736	Palaung	2060	2060
+1538	98_what	what?	NamHsan	Namhsan	sinmә haɁɨː	sinmә haɁɨː	s i n + m ə + h a + ʔ ɨː		22.965064	97.163239	Palaung	2078 2077 2079 2080	2078 2077 2079 2080
+1539	98_what	what?	KhunHawt	Khun Hawt	simɔh	simɔh	s i + m ɔ h		22.965064	97.163239	Palaung	2078 2077	2078 2077
+1540	98_what	what?	HtanHsan	Htan Hsan	sәnmәh	sәnmәh	s ə n + m ə h		22.675133	97.289942	Palaung	2078 2077	2078 2077
+1541	98_what	what?	PangKham	Pangkham	simuh	simuh	s i + m u h		22.672097	97.161167	Palaung	2078 2077	2078 2077
+1542	98_what	what?	ManLoi	Man Loi	simuh	simuh	s i + m u h		22.636019	97.139264	Palaung	2078 2077	2078 2077
+1543	98_what	what?	MengDan	Meng Dan	sinəmuh	sinəmuh	s i + n ə m u h	khan1274	24.296522	98.379886	Palaung	2078 2077	2078 2077
+1544	98_what	what?	ChuDongGua	Chu Dong Gua	siːnmuh	siːnmuh	s iː n + m u h		24.330889	98.393125	Palaung	2078 2077	2078 2077
+1545	98_what	what?	XiangZhaiTang	Xiang Zhai Tang	masej	masej	m a + s ei̯	ruma1248	24.323819	98.556639	Palaung	2077 2078	2077 2078
+1546	98_what	what?	PongNuea	Pong Nuea	masej	masej	m a + s ei̯		20.321525	99.866817	Palaung	2077 2078	2077 2078
+1547	98_what	what?	NyaungGone	Nyaung Gone	mase	mase	m a + s e		20.635025	96.545772	Palaung	2077 2078	2077 2078
+1548	98_what	what?	NoeLae	Noe Lae	mase	mase	m a + s e		19.941803	99.044742	Palaung	2077 2078	2077 2078
+1549	98_what	what?	BanPaw	Ban Paw	mase	mase	m a + s e		21.311225	99.557550	Palaung	1110 2078	1110 2078
+1550	98_what	what?	ChaYeQing	Cha Ye Qing	səmuh	səmuh	s ə + m u h		24.305717	98.463661	Palaung	2078 2077	2078 2077
+1551	98_what	what?	GuangKa	Guang Ka	səmoh	səmoh	s ə + m o h	ruma1248	24.065714	97.796281	Palaung	2078 2077	2078 2077
+1552	98_what	what?	MangBang	Mang Bang	si	si	s i	ruma1248	24.416392	98.399078	Palaung	2078	2078
+1553	98_what	what?	NanSang	Nan Sang	ʨhənm̥əː	ʨhənm̥əː	tɕʰ ə n + m̥ əː	ruma1248	24.019728	97.819736	Palaung	2078 2077	2078 2077
+1442	92_white	white	NamHsan	Namhsan	blɔɁ	blɔɁ	b l ɔ ʔ		22.965064	97.163239	Palaung	2112	2112
+1443	92_white	white	KhunHawt	Khun Hawt	blɔːɁ	blɔːɁ	b l ɔː ʔ		22.965064	97.163239	Palaung	2112	2112
+1444	92_white	white	HtanHsan	Htan Hsan	plɔʔ	plɔʔ	p l ɔ ʔ		22.675133	97.289942	Palaung	2112	2112
+1445	92_white	white	PangKham	Pangkham	luːj	luːj	l uːi̯		22.672097	97.161167	Palaung	2111	2111
+1446	92_white	white	ManLoi	Man Loi	luːj	luːj	l uːi̯		22.636019	97.139264	Palaung	2111	2111
+1447	92_white	white	MengDan	Meng Dan	plɔʔ	plɔʔ	p l ɔ ʔ	khan1274	24.296522	98.379886	Palaung	2112	2112
+1448	92_white	white	ChuDongGua	Chu Dong Gua	blɔʔ	blɔʔ	b l ɔ ʔ		24.330889	98.393125	Palaung	2112	2112
+1449	92_white	white	XiangZhaiTang	Xiang Zhai Tang	luːj	luːj	l uːi̯	ruma1248	24.323819	98.556639	Palaung	2111	2111
+1450	92_white	white	PongNuea	Pong Nuea	luːj	luːj	l uːi̯		20.321525	99.866817	Palaung	2111	2111
+1451	92_white	white	NyaungGone	Nyaung Gone	luj	luj	l ui̯		20.635025	96.545772	Palaung	2111	2111
+1452	92_white	white	NoeLae	Noe Lae	luj	luj	l ui̯		19.941803	99.044742	Palaung	2111	2111
+1453	92_white	white	BanPaw	Ban Paw	luj	luj	l ui̯		21.311225	99.557550	Palaung	2111	2111
+1454	92_white	white	ChaYeQing	Cha Ye Qing	lɨjh	lɨjh	l ɨi̯ h		24.305717	98.463661	Palaung	2111	2111
+1455	92_white	white	GuangKa	Guang Ka	luj	luj	l ui̯	ruma1248	24.065714	97.796281	Palaung	2111	2111
+1456	92_white	white	MangBang	Mang Bang	luːj	luːj	l uːi̯	ruma1248	24.416392	98.399078	Palaung	2111	2111
+1457	92_white	white	NanSang	Nan Sang	Ɂiluj, luj	Ɂiluj	ʔ i + l ui̯	ruma1248	24.019728	97.819736	Palaung	2113 2111	2113 2111
+1522	97_who	who?	NamHsan	Namhsan	ʔase mimәh	ʔase mimәh	ʔ a + s e + m i + m ə h		22.965064	97.163239	Palaung	2129 2130 2 2131	2129 2130 2 2131
+1523	97_who	who?	KhunHawt	Khun Hawt	siɁan mɔh	siɁan mɔh	s i + ʔ a n + m ɔ h		22.965064	97.163239	Palaung	2130 2129 2077	2130 2129 2077
+1524	97_who	who?	HtanHsan	Htan Hsan	simimɔh	simimɔh	s i + m i + m ɔ h		22.675133	97.289942	Palaung	2130 2 2131	2130 2 2131
+1525	97_who	who?	PangKham	Pangkham	Ɂaseː	Ɂaseː	ʔ a + s eː		22.672097	97.161167	Palaung	2129 2130	2129 2130
+1526	97_who	who?	ManLoi	Man Loi	Ɂasej	Ɂasej	ʔ a + s ei̯		22.636019	97.139264	Palaung	2129 2130	2129 2130
+1527	97_who	who?	MengDan	Meng Dan	ʔi siː	ʔi siː	ʔ i + s iː	khan1274	24.296522	98.379886	Palaung	2129 2130	2129 2130
+1528	97_who	who?	ChuDongGua	Chu Dong Gua	siːn muh	siːn muh	s iː n + m u h		24.330889	98.393125	Palaung	2078 2077	2078 2077
+1529	97_who	who?	XiangZhaiTang	Xiang Zhai Tang	Ɂasej	Ɂasej	ʔ a + s ei̯	ruma1248	24.323819	98.556639	Palaung	2129 2130	2129 2130
+1530	97_who	who?	PongNuea	Pong Nuea	ʔasej	ʔasej	ʔ a + s ei̯		20.321525	99.866817	Palaung	2129 2130	2129 2130
+1531	97_who	who?	NyaungGone	Nyaung Gone	ʔase	ʔase	ʔ a + s e		20.635025	96.545772	Palaung	2129 2130	2129 2130
+1532	97_who	who?	NoeLae	Noe Lae	Ɂase	Ɂase	ʔ a + s e		19.941803	99.044742	Palaung	2129 2130	2129 2130
+1533	97_who	who?	BanPaw	Ban Paw	Ɂase	Ɂase	ʔ a + s e		21.311225	99.557550	Palaung	2129 2130	2129 2130
+1534	97_who	who?	ChaYeQing	Cha Ye Qing	ʔasi	ʔasi	ʔ a + s i		24.305717	98.463661	Palaung	1924 2130	1924 2130
+1535	97_who	who?	GuangKa	Guang Ka	siː	siː	s iː	ruma1248	24.065714	97.796281	Palaung	2130	2130
+1536	97_who	who?	MangBang	Mang Bang	si dəh	si dəh	s i + d ə h	ruma1248	24.416392	98.399078	Palaung	2130 3	2130 3
+1537	97_who	who?	NanSang	Nan Sang	ʨhim̥əː	ʨhim̥əː	tɕʰ i + m̥ əː	ruma1248	24.019728	97.819736	Palaung	2130 2131	2130 2131
+81	6_wind	wind	NamHsan	Namhsan	khuːr	khuːr	kʰ uː r		22.965064	97.163239	Palaung	2163	2163
+82	6_wind	wind	KhunHawt	Khun Hawt	khuːr	khuːr	kʰ uː r		22.965064	97.163239	Palaung	2163	2163
+83	6_wind	wind	HtanHsan	Htan Hsan	khuːr	khuːr	kʰ uː r		22.675133	97.289942	Palaung	2163	2163
+84	6_wind	wind	PangKham	Pangkham	khuːn	khuːn	kʰ uː n		22.672097	97.161167	Palaung	2163	2163
+85	6_wind	wind	ManLoi	Man Loi	khuː	khuː	kʰ uː		22.636019	97.139264	Palaung	2163	2163
+86	6_wind	wind	MengDan	Meng Dan	khuːr	khuːr	kʰ uː r	khan1274	24.296522	98.379886	Palaung	2163	2163
+87	6_wind	wind	ChuDongGua	Chu Dong Gua	khuːr	khuːr	kʰ uː r		24.330889	98.393125	Palaung	2163	2163
+88	6_wind	wind	XiangZhaiTang	Xiang Zhai Tang	khuːn	khuːn	kʰ uː n	ruma1248	24.323819	98.556639	Palaung	2163	2163
+89	6_wind	wind	PongNuea	Pong Nuea	khuːn	khuːn	kʰ uː n		20.321525	99.866817	Palaung	2163	2163
+90	6_wind	wind	NyaungGone	Nyaung Gone	khun	khun	kʰ u n		20.635025	96.545772	Palaung	2163	2163
+91	6_wind	wind	NoeLae	Noe Lae	khun	khun	kʰ u n		19.941803	99.044742	Palaung	2163	2163
+92	6_wind	wind	BanPaw	Ban Paw	khun	khun	kʰ u n		21.311225	99.557550	Palaung	2163	2163
+93	6_wind	wind	ChaYeQing	Cha Ye Qing	khuː	khuː	kʰ uː		24.305717	98.463661	Palaung	2163	2163
+94	6_wind	wind	GuangKa	Guang Ka	khuː	khuː	kʰ uː	ruma1248	24.065714	97.796281	Palaung	2163	2163
+95	6_wind	wind	MangBang	Mang Bang	khuː	khuː	kʰ uː	ruma1248	24.416392	98.399078	Palaung	2163	2163
+96	6_wind	wind	NanSang	Nan Sang	khuː	khuː	kʰ uː	ruma1248	24.019728	97.819736	Palaung	2163	2163
+113	8_year	year	NamHsan	Namhsan	sanәm	sanәm	s a + n ə m		22.965064	97.163239	Palaung	1858 2181	1858 2181
+114	8_year	year	KhunHawt	Khun Hawt	sanәm	sanәm	s a + n ə m		22.965064	97.163239	Palaung	1858 2181	1858 2181
+115	8_year	year	HtanHsan	Htan Hsan	sәnәm	sәnәm	s ə + n ə m		22.675133	97.289942	Palaung	1858 2181	1858 2181
+116	8_year	year	PangKham	Pangkham	sanam	sanam	s a + n a m		22.672097	97.161167	Palaung	1858 2181	1858 2181
+117	8_year	year	ManLoi	Man Loi	sanam	sanam	s a + n a m		22.636019	97.139264	Palaung	1858 2181	1858 2181
+118	8_year	year	MengDan	Meng Dan	sənam	sənam	s ə + n a m	khan1274	24.296522	98.379886	Palaung	1858 2181	1858 2181
+119	8_year	year	ChuDongGua	Chu Dong Gua	sanɔm	sanɔm	s a + n ɔ m		24.330889	98.393125	Palaung	1858 2181	1858 2181
+120	8_year	year	XiangZhaiTang	Xiang Zhai Tang	sanəm	sanəm	s a + n ə m	ruma1248	24.323819	98.556639	Palaung	1858 2181	1858 2181
+121	8_year	year	PongNuea	Pong Nuea	sanəm	sanəm	s a + n ə m		20.321525	99.866817	Palaung	1858 2181	1858 2181
+122	8_year	year	NyaungGone	Nyaung Gone	sanăm	sanăm	s a + n ă m		20.635025	96.545772	Palaung	1858 2181	1858 2181
+123	8_year	year	NoeLae	Noe Lae	sanə̆m	sanə̆m	s a + n ə̆ m		19.941803	99.044742	Palaung	1858 2181	1858 2181
+124	8_year	year	BanPaw	Ban Paw	sanăm	sanăm	s a + n ă m		21.311225	99.557550	Palaung	1858 2181	1858 2181
+125	8_year	year	ChaYeQing	Cha Ye Qing	khanam	khanam	kʰ a + n a m		24.305717	98.463661	Palaung	1322 2181	1322 2181
+126	8_year	year	GuangKa	Guang Ka	sanam	sanam	s a + n a m	ruma1248	24.065714	97.796281	Palaung	1858 2181	1858 2181
+127	8_year	year	MangBang	Mang Bang	sanam	sanam	s a + n a m	ruma1248	24.416392	98.399078	Palaung	1858 2181	1858 2181
+128	8_year	year	NanSang	Nan Sang	sanam	sanam	s a + n a m	ruma1248	24.019728	97.819736	Palaung	1858 2181	1858 2181
+1569	100_yousg	you (sg.)	NamHsan	Namhsan	miː	miː	m iː		22.965064	97.163239	Palaung	2213	2213
+1570	100_yousg	you (sg.)	KhunHawt	Khun Hawt	miː	miː	m iː		22.965064	97.163239	Palaung	2213	2213
+1571	100_yousg	you (sg.)	HtanHsan	Htan Hsan	miː	miː	m iː		22.675133	97.289942	Palaung	2213	2213
+1572	100_yousg	you (sg.)	PangKham	Pangkham	maj	maj	m ai̯		22.672097	97.161167	Palaung	2213	2213
+1573	100_yousg	you (sg.)	ManLoi	Man Loi	maj	maj	m ai̯		22.636019	97.139264	Palaung	2213	2213
+1574	100_yousg	you (sg.)	MengDan	Meng Dan	məj	məj	m əi̯	khan1274	24.296522	98.379886	Palaung	2213	2213
+1575	100_yousg	you (sg.)	ChuDongGua	Chu Dong Gua	mɔːj	mɔːj	m ɔːi̯		24.330889	98.393125	Palaung	2213	2213
+1576	100_yousg	you (sg.)	XiangZhaiTang	Xiang Zhai Tang	mɛː	mɛː	m ɛː	ruma1248	24.323819	98.556639	Palaung	2213	2213
+1577	100_yousg	you (sg.)	PongNuea	Pong Nuea	mɛː	mɛː	m ɛː		20.321525	99.866817	Palaung	2213	2213
+1578	100_yousg	you (sg.)	NyaungGone	Nyaung Gone	mɛ	mɛ	m ɛ		20.635025	96.545772	Palaung	2213	2213
+1579	100_yousg	you (sg.)	NoeLae	Noe Lae	mɛ	mɛ	m ɛ		19.941803	99.044742	Palaung	2213	2213
+1580	100_yousg	you (sg.)	BanPaw	Ban Paw	mɛ	mɛ	m ɛ		21.311225	99.557550	Palaung	2213	2213
+1581	100_yousg	you (sg.)	ChaYeQing	Cha Ye Qing	maj	maj	m ai̯		24.305717	98.463661	Palaung	2213	2213
+1582	100_yousg	you (sg.)	GuangKa	Guang Ka	maj	maj	m ai̯	ruma1248	24.065714	97.796281	Palaung	2213	2213
+1583	100_yousg	you (sg.)	MangBang	Mang Bang	maj	maj	m ai̯	ruma1248	24.416392	98.399078	Palaung	2213	2213
+1584	100_yousg	you (sg.)	NanSang	Nan Sang	maj	maj	m ai̯	ruma1248	24.019728	97.819736	Palaung	2213	2213

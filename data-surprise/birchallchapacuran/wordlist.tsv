@@ -1,0 +1,1038 @@
+ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATITUDE	LONGITUDE	LANGUAGE_FAMILY	COGNACY	COGIDS
+1032	125_afternoon	Afternoon	cojubim	Cojubim	irawin	irawin	i r a w i n	kuyu1236	-11.75	-64.0	Chapacuran	285	285
+1033	125_afternoon	Afternoon	more	Moré	irawin	irawin	i r a w i n	itor1239			Chapacuran	285	285
+1034	125_afternoon	Afternoon	orowin	Oro Win	irawin	irawin	i r a w i n	orow1243	-10.737	-64.0299	Chapacuran	285	285
+1035	125_afternoon	Afternoon	tora	Torá	ireawidn	ireawidn	i r e a w i d n	tora1263	-6.19532	-61.7416	Chapacuran	285	285
+1036	125_afternoon	Afternoon	wanyam	Wanyam	irawin	irawin	i r a w i n	wany1246	-12.1	-63.1	Chapacuran	285	285
+1037	125_afternoon	Afternoon	wari	Wari'	irawin	irawin	i r a w i n	wari1268	-10.69948	-64.56152	Chapacuran	285	285
+161	20_animal	Animal	cojubim	Cojubim	patiʔ	patiʔ	p a t i ʔ	kuyu1236	-11.75	-64.0	Chapacuran	53	53
+162	20_animal	Animal	more	Moré	patiʔ	patiʔ	p a t i ʔ	itor1239			Chapacuran	53	53
+163	20_animal	Animal	wanyam	Wanyam	patiʔ	patiʔ	p a t i ʔ	wany1246	-12.1	-63.1	Chapacuran	53	53
+164	20_animal	Animal	wari	Wari'	karawa	karawa	k a r a w a	wari1268	-10.69948	-64.56152	Chapacuran	54	54
+925	111_ashes	Ashes	jaru	Jarú	burete pakon	burete pakon	b u r e t e + p a k o n	yaru1257	-10.25	-62.0	Chapacuran	250	250
+926	111_ashes	Ashes	more	Moré	rupitsikon	rupitsikon	r u p i ts i k o n	itor1239			Chapacuran	250	250
+927	111_ashes	Ashes	orowin	Oro Win	morotipakon	morotipakon	m o r o t i p a k o n	orow1243	-10.737	-64.0299	Chapacuran	250	250
+928	111_ashes	Ashes	tora	Torá	murooton	murooton	m u r oː t o n	tora1263	-6.19532	-61.7416	Chapacuran	250	250
+929	111_ashes	Ashes	urupa	Urupá	murupatekon	murupatekon	m u r u p a t e k o n	urup1245	-10.25	-62.75	Chapacuran	250	250
+930	111_ashes	Ashes	wari	Wari'	topakon	topakon	t o p a k o n	wari1268	-10.69948	-64.56152	Chapacuran	250	250
+522	61_back	Back	cojubim	Cojubim	ataw	ataw	a t a w	kuyu1236	-11.75	-64.0	Chapacuran	144	144
+523	61_back	Back	jaru	Jarú	arawasi	arawasi	a r a w a s i	yaru1257	-10.25	-62.0	Chapacuran	144	144
+524	61_back	Back	kitemoka	Kitemoka	totojatʃe	totojatʃe	t o t o j a tʃ e	kite1237	-16.0	-62.75	Chapacuran	144	144
+525	61_back	Back	more	Moré	ataw	ataw	a t a w	itor1239			Chapacuran	144	144
+526	61_back	Back	orowin	Oro Win	arawasi	arawasi	a r a w a s i	orow1243	-10.737	-64.0299	Chapacuran	144	144
+527	61_back	Back	tapakura	Tapakura	otowatʃi	otowatʃi	o t o w a tʃ i	chap1269	-14.8	-62.2	Chapacuran	144	144
+528	61_back	Back	tora	Torá	wuritim	wuritim	w u r i t i m	tora1263	-6.19532	-61.7416	Chapacuran	144	144
+529	61_back	Back	urupa	Urupá	erawasi	erawasi	e r a w a s i	urup1245	-10.25	-62.75	Chapacuran	144	144
+530	61_back	Back	wanyam	Wanyam	awaraʃiʔ	awaraʃiʔ	a w a r a ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	144	144
+531	61_back	Back	wari	Wari'	waratʃiʔ	waratʃiʔ	w a r a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	144	144
+492	58_belly	Belly	jaru	Jarú	tokotepasi	tokotepasi	t o k o t e p a s i	yaru1257	-10.25	-62.0	Chapacuran	135	135
+493	58_belly	Belly	kitemoka	Kitemoka	kimotʃe	kimotʃe	k i m o tʃ e	kite1237	-16.0	-62.75	Chapacuran	135	135
+494	58_belly	Belly	more	Moré	tim	tim	t i m	itor1239			Chapacuran	135	135
+495	58_belly	Belly	orowin	Oro Win	kimi	kimi	k i m i	orow1243	-10.737	-64.0299	Chapacuran	135	135
+496	58_belly	Belly	tapakura	Tapakura	tekematʃe	tekematʃe	t e k e m a tʃ e	chap1269	-14.8	-62.2	Chapacuran	135	135
+497	58_belly	Belly	tora	Torá	tosipa	tosipa	t o s i p a	tora1263	-6.19532	-61.7416	Chapacuran	135	135
+498	58_belly	Belly	wanyam	Wanyam	kimijekin	kimijekin	k i m i j e k i n	wany1246	-12.1	-63.1	Chapacuran	135	135
+499	58_belly	Belly	orowin	Oro Win	tapawakon	tapawakon	t a p a w a k o n	orow1243	-10.737	-64.0299	Chapacuran	136	136
+500	58_belly	Belly	cojubim	Cojubim	tʃakaw ta	tʃakaw ta	tʃ a k a w + t a	kuyu1236	-11.75	-64.0	Chapacuran	137	137
+501	58_belly	Belly	more	Moré	tʃakaw	tʃakaw	tʃ a k a w	itor1239			Chapacuran	137	137
+502	58_belly	Belly	wari	Wari'	pemenetʃiʔ	pemenetʃiʔ	p e m e n e tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	138	138
+80	12_big	Big	jaru	Jarú	hora	hora	h o r a	yaru1257	-10.25	-62.0	Chapacuran	27	27
+81	12_big	Big	orowin	Oro Win	foraʔ	foraʔ	f o r a ʔ	orow1243	-10.737	-64.0299	Chapacuran	27	27
+82	12_big	Big	wari	Wari'	hwaraʔ	hwaraʔ	h w a r a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	27	27
+83	12_big	Big	orowin	Oro Win	ekem	ekem	e k e m	orow1243	-10.737	-64.0299	Chapacuran	28	28
+84	12_big	Big	tora	Torá	ukadn	ukadn	u k a d n	tora1263	-6.19532	-61.7416	Chapacuran	28	28
+85	12_big	Big	urupa	Urupá	evekem	evekem	e v e k e m	urup1245	-10.25	-62.75	Chapacuran	28	28
+86	12_big	Big	wari	Wari'	kote ne	kote ne	k o t e + n e	wari1268	-10.69948	-64.56152	Chapacuran	29	29
+87	12_big	Big	cojubim	Cojubim	ina	ina	i n a	kuyu1236	-11.75	-64.0	Chapacuran	30	30
+88	12_big	Big	more	Moré	ina	ina	i n a	itor1239			Chapacuran	30	30
+89	12_big	Big	wanyam	Wanyam	iparinaj	iparinaj	i p a r i n a j	wany1246	-12.1	-63.1	Chapacuran	31	31
+90	12_big	Big	tapakura	Tapakura	kowikon	kowikon	k o w i k o n	chap1269	-14.8	-62.2	Chapacuran	32	32
+91	12_big	Big	kitemoka	Kitemoka	karatsaiko	karatsaiko	k a r a ts a i k o	kite1237	-16.0	-62.75	Chapacuran	33	33
+173	22_bird	Bird	cojubim	Cojubim	ume	ume	u m e	kuyu1236	-11.75	-64.0	Chapacuran	56	56
+174	22_bird	Bird	jaru	Jarú	ume	ume	u m e	yaru1257	-10.25	-62.0	Chapacuran	56	56
+175	22_bird	Bird	kitemoka	Kitemoka	hume	hume	h u m e	kite1237	-16.0	-62.75	Chapacuran	56	56
+176	22_bird	Bird	more	Moré	ume	ume	u m e	itor1239			Chapacuran	56	56
+177	22_bird	Bird	orowin	Oro Win	yme	yme	y m e	orow1243	-10.737	-64.0299	Chapacuran	56	56
+178	22_bird	Bird	tapakura	Tapakura	ime	ime	i m e	chap1269	-14.8	-62.2	Chapacuran	56	56
+179	22_bird	Bird	tora	Torá	uma	uma	u m a	tora1263	-6.19532	-61.7416	Chapacuran	56	56
+180	22_bird	Bird	urupa	Urupá	ume	ume	u m e	urup1245	-10.25	-62.75	Chapacuran	56	56
+181	22_bird	Bird	wanyam	Wanyam	imeʔ	imeʔ	i m e ʔ	wany1246	-12.1	-63.1	Chapacuran	56	56
+182	22_bird	Bird	wari	Wari'	me	me	m e	wari1268	-10.69948	-64.56152	Chapacuran	56	56
+579	67_bite	Bite	cojubim	Cojubim	kiwʔ	kiwʔ	k i w ʔ	kuyu1236	-11.75	-64.0	Chapacuran	151	151
+580	67_bite	Bite	more	Moré	kiw	kiw	k i w	itor1239			Chapacuran	151	151
+581	67_bite	Bite	orowin	Oro Win	kiw	kiw	k i w	orow1243	-10.737	-64.0299	Chapacuran	151	151
+582	67_bite	Bite	tora	Torá	kiw	kiw	k i w	tora1263	-6.19532	-61.7416	Chapacuran	151	151
+583	67_bite	Bite	wanyam	Wanyam	kiw	kiw	k i w	wany1246	-12.1	-63.1	Chapacuran	151	151
+584	67_bite	Bite	wari	Wari'	kiw	kiw	k i w	wari1268	-10.69948	-64.56152	Chapacuran	151	151
+585	67_bite	Bite	jaru	Jarú	tapitʔ	tapitʔ	t a p i t ʔ	yaru1257	-10.25	-62.0	Chapacuran	152	152
+961	116_black	Black	orowin	Oro Win	mesem	mesem	m e s e m	orow1243	-10.737	-64.0299	Chapacuran	261	261
+962	116_black	Black	tora	Torá	morem	morem	m o r e m	tora1263	-6.19532	-61.7416	Chapacuran	261	261
+963	116_black	Black	wari	Wari'	mitʃem	mitʃem	m i tʃ e m	wari1268	-10.69948	-64.56152	Chapacuran	261	261
+964	116_black	Black	wanyam	Wanyam	tukan	tukan	t u k a n	wany1246	-12.1	-63.1	Chapacuran	262	262
+965	116_black	Black	jaru	Jarú	sagaj	sagaj	s a g a j	yaru1257	-10.25	-62.0	Chapacuran	263	263
+966	116_black	Black	urupa	Urupá	skaid	skaid	s k a i d	urup1245	-10.25	-62.75	Chapacuran	263	263
+967	116_black	Black	kitemoka	Kitemoka	juitamake	juitamake	j u i t a m a k e	kite1237	-16.0	-62.75	Chapacuran	264	264
+968	116_black	Black	tapakura	Tapakura	witam	witam	w i t a m	chap1269	-14.8	-62.2	Chapacuran	264	264
+969	116_black	Black	cojubim	Cojubim	tom	tom	t o m	kuyu1236	-11.75	-64.0	Chapacuran	265	265
+970	116_black	Black	more	Moré	tom	tom	t o m	itor1239			Chapacuran	265	265
+971	116_black	Black	orowin	Oro Win	tom	tom	t o m	orow1243	-10.737	-64.0299	Chapacuran	265	265
+972	116_black	Black	wari	Wari'	tom	tom	t o m	wari1268	-10.69948	-64.56152	Chapacuran	265	265
+296	38_blood	Blood	jaru	Jarú	wit	wit	w i t	yaru1257	-10.25	-62.0	Chapacuran	95	95
+297	38_blood	Blood	kitemoka	Kitemoka	aweitʃe	aweitʃe	a w e i tʃ e	kite1237	-16.0	-62.75	Chapacuran	95	95
+298	38_blood	Blood	more	Moré	wyk	wyk	w y k	itor1239			Chapacuran	95	95
+299	38_blood	Blood	orowin	Oro Win	wikisi	wikisi	w i k i s i	orow1243	-10.737	-64.0299	Chapacuran	95	95
+300	38_blood	Blood	tapakura	Tapakura	awi	awi	a w i	chap1269	-14.8	-62.2	Chapacuran	95	95
+301	38_blood	Blood	tora	Torá	wi	wi	w i	tora1263	-6.19532	-61.7416	Chapacuran	95	95
+302	38_blood	Blood	urupa	Urupá	wikisi	wikisi	w i k i s i	urup1245	-10.25	-62.75	Chapacuran	95	95
+303	38_blood	Blood	wanyam	Wanyam	wiki	wiki	w i k i	wany1246	-12.1	-63.1	Chapacuran	95	95
+304	38_blood	Blood	wari	Wari'	kitʃiʔ	kitʃiʔ	k i tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	95	95
+305	39_bone	Bone	cojubim	Cojubim	at	at	a t	kuyu1236	-11.75	-64.0	Chapacuran	96	96
+306	39_bone	Bone	jaru	Jarú	rasi	rasi	r a s i	yaru1257	-10.25	-62.0	Chapacuran	96	96
+307	39_bone	Bone	kitemoka	Kitemoka	taritʃe	taritʃe	t a r i tʃ e	kite1237	-16.0	-62.75	Chapacuran	96	96
+308	39_bone	Bone	more	Moré	at	at	a t	itor1239			Chapacuran	96	96
+309	39_bone	Bone	orowin	Oro Win	aran	aran	a r a n	orow1243	-10.737	-64.0299	Chapacuran	96	96
+310	39_bone	Bone	tapakura	Tapakura	atat	atat	a t a t	chap1269	-14.8	-62.2	Chapacuran	96	96
+311	39_bone	Bone	tora	Torá	ataʃi	ataʃi	a t a ʃ i	tora1263	-6.19532	-61.7416	Chapacuran	96	96
+312	39_bone	Bone	urupa	Urupá	arasi	arasi	a r a s i	urup1245	-10.25	-62.75	Chapacuran	96	96
+313	39_bone	Bone	wanyam	Wanyam	araj	araj	a r a j	wany1246	-12.1	-63.1	Chapacuran	96	96
+314	39_bone	Bone	wari	Wari'	aratʃiʔ	aratʃiʔ	a r a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	96	96
+532	62_breast	Breast	cojubim	Cojubim	katat	katat	k a t a t	kuyu1236	-11.75	-64.0	Chapacuran	145	145
+533	62_breast	Breast	more	Moré	katat	katat	k a t a t	itor1239			Chapacuran	145	145
+534	62_breast	Breast	orowin	Oro Win	karatisi	karatisi	k a r a t i s i	orow1243	-10.737	-64.0299	Chapacuran	145	145
+535	62_breast	Breast	tora	Torá	katasan	katasan	k a t a s a n	tora1263	-6.19532	-61.7416	Chapacuran	145	145
+536	62_breast	Breast	urupa	Urupá	karatisi	karatisi	k a r a t i s i	urup1245	-10.25	-62.75	Chapacuran	145	145
+537	62_breast	Breast	wanyam	Wanyam	karatiʃiʔ	karatiʃiʔ	k a r a t i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	145	145
+538	62_breast	Breast	wari	Wari'	karatʃitʃiʔ	karatʃitʃiʔ	k a r a tʃ i tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	145	145
+539	62_breast	Breast	jaru	Jarú	ikimasi	ikimasi	i k i m a s i	yaru1257	-10.25	-62.0	Chapacuran	146	146
+540	62_breast	Breast	kitemoka	Kitemoka	kematakama	kematakama	k e m a t a k a m a	kite1237	-16.0	-62.75	Chapacuran	146	146
+541	62_breast	Breast	more	Moré	kima	kima	k i m a	itor1239			Chapacuran	146	146
+542	62_breast	Breast	orowin	Oro Win	ikimasi	ikimasi	i k i m a s i	orow1243	-10.737	-64.0299	Chapacuran	146	146
+543	62_breast	Breast	tora	Torá	ikima	ikima	i k i m a	tora1263	-6.19532	-61.7416	Chapacuran	146	146
+544	62_breast	Breast	wari	Wari'	kimatʃiʔ	kimatʃiʔ	k i m a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	146	146
+597	70_breathe	Breathe	more	Moré	awi ram	awi ram	a w i + r a m	itor1239			Chapacuran	155	155
+598	70_breathe	Breathe	orowin	Oro Win	woram	woram	w o r a m	orow1243	-10.737	-64.0299	Chapacuran	155	155
+599	70_breathe	Breathe	wanyam	Wanyam	uram	uram	u r a m	wany1246	-12.1	-63.1	Chapacuran	155	155
+600	70_breathe	Breathe	wari	Wari'	wereme	wereme	w e r e m e	wari1268	-10.69948	-64.56152	Chapacuran	155	155
+601	70_breathe	Breathe	cojubim	Cojubim	zak	zak	z a k	kuyu1236	-11.75	-64.0	Chapacuran	156	156
+602	70_breathe	Breathe	more	Moré	ʒ̟ak	ʒ̟ak	ʒ̟ a k	itor1239			Chapacuran	156	156
+125	17_child	Child	jaru	Jarú	onjan	onjan	o n j a n	yaru1257	-10.25	-62.0	Chapacuran	45	45
+126	17_child	Child	more	Moré	joma	joma	j o m a	itor1239			Chapacuran	45	45
+127	17_child	Child	orowin	Oro Win	ifijama	ifijama	i f i j a m a	orow1243	-10.737	-64.0299	Chapacuran	45	45
+128	17_child	Child	urupa	Urupá	uhunjam	uhunjam	u h u n j a m	urup1245	-10.25	-62.75	Chapacuran	45	45
+129	17_child	Child	wanyam	Wanyam	marahujama	marahujama	m a r a h u j a m a	wany1246	-12.1	-63.1	Chapacuran	45	45
+130	17_child	Child	wari	Wari'	hwijimaʔ	hwijimaʔ	h w i j i m a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	45	45
+131	17_child	Child	wari	Wari'	pijeʔ	pijeʔ	p i j e ʔ	wari1268	-10.69948	-64.56152	Chapacuran	46	46
+132	17_child	Child	cojubim	Cojubim	rato	rato	r a t o	kuyu1236	-11.75	-64.0	Chapacuran	47	47
+133	17_child	Child	more	Moré	ratoʔ	ratoʔ	r a t o ʔ	itor1239			Chapacuran	47	47
+134	17_child	Child	tora	Torá	irato	irato	i r a t o	tora1263	-6.19532	-61.7416	Chapacuran	47	47
+135	17_child	Child	kitemoka	Kitemoka	etiw	etiw	e t i w	kite1237	-16.0	-62.75	Chapacuran	48	48
+136	17_child	Child	tapakura	Tapakura	witʃitikun	witʃitikun	w i tʃ i t i k u n	chap1269	-14.8	-62.2	Chapacuran	49	49
+997	120_cold	Cold	cojubim	Cojubim	tʃiwʔ	tʃiwʔ	tʃ i w ʔ	kuyu1236	-11.75	-64.0	Chapacuran	271	271
+998	120_cold	Cold	more	Moré	tʃiw	tʃiw	tʃ i w	itor1239			Chapacuran	271	271
+999	120_cold	Cold	orowin	Oro Win	surimi	surimi	s u r i m i	orow1243	-10.737	-64.0299	Chapacuran	271	271
+1000	120_cold	Cold	tora	Torá	siuni	siuni	s i u n i	tora1263	-6.19532	-61.7416	Chapacuran	271	271
+1001	120_cold	Cold	urupa	Urupá	siv	siv	s i v	urup1245	-10.25	-62.75	Chapacuran	271	271
+1002	120_cold	Cold	wari	Wari'	tʃiw	tʃiw	tʃ i w	wari1268	-10.69948	-64.56152	Chapacuran	271	271
+1003	120_cold	Cold	wanyam	Wanyam	kipin	kipin	k i p i n	wany1246	-12.1	-63.1	Chapacuran	272	272
+717	86_come	Come	orowin	Oro Win	maki	maki	m a k i	orow1243	-10.737	-64.0299	Chapacuran	193	193
+718	86_come	Come	tora	Torá	makiʔ	makiʔ	m a k i ʔ	tora1263	-6.19532	-61.7416	Chapacuran	193	193
+719	86_come	Come	wari	Wari'	makiʔ	makiʔ	m a k i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	193	193
+720	86_come	Come	cojubim	Cojubim	iwan	iwan	i w a n	kuyu1236	-11.75	-64.0	Chapacuran	194	194
+721	86_come	Come	more	Moré	iwan	iwan	i w a n	itor1239			Chapacuran	194	194
+722	86_come	Come	wanyam	Wanyam	iwan	iwan	i w a n	wany1246	-12.1	-63.1	Chapacuran	194	194
+723	86_come	Come	tapakura	Tapakura	mana	mana	m a n a	chap1269	-14.8	-62.2	Chapacuran	195	195
+724	86_come	Come	kitemoka	Kitemoka	nia	nia	n i a	kite1237	-16.0	-62.75	Chapacuran	196	196
+678	81_cut	Cut	cojubim	Cojubim	taʔ	taʔ	t a ʔ	kuyu1236	-11.75	-64.0	Chapacuran	179	179
+679	81_cut	Cut	jaru	Jarú	ta	ta	t a	yaru1257	-10.25	-62.0	Chapacuran	179	179
+680	81_cut	Cut	more	Moré	ta	ta	t a	itor1239			Chapacuran	179	179
+681	81_cut	Cut	orowin	Oro Win	ta kat	ta kat	t a + k a t	orow1243	-10.737	-64.0299	Chapacuran	179	179
+682	81_cut	Cut	tora	Torá	ta	ta	t a	tora1263	-6.19532	-61.7416	Chapacuran	179	179
+683	81_cut	Cut	wanyam	Wanyam	takat	takat	t a k a t	wany1246	-12.1	-63.1	Chapacuran	179	179
+684	81_cut	Cut	wari	Wari'	ta	ta	t a	wari1268	-10.69948	-64.56152	Chapacuran	179	179
+685	81_cut	Cut	cojubim	Cojubim	wak	wak	w a k	kuyu1236	-11.75	-64.0	Chapacuran	180	180
+686	81_cut	Cut	more	Moré	wok	wok	w o k	itor1239			Chapacuran	180	180
+687	81_cut	Cut	orowin	Oro Win	wak	wak	w a k	orow1243	-10.737	-64.0299	Chapacuran	180	180
+688	81_cut	Cut	wari	Wari'	wak	wak	w a k	wari1268	-10.69948	-64.56152	Chapacuran	180	180
+689	81_cut	Cut	orowin	Oro Win	pit	pit	p i t	orow1243	-10.737	-64.0299	Chapacuran	181	181
+690	81_cut	Cut	tapakura	Tapakura	pitʃiram	pitʃiram	p i tʃ i r a m	chap1269	-14.8	-62.2	Chapacuran	181	181
+691	81_cut	Cut	wanyam	Wanyam	pit kiran	pit kiran	p i t + k i r a n	wany1246	-12.1	-63.1	Chapacuran	181	181
+692	81_cut	Cut	wari	Wari'	pit	pit	p i t	wari1268	-10.69948	-64.56152	Chapacuran	181	181
+982	118_day	Day	jaru	Jarú	toa	toa	t o a	yaru1257	-10.25	-62.0	Chapacuran	267	267
+983	118_day	Day	orowin	Oro Win	towa	towa	t o w a	orow1243	-10.737	-64.0299	Chapacuran	267	267
+984	118_day	Day	tapakura	Tapakura	tuwa	tuwa	t u w a	chap1269	-14.8	-62.2	Chapacuran	267	267
+985	118_day	Day	tora	Torá	toa	toa	t o a	tora1263	-6.19532	-61.7416	Chapacuran	267	267
+986	118_day	Day	wanyam	Wanyam	towa	towa	t o w a	wany1246	-12.1	-63.1	Chapacuran	267	267
+987	118_day	Day	wari	Wari'	towa	towa	t o w a	wari1268	-10.69948	-64.56152	Chapacuran	267	267
+988	118_day	Day	wari	Wari'	tʃek	tʃek	tʃ e k	wari1268	-10.69948	-64.56152	Chapacuran	268	268
+989	118_day	Day	cojubim	Cojubim	tipat	tipat	t i p a t	kuyu1236	-11.75	-64.0	Chapacuran	269	269
+990	118_day	Day	more	Moré	tijipat	tijipat	t i j i p a t	itor1239			Chapacuran	269	269
+991	118_day	Day	tora	Torá	anapat	anapat	a n a p a t	tora1263	-6.19532	-61.7416	Chapacuran	269	269
+191	24_deer	Deer	jaru	Jarú	wijemu	wijemu	w i j e m u	yaru1257	-10.25	-62.0	Chapacuran	60	60
+192	24_deer	Deer	more	Moré	jimop	jimop	j i m o p	itor1239			Chapacuran	60	60
+193	24_deer	Deer	tora	Torá	vijemop	vijemop	v i j e m o p	tora1263	-6.19532	-61.7416	Chapacuran	60	60
+194	24_deer	Deer	urupa	Urupá	jemob	jemob	j e m o b	urup1245	-10.25	-62.75	Chapacuran	60	60
+195	24_deer	Deer	jaru	Jarú	komem	komem	k o m e m	yaru1257	-10.25	-62.0	Chapacuran	61	61
+196	24_deer	Deer	wari	Wari'	komem	komem	k o m e m	wari1268	-10.69948	-64.56152	Chapacuran	61	61
+197	24_deer	Deer	kitemoka	Kitemoka	kimari	kimari	k i m a r i	kite1237	-16.0	-62.75	Chapacuran	62	62
+198	24_deer	Deer	tapakura	Tapakura	kimari	kimari	k i m a r i	chap1269	-14.8	-62.2	Chapacuran	62	62
+199	24_deer	Deer	wanyam	Wanyam	imariʔ	imariʔ	i m a r i ʔ	wany1246	-12.1	-63.1	Chapacuran	62	62
+200	24_deer	Deer	orowin	Oro Win	aranasi	aranasi	a r a n a s i	orow1243	-10.737	-64.0299	Chapacuran	63	63
+201	24_deer	Deer	cojubim	Cojubim	towam	towam	t o w a m	kuyu1236	-11.75	-64.0	Chapacuran	64	64
+639	76_die	Die	cojubim	Cojubim	imiʔ	imiʔ	i m i ʔ	kuyu1236	-11.75	-64.0	Chapacuran	166	166
+640	76_die	Die	jaru	Jarú	imi	imi	i m i	yaru1257	-10.25	-62.0	Chapacuran	166	166
+641	76_die	Die	more	Moré	imi	imi	i m i	itor1239			Chapacuran	166	166
+642	76_die	Die	orowin	Oro Win	imiʔ	imiʔ	i m i ʔ	orow1243	-10.737	-64.0299	Chapacuran	166	166
+643	76_die	Die	tora	Torá	imi	imi	i m i	tora1263	-6.19532	-61.7416	Chapacuran	166	166
+644	76_die	Die	wanyam	Wanyam	imi	imi	i m i	wany1246	-12.1	-63.1	Chapacuran	166	166
+645	76_die	Die	wari	Wari'	miʔ	miʔ	m i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	166	166
+693	82_dig	Dig	cojubim	Cojubim	tuk	tuk	t u k	kuyu1236	-11.75	-64.0	Chapacuran	182	182
+694	82_dig	Dig	orowin	Oro Win	tiki	tiki	t i k i	orow1243	-10.737	-64.0299	Chapacuran	182	182
+695	82_dig	Dig	wanyam	Wanyam	kit	kit	k i t	wany1246	-12.1	-63.1	Chapacuran	182	182
+696	82_dig	Dig	wari	Wari'	tikiʔ	tikiʔ	t i k i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	182	182
+697	82_dig	Dig	more	Moré	putum	putum	p u t u m	itor1239			Chapacuran	183	183
+561	65_drink	Drink	cojubim	Cojubim	tok	tok	t o k	kuyu1236	-11.75	-64.0	Chapacuran	149	149
+562	65_drink	Drink	kitemoka	Kitemoka	kot	kot	k o t	kite1237	-16.0	-62.75	Chapacuran	149	149
+563	65_drink	Drink	more	Moré	tok	tok	t o k	itor1239			Chapacuran	149	149
+564	65_drink	Drink	orowin	Oro Win	tok	tok	t o k	orow1243	-10.737	-64.0299	Chapacuran	149	149
+565	65_drink	Drink	tora	Torá	tuk	tuk	t u k	tora1263	-6.19532	-61.7416	Chapacuran	149	149
+566	65_drink	Drink	urupa	Urupá	tok	tok	t o k	urup1245	-10.25	-62.75	Chapacuran	149	149
+567	65_drink	Drink	wanyam	Wanyam	tuka	tuka	t u k a	wany1246	-12.1	-63.1	Chapacuran	149	149
+568	65_drink	Drink	wari	Wari'	tok	tok	t o k	wari1268	-10.69948	-64.56152	Chapacuran	149	149
+371	46_ear	Ear	jaru	Jarú	traisi	traisi	t r a i s i	yaru1257	-10.25	-62.0	Chapacuran	112	112
+372	46_ear	Ear	kitemoka	Kitemoka	tatiatatʃe	tatiatatʃe	t a t i a t a tʃ e	kite1237	-16.0	-62.75	Chapacuran	112	112
+373	46_ear	Ear	orowin	Oro Win	trajisi	trajisi	t r a j i s i	orow1243	-10.737	-64.0299	Chapacuran	112	112
+374	46_ear	Ear	tapakura	Tapakura	taitatatʃi	taitatatʃi	t a i t a t a tʃ i	chap1269	-14.8	-62.2	Chapacuran	112	112
+375	46_ear	Ear	urupa	Urupá	traisi	traisi	t r a i s i	urup1245	-10.25	-62.75	Chapacuran	112	112
+376	46_ear	Ear	wanyam	Wanyam	tarajiʃiʔ	tarajiʃiʔ	t a r a j i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	112	112
+377	46_ear	Ear	wari	Wari'	tarajitʃiʔ	tarajitʃiʔ	t a r a j i tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	112	112
+378	46_ear	Ear	cojubim	Cojubim	tenetet	tenetet	t e n e t e t	kuyu1236	-11.75	-64.0	Chapacuran	113	113
+379	46_ear	Ear	more	Moré	tenetet	tenetet	t e n e t e t	itor1239			Chapacuran	113	113
+380	46_ear	Ear	tora	Torá	tetete	tetete	t e t e t e	tora1263	-6.19532	-61.7416	Chapacuran	113	113
+874	106_earth	Earth	cojubim	Cojubim	namakan	namakan	n a m a k a n	kuyu1236	-11.75	-64.0	Chapacuran	239	239
+875	106_earth	Earth	jaru	Jarú	manakan	manakan	m a n a k a n	yaru1257	-10.25	-62.0	Chapacuran	239	239
+876	106_earth	Earth	kitemoka	Kitemoka	emakan	emakan	e m a k a n	kite1237	-16.0	-62.75	Chapacuran	239	239
+877	106_earth	Earth	more	Moré	namakan	namakan	n a m a k a n	itor1239			Chapacuran	239	239
+878	106_earth	Earth	orowin	Oro Win	namakan	namakan	n a m a k a n	orow1243	-10.737	-64.0299	Chapacuran	239	239
+879	106_earth	Earth	tapakura	Tapakura	jamakan	jamakan	j a m a k a n	chap1269	-14.8	-62.2	Chapacuran	239	239
+880	106_earth	Earth	urupa	Urupá	manaka	manaka	m a n a k a	urup1245	-10.25	-62.75	Chapacuran	239	239
+881	106_earth	Earth	wanyam	Wanyam	namakan	namakan	n a m a k a n	wany1246	-12.1	-63.1	Chapacuran	239	239
+882	106_earth	Earth	wari	Wari'	makanʔ	makanʔ	m a k a n ʔ	wari1268	-10.69948	-64.56152	Chapacuran	239	239
+883	106_earth	Earth	cojubim	Cojubim	timak	timak	t i m a k	kuyu1236	-11.75	-64.0	Chapacuran	240	240
+884	106_earth	Earth	kitemoka	Kitemoka	tʃema	tʃema	tʃ e m a	kite1237	-16.0	-62.75	Chapacuran	240	240
+885	106_earth	Earth	more	Moré	timak	timak	t i m a k	itor1239			Chapacuran	240	240
+886	106_earth	Earth	tapakura	Tapakura	tʃimak	tʃimak	tʃ i m a k	chap1269	-14.8	-62.2	Chapacuran	240	240
+887	106_earth	Earth	tora	Torá	timak	timak	t i m a k	tora1263	-6.19532	-61.7416	Chapacuran	240	240
+569	66_eat	Eat	cojubim	Cojubim	kawʔ	kawʔ	k a w ʔ	kuyu1236	-11.75	-64.0	Chapacuran	150	150
+570	66_eat	Eat	jaru	Jarú	kaw	kaw	k a w	yaru1257	-10.25	-62.0	Chapacuran	150	150
+571	66_eat	Eat	kitemoka	Kitemoka	kaw	kaw	k a w	kite1237	-16.0	-62.75	Chapacuran	150	150
+572	66_eat	Eat	more	Moré	kaw	kaw	k a w	itor1239			Chapacuran	150	150
+573	66_eat	Eat	orowin	Oro Win	kaw	kaw	k a w	orow1243	-10.737	-64.0299	Chapacuran	150	150
+574	66_eat	Eat	tapakura	Tapakura	kaw	kaw	k a w	chap1269	-14.8	-62.2	Chapacuran	150	150
+575	66_eat	Eat	tora	Torá	kaw	kaw	k a w	tora1263	-6.19532	-61.7416	Chapacuran	150	150
+576	66_eat	Eat	urupa	Urupá	kaw	kaw	k a w	urup1245	-10.25	-62.75	Chapacuran	150	150
+577	66_eat	Eat	wanyam	Wanyam	kaw	kaw	k a w	wany1246	-12.1	-63.1	Chapacuran	150	150
+578	66_eat	Eat	wari	Wari'	kaw	kaw	k a w	wari1268	-10.69948	-64.56152	Chapacuran	150	150
+324	41_egg	Egg	cojubim	Cojubim	ari jaɲ	ari jaɲ	a r i + j a ɲ	kuyu1236	-11.75	-64.0	Chapacuran	99	99
+325	41_egg	Egg	jaru	Jarú	rejen	rejen	r e j e n	yaru1257	-10.25	-62.0	Chapacuran	99	99
+326	41_egg	Egg	kitemoka	Kitemoka	tirantia	tirantia	t i r a n t i a	kite1237	-16.0	-62.75	Chapacuran	99	99
+327	41_egg	Egg	more	Moré	ariʒ̟a	ariʒ̟a	a r i ʒ̟ a	itor1239			Chapacuran	99	99
+328	41_egg	Egg	orowin	Oro Win	arikon	arikon	a r i k o n	orow1243	-10.737	-64.0299	Chapacuran	99	99
+329	41_egg	Egg	tapakura	Tapakura	ateranta	ateranta	a t e r a n t a	chap1269	-14.8	-62.2	Chapacuran	99	99
+330	41_egg	Egg	tora	Torá	azeron	azeron	a z e r o n	tora1263	-6.19532	-61.7416	Chapacuran	99	99
+331	41_egg	Egg	urupa	Urupá	erejen	erejen	e r e j e n	urup1245	-10.25	-62.75	Chapacuran	99	99
+332	41_egg	Egg	wanyam	Wanyam	arikon	arikon	a r i k o n	wany1246	-12.1	-63.1	Chapacuran	99	99
+333	41_egg	Egg	wari	Wari'	arajeɲ	arajeɲ	a r a j e ɲ	wari1268	-10.69948	-64.56152	Chapacuran	99	99
+381	47_eye	Eye	cojubim	Cojubim	tok	tok	t o k	kuyu1236	-11.75	-64.0	Chapacuran	114	114
+382	47_eye	Eye	jaru	Jarú	tekisi	tekisi	t e k i s i	yaru1257	-10.25	-62.0	Chapacuran	114	114
+383	47_eye	Eye	kitemoka	Kitemoka	kutʃi	kutʃi	k u tʃ i	kite1237	-16.0	-62.75	Chapacuran	114	114
+384	47_eye	Eye	more	Moré	tok	tok	t o k	itor1239			Chapacuran	114	114
+385	47_eye	Eye	orowin	Oro Win	tokisi	tokisi	t o k i s i	orow1243	-10.737	-64.0299	Chapacuran	114	114
+386	47_eye	Eye	tapakura	Tapakura	tukutʃi	tukutʃi	t u k u tʃ i	chap1269	-14.8	-62.2	Chapacuran	114	114
+387	47_eye	Eye	tora	Torá	tok	tok	t o k	tora1263	-6.19532	-61.7416	Chapacuran	114	114
+388	47_eye	Eye	urupa	Urupá	tukesi	tukesi	t u k e s i	urup1245	-10.25	-62.75	Chapacuran	114	114
+389	47_eye	Eye	wanyam	Wanyam	tokiʃiʔ	tokiʃiʔ	t o k i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	114	114
+390	47_eye	Eye	wari	Wari'	tokotʃiʔ	tokotʃiʔ	t o k o tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	114	114
+753	90_fall	Fall	cojubim	Cojubim	ipan	ipan	i p a n	kuyu1236	-11.75	-64.0	Chapacuran	205	205
+754	90_fall	Fall	more	Moré	ipan	ipan	i p a n	itor1239			Chapacuran	205	205
+755	90_fall	Fall	orowin	Oro Win	ipan	ipan	i p a n	orow1243	-10.737	-64.0299	Chapacuran	205	205
+756	90_fall	Fall	tora	Torá	ipad	ipad	i p a d	tora1263	-6.19532	-61.7416	Chapacuran	205	205
+757	90_fall	Fall	wanyam	Wanyam	ipan	ipan	i p a n	wany1246	-12.1	-63.1	Chapacuran	205	205
+758	90_fall	Fall	wari	Wari'	panʔ	panʔ	p a n ʔ	wari1268	-10.69948	-64.56152	Chapacuran	205	205
+759	90_fall	Fall	wari	Wari'	kamaraʔ	kamaraʔ	k a m a r a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	206	206
+315	40_fat	Fat	cojubim	Cojubim	mapum	mapum	m a p u m	kuyu1236	-11.75	-64.0	Chapacuran	97	97
+316	40_fat	Fat	jaru	Jarú	ahomi	ahomi	a h o m i	yaru1257	-10.25	-62.0	Chapacuran	97	97
+317	40_fat	Fat	more	Moré	mapom	mapom	m a p o m	itor1239			Chapacuran	97	97
+318	40_fat	Fat	orowin	Oro Win	mafomasi	mafomasi	m a f o m a s i	orow1243	-10.737	-64.0299	Chapacuran	97	97
+319	40_fat	Fat	tapakura	Tapakura	momikum-kiru	momikum-kiru	m o m i k u m + k i r u	chap1269	-14.8	-62.2	Chapacuran	97	97
+320	40_fat	Fat	tora	Torá	taahon	taahon	t aː h o n	tora1263	-6.19532	-61.7416	Chapacuran	97	97
+321	40_fat	Fat	wanyam	Wanyam	wahumajn	wahumajn	w a h u m a j n	wany1246	-12.1	-63.1	Chapacuran	97	97
+322	40_fat	Fat	wari	Wari'	homaɲ	homaɲ	h o m a ɲ	wari1268	-10.69948	-64.56152	Chapacuran	97	97
+323	40_fat	Fat	kitemoka	Kitemoka	mitaikongo	mitaikongo	m i t a i k o n g o	kite1237	-16.0	-62.75	Chapacuran	98	98
+151	19_father	Father	cojubim	Cojubim	ite	ite	i t e	kuyu1236	-11.75	-64.0	Chapacuran	52	52
+152	19_father	Father	jaru	Jarú	ete	ete	e t e	yaru1257	-10.25	-62.0	Chapacuran	52	52
+153	19_father	Father	kitemoka	Kitemoka	tatia	tatia	t a t i a	kite1237	-16.0	-62.75	Chapacuran	52	52
+154	19_father	Father	more	Moré	ite	ite	i t e	itor1239			Chapacuran	52	52
+155	19_father	Father	orowin	Oro Win	iteʔ	iteʔ	i t e ʔ	orow1243	-10.737	-64.0299	Chapacuran	52	52
+156	19_father	Father	tapakura	Tapakura	tia-tia	tia-tia	t i a + t i a	chap1269	-14.8	-62.2	Chapacuran	52	52
+157	19_father	Father	tora	Torá	ite	ite	i t e	tora1263	-6.19532	-61.7416	Chapacuran	52	52
+158	19_father	Father	urupa	Urupá	ete	ete	e t e	urup1245	-10.25	-62.75	Chapacuran	52	52
+159	19_father	Father	wanyam	Wanyam	tata	tata	t a t a	wany1246	-12.1	-63.1	Chapacuran	52	52
+160	19_father	Father	wari	Wari'	te	te	t e	wari1268	-10.69948	-64.56152	Chapacuran	52	52
+622	74_fear	Fear	cojubim	Cojubim	ininʔ	ininʔ	i n i n ʔ	kuyu1236	-11.75	-64.0	Chapacuran	162	162
+623	74_fear	Fear	jaru	Jarú	injin	injin	i n j i n	yaru1257	-10.25	-62.0	Chapacuran	162	162
+624	74_fear	Fear	more	Moré	ijin	ijin	i j i n	itor1239			Chapacuran	162	162
+625	74_fear	Fear	orowin	Oro Win	ijin	ijin	i j i n	orow1243	-10.737	-64.0299	Chapacuran	162	162
+626	74_fear	Fear	tora	Torá	ejidn	ejidn	e j i d n	tora1263	-6.19532	-61.7416	Chapacuran	162	162
+627	74_fear	Fear	wanyam	Wanyam	inin	inin	i n i n	wany1246	-12.1	-63.1	Chapacuran	162	162
+628	74_fear	Fear	wari	Wari'	jinʔ	jinʔ	j i n ʔ	wari1268	-10.69948	-64.56152	Chapacuran	162	162
+58	9_few	Few	wari	Wari'	parik	parik	p a r i k	wari1268	-10.69948	-64.56152	Chapacuran	16	16
+59	9_few	Few	wanyam	Wanyam	irakaw	irakaw	i r a k a w	wany1246	-12.1	-63.1	Chapacuran	17	17
+60	9_few	Few	orowin	Oro Win	kawasan toman	kawasan toman	k a w a s a n + t o m a n	orow1243	-10.737	-64.0299	Chapacuran	18	18
+61	9_few	Few	wari	Wari'	tokwan	tokwan	t o k w a n	wari1268	-10.69948	-64.56152	Chapacuran	18	18
+62	9_few	Few	more	Moré	pun as	pun as	p u n + a s	itor1239			Chapacuran	19	19
+63	9_few	Few	tapakura	Tapakura	matia	matia	m a t i a	chap1269	-14.8	-62.2	Chapacuran	20	20
+656	78_fight	Fight	orowin	Oro Win	tamanaʔ	tamanaʔ	t a m a n a ʔ	orow1243	-10.737	-64.0299	Chapacuran	169	169
+657	78_fight	Fight	wari	Wari'	manaʔ	manaʔ	m a n a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	169	169
+658	78_fight	Fight	wari	Wari'	mitʃitaʔ	mitʃitaʔ	m i tʃ i t a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	170	170
+659	78_fight	Fight	more	Moré	arami je	arami je	a r a m i + j e	itor1239			Chapacuran	171	171
+660	78_fight	Fight	wanyam	Wanyam	aʃeremi	aʃeremi	a ʃ e r e m i	wany1246	-12.1	-63.1	Chapacuran	171	171
+661	78_fight	Fight	jaru	Jarú	eke	eke	e k e	yaru1257	-10.25	-62.0	Chapacuran	172	172
+662	78_fight	Fight	more	Moré	jim	jim	j i m	itor1239			Chapacuran	173	173
+430	52_fingernail	Fingernail	jaru	Jarú	pisikinisi	pisikinisi	p i s i k i n i s i	yaru1257	-10.25	-62.0	Chapacuran	122	122
+431	52_fingernail	Fingernail	orowin	Oro Win	sykynesi	sykynesi	s y k y n e s i	orow1243	-10.737	-64.0299	Chapacuran	122	122
+432	52_fingernail	Fingernail	tora	Torá	pesoro	pesoro	p e s o r o	tora1263	-6.19532	-61.7416	Chapacuran	122	122
+433	52_fingernail	Fingernail	wanyam	Wanyam	pikinaʃiʔ	pikinaʃiʔ	p i k i n a ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	122	122
+434	52_fingernail	Fingernail	wari	Wari'	tʃikinatʃiʔ	tʃikinatʃiʔ	tʃ i k i n a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	122	122
+435	52_fingernail	Fingernail	cojubim	Cojubim	tupi	tupi	t u p i	kuyu1236	-11.75	-64.0	Chapacuran	123	123
+436	52_fingernail	Fingernail	more	Moré	tupi	tupi	t u p i	itor1239			Chapacuran	123	123
+437	52_fingernail	Fingernail	tapakura	Tapakura	naimitʃi	naimitʃi	n a i m i tʃ i	chap1269	-14.8	-62.2	Chapacuran	124	124
+915	110_fire	Fire	cojubim	Cojubim	itʃe	itʃe	i tʃ e	kuyu1236	-11.75	-64.0	Chapacuran	249	249
+916	110_fire	Fire	jaru	Jarú	ise	ise	i s e	yaru1257	-10.25	-62.0	Chapacuran	249	249
+917	110_fire	Fire	kitemoka	Kitemoka	ise	ise	i s e	kite1237	-16.0	-62.75	Chapacuran	249	249
+918	110_fire	Fire	more	Moré	itʃe	itʃe	i tʃ e	itor1239			Chapacuran	249	249
+919	110_fire	Fire	orowin	Oro Win	ise	ise	i s e	orow1243	-10.737	-64.0299	Chapacuran	249	249
+920	110_fire	Fire	tapakura	Tapakura	ise	ise	i s e	chap1269	-14.8	-62.2	Chapacuran	249	249
+921	110_fire	Fire	tora	Torá	iʃeʔ	iʃeʔ	i ʃ e ʔ	tora1263	-6.19532	-61.7416	Chapacuran	249	249
+922	110_fire	Fire	urupa	Urupá	ise	ise	i s e	urup1245	-10.25	-62.75	Chapacuran	249	249
+923	110_fire	Fire	wanyam	Wanyam	iʃeʔ	iʃeʔ	i ʃ e ʔ	wany1246	-12.1	-63.1	Chapacuran	249	249
+924	110_fire	Fire	wari	Wari'	tʃe	tʃe	tʃ e	wari1268	-10.69948	-64.56152	Chapacuran	249	249
+165	21_fish	Fish	jaru	Jarú	ihamʔ	ihamʔ	i h a m ʔ	yaru1257	-10.25	-62.0	Chapacuran	55	55
+166	21_fish	Fish	kitemoka	Kitemoka	iham	iham	i h a m	kite1237	-16.0	-62.75	Chapacuran	55	55
+167	21_fish	Fish	orowin	Oro Win	ifam	ifam	i f a m	orow1243	-10.737	-64.0299	Chapacuran	55	55
+168	21_fish	Fish	tapakura	Tapakura	ihuam	ihuam	i h u a m	chap1269	-14.8	-62.2	Chapacuran	55	55
+169	21_fish	Fish	tora	Torá	hoam	hoam	h o a m	tora1263	-6.19532	-61.7416	Chapacuran	55	55
+170	21_fish	Fish	urupa	Urupá	iham	iham	i h a m	urup1245	-10.25	-62.75	Chapacuran	55	55
+171	21_fish	Fish	wanyam	Wanyam	iham	iham	i h a m	wany1246	-12.1	-63.1	Chapacuran	55	55
+172	21_fish	Fish	wari	Wari'	hwam	hwam	h w a m	wari1268	-10.69948	-64.56152	Chapacuran	55	55
+259	33_flower	Flower	cojubim	Cojubim	piwan	piwan	p i w a n	kuyu1236	-11.75	-64.0	Chapacuran	84	84
+260	33_flower	Flower	jaru	Jarú	piwan	piwan	p i w a n	yaru1257	-10.25	-62.0	Chapacuran	84	84
+261	33_flower	Flower	more	Moré	piwan	piwan	p i w a n	itor1239			Chapacuran	84	84
+262	33_flower	Flower	orowin	Oro Win	piwan	piwan	p i w a n	orow1243	-10.737	-64.0299	Chapacuran	84	84
+263	33_flower	Flower	tora	Torá	piwaj	piwaj	p i w a j	tora1263	-6.19532	-61.7416	Chapacuran	84	84
+264	33_flower	Flower	wari	Wari'	piwaɲ	piwaɲ	p i w a ɲ	wari1268	-10.69948	-64.56152	Chapacuran	84	84
+265	33_flower	Flower	kitemoka	Kitemoka	tohot ɲe	tohot ɲe	t o h o t + ɲ e	kite1237	-16.0	-62.75	Chapacuran	85	85
+266	33_flower	Flower	tapakura	Tapakura	tahune	tahune	t a h u n e	chap1269	-14.8	-62.2	Chapacuran	85	85
+705	84_fly	Fly	orowin	Oro Win	taki	taki	t a k i	orow1243	-10.737	-64.0299	Chapacuran	189	189
+706	84_fly	Fly	wanyam	Wanyam	taki	taki	t a k i	wany1246	-12.1	-63.1	Chapacuran	189	189
+707	84_fly	Fly	wari	Wari'	takiʔ	takiʔ	t a k i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	189	189
+708	84_fly	Fly	orowin	Oro Win	ijam	ijam	i j a m	orow1243	-10.737	-64.0299	Chapacuran	190	190
+709	84_fly	Fly	cojubim	Cojubim	ze	ze	z e	kuyu1236	-11.75	-64.0	Chapacuran	191	191
+710	84_fly	Fly	more	Moré	ʒ̟e	ʒ̟e	ʒ̟ e	itor1239			Chapacuran	191	191
+438	53_foot	Foot	jaru	Jarú	katimasi	katimasi	k a t i m a s i	yaru1257	-10.25	-62.0	Chapacuran	125	125
+439	53_foot	Foot	kitemoka	Kitemoka	kaimatʃe	kaimatʃe	k a i m a tʃ e	kite1237	-16.0	-62.75	Chapacuran	125	125
+440	53_foot	Foot	tapakura	Tapakura	kaimatʃi	kaimatʃi	k a i m a tʃ i	chap1269	-14.8	-62.2	Chapacuran	125	125
+441	53_foot	Foot	tora	Torá	kazima	kazima	k a z i m a	tora1263	-6.19532	-61.7416	Chapacuran	125	125
+442	53_foot	Foot	urupa	Urupá	katimasi	katimasi	k a t i m a s i	urup1245	-10.25	-62.75	Chapacuran	125	125
+443	53_foot	Foot	wanyam	Wanyam	katimaʃiʔ	katimaʃiʔ	k a t i m a ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	125	125
+444	53_foot	Foot	wari	Wari'	katʃimatʃiʔ	katʃimatʃiʔ	k a tʃ i m a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	125	125
+445	53_foot	Foot	orowin	Oro Win	pasomasi	pasomasi	p a s o m a s i	orow1243	-10.737	-64.0299	Chapacuran	126	126
+446	53_foot	Foot	wari	Wari'	pitʃijatʃiʔ	pitʃijatʃiʔ	p i tʃ i j a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	126	126
+447	53_foot	Foot	cojubim	Cojubim	tʃinak	tʃinak	tʃ i n a k	kuyu1236	-11.75	-64.0	Chapacuran	127	127
+448	53_foot	Foot	more	Moré	tʃinak	tʃinak	tʃ i n a k	itor1239			Chapacuran	127	127
+449	53_foot	Foot	tapakura	Tapakura	tʃikitʃi	tʃikitʃi	tʃ i k i tʃ i	chap1269	-14.8	-62.2	Chapacuran	127	127
+450	53_foot	Foot	tora	Torá	ʃikiniʃi	ʃikiniʃi	ʃ i k i n i ʃ i	tora1263	-6.19532	-61.7416	Chapacuran	127	127
+224	28_forest	Forest	kitemoka	Kitemoka	omi	omi	o m i	kite1237	-16.0	-62.75	Chapacuran	71	71
+225	28_forest	Forest	more	Moré	umi	umi	u m i	itor1239			Chapacuran	71	71
+226	28_forest	Forest	orowin	Oro Win	omi	omi	o m i	orow1243	-10.737	-64.0299	Chapacuran	71	71
+227	28_forest	Forest	tora	Torá	umi	umi	u m i	tora1263	-6.19532	-61.7416	Chapacuran	71	71
+228	28_forest	Forest	wanyam	Wanyam	omi	omi	o m i	wany1246	-12.1	-63.1	Chapacuran	71	71
+229	28_forest	Forest	wari	Wari'	mi	mi	m i	wari1268	-10.69948	-64.56152	Chapacuran	71	71
+230	28_forest	Forest	jaru	Jarú	horoam	horoam	h o r o a m	yaru1257	-10.25	-62.0	Chapacuran	72	72
+231	28_forest	Forest	tapakura	Tapakura	witip	witip	w i t i p	chap1269	-14.8	-62.2	Chapacuran	73	73
+241	30_fruit	Fruit	cojubim	Cojubim	upeji pana	upeji pana	u p e j i + p a n a	kuyu1236	-11.75	-64.0	Chapacuran	75	75
+242	30_fruit	Fruit	jaru	Jarú	opiã pana	opiã pana	o p i ã + p a n a	yaru1257	-10.25	-62.0	Chapacuran	75	75
+243	30_fruit	Fruit	more	Moré	upeje pana	upeje pana	u p e j e + p a n a	itor1239			Chapacuran	75	75
+244	30_fruit	Fruit	orowin	Oro Win	ipijam	ipijam	i p i j a m	orow1243	-10.737	-64.0299	Chapacuran	75	75
+245	30_fruit	Fruit	wanyam	Wanyam	ipijam	ipijam	i p i j a m	wany1246	-12.1	-63.1	Chapacuran	75	75
+246	30_fruit	Fruit	wari	Wari'	memem	memem	m e m e m	wari1268	-10.69948	-64.56152	Chapacuran	76	76
+247	30_fruit	Fruit	tapakura	Tapakura	maritia	maritia	m a r i t i a	chap1269	-14.8	-62.2	Chapacuran	77	77
+248	30_fruit	Fruit	kitemoka	Kitemoka	pekoɲoɲi	pekoɲoɲi	p e k o ɲ o ɲ i	kite1237	-16.0	-62.75	Chapacuran	78	78
+760	91_give	Give	cojubim	Cojubim	miʔ	miʔ	m i ʔ	kuyu1236	-11.75	-64.0	Chapacuran	207	207
+761	91_give	Give	kitemoka	Kitemoka	me	me	m e	kite1237	-16.0	-62.75	Chapacuran	207	207
+762	91_give	Give	more	Moré	mi	mi	m i	itor1239			Chapacuran	207	207
+763	91_give	Give	orowin	Oro Win	miʔ	miʔ	m i ʔ	orow1243	-10.737	-64.0299	Chapacuran	207	207
+764	91_give	Give	tapakura	Tapakura	mi	mi	m i	chap1269	-14.8	-62.2	Chapacuran	207	207
+765	91_give	Give	tora	Torá	miʔ	miʔ	m i ʔ	tora1263	-6.19532	-61.7416	Chapacuran	207	207
+766	91_give	Give	wanyam	Wanyam	min	min	m i n	wany1246	-12.1	-63.1	Chapacuran	207	207
+767	91_give	Give	wari	Wari'	miʔ	miʔ	m i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	207	207
+1015	123_good	Good	orowin	Oro Win	awi	awi	a w i	orow1243	-10.737	-64.0299	Chapacuran	279	279
+1016	123_good	Good	wari	Wari'	awiʔ	awiʔ	a w i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	279	279
+1017	123_good	Good	jaru	Jarú	asap	asap	a s a p	yaru1257	-10.25	-62.0	Chapacuran	280	280
+1018	123_good	Good	kitemoka	Kitemoka	navisaja	navisaja	n a v i s a j a	kite1237	-16.0	-62.75	Chapacuran	280	280
+1019	123_good	Good	orowin	Oro Win	isap	isap	i s a p	orow1243	-10.737	-64.0299	Chapacuran	280	280
+1020	123_good	Good	tapakura	Tapakura	nawasa	nawasa	n a w a s a	chap1269	-14.8	-62.2	Chapacuran	280	280
+1021	123_good	Good	urupa	Urupá	wasab	wasab	w a s a b	urup1245	-10.25	-62.75	Chapacuran	280	280
+1022	123_good	Good	cojubim	Cojubim	namiʔ	namiʔ	n a m i ʔ	kuyu1236	-11.75	-64.0	Chapacuran	281	281
+1023	123_good	Good	wanyam	Wanyam	ija	ija	i j a	wany1246	-12.1	-63.1	Chapacuran	281	281
+1024	123_good	Good	tora	Torá	itera	itera	i t e r a	tora1263	-6.19532	-61.7416	Chapacuran	282	282
+1025	123_good	Good	more	Moré	piriman	piriman	p i r i m a n	itor1239			Chapacuran	283	283
+267	34_grass	Grass	wari	Wari'	tononoɲ	tononoɲ	t o n o n o ɲ	wari1268	-10.69948	-64.56152	Chapacuran	86	86
+268	34_grass	Grass	jaru	Jarú	iwip	iwip	i w i p	yaru1257	-10.25	-62.0	Chapacuran	87	87
+269	34_grass	Grass	wanyam	Wanyam	iwijip	iwijip	i w i j i p	wany1246	-12.1	-63.1	Chapacuran	87	87
+270	34_grass	Grass	orowin	Oro Win	kawawaʔ	kawawaʔ	k a w a w a ʔ	orow1243	-10.737	-64.0299	Chapacuran	88	88
+271	34_grass	Grass	kitemoka	Kitemoka	wiwiti	wiwiti	w i w i t i	kite1237	-16.0	-62.75	Chapacuran	89	89
+272	34_grass	Grass	tapakura	Tapakura	wiʃiti morutam	wiʃiti morutam	w i ʃ i t i + m o r u t a m	chap1269	-14.8	-62.2	Chapacuran	89	89
+273	34_grass	Grass	more	Moré	towan	towan	t o w a n	itor1239			Chapacuran	90	90
+503	59_guts	Guts	cojubim	Cojubim	kirimonʔ	kirimonʔ	k i r i m o n ʔ	kuyu1236	-11.75	-64.0	Chapacuran	139	139
+504	59_guts	Guts	jaru	Jarú	menesi	menesi	m e n e s i	yaru1257	-10.25	-62.0	Chapacuran	139	139
+505	59_guts	Guts	kitemoka	Kitemoka	waememitʃe	waememitʃe	w a e m e m i tʃ e	kite1237	-16.0	-62.75	Chapacuran	139	139
+506	59_guts	Guts	more	Moré	mukuri mon	mukuri mon	m u k u r i + m o n	itor1239			Chapacuran	139	139
+507	59_guts	Guts	orowin	Oro Win	monosi	monosi	m o n o s i	orow1243	-10.737	-64.0299	Chapacuran	139	139
+508	59_guts	Guts	tapakura	Tapakura	amunitʃi	amunitʃi	a m u n i tʃ i	chap1269	-14.8	-62.2	Chapacuran	139	139
+509	59_guts	Guts	wari	Wari'	monotʃiʔ	monotʃiʔ	m o n o tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	139	139
+510	59_guts	Guts	wanyam	Wanyam	karapap wajiʃiʔ	karapap wajiʃiʔ	k a r a p a p + w a j i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	140	140
+511	59_guts	Guts	kitemoka	Kitemoka	anteretʃe	anteretʃe	a n t e r e tʃ e	kite1237	-16.0	-62.75	Chapacuran	141	141
+349	44_hair	Hair	cojubim	Cojubim	tuna	tuna	t u n a	kuyu1236	-11.75	-64.0	Chapacuran	106	106
+350	44_hair	Hair	jaru	Jarú	tinji	tinji	t i n j i	yaru1257	-10.25	-62.0	Chapacuran	106	106
+351	44_hair	Hair	kitemoka	Kitemoka	tʃumitʃe	tʃumitʃe	tʃ u m i tʃ e	kite1237	-16.0	-62.75	Chapacuran	106	106
+352	44_hair	Hair	more	Moré	tuneɲ	tuneɲ	t u n e ɲ	itor1239			Chapacuran	106	106
+353	44_hair	Hair	orowin	Oro Win	tynesi	tynesi	t y n e s i	orow1243	-10.737	-64.0299	Chapacuran	106	106
+354	44_hair	Hair	tapakura	Tapakura	tʃumitʃi	tʃumitʃi	tʃ u m i tʃ i	chap1269	-14.8	-62.2	Chapacuran	106	106
+355	44_hair	Hair	tora	Torá	tuni	tuni	t u n i	tora1263	-6.19532	-61.7416	Chapacuran	106	106
+356	44_hair	Hair	wanyam	Wanyam	tiniʃiʔ	tiniʃiʔ	t i n i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	106	106
+357	44_hair	Hair	wari	Wari'	tenenetʃiʔ	tenenetʃiʔ	t e n e n e tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	106	106
+358	44_hair	Hair	jaru	Jarú	juhenesi	juhenesi	j u h e n e s i	yaru1257	-10.25	-62.0	Chapacuran	107	107
+359	44_hair	Hair	urupa	Urupá	yvenesi	yvenesi	y v e n e s i	urup1245	-10.25	-62.75	Chapacuran	107	107
+360	44_hair	Hair	jaru	Jarú	jupisi	jupisi	j u p i s i	yaru1257	-10.25	-62.0	Chapacuran	108	108
+470	56_hand	Hand	kitemoka	Kitemoka	umajo	umajo	u m a j o	kite1237	-16.0	-62.75	Chapacuran	132	132
+471	56_hand	Hand	more	Moré	um	um	u m	itor1239			Chapacuran	132	132
+472	56_hand	Hand	tapakura	Tapakura	umitʃi	umitʃi	u m i tʃ i	chap1269	-14.8	-62.2	Chapacuran	132	132
+473	56_hand	Hand	tora	Torá	umu	umu	u m u	tora1263	-6.19532	-61.7416	Chapacuran	132	132
+474	56_hand	Hand	wari	Wari'	mitʃiʔ	mitʃiʔ	m i tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	132	132
+475	56_hand	Hand	cojubim	Cojubim	tipan	tipan	t i p a n	kuyu1236	-11.75	-64.0	Chapacuran	133	133
+476	56_hand	Hand	jaru	Jarú	tiprasi	tiprasi	t i p r a s i	yaru1257	-10.25	-62.0	Chapacuran	133	133
+477	56_hand	Hand	kitemoka	Kitemoka	tʃeparaju	tʃeparaju	tʃ e p a r a j u	kite1237	-16.0	-62.75	Chapacuran	133	133
+478	56_hand	Hand	more	Moré	tipan	tipan	t i p a n	itor1239			Chapacuran	133	133
+479	56_hand	Hand	orowin	Oro Win	tiprasi	tiprasi	t i p r a s i	orow1243	-10.737	-64.0299	Chapacuran	133	133
+480	56_hand	Hand	tapakura	Tapakura	itʃoparatʃi	itʃoparatʃi	i tʃ o p a r a tʃ i	chap1269	-14.8	-62.2	Chapacuran	133	133
+481	56_hand	Hand	tora	Torá	tipara	tipara	t i p a r a	tora1263	-6.19532	-61.7416	Chapacuran	133	133
+482	56_hand	Hand	urupa	Urupá	tiprasi	tiprasi	t i p r a s i	urup1245	-10.25	-62.75	Chapacuran	133	133
+483	56_hand	Hand	wanyam	Wanyam	tiparaʃiʔ	tiparaʃiʔ	t i p a r a ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	133	133
+484	56_hand	Hand	wari	Wari'	taparatʃiʔ	taparatʃiʔ	t a p a r a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	133	133
+19	3_he	He	kitemoka	Kitemoka	ariko	ariko	a r i k o	kite1237	-16.0	-62.75	Chapacuran	3	3
+20	3_he	He	more	Moré	korari	korari	k o r a r i	itor1239			Chapacuran	3	3
+21	3_he	He	orowin	Oro Win	woriko	woriko	w o r i k o	orow1243	-10.737	-64.0299	Chapacuran	3	3
+22	3_he	He	tapakura	Tapakura	arikahu	arikahu	a r i k a h u	chap1269	-14.8	-62.2	Chapacuran	3	3
+23	3_he	He	tora	Torá	wariko	wariko	w a r i k o	tora1263	-6.19532	-61.7416	Chapacuran	3	3
+24	3_he	He	urupa	Urupá	okain	okain	o k a i n	urup1245	-10.25	-62.75	Chapacuran	3	3
+25	3_he	He	wanyam	Wanyam	arukwan	arukwan	a r u k w a n	wany1246	-12.1	-63.1	Chapacuran	3	3
+26	3_he	He	wari	Wari'	wiriko	wiriko	w i r i k o	wari1268	-10.69948	-64.56152	Chapacuran	3	3
+361	45_head	Head	cojubim	Cojubim	upek	upek	u p e k	kuyu1236	-11.75	-64.0	Chapacuran	109	109
+362	45_head	Head	kitemoka	Kitemoka	paitʃe	paitʃe	p a i tʃ e	kite1237	-16.0	-62.75	Chapacuran	109	109
+363	45_head	Head	more	Moré	upwik	upwik	u p w i k	itor1239			Chapacuran	109	109
+364	45_head	Head	orowin	Oro Win	ipijisi	ipijisi	i p i j i s i	orow1243	-10.737	-64.0299	Chapacuran	109	109
+365	45_head	Head	tapakura	Tapakura	upatʃi	upatʃi	u p a tʃ i	chap1269	-14.8	-62.2	Chapacuran	109	109
+366	45_head	Head	tora	Torá	upujeʃi	upujeʃi	u p u j e ʃ i	tora1263	-6.19532	-61.7416	Chapacuran	109	109
+367	45_head	Head	urupa	Urupá	ypirisi	ypirisi	y p i r i s i	urup1245	-10.25	-62.75	Chapacuran	109	109
+368	45_head	Head	wanyam	Wanyam	ipijiʃiʔ	ipijiʃiʔ	i p i j i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	109	109
+369	45_head	Head	wari	Wari'	winatʃiʔ	winatʃiʔ	w i n a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	110	110
+370	45_head	Head	jaru	Jarú	totepisi	totepisi	t o t e p i s i	yaru1257	-10.25	-62.0	Chapacuran	111	111
+618	73_hear	Hear	cojubim	Cojubim	rapat	rapat	r a p a t	kuyu1236	-11.75	-64.0	Chapacuran	161	161
+619	73_hear	Hear	more	Moré	arapat	arapat	a r a p a t	itor1239			Chapacuran	161	161
+620	73_hear	Hear	orowin	Oro Win	worapat	worapat	w o r a p a t	orow1243	-10.737	-64.0299	Chapacuran	161	161
+621	73_hear	Hear	wanyam	Wanyam	warapat	warapat	w a r a p a t	wany1246	-12.1	-63.1	Chapacuran	161	161
+545	63_heart	Heart	cojubim	Cojubim	toku ru tim	toku ru tim	t o k u + r u + t i m	kuyu1236	-11.75	-64.0	Chapacuran	147	147
+546	63_heart	Heart	jaru	Jarú	temisi	temisi	t e m i s i	yaru1257	-10.25	-62.0	Chapacuran	147	147
+547	63_heart	Heart	kitemoka	Kitemoka	simitʃe	simitʃe	s i m i tʃ e	kite1237	-16.0	-62.75	Chapacuran	147	147
+548	63_heart	Heart	more	Moré	tuku ritim	tuku ritim	t u k u + r i t i m	itor1239			Chapacuran	147	147
+549	63_heart	Heart	orowin	Oro Win	timisi	timisi	t i m i s i	orow1243	-10.737	-64.0299	Chapacuran	147	147
+550	63_heart	Heart	tapakura	Tapakura	simitʃi	simitʃi	s i m i tʃ i	chap1269	-14.8	-62.2	Chapacuran	147	147
+551	63_heart	Heart	tora	Torá	timu	timu	t i m u	tora1263	-6.19532	-61.7416	Chapacuran	147	147
+552	63_heart	Heart	wanyam	Wanyam	timiʃiʔ	timiʃiʔ	t i m i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	147	147
+553	63_heart	Heart	wari	Wari'	tʃimitʃiʔ	tʃimitʃiʔ	tʃ i m i tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	147	147
+670	80_hit	Hit	more	Moré	ton	ton	t o n	itor1239			Chapacuran	177	177
+671	80_hit	Hit	orowin	Oro Win	toʔ	toʔ	t o ʔ	orow1243	-10.737	-64.0299	Chapacuran	177	177
+672	80_hit	Hit	urupa	Urupá	tupan	tupan	t u p a n	urup1245	-10.25	-62.75	Chapacuran	177	177
+673	80_hit	Hit	wanyam	Wanyam	to	to	t o	wany1246	-12.1	-63.1	Chapacuran	177	177
+674	80_hit	Hit	wari	Wari'	toʔ	toʔ	t o ʔ	wari1268	-10.69948	-64.56152	Chapacuran	177	177
+675	80_hit	Hit	cojubim	Cojubim	pap	pap	p a p	kuyu1236	-11.75	-64.0	Chapacuran	178	178
+676	80_hit	Hit	orowin	Oro Win	pak	pak	p a k	orow1243	-10.737	-64.0299	Chapacuran	178	178
+677	80_hit	Hit	tora	Torá	pak	pak	p a k	tora1263	-6.19532	-61.7416	Chapacuran	178	178
+334	42_horn	Horn	kitemoka	Kitemoka	pitʃi	pitʃi	p i tʃ i	kite1237	-16.0	-62.75	Chapacuran	100	100
+335	42_horn	Horn	orowin	Oro Win	pitikon	pitikon	p i t i k o n	orow1243	-10.737	-64.0299	Chapacuran	100	100
+336	42_horn	Horn	wari	Wari'	pitʃinaɲ	pitʃinaɲ	p i tʃ i n a ɲ	wari1268	-10.69948	-64.56152	Chapacuran	100	100
+337	42_horn	Horn	cojubim	Cojubim	tataw	tataw	t a t a w	kuyu1236	-11.75	-64.0	Chapacuran	101	101
+338	42_horn	Horn	more	Moré	tataw	tataw	t a t a w	itor1239			Chapacuran	101	101
+339	42_horn	Horn	wanyam	Wanyam	tatawi	tatawi	t a t a w i	wany1246	-12.1	-63.1	Chapacuran	101	101
+340	42_horn	Horn	jaru	Jarú	ileken	ileken	i l e k e n	yaru1257	-10.25	-62.0	Chapacuran	102	102
+341	42_horn	Horn	tapakura	Tapakura	injawan	injawan	i n j a w a n	chap1269	-14.8	-62.2	Chapacuran	103	103
+120	16_human	Human	jaru	Jarú	wanjan	wanjan	w a n j a n	yaru1257	-10.25	-62.0	Chapacuran	44	44
+121	16_human	Human	more	Moré	wanjam	wanjam	w a n j a m	itor1239			Chapacuran	44	44
+122	16_human	Human	orowin	Oro Win	wajam	wajam	w a j a m	orow1243	-10.737	-64.0299	Chapacuran	44	44
+123	16_human	Human	wanyam	Wanyam	wanjam	wanjam	w a n j a m	wany1246	-12.1	-63.1	Chapacuran	44	44
+124	16_human	Human	wari	Wari'	wijam	wijam	w i j a m	wari1268	-10.69948	-64.56152	Chapacuran	44	44
+1	1_i	I	cojubim	Cojubim	waza	waza	w a z a	kuyu1236	-11.75	-64.0	Chapacuran	1	1
+2	1_i	I	kitemoka	Kitemoka	waja	waja	w a j a	kite1237	-16.0	-62.75	Chapacuran	1	1
+3	1_i	I	more	Moré	waʒ̟a	waʒ̟a	w a ʒ̟ a	itor1239			Chapacuran	1	1
+4	1_i	I	orowin	Oro Win	wataʔ	wataʔ	w a t a ʔ	orow1243	-10.737	-64.0299	Chapacuran	1	1
+5	1_i	I	tapakura	Tapakura	waja	waja	w a j a	chap1269	-14.8	-62.2	Chapacuran	1	1
+6	1_i	I	tora	Torá	waza	waza	w a z a	tora1263	-6.19532	-61.7416	Chapacuran	1	1
+7	1_i	I	urupa	Urupá	wata	wata	w a t a	urup1245	-10.25	-62.75	Chapacuran	1	1
+8	1_i	I	wanyam	Wanyam	wataʔ	wataʔ	w a t a ʔ	wany1246	-12.1	-63.1	Chapacuran	1	1
+9	1_i	I	wari	Wari'	wataʔ	wataʔ	w a t a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	1	1
+646	77_kill	Kill	cojubim	Cojubim	paʔ	paʔ	p a ʔ	kuyu1236	-11.75	-64.0	Chapacuran	167	167
+647	77_kill	Kill	jaru	Jarú	pa	pa	p a	yaru1257	-10.25	-62.0	Chapacuran	167	167
+648	77_kill	Kill	more	Moré	pa	pa	p a	itor1239			Chapacuran	167	167
+649	77_kill	Kill	orowin	Oro Win	paʔ	paʔ	p a ʔ	orow1243	-10.737	-64.0299	Chapacuran	167	167
+650	77_kill	Kill	tora	Torá	pa	pa	p a	tora1263	-6.19532	-61.7416	Chapacuran	167	167
+651	77_kill	Kill	urupa	Urupá	tupab	tupab	t u p a b	urup1245	-10.25	-62.75	Chapacuran	167	167
+652	77_kill	Kill	wanyam	Wanyam	pa	pa	p a	wany1246	-12.1	-63.1	Chapacuran	167	167
+653	77_kill	Kill	wari	Wari'	paʔ	paʔ	p a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	167	167
+654	77_kill	Kill	kitemoka	Kitemoka	tioakko	tioakko	t i o a k k o	kite1237	-16.0	-62.75	Chapacuran	168	168
+655	77_kill	Kill	tapakura	Tapakura	tuakun	tuakun	t u a k u n	chap1269	-14.8	-62.2	Chapacuran	168	168
+460	55_knee	Knee	orowin	Oro Win	makaramasi	makaramasi	m a k a r a m a s i	orow1243	-10.737	-64.0299	Chapacuran	129	129
+461	55_knee	Knee	wanyam	Wanyam	warakaramaʃiʔ	warakaramaʃiʔ	w a r a k a r a m a ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	129	129
+462	55_knee	Knee	wari	Wari'	karamatʃiʔ	karamatʃiʔ	k a r a m a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	129	129
+463	55_knee	Knee	orowin	Oro Win	mafonasi	mafonasi	m a f o n a s i	orow1243	-10.737	-64.0299	Chapacuran	130	130
+464	55_knee	Knee	cojubim	Cojubim	tokozim	tokozim	t o k o z i m	kuyu1236	-11.75	-64.0	Chapacuran	131	131
+465	55_knee	Knee	jaru	Jarú	toketekilipasi	toketekilipasi	t o k e t e k i l i p a s i	yaru1257	-10.25	-62.0	Chapacuran	131	131
+466	55_knee	Knee	kitemoka	Kitemoka	tukaivatʃe	tukaivatʃe	t u k a i v a tʃ e	kite1237	-16.0	-62.75	Chapacuran	131	131
+467	55_knee	Knee	more	Moré	tukuʒ̟im	tukuʒ̟im	t u k u ʒ̟ i m	itor1239			Chapacuran	131	131
+468	55_knee	Knee	tapakura	Tapakura	tukaimatʃi	tukaimatʃi	t u k a i m a tʃ i	chap1269	-14.8	-62.2	Chapacuran	131	131
+469	55_knee	Knee	tora	Torá	tukazim	tukazim	t u k a z i m	tora1263	-6.19532	-61.7416	Chapacuran	131	131
+603	71_laugh	Laugh	cojubim	Cojubim	tasam	tasam	t a s a m	kuyu1236	-11.75	-64.0	Chapacuran	157	157
+604	71_laugh	Laugh	more	Moré	tasam	tasam	t a s a m	itor1239			Chapacuran	157	157
+605	71_laugh	Laugh	orowin	Oro Win	tarim	tarim	t a r i m	orow1243	-10.737	-64.0299	Chapacuran	157	157
+606	71_laugh	Laugh	wanyam	Wanyam	trahum	trahum	t r a h u m	wany1246	-12.1	-63.1	Chapacuran	157	157
+607	71_laugh	Laugh	wari	Wari'	tatamʔ	tatamʔ	t a t a m ʔ	wari1268	-10.69948	-64.56152	Chapacuran	157	157
+608	71_laugh	Laugh	tapakura	Tapakura	matimuiara	matimuiara	m a t i m u i a r a	chap1269	-14.8	-62.2	Chapacuran	158	158
+609	71_laugh	Laugh	kitemoka	Kitemoka	eva	eva	e v a	kite1237	-16.0	-62.75	Chapacuran	159	159
+249	31_leaf	Leaf	cojubim	Cojubim	tan	tan	t a n	kuyu1236	-11.75	-64.0	Chapacuran	79	79
+250	31_leaf	Leaf	more	Moré	tan	tan	t a n	itor1239			Chapacuran	79	79
+251	31_leaf	Leaf	orowin	Oro Win	tajinan	tajinan	t a j i n a n	orow1243	-10.737	-64.0299	Chapacuran	79	79
+252	31_leaf	Leaf	wanyam	Wanyam	tain	tain	t a i n	wany1246	-12.1	-63.1	Chapacuran	79	79
+253	31_leaf	Leaf	wari	Wari'	taji	taji	t a j i	wari1268	-10.69948	-64.56152	Chapacuran	79	79
+254	31_leaf	Leaf	tora	Torá	murami	murami	m u r a m i	tora1263	-6.19532	-61.7416	Chapacuran	80	80
+255	31_leaf	Leaf	kitemoka	Kitemoka	atia	atia	a t i a	kite1237	-16.0	-62.75	Chapacuran	81	81
+256	31_leaf	Leaf	tapakura	Tapakura	ʃuɲu	ʃuɲu	ʃ u ɲ u	chap1269	-14.8	-62.2	Chapacuran	82	82
+451	54_leg	Leg	cojubim	Cojubim	pok	pok	p o k	kuyu1236	-11.75	-64.0	Chapacuran	128	128
+452	54_leg	Leg	jaru	Jarú	ekisi	ekisi	e k i s i	yaru1257	-10.25	-62.0	Chapacuran	128	128
+453	54_leg	Leg	kitemoka	Kitemoka	kohotʃi	kohotʃi	k o h o tʃ i	kite1237	-16.0	-62.75	Chapacuran	128	128
+454	54_leg	Leg	more	Moré	pok	pok	p o k	itor1239			Chapacuran	128	128
+455	54_leg	Leg	orowin	Oro Win	fokisi	fokisi	f o k i s i	orow1243	-10.737	-64.0299	Chapacuran	128	128
+456	54_leg	Leg	tapakura	Tapakura	ukutʃi	ukutʃi	u k u tʃ i	chap1269	-14.8	-62.2	Chapacuran	128	128
+457	54_leg	Leg	tora	Torá	hok	hok	h o k	tora1263	-6.19532	-61.7416	Chapacuran	128	128
+458	54_leg	Leg	wanyam	Wanyam	hokiʃiʔ	hokiʃiʔ	h o k i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	128	128
+459	54_leg	Leg	wari	Wari'	kokotʃiʔ	kokotʃiʔ	k o k o tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	128	128
+725	87_lie	Lie	cojubim	Cojubim	titimʔ	titimʔ	t i t i m ʔ	kuyu1236	-11.75	-64.0	Chapacuran	197	197
+726	87_lie	Lie	jaru	Jarú	trem	trem	t r e m	yaru1257	-10.25	-62.0	Chapacuran	197	197
+727	87_lie	Lie	orowin	Oro Win	tim	tim	t i m	orow1243	-10.737	-64.0299	Chapacuran	197	197
+728	87_lie	Lie	tora	Torá	wuritimi	wuritimi	w u r i t i m i	tora1263	-6.19532	-61.7416	Chapacuran	197	197
+729	87_lie	Lie	wanyam	Wanyam	tarim	tarim	t a r i m	wany1246	-12.1	-63.1	Chapacuran	197	197
+730	87_lie	Lie	wari	Wari'	teremʔ	teremʔ	t e r e m ʔ	wari1268	-10.69948	-64.56152	Chapacuran	197	197
+731	87_lie	Lie	kitemoka	Kitemoka	tʃekom	tʃekom	tʃ e k o m	kite1237	-16.0	-62.75	Chapacuran	198	198
+732	87_lie	Lie	orowin	Oro Win	tokoʔ	tokoʔ	t o k o ʔ	orow1243	-10.737	-64.0299	Chapacuran	198	198
+733	87_lie	Lie	wari	Wari'	tokoʔ	tokoʔ	t o k o ʔ	wari1268	-10.69948	-64.56152	Chapacuran	198	198
+734	87_lie	Lie	jaru	Jarú	ta	ta	t a	yaru1257	-10.25	-62.0	Chapacuran	199	199
+735	87_lie	Lie	more	Moré	ʒ̟ak	ʒ̟ak	ʒ̟ a k	itor1239			Chapacuran	199	199
+736	87_lie	Lie	urupa	Urupá	tak	tak	t a k	urup1245	-10.25	-62.75	Chapacuran	199	199
+737	87_lie	Lie	wari	Wari'	tak	tak	t a k	wari1268	-10.69948	-64.56152	Chapacuran	199	199
+738	87_lie	Lie	tapakura	Tapakura	wa	wa	w a	chap1269	-14.8	-62.2	Chapacuran	200	200
+554	64_liver	Liver	cojubim	Cojubim	tʃawan	tʃawan	tʃ a w a n	kuyu1236	-11.75	-64.0	Chapacuran	148	148
+555	64_liver	Liver	jaru	Jarú	trawanasi	trawanasi	t r a w a n a s i	yaru1257	-10.25	-62.0	Chapacuran	148	148
+556	64_liver	Liver	more	Moré	sawan	sawan	s a w a n	itor1239			Chapacuran	148	148
+557	64_liver	Liver	orowin	Oro Win	trawrisi	trawrisi	t r a w r i s i	orow1243	-10.737	-64.0299	Chapacuran	148	148
+558	64_liver	Liver	tora	Torá	trawana	trawana	t r a w a n a	tora1263	-6.19532	-61.7416	Chapacuran	148	148
+559	64_liver	Liver	wanyam	Wanyam	tarawaneʃiʔ	tarawaneʃiʔ	t a r a w a n e ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	148	148
+560	64_liver	Liver	wari	Wari'	tarawanatʃiʔ	tarawanatʃiʔ	t a r a w a n a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	148	148
+202	25_louse	Louse	cojubim	Cojubim	iw	iw	i w	kuyu1236	-11.75	-64.0	Chapacuran	65	65
+203	25_louse	Louse	kitemoka	Kitemoka	ahihi	ahihi	a h i h i	kite1237	-16.0	-62.75	Chapacuran	65	65
+204	25_louse	Louse	more	Moré	iw	iw	i w	itor1239			Chapacuran	65	65
+205	25_louse	Louse	orowin	Oro Win	iwisi	iwisi	i w i s i	orow1243	-10.737	-64.0299	Chapacuran	65	65
+206	25_louse	Louse	tapakura	Tapakura	awi	awi	a w i	chap1269	-14.8	-62.2	Chapacuran	65	65
+207	25_louse	Louse	tora	Torá	iw	iw	i w	tora1263	-6.19532	-61.7416	Chapacuran	65	65
+208	25_louse	Louse	urupa	Urupá	iw	iw	i w	urup1245	-10.25	-62.75	Chapacuran	65	65
+209	25_louse	Louse	wanyam	Wanyam	iwi	iwi	i w i	wany1246	-12.1	-63.1	Chapacuran	65	65
+210	25_louse	Louse	wari	Wari'	iwʔ	iwʔ	i w ʔ	wari1268	-10.69948	-64.56152	Chapacuran	65	65
+112	15_man	Man	jaru	Jarú	kitraman	kitraman	k i t r a m a n	yaru1257	-10.25	-62.0	Chapacuran	42	42
+113	15_man	Man	orowin	Oro Win	kitrama	kitrama	k i t r a m a	orow1243	-10.737	-64.0299	Chapacuran	42	42
+114	15_man	Man	urupa	Urupá	kitrama	kitrama	k i t r a m a	urup1245	-10.25	-62.75	Chapacuran	42	42
+115	15_man	Man	wanyam	Wanyam	kitaramaʔ	kitaramaʔ	k i t a r a m a ʔ	wany1246	-12.1	-63.1	Chapacuran	42	42
+116	15_man	Man	wari	Wari'	taramaʔ	taramaʔ	t a r a m a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	42	42
+117	15_man	Man	cojubim	Cojubim	namakon	namakon	n a m a k o n	kuyu1236	-11.75	-64.0	Chapacuran	43	43
+118	15_man	Man	more	Moré	namakon	namakon	n a m a k o n	itor1239			Chapacuran	43	43
+119	15_man	Man	tora	Torá	nakon	nakon	n a k o n	tora1263	-6.19532	-61.7416	Chapacuran	43	43
+49	8_many	Many	orowin	Oro Win	mijaʔ	mijaʔ	m i j a ʔ	orow1243	-10.737	-64.0299	Chapacuran	11	11
+50	8_many	Many	tora	Torá	jab	jab	j a b	tora1263	-6.19532	-61.7416	Chapacuran	11	11
+51	8_many	Many	wari	Wari'	mija	mija	m i j a	wari1268	-10.69948	-64.56152	Chapacuran	11	11
+52	8_many	Many	cojubim	Cojubim	napa	napa	n a p a	kuyu1236	-11.75	-64.0	Chapacuran	12	12
+53	8_many	Many	more	Moré	napa	napa	n a p a	itor1239			Chapacuran	12	12
+54	8_many	Many	orowin	Oro Win	napa	napa	n a p a	orow1243	-10.737	-64.0299	Chapacuran	12	12
+55	8_many	Many	urupa	Urupá	katimisam	katimisam	k a t i m i s a m	urup1245	-10.25	-62.75	Chapacuran	13	13
+56	8_many	Many	tora	Torá	asinëji	asinëji	a s i n ë j i	tora1263	-6.19532	-61.7416	Chapacuran	14	14
+57	8_many	Many	kitemoka	Kitemoka	patiako	patiako	p a t i a k o	kite1237	-16.0	-62.75	Chapacuran	15	15
+291	37_meat	Meat	jaru	Jarú	ikekren	ikekren	i k e k r e n	yaru1257	-10.25	-62.0	Chapacuran	94	94
+292	37_meat	Meat	more	Moré	ukun	ukun	u k u n	itor1239			Chapacuran	94	94
+293	37_meat	Meat	orowin	Oro Win	ykeresi	ykeresi	y k e r e s i	orow1243	-10.737	-64.0299	Chapacuran	94	94
+294	37_meat	Meat	wanyam	Wanyam	ikerem	ikerem	i k e r e m	wany1246	-12.1	-63.1	Chapacuran	94	94
+295	37_meat	Meat	wari	Wari'	kweretʃiʔ	kweretʃiʔ	k w e r e tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	94	94
+821	100_moon	Moon	cojubim	Cojubim	panawoʔ	panawoʔ	p a n a w o ʔ	kuyu1236	-11.75	-64.0	Chapacuran	231	231
+822	100_moon	Moon	jaru	Jarú	panau	panau	p a n a u	yaru1257	-10.25	-62.0	Chapacuran	231	231
+823	100_moon	Moon	kitemoka	Kitemoka	pnato	pnato	p n a t o	kite1237	-16.0	-62.75	Chapacuran	231	231
+824	100_moon	Moon	more	Moré	panawoʔ	panawoʔ	p a n a w o ʔ	itor1239			Chapacuran	231	231
+825	100_moon	Moon	tapakura	Tapakura	panato	panato	p a n a t o	chap1269	-14.8	-62.2	Chapacuran	231	231
+826	100_moon	Moon	tora	Torá	panao	panao	p a n a o	tora1263	-6.19532	-61.7416	Chapacuran	231	231
+827	100_moon	Moon	urupa	Urupá	panaoʔ	panaoʔ	p a n a o ʔ	urup1245	-10.25	-62.75	Chapacuran	231	231
+828	100_moon	Moon	wanyam	Wanyam	panawoʔ	panawoʔ	p a n a w o ʔ	wany1246	-12.1	-63.1	Chapacuran	231	231
+829	100_moon	Moon	wari	Wari'	panawoʔ	panawoʔ	p a n a w o ʔ	wari1268	-10.69948	-64.56152	Chapacuran	231	231
+137	18_mother	Mother	cojubim	Cojubim	inaʔ	inaʔ	i n a ʔ	kuyu1236	-11.75	-64.0	Chapacuran	50	50
+138	18_mother	Mother	more	Moré	inaʔ	inaʔ	i n a ʔ	itor1239			Chapacuran	50	50
+139	18_mother	Mother	orowin	Oro Win	ina	ina	i n a	orow1243	-10.737	-64.0299	Chapacuran	50	50
+140	18_mother	Mother	tora	Torá	inja	inja	i n j a	tora1263	-6.19532	-61.7416	Chapacuran	50	50
+141	18_mother	Mother	wanyam	Wanyam	inaʔ	inaʔ	i n a ʔ	wany1246	-12.1	-63.1	Chapacuran	50	50
+142	18_mother	Mother	wari	Wari'	naʔ	naʔ	n a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	50	50
+143	18_mother	Mother	cojubim	Cojubim	uweʔ	uweʔ	u w e ʔ	kuyu1236	-11.75	-64.0	Chapacuran	51	51
+144	18_mother	Mother	jaru	Jarú	uwe	uwe	u w e	yaru1257	-10.25	-62.0	Chapacuran	51	51
+145	18_mother	Mother	more	Moré	uweʔ	uweʔ	u w e ʔ	itor1239			Chapacuran	51	51
+146	18_mother	Mother	orowin	Oro Win	ywe	ywe	y w e	orow1243	-10.737	-64.0299	Chapacuran	51	51
+147	18_mother	Mother	tora	Torá	iwi	iwi	i w i	tora1263	-6.19532	-61.7416	Chapacuran	51	51
+148	18_mother	Mother	urupa	Urupá	ive	ive	i v e	urup1245	-10.25	-62.75	Chapacuran	51	51
+149	18_mother	Mother	wanyam	Wanyam	ewiʔ	ewiʔ	e w i ʔ	wany1246	-12.1	-63.1	Chapacuran	51	51
+150	18_mother	Mother	wari	Wari'	we	we	w e	wari1268	-10.69948	-64.56152	Chapacuran	51	51
+401	49_mouth	Mouth	jaru	Jarú	tupakasi	tupakasi	t u p a k a s i	yaru1257	-10.25	-62.0	Chapacuran	116	116
+402	49_mouth	Mouth	more	Moré	topak	topak	t o p a k	itor1239			Chapacuran	116	116
+403	49_mouth	Mouth	orowin	Oro Win	topakasi	topakasi	t o p a k a s i	orow1243	-10.737	-64.0299	Chapacuran	116	116
+404	49_mouth	Mouth	tapakura	Tapakura	tupakatʃi	tupakatʃi	t u p a k a tʃ i	chap1269	-14.8	-62.2	Chapacuran	116	116
+405	49_mouth	Mouth	urupa	Urupá	tupakasi	tupakasi	t u p a k a s i	urup1245	-10.25	-62.75	Chapacuran	116	116
+406	49_mouth	Mouth	wanyam	Wanyam	topakaʃiʔ	topakaʃiʔ	t o p a k a ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	116	116
+407	49_mouth	Mouth	wari	Wari'	topak	topak	t o p a k	wari1268	-10.69948	-64.56152	Chapacuran	116	116
+408	49_mouth	Mouth	kitemoka	Kitemoka	rikajatʃi	rikajatʃi	r i k a j a tʃ i	kite1237	-16.0	-62.75	Chapacuran	117	117
+409	49_mouth	Mouth	tora	Torá	tuaraw	tuaraw	t u a r a w	tora1263	-6.19532	-61.7416	Chapacuran	118	118
+1026	124_name	Name	more	Moré	wit	wit	w i t	itor1239			Chapacuran	284	284
+1027	124_name	Name	orowin	Oro Win	witi	witi	w i t i	orow1243	-10.737	-64.0299	Chapacuran	284	284
+1028	124_name	Name	tora	Torá	viti	viti	v i t i	tora1263	-6.19532	-61.7416	Chapacuran	284	284
+1029	124_name	Name	urupa	Urupá	yvyty	yvyty	y v y t y	urup1245	-10.25	-62.75	Chapacuran	284	284
+1030	124_name	Name	wanyam	Wanyam	uwaw	uwaw	u w a w	wany1246	-12.1	-63.1	Chapacuran	284	284
+1031	124_name	Name	wari	Wari'	witʃi	witʃi	w i tʃ i	wari1268	-10.69948	-64.56152	Chapacuran	284	284
+512	60_neck	Neck	cojubim	Cojubim	patam	patam	p a t a m	kuyu1236	-11.75	-64.0	Chapacuran	142	142
+513	60_neck	Neck	jaru	Jarú	upramasi	upramasi	u p r a m a s i	yaru1257	-10.25	-62.0	Chapacuran	142	142
+514	60_neck	Neck	more	Moré	patam	patam	p a t a m	itor1239			Chapacuran	142	142
+515	60_neck	Neck	orowin	Oro Win	oparamasi	oparamasi	o p a r a m a s i	orow1243	-10.737	-64.0299	Chapacuran	142	142
+516	60_neck	Neck	tora	Torá	patama	patama	p a t a m a	tora1263	-6.19532	-61.7416	Chapacuran	142	142
+517	60_neck	Neck	wanyam	Wanyam	uparamaʃiʔ	uparamaʃiʔ	u p a r a m a ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	142	142
+518	60_neck	Neck	wari	Wari'	paramatʃiʔ	paramatʃiʔ	p a r a m a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	142	142
+519	60_neck	Neck	kitemoka	Kitemoka	aikeɲemitʃe	aikeɲemitʃe	a i k e ɲ e m i tʃ e	kite1237	-16.0	-62.75	Chapacuran	143	143
+520	60_neck	Neck	tapakura	Tapakura	hukiminitʃi	hukiminitʃi	h u k i m i n i tʃ i	chap1269	-14.8	-62.2	Chapacuran	143	143
+521	60_neck	Neck	wari	Wari'	kanemitʃiʔ	kanemitʃiʔ	k a n e m i tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	143	143
+1004	121_new	New	orowin	Oro Win	sokori	sokori	s o k o r i	orow1243	-10.737	-64.0299	Chapacuran	273	273
+1005	121_new	New	tora	Torá	tukurudn	tukurudn	t u k u r u d n	tora1263	-6.19532	-61.7416	Chapacuran	273	273
+1006	121_new	New	wari	Wari'	tʃokori	tʃokori	tʃ o k o r i	wari1268	-10.69948	-64.56152	Chapacuran	273	273
+1007	121_new	New	more	Moré	takan	takan	t a k a n	itor1239			Chapacuran	274	274
+973	117_night	Night	cojubim	Cojubim	isim	isim	i s i m	kuyu1236	-11.75	-64.0	Chapacuran	266	266
+974	117_night	Night	jaru	Jarú	etimʔ	etimʔ	e t i m ʔ	yaru1257	-10.25	-62.0	Chapacuran	266	266
+975	117_night	Night	kitemoka	Kitemoka	paitin	paitin	p a i t i n	kite1237	-16.0	-62.75	Chapacuran	266	266
+976	117_night	Night	more	Moré	isim	isim	i s i m	itor1239			Chapacuran	266	266
+977	117_night	Night	orowin	Oro Win	itim	itim	i t i m	orow1243	-10.737	-64.0299	Chapacuran	266	266
+978	117_night	Night	tapakura	Tapakura	paitin	paitin	p a i t i n	chap1269	-14.8	-62.2	Chapacuran	266	266
+979	117_night	Night	tora	Torá	ijsibm	ijsibm	i j s i b m	tora1263	-6.19532	-61.7416	Chapacuran	266	266
+980	117_night	Night	wanyam	Wanyam	itim	itim	i t i m	wany1246	-12.1	-63.1	Chapacuran	266	266
+981	117_night	Night	wari	Wari'	tʃim	tʃim	tʃ i m	wari1268	-10.69948	-64.56152	Chapacuran	266	266
+391	48_nose	Nose	cojubim	Cojubim	ur	ur	u r	kuyu1236	-11.75	-64.0	Chapacuran	115	115
+392	48_nose	Nose	jaru	Jarú	jolisi	jolisi	j o l i s i	yaru1257	-10.25	-62.0	Chapacuran	115	115
+393	48_nose	Nose	kitemoka	Kitemoka	turutʃe	turutʃe	t u r u tʃ e	kite1237	-16.0	-62.75	Chapacuran	115	115
+394	48_nose	Nose	more	Moré	uʒ̟	uʒ̟	u ʒ̟	itor1239			Chapacuran	115	115
+395	48_nose	Nose	orowin	Oro Win	yrysi	yrysi	y r y s i	orow1243	-10.737	-64.0299	Chapacuran	115	115
+396	48_nose	Nose	tapakura	Tapakura	uturutʃi	uturutʃi	u t u r u tʃ i	chap1269	-14.8	-62.2	Chapacuran	115	115
+397	48_nose	Nose	tora	Torá	uj	uj	u j	tora1263	-6.19532	-61.7416	Chapacuran	115	115
+398	48_nose	Nose	urupa	Urupá	juresi	juresi	j u r e s i	urup1245	-10.25	-62.75	Chapacuran	115	115
+399	48_nose	Nose	wanyam	Wanyam	iriʃiʔ	iriʃiʔ	i r i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	115	115
+400	48_nose	Nose	wari	Wari'	weretʃiʔ	weretʃiʔ	w e r e tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	115	115
+1008	122_old	Old	orowin	Oro Win	foron	foron	f o r o n	orow1243	-10.737	-64.0299	Chapacuran	275	275
+1009	122_old	Old	wanyam	Wanyam	marahoron	marahoron	m a r a h o r o n	wany1246	-12.1	-63.1	Chapacuran	275	275
+1010	122_old	Old	wari	Wari'	horon	horon	h o r o n	wari1268	-10.69948	-64.56152	Chapacuran	275	275
+1011	122_old	Old	tora	Torá	serati	serati	s e r a t i	tora1263	-6.19532	-61.7416	Chapacuran	276	276
+1012	122_old	Old	kitemoka	Kitemoka	tarakon	tarakon	t a r a k o n	kite1237	-16.0	-62.75	Chapacuran	277	277
+1013	122_old	Old	tapakura	Tapakura	itarakun	itarakun	i t a r a k u n	chap1269	-14.8	-62.2	Chapacuran	277	277
+1014	122_old	Old	more	Moré	ukut	ukut	u k u t	itor1239			Chapacuran	278	278
+64	10_one	One	cojubim	Cojubim	tan	tan	t a n	kuyu1236	-11.75	-64.0	Chapacuran	21	21
+65	10_one	One	more	Moré	tan	tan	t a n	itor1239			Chapacuran	21	21
+66	10_one	One	orowin	Oro Win	kawasan	kawasan	k a w a s a n	orow1243	-10.737	-64.0299	Chapacuran	21	21
+67	10_one	One	tapakura	Tapakura	tan kua	tan kua	t a n + k u a	chap1269	-14.8	-62.2	Chapacuran	21	21
+68	10_one	One	tora	Torá	kwatadn	kwatadn	k w a t a d n	tora1263	-6.19532	-61.7416	Chapacuran	21	21
+69	10_one	One	wanyam	Wanyam	kawatʃyk	kawatʃyk	k a w a tʃ y k	wany1246	-12.1	-63.1	Chapacuran	21	21
+70	10_one	One	urupa	Urupá	munim	munim	m u n i m	urup1245	-10.25	-62.75	Chapacuran	22	22
+71	10_one	One	kitemoka	Kitemoka	mamai-omaitʃe	mamai-omaitʃe	m a m a i + o m a i tʃ e	kite1237	-16.0	-62.75	Chapacuran	23	23
+183	23_peccary	Peccary	cojubim	Cojubim	tokowan	tokowan	t o k o w a n	kuyu1236	-11.75	-64.0	Chapacuran	57	57
+184	23_peccary	Peccary	kitemoka	Kitemoka	tukawan	tukawan	t u k a w a n	kite1237	-16.0	-62.75	Chapacuran	57	57
+185	23_peccary	Peccary	more	Moré	tokowan	tokowan	t o k o w a n	itor1239			Chapacuran	57	57
+186	23_peccary	Peccary	tapakura	Tapakura	tukawa	tukawa	t u k a w a	chap1269	-14.8	-62.2	Chapacuran	57	57
+187	23_peccary	Peccary	tora	Torá	tukawadn	tukawadn	t u k a w a d n	tora1263	-6.19532	-61.7416	Chapacuran	57	57
+188	23_peccary	Peccary	wanyam	Wanyam	tokawan	tokawan	t o k a w a n	wany1246	-12.1	-63.1	Chapacuran	57	57
+189	23_peccary	Peccary	wari	Wari'	katatʃik	katatʃik	k a t a tʃ i k	wari1268	-10.69948	-64.56152	Chapacuran	58	58
+190	23_peccary	Peccary	orowin	Oro Win	oro jaman	oro jaman	o r o + j a m a n	orow1243	-10.737	-64.0299	Chapacuran	59	59
+775	93_pull	Pull	cojubim	Cojubim	ko	ko	k o	kuyu1236	-11.75	-64.0	Chapacuran	211	211
+776	93_pull	Pull	more	Moré	ko	ko	k o	itor1239			Chapacuran	211	211
+777	93_pull	Pull	orowin	Oro Win	kok tBot	kok tBot	k o k + t b o t	orow1243	-10.737	-64.0299	Chapacuran	211	211
+778	93_pull	Pull	wari	Wari'	køk	køk	k ø k	wari1268	-10.69948	-64.56152	Chapacuran	211	211
+779	94_push	Push	cojubim	Cojubim	jok	jok	j o k	kuyu1236	-11.75	-64.0	Chapacuran	212	212
+780	94_push	Push	orowin	Oro Win	jyk	jyk	j y k	orow1243	-10.737	-64.0299	Chapacuran	212	212
+781	94_push	Push	wanyam	Wanyam	jek	jek	j e k	wany1246	-12.1	-63.1	Chapacuran	212	212
+782	94_push	Push	wari	Wari'	jøk	jøk	j ø k	wari1268	-10.69948	-64.56152	Chapacuran	212	212
+783	94_push	Push	more	Moré	tun	tun	t u n	itor1239			Chapacuran	213	213
+850	103_rain	Rain	jaru	Jarú	soi	soi	s o i	yaru1257	-10.25	-62.0	Chapacuran	235	235
+851	103_rain	Rain	more	Moré	tʃuwe	tʃuwe	tʃ u w e	itor1239			Chapacuran	235	235
+852	103_rain	Rain	orowin	Oro Win	sowiʔ	sowiʔ	s o w i ʔ	orow1243	-10.737	-64.0299	Chapacuran	235	235
+853	103_rain	Rain	urupa	Urupá	sui	sui	s u i	urup1245	-10.25	-62.75	Chapacuran	235	235
+854	103_rain	Rain	wanyam	Wanyam	ʃuwiʔ	ʃuwiʔ	ʃ u w i ʔ	wany1246	-12.1	-63.1	Chapacuran	235	235
+855	103_rain	Rain	wari	Wari'	tʃowiʔ	tʃowiʔ	tʃ o w i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	235	235
+937	113_red	Red	cojubim	Cojubim	mem	mem	m e m	kuyu1236	-11.75	-64.0	Chapacuran	252	252
+938	113_red	Red	more	Moré	mem	mem	m e m	itor1239			Chapacuran	252	252
+939	113_red	Red	orowin	Oro Win	mem	mem	m e m	orow1243	-10.737	-64.0299	Chapacuran	252	252
+940	113_red	Red	tora	Torá	mëbn	mëbn	m ë b n	tora1263	-6.19532	-61.7416	Chapacuran	252	252
+941	113_red	Red	wanyam	Wanyam	pakaɲikon	pakaɲikon	p a k a ɲ i k o n	wany1246	-12.1	-63.1	Chapacuran	253	253
+942	113_red	Red	wari	Wari'	pakaʔ	pakaʔ	p a k a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	253	253
+943	113_red	Red	jaru	Jarú	temʔ	temʔ	t e m ʔ	yaru1257	-10.25	-62.0	Chapacuran	254	254
+944	113_red	Red	urupa	Urupá	tym	tym	t y m	urup1245	-10.25	-62.75	Chapacuran	254	254
+945	113_red	Red	kitemoka	Kitemoka	tiopatʃene	tiopatʃene	t i o p a tʃ e n e	kite1237	-16.0	-62.75	Chapacuran	255	255
+946	113_red	Red	tapakura	Tapakura	tupatʃini	tupatʃini	t u p a tʃ i n i	chap1269	-14.8	-62.2	Chapacuran	255	255
+931	112_road	Road	cojubim	Cojubim	wana	wana	w a n a	kuyu1236	-11.75	-64.0	Chapacuran	251	251
+932	112_road	Road	more	Moré	wana	wana	w a n a	itor1239			Chapacuran	251	251
+933	112_road	Road	orowin	Oro Win	wanaʔ	wanaʔ	w a n a ʔ	orow1243	-10.737	-64.0299	Chapacuran	251	251
+934	112_road	Road	tora	Torá	wana	wana	w a n a	tora1263	-6.19532	-61.7416	Chapacuran	251	251
+935	112_road	Road	wanyam	Wanyam	wanaʔ	wanaʔ	w a n a ʔ	wany1246	-12.1	-63.1	Chapacuran	251	251
+936	112_road	Road	wari	Wari'	wana	wana	w a n a	wari1268	-10.69948	-64.56152	Chapacuran	251	251
+257	32_root	Root	orowin	Oro Win	sikinan	sikinan	s i k i n a n	orow1243	-10.737	-64.0299	Chapacuran	83	83
+258	32_root	Root	wari	Wari'	katʃima	katʃima	k a tʃ i m a	wari1268	-10.69948	-64.56152	Chapacuran	83	83
+274	35_rope	Rope	cojubim	Cojubim	mokon	mokon	m o k o n	kuyu1236	-11.75	-64.0	Chapacuran	91	91
+275	35_rope	Rope	more	Moré	mokon	mokon	m o k o n	itor1239			Chapacuran	91	91
+276	35_rope	Rope	orowin	Oro Win	mokorikon	mokorikon	m o k o r i k o n	orow1243	-10.737	-64.0299	Chapacuran	91	91
+277	35_rope	Rope	urupa	Urupá	mukon	mukon	m u k o n	urup1245	-10.25	-62.75	Chapacuran	91	91
+278	35_rope	Rope	wanyam	Wanyam	mokon	mokon	m o k o n	wany1246	-12.1	-63.1	Chapacuran	91	91
+279	35_rope	Rope	wari	Wari'	makon	makon	m a k o n	wari1268	-10.69948	-64.56152	Chapacuran	91	91
+280	35_rope	Rope	jaru	Jarú	kurupi	kurupi	k u r u p i	yaru1257	-10.25	-62.0	Chapacuran	92	92
+281	35_rope	Rope	tora	Torá	tukuripa	tukuripa	t u k u r i p a	tora1263	-6.19532	-61.7416	Chapacuran	92	92
+866	105_sand	Sand	jaru	Jarú	namajekun	namajekun	n a m a j e k u n	yaru1257	-10.25	-62.0	Chapacuran	237	237
+867	105_sand	Sand	more	Moré	mimaʒ̟	mimaʒ̟	m i m a ʒ̟	itor1239			Chapacuran	237	237
+868	105_sand	Sand	orowin	Oro Win	namajiʔ	namajiʔ	n a m a j i ʔ	orow1243	-10.737	-64.0299	Chapacuran	237	237
+869	105_sand	Sand	tora	Torá	mijmaj	mijmaj	m i j m a j	tora1263	-6.19532	-61.7416	Chapacuran	237	237
+870	105_sand	Sand	wanyam	Wanyam	nimajiʔ	nimajiʔ	n i m a j i ʔ	wany1246	-12.1	-63.1	Chapacuran	237	237
+871	105_sand	Sand	wari	Wari'	namaji	namaji	n a m a j i	wari1268	-10.69948	-64.56152	Chapacuran	237	237
+872	105_sand	Sand	kitemoka	Kitemoka	mate	mate	m a t e	kite1237	-16.0	-62.75	Chapacuran	238	238
+873	105_sand	Sand	tapakura	Tapakura	umati	umati	u m a t i	chap1269	-14.8	-62.2	Chapacuran	238	238
+795	97_say	Say	kitemoka	Kitemoka	tumi	tumi	t u m i	kite1237	-16.0	-62.75	Chapacuran	218	218
+796	97_say	Say	tapakura	Tapakura	timi	timi	t i m i	chap1269	-14.8	-62.2	Chapacuran	218	218
+797	97_say	Say	wari	Wari'	tomiʔ	tomiʔ	t o m i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	218	218
+798	97_say	Say	orowin	Oro Win	naʔ	naʔ	n a ʔ	orow1243	-10.737	-64.0299	Chapacuran	219	219
+799	97_say	Say	wanyam	Wanyam	wanjam	wanjam	w a n j a m	wany1246	-12.1	-63.1	Chapacuran	220	220
+800	97_say	Say	urupa	Urupá	pa	pa	p a	urup1245	-10.25	-62.75	Chapacuran	221	221
+801	97_say	Say	cojubim	Cojubim	ja	ja	j a	kuyu1236	-11.75	-64.0	Chapacuran	222	222
+802	97_say	Say	kitemoka	Kitemoka	jajara	jajara	j a j a r a	kite1237	-16.0	-62.75	Chapacuran	222	222
+803	97_say	Say	more	Moré	ja	ja	j a	itor1239			Chapacuran	222	222
+610	72_see	See	cojubim	Cojubim	kirik	kirik	k i r i k	kuyu1236	-11.75	-64.0	Chapacuran	160	160
+611	72_see	See	kitemoka	Kitemoka	tirig	tirig	t i r i g	kite1237	-16.0	-62.75	Chapacuran	160	160
+612	72_see	See	more	Moré	kirik	kirik	k i r i k	itor1239			Chapacuran	160	160
+613	72_see	See	orowin	Oro Win	kirik	kirik	k i r i k	orow1243	-10.737	-64.0299	Chapacuran	160	160
+614	72_see	See	tapakura	Tapakura	kirik	kirik	k i r i k	chap1269	-14.8	-62.2	Chapacuran	160	160
+615	72_see	See	tora	Torá	krid	krid	k r i d	tora1263	-6.19532	-61.7416	Chapacuran	160	160
+616	72_see	See	wanyam	Wanyam	kirik	kirik	k i r i k	wany1246	-12.1	-63.1	Chapacuran	160	160
+617	72_see	See	wari	Wari'	kerek	kerek	k e r e k	wari1268	-10.69948	-64.56152	Chapacuran	160	160
+663	79_shoot	Shoot	cojubim	Cojubim	puru	puru	p u r u	kuyu1236	-11.75	-64.0	Chapacuran	174	174
+664	79_shoot	Shoot	more	Moré	puru	puru	p u r u	itor1239			Chapacuran	174	174
+665	79_shoot	Shoot	orowin	Oro Win	friʔ	friʔ	f r i ʔ	orow1243	-10.737	-64.0299	Chapacuran	174	174
+666	79_shoot	Shoot	wanyam	Wanyam	hiri	hiri	h i r i	wany1246	-12.1	-63.1	Chapacuran	174	174
+667	79_shoot	Shoot	wari	Wari'	hyry	hyry	h y r y	wari1268	-10.69948	-64.56152	Chapacuran	174	174
+668	79_shoot	Shoot	tora	Torá	tap	tap	t a p	tora1263	-6.19532	-61.7416	Chapacuran	175	175
+669	79_shoot	Shoot	jaru	Jarú	keu	keu	k e u	yaru1257	-10.25	-62.0	Chapacuran	176	176
+804	98_sing	Sing	orowin	Oro Win	kom	kom	k o m	orow1243	-10.737	-64.0299	Chapacuran	223	223
+805	98_sing	Sing	wanyam	Wanyam	kum	kum	k u m	wany1246	-12.1	-63.1	Chapacuran	223	223
+806	98_sing	Sing	wari	Wari'	kom	kom	k o m	wari1268	-10.69948	-64.56152	Chapacuran	223	223
+807	98_sing	Sing	jaru	Jarú	haka	haka	h a k a	yaru1257	-10.25	-62.0	Chapacuran	224	224
+808	98_sing	Sing	cojubim	Cojubim	wo	wo	w o	kuyu1236	-11.75	-64.0	Chapacuran	225	225
+809	98_sing	Sing	more	Moré	wo ki	wo ki	w o + k i	itor1239			Chapacuran	225	225
+810	98_sing	Sing	more	Moré	atʃimara	atʃimara	a tʃ i m a r a	itor1239			Chapacuran	226	226
+739	88_sit	Sit	cojubim	Cojubim	pe	pe	p e	kuyu1236	-11.75	-64.0	Chapacuran	201	201
+740	88_sit	Sit	more	Moré	pwe	pwe	p w e	itor1239			Chapacuran	201	201
+741	88_sit	Sit	orowin	Oro Win	pe	pe	p e	orow1243	-10.737	-64.0299	Chapacuran	201	201
+742	88_sit	Sit	tapakura	Tapakura	pepe	pepe	p e p e	chap1269	-14.8	-62.2	Chapacuran	201	201
+743	88_sit	Sit	tora	Torá	pi	pi	p i	tora1263	-6.19532	-61.7416	Chapacuran	201	201
+744	88_sit	Sit	wanyam	Wanyam	pe	pe	p e	wany1246	-12.1	-63.1	Chapacuran	201	201
+745	88_sit	Sit	wari	Wari'	peʔ	peʔ	p e ʔ	wari1268	-10.69948	-64.56152	Chapacuran	201	201
+282	36_skin	Skin	jaru	Jarú	tuparesi	tuparesi	t u p a r e s i	yaru1257	-10.25	-62.0	Chapacuran	93	93
+283	36_skin	Skin	kitemoka	Kitemoka	paritʃe	paritʃe	p a r i tʃ e	kite1237	-16.0	-62.75	Chapacuran	93	93
+284	36_skin	Skin	more	Moré	topan	topan	t o p a n	itor1239			Chapacuran	93	93
+285	36_skin	Skin	orowin	Oro Win	toporisi	toporisi	t o p o r i s i	orow1243	-10.737	-64.0299	Chapacuran	93	93
+286	36_skin	Skin	tapakura	Tapakura	tuparitʃi	tuparitʃi	t u p a r i tʃ i	chap1269	-14.8	-62.2	Chapacuran	93	93
+287	36_skin	Skin	tora	Torá	tupara	tupara	t u p a r a	tora1263	-6.19532	-61.7416	Chapacuran	93	93
+288	36_skin	Skin	urupa	Urupá	tuparisi	tuparisi	t u p a r i s i	urup1245	-10.25	-62.75	Chapacuran	93	93
+289	36_skin	Skin	wanyam	Wanyam	tupariʃiʔ	tupariʃiʔ	t u p a r i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	93	93
+290	36_skin	Skin	wari	Wari'	taparitʃiʔ	taparitʃiʔ	t a p a r i tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	93	93
+888	107_sky	Sky	cojubim	Cojubim	awin	awin	a w i n	kuyu1236	-11.75	-64.0	Chapacuran	241	241
+889	107_sky	Sky	jaru	Jarú	awi	awi	a w i	yaru1257	-10.25	-62.0	Chapacuran	241	241
+890	107_sky	Sky	kitemoka	Kitemoka	awen	awen	a w e n	kite1237	-16.0	-62.75	Chapacuran	241	241
+891	107_sky	Sky	more	Moré	awin	awin	a w i n	itor1239			Chapacuran	241	241
+892	107_sky	Sky	orowin	Oro Win	awin	awin	a w i n	orow1243	-10.737	-64.0299	Chapacuran	241	241
+893	107_sky	Sky	tapakura	Tapakura	awin	awin	a w i n	chap1269	-14.8	-62.2	Chapacuran	241	241
+894	107_sky	Sky	tora	Torá	awin	awin	a w i n	tora1263	-6.19532	-61.7416	Chapacuran	241	241
+895	107_sky	Sky	urupa	Urupá	awin	awin	a w i n	urup1245	-10.25	-62.75	Chapacuran	241	241
+896	107_sky	Sky	wanyam	Wanyam	awin	awin	a w i n	wany1246	-12.1	-63.1	Chapacuran	241	241
+897	107_sky	Sky	wari	Wari'	nanawin	nanawin	n a n a w i n	wari1268	-10.69948	-64.56152	Chapacuran	241	241
+629	75_sleep	Sleep	cojubim	Cojubim	upin	upin	u p i n	kuyu1236	-11.75	-64.0	Chapacuran	163	163
+630	75_sleep	Sleep	jaru	Jarú	upejamʔ	upejamʔ	u p e j a m ʔ	yaru1257	-10.25	-62.0	Chapacuran	163	163
+631	75_sleep	Sleep	more	Moré	upen	upen	u p e n	itor1239			Chapacuran	163	163
+632	75_sleep	Sleep	orowin	Oro Win	ypen	ypen	y p e n	orow1243	-10.737	-64.0299	Chapacuran	163	163
+633	75_sleep	Sleep	tora	Torá	upoɲ	upoɲ	u p o ɲ	tora1263	-6.19532	-61.7416	Chapacuran	163	163
+634	75_sleep	Sleep	urupa	Urupá	ypen	ypen	y p e n	urup1245	-10.25	-62.75	Chapacuran	163	163
+635	75_sleep	Sleep	wanyam	Wanyam	ipen	ipen	i p e n	wany1246	-12.1	-63.1	Chapacuran	163	163
+636	75_sleep	Sleep	wari	Wari'	piʔ am	piʔ am	p i ʔ + a m	wari1268	-10.69948	-64.56152	Chapacuran	163	163
+637	75_sleep	Sleep	tapakura	Tapakura	watʃiahe	watʃiahe	w a tʃ i a h e	chap1269	-14.8	-62.2	Chapacuran	164	164
+638	75_sleep	Sleep	kitemoka	Kitemoka	ootʃe	ootʃe	oː tʃ e	kite1237	-16.0	-62.75	Chapacuran	165	165
+92	13_small	Small	orowin	Oro Win	wijaman	wijaman	w i j a m a n	orow1243	-10.737	-64.0299	Chapacuran	34	34
+93	13_small	Small	urupa	Urupá	iamaj	iamaj	i a m a j	urup1245	-10.25	-62.75	Chapacuran	34	34
+94	13_small	Small	wanyam	Wanyam	wijikun	wijikun	w i j i k u n	wany1246	-12.1	-63.1	Chapacuran	34	34
+95	13_small	Small	wari	Wari'	wijima	wijima	w i j i m a	wari1268	-10.69948	-64.56152	Chapacuran	34	34
+96	13_small	Small	kitemoka	Kitemoka	piʃitiko	piʃitiko	p i ʃ i t i k o	kite1237	-16.0	-62.75	Chapacuran	35	35
+97	13_small	Small	tapakura	Tapakura	mitʃitikon	mitʃitikon	m i tʃ i t i k o n	chap1269	-14.8	-62.2	Chapacuran	35	35
+98	13_small	Small	cojubim	Cojubim	e	e	e	kuyu1236	-11.75	-64.0	Chapacuran	36	36
+99	13_small	Small	more	Moré	eje	eje	e j e	itor1239			Chapacuran	36	36
+100	13_small	Small	tora	Torá	nyaetʃidn	nyaetʃidn	n y a e tʃ i d n	tora1263	-6.19532	-61.7416	Chapacuran	37	37
+101	13_small	Small	jaru	Jarú	ip	ip	i p	yaru1257	-10.25	-62.0	Chapacuran	38	38
+907	109_smoke	Smoke	cojubim	Cojubim	iwiʔ	iwiʔ	i w i ʔ	kuyu1236	-11.75	-64.0	Chapacuran	246	246
+908	109_smoke	Smoke	jaru	Jarú	iwi	iwi	i w i	yaru1257	-10.25	-62.0	Chapacuran	246	246
+909	109_smoke	Smoke	more	Moré	iwi	iwi	i w i	itor1239			Chapacuran	246	246
+910	109_smoke	Smoke	tora	Torá	iwiʔ	iwiʔ	i w i ʔ	tora1263	-6.19532	-61.7416	Chapacuran	246	246
+911	109_smoke	Smoke	urupa	Urupá	iwi	iwi	i w i	urup1245	-10.25	-62.75	Chapacuran	246	246
+912	109_smoke	Smoke	wanyam	Wanyam	iwi	iwi	i w i	wany1246	-12.1	-63.1	Chapacuran	246	246
+913	109_smoke	Smoke	wari	Wari'	taɲʔ	taɲʔ	t a ɲ ʔ	wari1268	-10.69948	-64.56152	Chapacuran	247	247
+914	109_smoke	Smoke	orowin	Oro Win	torotoʔ	torotoʔ	t o r o t o ʔ	orow1243	-10.737	-64.0299	Chapacuran	248	248
+211	26_snake	Snake	cojubim	Cojubim	karakaw	karakaw	k a r a k a w	kuyu1236	-11.75	-64.0	Chapacuran	66	66
+212	26_snake	Snake	jaru	Jarú	krakaon	krakaon	k r a k a o n	yaru1257	-10.25	-62.0	Chapacuran	66	66
+213	26_snake	Snake	more	Moré	karakaw	karakaw	k a r a k a w	itor1239			Chapacuran	66	66
+214	26_snake	Snake	orowin	Oro Win	karakaw	karakaw	k a r a k a w	orow1243	-10.737	-64.0299	Chapacuran	66	66
+215	26_snake	Snake	tora	Torá	karakaw	karakaw	k a r a k a w	tora1263	-6.19532	-61.7416	Chapacuran	66	66
+216	26_snake	Snake	urupa	Urupá	krakaw	krakaw	k r a k a w	urup1245	-10.25	-62.75	Chapacuran	66	66
+217	26_snake	Snake	wanyam	Wanyam	karakaw	karakaw	k a r a k a w	wany1246	-12.1	-63.1	Chapacuran	66	66
+218	26_snake	Snake	wari	Wari'	emʔ	emʔ	e m ʔ	wari1268	-10.69948	-64.56152	Chapacuran	67	67
+746	89_stand	Stand	cojubim	Cojubim	tak	tak	t a k	kuyu1236	-11.75	-64.0	Chapacuran	202	202
+747	89_stand	Stand	more	Moré	taki	taki	t a k i	itor1239			Chapacuran	202	202
+748	89_stand	Stand	tapakura	Tapakura	tekipepe	tekipepe	t e k i p e p e	chap1269	-14.8	-62.2	Chapacuran	202	202
+749	89_stand	Stand	wari	Wari'	tekiʔ pe	tekiʔ pe	t e k i ʔ + p e	wari1268	-10.69948	-64.56152	Chapacuran	202	202
+750	89_stand	Stand	orowin	Oro Win	pan	pan	p a n	orow1243	-10.737	-64.0299	Chapacuran	203	203
+751	89_stand	Stand	kitemoka	Kitemoka	sed	sed	s e d	kite1237	-16.0	-62.75	Chapacuran	204	204
+752	89_stand	Stand	wari	Wari'	tʃat	tʃat	tʃ a t	wari1268	-10.69948	-64.56152	Chapacuran	204	204
+830	101_star	Star	cojubim	Cojubim	pi pijo	pi pijo	p i + p i j o	kuyu1236	-11.75	-64.0	Chapacuran	232	232
+831	101_star	Star	jaru	Jarú	upiu	upiu	u p i u	yaru1257	-10.25	-62.0	Chapacuran	232	232
+832	101_star	Star	kitemoka	Kitemoka	pilʔahu	pilʔahu	p i l ʔ a h u	kite1237	-16.0	-62.75	Chapacuran	232	232
+833	101_star	Star	more	Moré	pipijo	pipijo	p i p i j o	itor1239			Chapacuran	232	232
+834	101_star	Star	tapakura	Tapakura	wipijao	wipijao	w i p i j a o	chap1269	-14.8	-62.2	Chapacuran	232	232
+835	101_star	Star	tora	Torá	pipijo	pipijo	p i p i j o	tora1263	-6.19532	-61.7416	Chapacuran	232	232
+836	101_star	Star	urupa	Urupá	upijo	upijo	u p i j o	urup1245	-10.25	-62.75	Chapacuran	232	232
+837	101_star	Star	wanyam	Wanyam	upijuʔ	upijuʔ	u p i j u ʔ	wany1246	-12.1	-63.1	Chapacuran	232	232
+838	101_star	Star	wari	Wari'	pijoʔ	pijoʔ	p i j o ʔ	wari1268	-10.69948	-64.56152	Chapacuran	232	232
+839	101_star	Star	orowin	Oro Win	oro jawin	oro jawin	o r o + j a w i n	orow1243	-10.737	-64.0299	Chapacuran	233	233
+232	29_stick	Stick	cojubim	Cojubim	pana	pana	p a n a	kuyu1236	-11.75	-64.0	Chapacuran	74	74
+233	29_stick	Stick	jaru	Jarú	pana	pana	p a n a	yaru1257	-10.25	-62.0	Chapacuran	74	74
+234	29_stick	Stick	more	Moré	pana	pana	p a n a	itor1239			Chapacuran	74	74
+235	29_stick	Stick	orowin	Oro Win	pana	pana	p a n a	orow1243	-10.737	-64.0299	Chapacuran	74	74
+236	29_stick	Stick	tapakura	Tapakura	pane	pane	p a n e	chap1269	-14.8	-62.2	Chapacuran	74	74
+237	29_stick	Stick	tora	Torá	pana	pana	p a n a	tora1263	-6.19532	-61.7416	Chapacuran	74	74
+238	29_stick	Stick	urupa	Urupá	pana	pana	p a n a	urup1245	-10.25	-62.75	Chapacuran	74	74
+239	29_stick	Stick	wanyam	Wanyam	pana	pana	p a n a	wany1246	-12.1	-63.1	Chapacuran	74	74
+240	29_stick	Stick	wari	Wari'	pana	pana	p a n a	wari1268	-10.69948	-64.56152	Chapacuran	74	74
+856	104_stone	Stone	cojubim	Cojubim	pikun	pikun	p i k u n	kuyu1236	-11.75	-64.0	Chapacuran	236	236
+857	104_stone	Stone	jaru	Jarú	paken	paken	p a k e n	yaru1257	-10.25	-62.0	Chapacuran	236	236
+858	104_stone	Stone	kitemoka	Kitemoka	pikui	pikui	p i k u i	kite1237	-16.0	-62.75	Chapacuran	236	236
+859	104_stone	Stone	more	Moré	pikun	pikun	p i k u n	itor1239			Chapacuran	236	236
+860	104_stone	Stone	orowin	Oro Win	pekyn	pekyn	p e k y n	orow1243	-10.737	-64.0299	Chapacuran	236	236
+861	104_stone	Stone	tapakura	Tapakura	pekun	pekun	p e k u n	chap1269	-14.8	-62.2	Chapacuran	236	236
+862	104_stone	Stone	tora	Torá	pikun	pikun	p i k u n	tora1263	-6.19532	-61.7416	Chapacuran	236	236
+863	104_stone	Stone	urupa	Urupá	pakyn	pakyn	p a k y n	urup1245	-10.25	-62.75	Chapacuran	236	236
+864	104_stone	Stone	wanyam	Wanyam	pekin	pekin	p e k i n	wany1246	-12.1	-63.1	Chapacuran	236	236
+865	104_stone	Stone	wari	Wari'	pakyn	pakyn	p a k y n	wari1268	-10.69948	-64.56152	Chapacuran	236	236
+586	68_suck	Suck	cojubim	Cojubim	tʃak	tʃak	tʃ a k	kuyu1236	-11.75	-64.0	Chapacuran	153	153
+587	68_suck	Suck	more	Moré	tʃak	tʃak	tʃ a k	itor1239			Chapacuran	153	153
+588	68_suck	Suck	orowin	Oro Win	itak	itak	i t a k	orow1243	-10.737	-64.0299	Chapacuran	153	153
+589	68_suck	Suck	wanyam	Wanyam	ʃak	ʃak	ʃ a k	wany1246	-12.1	-63.1	Chapacuran	153	153
+590	68_suck	Suck	wari	Wari'	tʃak	tʃak	tʃ a k	wari1268	-10.69948	-64.56152	Chapacuran	153	153
+992	119_summer	Summer	cojubim	Cojubim	kawaziʔ	kawaziʔ	k a w a z i ʔ	kuyu1236	-11.75	-64.0	Chapacuran	270	270
+993	119_summer	Summer	more	Moré	kawaʒ̟i	kawaʒ̟i	k a w a ʒ̟ i	itor1239			Chapacuran	270	270
+994	119_summer	Summer	orowin	Oro Win	kawatiʔ	kawatiʔ	k a w a t i ʔ	orow1243	-10.737	-64.0299	Chapacuran	270	270
+995	119_summer	Summer	wanyam	Wanyam	kawatiʔ	kawatiʔ	k a w a t i ʔ	wany1246	-12.1	-63.1	Chapacuran	270	270
+996	119_summer	Summer	wari	Wari'	kawatʃiʔ	kawatʃiʔ	k a w a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	270	270
+811	99_sun	Sun	cojubim	Cojubim	mapitoʔ	mapitoʔ	m a p i t o ʔ	kuyu1236	-11.75	-64.0	Chapacuran	227	227
+812	99_sun	Sun	kitemoka	Kitemoka	papuitio	papuitio	p a p u i t i o	kite1237	-16.0	-62.75	Chapacuran	227	227
+813	99_sun	Sun	more	Moré	mapwito	mapwito	m a p w i t o	itor1239			Chapacuran	227	227
+814	99_sun	Sun	tapakura	Tapakura	wapuito	wapuito	w a p u i t o	chap1269	-14.8	-62.2	Chapacuran	227	227
+815	99_sun	Sun	tora	Torá	apito	apito	a p i t o	tora1263	-6.19532	-61.7416	Chapacuran	227	227
+816	99_sun	Sun	wanyam	Wanyam	wapiru	wapiru	w a p i r u	wany1246	-12.1	-63.1	Chapacuran	227	227
+817	99_sun	Sun	wari	Wari'	tʃina	tʃina	tʃ i n a	wari1268	-10.69948	-64.56152	Chapacuran	228	228
+818	99_sun	Sun	jaru	Jarú	komem	komem	k o m e m	yaru1257	-10.25	-62.0	Chapacuran	229	229
+819	99_sun	Sun	urupa	Urupá	kumen	kumen	k u m e n	urup1245	-10.25	-62.75	Chapacuran	229	229
+820	99_sun	Sun	orowin	Oro Win	fakamiʔ	fakamiʔ	f a k a m i ʔ	orow1243	-10.737	-64.0299	Chapacuran	230	230
+698	83_swim	Swim	orowin	Oro Win	jy	jy	j y	orow1243	-10.737	-64.0299	Chapacuran	184	184
+699	83_swim	Swim	wanyam	Wanyam	ji	ji	j i	wany1246	-12.1	-63.1	Chapacuran	184	184
+700	83_swim	Swim	wari	Wari'	pan kam	pan kam	p a n + k a m	wari1268	-10.69948	-64.56152	Chapacuran	185	185
+701	83_swim	Swim	jaru	Jarú	he	he	h e	yaru1257	-10.25	-62.0	Chapacuran	186	186
+702	83_swim	Swim	more	Moré	kawak	kawak	k a w a k	itor1239			Chapacuran	187	187
+703	83_swim	Swim	tapakura	Tapakura	kawa ko	kawa ko	k a w a + k o	chap1269	-14.8	-62.2	Chapacuran	187	187
+704	83_swim	Swim	cojubim	Cojubim	marakujan	marakujan	m a r a k u j a n	kuyu1236	-11.75	-64.0	Chapacuran	188	188
+342	43_tail	Tail	cojubim	Cojubim	kipun	kipun	k i p u n	kuyu1236	-11.75	-64.0	Chapacuran	104	104
+343	43_tail	Tail	more	Moré	kipun	kipun	k i p u n	itor1239			Chapacuran	104	104
+344	43_tail	Tail	orowin	Oro Win	keferesi	keferesi	k e f e r e s i	orow1243	-10.737	-64.0299	Chapacuran	104	104
+345	43_tail	Tail	wanyam	Wanyam	kahire	kahire	k a h i r e	wany1246	-12.1	-63.1	Chapacuran	104	104
+346	43_tail	Tail	wari	Wari'	kahwereɲ	kahwereɲ	k a h w e r e ɲ	wari1268	-10.69948	-64.56152	Chapacuran	104	104
+347	43_tail	Tail	kitemoka	Kitemoka	sokotʃetitʃe	sokotʃetitʃe	s o k o tʃ e t i tʃ e	kite1237	-16.0	-62.75	Chapacuran	105	105
+348	43_tail	Tail	tapakura	Tapakura	tʃipitʃi	tʃipitʃi	tʃ i p i tʃ i	chap1269	-14.8	-62.2	Chapacuran	105	105
+39	6_they	They	orowin	Oro Win	worikoko	worikoko	w o r i k o k o	orow1243	-10.737	-64.0299	Chapacuran	6	6
+40	6_they	They	tora	Torá	wariko bap	wariko bap	w a r i k o + b a p	tora1263	-6.19532	-61.7416	Chapacuran	6	6
+41	6_they	They	wari	Wari'	wirikoko	wirikoko	w i r i k o k o	wari1268	-10.69948	-64.56152	Chapacuran	6	6
+42	6_they	They	more	Moré	omapu	omapu	o m a p u	itor1239			Chapacuran	7	7
+43	6_they	They	tapakura	Tapakura	aʃiri	aʃiri	a ʃ i r i	chap1269	-14.8	-62.2	Chapacuran	8	8
+784	95_throw	Throw	orowin	Oro Win	sin	sin	s i n	orow1243	-10.737	-64.0299	Chapacuran	214	214
+785	95_throw	Throw	wanyam	Wanyam	ʃin	ʃin	ʃ i n	wany1246	-12.1	-63.1	Chapacuran	214	214
+786	95_throw	Throw	wari	Wari'	tʃin	tʃin	tʃ i n	wari1268	-10.69948	-64.56152	Chapacuran	214	214
+787	95_throw	Throw	cojubim	Cojubim	pin	pin	p i n	kuyu1236	-11.75	-64.0	Chapacuran	215	215
+788	95_throw	Throw	more	Moré	pwin	pwin	p w i n	itor1239			Chapacuran	215	215
+789	96_tie	Tie	more	Moré	paw	paw	p a w	itor1239			Chapacuran	216	216
+790	96_tie	Tie	orowin	Oro Win	paw	paw	p a w	orow1243	-10.737	-64.0299	Chapacuran	216	216
+791	96_tie	Tie	wanyam	Wanyam	paw	paw	p a w	wany1246	-12.1	-63.1	Chapacuran	216	216
+792	96_tie	Tie	wari	Wari'	pawʔ	pawʔ	p a w ʔ	wari1268	-10.69948	-64.56152	Chapacuran	216	216
+793	96_tie	Tie	cojubim	Cojubim	pip	pip	p i p	kuyu1236	-11.75	-64.0	Chapacuran	217	217
+794	96_tie	Tie	more	Moré	pip	pip	p i p	itor1239			Chapacuran	217	217
+419	51_tongue	Tongue	orowin	Oro Win	tepekejesi	tepekejesi	t e p e k e j e s i	orow1243	-10.737	-64.0299	Chapacuran	120	120
+420	51_tongue	Tongue	tapakura	Tapakura	tapuitakatʃi	tapuitakatʃi	t a p u i t a k a tʃ i	chap1269	-14.8	-62.2	Chapacuran	120	120
+421	51_tongue	Tongue	wari	Wari'	petehwet	petehwet	p e t e h w e t	wari1268	-10.69948	-64.56152	Chapacuran	120	120
+422	51_tongue	Tongue	cojubim	Cojubim	kapajak	kapajak	k a p a j a k	kuyu1236	-11.75	-64.0	Chapacuran	121	121
+423	51_tongue	Tongue	jaru	Jarú	kapiakasi	kapiakasi	k a p i a k a s i	yaru1257	-10.25	-62.0	Chapacuran	121	121
+424	51_tongue	Tongue	kitemoka	Kitemoka	kapikakatʃe	kapikakatʃe	k a p i k a k a tʃ e	kite1237	-16.0	-62.75	Chapacuran	121	121
+425	51_tongue	Tongue	more	Moré	kapajak	kapajak	k a p a j a k	itor1239			Chapacuran	121	121
+426	51_tongue	Tongue	tora	Torá	kapiakiʃiʔ	kapiakiʃiʔ	k a p i a k i ʃ i ʔ	tora1263	-6.19532	-61.7416	Chapacuran	121	121
+427	51_tongue	Tongue	urupa	Urupá	kapiakasi	kapiakasi	k a p i a k a s i	urup1245	-10.25	-62.75	Chapacuran	121	121
+428	51_tongue	Tongue	wanyam	Wanyam	kapijakaʃiʔ	kapijakaʃiʔ	k a p i j a k a ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	121	121
+429	51_tongue	Tongue	wari	Wari'	kapijatʃiʔ	kapijatʃiʔ	k a p i j a tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	121	121
+410	50_tooth	Tooth	jaru	Jarú	itisi	itisi	i t i s i	yaru1257	-10.25	-62.0	Chapacuran	119	119
+411	50_tooth	Tooth	kitemoka	Kitemoka	ijaditʃe	ijaditʃe	i j a d i tʃ e	kite1237	-16.0	-62.75	Chapacuran	119	119
+412	50_tooth	Tooth	more	Moré	jat	jat	j a t	itor1239			Chapacuran	119	119
+413	50_tooth	Tooth	orowin	Oro Win	ijitisi	ijitisi	i j i t i s i	orow1243	-10.737	-64.0299	Chapacuran	119	119
+414	50_tooth	Tooth	tapakura	Tapakura	jatitʃi	jatitʃi	j a t i tʃ i	chap1269	-14.8	-62.2	Chapacuran	119	119
+415	50_tooth	Tooth	tora	Torá	jatiʃi	jatiʃi	j a t i ʃ i	tora1263	-6.19532	-61.7416	Chapacuran	119	119
+416	50_tooth	Tooth	urupa	Urupá	jetisi	jetisi	j e t i s i	urup1245	-10.25	-62.75	Chapacuran	119	119
+417	50_tooth	Tooth	wanyam	Wanyam	ijitiʃiʔ	ijitiʃiʔ	i j i t i ʃ i ʔ	wany1246	-12.1	-63.1	Chapacuran	119	119
+418	50_tooth	Tooth	wari	Wari'	tʃitʃiʔ	tʃitʃiʔ	tʃ i tʃ i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	119	119
+72	11_two	Two	cojubim	Cojubim	wakoran	wakoran	w a k o r a n	kuyu1236	-11.75	-64.0	Chapacuran	24	24
+73	11_two	Two	more	Moré	pokoran	pokoran	p o k o r a n	itor1239			Chapacuran	24	24
+74	11_two	Two	tapakura	Tapakura	wagaragatan	wagaragatan	w a g a r a g a t a n	chap1269	-14.8	-62.2	Chapacuran	24	24
+75	11_two	Two	tora	Torá	kuradn	kuradn	k u r a d n	tora1263	-6.19532	-61.7416	Chapacuran	24	24
+76	11_two	Two	wanyam	Wanyam	karikan	karikan	k a r i k a n	wany1246	-12.1	-63.1	Chapacuran	24	24
+77	11_two	Two	wari	Wari'	tyky karakan	tyky karakan	t y k y + k a r a k a n	wari1268	-10.69948	-64.56152	Chapacuran	24	24
+78	11_two	Two	orowin	Oro Win	jiksam	jiksam	j i k s a m	orow1243	-10.737	-64.0299	Chapacuran	25	25
+79	11_two	Two	tapakura	Tapakura	ajuken	ajuken	a j u k e n	chap1269	-14.8	-62.2	Chapacuran	26	26
+591	69_vomit	Vomit	cojubim	Cojubim	weʔ	weʔ	w e ʔ	kuyu1236	-11.75	-64.0	Chapacuran	154	154
+592	69_vomit	Vomit	jaru	Jarú	we	we	w e	yaru1257	-10.25	-62.0	Chapacuran	154	154
+593	69_vomit	Vomit	more	Moré	we	we	w e	itor1239			Chapacuran	154	154
+594	69_vomit	Vomit	orowin	Oro Win	yweʔ	yweʔ	y w e ʔ	orow1243	-10.737	-64.0299	Chapacuran	154	154
+595	69_vomit	Vomit	wanyam	Wanyam	we	we	w e	wany1246	-12.1	-63.1	Chapacuran	154	154
+596	69_vomit	Vomit	wari	Wari'	weʔ	weʔ	w e ʔ	wari1268	-10.69948	-64.56152	Chapacuran	154	154
+711	85_walk	Walk	cojubim	Cojubim	tot	tot	t o t	kuyu1236	-11.75	-64.0	Chapacuran	192	192
+712	85_walk	Walk	jaru	Jarú	tet	tet	t e t	yaru1257	-10.25	-62.0	Chapacuran	192	192
+713	85_walk	Walk	more	Moré	tut	tut	t u t	itor1239			Chapacuran	192	192
+714	85_walk	Walk	orowin	Oro Win	tyt	tyt	t y t	orow1243	-10.737	-64.0299	Chapacuran	192	192
+715	85_walk	Walk	wanyam	Wanyam	tit	tit	t i t	wany1246	-12.1	-63.1	Chapacuran	192	192
+716	85_walk	Walk	wari	Wari'	tʃyt	tʃyt	tʃ y t	wari1268	-10.69948	-64.56152	Chapacuran	192	192
+768	92_wash	Wash	jaru	Jarú	rokon	rokon	r o k o n	yaru1257	-10.25	-62.0	Chapacuran	208	208
+769	92_wash	Wash	orowin	Oro Win	wirikom	wirikom	w i r i k o m	orow1243	-10.737	-64.0299	Chapacuran	208	208
+770	92_wash	Wash	wanyam	Wanyam	irokon	irokon	i r o k o n	wany1246	-12.1	-63.1	Chapacuran	208	208
+771	92_wash	Wash	wari	Wari'	hohok	hohok	h o h o k	wari1268	-10.69948	-64.56152	Chapacuran	209	209
+772	92_wash	Wash	cojubim	Cojubim	tʃaw	tʃaw	tʃ a w	kuyu1236	-11.75	-64.0	Chapacuran	210	210
+773	92_wash	Wash	more	Moré	tʃaw	tʃaw	tʃ a w	itor1239			Chapacuran	210	210
+774	92_wash	Wash	wanyam	Wanyam	ʃawa	ʃawa	ʃ a w a	wany1246	-12.1	-63.1	Chapacuran	210	210
+840	102_water	Water	cojubim	Cojubim	kom	kom	k o m	kuyu1236	-11.75	-64.0	Chapacuran	234	234
+841	102_water	Water	jaru	Jarú	ko	ko	k o	yaru1257	-10.25	-62.0	Chapacuran	234	234
+842	102_water	Water	kitemoka	Kitemoka	ako	ako	a k o	kite1237	-16.0	-62.75	Chapacuran	234	234
+843	102_water	Water	more	Moré	kom	kom	k o m	itor1239			Chapacuran	234	234
+844	102_water	Water	orowin	Oro Win	kom	kom	k o m	orow1243	-10.737	-64.0299	Chapacuran	234	234
+845	102_water	Water	tapakura	Tapakura	akum	akum	a k u m	chap1269	-14.8	-62.2	Chapacuran	234	234
+846	102_water	Water	tora	Torá	kom	kom	k o m	tora1263	-6.19532	-61.7416	Chapacuran	234	234
+847	102_water	Water	urupa	Urupá	kom	kom	k o m	urup1245	-10.25	-62.75	Chapacuran	234	234
+848	102_water	Water	wanyam	Wanyam	kom	kom	k o m	wany1246	-12.1	-63.1	Chapacuran	234	234
+849	102_water	Water	wari	Wari'	kom	kom	k o m	wari1268	-10.69948	-64.56152	Chapacuran	234	234
+27	4_we	We	kitemoka	Kitemoka	watʃe	watʃe	w a tʃ e	kite1237	-16.0	-62.75	Chapacuran	4	4
+28	4_we	We	more	Moré	watiʔ	watiʔ	w a t i ʔ	itor1239			Chapacuran	4	4
+29	4_we	We	orowin	Oro Win	wariʔ	wariʔ	w a r i ʔ	orow1243	-10.737	-64.0299	Chapacuran	4	4
+30	4_we	We	tapakura	Tapakura	wajahu	wajahu	w a j a h u	chap1269	-14.8	-62.2	Chapacuran	4	4
+31	4_we	We	tora	Torá	wazati	wazati	w a z a t i	tora1263	-6.19532	-61.7416	Chapacuran	4	4
+32	4_we	We	urupa	Urupá	wari	wari	w a r i	urup1245	-10.25	-62.75	Chapacuran	4	4
+33	4_we	We	wanyam	Wanyam	wari	wari	w a r i	wany1246	-12.1	-63.1	Chapacuran	4	4
+34	4_we	We	wari	Wari'	wariʔ	wariʔ	w a r i ʔ	wari1268	-10.69948	-64.56152	Chapacuran	4	4
+951	115_white	White	cojubim	Cojubim	towaʔ	towaʔ	t o w a ʔ	kuyu1236	-11.75	-64.0	Chapacuran	259	259
+952	115_white	White	jaru	Jarú	toa	toa	t o a	yaru1257	-10.25	-62.0	Chapacuran	259	259
+953	115_white	White	more	Moré	towa	towa	t o w a	itor1239			Chapacuran	259	259
+954	115_white	White	orowin	Oro Win	towaʔ	towaʔ	t o w a ʔ	orow1243	-10.737	-64.0299	Chapacuran	259	259
+955	115_white	White	tora	Torá	tuag	tuag	t u a g	tora1263	-6.19532	-61.7416	Chapacuran	259	259
+956	115_white	White	urupa	Urupá	tua	tua	t u a	urup1245	-10.25	-62.75	Chapacuran	259	259
+957	115_white	White	wanyam	Wanyam	towa	towa	t o w a	wany1246	-12.1	-63.1	Chapacuran	259	259
+958	115_white	White	wari	Wari'	towoʔ	towoʔ	t o w o ʔ	wari1268	-10.69948	-64.56152	Chapacuran	259	259
+959	115_white	White	kitemoka	Kitemoka	tihoti	tihoti	t i h o t i	kite1237	-16.0	-62.75	Chapacuran	260	260
+960	115_white	White	tapakura	Tapakura	tahuti	tahuti	t a h u t i	chap1269	-14.8	-62.2	Chapacuran	260	260
+44	7_whowhat	Who/What	more	Moré	ati	ati	a t i	itor1239			Chapacuran	9	9
+45	7_whowhat	Who/What	orowin	Oro Win	ati	ati	a t i	orow1243	-10.737	-64.0299	Chapacuran	9	9
+46	7_whowhat	Who/What	more	Moré	tikow	tikow	t i k o w	itor1239			Chapacuran	10	10
+47	7_whowhat	Who/What	tora	Torá	teokaj	teokaj	t e o k a j	tora1263	-6.19532	-61.7416	Chapacuran	10	10
+48	7_whowhat	Who/What	wari	Wari'	kaɲ	kaɲ	k a ɲ	wari1268	-10.69948	-64.56152	Chapacuran	10	10
+898	108_wind	Wind	orowin	Oro Win	pafotiʔ	pafotiʔ	p a f o t i ʔ	orow1243	-10.737	-64.0299	Chapacuran	242	242
+899	108_wind	Wind	tora	Torá	pahuzi	pahuzi	p a h u z i	tora1263	-6.19532	-61.7416	Chapacuran	242	242
+900	108_wind	Wind	wanyam	Wanyam	pahotiʔ	pahotiʔ	p a h o t i ʔ	wany1246	-12.1	-63.1	Chapacuran	242	242
+901	108_wind	Wind	wari	Wari'	hotowa	hotowa	h o t o w a	wari1268	-10.69948	-64.56152	Chapacuran	242	242
+902	108_wind	Wind	jaru	Jarú	kaho	kaho	k a h o	yaru1257	-10.25	-62.0	Chapacuran	243	243
+903	108_wind	Wind	urupa	Urupá	kako	kako	k a k o	urup1245	-10.25	-62.75	Chapacuran	243	243
+904	108_wind	Wind	cojubim	Cojubim	pujani	pujani	p u j a n i	kuyu1236	-11.75	-64.0	Chapacuran	244	244
+905	108_wind	Wind	more	Moré	pujani	pujani	p u j a n i	itor1239			Chapacuran	244	244
+906	108_wind	Wind	kitemoka	Kitemoka	irin	irin	i r i n	kite1237	-16.0	-62.75	Chapacuran	245	245
+485	57_wing	Wing	cojubim	Cojubim	nipat	nipat	n i p a t	kuyu1236	-11.75	-64.0	Chapacuran	134	134
+486	57_wing	Wing	kitemoka	Kitemoka	ipati-ko	ipati-ko	i p a t i + k o	kite1237	-16.0	-62.75	Chapacuran	134	134
+487	57_wing	Wing	more	Moré	nipat	nipat	n i p a t	itor1239			Chapacuran	134	134
+488	57_wing	Wing	orowin	Oro Win	napatinan	napatinan	n a p a t i n a n	orow1243	-10.737	-64.0299	Chapacuran	134	134
+489	57_wing	Wing	tapakura	Tapakura	hipatʃi	hipatʃi	h i p a tʃ i	chap1269	-14.8	-62.2	Chapacuran	134	134
+490	57_wing	Wing	wanyam	Wanyam	nipat	nipat	n i p a t	wany1246	-12.1	-63.1	Chapacuran	134	134
+491	57_wing	Wing	wari	Wari'	tapatʃi	tapatʃi	t a p a tʃ i	wari1268	-10.69948	-64.56152	Chapacuran	134	134
+102	14_woman	Woman	jaru	Jarú	jamiriman	jamiriman	j a m i r i m a n	yaru1257	-10.25	-62.0	Chapacuran	39	39
+103	14_woman	Woman	orowin	Oro Win	jamirima	jamirima	j a m i r i m a	orow1243	-10.737	-64.0299	Chapacuran	39	39
+104	14_woman	Woman	urupa	Urupá	jamra	jamra	j a m r a	urup1245	-10.25	-62.75	Chapacuran	39	39
+105	14_woman	Woman	wanyam	Wanyam	jamarimaʔ	jamarimaʔ	j a m a r i m a ʔ	wany1246	-12.1	-63.1	Chapacuran	39	39
+106	14_woman	Woman	wari	Wari'	narimaʔ	narimaʔ	n a r i m a ʔ	wari1268	-10.69948	-64.56152	Chapacuran	39	39
+107	14_woman	Woman	cojubim	Cojubim	tanaman	tanaman	t a n a m a n	kuyu1236	-11.75	-64.0	Chapacuran	40	40
+108	14_woman	Woman	more	Moré	tanaman	tanaman	t a n a m a n	itor1239			Chapacuran	40	40
+109	14_woman	Woman	kitemoka	Kitemoka	ɲamaki	ɲamaki	ɲ a m a k i	kite1237	-16.0	-62.75	Chapacuran	41	41
+110	14_woman	Woman	tapakura	Tapakura	jamake	jamake	j a m a k e	chap1269	-14.8	-62.2	Chapacuran	41	41
+111	14_woman	Woman	tora	Torá	nakamin	nakamin	n a k a m i n	tora1263	-6.19532	-61.7416	Chapacuran	41	41
+219	27_worm	Worm	jaru	Jarú	emete	emete	e m e t e	yaru1257	-10.25	-62.0	Chapacuran	68	68
+220	27_worm	Worm	orowin	Oro Win	emeteʔ	emeteʔ	e m e t e ʔ	orow1243	-10.737	-64.0299	Chapacuran	68	68
+221	27_worm	Worm	wari	Wari'	meteʔ	meteʔ	m e t e ʔ	wari1268	-10.69948	-64.56152	Chapacuran	68	68
+222	27_worm	Worm	more	Moré	natanatan	natanatan	n a t a n a t a n	itor1239			Chapacuran	69	69
+223	27_worm	Worm	wanyam	Wanyam	akak	akak	a k a k	wany1246	-12.1	-63.1	Chapacuran	70	70
+947	114_yellow	Yellow	wari	Wari'	kotʃik	kotʃik	k o tʃ i k	wari1268	-10.69948	-64.56152	Chapacuran	256	256
+948	114_yellow	Yellow	more	Moré	sasik	sasik	s a s i k	itor1239			Chapacuran	257	257
+949	114_yellow	Yellow	kitemoka	Kitemoka	atʃiwi	atʃiwi	a tʃ i w i	kite1237	-16.0	-62.75	Chapacuran	258	258
+950	114_yellow	Yellow	tapakura	Tapakura	ituwi	ituwi	i t u w i	chap1269	-14.8	-62.2	Chapacuran	258	258
+35	5_youpl	You pl.	more	Moré	wura	wura	w u r a	itor1239			Chapacuran	5	5
+36	5_youpl	You pl.	orowin	Oro Win	fuʔ	fuʔ	f u ʔ	orow1243	-10.737	-64.0299	Chapacuran	5	5
+37	5_youpl	You pl.	tora	Torá	wihu	wihu	w i h u	tora1263	-6.19532	-61.7416	Chapacuran	5	5
+38	5_youpl	You pl.	wari	Wari'	wahuʔ	wahuʔ	w a h u ʔ	wari1268	-10.69948	-64.56152	Chapacuran	5	5
+10	2_yousg	You sg.	cojubim	Cojubim	um	um	u m	kuyu1236	-11.75	-64.0	Chapacuran	2	2
+11	2_yousg	You sg.	kitemoka	Kitemoka	ahum	ahum	a h u m	kite1237	-16.0	-62.75	Chapacuran	2	2
+12	2_yousg	You sg.	more	Moré	momra	momra	m o m r a	itor1239			Chapacuran	2	2
+13	2_yousg	You sg.	orowin	Oro Win	wym	wym	w y m	orow1243	-10.737	-64.0299	Chapacuran	2	2
+14	2_yousg	You sg.	tapakura	Tapakura	awimo	awimo	a w i m o	chap1269	-14.8	-62.2	Chapacuran	2	2
+15	2_yousg	You sg.	tora	Torá	webm	webm	w e b m	tora1263	-6.19532	-61.7416	Chapacuran	2	2
+16	2_yousg	You sg.	urupa	Urupá	vim	vim	v i m	urup1245	-10.25	-62.75	Chapacuran	2	2
+17	2_yousg	You sg.	wanyam	Wanyam	im	im	i m	wany1246	-12.1	-63.1	Chapacuran	2	2
+18	2_yousg	You sg.	wari	Wari'	wum	wum	w u m	wari1268	-10.69948	-64.56152	Chapacuran	2	2

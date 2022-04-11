@@ -1,0 +1,72 @@
+{
+  "bremerberta": {
+    "subgroup": "family",
+    "name": "Berta",
+    "path": "lexibank/bremerberta",
+    "version": "1a6ee5f4",
+    "cognates": ""
+  },
+  "wangbai": {
+    "subgroup": "family",
+    "name": "Sino-Tibetan",
+    "path": "lexibank/wangbai",
+    "version": "v1.0",
+    "cognates": ""
+  },
+  "beidazihui": {
+    "subgroup": "family",
+    "name": "Sino-Tibetan",
+    "path": "lexibank/beidazihui",
+    "version": "734b1e5",
+    "cognates": "partial_cognacy"
+  },
+  "hillburmish": {
+    "subgroup": "family",
+    "name": "Sino-Tibetan",
+    "path": "lexibank/hillburmish",
+    "version": "81925a29",
+    "cognates": "partial_cognacy"
+  },
+  "deepadungpalaung": {
+    "subgroup": "subgroup",
+    "name": "Palaung",
+    "path": "lexibank/deepadungpalaung",
+    "version": "84ddd12",
+    "cognates": "partial_cognacy"
+  },
+  "luangthongkumkaren": {
+    "subgroup": "family",
+    "name": "Sino-Tibetan",
+    "path": "lexibank/luangthongkumkaren",
+    "version": "76b35e8",
+    "cognates": "partial_cognacy"
+  },
+  "bodtkhobwa": {
+    "subgroup": "subgroup",
+    "name": "Western Kho-Bwa",
+    "path": "lexibank/bodtkhobwa",
+    "version": "ce10e92",
+    "cognates": "partial_cognacy"
+  },
+  "birchallchapacuran": {
+    "subgroup": "family",
+    "name": "Chapacuran",
+    "path": "lexibank/birchallchapacuran",
+    "version": "38223f9",
+    "cognates": "cognacy"
+  },
+  "kesslersignificance": {
+    "subgroup": "family",
+    "name": "Indo-European",
+    "path": "lexibank/kesslersignificance",
+    "version": "v1.0",
+    "cognates": "cogid_cognateset_id"
+  },
+  "bantubvd": {
+    "subgroup": "family",
+    "name": "Atlantic-Congo",
+    "path": "lexibank/bantubvd",
+    "version": "v4.0",
+    "cognates": ""
+  }
+}

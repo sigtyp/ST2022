@@ -12,47 +12,18 @@ import networkx as nx
 from networkx.algorithms.clique import find_cliques
 from lingpy.align.sca import get_consensus
 from lingpy.sequence.sound_classes import prosodic_string, class2tokens
-from lingpy.sequence.ngrams import get_n_ngrams
 from lingpy.align.multiple import Multiple
+from lingrex.reconstruct import CorPaRClassifier, transform_alignment
+from lingrex.util import bleu_score
 from itertools import combinations
 from tabulate import tabulate
 import json
+from tqdm import tqdm as progressbar
 import math
 
 
-def bleu_score(word, reference, n=4, weights=None, trim=False):
-    """
-    Compute the BLEU score for predicted word and reference.
-    """
-
-    if not weights:
-        weights = [1/n for x in range(n)]
-    
-    scores = []
-    for i in range(1, n+1):
-        
-        new_wrd = list(get_n_ngrams(word, i))
-        new_ref = list(get_n_ngrams(reference, i))
-        if trim and i > 1:
-            new_wrd = new_wrd[i-1:-(i-1)]
-            new_ref = new_ref[i-1:-(i-1)]
-
-        clipped, divide = [], []
-        for itm in set(new_wrd):
-            clipped += [new_ref.count(itm)]
-            divide += [new_wrd.count(itm)]
-        scores += [sum(clipped) / sum(divide)]
-
-    # calculate arithmetic mean
-    out_score  = 1
-    for weight, score in zip(weights, scores):
-        out_score = out_score * (score ** weight)
-    
-    if len(word) > len(reference):
-        bp = 1
-    else:
-        bp = math.e ** (1-(len(reference)/len(word)))
-    return bp * (out_score ** (1/sum(weights)))
+def sigtypst2022_path(*comps):
+    return Path(__file__).parent.parent.joinpath(*comps)
 
 
 def download(datasets, pth):
@@ -146,17 +117,17 @@ def prepare(datasets, datapath, cldfdatapath, runs=1000):
             part.partial_cluster(method="lexstat", threshold=0.45, ref="cogids",
                     cluster_method="infomap")
             ref = "cogids"
-        elif conditions["cognates"] == "cognacy":
+        elif conditions["cognates"] in ["cognacy", "partial_cognacy"]:
             part = Wordlist(D)
             ref = "cogids"
             C = {}
             for idx in part:
-                C[idx] = basictypes.ints(part[idx, "cognacy"])
-            part.add_entries("cogids", C, lambda x: x)
+                C[idx] = basictypes.ints(part[idx, conditions["cognates"]])
+            part.add_entries(ref, C, lambda x: x)
         else:
             part = Wordlist(D)
             ref = "cogid"
-        cognates = get_cognates(part, ref)            
+        cognates = get_cognates(part, ref)
 
         if datapath.joinpath(dataset).exists():
             pass
@@ -169,8 +140,11 @@ def prepare(datasets, datapath, cldfdatapath, runs=1000):
                 for language in part.cols:
                     f.write("\t{0}".format(idxs[language]))
                 f.write("\n")
-        wl.output(
+        part.output(
                 "tsv", filename=datapath.joinpath(dataset, "wordlist").as_posix(), ignore="all", prettify=False)
+
+
+
 
 
 def load_cognate_file(path):
@@ -315,117 +289,6 @@ def ungap(alignment, languages, proto):
     return alignment
 
 
-class CorPaRClassifier(object):
-
-    def __init__(self, minrefs=2, missing=0, threshold=1):
-        """
-        Word prediction method adopted from List (2019).
-        """
-        self.G = nx.Graph()
-        self.missing = 0
-        self.threshold = threshold
-
-    def compatible(self, ptA, ptB):
-        match_, mismatch = 0, 0
-        for a, b in zip(ptA, ptB):
-            if not a or not b:
-                pass
-            elif a == b:
-                match_ += 1
-            else:
-                mismatch += 1
-        return match_, mismatch
-
-    def consensus(self, nodes):
-        
-        cons = []
-        for i in range(len(nodes[0])):
-            nocons = True
-            for node in nodes:
-                if node[i] != self.missing:
-                    cons += [node[i]]
-                    nocons = False
-                    break
-            if nocons:
-                cons += [self.missing]
-        return tuple(cons)
-
-    def fit(self, X, y):
-        """
-        Fit the data to the classifier.
-        """
-        # get identical patterns
-        P = defaultdict(list)
-        for i, row in enumerate(X):
-            P[tuple(row+[y[i]])] += [i]
-        # make graph
-        for (pA, vA), (pB, vB) in combinations(P.items(), r=2):
-            match, mismatch = self.compatible(pA, pB)
-            if not mismatch and match >= self.threshold:
-                if not pA in self.G:
-                    self.G.add_node(pA, freq=len(vA))
-                if not pB in self.G:
-                    self.G.add_node(pB, freq=len(vB))
-                self.G.add_edge(pA, pB, weight=match)
-        self.patterns = defaultdict(lambda : defaultdict(list))
-        self.lookup = defaultdict(lambda : defaultdict(int))
-        # get cliques
-        for nodes in find_cliques(self.G):
-            cons = self.consensus(list(nodes))
-            self.patterns[cons[:-1]][cons[-1]] = len(nodes)
-            for node in nodes:
-                self.lookup[node[:-1]][cons[:-1]] += len(nodes)
-        self.candidates = {}
-        self.predictions = {}
-        for ptn in self.patterns:
-            self.predictions[ptn] = [x for x, y in sorted(
-                self.patterns[ptn].items(),
-                key=lambda p: p[1],
-                reverse=True)][0]
-        for ptn in self.lookup:
-            ptnB = [x for x, y in sorted(self.lookup[ptn].items(),
-                key=lambda p: p[1],
-                reverse=True)][0]
-            self.predictions[ptn] = self.predictions[ptnB]
-
-        # make index of data points for quick search based on attested data
-        self.ptnlkp = defaultdict(list)
-        for ptn in self.patterns:
-            for i in range(len(ptn)):
-                if ptn[i] != self.missing:
-                    self.ptnlkp[i, ptn[i]] += [ptn]
-
-    def predict(self, matrix):
-        out = []
-        for row in matrix:
-            ptn = tuple(row)
-            try:
-                out += [self.predictions[ptn]]
-            except KeyError:
-                candidates = []
-                visited = set()
-                for i in range(len(ptn)-1):
-                    if ptn[i] != self.missing:
-                        for ptnB in self.ptnlkp[i, ptn[i]]:
-                            if ptnB not in visited:
-                                visited.add(ptnB)
-                                match, mismatch = self.compatible(ptn, ptnB)
-                                if match and not mismatch:
-                                    candidates += [(ptnB, match+len(ptn))]
-                                elif match-mismatch:
-                                    candidates += [(ptnB, match-mismatch)]
-                if candidates:
-                    ptn = [x for x, y in sorted(
-                        candidates,
-                        key=lambda p: p[1],
-                        reverse=True)][0]
-                    self.predictions[tuple(row)] = self.predictions[ptn]
-                    out += [self.predictions[tuple(row)]]
-                else:
-                    out += [self.missing]
-        return out
-
-
 def simple_align(
         seqs, 
         languages, 
@@ -438,28 +301,10 @@ def simple_align(
     """
     Simple alignment function that inserts entries for missing data.
     """
-    if align:
-        seqs = [[s for s in seq if s != gap] for seq in seqs]
-        msa = Multiple([[s for s in seq if s != gap] for seq in seqs])
-        msa.prog_align()
-        alms = [alm for alm in msa.alm_matrix]
-    else:
-        seqs = [[s for s in seq if s != gap] for seq in seqs]
-        alms = normalize_alignment([s for s in seqs])
-    if training:
-        alms = ungap(alms, languages, languages[-1])
-        these_seqs = seqs[:-1]
-    else:
-        these_seqs = seqs
-    matrix = [[missing for x in all_languages] for y in alms[0]]
-    for i in range(len(alms[0])):
-        for j, lng in enumerate(languages):
-            lidx = all_languages.index(lng)
-            matrix[i][lidx] = alms[j][i]    
-    # for debugging
-    for row in matrix:
-        assert len(row) == len(matrix[0])
-    return matrix
+    return transform_alignment(
+            seqs, languages, all_languages, align=align,
+            training=training, missing=missing, gap=gap, startend=False,
+            prosody=False, position=False, firstlast=False)
 
 
 class Baseline(object):
@@ -516,11 +361,14 @@ class Baseline(object):
         for language in self.languages:
             for cogid, languages, alms in self.alignments[language]:
                 alm_matrix = self.func(
-                        alms, languages, self.languages,
+                        #alms, languages, self.languages,
+                        alms, languages, [l for l in self.languages if l !=
+                            language]+[language],
                         training=True)
                 for i, row in enumerate(alm_matrix):
-                    ptn = tuple(row[:len(self.languages)-1])
-                    self.patterns[language][ptn][row[-1]] += [(cogid, i)]
+                    ptn = tuple(row[:len(self.languages)]+row[len(self.languages)+1:])
+                    self.patterns[language][ptn][row[len(self.languages)-1]] += [(cogid, i)]
+
                     for sound in ptn:
                         sounds.add(sound)
                     sounds.add(row[-1])
@@ -529,7 +377,7 @@ class Baseline(object):
         self.sound2idx[self.missing] = 0
         self.idx2sound = {v: k for k, v in self.sound2idx.items()}
 
-        for language in self.languages:
+        for language in progressbar(self.languages, desc="fitting classifiers"):
             for pattern, sounds in self.patterns[language].items():
                 for sound, vals in sounds.items():
                     target = self.sound2idx[sound]
@@ -537,11 +385,9 @@ class Baseline(object):
                     for cogid, idx in vals:
                         self.matrices[language] += [row]
                         self.solutions[language] += [target]
-            print("[i] fitting classifier for {0}".format(language))
             self.classifiers[language].fit(
                     self.matrices[language],
                     self.solutions[language])
-            print('... fitted the classifier')
     
     def predict(self, languages, alignments, target, unknown="?"):
         
@@ -565,7 +411,7 @@ def predict_words(ifile, pfile, ofile):
     bs.fit()
     languages, sounds, testdata = load_cognate_file(pfile)
     predictions = defaultdict(dict)
-    for cogid, values in testdata.items():
+    for cogid, values in progressbar(testdata.items(), desc="predicting words"):
         alms, current_languages = [], []
         target = ""
         for language in languages:
@@ -575,9 +421,9 @@ def predict_words(ifile, pfile, ofile):
             elif " ".join(values[language]) == "?":
                 target = language
 
-            if alms and target:
-                out = bs.predict(current_languages, alms, target)
-                predictions[cogid][target] = out
+        if alms and target:
+            out = bs.predict(current_languages, alms, target)
+            predictions[cogid][target] = out
     write_cognate_file(bs.languages, predictions, ofile)
 
 
@@ -745,6 +591,12 @@ def main(*args):
             default=0.2,
             help="Define the proportion of test data to analyze with the baseline."
             )
+    parser.add_argument(
+            "--test-path",
+            action="store",
+            default=None,
+            help="Provide path to the test data for a given system"
+            )
 
     args = parser.parse_args(*args)
     if args.seed:
@@ -781,10 +633,14 @@ def main(*args):
     if args.evaluate:
         prop = "{0:.2f}".format(args.proportion)
         if args.all:
+            if not args.test_path:
+                pth = args.datapath
+            else:
+                pth = Path(args.test_path)
             results = []
             for data, conditions in DATASETS.items():
                 results += [compare_words(
-                        args.datapath.joinpath(data, "result-"+prop+".tsv"),
+                        pth.joinpath(data, "result-"+prop+".tsv"),
                         args.datapath.joinpath(data,
                             "solutions-"+prop+".tsv"),
                         report=False)[-1]]

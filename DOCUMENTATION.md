@@ -9,7 +9,9 @@ $ cd ST2022
 $ pip install -e .
 ```
 
-## Initializing the Development Data
+## 2 Initializing the Data
+
+### 2.1 Development Data
 
 Development data is derived from CLDF datasts (https://cldf.clld.org) from the Lexibank repository (https://github.com/lexibank/lexibank-analysed). Participants of the shared task do not need to follow these steps, abut we document htem here for completeness.
 
@@ -41,9 +43,32 @@ This will prepeare test-training splits in five versions (proportions of 0.1, 0.
 
 Note that these two steps are already carried out as part of the release of the development data. So you can test them for curiosity, but there is no need to run them, since we provide all data in the folder `data`.
 
+As a short cut, you can also use our Makefile and type:
+
+```
+$ make prepare-training
+```
+
+### 2.2 Surprise Data
+
+The JSON file containing the links to the suprise datasets is called `data-surprise.json`, so in all commands, you have to replace `dataset.json` with `data-surprise.json`. While we download CLDF datasets into the same `cldf-data` folder (for convenience), we make a clear distinction, downloading data now to a `data-surprise` folder. 
+
+```
+$ st2022 --download --cldf-data=cldf-data --datapath=data-surprise --datasets=datasets-surprise.json
+$ st2022 --prepare --cldf-data=cldf-data --datapath=data-surprise --datasets=datasets-surprise.json --runs=10000
+$ st2022 --split --datapath=data-surprise --datasets=datasets-surprise.json --seed
+```
+
+As a short cut, you can also use our Makefile and type:
+
+```
+$ make prepare-surprise
+```
+
+
 ## 3 Analyzing the Data with the Baseline
 
-The baseline is based on a study by List (2019) but was slightly adapted here, so that it works swiftly with the specific data and is also specifically targeted at word prediction. To run this baseline for all datasets with a proportion of 0.2, you just need to type:
+The baseline is based on a study by List (2019) but was slightly adapted here, as described in a forthcoming study by List et al. (forthcoming), so that it works swiftly with the specific data and is also specifically targeted at word prediction. To run this baseline for all datasets with a proportion of 0.2 on the development data, you just need to type:
 
 ```
 $ st2022 --predict --proportion=0.2 --all --datapath=data
@@ -51,11 +76,27 @@ $ st2022 --predict --proportion=0.2 --all --datapath=data
 
 This will apply the baseline procedure to the data, and predict words for all test data files that indicate that they contain a proportion of 0.2 of the whole datasets (that is: 20%). The results are written to files `data/DATASETID/results-0.20.tsv`. 
 
-Baseline results have already been computed with this release and are available from the repository, so they do not need to be repeated, but they can be repeated for curiosity.
+Accordingly, for the suprise data, you type:
+
+```
+$ st2022 --predict --proportion=0.1 --all --datapath=data-surprise --datasets=datasets-surprise.json
+```
+
+Baseline results for development and surprise data have already been computed with this release and are available from the repository, so they do not need to be repeated, but they can be repeated for curiosity.
+
+As a short cut, you can also use our Makefile and type:
+
+```
+$ make predict-training
+$ make predict-surprise
+```
+
 
 # 4 Evaluating Results
 
-We offer a rather straightforward routine to check your results against the solutions. 
+We offer a rather straightforward routine to check your results against the solutions.
+
+For the development data, for example, you can type: 
 
 ```
 $ st2022 --compare --prediction-file=data/allenbai/result-0.20.tsv --solution-file=data/allenbai/solutions-0.20.tsv
@@ -66,16 +107,39 @@ This will yield the following output:
 ``` 
 Language       ED    ED (Normalized)    B-Cubed FS    BLEU
 ----------  -----  -----------------  ------------  ------
-Eryuan      0.526              0.173         0.791   0.746
-Heqing      1.041              0.332         0.691   0.562
-Jianchuan   0.804              0.268         0.753   0.627
-Lanping     1.273              0.399         0.643   0.458
-Luobenzhuo  2.000              0.656         0.444   0.224
-Qiliqiao    0.438              0.137         0.819   0.794
-Xiangyun    0.830              0.274         0.737   0.606
-Yunlong     0.521              0.166         0.817   0.761
-Zhoucheng   0.320              0.104         0.861   0.846
-TOTAL       0.861              0.279         0.728   0.625
+Eryuan      0.325              0.107         0.857   0.835
+Heqing      0.701              0.223         0.749   0.682
+Jianchuan   0.345              0.115         0.835   0.828
+Lanping     1.067              0.338         0.629   0.522
+Luobenzhuo  1.701              0.558         0.468   0.321
+Qiliqiao    0.526              0.166         0.782   0.753
+Xiangyun    0.670              0.219         0.715   0.685
+Yunlong     0.541              0.180         0.773   0.749
+Zhoucheng   0.325              0.106         0.856   0.842
+TOTAL       0.689              0.224         0.741   0.691
+```
+
+For the surprise data, you can type accordingly:
+
+```
+$ st2022 --compare --prediction-file=data-surprise/wangbai/result-0.10.tsv --solution-file=data-surprise/wangbai/solutions-0.10.tsv
+```
+This then yields the following output:
+
+```
+Language       ED    ED (Normalized)    B-Cubed FS    BLEU
+----------  -----  -----------------  ------------  ------
+Dashi       0.818              0.247         0.759   0.626
+Ega         0.515              0.153         0.810   0.769
+Enqi        0.530              0.158         0.818   0.764
+Gongxing    0.818              0.244         0.789   0.654
+Jinman      0.758              0.237         0.763   0.640
+Jinxing     0.470              0.137         0.839   0.788
+Mazhelong   0.545              0.162         0.815   0.762
+ProtoBai    0.636              0.161         0.820   0.757
+Tuoluo      0.576              0.159         0.810   0.763
+Zhoucheng   0.561              0.183         0.825   0.734
+TOTAL       0.623              0.184         0.805   0.726
 ```
 
 The column ED yields the un-normalized edit distance between prediction and attested word or morpheme. The column ED (Normalized) is the normalized score, and the column B-Cubed FS provides B-Cubed scores, following the suggestion of List (2019b) for computing B-Cubed scores instead of edit distances, which rank between 1 (perfect agreement) and 0. The column BLEU provides BLEU scores (Papineni et al. 2002) in a new implementation that was tested to yield the scores as the NLTK implementation (`nltk.translation.sentence_bleu`).
@@ -83,7 +147,7 @@ The column ED yields the un-normalized edit distance between prediction and atte
 To compute the evaluation for the entire data, just type:
 
 ```
-$ st2022 --evaluate --datapath=data --datasets=datasets.json --all --proportion=0.2
+$ st2022 --evaluate --datapath=data --datasets=datasets.json --all --proportion=0.1
 ```
 
 The result here will summarize the scores per dataset:
@@ -91,16 +155,39 @@ The result here will summarize the scores per dataset:
 ```
 DATASET                       ED    ED (NORM)    B-CUBED FS    BLEU
 -------------------------  -----  -----------  ------------  ------
-abrahammonpa               0.681        0.124         0.812   0.803
-allenbai                   0.861        0.279         0.728   0.625
-backstromnorthernpakistan  1.197        0.256         0.774   0.606
-castrosui                  0.332        0.081         0.903   0.868
-davletshinaztecan          3.310        0.490         0.537   0.319
-felekesemitic              3.254        0.556         0.476   0.274
-hantganbangime             2.697        0.616         0.422   0.254
-hattorijaponic             1.364        0.302         0.702   0.586
-listsamplesize             3.922        0.694         0.345   0.180
-mannburmish                2.596        0.646         0.402   0.204
+abrahammonpa               0.550        0.117         0.909   0.801
+allenbai                   0.721        0.235         0.765   0.678
+backstromnorthernpakistan  0.891        0.180         0.858   0.720
+castrosui                  0.161        0.040         0.951   0.935
+davletshinaztecan          2.074        0.331         0.644   0.520
+felekesemitic              1.462        0.274         0.693   0.593
+hantganbangime             1.311        0.326         0.621   0.540
+hattorijaponic             0.936        0.198         0.789   0.719
+listsamplesize             3.405        0.640         0.405   0.210
+mannburmish                1.990        0.525         0.512   0.315
+```
+
+Accordingly, for the surprise data, you type:
+
+```
+$ st2022 --evaluate --proportion=0.1 --all --datapath=data-surprise --datasets=datasets-surprise.json
+```
+
+And the resulting table looks like the following one.
+
+```
+DATASET                 ED    ED (NORM)    B-CUBED FS    BLEU
+-------------------  -----  -----------  ------------  ------
+bantubvd             1.130        0.261         0.784   0.609
+beidazihui           1.100        0.301         0.728   0.578
+birchallchapacuran   1.627        0.313         0.649   0.533
+bodtkhobwa           0.488        0.202         0.757   0.722
+bremerberta          1.725        0.326         0.719   0.501
+deepadungpalaung     1.075        0.420         0.760   0.441
+hillburmish          1.205        0.329         0.651   0.558
+kesslersignificance  2.773        0.704         0.492   0.162
+luangthongkumkaren   0.378        0.102         0.910   0.837
+wangbai              0.623        0.184         0.805   0.726
 ```
 
 You can also evoke the evaluation by using the `sigtypst2022` package directly.
@@ -119,6 +206,16 @@ You can also evoke the evaluation by using the `sigtypst2022` package directly.
  ['Zhoucheng', 0.31958762886597936, 0.10524054982817864, 0.8562898366404019],
  ['TOTAL', 0.8402061855670103, 0.2726231386025201, 0.7312941498658502]]
 ```
+
+As a short cut, you can also use our Makefile and type:
+
+```
+$ make evaluate-training
+$ make evaluate-surprise
+```
+
+This will evaluate the data for all proportions.
+
 
 # 5 Loading Data
 
