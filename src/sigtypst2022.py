@@ -22,6 +22,8 @@ from tqdm import tqdm as progressbar
 import math
 
 
+def sigtypst2022_path(*comps):
+    return Path(__file__).parent.parent.joinpath(*comps)
 
 
 def download(datasets, pth):
@@ -359,11 +361,14 @@ class Baseline(object):
         for language in self.languages:
             for cogid, languages, alms in self.alignments[language]:
                 alm_matrix = self.func(
-                        alms, languages, self.languages,
+                        #alms, languages, self.languages,
+                        alms, languages, [l for l in self.languages if l !=
+                            language]+[language],
                         training=True)
                 for i, row in enumerate(alm_matrix):
                     ptn = tuple(row[:len(self.languages)]+row[len(self.languages)+1:])
                     self.patterns[language][ptn][row[len(self.languages)-1]] += [(cogid, i)]
+
                     for sound in ptn:
                         sounds.add(sound)
                     sounds.add(row[-1])
@@ -416,9 +421,9 @@ def predict_words(ifile, pfile, ofile):
             elif " ".join(values[language]) == "?":
                 target = language
 
-            if alms and target:
-                out = bs.predict(current_languages, alms, target)
-                predictions[cogid][target] = out
+        if alms and target:
+            out = bs.predict(current_languages, alms, target)
+            predictions[cogid][target] = out
     write_cognate_file(bs.languages, predictions, ofile)
 
 
@@ -586,6 +591,12 @@ def main(*args):
             default=0.2,
             help="Define the proportion of test data to analyze with the baseline."
             )
+    parser.add_argument(
+            "--test-path",
+            action="store",
+            default=None,
+            help="Provide path to the test data for a given system"
+            )
 
     args = parser.parse_args(*args)
     if args.seed:
@@ -622,10 +633,14 @@ def main(*args):
     if args.evaluate:
         prop = "{0:.2f}".format(args.proportion)
         if args.all:
+            if not args.test_path:
+                pth = args.datapath
+            else:
+                pth = Path(args.test_path)
             results = []
             for data, conditions in DATASETS.items():
                 results += [compare_words(
-                        args.datapath.joinpath(data, "result-"+prop+".tsv"),
+                        pth.joinpath(data, "result-"+prop+".tsv"),
                         args.datapath.joinpath(data,
                             "solutions-"+prop+".tsv"),
                         report=False)[-1]]
