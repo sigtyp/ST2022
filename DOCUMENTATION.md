@@ -36,7 +36,7 @@ This will load the CLDF datasets, analyze them with LingPy (https://lingpy.org) 
 Finally, to split the datasets into a training and a test set, which allows you to develop your systems, just type:
 
 ```
-$ st2022 --split --datapath=data --datasets=dataset.json --seed
+$ st2022 --split --datapath=data --datasets=datasets.json --seed
 ```
 
 This will prepeare test-training splits in five versions (proportions of 0.1, 0.2, 0.3, 0.4, and 0.5 retained for testing). It will produce three files per dataset and proportion, all stored in the folder `data/DATASETID`. A file `solutions-{PROP}.tsv` (e.g., `solutions-0.10.tsv`), containing the solutions, and no further entries in our tabular format with languages as columns and cognate sets as rows. A file `training-{PROP}.tsv` (`training-0.10.tsv`) containing the training data, and a file `test-{PROP}.tsv` (`test-0.20.tsv`), containing the training data. In the latter file, the words that should be predicted are indicated by a `?`.

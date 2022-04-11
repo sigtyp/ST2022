@@ -16,6 +16,7 @@ In 2022, SIGTYP is hosting a shared task on predicting words and morphemes from 
 * [Code Base and Data](https://github.com/sigtyp/ST2022/tree/v0.2)
 * [Documentation of Data and Software](https://github.com/sigtyp/ST2022/blob/v0.2/DOCUMENTATION.md)
 
+
 ## 1 The Reflex Prediction Task
 
 In historical-comparative linguistics, scholars typically assemble words from
@@ -114,5 +115,6 @@ In order to participate in the shared task, we ask participants to write their c
 # 7 Concluding Remarks
 
 In case of questions, we kindly ask to raise issues, which we will try to answer as quickly as possible. In order to guarantee that users use the same datasets and the same code basis to access the data, we will provide releases of this code base. If problems should be detected at a later stage, we can make a new release and ask all users to switch to the most recent version. 
+
 
 
