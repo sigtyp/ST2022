@@ -5,7 +5,7 @@ In 2022, SIGTYP is hosting a shared task on predicting words and morphemes from 
 **Important Dates**
 
 * Feb 21, 2022: Training data and baseline are released at https://github.com/sigtyp/ST2022/tree/v0.2
-* Apr 11, 2022: Test data released at https://github.com/sigtyp/ST2022/tree/v1.0
+* Apr 11, 2022: Test data released at https://github.com/sigtyp/ST2022/tree/v1.1
 * Apr 25, 2022: System submissions are due    
 * May 13, 2022: System description papers are due
 * May 20, 2022: Camera-ready papers due
@@ -13,8 +13,8 @@ In 2022, SIGTYP is hosting a shared task on predicting words and morphemes from 
 **Important Links**
 
 * [Register for the task](https://docs.google.com/forms/d/e/1FAIpQLSdKvUOOUQSUpbOCWGR6a3zXUTEhhDqTRIXwhlgPwGPrpNpPcQ/viewform?usp=sf_link)
-* [Code Base and Data](https://github.com/sigtyp/ST2022/tree/v1.0)
-* [Documentation of Data and Software](https://github.com/sigtyp/ST2022/blob/v1.0/DOCUMENTATION.md)
+* [Code Base and Data](https://github.com/sigtyp/ST2022/tree/v1.1)
+* [Documentation of Data and Software](https://github.com/sigtyp/ST2022/blob/v1.1/DOCUMENTATION.md)
 
 
 ## 1 The Reflex Prediction Task
