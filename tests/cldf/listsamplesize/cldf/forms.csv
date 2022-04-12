@@ -1,0 +1,199 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
+german-965_world-1,,german,965_world,Welt,vɛlt,v ɛ l t,,List2014c,,false,^ v ɛ l t $,default
+french-965_world-1,,french,965_world,monde,mɔ̃d,m ɔ̃ d,,List2014c,,false,^ m ɔ̃ d $,default
+dutch-965_world-1,,dutch,965_world,wereld,weːrəlt,w eː r ə l t,,List2014c,,false,^ w eː r ə l t $,default
+english-965_world-1,,english,965_world,world,wɜːld,w ɜː l d,,List2014c,,false,^ w ɜː l d $,default
+german-964_earthland-1,,german,964_earthland,Erde,eːrdə,eː r d ə,,List2014c,,false,^ eː r d ə $,default
+german-964_earthland-2,,german,964_earthland,Land,lant,l a n t,,List2014c,,false,^ l a n t $,default
+french-964_earthland-1,,french,964_earthland,terre,tɛʁ,t ɛ ʁ,,List2014c,,false,^ t ɛ ʁ $,default
+dutch-964_earthland-1,,dutch,964_earthland,land,lɑnt,l ɑ n t,,List2014c,,false,^ l ɑ n t $,default
+english-964_earthland-1,,english,964_earthland,land,lænd,l æ n d,,List2014c,,false,^ l æ n d $,default
+german-963_earthgroundsoil-1,,german,963_earthgroundsoil,Erde,eːrdə,eː r d ə,,List2014c,,false,^ eː r d ə $,default
+german-963_earthgroundsoil-2,,german,963_earthgroundsoil,Boden,boːdən,b oː d ə n,,List2014c,,false,^ b oː d ə n $,default
+french-963_earthgroundsoil-1,,french,963_earthgroundsoil,terre,tɛʁ,t ɛ ʁ,,List2014c,,false,^ t ɛ ʁ $,default
+french-963_earthgroundsoil-2,,french,963_earthgroundsoil,sol,sɔl,s ɔ l,,List2014c,,false,^ s ɔ l $,default
+dutch-963_earthgroundsoil-1,,dutch,963_earthgroundsoil,bodem,boːdəm,b oː d ə m,,List2014c,,false,^ b oː d ə m $,default
+english-963_earthgroundsoil-1,,english,963_earthgroundsoil,soil,sɔɪl,s ɔ ɪ l,,List2014c,,true,^ s ɔ ɪ l $,default
+german-960_mud-1,,german,960_mud,Schlamm,ʃlam,ʃ l a m,,List2014c,,false,^ ʃ l a m $,default
+german-960_mud-2,,german,960_mud,Dreck,drɛk,d r ɛ k,,List2014c,,false,^ d r ɛ k $,default
+french-960_mud-1,,french,960_mud,boue,bu,b u,,List2014c,,false,^ b u $,default
+dutch-960_mud-1,,dutch,960_mud,modder,mɔdər,m ɔ d ə r,,List2014c,,false,^ m ɔ d ə r $,default
+english-960_mud-1,,english,960_mud,mud,mʌd,m ʌ d,,List2014c,,false,^ m ʌ d $,default
+german-961_sand-1,,german,961_sand,Sand,zant,z a n t,,List2014c,,false,^ z a n t $,default
+french-961_sand-1,,french,961_sand,sable,sɑbl,s ɑ b l,,List2014c,,false,^ s ɑ b l $,default
+dutch-961_sand-1,,dutch,961_sand,zand,zɑnt,z ɑ n t,,List2014c,,false,^ z ɑ n t $,default
+english-961_sand-1,,english,961_sand,sand,sænd,s æ n d,,List2014c,,false,^ s æ n d $,default
+german-959_mountainhill-1,,german,959_mountainhill,Berg,bɛrk,b ɛ r k,,List2014c,,false,^ b ɛ r k $,default
+german-959_mountainhill-2,,german,959_mountainhill,Hügel,hyːɡəl,h yː ɡ ə l,,List2014c,,false,^ h yː ɡ ə l $,default
+french-959_mountainhill-1,,french,959_mountainhill,montagne,mɔ̃taɲ,m ɔ̃ t a ɲ,,List2014c,,false,^ m ɔ̃ t a ɲ $,default
+french-959_mountainhill-2,,french,959_mountainhill,colline,kɔlin,k ɔ l i n,,List2014c,,false,^ k ɔ l i n $,default
+dutch-959_mountainhill-1,,dutch,959_mountainhill,berg,bɛrx,b ɛ r x,,List2014c,,false,^ b ɛ r x $,default
+dutch-959_mountainhill-2,,dutch,959_mountainhill,heuvel,høːvəl,h øː v ə l,,List2014c,,false,^ h øː v ə l $,default
+english-959_mountainhill-1,,english,959_mountainhill,mountain,maʊntɪn,m aʊ n t ɪ n,,List2014c,,true,^ m aʊ n t ɪ n $,default
+english-959_mountainhill-2,,english,959_mountainhill,hill,hɪl,h ɪ l,,List2014c,,false,^ h ɪ l $,default
+german-958_cliffprecipice-1,,german,958_cliffprecipice,Klippe,klɪpə,k l ɪ p ə,,List2014c,,false,^ k l ɪ p ə $,default
+french-958_cliffprecipice-1,,french,958_cliffprecipice,falaise,falɛz,f a l ɛ z,,List2014c,,false,^ f a l ɛ z $,default
+french-958_cliffprecipice-2,,french,958_cliffprecipice,escarpement,ɛskaʀpəmɑ̃,ɛ s k a ʀ p ə m ɑ̃,,List2014c,,false,^ ɛ s k a ʀ p ə m ɑ̃ $,default
+dutch-958_cliffprecipice-1,,dutch,958_cliffprecipice,klif,klɪf,k l ɪ f,,List2014c,,false,^ k l ɪ f $,default
+english-958_cliffprecipice-1,,english,958_cliffprecipice,cliff,klɪf,k l ɪ f,,List2014c,,false,^ k l ɪ f $,default
+english-958_cliffprecipice-2,,english,958_cliffprecipice,precipice,prɛsɪpɪs,p r ɛ s ɪ p ɪ s,,List2014c,,false,^ p r ɛ s ɪ p ɪ s $,default
+german-957_plainfield-1,,german,957_plainfield,Ebene,eːbənə,eː b ə n ə,,List2014c,,false,^ eː b ə n ə $,default
+german-957_plainfield-2,,german,957_plainfield,Fläche,flɛxə,f l ɛ x ə,,List2014c,,false,^ f l ɛ x ə $,default
+german-957_plainfield-3,,german,957_plainfield,Feld,fɛlt,f ɛ l t,,List2014c,,false,^ f ɛ l t $,default
+french-957_plainfield-1,,french,957_plainfield,plaine,plɛn,p l ɛ n,,List2014c,,false,^ p l ɛ n $,default
+french-957_plainfield-2,,french,957_plainfield,campagne,kɑ̃paɲ,k ɑ̃ p a ɲ,,List2014c,,false,^ k ɑ̃ p a ɲ $,default
+dutch-957_plainfield-1,,dutch,957_plainfield,vlakte,vlɑktə,v l ɑ k t ə,,List2014c,,false,^ v l ɑ k t ə $,default
+english-957_plainfield-1,,english,957_plainfield,plain,pleɪn,p l eɪ n,,List2014c,,true,^ p l eɪ n $,default
+german-956_valley-1,,german,956_valley,Tal,taːl,t aː l,,List2014c,,false,^ t aː l $,default
+french-956_valley-1,,french,956_valley,vallée,vale,v a l e,,List2014c,,false,^ v a l e $,default
+dutch-956_valley-1,,dutch,956_valley,vallei,vɑlɛɪ,v ɑ l ɛɪ,,List2014c,,true,^ v ɑ l ɛɪ $,default
+dutch-956_valley-2,,dutch,956_valley,dal,dɑl,d ɑ l,,List2014c,,false,^ d ɑ l $,default
+english-956_valley-1,,english,956_valley,valley,vælɪ,v æ l ɪ,,List2014c,,true,^ v æ l ɪ $,default
+german-954_mainland-1,,german,954_mainland,Festland,fɛst-lant,f ɛ s t + l a n t,,List2014c,,false,^ f ɛ s t - l a n t $,default
+french-954_mainland-1,,french,954_mainland,continent,kɔ̃tinɑ̃,k ɔ̃ t i n ɑ̃,,List2014c,,false,^ k ɔ̃ t i n ɑ̃ $,default
+dutch-954_mainland-1,,dutch,954_mainland,vasteland,vɑstə-lɑnt,v ɑ s t ə + l ɑ n t,,List2014c,,false,^ v ɑ s t ə - l ɑ n t $,default
+english-954_mainland-1,,english,954_mainland,mainland,meɪn-lənd,m eɪ n + l ə n d,,List2014c,,false,^ m eɪ n - l ə n d $,default
+german-953_shore-1,,german,953_shore,Ufer,uːfər,uː f ə r,,List2014c,,false,^ uː f ə r $,default
+german-953_shore-2,,german,953_shore,Strand,ʃtrant,ʃ t r a n t,,List2014c,,false,^ ʃ t r a n t $,default
+french-953_shore-1,,french,953_shore,rivage,ʀivaʒ,ʀ i v a ʒ,,List2014c,,false,^ ʀ i v a ʒ $,default
+french-953_shore-2,,french,953_shore,côte,kot,k o t,,List2014c,,false,^ k o t $,default
+french-953_shore-3,,french,953_shore,littoral,litɔʀal,l i t ɔ ʀ a l,,List2014c,,false,^ l i t ɔ ʀ a l $,default
+dutch-953_shore-1,,dutch,953_shore,oever,uːvər,uː v ə r,,List2014c,,false,^ uː v ə r $,default
+english-953_shore-1,,english,953_shore,shore,ʃɔːr,ʃ ɔː r,,List2014c,,false,^ ʃ ɔː r $,default
+german-951_water-1,,german,951_water,Wasser,vasər,v a s ə r,,List2014c,,false,^ v a s ə r $,default
+french-951_water-1,,french,951_water,eau,o,o,,List2014c,,false,^ o $,default
+dutch-951_water-1,,dutch,951_water,water,waːtər,w aː t ə r,,List2014c,,false,^ w aː t ə r $,default
+english-951_water-1,,english,951_water,water,wɔːtər,w ɔː t ə r,,List2014c,,false,^ w ɔː t ə r $,default
+german-949_sea-1,,german,949_sea,See,zeː,z eː,,List2014c,,false,^ z eː $,default
+french-949_sea-1,,french,949_sea,mer,mɛʁ,m ɛ ʁ,,List2014c,,false,^ m ɛ ʁ $,default
+dutch-949_sea-1,,dutch,949_sea,zee,zeː,z eː,,List2014c,,false,^ z eː $,default
+english-949_sea-1,,english,949_sea,sea,siː,s iː,,List2014c,,false,^ s iː $,default
+german-950_calmofsea-1,,german,950_calmofsea,Meeresstille,meːrəs-ʃtɪlə,m eː r ə s + ʃ t ɪ l ə,,List2014c,,false,^ m eː r ə s - ʃ t ɪ l ə $,default
+french-950_calmofsea-1,,french,950_calmofsea,étale,etale,e t a l e,,List2014c,,false,^ e t a l e $,default
+dutch-950_calmofsea-1,,dutch,950_calmofsea,kalm,kɑlm,k ɑ l m,,List2014c,,false,^ k ɑ l m $,default
+dutch-950_calmofsea-2,,dutch,950_calmofsea,rustig,rʉstəx,r ʉ s t ə x,,List2014c,,false,^ r ʉ s t ə x $,default
+english-950_calmofsea-1,,english,950_calmofsea,calm,kɑːm,k ɑː m,,List2014c,,false,^ k ɑː m $,default
+german-948_roughofsea-1,,german,948_roughofsea,rauh,rau,r au,,List2014c,,false,^ r au $,default
+french-948_roughofsea-1,,french,948_roughofsea,trouble,tʀubl,t ʀ u b l,,List2014c,,false,^ t ʀ u b l $,default
+french-948_roughofsea-2,,french,948_roughofsea,agité,aʒite,a ʒ i t e,,List2014c,,false,^ a ʒ i t e $,default
+dutch-948_roughofsea-1,,dutch,948_roughofsea,ruw,ryːw,r yː w,,List2014c,,false,^ r yː w $,default
+english-948_roughofsea-1,,english,948_roughofsea,rough,rʌf,r ʌ f,,List2014c,,false,^ r ʌ f $,default
+german-947_foam-1,,german,947_foam,Schaum,ʃaum,ʃ au m,,List2014c,,false,^ ʃ au m $,default
+french-947_foam-1,,french,947_foam,écume,ekym,e k y m,,List2014c,,false,^ e k y m $,default
+french-947_foam-2,,french,947_foam,mousse,mus,m u s,,List2014c,,false,^ m u s $,default
+dutch-947_foam-1,,dutch,947_foam,schuim,sxœym,s x œy m,,List2014c,,false,^ s x œy m $,default
+english-947_foam-1,,english,947_foam,foam,fəʊm,f əʊ m,,List2014c,,false,^ f əʊ m $,default
+german-946_ocean-1,,german,946_ocean,Weltmeer,vɛlt-meːr,v ɛ l t + m eː r,,List2014c,,false,^ v ɛ l t - m eː r $,default
+german-946_ocean-2,,german,946_ocean,Ozean,oːʦeːaːn,oː ts eː aː n,,List2014c,,true,^ oː ʦ eː aː n $,default
+french-946_ocean-1,,french,946_ocean,océan,ɔseɑ̃,ɔ s e ɑ̃,,List2014c,,false,^ ɔ s e ɑ̃ $,default
+dutch-946_ocean-1,,dutch,946_ocean,oceaan,oːseːjaːn,oː s eː j aː n,,List2014c,,true,^ oː s eː j aː n $,default
+english-946_ocean-1,,english,946_ocean,ocean,əʊʃṇ,əʊ ʃ n̩,,List2014c,,true,^ əʊ ʃ ṇ $,default
+german-945_lake-1,,german,945_lake,See,zeː,z eː,,List2014c,,false,^ z eː $,default
+french-945_lake-1,,french,945_lake,lac,lak,l a k,,List2014c,,false,^ l a k $,default
+dutch-945_lake-1,,dutch,945_lake,meer,meːr,m eː r,,List2014c,,false,^ m eː r $,default
+english-945_lake-1,,english,945_lake,lake,leɪk,l eɪ k,,List2014c,,true,^ l eɪ k $,default
+german-944_gulfbay-1,,german,944_gulfbay,Meerbusen,meːr-buːzən,m eː r + b uː z ə n,,List2014c,,false,^ m eː r - b uː z ə n $,default
+german-944_gulfbay-2,,german,944_gulfbay,Golf,ɡɔlf,ɡ ɔ l f,,List2014c,,true,^ ɡ ɔ l f $,default
+german-944_gulfbay-3,,german,944_gulfbay,Bucht,bʊxt,b ʊ x t,,List2014c,,false,^ b ʊ x t $,default
+french-944_gulfbay-1,,french,944_gulfbay,golfe,ɡɔlf,ɡ ɔ l f,,List2014c,,false,^ ɡ ɔ l f $,default
+french-944_gulfbay-2,,french,944_gulfbay,baie,bɛ,b ɛ,,List2014c,,false,^ b ɛ $,default
+dutch-944_gulfbay-1,,dutch,944_gulfbay,baai,baːj,b aː j,,List2014c,,true,^ b aː j $,default
+english-944_gulfbay-1,,english,944_gulfbay,bay,beɪ,b eɪ,,List2014c,,true,^ b eɪ $,default
+german-943_lagoon-1,,german,943_lagoon,Lagune,laɡuːnə,l a ɡ uː n ə,,List2014c,,true,^ l a ɡ uː n ə $,default
+french-943_lagoon-1,,french,943_lagoon,lagune,laɡyn,l a ɡ y n,,List2014c,,false,^ l a ɡ y n $,default
+dutch-943_lagoon-1,,dutch,943_lagoon,lagune,laːɣyːnə,l aː ɣ yː n ə,,List2014c,,true,^ l aː ɣ yː n ə $,default
+english-943_lagoon-1,,english,943_lagoon,lagoon,ləɡuːn,l ə ɡ uː n,,List2014c,,true,^ l ə ɡ uː n $,default
+german-942_reef-1,,german,942_reef,Riff,rɪf,r ɪ f,,List2014c,,true,^ r ɪ f $,default
+french-942_reef-1,,french,942_reef,récif,ʀesif,ʀ e s i f,,List2014c,,false,^ ʀ e s i f $,default
+dutch-942_reef-1,,dutch,942_reef,rif,rɪf,r ɪ f,,List2014c,,false,^ r ɪ f $,default
+english-942_reef-1,,english,942_reef,reef,riːf,r iː f,,List2014c,,true,^ r iː f $,default
+german-941_headlandpoint-1,,german,941_headlandpoint,Landzunge,lant-ʦʊŋə,l a n t + ts ʊ ŋ ə,,List2014c,,false,^ l a n t - ʦ ʊ ŋ ə $,default
+french-941_headlandpoint-1,,french,941_headlandpoint,promontoire,pʀɔmɔ̃twaʀ,p ʀ ɔ m ɔ̃ t w a ʀ,,List2014c,,false,^ p ʀ ɔ m ɔ̃ t w a ʀ $,default
+french-941_headlandpoint-2,,french,941_headlandpoint,pointe,pwɛ̃t,p w ɛ̃ t,,List2014c,,false,^ p w ɛ̃ t $,default
+dutch-941_headlandpoint-1,,dutch,941_headlandpoint,kaap,kaːp,k aː p,,List2014c,,false,^ k aː p $,default
+english-941_headlandpoint-1,,english,941_headlandpoint,cape,keɪp,k eɪ p,,List2014c,,false,^ k eɪ p $,default
+german-940_wave-1,,german,940_wave,Welle,vɛlə,v ɛ l ə,,List2014c,,false,^ v ɛ l ə $,default
+german-940_wave-2,,german,940_wave,Woge,voːɡə,v oː ɡ ə,,List2014c,,false,^ v oː ɡ ə $,default
+french-940_wave-1,,french,940_wave,vague,vaɡ,v a ɡ,,List2014c,,false,^ v a ɡ $,default
+dutch-940_wave-1,,dutch,940_wave,golf,xɔlf,x ɔ l f,,List2014c,,false,^ x ɔ l f $,default
+english-940_wave-1,,english,940_wave,wave,weɪv,w eɪ v,,List2014c,,false,^ w eɪ v $,default
+german-936_riverstreambrook-1,,german,936_riverstreambrook,Fluss,flʊs,f l ʊ s,,List2014c,,false,^ f l ʊ s $,default
+german-936_riverstreambrook-2,,german,936_riverstreambrook,Strom,ʃtroːm,ʃ t r oː m,,List2014c,,false,^ ʃ t r oː m $,default
+german-936_riverstreambrook-3,,german,936_riverstreambrook,Bach,bax,b a x,,List2014c,,false,^ b a x $,default
+french-936_riverstreambrook-1,,french,936_riverstreambrook,fleuve,flœv,f l œ v,,List2014c,,false,^ f l œ v $,default
+french-936_riverstreambrook-2,,french,936_riverstreambrook,rivière,ʀivjɛʀ,ʀ i v j ɛ ʀ,,List2014c,,false,^ ʀ i v j ɛ ʀ $,default
+french-936_riverstreambrook-3,,french,936_riverstreambrook,ruisseau,ʀɥiso,ʀ ɥ i s o,,List2014c,,false,^ ʀ ɥ i s o $,default
+dutch-936_riverstreambrook-1,,dutch,936_riverstreambrook,rivier,riːviːr,r iː v iː r,,List2014c,,true,^ r iː v iː r $,default
+dutch-936_riverstreambrook-2,,dutch,936_riverstreambrook,stroom,stroːm,s t r oː m,,List2014c,,false,^ s t r oː m $,default
+english-936_riverstreambrook-1,,english,936_riverstreambrook,river,rɪvər,r ɪ v ə r,,List2014c,,true,^ r ɪ v ə r $,default
+english-936_riverstreambrook-2,,english,936_riverstreambrook,stream,striːm,s t r iː m,,List2014c,,false,^ s t r iː m $,default
+german-935_whirlpool-1,,german,935_whirlpool,Strudel,ʃtruːdəl,ʃ t r uː d ə l,,List2014c,,false,^ ʃ t r uː d ə l $,default
+german-935_whirlpool-2,,german,935_whirlpool,Wirbel,vɪrbəl,v ɪ r b ə l,,List2014c,,false,^ v ɪ r b ə l $,default
+french-935_whirlpool-1,,french,935_whirlpool,tourbillon,tuʀbijɔ̃,t u ʀ b i j ɔ̃,,List2014c,,false,^ t u ʀ b i j ɔ̃ $,default
+dutch-935_whirlpool-1,,dutch,935_whirlpool,draaikolk,draːjkɔlk,d r aː j k ɔ l k,,List2014c,,false,^ d r aː j k ɔ l k $,default
+english-935_whirlpool-1,,english,935_whirlpool,whirlpool,wɜːlpuːl,w ɜː l p uː l,,List2014c,,false,^ w ɜː l p uː l $,default
+german-934_springwell-1,,german,934_springwell,Quelle,kvɛlə,k v ɛ l ə,,List2014c,,false,^ k v ɛ l ə $,default
+german-934_springwell-2,,german,934_springwell,Brunnen,brʊnən,b r ʊ n ə n,,List2014c,,false,^ b r ʊ n ə n $,default
+french-934_springwell-1,,french,934_springwell,source,suʀs,s u ʀ s,,List2014c,,false,^ s u ʀ s $,default
+french-934_springwell-2,,french,934_springwell,puits,pɥi,p ɥ i,,List2014c,,false,^ p ɥ i $,default
+dutch-934_springwell-1,,dutch,934_springwell,bron,brɔn,b r ɔ n,,List2014c,,false,^ b r ɔ n $,default
+english-934_springwell-1,,english,934_springwell,spring,sprɪŋ,s p r ɪ ŋ,,List2014c,,false,^ s p r ɪ ŋ $,default
+english-934_springwell-2,,english,934_springwell,well,wɛl,w ɛ l,,List2014c,,false,^ w ɛ l $,default
+german-933_swamp-1,,german,933_swamp,Sumpf,zʊmp͡f,z ʊ m pf,,List2014c,,false,^ z ʊ m p͡f $,default
+german-933_swamp-2,,german,933_swamp,Morast,moːrast,m oː r a s t,,List2014c,,true,^ m oː r a s t $,default
+french-933_swamp-1,,french,933_swamp,marais,maʀɛ,m a ʀ ɛ,,List2014c,,false,^ m a ʀ ɛ $,default
+french-933_swamp-2,,french,933_swamp,marécage,maʀekaʒ,m a ʀ e k a ʒ,,List2014c,,false,^ m a ʀ e k a ʒ $,default
+dutch-933_swamp-1,,dutch,933_swamp,moeras,muːrɑs,m uː r ɑ s,,List2014c,,true,^ m uː r ɑ s $,default
+english-933_swamp-1,,english,933_swamp,swamp,swɔmp,s w ɔ m p,,List2014c,,false,^ s w ɔ m p $,default
+german-931_woodsforest-1,,german,931_woodsforest,Wald,valt,v a l t,,List2014c,,false,^ v a l t $,default
+french-931_woodsforest-1,,french,931_woodsforest,bois,bwa,b w a,,List2014c,,false,^ b w a $,default
+french-931_woodsforest-2,,french,931_woodsforest,forêt,fɔʀɛ,f ɔ ʀ ɛ,,List2014c,,false,^ f ɔ ʀ ɛ $,default
+dutch-931_woodsforest-1,,dutch,931_woodsforest,bos,bɔs,b ɔ s,,List2014c,,false,^ b ɔ s $,default
+dutch-931_woodsforest-2,,dutch,931_woodsforest,woud,wɑut,w ɑu t,,List2014c,,false,^ w ɑu t $,default
+english-931_woodsforest-1,,english,931_woodsforest,forest,fɔrɪst,f ɔ r ɪ s t,,List2014c,,true,^ f ɔ r ɪ s t $,default
+german-929_wood-1,,german,929_wood,Holz,hɔlʦ,h ɔ l ts,,List2014c,,false,^ h ɔ l ʦ $,default
+french-929_wood-1,,french,929_wood,bois,bwa,b w a,,List2014c,,false,^ b w a $,default
+dutch-929_wood-1,,dutch,929_wood,hout,hɑut,h ɑu t,,List2014c,,false,^ h ɑu t $,default
+english-929_wood-1,,english,929_wood,wood,wʊd,w ʊ d,,List2014c,,false,^ w ʊ d $,default
+german-928_stonerock-1,,german,928_stonerock,Stein,ʃtain,ʃ t ai n,,List2014c,,false,^ ʃ t ai n $,default
+german-928_stonerock-2,,german,928_stonerock,Fels,fɛls,f ɛ l s,,List2014c,,false,^ f ɛ l s $,default
+french-928_stonerock-1,,french,928_stonerock,pierre,pjɛʀ,p j ɛ ʀ,,List2014c,,false,^ p j ɛ ʀ $,default
+french-928_stonerock-2,,french,928_stonerock,roc,ʀɔk,ʀ ɔ k,,List2014c,,false,^ ʀ ɔ k $,default
+french-928_stonerock-3,,french,928_stonerock,rocher,ʀɔʃe,ʀ ɔ ʃ e,,List2014c,,false,^ ʀ ɔ ʃ e $,default
+dutch-928_stonerock-1,,dutch,928_stonerock,rots,rɔʦ,r ɔ ts,,List2014c,,true,^ r ɔ ʦ $,default
+dutch-928_stonerock-2,,dutch,928_stonerock,steen,steːn,s t eː n,,List2014c,,false,^ s t eː n $,default
+english-928_stonerock-1,,english,928_stonerock,stone,stəʊn,s t əʊ n,,List2014c,,false,^ s t əʊ n $,default
+english-928_stonerock-2,,english,928_stonerock,rock,rɔk,r ɔ k,,List2014c,,true,^ r ɔ k $,default
+german-927_earthquake-1,,german,927_earthquake,Erdbeben,eːrt-beːbən,eː r t + b eː b ə n,,List2014c,,false,^ eː r t - b eː b ə n $,default
+french-927_earthquake-1,,french,927_earthquake,séisme,seism,s ei s m,,List2014c,,false,^ s ei s m $,default
+dutch-927_earthquake-1,,dutch,927_earthquake,aardbeving,aːrd-beːvɪŋ,aː r d + b eː v ɪ ŋ,,List2014c,,false,^ aː r d - b eː v ɪ ŋ $,default
+english-927_earthquake-1,,english,927_earthquake,earthquake,ɜːθ-kweɪk,ɜː θ + k w eɪ k,,List2014c,,false,^ ɜː θ - k w eɪ k $,default
+german-926_sky-1,,german,926_sky,Himmel,hɪməl,h ɪ m ə l,,List2014c,,false,^ h ɪ m ə l $,default
+french-926_sky-1,,french,926_sky,ciel,sjɛl,s j ɛ l,,List2014c,,false,^ s j ɛ l $,default
+dutch-926_sky-1,,dutch,926_sky,hemel,heːməl,h eː m ə l,,List2014c,,false,^ h eː m ə l $,default
+english-926_sky-1,,english,926_sky,sky,skaɪ,s k aɪ,,List2014c,,false,^ s k aɪ $,default
+german-925_sun-1,,german,925_sun,Sonne,zɔnə,z ɔ n ə,,List2014c,,false,^ z ɔ n ə $,default
+french-925_sun-1,,french,925_sun,soleil,sɔlɛj,s ɔ l ɛ j,,List2014c,,false,^ s ɔ l ɛ j $,default
+dutch-925_sun-1,,dutch,925_sun,zon,zɔn,z ɔ n,,List2014c,,false,^ z ɔ n $,default
+english-925_sun-1,,english,925_sun,sun,sʌn,s ʌ n,,List2014c,,false,^ s ʌ n $,default
+german-924_moon-1,,german,924_moon,Mond,moːnt,m oː n t,,List2014c,,false,^ m oː n t $,default
+french-924_moon-1,,french,924_moon,lune,lyn,l y n,,List2014c,,false,^ l y n $,default
+dutch-924_moon-1,,dutch,924_moon,maan,maːn,m aː n,,List2014c,,false,^ m aː n $,default
+english-924_moon-1,,english,924_moon,moon,muːn,m uː n,,List2014c,,false,^ m uː n $,default
+german-922_lightning-1,,german,922_lightning,Blitz,blɪʦ,b l ɪ ts,,List2014c,,false,^ b l ɪ ʦ $,default
+french-922_lightning-1,,french,922_lightning,éclair,eklɛʀ,e k l ɛ ʀ,,List2014c,,false,^ e k l ɛ ʀ $,default
+dutch-922_lightning-1,,dutch,922_lightning,bliksem,blɪksəm,b l ɪ k s ə m,,List2014c,,false,^ b l ɪ k s ə m $,default
+english-922_lightning-1,,english,922_lightning,lightning,laɪt-nɪŋ,l aɪ t + n ɪ ŋ,,List2014c,,false,^ l aɪ t - n ɪ ŋ $,default
+german-920_thunder-1,,german,920_thunder,Donner,dɔnər,d ɔ n ə r,,List2014c,,false,^ d ɔ n ə r $,default
+french-920_thunder-1,,french,920_thunder,tonnerre,tɔnɛʀ,t ɔ n ɛ ʀ,,List2014c,,false,^ t ɔ n ɛ ʀ $,default
+dutch-920_thunder-1,,dutch,920_thunder,donder,dɔndər,d ɔ n d ə r,,List2014c,,false,^ d ɔ n d ə r $,default
+english-920_thunder-1,,english,920_thunder,thunder,θʌndər,θ ʌ n d ə r,,List2014c,,false,^ θ ʌ n d ə r $,default
+german-919_storm-1,,german,919_storm,Sturm,ʃtʊrm,ʃ t ʊ r m,,List2014c,,false,^ ʃ t ʊ r m $,default
+french-919_storm-1,,french,919_storm,orage,ɔʀaʒ,ɔ ʀ a ʒ,,List2014c,,false,^ ɔ ʀ a ʒ $,default
+french-919_storm-2,,french,919_storm,tempête,tɑ̃pɛt,t ɑ̃ p ɛ t,,List2014c,,false,^ t ɑ̃ p ɛ t $,default
+dutch-919_storm-1,,dutch,919_storm,storm,stɔrm,s t ɔ r m,,List2014c,,false,^ s t ɔ r m $,default
+english-919_storm-1,,english,919_storm,storm,stɔːm,s t ɔː m,,List2014c,,false,^ s t ɔː m $,default
+german-918_rainbow-1,,german,918_rainbow,Regenbogen,reːɡən-boːɡən,r eː ɡ ə n + b oː ɡ ə n,,List2014c,,false,^ r eː ɡ ə n - b oː ɡ ə n $,default
+french-918_rainbow-1,,french,918_rainbow,arc-en-ciel,aʀkɑ̃sjɛl,a ʀ k ɑ̃ s j ɛ l,,List2014c,,false,^ a ʀ k ɑ̃ s j ɛ l $,default
+dutch-918_rainbow-1,,dutch,918_rainbow,regenboog,reːɣəm-boːx,r eː ɣ ə m + b oː x,,List2014c,,false,^ r eː ɣ ə m - b oː x $,default
+english-918_rainbow-1,,english,918_rainbow,rainbow,reɪn-bəʊ,r eɪ n + b əʊ,,List2014c,,false,^ r eɪ n - b əʊ $,default

@@ -378,9 +378,10 @@ In our demo, we provide all results when working on the SVM approach, both for t
 
 Assuming that most participants code in Python, we kindly ask all participants of the shared task to try and prepare their systems in a similar form, as shown in our demo package. That means essentially:
 
-1. there is a single folder that contains a script that runs the users' code and applies it too either the test data or the surprise data
-2. there is a file `requirements.txt` that contains all requirements that are needed to run this code in a virtual environment in Python
-3. the results are written into individual files, exactly as can be seen in our demo.
+1. there is a single folder that contains a script that runs the users' code and applies it too either the test data or the surprise data,
+2. there is a file `requirements.txt` that contains all requirements that are needed to run this code in a virtual environment in Python (you can create the file by running `pip freeze > requirements.txt`),
+3. there is a README.md file that explains how to run the code in question, and
+4. the results are written into individual files, exactly as can be seen in our demo.
 
 We understand that there are cases where users do not Python but other programming languages (R, Java, etc.) and that the `run.py` script is of little use in this case. In such a case, we still ask to provide a package of their system that contains specifically the structure of the output files, as we want to test those only with our software package, to make sure we have unified results. We then ask users to provide a clear description of their method, what programs need to be installed, how to run the code, etc., so that the shared task team can later try and apply their methods in order to make sure they run on another computer. 
 
