@@ -311,5 +311,79 @@ COGID	Eryuan	Heqing	Jianchuan	Lanping	Luobenzhuo	Qiliqiao	Xiangyun	Yunlong	Zhouc
 1083	t ɔ ⁴²	t ɔu ⁴²	t õ ⁴²	t u ⁴²	t ao ⁴²	t w ɔ ³²	t w ɔ ⁴²	t o ⁴²	t u ⁴²
 ```
 
+# 6 Using Internal System Paths
 
+The package also offers one path-function that you can use to get access to the data:
+
+```python
+from sigtypst2022 import sigtyst2022_path
+training = sigtypst2022_path("data").glob("*/training-0.20.tsv")
+```
+
+This will yield a list `training` that contains all paths for the different test sets with 20% data held out.
+
+# 7 Demo for the Integration of a System in the Shared Task
+
+Our plan is to store systems and their results in specific folders, and to ask participants to add their data in pull-requests on GitHub, sharing results for training and for the surprise data. An example system has been added to the folder `systems`, called `corpar-svm`. This system contains a `run.py` file that can be invoked by typing `python run.py`, which will use the extended SVM classifier for the correspondence-based word prediction and phonological reconstruction framework by List et al. (forthcoming), which we use as a baseline in its original form, without a support vector machine and without specifically enriched alignments. Running the script with the argument `--surprise` will have it analyze the surprise data instead.
+
+Results of this script (which itself is documented, so that users can check some of its major functions and see how to adapt their own code for their own systems), will be written to either a folder `surprise` or a folder `training`, both containing subfolders for all results on individual datasets. 
+
+To check how well a system performed, the evaluation script of the `sigtypst2022` package contains a `--test-path` argument, which can be invoked as follows (assuming users have `cd`-ed into the main folder of the package):
+
+```
+$ st2022 --evaluate --datasets=datasets.json --datapath=data --test-path=systems/svm-corpar/training --all --proportion=0.10
+```
+
+The output is the same as we know from the test of the baseline results, but has now been applied to this extended baseline method using a support vector machine:
+
+```
+DATASET                       ED    ED (NORM)    B-CUBED FS    BLEU
+-------------------------  -----  -----------  ------------  ------
+abrahammonpa               0.344        0.067         0.914   0.888
+allenbai                   0.643        0.209         0.777   0.713
+backstromnorthernpakistan  0.589        0.116         0.888   0.802
+castrosui                  0.131        0.031         0.960   0.949
+davletshinaztecan          2.019        0.323         0.660   0.523
+felekesemitic              1.386        0.261         0.719   0.611
+hantganbangime             1.355        0.350         0.601   0.508
+hattorijaponic             0.757        0.169         0.820   0.761
+listsamplesize             2.679        0.489         0.528   0.372
+mannburmish                1.702        0.457         0.559   0.385
+```
+
+Comparing this output with the results of the official baseline can be done as follows (also shown above):
+
+```
+st2022 --evaluate --datasets=datasets.json --datapath=data --all --proportion=0.10
+```
+
+```
+DATASET                       ED    ED (NORM)    B-CUBED FS    BLEU
+-------------------------  -----  -----------  ------------  ------
+abrahammonpa               0.550        0.117         0.909   0.801
+allenbai                   0.721        0.235         0.765   0.678
+backstromnorthernpakistan  0.891        0.180         0.858   0.720
+castrosui                  0.161        0.040         0.951   0.935
+davletshinaztecan          2.074        0.331         0.644   0.520
+felekesemitic              1.462        0.274         0.693   0.593
+hantganbangime             1.311        0.326         0.621   0.540
+hattorijaponic             0.936        0.198         0.789   0.719
+listsamplesize             3.405        0.640         0.405   0.210
+mannburmish                1.990        0.525         0.512   0.315
+```
+
+This shows that the extended SVM version of the baseline method enhances the results quite a lot, at least in this test of the training data.
+
+In our demo, we provide all results when working on the SVM approach, both for the training data and for the suprise data. In addition, we offer a `template` folder in the `systems` folder that contains empty folders for the training and the surprise data as well as a rudimentary `run.py` script that users can use to add the code that one would need to apply their own systems to the data. 
+
+Assuming that most participants code in Python, we kindly ask all participants of the shared task to try and prepare their systems in a similar form, as shown in our demo package. That means essentially:
+
+1. there is a single folder that contains a script that runs the users' code and applies it too either the test data or the surprise data,
+2. there is a file `requirements.txt` that contains all requirements that are needed to run this code in a virtual environment in Python (you can create the file by running `pip freeze > requirements.txt`),
+3. there is a README.md file that explains how to run the code in question, and
+4. the results are written into individual files, exactly as can be seen in our demo.
+
+We understand that there are cases where users do not Python but other programming languages (R, Java, etc.) and that the `run.py` script is of little use in this case. In such a case, we still ask to provide a package of their system that contains specifically the structure of the output files, as we want to test those only with our software package, to make sure we have unified results. We then ask users to provide a clear description of their method, what programs need to be installed, how to run the code, etc., so that the shared task team can later try and apply their methods in order to make sure they run on another computer. 
+
+To submit your systems to the shared task, we ask you to clone the ST2022 repository, add your system, and then make a pull request on GitHub, so that we can check the PR, maybe ask you for some modifications, and then add it to the repository. Note that the software for the system itself does not need to be included, it just needs to be accessible to us, and the system ideally contains the file that uses the systems to make the predictions.
 

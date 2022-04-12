@@ -1,0 +1,565 @@
+Language_ID	Type	Value	Lexibank	Prosody	Allophones	Context
+Yunlong	diphtong	ai	ai	n		(Chinese borrowings only)
+Lanping	diphtong	ao	ao	n		
+Luobenzhuo	diphtong	ao	ao	n		
+Yunlong	diphtong	ao	ao	n		
+Lanping	diphtong	ão	ão	n		
+Luobenzhuo	diphtong	ão	ão	n		
+Eryuan	diphtong	i a	i/j a	m n		
+Heqing	diphtong	i a	i/j a	m n		
+Jianchuan	diphtong	i a	i/j a	m n		
+Lanping	diphtong	i a	i/j a	m n		
+Qiliqiao	diphtong	i a	i/j a	m n		
+Xiangyun	diphtong	i a	i/j a	m n		
+Yunlong	diphtong	i a	i/j a	m n		
+Zhoucheng	diphtong	i a	i/j a	m n		
+Heqing	diphtong	i ã	i/j ã	m n		
+Jianchuan	diphtong	i ã	i/j ã	m n		
+Lanping	diphtong	i ã	i/j ã	m n		
+Xiangyun	diphtong	i ã	i/j ã	m n		
+Eryuan	diphtong	i ɛ	i/j ɛ	m n		
+Heqing	diphtong	i ɛ	i/j ɛ	m n		
+Jianchuan	diphtong	i ɛ	i/j ɛ	m n		
+Lanping	diphtong	i ɛ	i/j ɛ	m n		
+Luobenzhuo	diphtong	i ɛ	i/j ɛ	m n		
+Qiliqiao	diphtong	i ɛ	i/j ɛ	m n		
+Xiangyun	diphtong	i ɛ	i/j ɛ	m n		
+Yunlong	diphtong	i ɛ	i/j ɛ	m n		
+Zhoucheng	diphtong	i ɛ	i/j ɛ	m n		
+Heqing	diphtong	i ɛ̃	i/j ɛ̃	m n		
+Jianchuan	diphtong	i ɛ̃	i/j ɛ̃	m n		
+Lanping	diphtong	i ɛ̃	i/j ɛ̃	m n		
+Luobenzhuo	diphtong	i ɛ̃	i/j ɛ̃	m n		
+Xiangyun	diphtong	i ɛ̃	i/j ɛ̃	m n		
+Qiliqiao	diphtong	i ɔ	i/j ɔ	m n		
+Xiangyun	diphtong	i ɔ	i/j ɔ	m n		
+Yunlong	diphtong	i ɔ	i/j ɔ	m n		
+Zhoucheng	diphtong	i ɔ	i/j ɔ	m n		
+Xiangyun	diphtong	i ɔ̃	i/j ɔ̃	m n		
+Jianchuan	diphtong	i ɯ	i/j ɯ	m n		
+Lanping	diphtong	i ɯ	i/j ɯ	m n		
+Jianchuan	diphtong	i ɯ̃	i/j ɯ̃	m n		
+Lanping	diphtong	i ɯ̃	i/j ɯ̃	m n		
+Heqing	diphtong	o u	ou	n		
+Jianchuan	diphtong	o u	ou	n		
+Xiangyun	diphtong	o u	ou	n		
+Heqing	diphtong	õ u	õu	n		
+Jianchuan	diphtong	õ u	õu	n		
+Xiangyun	diphtong	õ u	õu	n		
+Heqing	diphtong	ɔ u	ɔu	n		
+Heqing	diphtong	ɔ̃ u	ɔ̃u	n		
+Eryuan	diphtong	u a	u/w a	m n		
+Heqing	diphtong	u a	u/w a	m n		
+Jianchuan	diphtong	u a	u/w a	m n		
+Lanping	diphtong	u a	u/w a	m n		
+Luobenzhuo	diphtong	u a	u/w a	m n		
+Qiliqiao	diphtong	u a	u/w a	m n		
+Xiangyun	diphtong	u a	u/w a	m n		
+Yunlong	diphtong	u a	u/w a	m n		
+Zhoucheng	diphtong	u a	u/w a	m n		
+Heqing	diphtong	u ã	u/w ã	m n		
+Jianchuan	diphtong	u ã	u/w ã	m n		
+Lanping	diphtong	u ã	u/w ã	m n		
+Luobenzhuo	diphtong	u ã	u/w ã	m n		
+Xiangyun	diphtong	u ã	u/w ã	m n		
+Eryuan	diphtong	u e	u/w e	m n		
+Eryuan	diphtong	u e	u/w e	m n		
+Heqing	diphtong	u e	u/w e	m n		
+Jianchuan	diphtong	u e	u/w e	m n		
+Lanping	diphtong	u e	u/w e	m n		
+Luobenzhuo	diphtong	u e	u/w e	m n		
+Qiliqiao	diphtong	u e	u/w e	m n		
+Xiangyun	diphtong	u e	u/w e	m n		
+Yunlong	diphtong	u e	u/w e	m n		
+Zhoucheng	diphtong	u e	u/w e	m n		
+Heqing	diphtong	u ẽ	u/w ẽ	m n		
+Jianchuan	diphtong	u ẽ	u/w ẽ	m n		
+Lanping	diphtong	u ẽ	u/w ẽ	m n		
+Luobenzhuo	diphtong	u ẽ	u/w ẽ	m n		
+Xiangyun	diphtong	u ẽ	u/w ẽ	m n		
+Eryuan	diphtong	u ɛ	u/w ɛ	m n		
+Heqing	diphtong	u ɛ	u/w ɛ	m n		
+Jianchuan	diphtong	u ɛ	u/w ɛ	m n		
+Lanping	diphtong	u ɛ	u/w ɛ	m n		
+Luobenzhuo	diphtong	u ɛ	u/w ɛ	m n		
+Qiliqiao	diphtong	u ɛ	u/w ɛ	m n		
+Xiangyun	diphtong	u ɛ	u/w ɛ	m n		
+Yunlong	diphtong	u ɛ	u/w ɛ	m n		
+Zhoucheng	diphtong	u ɛ	u/w ɛ	m n		
+Jianchuan	diphtong	u ɛ̃	u/w ɛ̃	m n		
+Lanping	diphtong	u ɛ̃	u/w ɛ̃	m n		
+Luobenzhuo	diphtong	u ɛ̃	u/w ɛ̃	m n		
+Xiangyun	diphtong	u ɛ̃	u/w ɛ̃	m n		
+Heqing	diphtong	u ɔ	u/w ɔ	m n		
+Lanping	diphtong	u ɔ	u/w ɔ	m n		
+Luobenzhuo	diphtong	u ɔ	u/w ɔ	m n		
+Qiliqiao	diphtong	u ɔ	u/w ɔ	m n		
+Xiangyun	diphtong	u ɔ	u/w ɔ	m n		
+Yunlong	diphtong	u ɔ	u/w ɔ	m n		
+Zhoucheng	diphtong	u ɔ	u/w ɔ	m n		
+Heqing	diphtong	u ɔ̃	u/w ɔ̃	m n		
+Lanping	diphtong	u ɔ̃	u/w ɔ̃	m n		
+Luobenzhuo	diphtong	u ɔ̃	u/w ɔ̃	m n		
+Xiangyun	diphtong	u ɔ̃	u/w ɔ̃	m n		
+Yunlong	diphtong	y ɛ	y/ɥ ɛ	m n		
+Luobenzhuo	initial	b	b	i		
+Luobenzhuo	initial	c	c	i		
+Luobenzhuo	initial	cʰ	cʰ	i		
+Eryuan	initial	ɕ	ɕ	i		
+Heqing	initial	ɕ	ɕ	i		
+Jianchuan	initial	ɕ	ɕ	i		
+Lanping	initial	ɕ	ɕ	i		
+Luobenzhuo	initial	ɕ	ɕ	i		
+Qiliqiao	initial	ɕ	ɕ	i		
+Xiangyun	initial	ɕ	ɕ	i		
+Yunlong	initial	ɕ	ɕ	i		
+Zhoucheng	initial	ɕ	ɕ	i		
+Heqing	initial	ɕʰ	ɕʰ	i		
+Luobenzhuo	initial	d	d	i		
+Yunlong	initial	d	d	i		
+Yunlong	initial	dz	dz	i		
+Luobenzhuo	initial	dʐ	ɖʐ	i		
+Luobenzhuo	initial	dʑ	dʑ	i		
+Yunlong	initial	dʑ	dʑ	i		
+Luobenzhuo	initial	ɖ	ɖ	i		
+Eryuan	initial	f	f	i		
+Heqing	initial	f	f	i		
+Jianchuan	initial	f	f	i		
+Lanping	initial	f	f	i		
+Luobenzhuo	initial	f	f	i		
+Qiliqiao	initial	f	f	i		
+Xiangyun	initial	f	f	i		
+Yunlong	initial	f	f	i		
+Zhoucheng	initial	f	f	i		
+Luobenzhuo	initial	g	g	i		
+Yunlong	initial	g	g	i		
+Eryuan	initial	ɣ	ɣ	i		
+Jianchuan	initial	ɣ	ɣ	i		
+Lanping	initial	ɣ	ɣ	i		
+Qiliqiao	initial	ɣ	ɣ	i		
+Xiangyun	initial	ɣ	ɣ	i		
+Yunlong	initial	ɣ	ɣ	i		
+Yunlong	initial	ʁ	ʁ	i	ɣ	_[ɔ]
+Zhoucheng	initial	ɣ	ɣ	i		_[ɯ]
+Eryuan	initial	j	j	i		
+Heqing	initial	j	j	i		
+Jianchuan	initial	j	j	i		
+Lanping	initial	j	j	i		
+Lanping	initial	ʝ	ʝ	i	j	_[i]
+Luobenzhuo	initial	j	j	i		
+Qiliqiao	initial	j	j	i		
+Xiangyun	initial	j	j	i		
+Yunlong	initial	j	j	i		
+Zhoucheng	initial	j	j	i		
+Eryuan	initial	k	k	i		
+Eryuan	initial	kʲ	kʲ	i	k	[i e ɛ]_
+Heqing	initial	k	k	i		
+Jianchuan	initial	k	k	i		
+Lanping	initial	k	k	i		
+Luobenzhuo	initial	k	k	i		
+Qiliqiao	initial	k	k	i		
+Xiangyun	initial	k	k	i		
+Xiangyun	initial	kʲ	kʲ	i	k	_[i e ɛ]
+Yunlong	initial	k	k	i		
+Zhoucheng	initial	k	k	i		
+Zhoucheng	initial	kʲ	kʲ	i	k	_[i]
+Eryuan	initial	kʰ	kʰ	i		
+Eryuan	initial	kʲʰ	kʲʰ	i	k	_[i e ɛ]
+Heqing	initial	kʰ	kʰ	i		
+Jianchuan	initial	kʰ	kʰ	i		
+Lanping	initial	kʰ	kʰ	i		
+Luobenzhuo	initial	kʰ	kʰ	i		
+Qiliqiao	initial	kʰ	kʰ	i		
+Xiangyun	initial	kʰ	kʰ	i		
+Yunlong	initial	kʰ	kʰ	i		
+Zhoucheng	initial	kʰ	kʰ	i		
+Eryuan	initial	l	l	i		
+Heqing	initial	l	l	i		
+Jianchuan	initial	l	l	i		
+Lanping	initial	l	l	i		
+Luobenzhuo	initial	l	l	i		
+Qiliqiao	initial	l	l	i		
+Xiangyun	initial	l	l	i		
+Yunlong	initial	l	l	i		
+Zhoucheng	initial	l	l	i		
+Eryuan	initial	m	m	i		
+Heqing	initial	m	m	i		
+Jianchuan	initial	m	m	i		
+Lanping	initial	m	m	i		
+Luobenzhuo	initial	m	m	i		
+Qiliqiao	initial	m	m	i		
+Xiangyun	initial	m	m	i		
+Yunlong	initial	m	m	i		
+Zhoucheng	initial	m	m	i		
+Eryuan	initial	n	n	i		
+Heqing	initial	n	n	i		
+Jianchuan	initial	n	n	i		
+Lanping	initial	n	n	i		
+Luobenzhuo	initial	n	n	i		
+Qiliqiao	initial	n	n	i		
+Qiliqiao	initial	ȵ	ȵ	i	n	_[i]
+Xiangyun	initial	n	n	i		
+Yunlong	initial	n	n	i		
+Zhoucheng	initial	n	n	i		
+Luobenzhuo	initial	ɴ	ɴ	i		
+Luobenzhuo	initial	ɴ̥	ɴ̥	i		
+Eryuan	initial	ȵ	ȵ	i		
+Luobenzhuo	initial	ȵ	ȵ	i		
+Yunlong	initial	ȵ	ȵ	i		
+Zhoucheng	initial	ȵ	ȵ	i		
+Eryuan	initial	ŋ	ŋ	i		
+Heqing	initial	ŋ	ŋ	i		
+Jianchuan	initial	ŋ	ŋ	i		
+Lanping	initial	ŋ	ŋ	i		
+Luobenzhuo	initial	ŋ	ŋ	i		
+Qiliqiao	initial	ŋ	ŋ	i		
+Xiangyun	initial	ŋ	ŋ	i		
+Yunlong	initial	ŋ	ŋ	i		
+Zhoucheng	initial	ŋ	ŋ	i		
+Eryuan	initial	p	p	i		
+Heqing	initial	p	p	i		
+Jianchuan	initial	p	p	i		
+Lanping	initial	p	p	i		
+Luobenzhuo	initial	p	p	i		
+Qiliqiao	initial	p	p	i		
+Xiangyun	initial	p	p	i		
+Yunlong	initial	p	p	i		
+Zhoucheng	initial	p	p	i		
+Eryuan	initial	pʰ	pʰ	i		
+Heqing	initial	pʰ	pʰ	i		
+Jianchuan	initial	pʰ	pʰ	i		
+Lanping	initial	pʰ	pʰ	i		
+Luobenzhuo	initial	pʰ	pʰ	i		
+Qiliqiao	initial	pʰ	pʰ	i		
+Xiangyun	initial	pʰ	pʰ	i		
+Yunlong	initial	pʰ	pʰ	i		
+Zhoucheng	initial	pʰ	pʰ	i		
+Luobenzhuo	initial	q	q	i		
+Luobenzhuo	initial	qʰ	qʰ	i		
+Eryuan	initial	s	s	i		
+Heqing	initial	s	s	i		
+Jianchuan	initial	s	s	i		
+Lanping	initial	s	s	i		
+Luobenzhuo	initial	s	s	i		
+Qiliqiao	initial	s	s	i		
+Qiliqiao	initial	ʃ	ʃ	i	s	_[u]
+Xiangyun	initial	s	s	i		
+Yunlong	initial	s	s	i		
+Yunlong	initial	s	ʃ	i	s	_[v̩/ʮ]
+Zhoucheng	initial	s	s	i		
+Heqing	initial	sʰ	sʰ	i		
+Eryuan	initial	ʂ	ʂ	i		
+Luobenzhuo	initial	ʂ	ʂ	i		
+Eryuan	initial	t	t	i		
+Heqing	initial	t	t	i		
+Jianchuan	initial	t	t	i		
+Lanping	initial	t	t	i		
+Luobenzhuo	initial	t	t	i		
+Qiliqiao	initial	t	t	i		
+Xiangyun	initial	t	t	i		
+Yunlong	initial	t	t	i		
+Zhoucheng	initial	t	t	i		
+Eryuan	initial	tɕ	tɕ	i		
+Heqing	initial	tɕ	tɕ	i		
+Jianchuan	initial	tɕ	tɕ	i		
+Lanping	initial	tɕ	tɕ	i		
+Luobenzhuo	initial	tɕ	tɕ	i		
+Qiliqiao	initial	tɕ	tɕ	i		
+Xiangyun	initial	tɕ	tɕ	i		
+Yunlong	initial	tɕ	tɕ	i		
+Zhoucheng	initial	tɕ	tɕ	i		
+Eryuan	initial	tɕʰ	tɕʰ	i		
+Heqing	initial	tɕʰ	tɕʰ	i		
+Lanping	initial	tɕʰ	tɕʰ	i		
+Luobenzhuo	initial	tɕʰ	tɕʰ	i		
+Qiliqiao	initial	tɕʰ	tɕʰ	i		
+Xiangyun	initial	tɕʰ	tɕʰ	i		
+Yunlong	initial	tɕʰ	tɕʰ	i		
+Zhoucheng	initial	tɕʰ	tɕʰ	i		
+Eryuan	initial	tʰ	tʰ	i		
+Heqing	initial	tʰ	tʰ	i		
+Jianchuan	initial	tʰ	tʰ	i		
+Lanping	initial	tʰ	tʰ	i		
+Luobenzhuo	initial	tʰ	tʰ	i		
+Qiliqiao	initial	tʰ	tʰ	i		
+Xiangyun	initial	tʰ	tʰ	i		
+Yunlong	initial	tʰ	tʰ	i		
+Zhoucheng	initial	tʰ	tʰ	i		
+Eryuan	initial	ts	ts	i		
+Heqing	initial	ts	ts	i		
+Jianchuan	initial	ts	ts	i		
+Lanping	initial	ts	ts	i		
+Luobenzhuo	initial	ts	ts	i		
+Qiliqiao	initial	ts	ts	i		
+Qiliqiao	initial	tʃ	tʃ	i	ts	_[u]
+Xiangyun	initial	ts	ts	i		
+Yunlong	initial	ts	ts	i		
+Zhoucheng	initial	ts	ts	i		
+Eryuan	initial	tsʰ	tsʰ	i		
+Heqing	initial	tsʰ	tsʰ	i		
+Jianchuan	initial	tsʰ	tsʰ	i		
+Jianchuan	initial	tsʰ	tsʰ	i		
+Lanping	initial	tsʰ	tsʰ	i		
+Luobenzhuo	initial	tsʰ	tsʰ	i		
+Qiliqiao	initial	tsʰ	tsʰ	i		
+Qiliqiao	initial	tʃʰ	tʃʰ	i	tsʰ	_[u]
+Xiangyun	initial	tsʰ	tsʰ	i		
+Yunlong	initial	tsʰ	tsʰ	i		
+Zhoucheng	initial	tsʰ	tsʰ	i		
+Eryuan	initial	tʂ	ʈʂ	i		
+Luobenzhuo	initial	tʂ	ʈʂ	i		
+Luobenzhuo	initial	tʃ	tʃ	i	tʂ/ʈʂ	_[u]
+Eryuan	initial	tʂʰ	ʈʂʰ	i		
+Luobenzhuo	initial	tʂʰ	ʈʂʰ	i		
+Luobenzhuo	initial	tʃʰ	tʃʰ	i	tʂʰ/ʈʂʰ	_[u]
+Luobenzhuo	initial	ʈ	ʈ	i		
+Luobenzhuo	initial	ʈʰ	ʈʰ	i		
+Yunlong	initial	ɥ	ɥ	i		
+Eryuan	initial	v	v	i		
+Heqing	initial	v	v	i		
+Jianchuan	initial	v	v	i		
+Lanping	initial	v	v	i		
+Luobenzhuo	initial	v	v	i		
+Qiliqiao	initial	v	v	i		
+Yunlong	initial	v	v	i		
+Zhoucheng	initial	v	v	i		
+Eryuan	initial	w	w	i		
+Heqing	initial	w	w	i		
+Jianchuan	initial	w	w	i		
+Lanping	initial	w	w	i		
+Luobenzhuo	initial	w	w	i		
+Qiliqiao	initial	w	w	i		
+Xiangyun	initial	w	w	i		
+Yunlong	initial	w	w	i		
+Zhoucheng	initial	w	w	i		
+Eryuan	initial	x	x	i		
+Heqing	initial	x	x	i		
+Lanping	initial	x	x	i		
+Luobenzhuo	initial	x	x	i		
+Qiliqiao	initial	x	x	i		
+Xiangyun	initial	x	x	i		
+Yunlong	initial	x	x	i		
+Zhoucheng	initial	x	x	i		
+Heqing	initial	xʰ	xʰ	i		
+Eryuan	initial	z	z	i		
+Heqing	initial	z	z	i		
+Luobenzhuo	initial	z	z	i		
+Qiliqiao	initial	z	z	i		
+Xiangyun	initial	z	z	i		
+Yunlong	initial	z	z	i		
+Zhoucheng	initial	z	z	i		
+Eryuan	initial	ʐ	ʐ	i		
+Lanping	initial	ʐ	ʐ	i		
+Luobenzhuo	initial	ʐ	ʐ	i		
+Luobenzhuo	initial	ʔ	ʔ	i		
+Luobenzhuo	initial	χ	χ	i		
+Eryuan	tone	21	²¹	t		
+Heqing	tone	21	²¹	t		
+Jianchuan	tone	21	²¹	t		
+Lanping	tone	21	²¹	t		
+Luobenzhuo	tone	21	²¹	t		
+Qiliqiao	tone	21	²¹	t		
+Xiangyun	tone	21	²¹	t		
+Yunlong	tone	21	²¹	t		
+Zhoucheng	tone	21	²¹	t		
+Eryuan	tone	31	³¹	t		
+Heqing	tone	31	³¹	t		
+Jianchuan	tone	31	³¹	t		
+Lanping	tone	31	³¹	t		
+Luobenzhuo	tone	31	³¹	t		
+Qiliqiao	tone	31	³¹	t		
+Xiangyun	tone	31	³¹	t		
+Yunlong	tone	31	³¹	t		
+Zhoucheng	tone	31	³¹	t		
+Qiliqiao	tone	32	³²	t		
+Zhoucheng	tone	32	³²	t		
+Eryuan	tone	33	³³	t		
+Heqing	tone	33	³³	t		
+Jianchuan	tone	33	³³	t		
+Lanping	tone	33	³³	t		
+Luobenzhuo	tone	33	³³	t		
+Qiliqiao	tone	33	³³	t		
+Xiangyun	tone	33	³³	t		
+Yunlong	tone	33	³³	t		
+Zhoucheng	tone	33	³³	t		
+Eryuan	tone	35	³⁵	t		
+Heqing	tone	35	³⁵	t		
+Jianchuan	tone	35	³⁵	t		
+Lanping	tone	35	³⁵	t		
+Luobenzhuo	tone	35	³⁵	t		
+Qiliqiao	tone	35	³⁵	t		
+Xiangyun	tone	35	³⁵	t		
+Yunlong	tone	35	³⁵	t		
+Zhoucheng	tone	35	³⁵	t		
+Eryuan	tone	42	⁴²	t		
+Heqing	tone	42	⁴²	t		
+Jianchuan	tone	42	⁴²	t		
+Lanping	tone	42	⁴²	t		
+Luobenzhuo	tone	42	⁴²	t		
+Qiliqiao	tone	42	⁴²	t		
+Xiangyun	tone	42	⁴²	t		
+Yunlong	tone	42	⁴²	t		
+Eryuan	tone	44	⁴⁴	t		
+Heqing	tone	44	⁴⁴	t		
+Jianchuan	tone	44	⁴⁴	t		
+Lanping	tone	44	⁴⁴	t		
+Luobenzhuo	tone	44	⁴⁴	t		
+Qiliqiao	tone	44	⁴⁴	t		
+Xiangyun	tone	44	⁴⁴	t		
+Yunlong	tone	44	⁴⁴	t		
+Zhoucheng	tone	44	⁴⁴	t		
+Zhoucheng	tone	52	⁵²	t		
+Eryuan	tone	55	⁵⁵	t		
+Heqing	tone	55	⁵⁵	t		
+Jianchuan	tone	55	⁵⁵	t		
+Lanping	tone	55	⁵⁵	t		
+Luobenzhuo	tone	55	⁵⁵	t		
+Qiliqiao	tone	55	⁵⁵	t		
+Xiangyun	tone	55	⁵⁵	t		
+Yunlong	tone	55	⁵⁵	t		
+Zhoucheng	tone	55	⁵⁵	t		
+Jianchuan	tone	66	⁶⁶/⁵⁵	t		(only in modern loans)
+Eryuan	vowel	a	a	n		
+Heqing	vowel	a	a	n		
+Jianchuan	vowel	a	a	n		
+Lanping	vowel	a	a	n		
+Luobenzhuo	vowel	a	a	n		
+Qiliqiao	vowel	a	a	n		
+Xiangyun	vowel	a	a	n		
+Yunlong	vowel	a	a	n		
+Zhoucheng	vowel	a	a	n		
+Heqing	vowel	ã	ã	n		
+Jianchuan	vowel	ã	ã	n		
+Lanping	vowel	ã	ã	n		
+Luobenzhuo	vowel	ã	ã	n		
+Xiangyun	vowel	ã	ã	n		
+Luobenzhuo	vowel	æ	æ	n		
+Luobenzhuo	vowel	æ̃	æ̃	n		
+Eryuan	vowel	e	e	n		
+Heqing	vowel	e	e	n		
+Jianchuan	vowel	e	e	n		
+Lanping	vowel	e	e	n		
+Luobenzhuo	vowel	e	e	n		
+Qiliqiao	vowel	e	e	n		
+Xiangyun	vowel	e	e	n		
+Yunlong	vowel	e	e	n		
+Zhoucheng	vowel	e	e	n		
+Heqing	vowel	ẽ	ẽ	n		
+Jianchuan	vowel	ẽ	ẽ	n		
+Lanping	vowel	ẽ	ẽ	n		
+Luobenzhuo	vowel	ẽ	ẽ	n		
+Xiangyun	vowel	ẽ	ẽ	n		
+Eryuan	vowel	ɛ	ɛ	n		
+Heqing	vowel	ɛ	ɛ	n		
+Jianchuan	vowel	ɛ	ɛ	n		
+Lanping	vowel	ɛ	ɛ	n		
+Luobenzhuo	vowel	ɛ	ɛ	n		
+Qiliqiao	vowel	ɛ	ɛ	n		
+Xiangyun	vowel	ɛ	ɛ	n		
+Yunlong	vowel	ɛ	ɛ	n		
+Zhoucheng	vowel	ɛ	ɛ	n		
+Heqing	vowel	ɛ̃	ɛ̃	n		
+Jianchuan	vowel	ɛ̃	ɛ̃	n		
+Lanping	vowel	ɛ̃	ɛ̃	n		
+Luobenzhuo	vowel	ɛ̃	ɛ̃	n		
+Xiangyun	vowel	ɛ̃	ɛ̃	n		
+Eryuan	vowel	i	i	n		
+Heqing	vowel	i	i	n		
+Jianchuan	vowel	i	i	n		
+Eryuan	vowel	ɿ	ɿ	n	i	[s,z,ts,tsʰ]_
+Heqing	vowel	ɿ	ɿ	n	i	[s sʰ z ts tsʰ]_
+Jianchuan	vowel	ɿ	ɿ	n	i	[s ts tsʰ]_
+Lanping	vowel	i	i	n		
+Luobenzhuo	vowel	i	i	n		
+Qiliqiao	vowel	i	i	n		
+Xiangyun	vowel	i	i	n		
+Yunlong	vowel	i	i	n		
+Zhoucheng	vowel	i	i	n		
+Qiliqiao	vowel	ɿ	ɿ	n	i	[s z ts tsʰ]_
+Xiangyun	vowel	ɿ	ɿ	n	i	[s z ts tsʰ]_
+Yunlong	vowel	ɿ	ɿ	n	i	[s z dz ts tsʰ]_
+Zhoucheng	vowel	ɿ	ɿ	n	i	[s sʰ z ts tsʰ]_
+Heqing	vowel	ĩ	ĩ	n		
+Jianchuan	vowel	ĩ	ĩ	n		
+Lanping	vowel	ĩ	ĩ	n		
+Luobenzhuo	vowel	ĩ	ĩ	n		
+Xiangyun	vowel	ĩ	ĩ	n		
+Eryuan	vowel	o	o	n		
+Heqing	vowel	o	o	n		
+Jianchuan	vowel	o	o	n		
+Lanping	vowel	o	o	n		
+Luobenzhuo	vowel	o	o	n		
+Qiliqiao	vowel	o	o	n		
+Xiangyun	vowel	o	o	n		
+Yunlong	vowel	o	o	n		
+Zhoucheng	vowel	o	o	n		
+Heqing	vowel	õ	õ	n		
+Jianchuan	vowel	õ	õ	n		
+Lanping	vowel	õ	õ	n		
+Luobenzhuo	vowel	õ	õ	n		
+Xiangyun	vowel	õ	õ	n		
+Eryuan	vowel	ɔ	ɔ	n		
+Heqing	vowel	ɔ	ɔ	n		
+Lanping	vowel	ɔ	ɔ	n		
+Luobenzhuo	vowel	ɔ	ɔ	n		
+Qiliqiao	vowel	ɔ	ɔ	n		
+Xiangyun	vowel	ɔ	ɔ	n		
+Yunlong	vowel	ɔ	ɔ	n		
+Zhoucheng	vowel	ɔ	ɔ	n		
+Heqing	vowel	ɔ̃	ɔ̃	n		
+Lanping	vowel	ɔ̃	ɔ̃	n		
+Luobenzhuo	vowel	ɔ̃	ɔ̃	n		
+Xiangyun	vowel	ɔ̃	ɔ̃	n	ʮ	
+Eryuan	vowel	u	u	n		
+Heqing	vowel	u	u	n	v̩	[f v]_
+Jianchuan	vowel	u	u	n		
+Lanping	vowel	u	u	n		
+Luobenzhuo	vowel	u	u	n		
+Qiliqiao	vowel	u	u	n		
+Xiangyun	vowel	u	u	n		
+Yunlong	vowel	u	u	n		
+Zhoucheng	vowel	u	u	n		
+Heqing	vowel	ũ	ũ	n		
+Jianchuan	vowel	ũ	ũ	n		
+Lanping	vowel	ũ	ũ	n		
+Luobenzhuo	vowel	ũ	ũ	n		
+Xiangyun	vowel	ũ	ũ	n		(not found in data)
+Eryuan	vowel	ɯ	ɯ	n		
+Heqing	vowel	ɯ	ɯ	n		
+Jianchuan	vowel	ɯ	ɯ	n		
+Lanping	vowel	ɯ	ɯ	n		
+Luobenzhuo	vowel	ɯ	ɯ	n		
+Qiliqiao	vowel	ɯ	ɯ	n		
+Xiangyun	vowel	ɯ	ɯ	n		
+Yunlong	vowel	ɯ	ɯ	n		
+Zhoucheng	vowel	ɯ	ɯ	n		
+Jianchuan	vowel	ɯ̃	ɯ̃	n		
+Lanping	vowel	ɯ̃	ɯ̃	n		
+Luobenzhuo	vowel	ɯ̃	ɯ̃	n		
+Xiangyun	vowel	ɯ̃	ɯ̃	n		
+Luobenzhuo	vowel	ʊ	ʊ	n		
+Luobenzhuo	vowel	ʊ̃	ʊ̃	n		
+Eryuan	vowel	v̩	ʮ	n		
+Jianchuan	vowel	v̩	ʮ	n		
+Luobenzhuo	vowel	v̩	ʮ	n		
+Qiliqiao	vowel	v̩	ʮ	n		
+Xiangyun	vowel	v̩	ʮ	n		
+Yunlong	vowel	v̩	ʮ	n		
+Zhoucheng	vowel	v̩	ʮ	n		
+Jianchuan	vowel	ṽ̩	ʮ̃	n		
+Luobenzhuo	vowel	ṽ̩	ʮ̃	n		
+Xiangyun	vowel	ṽ̩	ʮ̃	n		
+Eryuan	vowel	y	y	n		
+Heqing	vowel	y	y	n		
+Jianchuan	vowel	y	y	n		
+Lanping	vowel	y	y	n		
+Luobenzhuo	vowel	y	y	n		
+Qiliqiao	vowel	y	y	n		
+Xiangyun	vowel	y	y	n		
+Yunlong	vowel	y	y	n		
+Zhoucheng	vowel	y	y	n		[tɕ tɕʰ ȵ j]_
+Heqing	vowel	ỹ	ỹ	n		
+Jianchuan	vowel	ỹ	ỹ	n		
+Lanping	vowel	ỹ	ỹ	n		
+Luobenzhuo	vowel	ỹ	ỹ	n		
+Xiangyun	vowel	ỹ	ỹ	n		
