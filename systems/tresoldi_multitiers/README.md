@@ -46,8 +46,8 @@ usage, but was an important step for this submission also in consideration of
 the limits in computational power.
 
 The complete set of trained models, serialized with `joblib` is available
-at THIS LINK (SIZE). The reduced set of the best models, as found by cross-validation
-during training, is available at THIS LINK (SIZE). *Please note that, due to the
+[here](https://uppsala.box.com/s/r9e8ag12dvpc6q24ufv06fis5v1bappy) (6.4 GB). The reduced set of the best models, as found by cross-validation
+during training, is available [here](https://uppsala.box.com/s/tukf6gbpzqyl89hz6dznvbfxfk5ywl33) (1.1 GB). *Please note that, due to the
 nature of machine learning systems in Python, it cannot be guaranteed that
 the serialized models will work as expected in other systems, even when
 the same version of Python and the libraries is used.*
