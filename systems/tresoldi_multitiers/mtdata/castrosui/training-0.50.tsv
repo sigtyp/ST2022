@@ -1,0 +1,2373 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	JiuqianSouthernSandong	ȶ ə n ¹	ȶ ə n ¹	2
+2	ShuigenCentralSandong	ȶ i n ¹	ȶ i n ¹	2
+3	ShuiweiSouthernSandong	ȶ ə n ¹	ȶ ə n ¹	2
+4	TangzhouWesternSandong	ȶ ə n ¹	ȶ ə n ¹	2
+5	TingpaiWesternSandong	ȶ a n ¹	ȶ a n ¹	2
+6	ZhongheCentralSandong	ȶ ə n ¹	ȶ ə n ¹	2
+7	AntangWesternSandong	ȶ ə n ¹	ȶ ə n ¹	21
+8	DujiangEasternSandong	ȶ ə n ¹	ȶ ə n ¹	21
+9	JiarongSouthernSandong	ȶ i n ¹	ȶ i n ¹	21
+10	JiuqianSouthernSandong	ȶ ə n ¹	ȶ ə n ¹	21
+11	ShuigenCentralSandong	ȶ i n ¹	ȶ i n ¹	21
+12	TangzhouWesternSandong	ȶ ə n ¹	ȶ ə n ¹	21
+13	TingpaiWesternSandong	ȶ a n ¹	ȶ a n ¹	21
+14	ZhongheCentralSandong	ȶ ə n ¹	ȶ ə n ¹	21
+15	JiaoliPandong	d aːu ¹	d aːu ¹	23
+16	ShuiweiSouthernSandong	t aːu ¹	t aːu ¹	23
+17	BanliangYangAn	ŋ a m ¹	ŋ a m ¹	67
+18	DujiangEasternSandong	ŋ a m ¹	ŋ a m ¹	67
+19	JiaoliPandong	ŋ a m ¹	ŋ a m ¹	67
+20	JiuqianSouthernSandong	ŋ a m ¹	ŋ a m ¹	67
+21	RenliEasternSandong	ŋ a m ¹	ŋ a m ¹	67
+22	SanjiangEasternSandong	ŋ a m ¹	ŋ a m ¹	67
+23	ShuigenCentralSandong	ŋ a m ¹	ŋ a m ¹	67
+24	TangnianYangAn	ŋ a m ¹	ŋ a m ¹	67
+25	TangzhouWesternSandong	ŋ a m ¹	ŋ a m ¹	67
+26	ZhongheCentralSandong	ŋ a m ¹	ŋ a m ¹	67
+27	JiarongSouthernSandong	q a ¹	q a ¹	68
+28	ShuiyaoSouthernSandong	q a ¹	q a ¹	68
+29	JiarongSouthernSandong	ȶ u ¹	ȶ u ¹	69
+30	Pandong	ȶ u ¹	ȶ u ¹	69
+31	ShuiweiSouthernSandong	ȶ u ¹	ȶ u ¹	69
+32	ShuiyaoSouthernSandong	ȶ u ¹	ȶ u ¹	69
+33	TingpaiWesternSandong	ȶ u ¹	ȶ u ¹	69
+34	Pandong	q u m ¹	q u m ¹	70
+35	ShuiweiSouthernSandong	q a m ¹	q a m ¹	70
+36	AntangWesternSandong	k a m ¹	k a m ¹	106
+37	DujiangEasternSandong	k a m ¹	k a m ¹	106
+38	JiaoliPandong	k a m ¹	k a m ¹	106
+39	JiuqianSouthernSandong	k a m ¹	k a m ¹	106
+40	RenliEasternSandong	k a m ¹	k a m ¹	106
+41	SanjiangEasternSandong	k a m ¹	k a m ¹	106
+42	ShuigenCentralSandong	k a m ¹	k a m ¹	106
+43	ShuiweiSouthernSandong	k a m ¹	k a m ¹	106
+44	TingpaiWesternSandong	k a m ¹	k a m ¹	106
+45	ZhongheCentralSandong	k a m ¹	k a m ¹	106
+46	TangnianYangAn	t u ŋ ¹	t u ŋ ¹	108
+47	TangzhouWesternSandong	t u ŋ ¹	t u ŋ ¹	108
+48	AntangWesternSandong	l j eu ¹	l j eu ¹	136
+49	DujiangEasternSandong	l j eu ¹	l j eu ¹	136
+50	JiaoliPandong	l j u ¹	l j u ¹	136
+51	Pandong	l j əu ¹	l j əu ¹	136
+52	RenliEasternSandong	l j eu ¹	l j eu ¹	136
+53	SanjiangEasternSandong	l j eu ¹	l j eu ¹	136
+54	ShuigenCentralSandong	l j eu ¹	l j eu ¹	136
+55	TangzhouWesternSandong	l j eu ¹	l j eu ¹	136
+56	TingpaiWesternSandong	l j eu ¹	l j eu ¹	136
+57	ZhongheCentralSandong	l j eu ¹	l j eu ¹	136
+58	BanliangYangAn	ɣ aː ŋ ¹	ɣ aː ŋ ¹	137
+59	JiarongSouthernSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	137
+60	JiuqianSouthernSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	137
+61	ShuiweiSouthernSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	137
+62	ShuiyaoSouthernSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	137
+63	TangnianYangAn	ɣ aː ŋ ¹	ɣ aː ŋ ¹	137
+64	JiaoliPandong	m j u ¹	m j u ¹	169
+65	JiuqianSouthernSandong	ˀm j u ¹	ˀm j u ¹	169
+66	ShuiweiSouthernSandong	ˀm j u ¹	ˀm j u ¹	169
+67	ShuiyaoSouthernSandong	ˀm j u ¹	ˀm j u ¹	169
+68	TangnianYangAn	m j u ¹	m j u ¹	169
+69	RenliEasternSandong	k a ¹	k a ¹	172
+70	SanjiangEasternSandong	k a ¹	k a ¹	172
+71	RenliEasternSandong	p aː ŋ ¹	p aː ŋ ¹	173
+72	SanjiangEasternSandong	p aː ŋ ¹	p aː ŋ ¹	173
+73	ShuigenCentralSandong	j aːu ¹	j aːu ¹	174
+74	ShuiweiSouthernSandong	j aːu ¹	j aːu ¹	174
+75	TangnianYangAn	j aːu ¹	j aːu ¹	174
+76	TangzhouWesternSandong	j aːu ¹	j aːu ¹	174
+77	Pandong	ⁿd ai ¹	ⁿd ai ¹	204
+78	TangzhouWesternSandong	ˀd aːi ¹	ˀd aːi ¹	204
+79	ZhongheCentralSandong	ˀd aːi ¹	ˀd aːi ¹	204
+80	AntangWesternSandong	ȶʰ i ¹	ȶʰ i ¹	225
+81	BanliangYangAn	ȶʰ i ¹	ȶʰ i ¹	225
+82	TangnianYangAn	ȶʰ i ¹	ȶʰ i ¹	225
+83	DujiangEasternSandong	h j a ŋ ¹	h j a ŋ ¹	226
+84	TangzhouWesternSandong	ɕ a ŋ ¹	ɕ - a ŋ ¹	226
+85	ZhongheCentralSandong	ɕ a ŋ ¹	ɕ - a ŋ ¹	226
+86	JiaoliPandong	ɕ i ¹	ɕ i ¹	227
+87	Pandong	ɕ i ¹	ɕ i ¹	227
+88	JiarongSouthernSandong	ts j aː ŋ ¹	ts j aː ŋ ¹	228
+89	JiuqianSouthernSandong	ts j aː ŋ ¹	ts j aː ŋ ¹	228
+90	RenliEasternSandong	ȶ aː ŋ ¹	ȶ - aː ŋ ¹	228
+91	SanjiangEasternSandong	ȶ a ŋ ¹	ȶ - a ŋ ¹	228
+92	ShuigenCentralSandong	ts j aː ŋ ¹	ts j aː ŋ ¹	228
+93	ShuiweiSouthernSandong	ȶ a ŋ ¹	ȶ - a ŋ ¹	228
+94	ShuiyaoSouthernSandong	ts j aː ŋ ¹	ts j aː ŋ ¹	228
+95	AntangWesternSandong	tʰ j e p ¹	tʰ j e p ¹	255
+96	BanliangYangAn	tʰ i p ¹	tʰ - i p ¹	255
+97	JiarongSouthernSandong	tʰ j e p ¹	tʰ j e p ¹	255
+98	JiuqianSouthernSandong	tʰ j e p ¹	tʰ j e p ¹	255
+99	Pandong	tʰ j e p ¹	tʰ j e p ¹	255
+100	ShuigenCentralSandong	tʰ j e p ¹	tʰ j e p ¹	255
+101	TangnianYangAn	tʰ i p ¹	tʰ - i p ¹	255
+102	TangzhouWesternSandong	tʰ i p ¹	tʰ - i p ¹	255
+103	TingpaiWesternSandong	tʰ j a p ¹	tʰ j a p ¹	255
+104	ZhongheCentralSandong	tʰ j e p ¹	tʰ j e p ¹	255
+105	JiaoliPandong	tʰ əː t ¹	tʰ - əː t ¹	258
+106	SanjiangEasternSandong	tʰ j e t ¹	tʰ j e t ¹	258
+107	RenliEasternSandong	l ə t ¹	l ə t ¹	259
+108	ShuiweiSouthernSandong	l ə t ¹	l ə t ¹	259
+109	JiaoliPandong	q au ¹	q au ¹	291
+110	RenliEasternSandong	q o ¹	q o ¹	291
+111	SanjiangEasternSandong	q ə ¹	q ə ¹	291
+112	AntangWesternSandong	n̥ a ¹	n̥ a ¹	343
+113	BanliangYangAn	n̥ a ¹	n̥ a ¹	343
+114	SanjiangEasternSandong	ȵ ui ¹	ȵ ui ¹	343
+115	TangnianYangAn	n̥ a ¹	n̥ a ¹	343
+116	TangzhouWesternSandong	n̥ a ¹	n̥ a ¹	343
+117	ZhongheCentralSandong	n̥ a ¹	n̥ a ¹	343
+118	BanliangYangAn	kʰ a m ¹	kʰ - a m ¹	344
+119	DujiangEasternSandong	h j a m ¹	h j a m ¹	344
+120	JiaoliPandong	h j a m ¹	h j a m ¹	344
+121	ShuigenCentralSandong	ɕ a m ¹	ɕ - a m ¹	344
+122	ShuiweiSouthernSandong	qʰ a m ¹	qʰ - a m ¹	344
+123	ShuiyaoSouthernSandong	qʰ a m ¹	qʰ - a m ¹	344
+124	TangnianYangAn	ɕ a m ¹	ɕ - a m ¹	344
+125	TangzhouWesternSandong	ɕ a m ¹	ɕ - a m ¹	344
+126	TingpaiWesternSandong	ɕ a m ¹	ɕ - a m ¹	344
+127	ZhongheCentralSandong	ɕ a m ¹	ɕ - a m ¹	344
+128	Pandong	h j ã ¹	h j ã - ¹	348
+129	RenliEasternSandong	h j aː ŋ ¹	h j aː ŋ ¹	348
+130	SanjiangEasternSandong	h a ¹	h - a - ¹	348
+131	JiaoliPandong	h̃ o ¹	h̃ o ¹	402
+132	RenliEasternSandong	h o ¹	h o ¹	402
+133	SanjiangEasternSandong	h õ ¹	h õ ¹	402
+134	BanliangYangAn	ȶʰ o t ¹	ȶʰ o t ¹	435
+135	TangnianYangAn	ȶʰ o t ¹	ȶʰ o t ¹	435
+136	TangzhouWesternSandong	ȶʰ o t ¹	ȶʰ o t ¹	435
+137	TingpaiWesternSandong	ȶʰ o t ¹	ȶʰ o t ¹	435
+138	AntangWesternSandong	t u ŋ ¹	t u ŋ ¹	470
+139	BanliangYangAn	t u ŋ ¹	t u ŋ ¹	470
+140	RenliEasternSandong	t u ŋ ¹	t u ŋ ¹	470
+141	ShuiweiSouthernSandong	t u ŋ ¹	t u ŋ ¹	470
+142	TingpaiWesternSandong	t u ŋ ¹	t u ŋ ¹	470
+143	ZhongheCentralSandong	t u ŋ ¹	t u ŋ ¹	470
+144	JiaoliPandong	f a n ¹	f a n ¹	493
+145	ZhongheCentralSandong	f a n ¹	f a n ¹	493
+146	RenliEasternSandong	ⁿb i n ¹	ⁿb i n ¹	495
+147	ZhongheCentralSandong	ˀb i n ¹	ˀb i n ¹	495
+148	JiaoliPandong	v a ¹	v a ¹	513
+149	RenliEasternSandong	v a ¹	v a ¹	513
+150	JiarongSouthernSandong	ʁ a ¹	ʁ a ¹	534
+151	JiuqianSouthernSandong	ʁ a ¹	ʁ a ¹	534
+152	ShuiweiSouthernSandong	ʁ a ¹	ʁ a ¹	534
+153	ShuiyaoSouthernSandong	ʁ a ¹	ʁ a ¹	534
+154	JiaoliPandong	t au ¹	t au ¹	566
+155	Pandong	t au ¹	t au ¹	566
+156	AntangWesternSandong	j i ŋ ¹	j i ŋ ¹	633
+157	DujiangEasternSandong	j i ŋ ¹	j i ŋ ¹	633
+158	JiarongSouthernSandong	j i ŋ ¹	j i ŋ ¹	633
+159	Pandong	j i ŋ ¹	j i ŋ ¹	633
+160	SanjiangEasternSandong	j i ŋ ¹	j i ŋ ¹	633
+161	ShuigenCentralSandong	j i ŋ ¹	j i ŋ ¹	633
+162	ShuiweiSouthernSandong	j i ŋ ¹	j i ŋ ¹	633
+163	ShuiyaoSouthernSandong	j i ŋ ¹	j i ŋ ¹	633
+164	TangzhouWesternSandong	j i ŋ ¹	j i ŋ ¹	633
+165	ZhongheCentralSandong	j i ŋ ¹	j i ŋ ¹	633
+166	JiarongSouthernSandong	ɕ o n ¹	ɕ - o n ¹	800
+167	Pandong	s w ə n ¹	s w ə n ¹	800
+168	JiuqianSouthernSandong	ˀd a ¹	ˀd a ¹	801
+169	ShuiyaoSouthernSandong	ˀd a ¹	ˀd a ¹	801
+170	AntangWesternSandong	ʔ u ¹	ʔ u ¹	816
+171	BanliangYangAn	ʔ u ¹	ʔ u ¹	816
+172	DujiangEasternSandong	ʔ u ¹	ʔ u ¹	816
+173	JiaoliPandong	ʔ u ¹	ʔ u ¹	816
+174	JiarongSouthernSandong	ʔ u ¹	ʔ u ¹	816
+175	JiuqianSouthernSandong	ʔ u ¹	ʔ u ¹	816
+176	ShuigenCentralSandong	ʔ u ¹	ʔ u ¹	816
+177	ShuiyaoSouthernSandong	ʔ u ¹	ʔ u ¹	816
+178	TangnianYangAn	ʔ u ¹	ʔ u ¹	816
+179	ZhongheCentralSandong	ʔ u ¹	ʔ u ¹	816
+180	Pandong	q au ¹	q au ¹	862
+181	ShuiyaoSouthernSandong	q a ¹	q a ¹	862
+182	BanliangYangAn	q aː ŋ ¹	q aː ŋ ¹	967
+183	JiarongSouthernSandong	q aː ŋ ¹	q aː ŋ ¹	967
+184	JiuqianSouthernSandong	q aː ŋ ¹	q aː ŋ ¹	967
+185	ShuiweiSouthernSandong	q aː ŋ ¹	q aː ŋ ¹	967
+186	ShuiyaoSouthernSandong	q aː ŋ ¹	q aː ŋ ¹	967
+187	SanjiangEasternSandong	ⁿb u ¹	ⁿb u ¹	1018
+188	ShuiyaoSouthernSandong	ˀb i ¹	ˀb i ¹	1018
+189	AntangWesternSandong	t u ¹	t - u ¹	1088
+190	BanliangYangAn	t u ¹	t - u ¹	1088
+191	DujiangEasternSandong	t j u ¹	t j u ¹	1088
+192	RenliEasternSandong	t u ¹	t - u ¹	1088
+193	SanjiangEasternSandong	t u ¹	t - u ¹	1088
+194	TingpaiWesternSandong	t o ¹	t - o ¹	1088
+195	ZhongheCentralSandong	t u ¹	t - u ¹	1088
+196	JiaoliPandong	t a ¹	t a ¹	1090
+197	JiarongSouthernSandong	t a ¹	t a ¹	1090
+198	JiuqianSouthernSandong	t a ¹	t a ¹	1090
+199	Pandong	t a ¹	t a ¹	1090
+200	ShuigenCentralSandong	ȶ i ¹	ȶ i ¹	1090
+201	ShuiweiSouthernSandong	t a ¹	t a ¹	1090
+202	ShuiyaoSouthernSandong	t a ¹	t a ¹	1090
+203	TangzhouWesternSandong	t ə ¹	t ə ¹	1090
+204	BanliangYangAn	p a ŋ ¹	p a ŋ ¹	1157
+205	TangnianYangAn	p aː n ¹	p aː n ¹	1157
+206	JiaoliPandong	kʰ e ¹	kʰ e ¹	1158
+207	JiuqianSouthernSandong	q aːu ¹	q aːu ¹	1158
+208	JiaoliPandong	n a ¹	n a ¹	1182
+209	Pandong	n a ¹	n a ¹	1182
+210	AntangWesternSandong	ʔ o ¹	ʔ o ¹	1316
+211	BanliangYangAn	ʔ o ¹	ʔ o ¹	1316
+212	DujiangEasternSandong	ʔ o ¹	ʔ o ¹	1316
+213	JiarongSouthernSandong	ʔ o ¹	ʔ o ¹	1316
+214	JiuqianSouthernSandong	ʔ o ¹	ʔ o ¹	1316
+215	ShuigenCentralSandong	ʔ o ¹	ʔ o ¹	1316
+216	ShuiweiSouthernSandong	ʔ o ¹	ʔ o ¹	1316
+217	TangnianYangAn	ʔ o ¹	ʔ o ¹	1316
+218	TangzhouWesternSandong	ʔ o ¹	ʔ o ¹	1316
+219	ZhongheCentralSandong	ʔ o ¹	ʔ o ¹	1316
+220	BanliangYangAn	l j o k ¹	l j o k ¹	1317
+221	ShuigenCentralSandong	l j o k ¹	l j o k ¹	1317
+222	ShuiweiSouthernSandong	l j o k ¹	l j o k ¹	1317
+223	TangnianYangAn	l j o k ¹	l j o k ¹	1317
+224	TangzhouWesternSandong	l j o k ¹	l j o k ¹	1317
+225	ZhongheCentralSandong	l j o k ¹	l j o k ¹	1317
+226	JiaoliPandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	1318
+227	RenliEasternSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	1318
+228	SanjiangEasternSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	1318
+229	ShuiyaoSouthernSandong	l aː ŋ ¹	l aː ŋ ¹	1318
+230	TingpaiWesternSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	1318
+231	JiaoliPandong	ɣ au ¹	ɣ au ¹	1319
+232	RenliEasternSandong	ɣ au ¹	ɣ au ¹	1319
+233	SanjiangEasternSandong	ɣ au ¹	ɣ au ¹	1319
+234	TingpaiWesternSandong	ɣ au ¹	ɣ au ¹	1319
+235	BanliangYangAn	k au ¹	k au ¹	1345
+236	JiaoliPandong	ɣ o ¹	ɣ o ¹	1345
+237	Pandong	ɣ au ¹	ɣ au ¹	1345
+238	TangnianYangAn	ɣ au ¹	ɣ au ¹	1345
+239	TangzhouWesternSandong	ɣ au ¹	ɣ au ¹	1345
+240	TingpaiWesternSandong	q u ¹	q u ¹	1345
+241	ZhongheCentralSandong	ɣ au ¹	ɣ au ¹	1345
+242	AntangWesternSandong	ˀd j u p ¹	ˀd j u p ¹	1381
+243	TangzhouWesternSandong	ˀd j u p ¹	ˀd j u p ¹	1381
+244	ZhongheCentralSandong	ˀd j u p ¹	ˀd j u p ¹	1381
+245	BanliangYangAn	q e n ¹	q e n ¹	1382
+246	JiarongSouthernSandong	k i ŋ ¹	k i ŋ ¹	1382
+247	JiuqianSouthernSandong	k i ŋ ¹	k i ŋ ¹	1382
+248	ShuiweiSouthernSandong	k i ŋ ¹	k i ŋ ¹	1382
+249	TangnianYangAn	q e n ¹	q e n ¹	1382
+250	TingpaiWesternSandong	k i n ¹	k i n ¹	1382
+251	DujiangEasternSandong	h j ai ¹	h j ai ¹	1383
+252	JiaoliPandong	h j ai ¹	h j ai ¹	1383
+253	RenliEasternSandong	h j ai ¹	h j ai ¹	1383
+254	SanjiangEasternSandong	h j ai ¹	h j ai ¹	1383
+255	JiarongSouthernSandong	ˀn a m ¹	ˀn a m ¹	1417
+256	JiuqianSouthernSandong	ˀn a m ¹	ˀn a m ¹	1417
+257	ShuiweiSouthernSandong	ˀn a m ¹	ˀn a m ¹	1417
+258	AntangWesternSandong	ŋ̊ aːu ¹	ŋ̊ aːu - ¹	1519
+259	BanliangYangAn	ŋ̊ aː n ¹	ŋ̊ aː n ¹	1519
+260	DujiangEasternSandong	ŋ̊ aː n ¹	ŋ̊ aː n ¹	1519
+261	JiarongSouthernSandong	ŋ̊ aː ŋ ¹	ŋ̊ aː ŋ ¹	1519
+262	JiuqianSouthernSandong	ŋ̊ aː n ¹	ŋ̊ aː n ¹	1519
+263	ShuiweiSouthernSandong	ŋ̊ aː n ¹	ŋ̊ aː n ¹	1519
+264	TangnianYangAn	ŋ̊ aː n ¹	ŋ̊ aː n ¹	1519
+265	TangzhouWesternSandong	ŋ̊ aː n ¹	ŋ̊ aː n ¹	1519
+266	TingpaiWesternSandong	ŋ̊ aː n ¹	ŋ̊ aː n ¹	1519
+267	ZhongheCentralSandong	ŋ̊ aː n ¹	ŋ̊ aː n ¹	1519
+268	JiaoliPandong	ȵ i t ¹	ȵ i t ¹	1520
+269	ShuigenCentralSandong	ˀȵ i t ¹	ˀȵ i t ¹	1520
+270	ShuiyaoSouthernSandong	ˀȵ i t ¹	ˀȵ i t ¹	1520
+271	Pandong	pʰ j aː n ¹	pʰ j aː n ¹	1521
+272	RenliEasternSandong	pʰ j aː n ¹	pʰ j aː n ¹	1521
+273	SanjiangEasternSandong	h j aː n ¹	h j aː n ¹	1521
+274	AntangWesternSandong	l o ¹	l o ¹	1571
+275	JiarongSouthernSandong	l o ¹	l o ¹	1571
+276	ShuiweiSouthernSandong	l o ¹	l o ¹	1571
+277	ShuiyaoSouthernSandong	l o ¹	l o ¹	1571
+278	BanliangYangAn	q a m ¹	q a m ¹	1572
+279	TangnianYangAn	q a m ¹	q a m ¹	1572
+280	JiaoliPandong	q oi ¹	q oi ¹	1574
+281	Pandong	q oi ¹	q oi ¹	1574
+282	JiarongSouthernSandong	l o k ¹	l o k ¹	1628
+283	ShuiyaoSouthernSandong	l o k ¹	l o k ¹	1628
+284	AntangWesternSandong	k aː m ¹	k aː m ¹	1678
+285	DujiangEasternSandong	k aː m ¹	k aː m ¹	1678
+286	JiaoliPandong	k aː m ¹	k aː m ¹	1678
+287	RenliEasternSandong	k aː m ¹	k aː m ¹	1678
+288	SanjiangEasternSandong	k aː m ¹	k aː m ¹	1678
+289	ShuigenCentralSandong	k aː m ¹	k aː m ¹	1678
+290	TangzhouWesternSandong	k aː m ¹	k aː m ¹	1678
+291	TingpaiWesternSandong	k aː m ¹	k aː m ¹	1678
+292	ZhongheCentralSandong	k aː m ¹	k aː m ¹	1678
+293	BanliangYangAn	ȶ ai ¹	ȶ ai ¹	1679
+294	JiarongSouthernSandong	ȶ ai ¹	ȶ ai ¹	1679
+295	JiuqianSouthernSandong	ȶ ai ¹	ȶ ai ¹	1679
+296	Pandong	ȶ ai ¹	ȶ ai ¹	1679
+297	ShuiweiSouthernSandong	ȶ ai ¹	ȶ ai ¹	1679
+298	ShuiyaoSouthernSandong	ȶ ai ¹	ȶ ai ¹	1679
+299	TangnianYangAn	ȶ ai ¹	ȶ ai ¹	1679
+300	AntangWesternSandong	ɕ a m ¹	ɕ a m ¹	1712
+301	BanliangYangAn	kʰ a m ¹	kʰ a m ¹	1712
+302	DujiangEasternSandong	n̥ a ¹	n̥ a ¹	1713
+303	JiarongSouthernSandong	n̥ a ¹	n̥ a ¹	1713
+304	JiuqianSouthernSandong	n̥ a ¹	n̥ a ¹	1713
+305	ShuigenCentralSandong	n̥ a ¹	n̥ a ¹	1713
+306	ShuiweiSouthernSandong	n̥ a ¹	n̥ a ¹	1713
+307	ShuiyaoSouthernSandong	n̥ a ¹	n̥ a ¹	1713
+308	TangzhouWesternSandong	n̥ a ¹	n̥ a ¹	1713
+309	TingpaiWesternSandong	n̥ a ¹	n̥ a ¹	1713
+310	Pandong	h j ã ¹	h j ã ¹	1715
+311	RenliEasternSandong	h a ¹	h - a ¹	1715
+312	JiaoliPandong	m o m ¹	m o m ¹	1749
+313	ShuiweiSouthernSandong	m u m ¹	m u m ¹	1749
+314	JiuqianSouthernSandong	m j au ¹	m j au ¹	1787
+315	ShuiweiSouthernSandong	m j au ¹	m j au ¹	1787
+316	JiarongSouthernSandong	h u p ¹	h u p ¹	1801
+317	JiuqianSouthernSandong	h u p ¹	h u p ¹	1801
+318	ShuiweiSouthernSandong	h u p ¹	h u p ¹	1801
+319	ShuiyaoSouthernSandong	h ə p ¹	h ə p ¹	1801
+320	AntangWesternSandong	h j e ¹	h j e ¹	1851
+321	DujiangEasternSandong	h j a ¹	h j a ¹	1851
+322	RenliEasternSandong	h j a ¹	h j a ¹	1851
+323	SanjiangEasternSandong	h j a ¹	h j a ¹	1851
+324	BanliangYangAn	ɕ a ¹	ɕ a ¹	1852
+325	JiarongSouthernSandong	ɕ a ¹	ɕ a ¹	1852
+326	JiuqianSouthernSandong	ɕ a ¹	ɕ a ¹	1852
+327	ShuigenCentralSandong	ɕ a ¹	ɕ a ¹	1852
+328	ShuiweiSouthernSandong	ɕ a ¹	ɕ a ¹	1852
+329	ShuiyaoSouthernSandong	ɕ a ¹	ɕ a ¹	1852
+330	TangnianYangAn	ɕ a ¹	ɕ a ¹	1852
+331	TangzhouWesternSandong	ɕ e ¹	ɕ e ¹	1852
+332	ZhongheCentralSandong	ɕ a ¹	ɕ a ¹	1852
+333	JiaoliPandong	l j e ¹	l j e ¹	1853
+334	Pandong	l j a ¹	l j a ¹	1853
+335	TingpaiWesternSandong	l j a ¹	l j a ¹	1853
+336	AntangWesternSandong	n a m ¹	n a m ¹	1932
+337	BanliangYangAn	n a m ¹	n a m ¹	1932
+338	JiaoliPandong	n a m ¹	n a m ¹	1932
+339	Pandong	n a m ¹	n a m ¹	1932
+340	TangnianYangAn	n a m ¹	n a m ¹	1932
+341	BanliangYangAn	m e ¹	m e ¹	1934
+342	TangnianYangAn	m e ¹	m e ¹	1934
+343	AntangWesternSandong	ʔ j a m ¹	ʔ j a m ¹	1954
+344	BanliangYangAn	j aː m ¹	- j aː m ¹	1954
+345	TangnianYangAn	j aː m ¹	- j aː m ¹	1954
+346	TangzhouWesternSandong	ʔ j a m ¹	ʔ j a m ¹	1954
+347	DujiangEasternSandong	n aː n ¹	n aː n ¹	1955
+348	JiaoliPandong	n aː n ¹	n aː n ¹	1955
+349	RenliEasternSandong	n aː n ¹	n aː n ¹	1955
+350	SanjiangEasternSandong	n aː n ¹	n aː n ¹	1955
+351	JiarongSouthernSandong	ˀȵ aː m ¹	ˀȵ aː m ¹	1956
+352	JiuqianSouthernSandong	ˀȵ aː m ¹	ˀȵ aː m ¹	1956
+353	ShuigenCentralSandong	ˀȵ aː m ¹	ˀȵ aː m ¹	1956
+354	ShuiweiSouthernSandong	ˀȵ aː m ¹	ˀȵ aː m ¹	1956
+355	ShuiyaoSouthernSandong	ˀȵ aː m ¹	ˀȵ aː m ¹	1956
+356	TingpaiWesternSandong	ˀȵ aː m ¹	ˀȵ aː m ¹	1956
+357	ZhongheCentralSandong	ˀȵ aː m ¹	ˀȵ aː m ¹	1956
+358	AntangWesternSandong	ts i m ¹	ts - i m ¹	1971
+359	BanliangYangAn	ts i m ¹	ts - i m ¹	1971
+360	DujiangEasternSandong	ȶ i m ¹	ȶ - i m ¹	1971
+361	JiaoliPandong	ts ə m ¹	ts - ə m ¹	1971
+362	JiuqianSouthernSandong	ts j u m ¹	ts j u m ¹	1971
+363	Pandong	ȶ i m ¹	ȶ - i m ¹	1971
+364	TangnianYangAn	ts i m ¹	ts - i m ¹	1971
+365	TangzhouWesternSandong	ts i m ¹	ts - i m ¹	1971
+366	TingpaiWesternSandong	ts i m ¹	ts - i m ¹	1971
+367	JiarongSouthernSandong	l u ¹	l u ¹	1973
+368	RenliEasternSandong	l u ¹	l u ¹	1973
+369	ShuiweiSouthernSandong	l u ¹	l u ¹	1973
+370	ShuiyaoSouthernSandong	l u ¹	l u ¹	1973
+371	TingpaiWesternSandong	l u ¹	l u ¹	1973
+372	JiarongSouthernSandong	ts j u p ¹	ts j u p ¹	1974
+373	SanjiangEasternSandong	s u p ¹	s - u p ¹	1974
+374	ShuiweiSouthernSandong	s u p ¹	s - u p ¹	1974
+375	RenliEasternSandong	l j aː n ¹	l j aː n ¹	1975
+376	SanjiangEasternSandong	l j aː n ¹	l j aː n ¹	1975
+377	ShuigenCentralSandong	ts aː n ¹	ts aː n ¹	1976
+378	ZhongheCentralSandong	ts aː n ¹	ts aː n ¹	1976
+379	AntangWesternSandong	p o n ¹	p - o n ¹	1996
+380	BanliangYangAn	p o n ¹	p - o n ¹	1996
+381	ShuigenCentralSandong	pʰ o n ¹	pʰ - o n ¹	1996
+382	TangnianYangAn	pʰ o n ¹	pʰ - o n ¹	1996
+383	TangzhouWesternSandong	p o n ¹	p - o n ¹	1996
+384	TingpaiWesternSandong	pʰ w a n ¹	pʰ w a n ¹	1996
+385	ZhongheCentralSandong	pʰ o n ¹	pʰ - o n ¹	1996
+386	DujiangEasternSandong	t j e p ¹	t j e p ¹	1997
+387	RenliEasternSandong	t j e p ¹	t j e p ¹	1997
+388	ShuigenCentralSandong	t j e p ¹	t j e p ¹	1997
+389	ShuiweiSouthernSandong	t j e p ¹	t j e p ¹	1997
+390	TangnianYangAn	t j e ¹	t j e - ¹	1997
+391	JiarongSouthernSandong	ts j e n ¹	ts j e n ¹	2000
+392	JiuqianSouthernSandong	ts j e n ¹	ts j e n ¹	2000
+393	Pandong	t e ŋ ¹	t - e ŋ ¹	2000
+394	SanjiangEasternSandong	ts e n ¹	ts - e n ¹	2000
+395	AntangWesternSandong	m̥ a ¹	m̥ a ¹	2016
+396	DujiangEasternSandong	m̥ a ¹	m̥ a ¹	2016
+397	JiarongSouthernSandong	m̥ a ¹	m̥ a ¹	2016
+398	JiuqianSouthernSandong	m̥ a ¹	m̥ a ¹	2016
+399	ShuigenCentralSandong	m̥ a ¹	m̥ a ¹	2016
+400	ShuiweiSouthernSandong	m̥ a ¹	m̥ a ¹	2016
+401	ShuiyaoSouthernSandong	m̥ a ¹	m̥ a ¹	2016
+402	TangzhouWesternSandong	m̥ a ¹	m̥ a ¹	2016
+403	TingpaiWesternSandong	m̥ a ¹	m̥ a ¹	2016
+404	ZhongheCentralSandong	m̥ a ¹	m̥ a ¹	2016
+405	BanliangYangAn	pʰ w a ¹	pʰ w a ¹	2017
+406	JiaoliPandong	pʰ w a ¹	pʰ w a ¹	2017
+407	Pandong	pʰ w a ¹	pʰ w a ¹	2017
+408	RenliEasternSandong	pʰ w a ¹	pʰ w a ¹	2017
+409	SanjiangEasternSandong	h w a ¹	h w a ¹	2017
+410	TangnianYangAn	pʰ w a ¹	pʰ w a ¹	2017
+411	JiarongSouthernSandong	q au ¹	q au ¹	2053
+412	JiuqianSouthernSandong	q au ¹	q au ¹	2053
+413	ShuiweiSouthernSandong	q au ¹	q au ¹	2053
+414	ShuiyaoSouthernSandong	q au ¹	q au ¹	2053
+415	AntangWesternSandong	s ɿ ¹	s ɿ ¹	2087
+416	ZhongheCentralSandong	s ɿ ¹	s ɿ ¹	2087
+417	DujiangEasternSandong	s aː n ¹	s aː n ¹	2089
+418	JiuqianSouthernSandong	s aː n ¹	s aː n ¹	2089
+419	Pandong	s a n ¹	s a n ¹	2089
+420	RenliEasternSandong	s aː n ¹	s aː n ¹	2089
+421	SanjiangEasternSandong	s aː n ¹	s aː n ¹	2089
+422	ShuiweiSouthernSandong	s aː n ¹	s aː n ¹	2089
+423	BanliangYangAn	t j aːi ¹	t j aːi ¹	2249
+424	TangnianYangAn	t j aːi ¹	t j aːi ¹	2249
+425	BanliangYangAn	t j aːi ¹	t j aːi ¹	2267
+426	TangnianYangAn	t j aːi ¹	t j aːi ¹	2267
+427	BanliangYangAn	m j aː k ¹	m j aː k ¹	2268
+428	TangnianYangAn	m j aː k ¹	m j aː k ¹	2268
+429	AntangWesternSandong	j ə n ¹	j ə n ¹	2319
+430	BanliangYangAn	j ə n ¹	j ə n ¹	2319
+431	DujiangEasternSandong	j ə n ¹	j ə n ¹	2319
+432	JiaoliPandong	j a n ¹	j a n ¹	2319
+433	JiuqianSouthernSandong	j ə n ¹	j ə n ¹	2319
+434	Pandong	j a n ¹	j a n ¹	2319
+435	RenliEasternSandong	j ə n ¹	j ə n ¹	2319
+436	ShuigenCentralSandong	j ə n ¹	j ə n ¹	2319
+437	ShuiweiSouthernSandong	j ə n ¹	j ə n ¹	2319
+438	TangnianYangAn	j ə n ¹	j ə n ¹	2319
+439	TingpaiWesternSandong	j a n ¹	j a n ¹	2319
+440	JiarongSouthernSandong	t aː ŋ ¹	t aː ŋ ¹	2320
+441	JiuqianSouthernSandong	t aː ŋ ¹	t aː ŋ ¹	2320
+442	JiaoliPandong	ts a p ¹	ts a p ¹	2321
+443	Pandong	ȶ a p ¹	ȶ a p ¹	2321
+444	RenliEasternSandong	ts a p ¹	ts a p ¹	2321
+445	SanjiangEasternSandong	ts a p ¹	ts a p ¹	2321
+446	ShuiyaoSouthernSandong	ts a p ¹	ts a p ¹	2321
+447	TangnianYangAn	p j aːi ¹	p j aːi ¹	2322
+448	TangzhouWesternSandong	p j aːi ¹	p j aːi ¹	2322
+449	AntangWesternSandong	ȶ e ¹	ȶ e ¹	2340
+450	JiaoliPandong	ȶ e ¹	ȶ e ¹	2340
+451	TangzhouWesternSandong	ȶ e ¹	ȶ e ¹	2340
+452	TingpaiWesternSandong	ȶ e ¹	ȶ e ¹	2340
+453	JiaoliPandong	qʰ ui ¹	qʰ ui ¹	2358
+454	Pandong	qʰ ui ¹	qʰ ui ¹	2358
+455	AntangWesternSandong	t a ¹	t a ¹	2392
+456	TangzhouWesternSandong	t a ¹	t a ¹	2392
+457	AntangWesternSandong	ˀd i ¹	ˀd i ¹	2412
+458	DujiangEasternSandong	ⁿd i ¹	ⁿd i ¹	2412
+459	JiaoliPandong	ⁿd i ¹	ⁿd i ¹	2412
+460	Pandong	ⁿd i ¹	ⁿd i ¹	2412
+461	RenliEasternSandong	ⁿd i ¹	ⁿd i ¹	2412
+462	SanjiangEasternSandong	ⁿd i ¹	ⁿd i ¹	2412
+463	ShuigenCentralSandong	ˀd i ¹	ˀd i ¹	2412
+464	TangzhouWesternSandong	ˀd i ¹	ˀd i ¹	2412
+465	TingpaiWesternSandong	ˀd i ¹	ˀd i ¹	2412
+466	ZhongheCentralSandong	ˀd i ¹	ˀd i ¹	2412
+467	BanliangYangAn	k aːi ¹	k aːi ¹	2413
+468	ShuiyaoSouthernSandong	q aːi ¹	q aːi ¹	2413
+469	JiarongSouthernSandong	h aː n ¹	h aː n ¹	2414
+470	JiuqianSouthernSandong	h aː n ¹	h aː n ¹	2414
+471	ShuiweiSouthernSandong	h aː n ¹	h aː n ¹	2414
+472	BanliangYangAn	p ui ¹	p ui ¹	2447
+473	TangnianYangAn	p ui ¹	p ui ¹	2447
+474	BanliangYangAn	ȵ aː ŋ ¹	ȵ aː ŋ ¹	2552
+475	TangnianYangAn	ȵ aː ŋ ¹	ȵ aː ŋ ¹	2552
+476	AntangWesternSandong	h i k ¹	h i k ¹	2568
+477	JiaoliPandong	h i ¹	h i - ¹	2568
+478	Pandong	h i ¹	h i - ¹	2568
+479	ShuigenCentralSandong	h i k ¹	h i k ¹	2568
+480	TangnianYangAn	s i ¹	s i - ¹	2568
+481	ZhongheCentralSandong	ɕ i k ¹	ɕ i k ¹	2568
+482	BanliangYangAn	n u n ¹	n u n ¹	2569
+483	DujiangEasternSandong	n u n ¹	n u n ¹	2569
+484	JiarongSouthernSandong	n u n ¹	n u n ¹	2569
+485	RenliEasternSandong	n u n ¹	n u n ¹	2569
+486	SanjiangEasternSandong	n u n ¹	n u n ¹	2569
+487	ShuigenCentralSandong	n u n ¹	n u n ¹	2569
+488	ShuiweiSouthernSandong	n u n ¹	n u n ¹	2569
+489	TangzhouWesternSandong	n u n ¹	n u n ¹	2569
+490	TingpaiWesternSandong	n u n ¹	n u n ¹	2569
+491	ShuiyaoSouthernSandong	t i ¹	t i ¹	2571
+492	TangnianYangAn	t i ¹	t i ¹	2571
+493	TangzhouWesternSandong	t i ¹	t i ¹	2571
+494	AntangWesternSandong	m o n ¹	m - o n ¹	2589
+495	Pandong	m w ə n ¹	m w ə n ¹	2589
+496	TangnianYangAn	m u n ¹	m - u n ¹	2589
+497	TangzhouWesternSandong	m u n ¹	m - u n ¹	2589
+498	ZhongheCentralSandong	m o n ¹	m - o n ¹	2589
+499	BanliangYangAn	n̥ aː ŋ ¹	n̥ aː ŋ ¹	2590
+500	DujiangEasternSandong	n̥ aː ŋ ¹	n̥ aː ŋ ¹	2590
+501	JiuqianSouthernSandong	n̥ aː ŋ ¹	n̥ aː ŋ ¹	2590
+502	RenliEasternSandong	h aː ŋ ¹	h aː ŋ ¹	2590
+503	SanjiangEasternSandong	h aː ŋ ¹	h aː ŋ ¹	2590
+504	ShuigenCentralSandong	n̥ aː ŋ ¹	n̥ aː ŋ ¹	2590
+505	ShuiweiSouthernSandong	n̥ aː ŋ ¹	n̥ aː ŋ ¹	2590
+506	ShuiyaoSouthernSandong	n̥ o n ¹	n̥ o n ¹	2590
+507	TingpaiWesternSandong	n̥ aː ŋ ¹	n̥ aː ŋ ¹	2590
+508	ShuigenCentralSandong	t o ŋ ¹	t o ŋ ¹	2623
+509	ShuiweiSouthernSandong	t o ŋ ¹	t o ŋ ¹	2623
+510	ShuiyaoSouthernSandong	t o ŋ ¹	t o ŋ ¹	2623
+511	TingpaiWesternSandong	t o ŋ ¹	t o ŋ ¹	2623
+512	BanliangYangAn	ȵ ə n ¹	ȵ ə n ¹	2723
+513	JiuqianSouthernSandong	ˀȵ ə n ¹	ˀȵ ə n ¹	2723
+514	ShuiweiSouthernSandong	ˀȵ ə n ¹	ˀȵ ə n ¹	2723
+515	ShuiyaoSouthernSandong	ˀȵ i n ¹	ˀȵ i n ¹	2723
+516	DujiangEasternSandong	ȵ u ¹	ȵ u ¹	2724
+517	ShuigenCentralSandong	ȵ̥ u ¹	ȵ̥ u ¹	2724
+518	TangzhouWesternSandong	ȵ̥ u ¹	ȵ̥ u ¹	2724
+519	TingpaiWesternSandong	ȵ̥ u ¹	ȵ̥ u ¹	2724
+520	JiaoliPandong	h̃ j u ¹	h̃ j u ¹	2725
+521	Pandong	h̃ j u ¹	h̃ j u ¹	2725
+522	BanliangYangAn	q u ¹	q u - ¹	2750
+523	ZhongheCentralSandong	k u ŋ ¹	k u ŋ ¹	2750
+524	BanliangYangAn	ȵ u ŋ ¹	ȵ u ŋ ¹	2822
+525	TangnianYangAn	ȵ u ŋ ¹	ȵ u ŋ ¹	2822
+526	JiaoliPandong	t i ¹	t i ¹	2890
+527	Pandong	t i ¹	t i ¹	2890
+528	AntangWesternSandong	t a ¹	t a ¹	2907
+529	BanliangYangAn	t a ¹	t a ¹	2907
+530	ShuigenCentralSandong	t a ¹	t a ¹	2907
+531	TangzhouWesternSandong	t a ¹	t a ¹	2907
+532	TingpaiWesternSandong	t a ¹	t a ¹	2907
+533	DujiangEasternSandong	ˀn a ¹	ˀn a ¹	2909
+534	JiaoliPandong	n a ¹	n a ¹	2909
+535	Pandong	n a ¹	n a ¹	2909
+536	RenliEasternSandong	n a ¹	n a ¹	2909
+537	SanjiangEasternSandong	n a ¹	n a ¹	2909
+538	ZhongheCentralSandong	ˀn a ¹	ˀn a ¹	2909
+539	JiarongSouthernSandong	q ə ¹	q ə ¹	2910
+540	JiuqianSouthernSandong	k u ¹	k u ¹	2910
+541	BanliangYangAn	m ai ¹	m ai ¹	2941
+542	TangnianYangAn	m ai ¹	m ai ¹	2941
+543	AntangWesternSandong	ȶ j u ¹	ȶ j u ¹	2993
+544	DujiangEasternSandong	ȶ j u ¹	ȶ j u ¹	2993
+545	JiaoliPandong	ȶ j u ¹	ȶ j u ¹	2993
+546	JiarongSouthernSandong	ȶ j u ¹	ȶ j u ¹	2993
+547	JiuqianSouthernSandong	ȶ j u ¹	ȶ j u ¹	2993
+548	ShuigenCentralSandong	ȶ j u ¹	ȶ j u ¹	2993
+549	ShuiweiSouthernSandong	t u ¹	t - u ¹	2993
+550	ShuiyaoSouthernSandong	ȶ u ¹	ȶ - u ¹	2993
+551	TingpaiWesternSandong	ȶ j u ¹	ȶ j u ¹	2993
+552	ZhongheCentralSandong	ȶ j u ¹	ȶ j u ¹	2993
+553	BanliangYangAn	p aː n ¹	p aː n ¹	2994
+554	ShuiweiSouthernSandong	kʷ e n ¹	kʷ e n ¹	2994
+555	TangnianYangAn	p aː n ¹	p aː n ¹	2994
+556	TangzhouWesternSandong	pʰ ə ŋ ¹	pʰ ə ŋ ¹	2994
+557	Pandong	n au ¹	n au ¹	2995
+558	RenliEasternSandong	n aːu ¹	n aːu ¹	2995
+559	SanjiangEasternSandong	n aːu ¹	n aːu ¹	2995
+560	Pandong	t au ¹	t au ¹	2996
+561	RenliEasternSandong	ts au ¹	ts au ¹	2996
+562	SanjiangEasternSandong	ts au ¹	ts au ¹	2996
+563	AntangWesternSandong	ˀd j u p ¹	ˀd j u p ¹	3051
+564	BanliangYangAn	l j u p ¹	l j u p ¹	3051
+565	JiuqianSouthernSandong	ˀd j u p ¹	ˀd j u p ¹	3051
+566	ShuigenCentralSandong	ˀd j u p ¹	ˀd j u p ¹	3051
+567	TangnianYangAn	l j ʊ p ¹	l j ʊ p ¹	3051
+568	ShuigenCentralSandong	k ə ¹	k ə ¹	3052
+569	TangnianYangAn	k ə ¹	k ə ¹	3052
+570	AntangWesternSandong	k w a n ¹	k w a n ¹	3053
+571	JiuqianSouthernSandong	k w a n ¹	k w a n ¹	3053
+572	AntangWesternSandong	t u k ¹	t u k ¹	3126
+573	BanliangYangAn	t u k ¹	t u k ¹	3126
+574	ShuigenCentralSandong	t u k ¹	t u k ¹	3126
+575	TangnianYangAn	t u k ¹	t u k ¹	3126
+576	TangzhouWesternSandong	t u k ¹	t u k ¹	3126
+577	TingpaiWesternSandong	t u k ¹	t u k ¹	3126
+578	ZhongheCentralSandong	t u k ¹	t u k ¹	3126
+579	DujiangEasternSandong	f j a ¹	f j a ¹	3128
+580	JiarongSouthernSandong	f a ¹	f - a ¹	3128
+581	JiuqianSouthernSandong	f j a ¹	f j a ¹	3128
+582	ShuiweiSouthernSandong	f j a ¹	f j a ¹	3128
+583	ShuiyaoSouthernSandong	f a ¹	f - a ¹	3128
+584	JiaoliPandong	k u ŋ ¹	k u ŋ ¹	3129
+585	Pandong	kʰ o ŋ ¹	kʰ o ŋ ¹	3129
+586	RenliEasternSandong	j o ¹	j o ¹	3130
+587	SanjiangEasternSandong	j o ¹	j o ¹	3130
+588	BanliangYangAn	l j e ¹	l j e ¹	3160
+589	TangnianYangAn	l j e ¹	l j e ¹	3160
+590	AntangWesternSandong	n aːu ¹	n aːu ¹	3176
+591	JiaoliPandong	n aːu ¹	n aːu ¹	3176
+592	TangzhouWesternSandong	n aːu ¹	n aːu ¹	3176
+593	ZhongheCentralSandong	n aːu ¹	n aːu ¹	3176
+594	BanliangYangAn	t a ¹	t a ¹	3177
+595	Pandong	t a ¹	t a ¹	3177
+596	TangnianYangAn	t a ¹	t a ¹	3177
+597	JiarongSouthernSandong	ɕ o n ¹	ɕ - o n ¹	3179
+598	JiuqianSouthernSandong	ɕ o n ¹	ɕ - o n ¹	3179
+599	RenliEasternSandong	h ɥ a n ¹	h ɥ a n ¹	3179
+600	SanjiangEasternSandong	h j o n ¹	h j o n ¹	3179
+601	ShuiyaoSouthernSandong	ɕ o n ¹	ɕ - o n ¹	3179
+602	TingpaiWesternSandong	ɕ w a n ¹	ɕ w a n ¹	3179
+603	ShuigenCentralSandong	s j e ¹	s j e ¹	3181
+604	ShuiweiSouthernSandong	s j e ¹	s j e ¹	3181
+605	BanliangYangAn	l aːi ¹	l aːi ¹	3195
+606	TangnianYangAn	l aːi ¹	l aːi ¹	3195
+607	JiarongSouthernSandong	qʰ aː n ¹	qʰ aː n ¹	3264
+608	JiuqianSouthernSandong	qʰ aː n ¹	qʰ aː n ¹	3264
+609	ShuiweiSouthernSandong	qʰ aː n ¹	qʰ aː n ¹	3264
+610	ShuiyaoSouthernSandong	qʰ aː n ¹	qʰ aː n ¹	3264
+611	BanliangYangAn	t j a k ¹	t j a k ¹	3294
+612	JiarongSouthernSandong	t a k ¹	t - a k ¹	3294
+613	RenliEasternSandong	ⁿd j a k ¹	ⁿd j a k ¹	3294
+614	TangnianYangAn	ⁿd j a k ¹	ⁿd j a k ¹	3294
+615	Pandong	h au ¹	h au ¹	3297
+616	SanjiangEasternSandong	h au ¹	h au ¹	3297
+617	RenliEasternSandong	ŋ au ¹	ŋ au ¹	3298
+618	SanjiangEasternSandong	ŋ a ¹	ŋ a ¹	3298
+619	BanliangYangAn	f u ¹	f u ¹	3318
+620	TangnianYangAn	f u ¹	f u ¹	3318
+621	Pandong	h̃ w aː t ¹	h̃ w aː t ¹	3415
+622	TangnianYangAn	h̃ w aː t ¹	h̃ w aː t ¹	3415
+623	AntangWesternSandong	ˀd a ¹	ˀd a ¹	3447
+624	DujiangEasternSandong	ⁿd a ¹	ⁿd a ¹	3447
+625	JiaoliPandong	ⁿd a ¹	ⁿd a ¹	3447
+626	Pandong	ⁿd a ¹	ⁿd a ¹	3447
+627	RenliEasternSandong	ⁿd a ¹	ⁿd a ¹	3447
+628	SanjiangEasternSandong	ⁿd a ¹	ⁿd a ¹	3447
+629	ShuigenCentralSandong	ˀd a ¹	ˀd a ¹	3447
+630	TangzhouWesternSandong	ˀd a ¹	ˀd a ¹	3447
+631	TingpaiWesternSandong	ˀd a ¹	ˀd a ¹	3447
+632	ZhongheCentralSandong	ˀd a ¹	ˀd a ¹	3447
+633	BanliangYangAn	q a ¹	q a ¹	3448
+634	JiarongSouthernSandong	q a ¹	q a ¹	3448
+635	JiuqianSouthernSandong	q a ¹	q a ¹	3448
+636	ShuiweiSouthernSandong	q a ¹	q a ¹	3448
+637	ShuiyaoSouthernSandong	q a ¹	q a ¹	3448
+638	AntangWesternSandong	m aːu ¹	m aːu ¹	3481
+639	JiaoliPandong	m aːu ¹	m aːu ¹	3481
+640	Pandong	m aːu ¹	m aːu ¹	3481
+641	ShuiyaoSouthernSandong	m aːu ¹	m aːu ¹	3481
+642	TangzhouWesternSandong	m aːu ¹	m aːu ¹	3481
+643	ZhongheCentralSandong	m aːu ¹	m aːu ¹	3481
+644	BanliangYangAn	ȵ o n ¹	ȵ - o n ¹	3482
+645	DujiangEasternSandong	ȵ o n ¹	ȵ - o n ¹	3482
+646	JiarongSouthernSandong	ȵ o n ¹	ȵ - o n ¹	3482
+647	JiuqianSouthernSandong	ȵ o n ¹	ȵ - o n ¹	3482
+648	RenliEasternSandong	ȵ w a n ¹	ȵ w a n ¹	3482
+649	SanjiangEasternSandong	ȵ o n ¹	ȵ - o n ¹	3482
+650	ShuigenCentralSandong	ȵ o n ¹	ȵ - o n ¹	3482
+651	ShuiweiSouthernSandong	ȵ o n ¹	ȵ - o n ¹	3482
+652	TangnianYangAn	ȵ u n ¹	ȵ - u n ¹	3482
+653	TingpaiWesternSandong	ȵ o n ¹	ȵ - o n ¹	3482
+654	AntangWesternSandong	k u ¹	k u ¹	3498
+655	JiaoliPandong	k u ¹	k u ¹	3498
+656	Pandong	k u ¹	k u ¹	3498
+657	BanliangYangAn	k aːu ¹	k aːu ¹	3499
+658	TangnianYangAn	k aːu ¹	k aːu ¹	3499
+659	BanliangYangAn	t aːu ¹	t aːu ¹	3533
+660	TangnianYangAn	t aːu ¹	t aːu ¹	3533
+661	AntangWesternSandong	ˀm au ¹	ˀm au ¹	3602
+662	BanliangYangAn	m au ¹	m au ¹	3602
+663	ShuigenCentralSandong	ˀm au ¹	ˀm au ¹	3602
+664	ZhongheCentralSandong	ˀm au ¹	ˀm au ¹	3602
+665	BanliangYangAn	n u ¹	n u ¹	3603
+666	JiarongSouthernSandong	n o ¹	n o ¹	3603
+667	Pandong	n u ¹	n u ¹	3603
+668	RenliEasternSandong	n u ¹	n u ¹	3603
+669	TangnianYangAn	n u ¹	n u ¹	3603
+670	TangzhouWesternSandong	n u ¹	n u ¹	3603
+671	TingpaiWesternSandong	n u ¹	n u ¹	3603
+672	DujiangEasternSandong	q u m ¹	q u m ¹	3604
+673	JiaoliPandong	q u m ¹	q u m ¹	3604
+674	JiuqianSouthernSandong	q u m ¹	q u m ¹	3604
+675	Pandong	h u m ¹	h u m ¹	3604
+676	SanjiangEasternSandong	q u m ¹	q u m ¹	3604
+677	TingpaiWesternSandong	h u m ¹	h u m ¹	3604
+678	AntangWesternSandong	k w aː k ¹	k w aː k ¹	3625
+679	DujiangEasternSandong	k w aː k ¹	k w aː k ¹	3625
+680	JiaoliPandong	k o k ¹	k - o k ¹	3625
+681	Pandong	k w ə k ¹	k w ə k ¹	3625
+682	SanjiangEasternSandong	k w aː k ¹	k w aː k ¹	3625
+683	ShuigenCentralSandong	k w aː k ¹	k w aː k ¹	3625
+684	TangzhouWesternSandong	k w aː k ¹	k w aː k ¹	3625
+685	TingpaiWesternSandong	k w a k ¹	k w a k ¹	3625
+686	ZhongheCentralSandong	k w aː k ¹	k w aː k ¹	3625
+687	BanliangYangAn	ȶ aː k ¹	ȶ aː k ¹	3627
+688	TangnianYangAn	ȶ aː k ¹	ȶ aː k ¹	3627
+689	JiarongSouthernSandong	ts ai ¹	ts ai ¹	3628
+690	JiuqianSouthernSandong	ts ai ¹	ts ai ¹	3628
+691	RenliEasternSandong	ts ai ¹	ts ai ¹	3628
+692	ShuigenCentralSandong	ts ai ¹	ts ai ¹	3628
+693	ShuiweiSouthernSandong	ts ai ¹	ts ai ¹	3628
+694	ShuiyaoSouthernSandong	ts ai ¹	ts ai ¹	3628
+695	JiarongSouthernSandong	q aːu ¹	q aːu ¹	3663
+696	JiuqianSouthernSandong	q aːu ¹	q aːu ¹	3663
+697	ShuiweiSouthernSandong	q aːu ¹	q aːu ¹	3663
+698	ShuiyaoSouthernSandong	q aːu ¹	q aːu ¹	3663
+699	BanliangYangAn	l aːu ¹	l aːu ¹	3697
+700	TangnianYangAn	l aːu ¹	l aːu ¹	3697
+701	BanliangYangAn	ʔ ai ¹	ʔ ai ¹	3766
+702	JiaoliPandong	ʔ ai ¹	ʔ ai ¹	3766
+703	JiuqianSouthernSandong	ʔ ai ¹	ʔ ai ¹	3766
+704	Pandong	ʔ ai ¹	ʔ ai ¹	3766
+705	RenliEasternSandong	ʔ ai ¹	ʔ ai ¹	3766
+706	SanjiangEasternSandong	ʔ ai ¹	ʔ ai ¹	3766
+707	TangnianYangAn	ʔ ai ¹	ʔ ai ¹	3766
+708	ZhongheCentralSandong	ʔ ai ¹	ʔ ai ¹	3766
+709	RenliEasternSandong	ⁿb aː n ¹	ⁿb aː n ¹	3769
+710	SanjiangEasternSandong	ⁿb aː n ¹	ⁿb aː n ¹	3769
+711	AntangWesternSandong	l aːu ¹	l aːu ¹	3790
+712	DujiangEasternSandong	l aːu ¹	l aːu ¹	3790
+713	JiaoliPandong	l aːu ¹	l aːu ¹	3790
+714	Pandong	l aːu ¹	l aːu ¹	3790
+715	RenliEasternSandong	l aːu ¹	l aːu ¹	3790
+716	SanjiangEasternSandong	l aːu ¹	l aːu ¹	3790
+717	ShuigenCentralSandong	l aːu ¹	l aːu ¹	3790
+718	TangzhouWesternSandong	l aːu ¹	l aːu ¹	3790
+719	ZhongheCentralSandong	l aːu ¹	l aːu ¹	3790
+720	BanliangYangAn	h aːu ¹	h aːu ¹	3792
+721	TangnianYangAn	h aːu ¹	h aːu ¹	3792
+722	JiarongSouthernSandong	t u ¹	t u ¹	3793
+723	JiuqianSouthernSandong	t u ¹	t u ¹	3793
+724	ShuiweiSouthernSandong	t u ¹	t u ¹	3793
+725	JiarongSouthernSandong	t a ŋ ¹	t a ŋ ¹	3794
+726	ShuiweiSouthernSandong	t a ŋ ¹	t a ŋ ¹	3794
+727	ShuiyaoSouthernSandong	t a ŋ ¹	t a ŋ ¹	3794
+728	AntangWesternSandong	ʁ aːu ¹	ʁ aːu ¹	3823
+729	DujiangEasternSandong	ʁ aːu ¹	ʁ aːu ¹	3823
+730	RenliEasternSandong	ʁ aːu ¹	ʁ aːu ¹	3823
+731	SanjiangEasternSandong	ʁ aːu ¹	ʁ aːu ¹	3823
+732	ShuigenCentralSandong	ʁ aːu ¹	ʁ aːu ¹	3823
+733	ShuiweiSouthernSandong	ʁ aːu ¹	ʁ aːu ¹	3823
+734	TangzhouWesternSandong	ʁ aːu ¹	ʁ aːu ¹	3823
+735	TingpaiWesternSandong	ʁ aːu ¹	ʁ aːu ¹	3823
+736	ZhongheCentralSandong	ʁ aːu ¹	ʁ aːu ¹	3823
+737	BanliangYangAn	q aːu ¹	q aːu ¹	3824
+738	TangnianYangAn	q aːu ¹	q aːu ¹	3824
+739	JiaoliPandong	ʔ aːu ¹	ʔ aːu ¹	3825
+740	JiarongSouthernSandong	h aːu ¹	h aːu ¹	3825
+741	JiuqianSouthernSandong	ʔ aːu ¹	ʔ aːu ¹	3825
+742	Pandong	ʔ aːu ¹	ʔ aːu ¹	3825
+743	ShuiyaoSouthernSandong	ʔ aːu ¹	ʔ aːu ¹	3825
+744	JiarongSouthernSandong	t a ¹	t a ¹	3859
+745	JiuqianSouthernSandong	t a ¹	t a ¹	3859
+746	ShuiweiSouthernSandong	t a ¹	t a ¹	3859
+747	ShuiyaoSouthernSandong	t a ¹	t a ¹	3859
+748	BanliangYangAn	l aːi ¹	l aːi ¹	3876
+749	TangnianYangAn	l aːi ¹	l aːi ¹	3876
+750	AntangWesternSandong	l a ŋ ¹	l a ŋ ¹	3909
+751	BanliangYangAn	l a ŋ ¹	l a ŋ ¹	3909
+752	ShuigenCentralSandong	l a ŋ ¹	l a ŋ ¹	3909
+753	TangzhouWesternSandong	l a ŋ ¹	l a ŋ ¹	3909
+754	JiaoliPandong	ts u m ¹	ts u m ¹	3912
+755	JiuqianSouthernSandong	s u m ¹	s u m ¹	3912
+756	RenliEasternSandong	s u m ¹	s u m ¹	3912
+757	SanjiangEasternSandong	s u m ¹	s u m ¹	3912
+758	ShuiyaoSouthernSandong	s ə m ¹	s ə m ¹	3912
+759	JiuqianSouthernSandong	v j au ¹	v j au ¹	3915
+760	ShuiweiSouthernSandong	v j au ¹	v j au ¹	3915
+761	BanliangYangAn	t j au ¹	t j au ¹	3916
+762	TangnianYangAn	ȶʰ a ¹	ȶʰ - a ¹	3916
+763	TingpaiWesternSandong	ȶʰ a ¹	ȶʰ - a ¹	3916
+764	TangnianYangAn	ȶʰ a ¹	ȶʰ a ¹	3917
+765	TingpaiWesternSandong	ȶʰ a ¹	ȶʰ a ¹	3917
+766	BanliangYangAn	ɣ ə t ¹	ɣ ə t ¹	3918
+767	TingpaiWesternSandong	ɣ ə t ¹	ɣ ə t ¹	3918
+768	AntangWesternSandong	ˀm aː n ¹	ˀm aː n ¹	3934
+769	BanliangYangAn	m aː n ¹	m aː n ¹	3934
+770	ShuigenCentralSandong	ˀm aː n ¹	ˀm aː n ¹	3934
+771	TangnianYangAn	m aː n ¹	m aː n ¹	3934
+772	TangzhouWesternSandong	ˀm aː n ¹	ˀm aː n ¹	3934
+773	TingpaiWesternSandong	ˀm aː n ¹	ˀm aː n ¹	3934
+774	ZhongheCentralSandong	ˀm aː n ¹	ˀm aː n ¹	3934
+775	DujiangEasternSandong	f j a ¹	f j a ¹	3935
+776	JiaoliPandong	f j e ¹	f j e ¹	3935
+777	JiarongSouthernSandong	f a ¹	f - a ¹	3935
+778	JiuqianSouthernSandong	f j a ¹	f j a ¹	3935
+779	RenliEasternSandong	f j a ¹	f j a ¹	3935
+780	SanjiangEasternSandong	f j a ¹	f j a ¹	3935
+781	ShuiweiSouthernSandong	f j a ¹	f j a ¹	3935
+782	ShuiyaoSouthernSandong	f a ¹	f - a ¹	3935
+783	AntangWesternSandong	f u ŋ ¹	f u ŋ ¹	3952
+784	BanliangYangAn	f u ŋ ¹	f u ŋ ¹	3952
+785	DujiangEasternSandong	f u ŋ ¹	f u ŋ ¹	3952
+786	JiaoliPandong	l u ŋ ¹	l u ŋ ¹	3952
+787	ShuigenCentralSandong	f u ŋ ¹	f u ŋ ¹	3952
+788	TangnianYangAn	f u ŋ ¹	f u ŋ ¹	3952
+789	TangzhouWesternSandong	f u ŋ ¹	f u ŋ ¹	3952
+790	TingpaiWesternSandong	f u ŋ ¹	f u ŋ ¹	3952
+791	ZhongheCentralSandong	f u ŋ ¹	f u ŋ ¹	3952
+792	JiarongSouthernSandong	h ai ¹	h ai ¹	3953
+793	ShuiyaoSouthernSandong	h ai ¹	h ai ¹	3953
+794	JiarongSouthernSandong	s i ¹	s i ¹	3954
+795	JiuqianSouthernSandong	s i ¹	s i ¹	3954
+796	RenliEasternSandong	ɕ i ¹	ɕ i ¹	3954
+797	SanjiangEasternSandong	ɕ i ¹	ɕ i ¹	3954
+798	ShuiweiSouthernSandong	s i ¹	s i ¹	3954
+799	ShuiyaoSouthernSandong	s i ¹	s i ¹	3954
+800	AntangWesternSandong	f a ŋ ¹	f - a ŋ ¹	3984
+801	JiaoliPandong	f a ŋ ¹	f - a ŋ ¹	3984
+802	Pandong	h w a ŋ ¹	h w a ŋ ¹	3984
+803	ShuiyaoSouthernSandong	v a ŋ ¹	- v a ŋ ¹	3984
+804	TangzhouWesternSandong	f a ŋ ¹	f - a ŋ ¹	3984
+805	TingpaiWesternSandong	f a ŋ ¹	f - a ŋ ¹	3984
+806	AntangWesternSandong	m o n ¹	m - o n ¹	3985
+807	BanliangYangAn	m u n ¹	m - u n ¹	3985
+808	JiaoliPandong	m u n ¹	m - u n ¹	3985
+809	Pandong	m w ə n ¹	m w ə n ¹	3985
+810	ShuiyaoSouthernSandong	m u n ¹	m - u n ¹	3985
+811	TingpaiWesternSandong	m w a n ¹	m w a n ¹	3985
+812	DujiangEasternSandong	ˀn o n ¹	ˀn o n ¹	3987
+813	JiuqianSouthernSandong	ˀn o n ¹	ˀn o n ¹	3987
+814	RenliEasternSandong	n o n ¹	n o n ¹	3987
+815	SanjiangEasternSandong	n o n ¹	n o n ¹	3987
+816	ShuigenCentralSandong	ˀn o n ¹	ˀn o n ¹	3987
+817	ZhongheCentralSandong	ˀn o n ¹	ˀn o n ¹	3987
+818	ShuiweiSouthernSandong	ˀd o n ¹	ˀd o n ¹	3988
+819	TangnianYangAn	t o ŋ ¹	t o ŋ ¹	3988
+820	AntangWesternSandong	q a m ¹	q a m ¹	4007
+821	Pandong	q a m ¹	q a m ¹	4007
+822	RenliEasternSandong	q a m ¹	q a m ¹	4007
+823	SanjiangEasternSandong	q a m ¹	q a m ¹	4007
+824	ShuigenCentralSandong	q a m ¹	q a m ¹	4007
+825	ShuiweiSouthernSandong	q a m ¹	q a m ¹	4007
+826	TangzhouWesternSandong	q a m ¹	q a m ¹	4007
+827	ZhongheCentralSandong	q a m ¹	q a m ¹	4007
+828	BanliangYangAn	kʷ aːu ¹	kʷ aːu ¹	4009
+829	ShuiyaoSouthernSandong	q a ¹	q a ¹	4009
+830	TangnianYangAn	kʷ aːu ¹	kʷ aːu ¹	4009
+831	JiarongSouthernSandong	ts o ŋ ¹	ts o ŋ ¹	4011
+832	JiuqianSouthernSandong	ts o ŋ ¹	ts o ŋ ¹	4011
+833	ShuiweiSouthernSandong	ts o ŋ ¹	ts o ŋ ¹	4011
+834	ShuiyaoSouthernSandong	ȶ o ŋ ¹	ȶ o ŋ ¹	4011
+835	RenliEasternSandong	ts u m ¹	ts u m ¹	4041
+836	SanjiangEasternSandong	ts u m ¹	ts u m ¹	4041
+837	JiaoliPandong	k u ŋ ¹	k u ŋ ¹	4057
+838	Pandong	k u ŋ ¹	k u ŋ ¹	4057
+839	BanliangYangAn	ȶ o ¹	ȶ o ¹	4143
+840	TangnianYangAn	ȶ o ¹	ȶ o ¹	4143
+841	AntangWesternSandong	s i ¹	s i - ¹	4176
+842	BanliangYangAn	s ɿ ¹	s ɿ - ¹	4176
+843	JiaoliPandong	ɕ i ŋ ¹	ɕ i ŋ ¹	4176
+844	TangnianYangAn	s i ¹	s i - ¹	4176
+845	TangzhouWesternSandong	s ɿ ¹	s ɿ - ¹	4176
+846	TingpaiWesternSandong	s ɿ ¹	s ɿ - ¹	4176
+847	ZhongheCentralSandong	s ɿ ¹	s ɿ - ¹	4176
+848	AntangWesternSandong	m i ŋ ¹	m i ŋ ¹	4177
+849	BanliangYangAn	m i ŋ ¹	m i ŋ ¹	4177
+850	JiaoliPandong	m i ŋ ¹	m i ŋ ¹	4177
+851	Pandong	m i ŋ ¹	m i ŋ ¹	4177
+852	TangnianYangAn	m i ŋ ¹	m i ŋ ¹	4177
+853	TangzhouWesternSandong	m i ŋ ¹	m i ŋ ¹	4177
+854	TingpaiWesternSandong	m i ŋ ¹	m i ŋ ¹	4177
+855	ZhongheCentralSandong	m i ŋ ¹	m i ŋ ¹	4177
+856	DujiangEasternSandong	ⁿb i ¹	ⁿb i ¹	4178
+857	JiarongSouthernSandong	ⁿb i ¹	ⁿb i ¹	4178
+858	JiuqianSouthernSandong	ⁿb i ¹	ⁿb i ¹	4178
+859	RenliEasternSandong	ⁿb i ¹	ⁿb i ¹	4178
+860	SanjiangEasternSandong	ⁿb i ¹	ⁿb i ¹	4178
+861	ShuigenCentralSandong	ⁿb i ¹	ⁿb i ¹	4178
+862	ShuiweiSouthernSandong	ⁿb i ¹	ⁿb i ¹	4178
+863	ShuiyaoSouthernSandong	ⁿb i ¹	ⁿb i ¹	4178
+864	BanliangYangAn	k a ¹	k a ¹	4219
+865	JiarongSouthernSandong	k a ¹	k a ¹	4219
+866	ShuiyaoSouthernSandong	k a ¹	k a ¹	4219
+867	BanliangYangAn	ȶ au ¹	ȶ au ¹	4236
+868	JiaoliPandong	t a ¹	t a ¹	4236
+869	JiarongSouthernSandong	q a ¹	q a ¹	4237
+870	JiuqianSouthernSandong	q a ¹	q a ¹	4237
+871	ShuiweiSouthernSandong	q a ¹	q a ¹	4237
+872	ShuiyaoSouthernSandong	q a ¹	q a ¹	4237
+873	AntangWesternSandong	z a ¹	z a ¹	4254
+874	DujiangEasternSandong	z a ¹	z a ¹	4254
+875	JiaoliPandong	z a ¹	z a ¹	4254
+876	RenliEasternSandong	z a ¹	z a ¹	4254
+877	SanjiangEasternSandong	z a ¹	z a ¹	4254
+878	ShuigenCentralSandong	z a ¹	z a ¹	4254
+879	ShuiyaoSouthernSandong	z a ¹	z a ¹	4254
+880	TangzhouWesternSandong	z a ¹	z a ¹	4254
+881	TingpaiWesternSandong	z a ¹	z a ¹	4254
+882	ZhongheCentralSandong	z a ¹	z a ¹	4254
+883	BanliangYangAn	ȶʰ a ¹	ȶʰ - a ¹	4255
+884	JiarongSouthernSandong	ts j a ¹	ts j a ¹	4255
+885	JiuqianSouthernSandong	ts j a ¹	ts j a ¹	4255
+886	ShuiweiSouthernSandong	ts a ¹	ts - a ¹	4255
+887	TangnianYangAn	ȶʰ a ¹	ȶʰ - a ¹	4255
+888	AntangWesternSandong	ˀb ə ¹	ˀb ə - ¹	4271
+889	BanliangYangAn	m ə n ¹	m ə n ¹	4271
+890	DujiangEasternSandong	p ə ¹	p ə - ¹	4271
+891	RenliEasternSandong	p ə ¹	p ə - ¹	4271
+892	SanjiangEasternSandong	p ə ¹	p ə - ¹	4271
+893	TangzhouWesternSandong	ˀm ə ¹	ˀm ə - ¹	4271
+894	TingpaiWesternSandong	ˀb ə ¹	ˀb ə - ¹	4271
+895	JiaoliPandong	v a ¹	v a ¹	4273
+896	JiarongSouthernSandong	v a ¹	v a ¹	4273
+897	JiuqianSouthernSandong	v a ¹	v a ¹	4273
+898	Pandong	v a ¹	v a ¹	4273
+899	ShuiweiSouthernSandong	v a ¹	v a ¹	4273
+900	ShuiyaoSouthernSandong	v a ¹	v a ¹	4273
+901	ShuigenCentralSandong	ˀb a ¹	ˀb - a ¹	4274
+902	TangnianYangAn	p j a ¹	p j a ¹	4274
+903	ZhongheCentralSandong	ˀb a ¹	ˀb - a ¹	4274
+904	BanliangYangAn	qʰ aːu ¹	qʰ aːu ¹	4305
+905	JiarongSouthernSandong	qʰ aːu ¹	qʰ aːu ¹	4305
+906	JiuqianSouthernSandong	qʰ aːu ¹	qʰ aːu ¹	4305
+907	ShuiweiSouthernSandong	qʰ aːu ¹	qʰ aːu ¹	4305
+908	ShuiyaoSouthernSandong	qʰ aːu ¹	qʰ aːu ¹	4305
+909	AntangWesternSandong	l w ə ¹	l w ə ¹	4356
+910	JiaoliPandong	l w ə ¹	l w ə ¹	4356
+911	TingpaiWesternSandong	l w a ¹	l w a ¹	4356
+912	AntangWesternSandong	ts aː p ¹	ts aː p ¹	4357
+913	JiaoliPandong	ts a ¹	ts a - ¹	4357
+914	JiarongSouthernSandong	ˀd a ¹	ˀd a - ¹	4357
+915	DujiangEasternSandong	p aːi ¹	p aːi ¹	4358
+916	Pandong	p ai ¹	p ai ¹	4358
+917	RenliEasternSandong	p aːi ¹	p aːi ¹	4358
+918	SanjiangEasternSandong	p aːi ¹	p aːi ¹	4358
+919	ShuigenCentralSandong	p aːi ¹	p aːi ¹	4358
+920	ShuiweiSouthernSandong	p aːi ¹	p aːi ¹	4358
+921	TangnianYangAn	p aːi ¹	p aːi ¹	4358
+922	DujiangEasternSandong	m ai ¹	m ai ¹	4359
+923	Pandong	m ai ¹	m ai ¹	4359
+924	RenliEasternSandong	m ai ¹	m ai ¹	4359
+925	ShuigenCentralSandong	m ai ¹	m ai ¹	4359
+926	ShuiweiSouthernSandong	m ai ¹	m ai ¹	4359
+927	JiuqianSouthernSandong	z a ¹	z a ¹	4360
+928	ZhongheCentralSandong	z a ¹	z a ¹	4360
+929	BanliangYangAn	n̥ a ¹	n̥ a ¹	4396
+930	DujiangEasternSandong	n̥ a ¹	n̥ a ¹	4396
+931	ShuigenCentralSandong	n̥ a ¹	n̥ a ¹	4396
+932	ShuiweiSouthernSandong	n̥ a ¹	n̥ a ¹	4396
+933	ShuiyaoSouthernSandong	n̥ a ¹	n̥ a ¹	4396
+934	TangnianYangAn	n̥ a ¹	n̥ a ¹	4396
+935	TangzhouWesternSandong	n̥ a ¹	n̥ a ¹	4396
+936	TingpaiWesternSandong	n̥ a ¹	n̥ a ¹	4396
+937	ZhongheCentralSandong	n̥ a ¹	n̥ a ¹	4396
+938	JiaoliPandong	pʰ j a ¹	pʰ j a ¹	4397
+939	Pandong	pʰ j a ¹	pʰ j a ¹	4397
+940	RenliEasternSandong	pʰ a ¹	pʰ - a ¹	4397
+941	SanjiangEasternSandong	pʰ a ¹	pʰ - a ¹	4397
+942	JiarongSouthernSandong	z aːi ¹	z aːi ¹	4499
+943	ShuiyaoSouthernSandong	z aːi ¹	z aːi ¹	4499
+944	Pandong	p o ŋ ¹	p o ŋ ¹	4501
+945	TangnianYangAn	p o ŋ ¹	p o ŋ ¹	4501
+946	AntangWesternSandong	kʰ u ¹	kʰ u ¹	4535
+947	DujiangEasternSandong	kʰ u ¹	kʰ u ¹	4535
+948	JiaoliPandong	kʰ u ¹	kʰ u ¹	4535
+949	RenliEasternSandong	kʰ u ¹	kʰ u ¹	4535
+950	SanjiangEasternSandong	kʰ u ¹	kʰ u ¹	4535
+951	ZhongheCentralSandong	kʰ u ¹	kʰ u ¹	4535
+952	BanliangYangAn	kʰ aːu ¹	kʰ aːu ¹	4536
+953	TangnianYangAn	x aːu ¹	x aːu ¹	4536
+954	JiarongSouthernSandong	x o ¹	x o ¹	4537
+955	ShuiweiSouthernSandong	x o ¹	x o ¹	4537
+956	ShuiyaoSouthernSandong	h o ¹	h o ¹	4537
+957	JiuqianSouthernSandong	f u ¹	f u ¹	4538
+958	ShuigenCentralSandong	f u ¹	f u ¹	4538
+959	TangzhouWesternSandong	f u ¹	f u ¹	4538
+960	TingpaiWesternSandong	f u ¹	f u ¹	4538
+961	JiaoliPandong	t i ¹	t i ¹	4587
+962	Pandong	t i ¹	t i ¹	4587
+963	RenliEasternSandong	t i ¹	t i ¹	4587
+964	DujiangEasternSandong	ɕ i ¹	ɕ i ¹	4708
+965	JiaoliPandong	ɕ i ¹	ɕ i ¹	4708
+966	Pandong	ɕ i ¹	ɕ i ¹	4708
+967	TangnianYangAn	ȶʰ i ¹	ȶʰ i ¹	4708
+968	AntangWesternSandong	n u ¹	n u ¹	4828
+969	BanliangYangAn	n u ¹	n u ¹	4828
+970	DujiangEasternSandong	n u ¹	n u ¹	4828
+971	JiaoliPandong	n u ¹	n u ¹	4828
+972	ShuigenCentralSandong	n u ¹	n u ¹	4828
+973	TangnianYangAn	n u ¹	n u ¹	4828
+974	TangzhouWesternSandong	n u ¹	n u ¹	4828
+975	TingpaiWesternSandong	n u ¹	n u ¹	4828
+976	ZhongheCentralSandong	n u ¹	n u ¹	4828
+977	JiarongSouthernSandong	p j a ¹	p j a ¹	4829
+978	JiuqianSouthernSandong	p j a ¹	p j a ¹	4829
+979	ShuiweiSouthernSandong	p j a ¹	p j a ¹	4829
+980	ShuiyaoSouthernSandong	p j a ¹	p j a ¹	4829
+981	RenliEasternSandong	q u m ¹	q u m ¹	4831
+982	SanjiangEasternSandong	q u m ¹	q u m ¹	4831
+983	BanliangYangAn	m u p ¹	m u p ¹	4863
+984	TangnianYangAn	m u p ¹	m u p ¹	4863
+985	AntangWesternSandong	ˀb o ŋ ¹	ˀb o ŋ ¹	4880
+986	JiarongSouthernSandong	ˀb o ŋ ¹	ˀb o ŋ ¹	4880
+987	JiuqianSouthernSandong	ˀb o ŋ ¹	ˀb o ŋ ¹	4880
+988	RenliEasternSandong	ⁿb o ŋ ¹	ⁿb o ŋ ¹	4880
+989	SanjiangEasternSandong	ⁿb o ŋ ¹	ⁿb o ŋ ¹	4880
+990	ShuigenCentralSandong	ˀb o ŋ ¹	ˀb o ŋ ¹	4880
+991	ShuiweiSouthernSandong	ˀb o ŋ ¹	ˀb o ŋ ¹	4880
+992	ShuiyaoSouthernSandong	ˀb u ŋ ¹	ˀb u ŋ ¹	4880
+993	TangzhouWesternSandong	ⁿb o ŋ ¹	ⁿb o ŋ ¹	4880
+994	TingpaiWesternSandong	ˀb o ŋ ¹	ˀb o ŋ ¹	4880
+995	ZhongheCentralSandong	ˀb o ŋ ¹	ˀb o ŋ ¹	4880
+996	BanliangYangAn	v a ŋ ¹	v a ŋ ¹	4881
+997	DujiangEasternSandong	l aː n ¹	l aː n ¹	4881
+998	JiaoliPandong	l aː n ¹	l aː n ¹	4881
+999	Pandong	l aː n ¹	l aː n ¹	4881
+1000	TangnianYangAn	v a ŋ ¹	v a ŋ ¹	4881
+1001	JiarongSouthernSandong	ʁ e p ¹	ʁ e p ¹	4965
+1002	JiuqianSouthernSandong	ʁ e p ¹	ʁ e p ¹	4965
+1003	ShuiweiSouthernSandong	ɣ e p ¹	ɣ e p ¹	4965
+1004	ShuiyaoSouthernSandong	ʁ e p ¹	ʁ e p ¹	4965
+1005	BanliangYangAn	p aːu ¹	p - aːu ¹	5001
+1006	TangnianYangAn	p j a ¹	p j a ¹	5001
+1007	Pandong	l o ŋ ¹	l o ŋ ¹	5003
+1008	TangnianYangAn	l u ŋ ¹	l u ŋ ¹	5003
+1009	AntangWesternSandong	m̥ ai ¹	m̥ ai ¹	5082
+1010	DujiangEasternSandong	m̥ ai ¹	m̥ ai ¹	5082
+1011	JiarongSouthernSandong	m̥ ai ¹	m̥ ai ¹	5082
+1012	JiuqianSouthernSandong	m̥ ai ¹	m̥ ai ¹	5082
+1013	ShuigenCentralSandong	m̥ ai ¹	m̥ ai ¹	5082
+1014	ShuiweiSouthernSandong	m̥ ai ¹	m̥ ai ¹	5082
+1015	ShuiyaoSouthernSandong	m̥ ai ¹	m̥ ai ¹	5082
+1016	TangzhouWesternSandong	m̥ əi ¹	m̥ əi ¹	5082
+1017	TingpaiWesternSandong	m̥ ai ¹	m̥ ai ¹	5082
+1018	ZhongheCentralSandong	m̥ ai ¹	m̥ ai ¹	5082
+1019	BanliangYangAn	h̃ w ai ¹	h̃ w ai ¹	5083
+1020	JiaoliPandong	h̃ j ai ¹	h̃ j ai ¹	5083
+1021	Pandong	h̃ w ai ¹	h̃ w ai ¹	5083
+1022	RenliEasternSandong	h̃ w ai ¹	h̃ w ai ¹	5083
+1023	SanjiangEasternSandong	h̃ w ai ¹	h̃ w ai ¹	5083
+1024	TangnianYangAn	h̃ w ai ¹	h̃ w ai ¹	5083
+1025	BanliangYangAn	t j aː n ¹	t j aː n ¹	5100
+1026	TangnianYangAn	t j aː n ¹	t j aː n ¹	5100
+1027	JiaoliPandong	ȵ a m ¹	ȵ a m ¹	5101
+1028	Pandong	ȵ a m ¹	ȵ a m ¹	5101
+1029	JiarongSouthernSandong	k a m ¹	k a m ¹	5189
+1030	JiuqianSouthernSandong	k a m ¹	k a m ¹	5189
+1031	ZhongheCentralSandong	k a m ¹	k a m ¹	5189
+1032	AntangWesternSandong	t i ¹	t i ¹	5258
+1033	JiaoliPandong	t a ¹	t a ¹	5258
+1034	Pandong	t ai ¹	t ai ¹	5258
+1035	RenliEasternSandong	t i ¹	t i ¹	5258
+1036	SanjiangEasternSandong	t i ¹	t i ¹	5258
+1037	TangnianYangAn	t i ¹	t i ¹	5258
+1038	TingpaiWesternSandong	t i ¹	t i ¹	5258
+1039	AntangWesternSandong	l aːu ¹	l aːu ¹	5283
+1040	DujiangEasternSandong	l aːu ¹	l aːu ¹	5283
+1041	JiaoliPandong	l aːu ¹	l aːu ¹	5283
+1042	Pandong	l aːu ¹	l aːu ¹	5283
+1043	RenliEasternSandong	l aːu ¹	l aːu ¹	5283
+1044	SanjiangEasternSandong	l aːu ¹	l aːu ¹	5283
+1045	ShuigenCentralSandong	l aːu ¹	l aːu ¹	5283
+1046	TangzhouWesternSandong	l aːu ¹	l aːu ¹	5283
+1047	ZhongheCentralSandong	l aːu ¹	l aːu ¹	5283
+1048	BanliangYangAn	h aːu ¹	h aːu ¹	5284
+1049	TangnianYangAn	h aːu ¹	h aːu ¹	5284
+1050	JiarongSouthernSandong	ˀd aːu ¹	ˀd aːu ¹	5285
+1051	JiuqianSouthernSandong	ˀd aːu ¹	ˀd aːu ¹	5285
+1052	ShuiweiSouthernSandong	ˀd aːu ¹	ˀd aːu ¹	5285
+1053	ShuiyaoSouthernSandong	ˀd aːu ¹	ˀd aːu ¹	5285
+1054	JiarongSouthernSandong	m o ¹	m o ¹	5335
+1055	JiuqianSouthernSandong	m o ¹	m o ¹	5335
+1056	ShuiweiSouthernSandong	m o ¹	m o ¹	5335
+1057	ShuiyaoSouthernSandong	m o ¹	m o ¹	5335
+1058	JiarongSouthernSandong	m̥ a ¹	m̥ a ¹	5402
+1059	JiuqianSouthernSandong	m̥ a ¹	m̥ a ¹	5402
+1060	ShuiweiSouthernSandong	m̥ a ¹	m̥ a ¹	5402
+1061	ShuiyaoSouthernSandong	m̥ a ¹	m̥ a ¹	5402
+1062	AntangWesternSandong	m̥ u ¹	m̥ u ¹	5485
+1063	DujiangEasternSandong	m̥ u ¹	m̥ u ¹	5485
+1064	JiuqianSouthernSandong	m̥ u ¹	m̥ u ¹	5485
+1065	ShuigenCentralSandong	m̥ u ¹	m̥ u ¹	5485
+1066	ShuiweiSouthernSandong	m̥ u ¹	m̥ u ¹	5485
+1067	ShuiyaoSouthernSandong	m̥ u ¹	m̥ u ¹	5485
+1068	TangzhouWesternSandong	m̥ u ¹	m̥ u ¹	5485
+1069	TingpaiWesternSandong	m̥ u ¹	m̥ u ¹	5485
+1070	ZhongheCentralSandong	m̥ u ¹	m̥ u ¹	5485
+1071	BanliangYangAn	pʰ u ¹	pʰ u ¹	5486
+1072	JiaoliPandong	pʰ u ¹	pʰ u ¹	5486
+1073	RenliEasternSandong	pʰ u ¹	pʰ u ¹	5486
+1074	SanjiangEasternSandong	pʰ u ¹	pʰ u ¹	5486
+1075	TangnianYangAn	pʰ u ¹	pʰ u ¹	5486
+1076	JiarongSouthernSandong	ts j u m ¹	ts j u m ¹	5521
+1077	Pandong	ȶ u m ¹	ȶ - u m ¹	5521
+1078	ShuiyaoSouthernSandong	ts ə m ¹	ts - ə m ¹	5521
+1079	AntangWesternSandong	h j e ¹	h j e ¹	5567
+1080	DujiangEasternSandong	h j a ¹	h j a ¹	5567
+1081	JiaoliPandong	h j e ¹	h j e ¹	5567
+1082	Pandong	h j a ¹	h j a ¹	5567
+1083	RenliEasternSandong	h j a ¹	h j a ¹	5567
+1084	SanjiangEasternSandong	h j a ¹	h j a ¹	5567
+1085	TingpaiWesternSandong	ɕ j a ¹	ɕ j a ¹	5567
+1086	BanliangYangAn	kʰ a ¹	kʰ a ¹	5568
+1087	JiarongSouthernSandong	kʰ a ¹	kʰ a ¹	5568
+1088	ShuiyaoSouthernSandong	kʰ a ¹	kʰ a ¹	5568
+1089	JiuqianSouthernSandong	ȶʰ a ¹	ȶʰ a ¹	5569
+1090	ShuiweiSouthernSandong	ȶʰ a ¹	ȶʰ a ¹	5569
+1091	ShuigenCentralSandong	ɕ a ¹	ɕ a ¹	5570
+1092	TangnianYangAn	ɕ a ¹	ɕ a ¹	5570
+1093	TangzhouWesternSandong	ɕ e ¹	ɕ e ¹	5570
+1094	ZhongheCentralSandong	ɕ a ¹	ɕ a ¹	5570
+1095	JiaoliPandong	p u ¹	p u ¹	5602
+1096	RenliEasternSandong	p u ¹	p u ¹	5602
+1097	JiaoliPandong	pʰ o ¹	pʰ o ¹	5689
+1098	Pandong	pʰ o ¹	pʰ o ¹	5689
+1099	RenliEasternSandong	pʰ o ¹	pʰ o ¹	5689
+1100	BanliangYangAn	s e ŋ ¹	s e ŋ ¹	5706
+1101	TangnianYangAn	s e ŋ ¹	s e ŋ ¹	5706
+1102	BanliangYangAn	kʰ a ¹	kʰ a ¹	5723
+1103	TangnianYangAn	x a ¹	x a ¹	5723
+1104	JiarongSouthernSandong	ⁿd au ¹	ⁿd au ¹	5808
+1105	JiuqianSouthernSandong	ˀd au ¹	ˀd au ¹	5808
+1106	ShuiweiSouthernSandong	ˀd au ¹	ˀd au ¹	5808
+1107	ShuiyaoSouthernSandong	ˀd au ¹	ˀd au ¹	5808
+1108	JiaoliPandong	p j a ¹	p j a ¹	5825
+1109	Pandong	p j a ¹	p j a ¹	5825
+1110	JiuqianSouthernSandong	h u ¹	h u ¹	5826
+1111	ShuiweiSouthernSandong	h u ¹	h u ¹	5826
+1112	BanliangYangAn	l au ¹	l au ¹	5877
+1113	TangnianYangAn	l au ¹	l au ¹	5877
+1114	BanliangYangAn	p j a ¹	p j a ¹	5911
+1115	JiaoliPandong	p j a ¹	p j a ¹	5911
+1116	Pandong	p j a ¹	p j a ¹	5911
+1117	TangnianYangAn	p j a ¹	p j a ¹	5911
+1118	BanliangYangAn	tʰ j aːu ¹	tʰ j aːu ¹	5928
+1119	TangnianYangAn	tʰ j aːu ¹	tʰ j aːu ¹	5928
+1120	JiaoliPandong	j i ¹	j i ¹	5962
+1121	ZhongheCentralSandong	j i ¹	j i ¹	5962
+1122	JiaoliPandong	t u n ¹	t - u n ¹	5982
+1123	Pandong	t w ə n ¹	t w ə n ¹	5982
+1124	DujiangEasternSandong	l o m ¹	l o m ¹	5984
+1125	JiarongSouthernSandong	l o m ¹	l o m ¹	5984
+1126	JiuqianSouthernSandong	l o m ¹	l o m ¹	5984
+1127	RenliEasternSandong	l o m ¹	l o m ¹	5984
+1128	SanjiangEasternSandong	l o m ¹	l o m ¹	5984
+1129	AntangWesternSandong	v e ¹	v e ¹	6019
+1130	TangzhouWesternSandong	v əi ¹	v əi ¹	6019
+1131	TingpaiWesternSandong	v e ¹	v e ¹	6019
+1132	BanliangYangAn	ŋ e ¹	ŋ e ¹	6020
+1133	TangnianYangAn	ŋ e ¹	ŋ e ¹	6020
+1134	DujiangEasternSandong	ʁ e ¹	ʁ e ¹	6021
+1135	JiarongSouthernSandong	ʁ e ¹	ʁ e ¹	6021
+1136	JiuqianSouthernSandong	ʁ e ¹	ʁ e ¹	6021
+1137	RenliEasternSandong	ʁ e ¹	ʁ e ¹	6021
+1138	SanjiangEasternSandong	ʁ e ¹	ʁ e ¹	6021
+1139	ShuigenCentralSandong	ʁ e ¹	ʁ e ¹	6021
+1140	ShuiweiSouthernSandong	ʁ e ¹	ʁ e ¹	6021
+1141	ShuiyaoSouthernSandong	ʁ e ¹	ʁ e ¹	6021
+1142	ZhongheCentralSandong	ʁ e ¹	ʁ e ¹	6021
+1143	JiaoliPandong	l i ¹	l i ¹	6022
+1144	Pandong	l i ¹	l i ¹	6022
+1145	BanliangYangAn	p aːu ¹	p aːu ¹	6037
+1146	TangnianYangAn	p aːu ¹	p aːu ¹	6037
+1147	JiaoliPandong	kʰ i n ¹	kʰ i n ¹	6071
+1148	Pandong	kʰ i n ¹	kʰ i n ¹	6071
+1149	ShuiweiSouthernSandong	kʰ i n ¹	kʰ i n ¹	6071
+1150	JiaoliPandong	t i p ¹	t i p ¹	6106
+1151	Pandong	ⁿd i p ¹	ⁿd i p ¹	6106
+1152	JiarongSouthernSandong	k ə n ¹	k ə n ¹	6107
+1153	ShuiweiSouthernSandong	k ə n ¹	k ə n ¹	6107
+1154	ShuiyaoSouthernSandong	k ə n ¹	k ə n ¹	6107
+1155	BanliangYangAn	m j u ¹	m j u ¹	6123
+1156	JiaoliPandong	m j u ¹	m j u ¹	6123
+1157	Pandong	m j u ¹	m j u ¹	6123
+1158	TangnianYangAn	m j u ¹	m j u ¹	6123
+1159	TingpaiWesternSandong	m j u ¹	m j u ¹	6123
+1160	DujiangEasternSandong	p ə n ¹	p ə n ¹	6140
+1161	JiaoliPandong	p ə n ¹	p ə n ¹	6140
+1162	Pandong	p ə n ¹	p ə n ¹	6140
+1163	RenliEasternSandong	p ə n ¹	p ə n ¹	6140
+1164	SanjiangEasternSandong	p ə n ¹	p ə n ¹	6140
+1165	BanliangYangAn	k a ¹	k a ¹	6159
+1166	JiarongSouthernSandong	k a ¹	k a ¹	6159
+1167	ShuiyaoSouthernSandong	k a ¹	k a ¹	6159
+1168	AntangWesternSandong	t a n ¹	t - a n ¹	6209
+1169	BanliangYangAn	t a n ¹	t - a n ¹	6209
+1170	DujiangEasternSandong	t a n ¹	t - a n ¹	6209
+1171	JiaoliPandong	t i n ¹	t - i n ¹	6209
+1172	JiuqianSouthernSandong	t j i n ¹	t j i n ¹	6209
+1173	TangnianYangAn	t aː n ¹	t - aː n ¹	6209
+1174	TangzhouWesternSandong	t j aː n ¹	t j aː n ¹	6209
+1175	TingpaiWesternSandong	t j a n ¹	t j a n ¹	6209
+1176	ZhongheCentralSandong	t a n ¹	t - a n ¹	6209
+1177	JiarongSouthernSandong	t i ¹	t i ¹	6211
+1178	RenliEasternSandong	t i ¹	t i ¹	6211
+1179	SanjiangEasternSandong	t i ¹	t i ¹	6211
+1180	ShuiweiSouthernSandong	t i ¹	t i ¹	6211
+1181	ShuiyaoSouthernSandong	t i ¹	t i ¹	6211
+1182	BanliangYangAn	l i n ¹	l i n ¹	6243
+1183	TangnianYangAn	l i n ¹	l i n ¹	6243
+1184	AntangWesternSandong	ts a n ¹	ts a n ¹	6259
+1185	JiaoliPandong	ts a n ¹	ts a n ¹	6259
+1186	Pandong	ȶ a n ¹	ȶ a n ¹	6259
+1187	TangnianYangAn	s a n ¹	s a n ¹	6259
+1188	AntangWesternSandong	l i n ¹	l i n ¹	6276
+1189	TangzhouWesternSandong	l i n ¹	l i n ¹	6276
+1190	ZhongheCentralSandong	l i n ¹	l i n ¹	6276
+1191	BanliangYangAn	l j u p ¹	l j u p ¹	6277
+1192	DujiangEasternSandong	ⁿd j u p ¹	ⁿd j u p ¹	6277
+1193	JiarongSouthernSandong	ˀd j u p ¹	ˀd j u p ¹	6277
+1194	JiuqianSouthernSandong	ˀd j u p ¹	ˀd j u p ¹	6277
+1195	RenliEasternSandong	ⁿd j u p ¹	ⁿd j u p ¹	6277
+1196	SanjiangEasternSandong	ⁿd j u p ¹	ⁿd j u p ¹	6277
+1197	ShuiweiSouthernSandong	ˀd j ə p ¹	ˀd j ə p ¹	6277
+1198	TangnianYangAn	l j ʊ p ¹	l j ʊ p ¹	6277
+1199	TingpaiWesternSandong	ˀd j u p ¹	ˀd j u p ¹	6277
+1200	AntangWesternSandong	l o ŋ ¹	l - o ŋ ¹	6309
+1201	BanliangYangAn	q u n ¹	q - u n ¹	6309
+1202	DujiangEasternSandong	q o n ¹	q - o n ¹	6309
+1203	JiaoliPandong	k u n ¹	k - u n ¹	6309
+1204	Pandong	q w ə n ¹	q w ə n ¹	6309
+1205	RenliEasternSandong	m o n ¹	m - o n ¹	6309
+1206	SanjiangEasternSandong	q o n ¹	q - o n ¹	6309
+1207	TangnianYangAn	q u n ¹	q - u n ¹	6309
+1208	ZhongheCentralSandong	l o ŋ ¹	l - o ŋ ¹	6309
+1209	AntangWesternSandong	ⁿd j ə n ¹	ⁿd j ə n ¹	6310
+1210	JiarongSouthernSandong	ⁿd i ŋ ¹	ⁿd - i ŋ ¹	6310
+1211	JiuqianSouthernSandong	ⁿd j ə ŋ ¹	ⁿd j ə ŋ ¹	6310
+1212	ShuiweiSouthernSandong	ⁿd j ə ŋ ¹	ⁿd j ə ŋ ¹	6310
+1213	ShuiyaoSouthernSandong	ⁿd i ŋ ¹	ⁿd - i ŋ ¹	6310
+1214	ZhongheCentralSandong	ⁿd j ə n ¹	ⁿd j ə n ¹	6310
+1215	TangzhouWesternSandong	ts u t ¹	ts u t ¹	6313
+1216	TingpaiWesternSandong	pʰ u t ¹	pʰ u t ¹	6313
+1217	BanliangYangAn	kʷ aː ŋ ¹	kʷ aː ŋ ¹	6400
+1218	TangnianYangAn	kʷ aː ŋ ¹	kʷ aː ŋ ¹	6400
+1219	AntangWesternSandong	ʔ w o ŋ ¹	ʔ w o ŋ ¹	6417
+1220	DujiangEasternSandong	ʔ w aː ŋ ¹	ʔ w aː ŋ ¹	6417
+1221	ShuigenCentralSandong	ʔ w aː ŋ ¹	ʔ w aː ŋ ¹	6417
+1222	TingpaiWesternSandong	ʔ w a ŋ ¹	ʔ w a ŋ ¹	6417
+1223	ZhongheCentralSandong	ʔ w aː ŋ ¹	ʔ w aː ŋ ¹	6417
+1224	BanliangYangAn	ȶ aːi ¹	ȶ aːi ¹	6418
+1225	TangzhouWesternSandong	ȶ aːi ¹	ȶ aːi ¹	6418
+1226	JiaoliPandong	v w ə ŋ ¹	v w ə ŋ ¹	6419
+1227	Pandong	ⁿb w ə ŋ ¹	ⁿb w ə ŋ ¹	6419
+1228	RenliEasternSandong	v aː ŋ ¹	v - aː ŋ ¹	6419
+1229	SanjiangEasternSandong	v aː ŋ ¹	v - aː ŋ ¹	6419
+1230	JiarongSouthernSandong	ˀb j aː ŋ ¹	ˀb j aː ŋ ¹	6420
+1231	JiuqianSouthernSandong	ˀb j aː ŋ ¹	ˀb j aː ŋ ¹	6420
+1232	ShuiweiSouthernSandong	ˀb j aː ŋ ¹	ˀb j aː ŋ ¹	6420
+1233	ShuiyaoSouthernSandong	ˀm j e ŋ ¹	ˀm j e ŋ ¹	6420
+1234	TangnianYangAn	m aː ŋ ¹	m - aː ŋ ¹	6420
+1235	JiarongSouthernSandong	ʁ a ¹	ʁ a ¹	6452
+1236	JiuqianSouthernSandong	ʁ a ¹	ʁ a ¹	6452
+1237	ShuiweiSouthernSandong	ʁ a ¹	ʁ a ¹	6452
+1238	ShuiyaoSouthernSandong	ʁ a ¹	ʁ a ¹	6452
+1239	AntangWesternSandong	ȶ o ŋ ¹	ȶ o ŋ ¹	6468
+1240	DujiangEasternSandong	ȶ o ŋ ¹	ȶ o ŋ ¹	6468
+1241	ZhongheCentralSandong	ȶ o ŋ ¹	ȶ o ŋ ¹	6468
+1242	JiarongSouthernSandong	ʔ u ¹	ʔ u ¹	6488
+1243	Pandong	ʔ u ¹	ʔ u ¹	6488
+1244	SanjiangEasternSandong	ʔ u ¹	ʔ u ¹	6488
+1245	ShuiweiSouthernSandong	ʔ u ¹	ʔ u ¹	6488
+1246	ZhongheCentralSandong	ʔ u ¹	ʔ u ¹	6488
+1247	BanliangYangAn	j i ¹	j i ¹	6545
+1248	JiaoliPandong	j i ¹	j i ¹	6545
+1249	TangnianYangAn	j i ¹	j i ¹	6545
+1250	AntangWesternSandong	ʔ i ¹	ʔ i ¹	6546
+1251	Pandong	ʔ i ¹	ʔ i ¹	6546
+1252	TingpaiWesternSandong	ʔ i ¹	ʔ i ¹	6546
+1253	AntangWesternSandong	m aː t ¹	m aː t ¹	6617
+1254	BanliangYangAn	m aː t ¹	m aː t ¹	6617
+1255	JiaoliPandong	m aː t ¹	m aː t ¹	6617
+1256	Pandong	m aː t ¹	m aː t ¹	6617
+1257	ShuiyaoSouthernSandong	m aː t ¹	m aː t ¹	6617
+1258	TangnianYangAn	m aː t ¹	m aː t ¹	6617
+1259	TangzhouWesternSandong	m aː t ¹	m aː t ¹	6617
+1260	TingpaiWesternSandong	m aː t ¹	m aː t ¹	6617
+1261	ZhongheCentralSandong	m aː t ¹	m aː t ¹	6617
+1262	DujiangEasternSandong	j o ¹	j o ¹	6618
+1263	JiarongSouthernSandong	j o ¹	j o ¹	6618
+1264	JiuqianSouthernSandong	j o ¹	j o ¹	6618
+1265	RenliEasternSandong	j o ¹	j o ¹	6618
+1266	SanjiangEasternSandong	j o ¹	j o ¹	6618
+1267	ShuigenCentralSandong	j o ¹	j o ¹	6618
+1268	ShuiweiSouthernSandong	j o ¹	j o ¹	6618
+1269	BanliangYangAn	kʰ j u ¹	kʰ j u ¹	6733
+1270	DujiangEasternSandong	ɕ j u ¹	ɕ j u ¹	6733
+1271	JiarongSouthernSandong	ȶʰ j u ¹	ȶʰ j u ¹	6733
+1272	TangnianYangAn	kʰ j u ¹	kʰ j u ¹	6733
+1273	TingpaiWesternSandong	ȶʰ j u ¹	ȶʰ j u ¹	6733
+1274	JiaoliPandong	p o ¹	p o ¹	6734
+1275	JiuqianSouthernSandong	p o ¹	p o ¹	6734
+1276	Pandong	pʰ au ¹	pʰ au ¹	6734
+1277	RenliEasternSandong	p o ¹	p o ¹	6734
+1278	SanjiangEasternSandong	p o ¹	p o ¹	6734
+1279	ShuigenCentralSandong	p o ¹	p o ¹	6734
+1280	ShuiyaoSouthernSandong	p o ¹	p o ¹	6734
+1281	TangzhouWesternSandong	p o ¹	p o ¹	6734
+1282	ZhongheCentralSandong	p o ¹	p o ¹	6734
+1283	JiaoliPandong	tsʰ aːi ¹	tsʰ aːi ¹	6735
+1284	JiuqianSouthernSandong	tsʰ aːi ¹	tsʰ aːi ¹	6735
+1285	Pandong	s ai ¹	s ai ¹	6735
+1286	RenliEasternSandong	tsʰ aːi ¹	tsʰ aːi ¹	6735
+1287	SanjiangEasternSandong	tsʰ aːi ¹	tsʰ aːi ¹	6735
+1288	ShuigenCentralSandong	tsʰ aːi ¹	tsʰ aːi ¹	6735
+1289	ShuiyaoSouthernSandong	tsʰ aːi ¹	tsʰ aːi ¹	6735
+1290	TangzhouWesternSandong	tsʰ aːi ¹	tsʰ aːi ¹	6735
+1291	ZhongheCentralSandong	tsʰ aːi ¹	tsʰ aːi ¹	6735
+1292	AntangWesternSandong	p i ¹	p i ¹	6807
+1293	JiaoliPandong	v i ¹	v i ¹	6807
+1294	Pandong	ⁿb i ¹	ⁿb i ¹	6807
+1295	TingpaiWesternSandong	ˀb i ¹	ˀb i ¹	6807
+1296	BanliangYangAn	k ə n ¹	k ə n ¹	6809
+1297	JiarongSouthernSandong	k ə n ¹	k ə n ¹	6809
+1298	Pandong	k ə n ¹	k ə n ¹	6809
+1299	TangnianYangAn	k ə n ¹	k ə n ¹	6809
+1300	TingpaiWesternSandong	k ə n ¹	k ə n ¹	6809
+1301	DujiangEasternSandong	ⁿb j aːi ¹	ⁿb j aːi ¹	6810
+1302	JiarongSouthernSandong	ˀb j aːi ¹	ˀb j aːi ¹	6810
+1303	JiuqianSouthernSandong	ˀb j aːi ¹	ˀb j aːi ¹	6810
+1304	RenliEasternSandong	ⁿb j aːi ¹	ⁿb j aːi ¹	6810
+1305	SanjiangEasternSandong	ⁿb j aːi ¹	ⁿb j aːi ¹	6810
+1306	ShuigenCentralSandong	ˀb j aːi ¹	ˀb j aːi ¹	6810
+1307	ShuiweiSouthernSandong	ˀb j aːi ¹	ˀb j aːi ¹	6810
+1308	ShuiyaoSouthernSandong	ˀb j aːi ¹	ˀb j aːi ¹	6810
+1309	TangzhouWesternSandong	m j aːi ¹	m j aːi ¹	6810
+1310	ZhongheCentralSandong	ˀb j aːi ¹	ˀb j aːi ¹	6810
+1311	JiarongSouthernSandong	p e n ¹	p - e n ¹	6811
+1312	JiuqianSouthernSandong	p j ə ŋ ¹	p j ə ŋ ¹	6811
+1313	ShuiweiSouthernSandong	p j ə ŋ ¹	p j ə ŋ ¹	6811
+1314	JiuqianSouthernSandong	ʔ aː m ¹	ʔ aː m ¹	6812
+1315	ShuigenCentralSandong	ʔ aː m ¹	ʔ aː m ¹	6812
+1316	ZhongheCentralSandong	ʔ aː m ¹	ʔ aː m ¹	6812
+1317	TangnianYangAn	tsʰ ɿ ¹	tsʰ ɿ ¹	6814
+1318	TingpaiWesternSandong	tsʰ ɿ ¹	tsʰ ɿ ¹	6814
+1319	AntangWesternSandong	t o ¹	t o ¹	6853
+1320	BanliangYangAn	t o ¹	t o ¹	6853
+1321	DujiangEasternSandong	t o ¹	t o ¹	6853
+1322	JiuqianSouthernSandong	t o ¹	t o ¹	6853
+1323	RenliEasternSandong	t o ¹	t o ¹	6853
+1324	SanjiangEasternSandong	t o ¹	t o ¹	6853
+1325	ShuiweiSouthernSandong	t o ¹	t o ¹	6853
+1326	TangzhouWesternSandong	t o ¹	t o ¹	6853
+1327	TingpaiWesternSandong	t o ¹	t o ¹	6853
+1328	ZhongheCentralSandong	t o ¹	t o ¹	6853
+1329	AntangWesternSandong	ȶʰ j u ¹	ȶʰ j u ¹	6854
+1330	BanliangYangAn	kʰ j u ¹	kʰ j u ¹	6854
+1331	DujiangEasternSandong	ɕ j u ¹	ɕ j u ¹	6854
+1332	JiaoliPandong	s j u ¹	s j u ¹	6854
+1333	Pandong	ɕ j u ¹	ɕ j u ¹	6854
+1334	RenliEasternSandong	ɕ j u ¹	ɕ j u ¹	6854
+1335	SanjiangEasternSandong	ɕ j u ¹	ɕ j u ¹	6854
+1336	ShuigenCentralSandong	ȶʰ j u ¹	ȶʰ j u ¹	6854
+1337	TangnianYangAn	h j u ¹	h j u ¹	6854
+1338	JiaoliPandong	t au ¹	t au ¹	6855
+1339	Pandong	t au ¹	t au ¹	6855
+1340	JiarongSouthernSandong	j j u ¹	j j u ¹	6856
+1341	JiuqianSouthernSandong	j j u ¹	j j u ¹	6856
+1342	ShuiweiSouthernSandong	j j u ¹	j j u ¹	6856
+1343	ShuiyaoSouthernSandong	j u ¹	j - u ¹	6856
+1344	TangzhouWesternSandong	l aː k ¹	l aː k ¹	6857
+1345	TingpaiWesternSandong	l aː k ¹	l aː k ¹	6857
+1346	ZhongheCentralSandong	l aː k ¹	l aː k ¹	6857
+1347	JiarongSouthernSandong	ˀd aːi ¹	ˀd aːi ¹	6935
+1348	JiuqianSouthernSandong	ˀd aːi ¹	ˀd aːi ¹	6935
+1349	Pandong	d ai ¹	d ai ¹	6935
+1350	ShuiweiSouthernSandong	ˀd aːi ¹	ˀd aːi ¹	6935
+1351	ShuiyaoSouthernSandong	ˀd ai ¹	ˀd ai ¹	6935
+1352	BanliangYangAn	ȵ a ¹	ȵ a ¹	7000
+1353	DujiangEasternSandong	ˀȵ a ¹	ˀȵ a ¹	7000
+1354	JiuqianSouthernSandong	ˀȵ a ¹	ˀȵ a ¹	7000
+1355	RenliEasternSandong	ȵ a ¹	ȵ a ¹	7000
+1356	SanjiangEasternSandong	ȵ a ¹	ȵ a ¹	7000
+1357	ShuigenCentralSandong	ˀȵ a ¹	ˀȵ a ¹	7000
+1358	ShuiweiSouthernSandong	ˀȵ a ¹	ˀȵ a ¹	7000
+1359	TangnianYangAn	ȵ a ¹	ȵ a ¹	7000
+1360	TingpaiWesternSandong	ˀȵ a ¹	ˀȵ a ¹	7000
+1361	AntangWesternSandong	ȵ̥ u ¹	ȵ̥ u ¹	7012
+1362	DujiangEasternSandong	ȵ̥ u ¹	ȵ̥ u ¹	7012
+1363	ShuigenCentralSandong	ȵ̥ ũ ¹	ȵ̥ ũ ¹	7012
+1364	TangzhouWesternSandong	ȵ̥ u ¹	ȵ̥ u ¹	7012
+1365	TingpaiWesternSandong	ȵ̥ u ¹	ȵ̥ u ¹	7012
+1366	ZhongheCentralSandong	ȵ̥ u ¹	ȵ̥ u ¹	7012
+1367	BanliangYangAn	n j a n ¹	n j a n ¹	7013
+1368	JiarongSouthernSandong	ˀȵ i n ¹	ˀȵ - i n ¹	7013
+1369	JiuqianSouthernSandong	ˀȵ ə n ¹	ˀȵ - ə n ¹	7013
+1370	ShuiweiSouthernSandong	ˀȵ ə n ¹	ˀȵ - ə n ¹	7013
+1371	ShuiyaoSouthernSandong	ˀȵ i n ¹	ˀȵ - i n ¹	7013
+1372	TangnianYangAn	ȵ ə n ¹	ȵ - ə n ¹	7013
+1373	JiaoliPandong	h̃ j u ¹	h̃ j u - ¹	7014
+1374	Pandong	h̃ j u ¹	h̃ j u - ¹	7014
+1375	RenliEasternSandong	h̃ j u ŋ ¹	h̃ j u ŋ ¹	7014
+1376	SanjiangEasternSandong	h̃ j u ¹	h̃ j u - ¹	7014
+1377	AntangWesternSandong	ʔ u n ¹	ʔ u n ¹	7029
+1378	DujiangEasternSandong	ʔ u n ¹	ʔ u n ¹	7029
+1379	RenliEasternSandong	ʔ u n ¹	ʔ u n ¹	7029
+1380	SanjiangEasternSandong	ʔ u n ¹	ʔ u n ¹	7029
+1381	ShuigenCentralSandong	ʔ u n ¹	ʔ u n ¹	7029
+1382	TangzhouWesternSandong	ʔ u n ¹	ʔ u n ¹	7029
+1383	TingpaiWesternSandong	ʔ u n ¹	ʔ u n ¹	7029
+1384	ZhongheCentralSandong	ʔ u n ¹	ʔ u n ¹	7029
+1385	BanliangYangAn	p u n ¹	p u n ¹	7030
+1386	TangnianYangAn	p u n ¹	p u n ¹	7030
+1387	JiaoliPandong	ȵ o n ¹	ȵ - o n ¹	7031
+1388	JiarongSouthernSandong	ˀŋ o n ¹	ˀŋ - o n ¹	7031
+1389	JiuqianSouthernSandong	ˀŋ o n ¹	ˀŋ - o n ¹	7031
+1390	Pandong	ȵ w ə n ¹	ȵ w ə n ¹	7031
+1391	ShuiweiSouthernSandong	t a ŋ ¹	t a ŋ ¹	7032
+1392	ShuiyaoSouthernSandong	t a ŋ ¹	t a ŋ ¹	7032
+1393	JiaoliPandong	j a ¹	j a ¹	7065
+1394	ZhongheCentralSandong	j a ¹	j a ¹	7065
+1395	RenliEasternSandong	kʰ a ŋ ¹	kʰ a ŋ ¹	7100
+1396	SanjiangEasternSandong	kʰ a ŋ ¹	kʰ a ŋ ¹	7100
+1397	AntangWesternSandong	ɕ a ŋ ¹	ɕ - a ŋ ¹	7118
+1398	BanliangYangAn	h a ŋ ¹	h - a ŋ ¹	7118
+1399	DujiangEasternSandong	h j a ŋ ¹	h j a ŋ ¹	7118
+1400	Pandong	h j a ŋ ¹	h j a ŋ ¹	7118
+1401	ShuigenCentralSandong	ɕ a ŋ ¹	ɕ - a ŋ ¹	7118
+1402	TangnianYangAn	h a ŋ ¹	h - a ŋ ¹	7118
+1403	TangzhouWesternSandong	ɕ a ŋ ¹	ɕ - a ŋ ¹	7118
+1404	TingpaiWesternSandong	ɕ a ŋ ¹	ɕ - a ŋ ¹	7118
+1405	ZhongheCentralSandong	ɕ a ŋ ¹	ɕ - a ŋ ¹	7118
+1406	JiaoliPandong	v a ¹	v a ¹	7120
+1407	JiarongSouthernSandong	ˀb a ¹	ˀb a ¹	7120
+1408	RenliEasternSandong	v a ¹	v a ¹	7120
+1409	SanjiangEasternSandong	v a ¹	v a ¹	7120
+1410	ShuiweiSouthernSandong	ˀb a ¹	ˀb a ¹	7120
+1411	JiuqianSouthernSandong	ʔ w a ¹	ʔ w a ¹	7121
+1412	ShuiyaoSouthernSandong	ʔ w a ¹	ʔ w a ¹	7121
+1413	JiaoliPandong	n j a ¹	n j a ¹	7122
+1414	Pandong	n j a ¹	n j a ¹	7122
+1415	JiaoliPandong	q u ŋ ¹	q u ŋ ¹	7139
+1416	Pandong	q u ŋ ¹	q u ŋ ¹	7139
+1417	AntangWesternSandong	ˀd a ¹	ˀd a ¹	7158
+1418	BanliangYangAn	t a ¹	t a ¹	7158
+1419	JiarongSouthernSandong	ⁿd a ¹	ⁿd a ¹	7158
+1420	JiuqianSouthernSandong	ˀd a ¹	ˀd a ¹	7158
+1421	RenliEasternSandong	ⁿd ə ¹	ⁿd ə ¹	7158
+1422	ShuigenCentralSandong	ˀd a ¹	ˀd a ¹	7158
+1423	ShuiweiSouthernSandong	ˀd a ¹	ˀd a ¹	7158
+1424	ShuiyaoSouthernSandong	ˀd a ¹	ˀd a ¹	7158
+1425	TangzhouWesternSandong	ˀd a ¹	ˀd a ¹	7158
+1426	TingpaiWesternSandong	ˀd a ¹	ˀd a ¹	7158
+1427	DujiangEasternSandong	l a ¹	l a ¹	7160
+1428	Pandong	l ə ¹	l ə ¹	7160
+1429	SanjiangEasternSandong	l a ¹	l a ¹	7160
+1430	ZhongheCentralSandong	l a ¹	l a ¹	7160
+1431	AntangWesternSandong	l j ə n ¹	l j ə n ¹	7191
+1432	BanliangYangAn	l j ə n ¹	l j ə n ¹	7191
+1433	DujiangEasternSandong	l j a n ¹	l j a n ¹	7191
+1434	SanjiangEasternSandong	l j a n ¹	l j a n ¹	7191
+1435	ShuigenCentralSandong	l j e n ¹	l j e n ¹	7191
+1436	TangnianYangAn	l j ə n ¹	l j ə n ¹	7191
+1437	TangzhouWesternSandong	l j ə n ¹	l j ə n ¹	7191
+1438	TingpaiWesternSandong	l j a n ¹	l j a n ¹	7191
+1439	ZhongheCentralSandong	l j a n ¹	l j a n ¹	7191
+1440	JiaoliPandong	qʰ a n ¹	qʰ a n ¹	7192
+1441	Pandong	qʰ a n ¹	qʰ a n ¹	7192
+1442	JiarongSouthernSandong	f aː n ¹	f aː n ¹	7193
+1443	JiuqianSouthernSandong	f aː n ¹	f aː n ¹	7193
+1444	RenliEasternSandong	f aː n ¹	f aː n ¹	7193
+1445	ShuiweiSouthernSandong	f aː n ¹	f aː n ¹	7193
+1446	ShuiyaoSouthernSandong	f aː n ¹	f aː n ¹	7193
+1447	JiarongSouthernSandong	t j e m ¹	t j e m ¹	7209
+1448	ShuiweiSouthernSandong	t j e m ¹	t j e m ¹	7209
+1449	ShuiyaoSouthernSandong	t j e m ¹	t j e m ¹	7209
+1450	AntangWesternSandong	ȶ e ¹	ȶ e ¹	7242
+1451	JiaoliPandong	ȶ e ¹	ȶ e ¹	7242
+1452	AntangWesternSandong	h ui ¹	h ui ¹	7243
+1453	JiaoliPandong	h ui ¹	h ui ¹	7243
+1454	BanliangYangAn	p j a ¹	p j a ¹	7420
+1455	Pandong	p j a ¹	p j a ¹	7420
+1456	TangnianYangAn	p j a ¹	p j a ¹	7420
+1457	AntangWesternSandong	h a k ¹	h a k ¹	7465
+1458	JiuqianSouthernSandong	h a k ¹	h a k ¹	7465
+1459	RenliEasternSandong	h a k ¹	h a k ¹	7465
+1460	ShuiweiSouthernSandong	h a k ¹	h a k ¹	7465
+1461	ShuiyaoSouthernSandong	h a k ¹	h a k ¹	7465
+1462	BanliangYangAn	ɣ a t ¹	ɣ a t ¹	7466
+1463	DujiangEasternSandong	ɣ a t ¹	ɣ a t ¹	7466
+1464	JiaoliPandong	ɣ a t ¹	ɣ a t ¹	7466
+1465	JiarongSouthernSandong	ɣ ə t ¹	ɣ ə t ¹	7466
+1466	Pandong	ɣ a t ¹	ɣ a t ¹	7466
+1467	SanjiangEasternSandong	ɣ a t ¹	ɣ a t ¹	7466
+1468	ShuigenCentralSandong	ɣ a t ¹	ɣ a t ¹	7466
+1469	TangnianYangAn	ɣ ə t ¹	ɣ ə t ¹	7466
+1470	TangzhouWesternSandong	ɣ ə t ¹	ɣ ə t ¹	7466
+1471	ZhongheCentralSandong	ɣ ɜ t ¹	ɣ ɜ t ¹	7466
+1472	AntangWesternSandong	ȶ ə n ¹	ȶ ə n ¹	7467
+1473	JiaoliPandong	ȶ a n ¹	ȶ a n ¹	7467
+1474	JiarongSouthernSandong	ȶ a n ¹	ȶ a n ¹	7467
+1475	ShuigenCentralSandong	ȶ ə n ¹	ȶ ə n ¹	7467
+1476	TingpaiWesternSandong	ȶ a n ¹	ȶ a n ¹	7467
+1477	AntangWesternSandong	j eu ¹	j - eu ¹	7486
+1478	DujiangEasternSandong	j eːu ¹	j - eːu ¹	7486
+1479	JiaoliPandong	j j u ¹	j j u ¹	7486
+1480	SanjiangEasternSandong	j j u ¹	j j u ¹	7486
+1481	ShuigenCentralSandong	j j u ¹	j j u ¹	7486
+1482	TangzhouWesternSandong	j j u ¹	j j u ¹	7486
+1483	ZhongheCentralSandong	j j eu ¹	j j eu ¹	7486
+1484	BanliangYangAn	ŋ w a ¹	ŋ w a ¹	7487
+1485	JiarongSouthernSandong	ŋ w ã ¹	ŋ w ã ¹	7487
+1486	Pandong	ŋ w a ¹	ŋ w a ¹	7487
+1487	ShuiyaoSouthernSandong	ŋ w a ¹	ŋ w a ¹	7487
+1488	TangnianYangAn	ŋ w a ¹	ŋ w a ¹	7487
+1489	TingpaiWesternSandong	ŋ w a ¹	ŋ w a ¹	7487
+1490	JiuqianSouthernSandong	k w aː ŋ ¹	k w aː ŋ ¹	7488
+1491	ShuiweiSouthernSandong	k w aː ŋ ¹	k w aː ŋ ¹	7488
+1492	AntangWesternSandong	ˀn e ¹	ˀn e ¹	7503
+1493	BanliangYangAn	n e ¹	n e ¹	7503
+1494	JiaoliPandong	n e ¹	n e ¹	7503
+1495	Pandong	n e ¹	n e ¹	7503
+1496	TangnianYangAn	n e ¹	n e ¹	7503
+1497	TangzhouWesternSandong	ˀn əi ¹	ˀn əi ¹	7503
+1498	TingpaiWesternSandong	ˀn e ¹	ˀn e ¹	7503
+1499	ZhongheCentralSandong	ˀn e ¹	ˀn e ¹	7503
+1500	DujiangEasternSandong	f e ¹	f e ¹	7504
+1501	JiarongSouthernSandong	v e ¹	v e ¹	7504
+1502	JiuqianSouthernSandong	v e ¹	v e ¹	7504
+1503	RenliEasternSandong	f e ¹	f e ¹	7504
+1504	SanjiangEasternSandong	f e ¹	f e ¹	7504
+1505	ShuigenCentralSandong	f e ¹	f e ¹	7504
+1506	ShuiweiSouthernSandong	v e ¹	v e ¹	7504
+1507	ShuiyaoSouthernSandong	v e ¹	v e ¹	7504
+1508	AntangWesternSandong	ʔ ĩ ¹	ʔ ĩ ¹	7537
+1509	DujiangEasternSandong	ʔ ĩ ¹	ʔ ĩ ¹	7537
+1510	RenliEasternSandong	ʔ ĩ ¹	ʔ ĩ ¹	7537
+1511	SanjiangEasternSandong	ʔ ĩ ¹	ʔ ĩ ¹	7537
+1512	ShuigenCentralSandong	ʔ ĩ ¹	ʔ ĩ ¹	7537
+1513	TangnianYangAn	ʔ ĩ ¹	ʔ ĩ ¹	7537
+1514	TangzhouWesternSandong	ʔ ĩ ¹	ʔ ĩ ¹	7537
+1515	TingpaiWesternSandong	ʔ ĩ ¹	ʔ ĩ ¹	7537
+1516	JiarongSouthernSandong	ˀȵ i ¹	ˀȵ i ¹	7538
+1517	JiuqianSouthernSandong	ˀȵ i ¹	ˀȵ i ¹	7538
+1518	ShuiweiSouthernSandong	ˀȵ i ¹	ˀȵ i ¹	7538
+1519	ZhongheCentralSandong	ˀȵ i ¹	ˀȵ i ¹	7538
+1520	JiaoliPandong	h i ¹	h i ¹	7552
+1521	Pandong	h i ¹	h i ¹	7552
+1522	AntangWesternSandong	t j u ¹	t j u ¹	7619
+1523	BanliangYangAn	t j u ¹	t j u ¹	7619
+1524	ShuigenCentralSandong	t j u ¹	t j u ¹	7619
+1525	TangzhouWesternSandong	t j u ¹	t j u ¹	7619
+1526	ZhongheCentralSandong	t j u ¹	t j u ¹	7619
+1527	DujiangEasternSandong	t j aː ŋ ¹	t j aː ŋ ¹	7620
+1528	JiaoliPandong	t j ə ŋ ¹	t j ə ŋ ¹	7620
+1529	Pandong	t j ə ŋ ¹	t j ə ŋ ¹	7620
+1530	RenliEasternSandong	t j aː ŋ ¹	t j aː ŋ ¹	7620
+1531	SanjiangEasternSandong	t j aː ŋ ¹	t j aː ŋ ¹	7620
+1532	JiarongSouthernSandong	t u m ¹	t u m ¹	7621
+1533	JiuqianSouthernSandong	t u m ¹	t u m ¹	7621
+1534	RenliEasternSandong	ⁿd u m ¹	ⁿd u m ¹	7621
+1535	SanjiangEasternSandong	ⁿd u m ¹	ⁿd u m ¹	7621
+1536	ShuigenCentralSandong	ⁿd u m ¹	ⁿd u m ¹	7621
+1537	ShuiweiSouthernSandong	t u m ¹	t u m ¹	7621
+1538	ShuiyaoSouthernSandong	t ə m ¹	t ə m ¹	7621
+1539	TingpaiWesternSandong	ⁿd u m ¹	ⁿd u m ¹	7621
+1540	AntangWesternSandong	l o t ¹	l - o t ¹	7750
+1541	BanliangYangAn	l o t ¹	l - o t ¹	7750
+1542	TangnianYangAn	l o t ¹	l - o t ¹	7750
+1543	TangzhouWesternSandong	l u t ¹	l - u t ¹	7750
+1544	ZhongheCentralSandong	l w aː t ¹	l w aː t ¹	7750
+1545	DujiangEasternSandong	v j aː t ¹	v j aː t ¹	7751
+1546	JiuqianSouthernSandong	v j aː t ¹	v j aː t ¹	7751
+1547	RenliEasternSandong	v j aː t ¹	v j aː t ¹	7751
+1548	SanjiangEasternSandong	v j aː t ¹	v j aː t ¹	7751
+1549	ShuigenCentralSandong	v j aː t ¹	v j aː t ¹	7751
+1550	ShuiweiSouthernSandong	v j aː t ¹	v j aː t ¹	7751
+1551	ShuiyaoSouthernSandong	v j aː t ¹	v j aː t ¹	7751
+1552	BanliangYangAn	k u ¹	k u ¹	7800
+1553	TangnianYangAn	k u ¹	k u ¹	7800
+1554	JiaoliPandong	t a n ¹	t a n ¹	7834
+1555	Pandong	t a n ¹	t a n ¹	7834
+1556	AntangWesternSandong	n aː k ¹	n aː k ¹	7867
+1557	BanliangYangAn	n a k ¹	n a k ¹	7867
+1558	TangnianYangAn	n aː k ¹	n aː k ¹	7867
+1559	TangzhouWesternSandong	n aː k ¹	n aː k ¹	7867
+1560	ZhongheCentralSandong	n aː k ¹	n aː k ¹	7867
+1561	BanliangYangAn	t a t ¹	t a t ¹	7868
+1562	DujiangEasternSandong	t a t ¹	t a t ¹	7868
+1563	JiuqianSouthernSandong	t a t ¹	t a t ¹	7868
+1564	ShuigenCentralSandong	t a t ¹	t a t ¹	7868
+1565	ShuiweiSouthernSandong	t a t ¹	t a t ¹	7868
+1566	TingpaiWesternSandong	t a t ¹	t a t ¹	7868
+1567	JiaoliPandong	ts a n ¹	ts a n ¹	7869
+1568	Pandong	ȶ a n ¹	ȶ a n ¹	7869
+1569	RenliEasternSandong	ts a n ¹	ts a n ¹	7869
+1570	SanjiangEasternSandong	ts a n ¹	ts a n ¹	7869
+1571	ShuigenCentralSandong	ts ə n ¹	ts ə n ¹	7869
+1572	TangzhouWesternSandong	ts a n ¹	ts a n ¹	7869
+1573	ZhongheCentralSandong	ts a n ¹	ts a n ¹	7869
+1574	JiarongSouthernSandong	ts e k ¹	ts e k ¹	7870
+1575	ShuiyaoSouthernSandong	ts e k ¹	ts e k ¹	7870
+1576	JiaoliPandong	s a ¹	s a ¹	7903
+1577	Pandong	s a ¹	s a ¹	7903
+1578	JiarongSouthernSandong	tʰ o ŋ ¹	tʰ o ŋ ¹	7937
+1579	JiuqianSouthernSandong	tʰ o ŋ ¹	tʰ o ŋ ¹	7937
+1580	ShuiyaoSouthernSandong	tʰ o ŋ ¹	tʰ o ŋ ¹	7937
+1581	AntangWesternSandong	ʔ w e n ¹	ʔ w e n ¹	7971
+1582	DujiangEasternSandong	ʔ w e n ¹	ʔ w e n ¹	7971
+1583	JiuqianSouthernSandong	ʔ w e n ¹	ʔ w e n ¹	7971
+1584	ShuigenCentralSandong	ʔ w e n ¹	ʔ w e n ¹	7971
+1585	ShuiyaoSouthernSandong	ʔ w eː n ¹	ʔ w eː n ¹	7971
+1586	TangzhouWesternSandong	ʔ w i n ¹	ʔ w i n ¹	7971
+1587	TingpaiWesternSandong	ʔ w e n ¹	ʔ w e n ¹	7971
+1588	ZhongheCentralSandong	ʔ w e n ¹	ʔ w e n ¹	7971
+1589	BanliangYangAn	v e n ¹	v - e n ¹	7972
+1590	JiarongSouthernSandong	ˀb j e n ¹	ˀb j e n ¹	7972
+1591	ShuiweiSouthernSandong	ˀb e n ¹	ˀb - e n ¹	7972
+1592	TangnianYangAn	v e n ¹	v - e n ¹	7972
+1593	AntangWesternSandong	f o n ¹	f o n ¹	7988
+1594	TangzhouWesternSandong	f o n ¹	f o n ¹	7988
+1595	ZhongheCentralSandong	f o n ¹	f o n ¹	7988
+1596	BanliangYangAn	ʔ a n ¹	ʔ - a n ¹	7989
+1597	JiaoliPandong	t w ə n ¹	t w ə n ¹	7989
+1598	Pandong	h w ə n ¹	h w ə n ¹	7989
+1599	RenliEasternSandong	ʔ a n ¹	ʔ - a n ¹	7989
+1600	TangnianYangAn	h a ŋ ¹	h - a ŋ ¹	7989
+1601	DujiangEasternSandong	f a ¹	f a ¹	7990
+1602	ShuigenCentralSandong	f a ¹	f a ¹	7990
+1603	TingpaiWesternSandong	f a ¹	f a ¹	7990
+1604	JiarongSouthernSandong	n̥ i ¹	n̥ i ¹	7991
+1605	JiuqianSouthernSandong	n̥ i ¹	n̥ i ¹	7991
+1606	ShuigenCentralSandong	n̥ i ¹	n̥ i ¹	7991
+1607	ShuiweiSouthernSandong	n̥ i ¹	n̥ i ¹	7991
+1608	ShuiyaoSouthernSandong	n̥ i ¹	n̥ i ¹	7991
+1609	AntangWesternSandong	ɕ u ŋ ¹	ɕ - u ŋ ¹	8006
+1610	BanliangYangAn	t u ŋ ¹	t - u ŋ ¹	8006
+1611	DujiangEasternSandong	h j u ŋ ¹	h j u ŋ ¹	8006
+1612	ShuigenCentralSandong	ɕ u ŋ ¹	ɕ - u ŋ ¹	8006
+1613	TangnianYangAn	t u ŋ ¹	t - u ŋ ¹	8006
+1614	TangzhouWesternSandong	ɕ u ŋ ¹	ɕ - u ŋ ¹	8006
+1615	TingpaiWesternSandong	ɕ u ŋ ¹	ɕ - u ŋ ¹	8006
+1616	ZhongheCentralSandong	ɕ u ŋ ¹	ɕ - u ŋ ¹	8006
+1617	JiaoliPandong	pʰ j u ¹	pʰ j u - ¹	8007
+1618	Pandong	pʰ j o ŋ ¹	pʰ j o ŋ ¹	8007
+1619	RenliEasternSandong	pʰ j u ŋ ¹	pʰ j u ŋ ¹	8007
+1620	SanjiangEasternSandong	pʰ j o ŋ ¹	pʰ j o ŋ ¹	8007
+1621	ShuiweiSouthernSandong	l j o ŋ ¹	l j o ŋ ¹	8007
+1622	JiarongSouthernSandong	s aːu ¹	s aːu ¹	8008
+1623	JiuqianSouthernSandong	s aːu ¹	s aːu ¹	8008
+1624	ShuiyaoSouthernSandong	s aːu ¹	s aːu ¹	8008
+1625	DujiangEasternSandong	q o k ¹	q o k ¹	8109
+1626	JiaoliPandong	k o k ¹	k o k ¹	8109
+1627	RenliEasternSandong	h o ŋ ¹	h o ŋ ¹	8110
+1628	SanjiangEasternSandong	h o ŋ ¹	h o ŋ ¹	8110
+1629	BanliangYangAn	ŋ u k ¹	ŋ u k ¹	8141
+1630	TangnianYangAn	ŋ̊ u k ¹	ŋ̊ u k ¹	8141
+1631	AntangWesternSandong	l i ¹	l i ¹	8157
+1632	JiuqianSouthernSandong	l i ¹	l i ¹	8157
+1633	ShuigenCentralSandong	l i ¹	l i ¹	8157
+1634	TingpaiWesternSandong	l i ¹	l i ¹	8157
+1635	ZhongheCentralSandong	l i ¹	l i ¹	8157
+1636	BanliangYangAn	v e ¹	v e ¹	8158
+1637	DujiangEasternSandong	p əi ¹	p əi ¹	8158
+1638	TangnianYangAn	v e ¹	v e ¹	8158
+1639	TangzhouWesternSandong	f əi ¹	f əi ¹	8158
+1640	JiaoliPandong	h e ¹	h e ¹	8159
+1641	JiarongSouthernSandong	h e ¹	h e ¹	8159
+1642	Pandong	h e ¹	h e ¹	8159
+1643	RenliEasternSandong	h e ¹	h e ¹	8159
+1644	SanjiangEasternSandong	h e ¹	h e ¹	8159
+1645	ShuiweiSouthernSandong	h e ¹	h e ¹	8159
+1646	ShuiyaoSouthernSandong	h e ¹	h e ¹	8159
+1647	AntangWesternSandong	t o k ¹	t o k ¹	8191
+1648	BanliangYangAn	s o p ¹	s o p ¹	8191
+1649	JiaoliPandong	t o k ¹	t o k ¹	8191
+1650	TangnianYangAn	s o k ¹	s o k ¹	8191
+1651	AntangWesternSandong	s j e ŋ ¹	s j e ŋ ¹	8207
+1652	DujiangEasternSandong	ɕ aː ŋ ¹	ɕ - aː ŋ ¹	8207
+1653	JiaoliPandong	ɕ i ŋ ¹	ɕ - i ŋ ¹	8207
+1654	JiarongSouthernSandong	s j aː ŋ ¹	s j aː ŋ ¹	8207
+1655	JiuqianSouthernSandong	s j aː ŋ ¹	s j aː ŋ ¹	8207
+1656	Pandong	ɕ j ə ŋ ¹	ɕ j ə ŋ ¹	8207
+1657	RenliEasternSandong	s j aː ŋ ¹	s j aː ŋ ¹	8207
+1658	ShuigenCentralSandong	s j aː ŋ ¹	s j aː ŋ ¹	8207
+1659	TingpaiWesternSandong	s j a ŋ ¹	s j a ŋ ¹	8207
+1660	ZhongheCentralSandong	s j aː ŋ ¹	s j aː ŋ ¹	8207
+1661	BanliangYangAn	l j o ¹	l j o ¹	8208
+1662	TangnianYangAn	l j o ¹	l j o ¹	8208
+1663	AntangWesternSandong	l j e m ¹	l j e m ¹	8209
+1664	SanjiangEasternSandong	l j aː m ¹	l j aː m ¹	8209
+1665	ShuiweiSouthernSandong	l j aː m ¹	l j aː m ¹	8209
+1666	ShuiyaoSouthernSandong	l j aː m ¹	l j aː m ¹	8209
+1667	TangzhouWesternSandong	l j aː m ¹	l j aː m ¹	8209
+1668	BanliangYangAn	ȶ i n ¹	ȶ i n ¹	8261
+1669	TangnianYangAn	ȶ i n ¹	ȶ i n ¹	8261
+1670	DujiangEasternSandong	l a ¹	l a ¹	8279
+1671	Pandong	l a ¹	l a ¹	8279
+1672	ShuigenCentralSandong	l a ¹	l a ¹	8279
+1673	JiarongSouthernSandong	ˀd a ¹	ˀd a ¹	8281
+1674	RenliEasternSandong	ȶ a ¹	ȶ a ¹	8281
+1675	SanjiangEasternSandong	ȶ a ¹	ȶ a ¹	8281
+1676	ShuiweiSouthernSandong	t a ¹	t a ¹	8281
+1677	ShuiyaoSouthernSandong	ˀd a ¹	ˀd a ¹	8281
+1678	TangzhouWesternSandong	ȶ a ¹	ȶ a ¹	8281
+1679	TingpaiWesternSandong	ȶ a ¹	ȶ a ¹	8281
+1680	ZhongheCentralSandong	ȶ a ¹	ȶ a ¹	8281
+1681	AntangWesternSandong	h a m ¹	h a m ¹	8311
+1682	BanliangYangAn	h a m ¹	h a m ¹	8311
+1683	DujiangEasternSandong	h a m ¹	h a m ¹	8311
+1684	RenliEasternSandong	h a m ¹	h a m ¹	8311
+1685	SanjiangEasternSandong	h a m ¹	h a m ¹	8311
+1686	ShuigenCentralSandong	h a m ¹	h a m ¹	8311
+1687	TangnianYangAn	h a m ¹	h a m ¹	8311
+1688	TangzhouWesternSandong	h a m ¹	h a m ¹	8311
+1689	TingpaiWesternSandong	h a m ¹	h a m ¹	8311
+1690	ZhongheCentralSandong	h aː m ¹	h aː m ¹	8311
+1691	JiaoliPandong	h a ¹	h a ¹	8312
+1692	JiuqianSouthernSandong	h a ¹	h a ¹	8312
+1693	ShuiweiSouthernSandong	h a ¹	h a ¹	8312
+1694	ShuiyaoSouthernSandong	h a ¹	h a ¹	8312
+1695	JiarongSouthernSandong	ˀd a p ¹	ˀd a p ¹	8314
+1696	Pandong	ⁿd a p ¹	ⁿd a p ¹	8314
+1697	AntangWesternSandong	ˀŋ w a ¹	ˀŋ w a ¹	8329
+1698	DujiangEasternSandong	ˀŋ w a ¹	ˀŋ w a ¹	8329
+1699	ShuigenCentralSandong	ˀŋ w a ¹	ˀŋ w a ¹	8329
+1700	TangzhouWesternSandong	ˀŋ w a ¹	ˀŋ w a ¹	8329
+1701	TingpaiWesternSandong	ˀŋ w a ¹	ˀŋ w a ¹	8329
+1702	ZhongheCentralSandong	ˀŋ w a ¹	ˀŋ w a ¹	8329
+1703	BanliangYangAn	ŋ aː ŋ ¹	ŋ aː ŋ ¹	8330
+1704	JiaoliPandong	n i ŋ ¹	n i ŋ ¹	8330
+1705	JiarongSouthernSandong	ˀŋ aː ŋ ¹	ˀŋ aː ŋ ¹	8330
+1706	JiuqianSouthernSandong	ˀŋ aː ŋ ¹	ˀŋ aː ŋ ¹	8330
+1707	Pandong	ŋ aː ŋ ¹	ŋ aː ŋ ¹	8330
+1708	ShuiweiSouthernSandong	ˀŋ aː ŋ ¹	ˀŋ aː ŋ ¹	8330
+1709	TangnianYangAn	ŋ aː ŋ ¹	ŋ aː ŋ ¹	8330
+1710	RenliEasternSandong	m j aː ŋ ¹	m j aː ŋ ¹	8331
+1711	SanjiangEasternSandong	m j aː ŋ ¹	m j aː ŋ ¹	8331
+1712	AntangWesternSandong	h o ¹	h o ¹	8380
+1713	DujiangEasternSandong	h o ¹	h o ¹	8380
+1714	RenliEasternSandong	h o ¹	h o ¹	8380
+1715	SanjiangEasternSandong	h o ¹	h o ¹	8380
+1716	ShuigenCentralSandong	h o ¹	h o ¹	8380
+1717	TangzhouWesternSandong	h o ¹	h o ¹	8380
+1718	TingpaiWesternSandong	h o ¹	h o ¹	8380
+1719	ZhongheCentralSandong	h o ¹	h o ¹	8380
+1720	BanliangYangAn	kʰ u ¹	kʰ u ¹	8381
+1721	JiarongSouthernSandong	qʰ o ¹	qʰ o ¹	8381
+1722	JiuqianSouthernSandong	qʰ o ¹	qʰ o ¹	8381
+1723	ShuiweiSouthernSandong	qʰ o ¹	qʰ o ¹	8381
+1724	ShuiyaoSouthernSandong	qʰ o ¹	qʰ o ¹	8381
+1725	JiaoliPandong	h j u ¹	h j u ¹	8382
+1726	Pandong	h j u ¹	h j u ¹	8382
+1727	BanliangYangAn	pʰ j a ¹	pʰ j a ¹	8398
+1728	TangnianYangAn	pʰ j a ¹	pʰ j a ¹	8398
+1729	RenliEasternSandong	k o ¹	k o ¹	8417
+1730	SanjiangEasternSandong	k o ¹	k o ¹	8417
+1731	BanliangYangAn	k ə ¹	k ə ¹	8449
+1732	TingpaiWesternSandong	q ə ¹	q ə ¹	8449
+1733	JiarongSouthernSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	8468
+1734	JiuqianSouthernSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	8468
+1735	ShuiweiSouthernSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	8468
+1736	ShuiyaoSouthernSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	8468
+1737	DujiangEasternSandong	m aː ŋ ¹	m - aː ŋ ¹	8484
+1738	JiarongSouthernSandong	m j aː ŋ ¹	m j aː ŋ ¹	8484
+1739	JiuqianSouthernSandong	m j aː ŋ ¹	m j aː ŋ ¹	8484
+1740	RenliEasternSandong	m aː ŋ ¹	m - aː ŋ ¹	8484
+1741	SanjiangEasternSandong	m aː ŋ ¹	m - aː ŋ ¹	8484
+1742	ShuigenCentralSandong	m aː ŋ ¹	m - aː ŋ ¹	8484
+1743	ShuiweiSouthernSandong	m j aː ŋ ¹	m j aː ŋ ¹	8484
+1744	ShuiyaoSouthernSandong	m j e ŋ ¹	m j e ŋ ¹	8484
+1745	TingpaiWesternSandong	m w a ŋ ¹	m w a ŋ ¹	8484
+1746	ZhongheCentralSandong	m aː ŋ ¹	m - aː ŋ ¹	8484
+1747	AntangWesternSandong	q o n ¹	q o n ¹	8548
+1748	BanliangYangAn	q o n ¹	q o n ¹	8548
+1749	DujiangEasternSandong	q o n ¹	q o n ¹	8548
+1750	Pandong	ȶ o n ¹	ȶ o n ¹	8548
+1751	ShuigenCentralSandong	q o n ¹	q o n ¹	8548
+1752	ShuiweiSouthernSandong	q o n ¹	q o n ¹	8548
+1753	TangnianYangAn	q o n ¹	q o n ¹	8548
+1754	TangzhouWesternSandong	q o n ¹	q o n ¹	8548
+1755	TingpaiWesternSandong	q o n ¹	q o n ¹	8548
+1756	ZhongheCentralSandong	q o n ¹	q o n ¹	8548
+1757	JiarongSouthernSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	8550
+1758	JiuqianSouthernSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	8550
+1759	ShuiyaoSouthernSandong	ɣ aː ŋ ¹	ɣ aː ŋ ¹	8550
+1760	RenliEasternSandong	ⁿd ai ¹	ⁿd ai ¹	8617
+1761	SanjiangEasternSandong	ⁿd ai ¹	ⁿd ai ¹	8617
+1762	JiarongSouthernSandong	q eu ¹	q eu ¹	8633
+1763	JiuqianSouthernSandong	q eu ¹	q eu ¹	8633
+1764	RenliEasternSandong	q eu ¹	q eu ¹	8633
+1765	ShuiweiSouthernSandong	q eu ¹	q eu ¹	8633
+1766	ShuiyaoSouthernSandong	q eu ¹	q eu ¹	8633
+1767	TangzhouWesternSandong	q eu ¹	q eu ¹	8633
+1768	SanjiangEasternSandong	f j e n ¹	f j e n ¹	8634
+1769	TangnianYangAn	p j aː n ¹	p j aː n ¹	8634
+1770	TingpaiWesternSandong	f j a n ¹	f j a n ¹	8634
+1771	ShuigenCentralSandong	ɕ aː n ¹	ɕ aː n ¹	8635
+1772	ZhongheCentralSandong	ɕ aː n ¹	ɕ aː n ¹	8635
+1773	JiaoliPandong	t e k ¹	t e k ¹	8732
+1774	Pandong	t e k ¹	t e k ¹	8732
+1775	ShuiyaoSouthernSandong	t e k ¹	t e k ¹	8732
+1776	AntangWesternSandong	ɕ au ¹	ɕ au ¹	8782
+1777	JiarongSouthernSandong	ɕ au ¹	ɕ au ¹	8782
+1778	JiuqianSouthernSandong	ɕ au ¹	ɕ au ¹	8782
+1779	ShuigenCentralSandong	ɕ au ¹	ɕ au ¹	8782
+1780	ShuiweiSouthernSandong	ɕ au ¹	ɕ au ¹	8782
+1781	ShuiyaoSouthernSandong	ɕ au ¹	ɕ au ¹	8782
+1782	TangzhouWesternSandong	ɕ au ¹	ɕ au ¹	8782
+1783	TingpaiWesternSandong	ɕ au ¹	ɕ au ¹	8782
+1784	ZhongheCentralSandong	ɕ au ¹	ɕ au ¹	8782
+1785	BanliangYangAn	ɣ o ¹	ɣ o ¹	8783
+1786	Pandong	ɣ o ¹	ɣ o ¹	8783
+1787	TangnianYangAn	ɣ o ¹	ɣ o ¹	8783
+1788	DujiangEasternSandong	h j au ¹	h j au ¹	8784
+1789	JiaoliPandong	h j au ¹	h j au ¹	8784
+1790	RenliEasternSandong	h j au ¹	h j au ¹	8784
+1791	SanjiangEasternSandong	h j au ¹	h j au ¹	8784
+1792	JiuqianSouthernSandong	h e ¹	h e ¹	8884
+1793	ZhongheCentralSandong	h e ¹	h e ¹	8884
+1794	AntangWesternSandong	tʰ a ¹	tʰ a ¹	8938
+1795	BanliangYangAn	tʰ a ¹	tʰ a ¹	8938
+1796	DujiangEasternSandong	tʰ a ¹	tʰ a ¹	8938
+1797	JiarongSouthernSandong	tʰ a ¹	tʰ a ¹	8938
+1798	SanjiangEasternSandong	tʰ a ¹	tʰ a ¹	8938
+1799	ShuigenCentralSandong	tʰ a ¹	tʰ a ¹	8938
+1800	ShuiweiSouthernSandong	tʰ a ¹	tʰ a ¹	8938
+1801	TangnianYangAn	tʰ a ¹	tʰ a ¹	8938
+1802	TingpaiWesternSandong	tʰ a ¹	tʰ a ¹	8938
+1803	ZhongheCentralSandong	tʰ a ¹	tʰ a ¹	8938
+1804	AntangWesternSandong	m j ə t ¹	m j ə t ¹	8951
+1805	JiaoliPandong	m j a t ¹	m j a t ¹	8951
+1806	TangzhouWesternSandong	m j ə t ¹	m j ə t ¹	8951
+1807	TingpaiWesternSandong	m j a t ¹	m j a t ¹	8951
+1808	BanliangYangAn	m a ŋ ¹	m a ŋ ¹	8952
+1809	TangnianYangAn	m a ŋ ¹	m a ŋ ¹	8952
+1810	DujiangEasternSandong	ⁿb j u m ¹	ⁿb j u m ¹	8953
+1811	RenliEasternSandong	ⁿb j u m ¹	ⁿb j u m ¹	8953
+1812	SanjiangEasternSandong	ⁿb j u m ¹	ⁿb j u m ¹	8953
+1813	ShuigenCentralSandong	ⁿb j u m ¹	ⁿb j u m ¹	8953
+1814	ZhongheCentralSandong	ⁿb j u m ¹	ⁿb j u m ¹	8953
+1815	JiarongSouthernSandong	ɣ ai ¹	ɣ ai ¹	8954
+1816	JiuqianSouthernSandong	ɣ ai ¹	ɣ ai ¹	8954
+1817	ShuiweiSouthernSandong	ɣ ai ¹	ɣ ai ¹	8954
+1818	ShuiyaoSouthernSandong	ɣ ai ¹	ɣ ai ¹	8954
+1819	JiaoliPandong	pʰ j ai ¹	pʰ j ai ¹	8986
+1820	Pandong	pʰ j ai ¹	pʰ j ai ¹	8986
+1821	RenliEasternSandong	pʰ ai ¹	pʰ - ai ¹	8986
+1822	SanjiangEasternSandong	pʰ ai ¹	pʰ - ai ¹	8986
+1823	AntangWesternSandong	ŋ ai ¹	ŋ ai ¹	9018
+1824	DujiangEasternSandong	ŋ̊ ai ¹	ŋ̊ ai ¹	9018
+1825	ShuigenCentralSandong	ŋ̊ ai ¹	ŋ̊ ai ¹	9018
+1826	ShuiweiSouthernSandong	ŋ̊ ai ¹	ŋ̊ ai ¹	9018
+1827	TangzhouWesternSandong	ŋ̊ əi ¹	ŋ̊ əi ¹	9018
+1828	TingpaiWesternSandong	ŋ̊ ai ¹	ŋ̊ ai ¹	9018
+1829	ZhongheCentralSandong	ŋ̊ ai ¹	ŋ̊ ai ¹	9018
+1830	BanliangYangAn	qʰ ai ¹	qʰ ai ¹	9019
+1831	TangnianYangAn	qʰ ai ¹	qʰ ai ¹	9019
+1832	JiaoliPandong	k aː ŋ ¹	k - aː ŋ ¹	9020
+1833	JiarongSouthernSandong	ts j aː ŋ ¹	ts j aː ŋ ¹	9020
+1834	JiuqianSouthernSandong	ts j aː ŋ ¹	ts j aː ŋ ¹	9020
+1835	Pandong	k aː ŋ ¹	k - aː ŋ ¹	9020
+1836	ShuiyaoSouthernSandong	ts j e ŋ ¹	ts j e ŋ ¹	9020
+1837	Pandong	pʰ j ai ¹	pʰ j ai ¹	9021
+1838	RenliEasternSandong	pʰ j ai ¹	pʰ j ai ¹	9021
+1839	SanjiangEasternSandong	pʰ j ai ¹	pʰ j ai ¹	9021
+1840	Pandong	ŋ a ¹	ŋ a ¹	9037
+1841	TangnianYangAn	ŋ a ¹	ŋ a ¹	9037
+1842	AntangWesternSandong	ʔ u k ¹	ʔ u k ¹	9073
+1843	RenliEasternSandong	ʔ u k ¹	ʔ u k ¹	9073
+1844	TingpaiWesternSandong	ʔ u k ¹	ʔ u k ¹	9073
+1845	AntangWesternSandong	l j u k ¹	l j u k ¹	9074
+1846	DujiangEasternSandong	l j u k ¹	l j u k ¹	9074
+1847	RenliEasternSandong	l j u k ¹	l j u k ¹	9074
+1848	SanjiangEasternSandong	l j u k ¹	l j u k ¹	9074
+1849	ShuigenCentralSandong	l j u k ¹	l j u k ¹	9074
+1850	TangzhouWesternSandong	l j u k ¹	l j u k ¹	9074
+1851	TingpaiWesternSandong	l j u k ¹	l j u k ¹	9074
+1852	ZhongheCentralSandong	l j u k ¹	l j u k ¹	9074
+1853	BanliangYangAn	t u n ¹	t - u n ¹	9075
+1854	JiaoliPandong	t w ə n ¹	t w ə n ¹	9075
+1855	JiarongSouthernSandong	f ə n ¹	f - ə n ¹	9075
+1856	Pandong	t w ə n ¹	t w ə n ¹	9075
+1857	TangnianYangAn	t u n ¹	t - u n ¹	9075
+1858	JiarongSouthernSandong	ʔ a ŋ ¹	ʔ a ŋ ¹	9077
+1859	JiuqianSouthernSandong	ʔ a ŋ ¹	ʔ a ŋ ¹	9077
+1860	ShuiweiSouthernSandong	ʔ a ŋ ¹	ʔ a ŋ ¹	9077
+1861	ShuiyaoSouthernSandong	ʔ a ŋ ¹	ʔ a ŋ ¹	9077
+1862	AntangWesternSandong	l i ¹	l i ¹	9114
+1863	DujiangEasternSandong	l i ¹	l i ¹	9114
+1864	JiaoliPandong	l i ¹	l i ¹	9114
+1865	Pandong	l i ¹	l i ¹	9114
+1866	ZhongheCentralSandong	l i ¹	l i ¹	9114
+1867	BanliangYangAn	t j ə t ¹	t j ə t ¹	9182
+1868	DujiangEasternSandong	t j ə t ¹	t j ə t ¹	9182
+1869	ShuigenCentralSandong	t j ə t ¹	t j ə t ¹	9182
+1870	TangnianYangAn	t j ə t ¹	t j ə t ¹	9182
+1871	BanliangYangAn	t j ə t ¹	t j ə t ¹	9200
+1872	TangnianYangAn	t j ə t ¹	t j ə t ¹	9200
+1873	DujiangEasternSandong	ts aː p ¹	ts aː p ¹	9201
+1874	RenliEasternSandong	ts aː p ¹	ts aː p ¹	9201
+1875	SanjiangEasternSandong	ts aː p ¹	ts aː p ¹	9201
+1876	ShuigenCentralSandong	ts aː p ¹	ts aː p ¹	9201
+1877	TangzhouWesternSandong	ts aː p ¹	ts aː p ¹	9201
+1878	TingpaiWesternSandong	ts aː p ¹	ts aː p ¹	9201
+1879	JiaoliPandong	p w ə t ¹	p w ə t ¹	9202
+1880	JiarongSouthernSandong	pʰ aː t ¹	pʰ - aː t ¹	9202
+1881	JiuqianSouthernSandong	pʰ aː t ¹	pʰ - aː t ¹	9202
+1882	Pandong	h aː t ¹	h - aː t ¹	9202
+1883	ShuiweiSouthernSandong	pʰ aː t ¹	pʰ - aː t ¹	9202
+1884	ShuiyaoSouthernSandong	h aː t ¹	h - aː t ¹	9202
+1885	AntangWesternSandong	s ai ¹	s ai ¹	9233
+1886	BanliangYangAn	ts ai ¹	ts ai ¹	9233
+1887	ShuigenCentralSandong	s ai ¹	s ai ¹	9233
+1888	TangnianYangAn	z ai ¹	z ai ¹	9233
+1889	TangzhouWesternSandong	s əi ¹	s əi ¹	9233
+1890	TingpaiWesternSandong	z ai ¹	z ai ¹	9233
+1891	ZhongheCentralSandong	s ai ¹	s ai ¹	9233
+1892	DujiangEasternSandong	h aː ŋ ¹	h aː ŋ ¹	9234
+1893	JiaoliPandong	h aː ŋ ¹	h aː ŋ ¹	9234
+1894	JiarongSouthernSandong	h aː ŋ ¹	h aː ŋ ¹	9234
+1895	JiuqianSouthernSandong	h aː ŋ ¹	h aː ŋ ¹	9234
+1896	Pandong	h aː ŋ ¹	h aː ŋ ¹	9234
+1897	RenliEasternSandong	h aː ŋ ¹	h aː ŋ ¹	9234
+1898	SanjiangEasternSandong	h aː ŋ ¹	h aː ŋ ¹	9234
+1899	ShuiweiSouthernSandong	h aː ŋ ¹	h aː ŋ ¹	9234
+1900	ShuiyaoSouthernSandong	h aː ŋ ¹	h aː ŋ ¹	9234
+1901	AntangWesternSandong	ʔ u n ¹	ʔ u n ¹	9321
+1902	DujiangEasternSandong	ʔ u n ¹	ʔ u n ¹	9321
+1903	ShuigenCentralSandong	ʔ u n ¹	ʔ u n ¹	9321
+1904	ShuiweiSouthernSandong	ɣ u n ¹	ɣ u n ¹	9321
+1905	ZhongheCentralSandong	ʔ u n ¹	ʔ u n ¹	9321
+1906	BanliangYangAn	ŋ u n ¹	ŋ u n ¹	9322
+1907	JiuqianSouthernSandong	ʁ u n ¹	ʁ u n ¹	9322
+1908	TangnianYangAn	ŋ u n ¹	ŋ u n ¹	9322
+1909	TangzhouWesternSandong	ˀŋ u n ¹	ˀŋ u n ¹	9322
+1910	JiaoliPandong	l j u ¹	l j u ¹	9323
+1911	Pandong	l j u ¹	l j u ¹	9323
+1912	RenliEasternSandong	l j u ¹	l j u ¹	9323
+1913	SanjiangEasternSandong	l j u ¹	l j u ¹	9323
+1914	TingpaiWesternSandong	l j u ¹	l j u ¹	9323
+1915	JiarongSouthernSandong	v ə n ¹	v ə n ¹	9324
+1916	ShuiyaoSouthernSandong	v ə n ¹	v ə n ¹	9324
+1917	AntangWesternSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	9338
+1918	JiuqianSouthernSandong	x aː ŋ ¹	x aː ŋ ¹	9338
+1919	ShuigenCentralSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	9338
+1920	ShuiyaoSouthernSandong	x aː ŋ ¹	x aː ŋ ¹	9338
+1921	TangzhouWesternSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	9338
+1922	ZhongheCentralSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	9338
+1923	BanliangYangAn	kʰ au ¹	kʰ au ¹	9339
+1924	Pandong	kʰ au ¹	kʰ au ¹	9339
+1925	DujiangEasternSandong	ɕ aː ŋ ¹	ɕ aː ŋ ¹	9340
+1926	JiarongSouthernSandong	s au ¹	s au - ¹	9340
+1927	RenliEasternSandong	s au ¹	s au - ¹	9340
+1928	SanjiangEasternSandong	s au ¹	s au - ¹	9340
+1929	ShuiweiSouthernSandong	s au ¹	s au - ¹	9340
+1930	AntangWesternSandong	l j u m ¹	l j u m ¹	9355
+1931	BanliangYangAn	l j u m ¹	l j u m ¹	9355
+1932	DujiangEasternSandong	l j u m ¹	l j u m ¹	9355
+1933	JiaoliPandong	l j u m ¹	l j u m ¹	9355
+1934	RenliEasternSandong	l j u m ¹	l j u m ¹	9355
+1935	SanjiangEasternSandong	l j u m ¹	l j u m ¹	9355
+1936	ShuiweiSouthernSandong	l j u m ¹	l j u m ¹	9355
+1937	TangnianYangAn	l j u m ¹	l j u m ¹	9355
+1938	TingpaiWesternSandong	l j u m ¹	l j u m ¹	9355
+1939	AntangWesternSandong	ˀm ui ¹	ˀm ui ¹	9365
+1940	BanliangYangAn	m oi ¹	m oi ¹	9365
+1941	DujiangEasternSandong	ˀm ui ¹	ˀm ui ¹	9365
+1942	ShuigenCentralSandong	ˀm ui ¹	ˀm ui ¹	9365
+1943	TangnianYangAn	m oi ¹	m oi ¹	9365
+1944	TangzhouWesternSandong	ˀm ui ¹	ˀm ui ¹	9365
+1945	ZhongheCentralSandong	ˀm ui ¹	ˀm ui ¹	9365
+1946	JiaoliPandong	h a ¹	h a ¹	9366
+1947	ShuiyaoSouthernSandong	h au ¹	h au ¹	9366
+1948	JiarongSouthernSandong	s i ¹	s i ¹	9367
+1949	JiuqianSouthernSandong	s i ¹	s i ¹	9367
+1950	RenliEasternSandong	ɕ i ¹	ɕ i ¹	9367
+1951	SanjiangEasternSandong	ɕ i ¹	ɕ i ¹	9367
+1952	Pandong	ɕ j a ¹	ɕ j a ¹	9368
+1953	ShuiweiSouthernSandong	s j e ¹	s j e ¹	9368
+1954	JiarongSouthernSandong	ts u t ¹	ts u t ¹	9383
+1955	JiuqianSouthernSandong	ts u t ¹	ts u t ¹	9383
+1956	ShuiweiSouthernSandong	ts u t ¹	ts u t ¹	9383
+1957	AntangWesternSandong	h aː t ¹	h aː t ¹	9400
+1958	BanliangYangAn	h aː t ¹	h aː t ¹	9400
+1959	DujiangEasternSandong	h aː t ¹	h aː t ¹	9400
+1960	JiuqianSouthernSandong	h aː t ¹	h aː t ¹	9400
+1961	ShuigenCentralSandong	h aː t ¹	h aː t ¹	9400
+1962	ShuiyaoSouthernSandong	h aː t ¹	h aː t ¹	9400
+1963	TangnianYangAn	h aː t ¹	h aː t ¹	9400
+1964	TangzhouWesternSandong	h aː t ¹	h aː t ¹	9400
+1965	TingpaiWesternSandong	h aː t ¹	h aː t ¹	9400
+1966	ZhongheCentralSandong	h aː t ¹	h aː t ¹	9400
+1967	JiaoliPandong	ȵ w ə t ¹	ȵ w ə t ¹	9401
+1968	JiuqianSouthernSandong	ȵ u t ¹	ȵ - u t ¹	9401
+1969	Pandong	ȵ w ə t ¹	ȵ w ə t ¹	9401
+1970	RenliEasternSandong	n j u t ¹	n j u t ¹	9401
+1971	SanjiangEasternSandong	n j u t ¹	n j u t ¹	9401
+1972	ShuigenCentralSandong	ȵ u t ¹	ȵ - u t ¹	9401
+1973	ShuiweiSouthernSandong	ȵ u t ¹	ȵ - u t ¹	9401
+1974	ShuiyaoSouthernSandong	ⁿj u t ¹	- ⁿj u t ¹	9401
+1975	TangzhouWesternSandong	ȵ u t ¹	ȵ - u t ¹	9401
+1976	TingpaiWesternSandong	ȵ u t ¹	ȵ - u t ¹	9401
+1977	BanliangYangAn	ⁿd j a n ¹	ⁿd j a n ¹	9402
+1978	JiarongSouthernSandong	ⁿd j a n ¹	ⁿd j a n ¹	9402
+1979	JiuqianSouthernSandong	ⁿd j a n ¹	ⁿd j a n ¹	9402
+1980	ShuiweiSouthernSandong	ⁿd j a n ¹	ⁿd j a n ¹	9402
+1981	ZhongheCentralSandong	ⁿd j a n ¹	ⁿd j a n ¹	9402
+1982	BanliangYangAn	s o ŋ ¹	s o ŋ ¹	9427
+1983	TangnianYangAn	s o ŋ ¹	s o ŋ ¹	9427
+1984	JiarongSouthernSandong	l a ¹	l a ¹	9444
+1985	ShuiyaoSouthernSandong	l a ¹	l a ¹	9444
+1986	JiarongSouthernSandong	q e ¹	q e ¹	9478
+1987	JiuqianSouthernSandong	q e ¹	q e ¹	9478
+1988	ShuiweiSouthernSandong	q e ¹	q e ¹	9478
+1989	ShuiyaoSouthernSandong	q e ¹	q e ¹	9478
+1990	AntangWesternSandong	h u p ¹	h u p ¹	9528
+1991	DujiangEasternSandong	h u p ¹	h u p ¹	9528
+1992	JiuqianSouthernSandong	qʰ u p ¹	qʰ u p ¹	9528
+1993	RenliEasternSandong	h u p ¹	h u p ¹	9528
+1994	SanjiangEasternSandong	h u p ¹	h u p ¹	9528
+1995	ShuigenCentralSandong	h u p ¹	h u p ¹	9528
+1996	ShuiweiSouthernSandong	qʰ u p ¹	qʰ u p ¹	9528
+1997	TangzhouWesternSandong	h u p ¹	h u p ¹	9528
+1998	TingpaiWesternSandong	h u p ¹	h u p ¹	9528
+1999	ZhongheCentralSandong	h u p ¹	h u p ¹	9528
+2000	BanliangYangAn	ȵ a p ¹	ȵ a p ¹	9529
+2001	JiaoliPandong	j a p ¹	j a p ¹	9529
+2002	JiarongSouthernSandong	kʰ a p ¹	kʰ a p ¹	9529
+2003	Pandong	ⁿd a p ¹	ⁿd a p ¹	9529
+2004	ShuiyaoSouthernSandong	qʰ a p ¹	qʰ a p ¹	9529
+2005	TangnianYangAn	ȵ a p ¹	ȵ a p ¹	9529
+2006	JiaoliPandong	h e ¹	h e ¹	9546
+2007	ShuiweiSouthernSandong	h e ¹	h e ¹	9546
+2008	BanliangYangAn	l ui ¹	l ui ¹	9565
+2009	TangnianYangAn	l ui ¹	l ui ¹	9565
+2010	RenliEasternSandong	pʰ w a ¹	pʰ w a ¹	9634
+2011	SanjiangEasternSandong	pʰ w a ¹	pʰ w a ¹	9634
+2012	TangnianYangAn	pʰ w a ¹	pʰ w a ¹	9634
+2013	JiuqianSouthernSandong	s ə n ¹	s - ə n ¹	9650
+2014	ShuiweiSouthernSandong	pʰ ə n ¹	- pʰ ə n ¹	9650
+2015	TingpaiWesternSandong	s j a n ¹	s j a n ¹	9650
+2016	AntangWesternSandong	l ui ¹	l ui ¹	9703
+2017	DujiangEasternSandong	l ui ¹	l ui ¹	9703
+2018	RenliEasternSandong	l ui ¹	l ui ¹	9703
+2019	SanjiangEasternSandong	l ui ¹	l ui ¹	9703
+2020	ShuigenCentralSandong	l ui ¹	l ui ¹	9703
+2021	TangzhouWesternSandong	l ui ¹	l ui ¹	9703
+2022	TingpaiWesternSandong	l ui ¹	l ui ¹	9703
+2023	ZhongheCentralSandong	l ui ¹	l ui ¹	9703
+2024	BanliangYangAn	f aːi ¹	f aːi ¹	9704
+2025	JiaoliPandong	f aːi ¹	f aːi ¹	9704
+2026	TangnianYangAn	f aːi ¹	f aːi ¹	9704
+2027	JiarongSouthernSandong	ɣ i ¹	ɣ i ¹	9705
+2028	JiuqianSouthernSandong	ɣ i ¹	ɣ i ¹	9705
+2029	ShuiweiSouthernSandong	ɣ i ¹	ɣ i ¹	9705
+2030	ShuiyaoSouthernSandong	ɣ i ¹	ɣ i ¹	9705
+2031	JiarongSouthernSandong	p a n ¹	p a n ¹	9783
+2032	RenliEasternSandong	p a n ¹	p a n ¹	9783
+2033	SanjiangEasternSandong	p a n ¹	p a n ¹	9783
+2034	ShuiweiSouthernSandong	p a n ¹	p a n ¹	9783
+2035	JiarongSouthernSandong	qʰ eu ¹	qʰ eu ¹	9784
+2036	JiuqianSouthernSandong	qʰ eu ¹	qʰ eu ¹	9784
+2037	Pandong	qʰ au ¹	qʰ au ¹	9784
+2038	ShuiweiSouthernSandong	qʰ eu ¹	qʰ eu ¹	9784
+2039	ShuiyaoSouthernSandong	qʰ eu ¹	qʰ eu ¹	9784
+2040	AntangWesternSandong	l u p ¹	l u p ¹	9805
+2041	DujiangEasternSandong	l u p ¹	l u p ¹	9805
+2042	SanjiangEasternSandong	l u p ¹	l u p ¹	9805
+2043	AntangWesternSandong	t i n ¹	t i n ¹	9806
+2044	BanliangYangAn	t i n ¹	t i n ¹	9806
+2045	JiaoliPandong	t i n ¹	t i n ¹	9806
+2046	Pandong	t i n ¹	t i n ¹	9806
+2047	RenliEasternSandong	t i n ¹	t i n ¹	9806
+2048	SanjiangEasternSandong	t i n ¹	t i n ¹	9806
+2049	ShuiweiSouthernSandong	t i n ¹	t i n ¹	9806
+2050	TangnianYangAn	t i n ¹	t i n ¹	9806
+2051	TingpaiWesternSandong	t i n ¹	t i n ¹	9806
+2052	ZhongheCentralSandong	t i n ¹	t i n ¹	9806
+2053	BanliangYangAn	q o p ¹	q o p ¹	9807
+2054	JiarongSouthernSandong	q o p ¹	q o p ¹	9807
+2055	JiuqianSouthernSandong	q o p ¹	q o p ¹	9807
+2056	Pandong	q o p ¹	q o p ¹	9807
+2057	ShuigenCentralSandong	q o p ¹	q o p ¹	9807
+2058	ShuiyaoSouthernSandong	q o p ¹	q o p ¹	9807
+2059	TangnianYangAn	q o p ¹	q o p ¹	9807
+2060	TangzhouWesternSandong	q o p ¹	q o p ¹	9807
+2061	TingpaiWesternSandong	q o p ¹	q o p ¹	9807
+2062	ZhongheCentralSandong	q o p ¹	q o p ¹	9807
+2063	JiuqianSouthernSandong	q a ¹	q a ¹	9809
+2064	ShuiyaoSouthernSandong	k a ¹	k a ¹	9809
+2065	BanliangYangAn	qʰ ai ¹	qʰ ai ¹	9835
+2066	TangnianYangAn	qʰ ai ¹	qʰ ai ¹	9835
+2067	AntangWesternSandong	ˀd j e ŋ ¹	ˀd j e ŋ ¹	9836
+2068	DujiangEasternSandong	ˀd j aː ŋ ¹	ˀd j aː ŋ ¹	9836
+2069	JiaoliPandong	ⁿd j ə ŋ ¹	ⁿd j ə ŋ ¹	9836
+2070	Pandong	ⁿd j ə ŋ ¹	ⁿd j ə ŋ ¹	9836
+2071	RenliEasternSandong	ⁿd j aː ŋ ¹	ⁿd j aː ŋ ¹	9836
+2072	ShuigenCentralSandong	ˀd j aː ŋ ¹	ˀd j aː ŋ ¹	9836
+2073	ZhongheCentralSandong	ˀd j aː ŋ ¹	ˀd j aː ŋ ¹	9836
+2074	JiarongSouthernSandong	t aː k ¹	t aː k ¹	9918
+2075	ShuiyaoSouthernSandong	ⁿd aː k ¹	ⁿd aː k ¹	9918
+2076	BanliangYangAn	ɕ o ¹	ɕ o ¹	9952
+2077	TangnianYangAn	ɕ o ¹	ɕ o ¹	9952
+2078	JiarongSouthernSandong	ˀd j o ¹	ˀd j o ¹	9953
+2079	ShuiweiSouthernSandong	ˀd j o ¹	ˀd j o ¹	9953
+2080	ShuiyaoSouthernSandong	ˀd j o ¹	ˀd j o ¹	9953
+2081	AntangWesternSandong	l j e ¹	l j e ¹	10053
+2082	DujiangEasternSandong	l j a ¹	l j a ¹	10053
+2083	RenliEasternSandong	l j a ¹	l j a ¹	10053
+2084	SanjiangEasternSandong	l j a ¹	l j a ¹	10053
+2085	ShuigenCentralSandong	l j a ¹	l j a ¹	10053
+2086	ZhongheCentralSandong	l j a ¹	l j a ¹	10053
+2087	BanliangYangAn	h aː n ¹	h aː n ¹	10054
+2088	JiaoliPandong	h aː n ¹	h aː n ¹	10054
+2089	JiarongSouthernSandong	h aː n ¹	h aː n ¹	10054
+2090	JiuqianSouthernSandong	h aː n ¹	h aː n ¹	10054
+2091	Pandong	h aː n ¹	h aː n ¹	10054
+2092	ShuiyaoSouthernSandong	h aː n ¹	h aː n ¹	10054
+2093	TangnianYangAn	h aː n ¹	h aː n ¹	10054
+2094	TingpaiWesternSandong	h aː n ¹	h aː n ¹	10054
+2095	JiarongSouthernSandong	ⁿb j a ¹	ⁿb j a ¹	10055
+2096	JiuqianSouthernSandong	ⁿb j a ¹	ⁿb j a ¹	10055
+2097	ShuiweiSouthernSandong	ⁿb j a ¹	ⁿb j a ¹	10055
+2098	ShuigenCentralSandong	f aːi ¹	f aːi ¹	10056
+2099	TangzhouWesternSandong	f aːi ¹	f aːi ¹	10056
+2100	BanliangYangAn	t u ¹	t u ¹	10143
+2101	DujiangEasternSandong	t u ¹	t u ¹	10143
+2102	ShuigenCentralSandong	t u ¹	t u ¹	10143
+2103	ShuiweiSouthernSandong	t u ¹	t u ¹	10143
+2104	TangnianYangAn	t u ¹	t u ¹	10143
+2105	TangzhouWesternSandong	t u ¹	t u ¹	10143
+2106	ZhongheCentralSandong	t u ¹	t u ¹	10143
+2107	AntangWesternSandong	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2108	BanliangYangAn	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2109	DujiangEasternSandong	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2110	JiaoliPandong	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2111	SanjiangEasternSandong	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2112	ShuigenCentralSandong	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2113	TangnianYangAn	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2114	TangzhouWesternSandong	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2115	TingpaiWesternSandong	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2116	ZhongheCentralSandong	kʰ u ŋ ¹	kʰ u ŋ ¹	10168
+2117	JiarongSouthernSandong	l aːu ¹	l aːu ¹	10170
+2118	JiuqianSouthernSandong	l aːu ¹	l aːu ¹	10170
+2119	ShuiweiSouthernSandong	l aːu ¹	l aːu ¹	10170
+2120	ShuiyaoSouthernSandong	l aːu ¹	l aːu ¹	10170
+2121	Pandong	t i ŋ ¹	t i ŋ ¹	10171
+2122	RenliEasternSandong	t i ŋ ¹	t i ŋ ¹	10171
+2123	RenliEasternSandong	q e ¹	q e ¹	10172
+2124	SanjiangEasternSandong	q e ¹	q e ¹	10172
+2125	ShuiweiSouthernSandong	q e ¹	q e ¹	10172
+2126	JiarongSouthernSandong	ɕ j u ¹	ɕ j u ¹	10257
+2127	JiuqianSouthernSandong	ɕ j u ¹	ɕ j u ¹	10257
+2128	ShuiweiSouthernSandong	h j u ¹	h j u ¹	10257
+2129	ShuiyaoSouthernSandong	ɕ j u ¹	ɕ j u ¹	10257
+2130	BanliangYangAn	v a t ¹	v a t ¹	10274
+2131	ZhongheCentralSandong	v a t ¹	v a t ¹	10274
+2132	JiaoliPandong	l o ¹	l o ¹	10276
+2133	Pandong	l o ¹	l o ¹	10276
+2134	ShuiyaoSouthernSandong	l ə ¹	l ə ¹	10276
+2135	JiaoliPandong	ⁿd aː ŋ ¹	ⁿd aː ŋ ¹	10297
+2136	Pandong	ⁿd aː ŋ ¹	ⁿd aː ŋ ¹	10297
+2137	AntangWesternSandong	f j ə t ¹	f j ə t ¹	10330
+2138	TangzhouWesternSandong	f ə t ¹	f - ə t ¹	10330
+2139	TingpaiWesternSandong	f i t ¹	f - i t ¹	10330
+2140	AntangWesternSandong	f j e ¹	f j e ¹	10331
+2141	TangzhouWesternSandong	f j e ¹	f j e ¹	10331
+2142	TingpaiWesternSandong	f j a ¹	f j a ¹	10331
+2143	BanliangYangAn	t j aːu ¹	t j aːu ¹	10332
+2144	DujiangEasternSandong	t j aːu ¹	t j aːu ¹	10332
+2145	JiarongSouthernSandong	t j aːu ¹	t j aːu ¹	10332
+2146	JiuqianSouthernSandong	t j aːu ¹	t j aːu ¹	10332
+2147	RenliEasternSandong	t j aːu ¹	t j aːu ¹	10332
+2148	SanjiangEasternSandong	t j aːu ¹	t j aːu ¹	10332
+2149	ShuigenCentralSandong	t j aːu ¹	t j aːu ¹	10332
+2150	ShuiweiSouthernSandong	t j aːu ¹	t j aːu ¹	10332
+2151	TangnianYangAn	t j aːu ¹	t j aːu ¹	10332
+2152	ZhongheCentralSandong	t j aːu ¹	t j aːu ¹	10332
+2153	BanliangYangAn	t i ¹	t i ¹	10371
+2154	JiaoliPandong	t a ¹	t a ¹	10371
+2155	JiuqianSouthernSandong	t i ¹	t i ¹	10371
+2156	Pandong	t ai ¹	t ai ¹	10371
+2157	RenliEasternSandong	t i ¹	t i ¹	10371
+2158	SanjiangEasternSandong	t i ¹	t i ¹	10371
+2159	ShuiweiSouthernSandong	t i ¹	t i ¹	10371
+2160	TangnianYangAn	t i ¹	t i ¹	10371
+2161	TingpaiWesternSandong	t i ¹	t i ¹	10371
+2162	AntangWesternSandong	n a ŋ ¹	n a ŋ ¹	10447
+2163	DujiangEasternSandong	n a ŋ ¹	n a ŋ ¹	10447
+2164	ShuigenCentralSandong	n a ŋ ¹	n a ŋ ¹	10447
+2165	ZhongheCentralSandong	n a ŋ ¹	n a ŋ ¹	10447
+2166	BanliangYangAn	l j eu ¹	l j eu ¹	10448
+2167	JiarongSouthernSandong	ɬ o ¹	ɬ - o ¹	10448
+2168	TingpaiWesternSandong	l j o ¹	l j o ¹	10448
+2169	JiarongSouthernSandong	k u ŋ ¹	k u ŋ ¹	10450
+2170	ShuiyaoSouthernSandong	k u ŋ ¹	k u ŋ ¹	10450
+2171	JiuqianSouthernSandong	ɕ o ¹	ɕ - o ¹	10451
+2172	RenliEasternSandong	h j o ¹	h j o ¹	10451
+2173	SanjiangEasternSandong	h j o ¹	h j o ¹	10451
+2174	ShuiweiSouthernSandong	h o ¹	h - o ¹	10451
+2175	TangnianYangAn	ɕ o ¹	ɕ - o ¹	10451
+2176	TangzhouWesternSandong	ɕ o ¹	ɕ - o ¹	10451
+2177	DujiangEasternSandong	l aː k ¹	l aː k ¹	10484
+2178	SanjiangEasternSandong	l aː k ¹	l aː k ¹	10484
+2179	ShuiweiSouthernSandong	l aː k ¹	l aː k ¹	10484
+2180	JiaoliPandong	m j aːu ¹	m j aːu ¹	10485
+2181	Pandong	m j aːu ¹	m j aːu ¹	10485
+2182	TingpaiWesternSandong	m j aːu ¹	m j aːu ¹	10485
+2183	JiuqianSouthernSandong	s j aː ŋ ¹	s j aː ŋ ¹	10507
+2184	ShuigenCentralSandong	s j aː ŋ ¹	s j aː ŋ ¹	10507
+2185	ShuiyaoSouthernSandong	s i ŋ ¹	s - i ŋ ¹	10507
+2186	RenliEasternSandong	kʰ aːi ¹	kʰ aːi ¹	10509
+2187	SanjiangEasternSandong	kʰ aːi ¹	kʰ aːi ¹	10509
+2188	ShuiweiSouthernSandong	kʰ aːi ¹	kʰ aːi ¹	10509
+2189	ShuiyaoSouthernSandong	kʰ aːi ¹	kʰ aːi ¹	10509
+2190	ShuigenCentralSandong	ⁿd aː n ¹	ⁿd aː n ¹	10510
+2191	ShuiweiSouthernSandong	t aː n ¹	t aː n ¹	10510
+2192	ZhongheCentralSandong	ⁿd aː ŋ ¹	ⁿd aː ŋ ¹	10510
+2193	AntangWesternSandong	l u ¹	l u ¹	10542
+2194	DujiangEasternSandong	l u ¹	l u ¹	10542
+2195	JiaoliPandong	l u ¹	l u ¹	10542
+2196	Pandong	l u ¹	l u ¹	10542
+2197	RenliEasternSandong	l u ¹	l u ¹	10542
+2198	SanjiangEasternSandong	l u ¹	l u ¹	10542
+2199	ShuigenCentralSandong	l u ¹	l u ¹	10542
+2200	TangnianYangAn	l aːu ¹	l aːu ¹	10542
+2201	TangzhouWesternSandong	l u ¹	l u ¹	10542
+2202	ZhongheCentralSandong	l u ¹	l u ¹	10542
+2203	AntangWesternSandong	ⁿd i n ¹	ⁿd i n ¹	10543
+2204	BanliangYangAn	ⁿd i n ¹	ⁿd i n ¹	10543
+2205	ShuigenCentralSandong	ⁿd i n ¹	ⁿd i n ¹	10543
+2206	TangnianYangAn	ⁿd i n ¹	ⁿd i n ¹	10543
+2207	TingpaiWesternSandong	ⁿd i n ¹	ⁿd i n ¹	10543
+2208	JiaoliPandong	t j ui ¹	t j ui ¹	10545
+2209	JiarongSouthernSandong	ˀd u ¹	ˀd - u ¹	10545
+2210	JiuqianSouthernSandong	ˀd u ¹	ˀd - u ¹	10545
+2211	Pandong	t j ui ¹	t j ui ¹	10545
+2212	ShuiweiSouthernSandong	ˀd u ¹	ˀd - u ¹	10545
+2213	ShuiyaoSouthernSandong	ˀd u ¹	ˀd - u ¹	10545
+2214	DujiangEasternSandong	h j ai ¹	h j ai - ¹	10620
+2215	JiaoliPandong	h j a ŋ ¹	h j a ŋ ¹	10620
+2216	Pandong	h j u ¹	h j u - ¹	10620
+2217	RenliEasternSandong	h j ai ¹	h j ai - ¹	10620
+2218	JiaoliPandong	au ¹	au ¹	10655
+2219	Pandong	au ¹	au ¹	10655
+2220	AntangWesternSandong	ⁿd j o ŋ ¹	ⁿd j o ŋ ¹	10685
+2221	BanliangYangAn	t j o ŋ ¹	t j o ŋ ¹	10685
+2222	DujiangEasternSandong	ⁿd j o ŋ ¹	ⁿd j o ŋ ¹	10685
+2223	RenliEasternSandong	ⁿd j o ŋ ¹	ⁿd j o ŋ ¹	10685
+2224	SanjiangEasternSandong	ⁿd j o ŋ ¹	ⁿd j o ŋ ¹	10685
+2225	ShuigenCentralSandong	ⁿd j o ŋ ¹	ⁿd j o ŋ ¹	10685
+2226	TangzhouWesternSandong	ⁿd j o ŋ ¹	ⁿd j o ŋ ¹	10685
+2227	TingpaiWesternSandong	ⁿd j o ŋ ¹	ⁿd j o ŋ ¹	10685
+2228	ZhongheCentralSandong	ⁿd j o ŋ ¹	ⁿd j o ŋ ¹	10685
+2229	AntangWesternSandong	u ¹	u ¹	10686
+2230	DujiangEasternSandong	u ¹	u ¹	10686
+2231	TingpaiWesternSandong	u ¹	u ¹	10686
+2232	BanliangYangAn	n̥ u ¹	n̥ u ¹	10687
+2233	JiaoliPandong	n au ¹	n au ¹	10687
+2234	Pandong	n au ¹	n au ¹	10687
+2235	ShuigenCentralSandong	n̥ u ¹	n̥ u ¹	10687
+2236	ShuiweiSouthernSandong	n au ¹	n au ¹	10687
+2237	ShuiyaoSouthernSandong	n au ¹	n au ¹	10687
+2238	TangzhouWesternSandong	n̥ u ¹	n̥ u ¹	10687
+2239	ZhongheCentralSandong	n̥ u ¹	n̥ u ¹	10687
+2240	JiaoliPandong	ts ə m ¹	ts - ə m ¹	10688
+2241	ShuiweiSouthernSandong	ts j ə m ¹	ts j ə m ¹	10688
+2242	JiarongSouthernSandong	t au ¹	t au ¹	10689
+2243	ShuiyaoSouthernSandong	ts ə ¹	ts ə ¹	10689
+2244	TangnianYangAn	ȶ e ¹	ȶ e ¹	10689
+2245	JiaoliPandong	ⁿd w ə ¹	ⁿd w ə ¹	10717
+2246	Pandong	ⁿd w ə ¹	ⁿd w ə ¹	10717
+2247	AntangWesternSandong	u ¹	u ¹	10734
+2248	DujiangEasternSandong	u ¹	u ¹	10734
+2249	TingpaiWesternSandong	u ¹	u ¹	10734
+2250	BanliangYangAn	n̥ u ¹	n̥ u ¹	10736
+2251	JiarongSouthernSandong	n̥ au ¹	n̥ au ¹	10736
+2252	JiuqianSouthernSandong	n̥ au ¹	n̥ au ¹	10736
+2253	ShuigenCentralSandong	n̥ u ¹	n̥ u ¹	10736
+2254	ShuiweiSouthernSandong	n̥ au ¹	n̥ au ¹	10736
+2255	ShuiyaoSouthernSandong	n̥ au ¹	n̥ au ¹	10736
+2256	TangzhouWesternSandong	n̥ u ¹	n̥ u ¹	10736
+2257	ZhongheCentralSandong	n̥ u ¹	n̥ u ¹	10736
+2258	JiaoliPandong	au ¹	au ¹	10737
+2259	Pandong	au ¹	au ¹	10737
+2260	TangnianYangAn	au ¹	au ¹	10737
+2261	RenliEasternSandong	pʰ u ¹	pʰ u ¹	10738
+2262	SanjiangEasternSandong	pʰ u ¹	pʰ u ¹	10738
+2263	BanliangYangAn	h a ¹	h a ¹	10766
+2264	JiaoliPandong	ʔ ai ¹	ʔ ai ¹	10766
+2265	TangnianYangAn	h a ¹	h a ¹	10766
+2266	AntangWesternSandong	m̥ u ¹	m̥ u ¹	10796
+2267	DujiangEasternSandong	m̥ u ¹	m̥ u ¹	10796
+2268	JiuqianSouthernSandong	m̥ u ¹	m̥ u ¹	10796
+2269	ShuigenCentralSandong	m̥ u ¹	m̥ u ¹	10796
+2270	ShuiweiSouthernSandong	m̥ u ¹	m̥ u ¹	10796
+2271	ShuiyaoSouthernSandong	m̥ u ¹	m̥ u ¹	10796
+2272	TangzhouWesternSandong	m̥ u ¹	m̥ u ¹	10796
+2273	TingpaiWesternSandong	m̥ u ¹	m̥ u ¹	10796
+2274	ZhongheCentralSandong	m̥ u ¹	m̥ u ¹	10796
+2275	BanliangYangAn	pʰ u ¹	pʰ u ¹	10798
+2276	JiaoliPandong	pʰ u ¹	pʰ u ¹	10798
+2277	RenliEasternSandong	pʰ u ¹	pʰ u ¹	10798
+2278	SanjiangEasternSandong	pʰ u ¹	pʰ u ¹	10798
+2279	TangnianYangAn	pʰ u ¹	pʰ u ¹	10798
+2280	JiarongSouthernSandong	ˀd aːi ¹	ˀd aːi ¹	10800
+2281	JiuqianSouthernSandong	ˀd aːi ¹	ˀd aːi ¹	10800
+2282	ShuiweiSouthernSandong	ˀd aːi ¹	ˀd aːi ¹	10800
+2283	ShuiyaoSouthernSandong	ˀd aːi ¹	ˀd aːi ¹	10800
+2284	AntangWesternSandong	l u m ¹	l u m ¹	10829
+2285	DujiangEasternSandong	l u m ¹	l u m ¹	10829
+2286	JiaoliPandong	l u m ¹	l u m ¹	10829
+2287	Pandong	l u m ¹	l u m ¹	10829
+2288	TangnianYangAn	l u m ¹	l u m ¹	10829
+2289	TangzhouWesternSandong	l u m ¹	l u m ¹	10829
+2290	TingpaiWesternSandong	l u m ¹	l u m ¹	10829
+2291	ZhongheCentralSandong	l u m ¹	l u m ¹	10829
+2292	BanliangYangAn	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2293	JiarongSouthernSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2294	JiuqianSouthernSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2295	RenliEasternSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2296	SanjiangEasternSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2297	ShuigenCentralSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2298	ShuiweiSouthernSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2299	ShuiyaoSouthernSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2300	TingpaiWesternSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2301	ZhongheCentralSandong	kʰ aː ŋ ¹	kʰ aː ŋ ¹	10830
+2302	JiaoliPandong	k ai ¹	k ai ¹	10849
+2303	Pandong	k ai ¹	k ai ¹	10849
+2304	BanliangYangAn	t aːu ¹	t aːu ¹	10885
+2305	JiaoliPandong	t aːu ¹	t aːu ¹	10885
+2306	Pandong	t aːu ¹	t aːu ¹	10885
+2307	TangnianYangAn	t aːu ¹	t aːu ¹	10885
+2308	AntangWesternSandong	m̥ aː n ¹	m̥ aː n ¹	10952
+2309	DujiangEasternSandong	m̥ aː n ¹	m̥ aː n ¹	10952
+2310	ShuigenCentralSandong	m̥ aː n ¹	m̥ aː n ¹	10952
+2311	TangzhouWesternSandong	m̥ aː n ¹	m̥ aː n ¹	10952
+2312	TingpaiWesternSandong	m̥ aː n ¹	m̥ aː n ¹	10952
+2313	ZhongheCentralSandong	m̥ aː n ¹	m̥ aː n ¹	10952
+2314	BanliangYangAn	pʰ w aː n ¹	pʰ w aː n ¹	10953
+2315	RenliEasternSandong	pʰ w aː n ¹	pʰ w aː n ¹	10953
+2316	SanjiangEasternSandong	pʰ w a n ¹	pʰ w a n ¹	10953
+2317	TangnianYangAn	pʰ w aː n ¹	pʰ w aː n ¹	10953
+2318	JiarongSouthernSandong	ŋ̊ aː n ¹	ŋ̊ aː n ¹	10955
+2319	JiuqianSouthernSandong	ŋ̊ aː n ¹	ŋ̊ aː n ¹	10955
+2320	ShuiweiSouthernSandong	ŋ̊ aː n ¹	ŋ̊ aː n ¹	10955
+2321	AntangWesternSandong	l i n ¹	l i n ¹	11069
+2322	DujiangEasternSandong	l i n ¹	l i n ¹	11069
+2323	JiarongSouthernSandong	l i n ¹	l i n ¹	11069
+2324	SanjiangEasternSandong	l i n ¹	l i n ¹	11069
+2325	ShuiweiSouthernSandong	l i n ¹	l i n ¹	11069
+2326	ShuiyaoSouthernSandong	l i n ¹	l i n ¹	11069
+2327	TangnianYangAn	l i n ¹	l i n ¹	11069
+2328	TangzhouWesternSandong	l i n ¹	l i n ¹	11069
+2329	JiuqianSouthernSandong	k ai ¹	k ai ¹	11071
+2330	Pandong	k ai ¹	k ai ¹	11071
+2331	AntangWesternSandong	ȶ ə n ¹	ȶ ə n ¹	11083
+2332	DujiangEasternSandong	ȶ ə n ¹	ȶ ə n ¹	11083
+2333	JiuqianSouthernSandong	ȶ ə n ¹	ȶ ə n ¹	11083
+2334	ShuigenCentralSandong	ȶ i n ¹	ȶ i n ¹	11083
+2335	ShuiweiSouthernSandong	ȶ ə n ¹	ȶ ə n ¹	11083
+2336	TangzhouWesternSandong	ȶ ə n ¹	ȶ ə n ¹	11083
+2337	TingpaiWesternSandong	ȶ a n ¹	ȶ a n ¹	11083
+2338	ZhongheCentralSandong	ȶ ə n ¹	ȶ ə n ¹	11083
+2339	AntangWesternSandong	ȶ ə n ¹	ȶ ə n ¹	11129
+2340	JiarongSouthernSandong	ȶ i n ¹	ȶ i n ¹	11129
+2341	ShuigenCentralSandong	ȶ i n ¹	ȶ i n ¹	11129
+2342	ShuiweiSouthernSandong	ȶ ə n ¹	ȶ ə n ¹	11129
+2343	TangzhouWesternSandong	ȶ ə n ¹	ȶ ə n ¹	11129
+2344	TingpaiWesternSandong	ȶ a n ¹	ȶ a n ¹	11129
+2345	ZhongheCentralSandong	ȶ ə n ¹	ȶ ə n ¹	11129
+2346	BanliangYangAn	m õ ¹	m õ ¹	11132
+2347	TangnianYangAn	m o ¹	m o ¹	11132
+2348	DujiangEasternSandong	q a ¹	q a ¹	11133
+2349	JiaoliPandong	q o ¹	q o ¹	11133
+2350	JiuqianSouthernSandong	k o ¹	k o ¹	11133
+2351	Pandong	k o ¹	k o ¹	11133
+2352	RenliEasternSandong	q a ¹	q a ¹	11133
+2353	SanjiangEasternSandong	q a ¹	q a ¹	11133
+2354	ShuiyaoSouthernSandong	ɣ o ¹	ɣ o ¹	11133
+2355	TangnianYangAn	q ə ¹	q ə ¹	11133
+2356	BanliangYangAn	m õ ¹	m õ ¹	11164
+2357	TangnianYangAn	m o ¹	m o ¹	11164
+2358	AntangWesternSandong	ʔ ai ¹	ʔ - ai ¹	11180
+2359	DujiangEasternSandong	ʔ i ¹	ʔ - i ¹	11180
+2360	JiaoliPandong	ʔ ai ¹	ʔ - ai ¹	11180
+2361	Pandong	ʔ ai ¹	ʔ - ai ¹	11180
+2362	RenliEasternSandong	ʔ j au ¹	ʔ j au ¹	11180
+2363	ShuiweiSouthernSandong	ʔ i ¹	ʔ - i ¹	11180
+2364	TangnianYangAn	ʔ ai ¹	ʔ - ai ¹	11180
+2365	ZhongheCentralSandong	ʔ ai ¹	ʔ - ai ¹	11180
+2366	BanliangYangAn	ʔ j u ¹	ʔ j u ¹	11181
+2367	JiarongSouthernSandong	ʔ j u ¹	ʔ j u ¹	11181
+2368	JiuqianSouthernSandong	ʔ j u ¹	ʔ j u ¹	11181
+2369	SanjiangEasternSandong	ʔ j u ¹	ʔ j u ¹	11181
+2370	ShuigenCentralSandong	j u ¹	- j u ¹	11181
+2371	ShuiyaoSouthernSandong	j u ¹	- j u ¹	11181
+2372	TangzhouWesternSandong	ʔ j e ¹	ʔ j e ¹	11181

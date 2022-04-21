@@ -1,0 +1,12 @@
+DATASET                 ED    ED (NORM)    B-CUBED FS    BLEU
+-------------------  -----  -----------  ------------  ------
+bantubvd             1.640        0.370         0.628   0.485
+beidazihui           1.108        0.307         0.668   0.572
+birchallchapacuran   2.821        0.437         0.504   0.358
+bodtkhobwa           0.588        0.253         0.685   0.662
+bremerberta          2.318        0.424         0.566   0.391
+deepadungpalaung     1.506        0.542         0.537   0.321
+hillburmish          1.577        0.423         0.536   0.446
+kesslersignificance  3.914        0.882         0.304   0.049
+luangthongkumkaren   0.528        0.142         0.846   0.784
+wangbai              0.898        0.263         0.696   0.621

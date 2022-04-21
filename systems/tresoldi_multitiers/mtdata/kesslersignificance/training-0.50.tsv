@@ -1,0 +1,213 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	German	h au t	h au t -	52
+2	Latin	k u t i	k u t i	52
+3	English	g o	g o	59
+4	German	g eː	g eː	59
+5	English	ə r θ	ə r θ -	66
+6	German	eː r d ə	eː r d ə	66
+7	French	t ɛ r	t ɛ r -	67
+8	Latin	t e rː a	t e rː a	67
+9	Albanian	m e	m e -	92
+10	German	m i t	m i t	92
+11	French	ɛ̃ t ɛ s t ɛ̃	ɛ̃ - t ɛ s t - - ɛ̃	100
+12	Latin	i n t e s t iː n o	i n t e s t iː n o	100
+13	French	k ø	k ø - -	123
+14	Latin	k au d a	k au d a	123
+15	English	s p l ɪi t	s p - l ɪi t	149
+16	German	ʃ p a l t	ʃ p a l - t	149
+17	French	f ɑ̃ d	f ɑ̃ - d -	150
+18	Latin	f i n d e	f i n d e	150
+19	English	s w ɪ m	s w ɪ m	155
+20	German	ʃ v i m	ʃ v i m	155
+21	Albanian	n o t o	n o t o	158
+22	Latin	n aː	n aː - -	158
+23	English	g ʊ d	g ʊ d	167
+24	German	g uː t	g uː t	167
+25	French	b ɔ n	b ɔ n -	168
+26	Latin	b o n o	b o n o	168
+27	English	w ai d	w ai d	181
+28	German	v ai t	v ai t	181
+29	English	f ɔ l	f ɔ l	220
+30	German	f a l	f a l	220
+31	French	m œ r	m œ r -	257
+32	Latin	m o r iː	m o r iː	257
+33	French	f l ø v	f l ø v - -	309
+34	Latin	f l uː m i n	f l uː m i n	309
+35	French	m a r i	m a r i - -	321
+36	Latin	m a r iː t o	m a r iː t o	321
+37	English	o l d	o l d	342
+38	German	a l t	a l t	342
+39	French	a r b r	a r b - r	348
+40	Latin	a r b o s	a r b o s	348
+41	Albanian	d r u r	d r u r	349
+42	English	t r i	t r i -	349
+43	English	f r i z	f r i z	373
+44	German	f r iː r	f r iː r	373
+45	French	ʒ ɛ l e	ʒ ɛ l e	374
+46	Latin	g e l aː	g e l aː	374
+47	English	h ɛ r	h ɛ r	379
+48	German	h aː r	h aː r	379
+49	French	ʃ ə v ø	ʃ ə v ø - -	380
+50	Latin	k a p i lː o	k a p i lː o	380
+51	French	v w a	v - w a	386
+52	Latin	w i d eː	w i d eː	386
+53	English	g r i s	g r i s	391
+54	French	g r ɛ s	g r ɛ s	391
+55	English	s i	s i	397
+56	German	z eː	z eː	397
+57	French	m ɛ r	m ɛ r -	398
+58	Latin	m a r e	m a r e	398
+59	English	j ɪ r	j ɪ r	403
+60	German	j aː r	j aː r	403
+61	French	a n e	a n e	404
+62	Latin	a nː o	a nː o	404
+63	French	f œ j	f œ j - -	427
+64	Latin	f o l i o	f o l i o	427
+65	English	s a n d	s a n d	442
+66	German	z a n d	z a n d	442
+67	Albanian	r ə r	- r ə r -	445
+68	Latin	a r eː n a	a r eː n a	445
+69	English	ai s	ai s	448
+70	German	ai s	ai s	448
+71	French	g l a s	g l a s - -	449
+72	Latin	g l a k i eː	g l a k i eː	449
+73	English	m u n	m u n -	454
+74	German	m oː n d	m oː n d	454
+75	French	l y n	l y n -	455
+76	Latin	l uː n a	l uː n a	455
+77	German	n eː b ə l	n eː b ə l -	466
+78	Latin	n e b u l a	n e b u l a	466
+79	French	k u t o	k u - t - o	486
+80	Latin	k u l t r o	k u l t r o	486
+81	English	w i	w i -	498
+82	German	v iː r	v iː r	498
+83	Albanian	f ə r k o	f ə r - k o	511
+84	Latin	f r i k aː	f - r i k aː	511
+85	English	h ɪ r	h ɪ r	520
+86	German	h iː r	h iː r	520
+87	French	o	o - -	528
+88	Latin	a kʷ a	a kʷ a	528
+89	English	w ai t	w ai t	532
+90	German	v ai s	v ai s	532
+91	French	p r ɛ s e	p r ɛ s e	548
+92	Latin	p r e m e	p r e m e	548
+93	English	p a θ	p a θ	554
+94	German	pf aː d	pf aː d	554
+95	French	s ɑ̃ t j e	s ɑ̃ - - t j e	555
+96	Latin	s eː m i t a	s eː m i t - a	555
+97	English	d r ai	d r ai - - -	572
+98	German	t r o k ə n	t r o k ə n	572
+99	French	s ɛ ʃ	s ɛ ʃ -	573
+100	Latin	s i kː o	s i kː o	573
+101	English	s t o n	s t o n	578
+102	German	ʃ t ai n	ʃ t ai n	578
+103	English	l au s	l au s	598
+104	German	l au z	l au z	598
+105	French	p u	p - - - - - - u	599
+106	Latin	p eː d i k u l o	p eː d i k u l o	599
+107	English	θ ɪ ŋ k	θ ɪ ŋ k	636
+108	German	d e ŋ k	d e ŋ k	636
+109	Albanian	ɟ a r p ə r	ɟ a r p ə r	656
+110	French	s ɛ r p ɑ̃	s ɛ r p ɑ̃ -	656
+111	English	w ɑ ʃ	w ɑ ʃ	666
+112	German	v a ʃ	v a ʃ	666
+113	Albanian	d j a θ t	d j a - θ t - -	673
+114	Latin	d e k s t e r	d - e k s t e r	673
+115	English	l a f	l a f	676
+116	German	l a x	l a x	676
+117	French	r i	r i - -	677
+118	Latin	r iː d eː	r iː d eː	677
+119	English	s ɪ ŋ	s ɪ ŋ	682
+120	German	z i ŋ	z i ŋ	682
+121	English	θ ɪ k	θ ɪ k	687
+122	German	d i k	d i k	687
+123	English	ð ɛ r	ð ɛ r	717
+124	German	d aː	d aː -	717
+125	English	h ɛ d	h ɛ - - d	760
+126	Latin	k a p u t	k a p u t	760
+127	Albanian	p ə ʃ t y	- p ə ʃ t y	769
+128	Latin	s p u e	s p u - - e	769
+129	English	ð a t	ð a t	772
+130	German	d a s	d a s	772
+131	English	f ai ə r	f ai ə r	779
+132	German	f oi ə r	f oi ə r	779
+133	English	h ɪ r	h ɪ r	786
+134	German	h øː r	h øː r	786
+135	English	l ɪ v ə r	l ɪ v ə r	793
+136	German	l eː b ə r	l eː b ə r	793
+137	English	h o l d	h o l d	808
+138	German	h a l t	h a l t	808
+139	French	t ə n	t ə n -	809
+140	Latin	t e n eː	t e n eː	809
+141	English	s l i p	s l i p	827
+142	German	ʃ l aː f	ʃ l aː f	827
+143	French	d ɔ r	d ɔ r - -	828
+144	Latin	d o r m iː	d o r m iː	828
+145	English	f l ai	f l ai -	841
+146	German	f l iː g	f l iː g	841
+147	French	v ɔ l e	v ɔ l e	842
+148	Latin	w o l aː	w o l aː	842
+149	English	ð ɪ s	ð ɪ s	863
+150	German	d iː z	d iː z	863
+151	English	n ɪ r	n ɪ r	889
+152	German	n aː	n aː -	889
+153	English	g r a s	g r a s	904
+154	German	g r aː z	g r aː z	904
+155	English	g ɪ v	g ɪ v	933
+156	German	g eː b	g eː b	933
+157	French	d ɔ n e	d ɔ n e	934
+158	Latin	d a	d a - -	934
+159	English	s e	s e -	939
+160	German	z aː g	z aː g	939
+161	French	d i	d i - -	940
+162	Latin	d iː k e	d iː k e	940
+163	English	ʃ a r p	ʃ a r p	961
+164	German	ʃ a r f	ʃ a r f	961
+165	French	s i	s i	969
+166	Latin	s iː	s iː	969
+167	English	l ai	l ai -	975
+168	German	l iː g	l iː g	975
+169	English	h ɑ t	h ɑ t	996
+170	German	h ai s	h ai s	996
+171	French	ʃ o d	ʃ o - - d -	997
+172	Latin	k a l i d o	k a l i d o	997
+173	English	ə ð ə r	ə - ð ə r	1002
+174	German	a n d ə r	a n d ə r	1002
+175	French	o t r	o t r - -	1003
+176	Latin	a l i o	a - l i o	1003
+177	Albanian	l i ð	l i ð -	1025
+178	Latin	l i g aː	l i g aː	1025
+179	English	j u	j u -	1028
+180	German	iː r	- iː r	1028
+181	English	s w ɛ l	s w ɛ l	1071
+182	German	ʃ v e l	ʃ v e l	1071
+183	English	d r ɪ ŋ k	d r ɪ ŋ k	1078
+184	German	t r i ŋ k	t r i ŋ k	1078
+185	English	r e n	r e - - n	1088
+186	German	r eː g ə n	r eː g ə n	1088
+187	French	p l ɥ i	p l - ɥ i -	1089
+188	Latin	p l u w i a	p l u w i a	1089
+189	English	h a n d	h a n d	1094
+190	German	h a n d	h a n d	1094
+191	French	m ɛ̃	m ɛ̃ - -	1095
+192	Latin	m a n u	m a n u	1095
+193	Albanian	p e m	p e m -	1102
+194	Latin	p oː m o	p oː m o	1102
+195	English	m au θ	m au - θ	1105
+196	German	m u n d	m u n d	1105
+197	French	p u s j ɛ r	p u s j ɛ r	1119
+198	Latin	p u l w i s	p u l w i s	1119
+199	English	m a n	m a n	1143
+200	German	m a n	m a n	1143
+201	English	f l o	f l o -	1174
+202	German	f l iː s	f l iː s	1174
+203	English	g r i n	g r i n	1191
+204	German	g r yː n	g r yː n	1191
+205	French	v ɛ r t	v ɛ r - t -	1192
+206	Latin	w i r i d i	w i r i d i	1192
+207	Albanian	ʃ t y	ʃ t y -	1202
+208	German	ʃ t oː s	ʃ t oː s	1202
+209	English	p ʊ ʃ	p ʊ ʃ -	1203
+210	French	p u s e	p u s e	1203
+211	French	ɛ l	ɛ l -	1227
+212	Latin	aː l a	aː l a	1227

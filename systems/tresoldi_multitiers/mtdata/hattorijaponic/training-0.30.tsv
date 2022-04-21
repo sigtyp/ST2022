@@ -1,0 +1,980 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	Amami	θ ɨ ɴ	θ ɨ - - - ɴ -	-260
+2	Kagoshima	t e i ɴ	t e - - i ɴ -	-260
+3	Kyoto	t e ɴ	t e - - - ɴ -	-260
+4	Miyako	t i n	t i - - - n -	-260
+5	Oki	t e ɴ	t e - - - ɴ -	-260
+6	Sado	t e ɴ dʑ i k u	t e ɴ dʑ i k u	-260
+7	Shuri	t i ɴ	t i - - - ɴ -	-260
+8	Kochi	n e r u	n e - - r u	-136
+9	Kyoto	n e r u	n e - - r u	-136
+10	Oki	n e r u	n e - - r u	-136
+11	Sado	n e b u r u	n e b u r u	-136
+12	Kagoshima	h iː z a	h iː z a	-107
+13	Oki	ɸ u z a	ɸ u z a	-107
+14	Amami	w a ɴ	w a ɴ -	1
+15	Hachijo	w a r e	w a r e	1
+16	Miyako	b a n	b a n -	1
+17	Shuri	w a ɴ	w a ɴ -	1
+18	Kochi	a s i	- a - - s i	2
+19	Kyoto	w a t e	w a t - - e	2
+20	Tokyo	w a t a s i	w a t a s i	2
+21	Kagoshima	o iː	o - iː	3
+22	Oki	o r a	o r a	3
+23	Sado	o r e	o r e	3
+24	Kyoto	a ɴ t a	a ɴ - t a	5
+25	Tokyo	a n a t a	a n a t a	5
+26	Amami	ʔʲ a	ʔʲ a	10
+27	Miyako	vː a	vː a	10
+28	Shuri	ʔʲ aː	ʔʲ aː	10
+29	Amami	w a x j a	w a x - - - j a	11
+30	Hachijo	w a r e ɴ i s a	w a r e ɴ i s a	11
+31	Miyako	b a n t iː	b a - - n - t iː	11
+32	Shuri	w a tː aː	w a - - - - tː aː	11
+33	Kochi	a s i r aː	- a s - - i r aː - -	12
+34	Kyoto	w a t e r a	w a t - - e r a - -	12
+35	Tokyo	w a t a s i t a tɕ i	w a t a s i t a tɕ i	12
+36	Kagoshima	o i d o ɴ	o - i d o ɴ	13
+37	Oki	o r a r a	o r a r a -	13
+38	Sado	o r a tɕ i	o r a tɕ i -	13
+39	Amami	ʔ a r ɨ	ʔ a r ɨ	15
+40	Kagoshima	a iː	- a - iː	15
+41	Kochi	a r e	- a r e	15
+42	Kyoto	a r e	- a r e	15
+43	Oki	a r e	- a r e	15
+44	Sado	a r e	- a r e	15
+45	Shuri	ʔ a r i	ʔ a r i	15
+46	Tokyo	a r e	- a r e	15
+47	Kagoshima	n a iː	n a - iː	20
+48	Kochi	n a n i	n a n i	20
+49	Kyoto	n a n i	n a n i	20
+50	Oki	n a n i	n a n i	20
+51	Sado	n a n i	n a n i	20
+52	Tokyo	n a n i	n a n i	20
+53	Amami	n uː	n - uː	21
+54	Miyako	n a u	n a u	21
+55	Shuri	n uː	n - uː	21
+56	Hachijo	n a kː j a	n a kː j a	22
+57	Kagoshima	n a k a	n a k - a	22
+58	Kochi	n a i	n a - - i	22
+59	Kyoto	n a i	n a - - i	22
+60	Oki	n eː	n eː - - -	22
+61	Sado	n a i	n a - - i	22
+62	Shuri	n eː ɴ	n eː ɴ - -	22
+63	Tokyo	n a i	n a - - i	22
+64	Amami	ʔ a r a ɴ	ʔ a r a ɴ	23
+65	Miyako	a r a ŋ	- a r a ŋ	23
+66	Hachijo	m i ɴ n a	m i ɴ n a	24
+67	Kochi	m i ɴ n a	m i ɴ n a	24
+68	Kyoto	m i ɴ n a	m i ɴ n a	24
+69	Miyako	mː n a	mː - - n a	24
+70	Oki	ɴː n a	- - ɴː n a	24
+71	Sado	m i ɴ n a	m i ɴ n a	24
+72	Shuri	ɴ n a	- - ɴ n a	24
+73	Tokyo	m i ɴ n a	m i ɴ n a	24
+74	Kochi	j o k e	j o k e	32
+75	Kyoto	j oː k e	j oː k e	32
+76	Amami	ɕ o g o ɕ a ɴ	ɕ o g o ɕ a ɴ	34
+77	Miyako	u k aː ʃ a	- u k aː ʃ a -	34
+78	Kyoto	oː k iː	oː k iː	38
+79	Miyako	u k u	u k u	38
+80	Sado	oː k iː	oː k iː	38
+81	Tokyo	oː k iː	oː k iː	38
+82	Kagoshima	h u t e	h u t - e	39
+83	Kochi	h u t o i	h u t o i	39
+84	Oki	ɸ u t eː	ɸ u t - eː	39
+85	Kagoshima	tɕ i ɴ k e	tɕ i ɴ k - e	43
+86	Kyoto	tɕ iː s a i	tɕ iː - s a i	43
+87	Sado	tɕ iː s a i	tɕ iː - s a i	43
+88	Tokyo	tɕ i tɕː a i	tɕ i - tɕː a i	43
+89	Oki	k o m eː	k o m - - eː -	45
+90	Shuri	g u m a s a ɴ	g u m a s a ɴ	45
+91	Amami	o n a g u	- o - n a g u	49
+92	Hachijo	o ɴ n a g o	- o ɴ n a g o	49
+93	Kagoshima	o n a g o	- o - n a g o	49
+94	Kochi	o n a g o	- o - n a g o	49
+95	Kyoto	o n a ŋ o	- o - n a ŋ o	49
+96	Sado	o ɴ n a	- o ɴ n - - a	49
+97	Shuri	w i n a g u	w i - n a g u	49
+98	Tokyo	o ɴ n a	- o ɴ n - - a	49
+99	Kagoshima	o t o k o	o t o k o	53
+100	Kochi	o t o k o	o t o k o	53
+101	Kyoto	o t o k o	o t o k o	53
+102	Oki	o t o k o	o t o k o	53
+103	Sado	o t o k o	o t o k o	53
+104	Tokyo	o t o k o	o t o k o	53
+105	Miyako	b ɨ k i d u m	b ɨ k i d u m	54
+106	Shuri	w i k i g a	w i k i g a -	54
+107	Hachijo	s a k a n a	s a k a n a	58
+108	Kyoto	s a k a n a	s a k a n a	58
+109	Tokyo	s a k a n a	s a k a n a	58
+110	Amami	ʔʲ u	ʔʲ - - u	59
+111	Kagoshima	iː o	- iː - o	59
+112	Kochi	u o	- u - o	59
+113	Miyako	i z o	- i z o	59
+114	Oki	e o	- e - o	59
+115	Sado	u o	- u - o	59
+116	Shuri	ʔ i j u	ʔ i j u	59
+117	Hachijo	n i k u	n i k u	72
+118	Kagoshima	n i	n i - -	72
+119	Kochi	n i k u	n i k u	72
+120	Kyoto	n i k u	n i k u	72
+121	Oki	n i k u	n i k u	72
+122	Sado	n i k u	n i k u	72
+123	Tokyo	n i k u	n i k u	72
+124	Amami	s i s i	s i s i	73
+125	Miyako	s ɨː s ɨ	s ɨː s ɨ	73
+126	Shuri	s i s i	s i s i	73
+127	Hachijo	a b u r a n i k u	a b u r a n i k u	78
+128	Kagoshima	a b u r a m i	a b u r a m i - -	78
+129	Kochi	a b u r a	a b u r a - - - -	78
+130	Kyoto	a b u r a	a b u r a - - - -	78
+131	Miyako	a vː a	a vː - - a - - - -	78
+132	Oki	a b u r a	a b u r a - - - -	78
+133	Sado	a b u r a n i k u	a b u r a n i k u	78
+134	Tokyo	a b u r a m i	a b u r a m i - -	78
+135	Hachijo	t a m a g o	t a m a g o	80
+136	Kagoshima	t a m a g o	t a m a g o	80
+137	Kochi	t a m a g o	t a m a g o	80
+138	Kyoto	t a m a ŋ o	t a m a ŋ o	80
+139	Oki	t a m a ŋ o	t a m a ŋ o	80
+140	Sado	t a m a g o	t a m a g o	80
+141	Tokyo	t a m a ŋ o	t a m a ŋ o	80
+142	Amami	x o g a	x o g a	81
+143	Shuri	k uː g a	k uː g a	81
+144	Hachijo	o b a	o b a	84
+145	Kochi	o	o - -	84
+146	Kyoto	oː	oː - -	84
+147	Oki	o	o - -	84
+148	Sado	o	o - -	84
+149	Amami	z u b u	z u b u	85
+150	Miyako	dz uː	dz uː - -	85
+151	Shuri	z uː	z uː - -	85
+152	Kagoshima	s iː b o	s iː b o	86
+153	Tokyo	s i pː o	s i pː o	86
+154	Amami	h i g i	h i g i	88
+155	Miyako	pˢ ɨ g i	pˢ ɨ g i	88
+156	Hachijo	k iː	k iː -	89
+157	Kagoshima	k e i	k e i	89
+158	Kochi	k e	k e -	89
+159	Kyoto	k eː	k eː -	89
+160	Oki	k e	k e -	89
+161	Sado	k e	k e -	89
+162	Shuri	k iː	k iː -	89
+163	Tokyo	k e	k e -	89
+164	Hachijo	ts u b u r i	ts u b u r i	90
+165	Shuri	ɕ i b u r u	ɕ i b u r u	90
+166	Kochi	a t a m a	a t a m a	91
+167	Kyoto	a t a m a	a t a m a	91
+168	Oki	a t a m a	a t a m a	91
+169	Sado	a t a m a	a t a m a	91
+170	Tokyo	a t a m a	a t a m a	91
+171	Hachijo	a s i	a s i	104
+172	Kagoshima	a ɕ	a ɕ -	104
+173	Kochi	a s i	a s i	104
+174	Kyoto	a s i	a s i	104
+175	Oki	a s i	a s i	104
+176	Sado	a s i	a s i	104
+177	Tokyo	a s i	a s i	104
+178	Miyako	p ɨ s a	p - ɨ s a	106
+179	Shuri	h w i ɕ a	h w i ɕ a	106
+180	Hachijo	h i dʑ a k a b u r a	h i dʑ a k a b u r a	107
+181	Kyoto	h i z a	h i z - - - - - - a	107
+182	Sado	h i z a	h i z - - - - - - a	107
+183	Tokyo	h i z a	h i z - - - - - - a	107
+184	Amami	ts ɨ b u s i	ts ɨ b u s i	109
+185	Miyako	ts ɨ g u s ɨ	ts ɨ g u s ɨ	109
+186	Shuri	tɕ i ɴ s i	tɕ i ɴ - s i	109
+187	Hachijo	h a r a	h a r a	111
+188	Kagoshima	h a r a	h a r a	111
+189	Kochi	h a r a	h a r a	111
+190	Kyoto	h a r a	h a r a	111
+191	Oki	ɸ a r a	ɸ a r a	111
+192	Sado	h a r a	h a r a	111
+193	Amami	w a θ a	w a θ a	113
+194	Miyako	b a t a	b a t a	113
+195	Shuri	w a t a	w a t a	113
+196	Amami	k u b i	k u b i	114
+197	Hachijo	k u b i	k u b i	114
+198	Kagoshima	k ui	k ui - -	114
+199	Kochi	k u b i	k u b i	114
+200	Kyoto	k u b i	k u b i	114
+201	Oki	k u b i	k u b i	114
+202	Sado	k u b i	k u b i	114
+203	Shuri	k u b i	k u b i	114
+204	Tokyo	k u b i	k u b i	114
+205	Kochi	k i m o	k i m o	117
+206	Shuri	tɕ i m u	tɕ i m u	117
+207	Amami	s i ɴ d o	s i ɴ - d o	118
+208	Hachijo	s i ɴ z oː	s i ɴ - z oː	118
+209	Kagoshima	s i ɴ i z oː	s i ɴ i z oː	118
+210	Kyoto	s i ɴ z oː	s i ɴ - z oː	118
+211	Oki	s i ɴ z oː	s i ɴ - z oː	118
+212	Sado	s i ɴ z oː	s i ɴ - z oː	118
+213	Tokyo	s i ɴ z oː	s i ɴ - z oː	118
+214	Amami	k i m o	k i m o	119
+215	Hachijo	k i m o	k i m o	119
+216	Kagoshima	k i m o	k i m o	119
+217	Kochi	k i m o	k i m o	119
+218	Kyoto	k i m o	k i m o	119
+219	Miyako	ts ɨ m u	ts ɨ m u	119
+220	Sado	k i m o	k i m o	119
+221	Shuri	tɕ i m u	tɕ i m u	119
+222	Tokyo	k i m o	k i m o	119
+223	Kochi	t a b e r u	t a b e r u	122
+224	Kyoto	t a b e r u	t a b e r u	122
+225	Tokyo	t a b e r u	t a b e r u	122
+226	Kagoshima	k uː	k uː	123
+227	Oki	k uː	k uː	123
+228	Sado	k uː	k uː	123
+229	Amami	x a m u r i	x a m u r i	124
+230	Shuri	k a n u ɴ	k a n u ɴ -	124
+231	Amami	k ui ts ɨ k ɨ r u r i	k ui ts ɨ k ɨ r u r i	126
+232	Hachijo	k ui ts u k u	k ui ts u k - - u - -	126
+233	Kochi	k ui t u k u	k ui t u k - - u - -	126
+234	Shuri	k uː j u ɴ	k uː - - - - j u ɴ -	126
+235	Kagoshima	k a ɴ ts u	k a ɴ - ts - - u	128
+236	Kyoto	k a m i ts u k u	k a m i ts u k u	128
+237	Oki	k a m u	k a m - - - - u	128
+238	Sado	k a m i ts u k u	k a m i ts u k u	128
+239	Tokyo	k a m i ts u k u	k a m i ts u k u	128
+240	Amami	mʲ uː r i	mʲ uː r i	130
+241	Kagoshima	m i	m i - -	130
+242	Kochi	m i r u	m i r u	130
+243	Kyoto	m i r u	m i r u	130
+244	Miyako	m iː ɭ	m iː ɭ -	130
+245	Oki	m i r u	m i r u	130
+246	Sado	m i r u	m i r u	130
+247	Tokyo	m i r u	m i r u	130
+248	Amami	s i tɕ u r i	s i tɕ u r i	134
+249	Kagoshima	s i j i tɕ o	s i j i tɕ o	134
+250	Kochi	s i tː j uː	s i tː - j uː	134
+251	Kyoto	s i tː e r u	s i tː e r u	134
+252	Miyako	s ɨː	s ɨː - - - -	134
+253	Oki	s i tɕː o r u	s i tɕː o r u	134
+254	Sado	s i tː o r u	s i tː o r u	134
+255	Shuri	s i tsː oː ɴ	s i tsː oː ɴ -	134
+256	Tokyo	s i tː e r u	s i tː e r u	134
+257	Amami	n ɨ b u r u r i	n ɨ - b u r u r i -	136
+258	Kagoshima	n e i m u tɕː o i	n e i m u tɕː o - i -	136
+259	Miyako	n i v	n i - - - - - - - v	136
+260	Shuri	n i ɴ z u ɴ	n i - ɴ - z u - - ɴ	136
+261	Tokyo	n e m u r u	n e - m u r u - - -	136
+262	Amami	s i mʲ u r i	s i mʲ u r i	138
+263	Kagoshima	s iː ɴ	s iː ɴ - - -	138
+264	Kochi	s i n u r u	s i n u r u	138
+265	Kyoto	s i n u	s i n u - -	138
+266	Miyako	s ɨ n	s ɨ n - - -	138
+267	Oki	s i n o r u	s i n o r u	138
+268	Sado	s i n u	s i n u - -	138
+269	Shuri	s i n u ɴ	s i n u ɴ -	138
+270	Tokyo	s i n u	s i n u - -	138
+271	Amami	θ u b u r i	θ u b u r i	142
+272	Kagoshima	t o i	t o - i - -	142
+273	Kochi	t o b u	t o b u - -	142
+274	Kyoto	t o b u	t o b u - -	142
+275	Oki	t o b u	t o b u - -	142
+276	Shuri	t u b u ɴ	t u b u ɴ -	142
+277	Tokyo	t o b u	t o b u - -	142
+278	Amami	ʔ a kː u r i	ʔ a kː u r i	146
+279	Kagoshima	a j u ɴ	- a j u ɴ -	146
+280	Kochi	a r u k u	- a r u k u	146
+281	Kyoto	a r u k u	- a r u k u	146
+282	Miyako	a ɭ ɨ f u	- a ɭ ɨ f u	146
+283	Oki	a r u k u	- a r u k u	146
+284	Sado	a r u k u	- a r u k u	146
+285	Shuri	ʔ a tsː u ɴ	ʔ a tsː u ɴ -	146
+286	Tokyo	a r u k u	- a r u k u	146
+287	Amami	x u r i	x u r i	149
+288	Hachijo	k u r u	k u r u	149
+289	Kagoshima	k u	k u - -	149
+290	Kochi	k u r u	k u r u	149
+291	Kyoto	k u r u	k u r u	149
+292	Oki	k u r u	k u r u	149
+293	Sado	k u r u	k u r u	149
+294	Tokyo	k u r u	k u r u	149
+295	Hachijo	n e t e	n e - - t e	150
+296	Kagoshima	n e i tɕ o	n e - i tɕ o	150
+297	Kochi	n e j uː	n e - - j uː	150
+298	Kyoto	n e t e r u	n e t e r u	150
+299	Oki	n e tɕ oː r u	n e tɕ oː r u	150
+300	Sado	n e t o r u	n e t o r u	150
+301	Tokyo	n e t e r u	n e t e r u	150
+302	Amami	n ɨ h u θ u r i	n ɨ h u θ u r i	151
+303	Shuri	n i ɴ t oː ɴ	n i ɴ - t oː ɴ -	151
+304	Kagoshima	s u w a iː tɕ o	s u w a - iː tɕ o	153
+305	Kochi	s u w a r u	s u w a - - r u	153
+306	Kyoto	s u w a tː e r u	s u w a tː e r u	153
+307	Oki	s u w a r u	s u w a - - r u	153
+308	Sado	s u w a r u	s u w a - - r u	153
+309	Tokyo	s u w a tː e r u	s u w a tː e r u	153
+310	Amami	i r u r i	i r u r i	155
+311	Hachijo	i t e	i t - - e	155
+312	Shuri	i ts oː n	i ts oː n -	155
+313	Kyoto	a ŋ e r u	a ŋ e r u	158
+314	Tokyo	a ŋ e r u	a ŋ e r u	158
+315	Kochi	j a r u	j a r u	159
+316	Oki	j a r u	j a r u	159
+317	Sado	j a r u	j a r u	159
+318	Amami	k u r ɨ r u r i	k u r ɨ r u r i	160
+319	Kagoshima	k ui r u	k - - ui r u - -	160
+320	Miyako	f iː ɭ	- - f iː ɭ - - -	160
+321	Shuri	k w iː j u ɴ	k - w iː j u ɴ -	160
+322	Amami	ʔʲ u r i	ʔʲ u r i -	161
+323	Hachijo	j u	j - - - u	161
+324	Kagoshima	j u i u	j u - i u	161
+325	Kochi	j uː	j - - - uː	161
+326	Kyoto	j uː	j - - - uː	161
+327	Oki	e o	- - - e o	161
+328	Sado	j uː	j - - - uː	161
+329	Shuri	ʔʲ u ɴ	ʔʲ u ɴ - -	161
+330	Tokyo	j uː	j - - - uː	161
+331	Kochi	o h i s a m a	o h i s a m a	164
+332	Kyoto	o h i s a ɴ	o h i s a ɴ -	164
+333	Oki	o ɸ i s a ɴ	o ɸ i s a ɴ -	164
+334	Tokyo	o h i s a m a	o h i s a m a	164
+335	Amami	θ e d a	θ e d a	167
+336	Miyako	t i d a	t i d a	167
+337	Shuri	t iː d a	t iː d a	167
+338	Hachijo	k u a	k u - - a	171
+339	Kagoshima	k a i w a	k a i w a	171
+340	Kochi	k a w a	k a - w a	171
+341	Kyoto	k a w a	k a - w a	171
+342	Miyako	k aː	k - - - aː	171
+343	Oki	k a w a	k a - w a	171
+344	Sado	k a w a	k a - w a	171
+345	Shuri	k aː r a	k aː - r a	171
+346	Tokyo	k a w a	k a - w a	171
+347	Amami	s ɨ n a	s ɨ n a	175
+348	Kagoshima	z ui n a	z ui n a	175
+349	Kochi	s u n a	s u n a	175
+350	Kyoto	s u n a	s u n a	175
+351	Oki	s u n a	s u n a	175
+352	Sado	s u n a	s u n a	175
+353	Shuri	ʃ i n a	ʃ i n a	175
+354	Tokyo	s u n a	s u n a	175
+355	Amami	m i tɕ a	m i tɕ a	178
+356	Miyako	m t a	m - t a	178
+357	Shuri	ɴ ts a	ɴ - ts a	178
+358	Hachijo	tɕ i tɕ i	tɕ i tɕ i	179
+359	Kochi	t u t i	t u t i	179
+360	Kyoto	ts u tɕ i	ts u tɕ i	179
+361	Oki	tɕ i tɕ i	tɕ i tɕ i	179
+362	Sado	ts u tɕ i	ts u tɕ i	179
+363	Tokyo	ts u tɕ i	ts u tɕ i	179
+364	Amami	x ɨ b u s i	x ɨ - b u s i	182
+365	Kagoshima	k e i m ui	k e i m ui - -	182
+366	Kochi	k e m u r i	k e - m u r i	182
+367	Kyoto	k e m u r i	k e - m u r i	182
+368	Miyako	k i β u s ɨ	k i - β u s ɨ	182
+369	Oki	k e m o r i	k e - m o r i	182
+370	Sado	k e m u r i	k e - m u r i	182
+371	Shuri	k i b u s i	k i - b u s i	182
+372	Tokyo	k e m u	k e - m u - -	182
+373	Hachijo	h i	h - i	183
+374	Kagoshima	h i	h - i	183
+375	Kochi	h i	h - i	183
+376	Kyoto	h iː	h - iː	183
+377	Oki	ɸ i	ɸ - i	183
+378	Sado	h i	h - i	183
+379	Shuri	h w iː	h w iː	183
+380	Tokyo	h i	h - i	183
+381	Amami	u a ts ɨ	u - a ts ɨ	184
+382	Miyako	u m a ts ɨ	u m a ts ɨ	184
+383	Amami	j a m a	j a m a	188
+384	Hachijo	j a m a	j a m a	188
+385	Kagoshima	j a m a	j a m a	188
+386	Kochi	j a m a	j a m a	188
+387	Kyoto	j a m a	j a m a	188
+388	Miyako	j a m a	j a m a	188
+389	Oki	j a m a	j a m a	188
+390	Sado	j a m a	j a m a	188
+391	Tokyo	j a m a	j a m a	188
+392	Amami	ʔ oː s a r i	ʔ oː s a r i	191
+393	Shuri	ʔ oː s a ɴ	ʔ oː s a ɴ -	191
+394	Hachijo	a o kʲ a	a o kʲ a	192
+395	Kagoshima	a o	a o - -	192
+396	Kochi	a o i	a o - i	192
+397	Kyoto	a o i	a o - i	192
+398	Miyako	a u	a u - -	192
+399	Oki	a w eː	a - w eː	192
+400	Sado	a o i	a o - i	192
+401	Tokyo	a o i	a o - i	192
+402	Amami	j u r u	j u r u	196
+403	Hachijo	j o r u	j o r u	196
+404	Kochi	j o r u	j o r u	196
+405	Kyoto	j o r u	j o r u	196
+406	Miyako	j u ɭ	j u ɭ -	196
+407	Oki	j o r u	j o r u	196
+408	Sado	j o r u	j o r u	196
+409	Shuri	j u r u	j u r u	196
+410	Tokyo	j o r u	j o r u	196
+411	Amami	ʔ a ts ɨ s a r i	ʔ a ts ɨ s a r i	199
+412	Kagoshima	a tɕ i	- a tɕ i - - - -	199
+413	Kochi	a t ui	- a t ui - - - -	199
+414	Kyoto	a ts ui	- a ts ui - - - -	199
+415	Miyako	a ts ɨ	- a ts ɨ - - - -	199
+416	Sado	a ts ui	- a ts ui - - - -	199
+417	Shuri	ʔ a ɕ i s a ɴ	ʔ a ɕ i s a ɴ -	199
+418	Tokyo	a ts ui	- a ts ui - - - -	199
+419	Amami	h i g u r u s a r i	h - i g u r u s a r i	201
+420	Kochi	h i j a i	h - i - - j - - a - i	201
+421	Miyako	p i ʃ i	p - i - - - - ʃ - - i	201
+422	Shuri	h w iː s a ɴ	h w iː - - - - s a ɴ -	201
+423	Kagoshima	s a m i	s a m i	203
+424	Kyoto	s a b ui	s a b ui	203
+425	Oki	s a b iː	s a b iː	203
+426	Sado	s a m ui	s a m ui	203
+427	Tokyo	s a m ui	s a m ui	203
+428	Hachijo	i pː i a	i pː i a	204
+429	Kagoshima	pː e	- pː - e	204
+430	Kochi	i pː a i	i pː a i	204
+431	Kyoto	i pː a i	i pː a i	204
+432	Oki	e pː eː	e pː - eː	204
+433	Sado	i pː a i	i pː a i	204
+434	Tokyo	i pː a i	i pː a i	204
+435	Miyako	m t i	m t i	206
+436	Shuri	m iː	m - iː	206
+437	Hachijo	a t a r a s i kʲ a	a t a r a s i kʲ a	207
+438	Oki	a t a r a s i	a t a r a s i - -	207
+439	Sado	a t a r a s iː	a t a r a s iː - -	207
+440	Tokyo	a t a r a s iː	a t a r a s iː - -	207
+441	Amami	m iː s a r i	m iː s a r i	210
+442	Kagoshima	n i k e	n i k e - -	210
+443	Miyako	m ɨː	m ɨː - - - -	210
+444	Shuri	m iː s a ɴ	m iː s a ɴ -	210
+445	Kochi	eː	eː	211
+446	Kyoto	eː	eː	211
+447	Oki	eː	eː	211
+448	Sado	eː	eː	211
+449	Tokyo	iː	iː	211
+450	Hachijo	j o kː j a	j o kː j a	215
+451	Kagoshima	j o k a	j o k - a	215
+452	Amami	x o r a tɕ a ɴ	x o r a tɕ a ɴ -	217
+453	Miyako	k aː r a ts ɨ	k aː r a ts - - ɨ	217
+454	Shuri	k aː r a ts oː r u	k aː r a ts oː r u	217
+455	Hachijo	k u a tː e	k u - - a tː e	218
+456	Kagoshima	k a e t a	k a - - e t a	218
+457	Kochi	k a w a i t a	k a w a i t a	218
+458	Kyoto	k a w a i t a	k a w a i t a	218
+459	Tokyo	k a w a i t a	k a w a i t a	218
+460	Amami	ʔʲ a x j a	ʔʲ a x j a	222
+461	Miyako	vː a d u	vː a d - u	222
+462	Shuri	ʔ i tː aː	ʔ i tː - aː	222
+463	Kyoto	a ɴ t a r a	a ɴ t a r a - -	224
+464	Tokyo	a ɴ t a t a tɕ i	a ɴ t a t a tɕ i	224
+465	Amami	ʔ a ɴ tɕ u	ʔ a ɴ - - - tɕ u	230
+466	Kagoshima	a iː	- a - - - - - iː	230
+467	Kochi	a n o h i t o	- a n o h i t o	230
+468	Kyoto	a n o h i t o	- a n o h i t o	230
+469	Oki	a r e	- a - - - - r e	230
+470	Sado	a n o h i t o	- a n o h i t o	230
+471	Shuri	ʔ a n u tsː u	ʔ a n u - - tsː u	230
+472	Tokyo	a n o h i t o	- a n o h i t o	230
+473	Amami	ʔ a ɴ tɕ u ɴ x j a	ʔ a ɴ - - - tɕ u ɴ - x j a	233
+474	Kagoshima	a iː d o ɴ	- a - - - iː d o ɴ - - - -	233
+475	Kochi	a n o h i t o t a t i	- a n o h i t o t a t - i	233
+476	Kyoto	a n o h i t o j a r a	- a n o h i t o j a r - a	233
+477	Oki	a e r a	- a - - - e r a - - - - -	233
+478	Sado	a n o h i t o t a tɕ i	- a n o h i t o t a tɕ - i	233
+479	Shuri	ʔ a tː aː	ʔ a - - - - tː - - - - - aː	233
+480	Tokyo	a n o h i t o t a tɕ i	- a n o h i t o t a tɕ - i	233
+481	Amami	x j a s i	x j a s i -	235
+482	Kagoshima	i k e ɴ	- - i k e ɴ	235
+483	Shuri	ts aː	- - - ts aː -	235
+484	Kochi	d oː	d oː - - - - -	238
+485	Kyoto	d oː	d oː - - - - -	238
+486	Oki	d o ŋ e	d o - - - ŋ e	238
+487	Sado	d o g a i n i	d o g a i n i	238
+488	Tokyo	d oː	d oː - - - - -	238
+489	Hachijo	d o k o	d o k o	240
+490	Kagoshima	d o k o	d o k o	240
+491	Kochi	d o k o	d o k o	240
+492	Kyoto	d o k o	d o k o	240
+493	Oki	d o k o	d o k o	240
+494	Sado	d o k o	d o k o	240
+495	Tokyo	d o k o	d o k o	240
+496	Amami	x u m a	x u m a -	244
+497	Miyako	k o m a n	k o m a n	244
+498	Shuri	k u m a	k u m a -	244
+499	Hachijo	k o k o	k o k o	245
+500	Kagoshima	k o k o	k o k o	245
+501	Kochi	k o k o	k o k o	245
+502	Kyoto	k o k o	k o k o	245
+503	Oki	k o k o	k o k o	245
+504	Sado	k o k o	k o k o	245
+505	Tokyo	k o k o	k o k o	245
+506	Kagoshima	a s i k o	a s i k o	247
+507	Kochi	a k o	a - - k o	247
+508	Kyoto	a k o	a - - k o	247
+509	Oki	a s u k o	a s u k o	247
+510	Sado	a k o	a - - k o	247
+511	Tokyo	a s u k o	a s u k o	247
+512	Amami	ʔ a m a	ʔ a m a	248
+513	Shuri	ʔ a m a	ʔ a m a	248
+514	Hachijo	h o k u a	h o k u - a -	250
+515	Kagoshima	h o k a ɴ	h o k - - a ɴ	250
+516	Kochi	h o k a n o	h o k a n o -	250
+517	Kyoto	h o k a n o	h o k a n o -	250
+518	Miyako	p u k a n u	p u k a n u -	250
+519	Oki	h o k a n o	h o k a n o -	250
+520	Sado	h o k a n o ɴ	h o k a n o ɴ	250
+521	Tokyo	h o k a n o	h o k a n o -	250
+522	Amami	b i tɕ i n a	b i tɕ i n a	251
+523	Shuri	b i ɕ i n u	b i ɕ i n u	251
+524	Hachijo	tɕ iː t o	tɕ iː t o	255
+525	Oki	tɕ iː t o	tɕ iː t o	255
+526	Kagoshima	s u nː e	s u - - nː - e	256
+527	Kyoto	s u k e n a i	s u k e n a i	256
+528	Sado	s u k u n a i	s u k u n a i	256
+529	Tokyo	s u k u n a i	s u k u n a i	256
+530	Amami	ʔ i k i r a s a r i	ʔ i k i r a s a r i	258
+531	Shuri	ʔ i k i r a s a ɴ	ʔ i k i r a s a ɴ -	258
+532	Hachijo	s o r a	s o r a	261
+533	Kochi	s o r a	s o r a	261
+534	Tokyo	s o r a	s o r a	261
+535	Amami	h i r u h i ɴ m a	h - i r u h i ɴ m a	262
+536	Hachijo	h i r u m a	h - i r u - - - m a	262
+537	Kagoshima	h i j i	h - i j - - - - - i	262
+538	Kochi	h i r u m a	h - i r u - - - m a	262
+539	Kyoto	h i r u m a	h - i r u - - - m a	262
+540	Oki	ɸ i r u	ɸ - i r - - - - - u	262
+541	Sado	h i r u m a	h - i r u - - - m a	262
+542	Shuri	h w i r u	h w i r - - - - - u	262
+543	Tokyo	h i r u m a	h - i r u - - - m a	262
+544	Amami	k i r i	k i r i	264
+545	Hachijo	k i r i	k i r i	264
+546	Kagoshima	k i j i	k i j i	264
+547	Kochi	k i r i	k i r i	264
+548	Kyoto	k i r i	k i r i	264
+549	Miyako	ts ɨː	ts ɨː - -	264
+550	Shuri	tɕ i r i	tɕ i r i	264
+551	Tokyo	k i r i	k i r i	264
+552	Oki	m o j a	m o j a	265
+553	Sado	m o j a	m o j a	265
+554	Amami	ʔ i x i	ʔ i x i	269
+555	Hachijo	i k e	- i k e	269
+556	Kochi	i k e	- i k e	269
+557	Oki	e k e	- e k e	269
+558	Sado	i k e	- i k e	269
+559	Kagoshima	m i z u i u ɴ	m i z u - i u ɴ	270
+560	Kyoto	m i z uː m i	m i z uː m i - -	270
+561	Tokyo	m i z uː m i	m i z uː m i - -	270
+562	Amami	n eː θ a	n - - - eː θ a - -	274
+563	Kagoshima	n u r e i t a	n u r e i t a - -	274
+564	Kochi	n u r e t a	n u r - e t a - -	274
+565	Kyoto	n u r e t a	n u r - e t a - -	274
+566	Oki	n o r e t a	n o r - e t a - -	274
+567	Sado	n u r e t a	n u r - e t a - -	274
+568	Shuri	ɴ d i t oː r u	ɴ - d - i t oː r u	274
+569	Tokyo	n u r e t a	n u r - e t a - -	274
+570	Hachijo	h e b u m e	h e b u m e	278
+571	Kagoshima	h e	h e - - - -	278
+572	Kochi	h e b i	h e b - - i	278
+573	Kyoto	h e b i	h e b - - i	278
+574	Sado	h e b i	h e b - - i	278
+575	Tokyo	h e b i	h e b - - i	278
+576	Amami	n a g a m u ɴ	n a g a m u ɴ	280
+577	Shuri	n a g a m u ɴ	n a g a m u ɴ	280
+578	Kagoshima	s e n a k a	s e n a k a	283
+579	Kochi	s e n a k a	s e n a k a	283
+580	Kyoto	s e n a k a	s e n a k a	283
+581	Oki	s e n a	s e n - - a	283
+582	Sado	s e n a k a	s e n a k a	283
+583	Tokyo	s e n a k a	s e n a k a	283
+584	Sado	m u k oː z u n e	m u k oː z u n e	286
+585	Shuri	h w i ɕ a	- - h - w i ɕ a	286
+586	Amami	h a g i	h a g - - - - i	287
+587	Hachijo	h a g i	h a g - - - - i	287
+588	Miyako	k a r a p a dz ɨ	k a r a p a dz ɨ	287
+589	Kagoshima	a ɕ	a ɕ -	288
+590	Kochi	a s i	a s i	288
+591	Kyoto	a s i	a s i	288
+592	Oki	a s i	a s i	288
+593	Tokyo	a s i	a s i	288
+594	Hachijo	u d e	u d e	289
+595	Kochi	u d e	u d e	289
+596	Miyako	u d i	u d i	289
+597	Oki	o d e	o d e	289
+598	Sado	u d e	u d e	289
+599	Tokyo	u d e	u d e	289
+600	Kagoshima	t e	t e	290
+601	Kyoto	t eː	t eː	290
+602	Shuri	t iː	t iː	290
+603	Amami	h a ɴ g e	h a - ɴ g e	294
+604	Hachijo	h a n e	h a - n - e	294
+605	Kagoshima	h a i n e	h a i n - e	294
+606	Kyoto	h a n e	h a - n - e	294
+607	Oki	h a n e	h a - n - e	294
+608	Shuri	h a n i	h a - n - i	294
+609	Tokyo	h a n e	h a - n - e	294
+610	Hachijo	k u tɕ i b i r u	k u tɕ i b i r u	296
+611	Kochi	k u t i b i r o	k u t i b i r o	296
+612	Kyoto	k u tɕ i b i r u	k u tɕ i b i r u	296
+613	Oki	k u tɕ i b e r o	k u tɕ i b e r o	296
+614	Sado	k u tɕ i b e r a	k u tɕ i b e r a	296
+615	Tokyo	k u tɕ i b i r u	k u tɕ i b i r u	296
+616	Amami	ʔ w ɨː s ɨ b a	ʔ w ɨː s ɨ b a	297
+617	Kagoshima	s u b a	- - - s u b a	297
+618	Miyako	s u b a	- - - s u b a	297
+619	Shuri	ʃ i b a	- - - ʃ i b a	297
+620	Amami	x ɨ ɴ x o	x ɨ ɴ - - x o	298
+621	Hachijo	k e g u a	k e g u - - a	298
+622	Kagoshima	k e g a i w a	k e g a i w a	298
+623	Kochi	k e g a w a	k e g a - w a	298
+624	Kyoto	k e ŋ a w a	k e ŋ a - w a	298
+625	Oki	k e ŋ a w a	k e ŋ a - w a	298
+626	Sado	k e g a w a	k e g a - w a	298
+627	Tokyo	k e ŋ a w a	k e ŋ a - w a	298
+628	Amami	h u s u	h u - - s u	300
+629	Hachijo	h e tsː o g o	h e tsː o g o	300
+630	Kagoshima	h e i s o	h e - i s o	300
+631	Kochi	h e s o	h e - - s o	300
+632	Kyoto	h e s o	h e - - s o	300
+633	Oki	ɸ e s o	ɸ e - - s o	300
+634	Sado	h e s o	h e - - s o	300
+635	Shuri	h u s u	h u - - s u	300
+636	Tokyo	o h e s o	- o h e s o	300
+637	Amami	w a θ a	- - - - w a θ a	303
+638	Hachijo	h a r u t a	h a r - - u t a	303
+639	Kagoshima	z u z u w a t a	z u z u w a t a	303
+640	Kochi	h a r a w a t a	h a r a w a t a	303
+641	Kyoto	h a r a w a t a	h a r a w a t a	303
+642	Oki	h a r a w a t a	h a r a w a t a	303
+643	Sado	h a r a w a t a	h a r a w a t a	303
+644	Tokyo	h a r a w a t a	h a r a w a t a	303
+645	Amami	n a r i	n a r i	306
+646	Miyako	n a ɭ	n a ɭ -	306
+647	Shuri	n a i	n a - i	306
+648	Hachijo	m i	m i	307
+649	Kagoshima	m iː	m iː	307
+650	Kochi	m i	m i	307
+651	Kyoto	m iː	m iː	307
+652	Oki	m i	m i	307
+653	Sado	m i	m i	307
+654	Tokyo	m i	m i	307
+655	Amami	n a ɴ θ ɨ	n a ɴ θ ɨ	313
+656	Hachijo	d e	- - - d e	313
+657	Kagoshima	d e	- - - d e	313
+658	Kochi	d e	- - - d e	313
+659	Kyoto	d e	- - - d e	313
+660	Oki	d e	- - - d e	313
+661	Sado	d e	- - - d e	313
+662	Shuri	u t i	- u - t i	313
+663	Tokyo	d e	- - - d e	313
+664	Hachijo	m o s i	m o s i - -	314
+665	Kagoshima	m o ɕ i k a	m o ɕ i k a	314
+666	Kyoto	m o s i	m o s i - -	314
+667	Miyako	m u s ɨ	m u s ɨ - -	314
+668	Oki	m o s i	m o s i - -	314
+669	Sado	m o s i	m o s i - -	314
+670	Shuri	m u s i	m u s i - -	314
+671	Tokyo	m o s i	m o s i - -	314
+672	Hachijo	k a k a	- k a k a -	318
+673	Kagoshima	o k aː h a ɴ	o k aː h a ɴ	318
+674	Kochi	o k aː s a ɴ	o k aː s a ɴ	318
+675	Kyoto	o k aː tɕ a ɴ	o k aː tɕ a ɴ	318
+676	Oki	k a k a	- k a k a -	318
+677	Tokyo	o k aː s a ɴ	o k aː s a ɴ	318
+678	Kagoshima	o t o tsː a ɴ	o t o tsː a ɴ	323
+679	Kochi	o t oː s a ɴ	o t oː s a ɴ	323
+680	Kyoto	o t o tɕː a ɴ	o t o tɕː a ɴ	323
+681	Tokyo	o t oː s a ɴ	o t oː s a ɴ	323
+682	Kochi	ɕ u dʑ i ɴ	ɕ u dʑ i ɴ	330
+683	Kyoto	ɕ u dʑ i ɴ	ɕ u dʑ i ɴ	330
+684	Tokyo	ɕ u dʑ i ɴ	ɕ u dʑ i ɴ	330
+685	Amami	u θ u	- u θ u	331
+686	Miyako	b u t u	b u t u	331
+687	Sado	o tː o	- o tː o	331
+688	Shuri	u t u	- u t u	331
+689	Amami	θ u dʑ i	θ u dʑ i	336
+690	Miyako	t u dz ɨ	t u dz ɨ	336
+691	Shuri	t u dʑ i	t u dʑ i	336
+692	Kochi	k a n a i	k a n a i -	338
+693	Kyoto	k a k a	k a k a - -	338
+694	Sado	k aː s a ɴ	k aː s a - ɴ	338
+695	Tokyo	k a n a i	k a n a i -	338
+696	Hachijo	ɕ o	ɕ - - o	339
+697	Kagoshima	s i o	s i - o	339
+698	Kochi	s i j o	s i j o	339
+699	Kyoto	s i o	s i - o	339
+700	Oki	s i o	s i - o	339
+701	Sado	s i o	s i - o	339
+702	Tokyo	s i o	s i - o	339
+703	Amami	m a ɕ u	m a ɕ u	340
+704	Miyako	m aː s o	m aː s o	340
+705	Shuri	m aː ɕ u	m aː ɕ u	340
+706	Hachijo	k oː r i	k oː r i	341
+707	Kagoshima	k oː i	k oː - i	341
+708	Kochi	k oː r i	k oː r i	341
+709	Kyoto	k oː r i	k oː r i	341
+710	Oki	k oː r i	k oː r i	341
+711	Sado	k oː r i	k oː r i	341
+712	Tokyo	k oː r i	k oː r i	341
+713	Hachijo	k oː r u	k oː r u	343
+714	Kagoshima	k oː	k oː - -	343
+715	Kochi	k oː r u	k oː r u	343
+716	Kyoto	k oː r u	k oː r u	343
+717	Oki	k oː r u	k oː r u	343
+718	Sado	k oː r u	k oː r u	343
+719	Tokyo	k oː r u	k oː r u	343
+720	Hachijo	k o d o m o	k o - d o m o	344
+721	Kagoshima	k o i d o ɴ	k o i d o ɴ -	344
+722	Kochi	k o d o m o	k o - d o m o	344
+723	Kyoto	k o d o m o	k o - d o m o	344
+724	Oki	k o d o m o	k o - d o m o	344
+725	Sado	k o d o m o	k o - d o m o	344
+726	Tokyo	k o d o m o	k o - d o m o	344
+727	Amami	w a r a b ɨ	w a r a b ɨ	345
+728	Miyako	j a r a b i	j a r a b i	345
+729	Shuri	w a r a b i	w a r a b i	345
+730	Amami	s e b a s a r i	s e b a s a r i	350
+731	Hachijo	s e b a kʲ a	s e b a kʲ a - -	350
+732	Kagoshima	s e m e	s e m - - e - -	350
+733	Kochi	s e b a i	s e b a - i - -	350
+734	Kyoto	s e b a i	s e b a - i - -	350
+735	Oki	s e m eː	s e m - - eː - -	350
+736	Sado	s e m a i	s e m a - i - -	350
+737	Shuri	ʃ i b a s a ɴ	ʃ i b a s a ɴ -	350
+738	Tokyo	s e m a i	s e m a - i - -	350
+739	Amami	tɕ i kʲ a s a r i	tɕ i kʲ a s a r i	352
+740	Hachijo	tɕ i k a kʲ a	tɕ i k a kʲ a - -	352
+741	Kagoshima	tɕ i k e	tɕ i k - - e - -	352
+742	Kochi	t i k a i	t i k a - i - -	352
+743	Kyoto	tɕ i k a i	tɕ i k a - i - -	352
+744	Oki	tɕ i k eː	tɕ i k - - eː - -	352
+745	Sado	tɕ i k a i	tɕ i k a - i - -	352
+746	Shuri	tɕ i ts a s a ɴ	tɕ i ts a s a ɴ -	352
+747	Tokyo	tɕ i k a i	tɕ i k a - i - -	352
+748	Amami	ʔ a tɕ i ɕ a r i	ʔ a tɕ i ɕ a r i	354
+749	Hachijo	a ts u kʲ a	- a ts u kʲ a - -	354
+750	Kagoshima	a i tɕ i	- a - i tɕ i - -	354
+751	Kochi	a t ui	- a t ui - - - -	354
+752	Oki	a tɕ iː	- a tɕ iː - - - -	354
+753	Sado	a ts ui	- a ts ui - - - -	354
+754	Shuri	ʔ a ɕ i s a ɴ	ʔ a ɕ i s a ɴ -	354
+755	Tokyo	a ts ui	- a ts ui - - - -	354
+756	Kyoto	g o ts ui	g o ts ui	355
+757	Miyako	u d a	- u d a	355
+758	Hachijo	u s u kʲ a	u s u kʲ a	356
+759	Kagoshima	ui s i	ui s - - i	356
+760	Kochi	u s ui	u s - - ui	356
+761	Kyoto	u s ui	u s - - ui	356
+762	Oki	o s iː	o s - - iː	356
+763	Sado	u s ui	u s - - ui	356
+764	Tokyo	u s ui	u s - - ui	356
+765	Amami	h i sː a r i	h - i sː a r i	357
+766	Miyako	pˢ ɨ s ɨ	pˢ - ɨ s ɨ - -	357
+767	Shuri	h w i sː a ɴ	h w i sː a ɴ -	357
+768	Hachijo	m i dʑ i k a kʲ a	m i dʑ i k a kʲ a	359
+769	Kagoshima	m i ɕ k e	m i ɕ - k - - e	359
+770	Kochi	m i z o i	m i z - - o - i	359
+771	Kyoto	m i dʑ i k a i	m i dʑ i k a - i	359
+772	Oki	m e tɕ i k eː	m e tɕ i k - - eː	359
+773	Sado	m i dʑ i k a i	m i dʑ i k a - i	359
+774	Tokyo	m i dʑ i k a i	m i dʑ i k a - i	359
+775	Amami	ʔ i kː j a s a r i	ʔ i kː j a s a r i	360
+776	Shuri	ʔ i ɴ ts a s a ɴ	ʔ i ɴ ts a s a ɴ -	360
+777	Amami	k i r i r a ɴ	k i r i - r a ɴ -	362
+778	Hachijo	k i r e ɴ n u a	k i r e ɴ n u - a	362
+779	Kagoshima	k i r e ɴ	k i r e - - - ɴ -	362
+780	Kyoto	k i r e h e ɴ	k i r e - h e ɴ -	362
+781	Oki	k i r e ɴ	k i r e - - - ɴ -	362
+782	Tokyo	k i r e n a i	k i r e - n a - i	362
+783	Amami	k i r i r u ɴ	k i r i r u ɴ	369
+784	Hachijo	k i r e r o	k i r e r o -	369
+785	Kagoshima	k i r u	k i r - - u -	369
+786	Kochi	k i r e r u	k i r e r u -	369
+787	Kyoto	k i r e r u	k i r e r u -	369
+788	Miyako	tʃː i	- - tʃː - - i -	369
+789	Oki	j oː	- - j - - oː -	369
+790	Tokyo	k i r e r u	k i r e r u -	369
+791	Hachijo	k i t a n a kʲ a	k i t a n a kʲ a	370
+792	Kagoshima	k i sː a n e	k i sː a n - - e	370
+793	Kyoto	k i t a n a i	k i t a n a - i	370
+794	Oki	k i t a n eː	k i t a n - - eː	370
+795	Tokyo	k i t a n a i	k i t a n a - i	370
+796	Amami	w a r u s a r i	w a r u s a r i	376
+797	Hachijo	w a r u kʲ a	w a r u kʲ a - -	376
+798	Kagoshima	w a r i	w a r i - - - -	376
+799	Kyoto	w a r ui	w a r ui - - - -	376
+800	Oki	w a r iː	w a r iː - - - -	376
+801	Sado	w a r ui	w a r ui - - - -	376
+802	Shuri	w a sː a ɴ	w a - - sː a ɴ -	376
+803	Tokyo	w a r ui	w a r ui - - - -	376
+804	Hachijo	z u b e r u a	z u b e r u - - - - - a	381
+805	Kochi	s u b e s u b e s i tʲ uː	s u b e s u b e s i tʲ uː	381
+806	Tokyo	s u b e kː o i	s u b e kː o - - - - - i	381
+807	Kagoshima	ts u r u ɴ	ts u r - - u ɴ -	382
+808	Kyoto	ts u r u ts u r u	ts u r u ts u r u	382
+809	Oki	ts u r u ts u r u	ts u r u ts u r u	382
+810	Sado	ts u r a ts u r a	ts u r a ts u r a	382
+811	Amami	n a b i r o s a r i	n a b i r o s a r i	383
+812	Miyako	n a b ɭ ɨː	n a b - - - - - ɭ ɨː	383
+813	Amami	m a sː ɨ g u	m a sː ɨ g - - u -	384
+814	Hachijo	m a sː u g u d u a	m a sː u g u d u a	384
+815	Kagoshima	m a sː u g u	m a sː u g - - u -	384
+816	Kochi	m a sː u g u	m a sː u g - - u -	384
+817	Kyoto	m a sː u ŋ u n a	m a sː u ŋ u n a -	384
+818	Sado	m a sː u g u	m a sː u g - - u -	384
+819	Tokyo	m a sː u ŋ u n a	m a sː u ŋ u n a -	384
+820	Miyako	m a tː oː β u	m a tː oː β u	386
+821	Shuri	m a tː oː b a	m a tː oː b a	386
+822	Kochi	eː	eː	387
+823	Kyoto	eː	eː	387
+824	Oki	eː	eː	387
+825	Tokyo	iː	iː	387
+826	Amami	h u r u s a r i	h u r u s a r i	396
+827	Hachijo	h u r u s i kʲ a	h u r u s i kʲ a	396
+828	Kagoshima	ɸ u r i	ɸ u r - - - - i	396
+829	Kochi	h u r ui	h u r - - - - ui	396
+830	Kyoto	h u r ui	h u r - - - - ui	396
+831	Oki	ɸ u r iː	ɸ u r - - - - iː	396
+832	Sado	h u r u s iː	h u r u s - - iː	396
+833	Shuri	h u r u s a ɴ	h u r u s a ɴ -	396
+834	Tokyo	h u r ui	h u r - - - - ui	396
+835	Hachijo	k o s u r u	k o s u r u	398
+836	Kagoshima	k o s u	k o s - - u	398
+837	Kochi	k o s u r u	k o s u r u	398
+838	Kyoto	k o s u r u	k o s u r u	398
+839	Oki	k o s u r u	k o s u r u	398
+840	Sado	k o s u r u	k o s u r u	398
+841	Tokyo	k o s u r u	k o s u r u	398
+842	Amami	s ɨ r u r i	s ɨ r u r i	399
+843	Shuri	ʃ i j u ɴ	ʃ i j u ɴ -	399
+844	Amami	ʔ u s u r i	ʔ u s u r i	401
+845	Hachijo	o s u	- o s u - -	401
+846	Kagoshima	o i s	- o - i s -	401
+847	Kyoto	o s u	- o s u - -	401
+848	Miyako	u s ɨ	- u s ɨ - -	401
+849	Oki	o s u	- o s u - -	401
+850	Sado	o s u	- o s u - -	401
+851	Shuri	ʔ u ɕ u ɴ	ʔ u ɕ u ɴ -	401
+852	Tokyo	o s u	- o s u - -	401
+853	Hachijo	h oː r u	h oː r u	403
+854	Kochi	h oː r u	h oː r u	403
+855	Kyoto	h o r u	h o r u	403
+856	Amami	n a g ɨ r u r i	n a g ɨ r u r i	404
+857	Kagoshima	n a g u	n a g - - u - -	404
+858	Oki	n a ŋ e r u	n a ŋ e r u - -	404
+859	Sado	n a g e r u	n a g e r u - -	404
+860	Shuri	n a g i j u ɴ	n a g i j u ɴ -	404
+861	Tokyo	n a ŋ e r u	n a ŋ e r u - -	404
+862	Hachijo	n a g u r u	n a g u r u	406
+863	Sado	n a g u r u	n a g u r u	406
+864	Tokyo	n a ŋ u r u	n a ŋ u r u	406
+865	Amami	ʔ u θ u r i	ʔ u θ u r i	410
+866	Kagoshima	u tː a k u	- u tː a k u	410
+867	Shuri	ʔ u ts u ɴ	ʔ u ts u ɴ -	410
+868	Amami	m u s u b u r i	m u s u b u r i	415
+869	Hachijo	m u s u b u	m u s u b u - -	415
+870	Kochi	m u s u b u	m u s u b u - -	415
+871	Kyoto	m u s u b u	m u s u b u - -	415
+872	Oki	m o s u b u	m o s u b u - -	415
+873	Sado	m u s u b u	m u s u b u - -	415
+874	Shuri	m u s u b u ɴ	m u s u b u ɴ -	415
+875	Tokyo	m u s u b u	m u s u b u - -	415
+876	Amami	n o u r i	n o u r i	418
+877	Kagoshima	n uː	n uː - - -	418
+878	Kochi	n uː	n uː - - -	418
+879	Kyoto	n uː	n uː - - -	418
+880	Miyako	n u z ɨ	n u - z ɨ	418
+881	Oki	n oː	n oː - - -	418
+882	Sado	n oː	n oː - - -	418
+883	Tokyo	n uː	n uː - - -	418
+884	Amami	ʔ u θ ɨ r u r i	ʔ u θ ɨ r u r i	420
+885	Hachijo	o t e r u	- o - - t e r u	420
+886	Kagoshima	o ts u	- o - - ts u - -	420
+887	Kyoto	o tɕ i r u	- o - - tɕ i r u	420
+888	Miyako	u t i ɭ	- u - - t i ɭ -	420
+889	Oki	o tɕ i r u	- o - - tɕ i r u	420
+890	Sado	o tɕ i r u	- o - - tɕ i r u	420
+891	Shuri	ʔ u t i j u ɴ	ʔ u t i j u ɴ -	420
+892	Tokyo	o kː o tɕ i r u	- o kː o tɕ i r u	420
+893	Amami	o θ a u r i	- o θ a - u r i	424
+894	Hachijo	u t o u	- u t o - u - -	424
+895	Kagoshima	ui t o	- ui t o - - - -	424
+896	Kochi	u t a u	- u t a - u - -	424
+897	Kyoto	u t a u	- u t a - u - -	424
+898	Oki	o t a o	- o t a - o - -	424
+899	Sado	u t a u	- u t a - u - -	424
+900	Shuri	ʔ u t a j u ɴ	ʔ u t a j u ɴ -	424
+901	Tokyo	u t a u	- u t a - u - -	424
+902	Hachijo	k a m a r u	k a m a r u	426
+903	Kochi	k a m u	k a m - - u	426
+904	Oki	k a ŋ u	k a ŋ u	427
+905	Sado	k a g u	k a g u	427
+906	Tokyo	k a ŋ u	k a ŋ u	427
+907	Amami	x a z a m u r i	x a z a m u r i	429
+908	Kagoshima	k a i z u ɴ	k a - i z u ɴ -	429
+909	Shuri	k a dʒ a ɕ u ɴ	k a dʒ a ɕ u ɴ -	429
+910	Hachijo	n o m u	n o m u	431
+911	Kochi	n o m u	n o m u	431
+912	Kagoshima	s u i u	s u i u	432
+913	Kyoto	s uː	s uː - -	432
+914	Oki	s uː	s uː - -	432
+915	Sado	s uː	s uː - -	432
+916	Tokyo	s uː	s uː - -	432
+917	Amami	s i b u r u r i	s i b u r u r i	433
+918	Shuri	ʃ i p u j u ɴ	ʃ i p u j u ɴ -	433
+919	Kyoto	k o w a ŋ a r u	k o w a ŋ a r u	437
+920	Tokyo	k o w a ŋ a r u	k o w a ŋ a r u	437
+921	Amami	ʔ u θ u r u ɕ a	ʔ u θ u r u ɕ a - -	440
+922	Kagoshima	o t o r o sː e s ui	- o t o r o sː e s ui	440
+923	Oki	o s o r e r u	- o s o r - - e r u	440
+924	Shuri	ʔ u t u r u s a	ʔ u t u r u s a - -	440
+925	Amami	s e m e ts ɨ k ɨ r u r i	s e m e ts ɨ k ɨ r u r i	442
+926	Hachijo	s i m e ts u k e r u	s i m e ts u k e r u - -	442
+927	Kagoshima	s i m e ts u k u	s i m e ts u k - - u - -	442
+928	Kochi	s i m e r u	s i m e - - - - r u - -	442
+929	Miyako	ʃ i m i ɭ	ʃ i m i - - - - ɭ - - -	442
+930	Oki	s i m e r u	s i m e - - - - r u - -	442
+931	Sado	s i m e ts u k e r u	s i m e ts u k e r u - -	442
+932	Shuri	s i m i j u ɴ	s i m i - - - - j u ɴ -	442
+933	Tokyo	s i m e ts u k e r u	s i m e ts u k e r u - -	442
+934	Hachijo	s a g e r u	s a g e r u	443
+935	Kochi	s a g e r u	s a g e r u	443
+936	Amami	m u θ u r i	m u θ u r i	444
+937	Kyoto	m o ts u	m o ts u - -	444
+938	Miyako	m u ts ɨ	m u ts ɨ - -	444
+939	Oki	m o ts u	m o ts u - -	444
+940	Sado	m o ts u	m o ts u - -	444
+941	Shuri	m u ts u ɴ	m u ts u ɴ -	444
+942	Tokyo	m o ts u	m o ts u - -	444
+943	Amami	ʔ u d u ɴ	ʔ u - d u ɴ -	448
+944	Hachijo	u m u	- u - m u - -	448
+945	Miyako	mː	- - - mː - - -	448
+946	Sado	u ɴ d a	- u ɴ d a - -	448
+947	Shuri	ʔ ɴ d oː r u	ʔ - ɴ d oː r u	448
+948	Kyoto	dʑ u k u s i t a	dʑ u k u s i t a	449
+949	Tokyo	dʑ u k u s i t a	dʑ u k u s i t a	449
+950	Kagoshima	u r e i t a	u r e i t a	450
+951	Kochi	u r e t a	u r e - t a	450
+952	Oki	o r e t a	o r e - t a	450
+953	Hachijo	h o k o r i	h o k o r i	451
+954	Kochi	h o k o r i	h o k o r i	451
+955	Kyoto	h o k o r i	h o k o r i	451
+956	Miyako	p u k i	p u k - - i	451
+957	Oki	h o k e	h o k - - e	451
+958	Sado	h o k o r i	h o k o r i	451
+959	Shuri	h u k ui	h u k - - ui	451
+960	Tokyo	h o k o r i	h o k o r i	451
+961	Amami	ʔ i k i tɕ u r i	ʔ i k i tɕ u r i	455
+962	Hachijo	i k i t e	- i k i t - - e	455
+963	Kagoshima	i k iː tɕː o	- i k iː tɕː - - o	455
+964	Kochi	i k i tʲ uː	- i k i tʲ - - uː	455
+965	Kyoto	i k i t e r u	- i k i t e r u	455
+966	Oki	e k e tɕ o r u	- e k e tɕ o r u	455
+967	Sado	i k i t o r u	- i k i t o r u	455
+968	Shuri	ʔ i tɕ i ts oː ɴ	ʔ i tɕ i ts oː ɴ -	455
+969	Tokyo	i k i t e r u	- i k i t e r u	455
+970	Amami	ts ɨ n a	ts ɨ n a	456
+971	Hachijo	ts u n a	ts u n a	456
+972	Kagoshima	ts u n a	ts u n a	456
+973	Kochi	t u n a	t u n a	456
+974	Miyako	ts ɨ n a	ts ɨ n a	456
+975	Oki	ts u n a	ts u n a	456
+976	Shuri	ɕ i n a	ɕ i n a	456
+977	Tokyo	ts u n a	ts u n a	456
+978	Kyoto	n a w a	n a w a	457
+979	Sado	n a w a	n a w a	457

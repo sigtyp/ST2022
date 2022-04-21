@@ -1,0 +1,1122 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	Achang	m ṵ ⁵	m ṵ ⁵	5
+2	Bela	m ə ⁵²	m ə ⁵²	5
+3	Lashi	m ɔ ⁵³	m ɔ ⁵³	5
+4	Zaiwa	m ɔ ⁴	m ɔ ⁴	5
+5	Lashi	ŋ ãɪ ³	- ŋ ãɪ - ³	8
+6	Maru	ŋ ɪ n ⁴²	- ŋ ɪ n ⁴²	8
+7	WrittenBurmese	h n a ŋ	h n a ŋ -	8
+8	Zaiwa	ŋ a̰ n ⁵³	- ŋ a̰ n ⁵³	8
+9	Achang	dʒ w e ⁴⁵	dʒ w e ⁴⁵	9
+10	Maru	tʃʰ e ⁴³	tʃʰ - e ⁴³	9
+11	Lashi	w ɔ ⁵¹	- w ɔ - ⁵¹	10
+12	Phon	w a ʔ ⁵⁵	- w a ʔ ⁵⁵	10
+13	WrittenBurmese	r w a	r w a - -	10
+14	Achang	k a n ²	k a n ²	13
+15	Maru	g e n ⁴	g e n ⁴	13
+16	Zaiwa	g a n ²	g a n ²	13
+17	Lashi	l æ̰ p ⁵³	- l - æ̰ p ⁵³	14
+18	WrittenBurmese	h l j a p	h l j a p -	14
+19	Zaiwa	l a̰ p ⁴	- l - a̰ p ⁴	14
+20	Lashi	g w ɛ m ³	g - w ɛ m ³	15
+21	WrittenBurmese	k r w iː	k r w iː - -	15
+22	Zaiwa	g u m ⁵³	g - - u m ⁵³	15
+23	Achang	j æ t ²¹	j æ t ²¹	16
+24	Lashi	j ø p ³	j ø p ³	16
+25	WrittenBurmese	r i p	r i p -	16
+26	Zaiwa	v ʊ p ³	v ʊ p ³	16
+27	Lashi	p a ŋ ⁵³	p a ŋ ⁵³	17
+28	Maru	b a ʔ ²¹	b a ʔ ²¹	17
+29	Bela	k a ŋ ³	k - a ŋ ³	21
+30	Lashi	g j o t ⁵²	g j o t ⁵²	21
+31	Maru	g a ³¹	g - a - ³¹	21
+32	Zaiwa	g j ɔ ⁴	g j ɔ - ⁴	21
+33	Bela	j ə ²³	j ə - ²³	23
+34	Lashi	j ɪ n ⁵³	j ɪ n ⁵³	23
+35	Maru	j ɛ ʔ ²³	j ɛ ʔ ²³	23
+36	WrittenBurmese	j a	j a - -	23
+37	Bela	ʔ a ŋ ³	ʔ a ŋ ³	24
+38	Lashi	ʔ ai ²⁵	ʔ ai - ²⁵	24
+39	Maru	ʔ a ³²	ʔ a - ³²	24
+40	Zaiwa	ʔ ə ³	ʔ ə - ³	24
+41	Achang	j ɔ ³¹	j ɔ ³¹	25
+42	Lashi	j ɔ ⁴²	j ɔ ⁴²	25
+43	Bela	m a ²³	m a ²³	26
+44	Maru	m ɔ ³⁵	m ɔ ³⁵	26
+45	Zaiwa	m a ³	m a ³	26
+46	Achang	d z a n ⁴²	d z a n ⁴²	27
+47	Lashi	ts ai n ⁴	- ts ai n ⁴	27
+48	Maru	d z ɪ n ³¹	d z ɪ n ³¹	27
+49	Zaiwa	d z a n ⁵¹	d z a n ⁵¹	27
+50	Achang	d z o̰ ŋ ³²	d z o̰ ŋ ³²	31
+51	Bela	ts a ŋ ³	- ts a ŋ ³	31
+52	Lashi	ts o̰ ŋ ³²	- ts o̰ ŋ ³²	31
+53	Achang	t ḭ ³²	t ḭ ³²	32
+54	Bela	p i ³	p i ³	32
+55	Lashi	b i ³²	b i ³²	32
+56	Achang	dʒ ei ⁴²	dʒ ei ⁴²	33
+57	Phon	tsʰ i ⁵⁵	tsʰ i ⁵⁵	33
+58	WrittenBurmese	r e	r e -	33
+59	Bela	ɣ i ³	ɣ i - ³	34
+60	Lashi	g e ⁵¹	g e - ⁵¹	34
+61	Maru	ɣ i t ⁴	ɣ i t ⁴	34
+62	Zaiwa	ʔ ʊ̰ t ⁵	ʔ ʊ̰ t ⁵	34
+63	Lashi	b a ŋ ²³	b a ŋ ²³	36
+64	Maru	b a ŋ ³	b a ŋ ³	36
+65	WrittenBurmese	p a ŋ	p a ŋ -	36
+66	Zaiwa	b a ŋ ³	b a ŋ ³	36
+67	Lashi	l ai ³²	l ai ³²	37
+68	Maru	l ai ³²	l ai ³²	37
+69	WrittenBurmese	l ai	l ai -	37
+70	Zaiwa	l ai ³¹	l ai ³¹	37
+71	Achang	tʰ ɔ m ⁵	- tʰ - ɔ m ⁵	40
+72	Lashi	tʰ ø m ⁵	- tʰ - ø m ⁵	40
+73	Maru	tʰ a m ³²	- tʰ - a m ³²	40
+74	WrittenBurmese	h r w a mˀ	h r w a mˀ -	40
+75	Achang	b ɔ p ⁴³	b ɔ p ⁴³	41
+76	Lashi	b ø p ²¹	b ø p ²¹	41
+77	Maru	b a p ³²	b a p ³²	41
+78	Zaiwa	b ɔ ³	b ɔ - ³	41
+79	Achang	l a̰u ⁵¹	l a̰u ⁵¹	43
+80	Lashi	l au ⁵¹	l au ⁵¹	43
+81	Zaiwa	l au ⁵³	l au ⁵³	43
+82	Achang	s i ⁵	s i ⁵	45
+83	WrittenBurmese	s a	s a -	45
+84	Zaiwa	s u ³⁵	s u ³⁵	45
+85	Lashi	m j ḛ ⁴³	m j ḛ ⁴³	47
+86	Maru	m a ³²	m - a ³²	47
+87	Phon	m u	m - u -	47
+88	Zaiwa	m w i ⁵²	m w i ⁵²	47
+89	Achang	ʃ ə ⁴³	ʃ ə - ⁴³	48
+90	Lashi	ʃ o ⁵³	ʃ o - ⁵³	48
+91	WrittenBurmese	tʰ u mˀ	tʰ u mˀ -	48
+92	Zaiwa	tʃʰ ɔ ³²	tʃʰ ɔ - ³²	48
+93	Achang	h w i ⁵	h w i - ⁵	49
+94	Lashi	h ḛ i ⁴²	h - ḛ i ⁴²	49
+95	Zaiwa	h w i ³	h w i - ³	49
+96	Lashi	dʒ ɔ ʔ ³	dʒ ɔ ʔ ³	53
+97	Maru	dʒ o ʔ ³²	dʒ o ʔ ³²	53
+98	Phon	s e ⁵⁵	s e - ⁵⁵	54
+99	WrittenBurmese	s a m	s a m -	54
+100	Zaiwa	ʃ a m ⁵⁴	ʃ a m ⁵⁴	54
+101	Achang	l u k ³²	l u k ³²	56
+102	Lashi	l o ʔ ³⁴	l o ʔ ³⁴	56
+103	Maru	l au k ³²	l au k ³²	56
+104	Zaiwa	l ʊ p ³	l ʊ p ³	56
+105	Achang	kʰ j u ŋ ³²	kʰ j u ŋ ³²	57
+106	Zaiwa	kʰ j u ŋ ⁵³	kʰ j u ŋ ⁵³	57
+107	Lashi	ʔ o ʔ ⁵³	ʔ o ʔ ⁵³	58
+108	Maru	ʔ a̰u k ⁵	ʔ a̰u k ⁵	58
+109	Lashi	g j ɛ m ⁵³	g j ɛ m ⁵³	59
+110	Maru	dʒ a m ⁴	- dʒ a m ⁴	59
+111	Achang	kʰ j a m ⁴¹	kʰ j a m ⁴¹	60
+112	Lashi	kʰ au ³²	kʰ - au - ³²	60
+113	Maru	tʰ a ⁴	tʰ a ⁴	61
+114	WrittenBurmese	t aːu	t aːu -	61
+115	Bela	kʰ i ³	kʰ i - ³	63
+116	Lashi	g a m ³¹	g a m ³¹	63
+117	Maru	g e ⁴¹	g e - ⁴¹	63
+118	Zaiwa	g a m ⁵³	g a m ⁵³	63
+119	Achang	n j ɛ t ³²	n j ɛ t ³²	67
+120	Phon	m j ai ʔ ³¹	m j ai ʔ ³¹	67
+121	WrittenBurmese	m r a ts	m r a ts -	67
+122	Zaiwa	m ɪ t ⁴³	m - ɪ t ⁴³	67
+123	Bela	k i ⁵²	k i ⁵²	68
+124	Lashi	g i ²	g i ²	68
+125	Maru	g i ²	g i ²	68
+126	Achang	dʒ ei ⁵⁴	dʒ ei - ⁵⁴	73
+127	Maru	dʒ i t ⁴⁵	dʒ i t ⁴⁵	73
+128	WrittenBurmese	ts eˀ	ts eˀ - -	73
+129	Zaiwa	dʒ i ⁴	dʒ i - ⁴	73
+130	Lashi	ʃ i ⁵	ʃ i ⁵	74
+131	Phon	s i ³¹	s i ³¹	74
+132	Zaiwa	ʃ ɪ ³	ʃ ɪ ³	74
+133	Lashi	l a ³²	l a - ³²	80
+134	Maru	l ə ²	l ə - ²	80
+135	WrittenBurmese	l a k	l a k -	80
+136	Zaiwa	l ə ²	l ə - ²	80
+137	Lashi	b æ m ³¹	b æ m ³¹	81
+138	Maru	p ḛ ⁴²	p ḛ - ⁴²	81
+139	WrittenBurmese	p a m	p a m -	81
+140	Zaiwa	b a n ⁵³	b a n ⁵³	81
+141	Achang	tʃʰ a ³	tʃʰ a ³	84
+142	Lashi	tʃʰ a ⁵⁴	tʃʰ a ⁵⁴	84
+143	WrittenBurmese	h b i n	h b i n -	85
+144	Zaiwa	pʰ ɛ n ³	- pʰ ɛ n ³	85
+145	Achang	n j ṵ k ³⁵	n j ṵ k ³⁵	88
+146	Lashi	m j o k ⁵⁴	m j o k ⁵⁴	88
+147	Maru	m j æu ʔ ³²	m j æu ʔ ³²	88
+148	Zaiwa	m j u ʔ ⁵³	m j u ʔ ⁵³	88
+149	Achang	b ɛ ⁵	b ɛ ⁵	95
+150	WrittenBurmese	p a	p a -	95
+151	Bela	n a k ⁵²	n a k ⁵²	96
+152	Lashi	n o k ³²	n o k ³²	96
+153	Zaiwa	n u ʔ ³⁵	n u ʔ ³⁵	96
+154	Lashi	g ɔ ʔ ⁵²	g ɔ ʔ ⁵²	98
+155	Maru	k o̰ ʔ ⁵⁴	k o̰ ʔ ⁵⁴	98
+156	Phon	k ə	k ə - -	98
+157	Achang	h u ⁵	h u ⁵	99
+158	Lashi	h ø ⁵	h ø ⁵	99
+159	Maru	h au ³	h au ³	99
+160	Zaiwa	h u ³	h u ³	99
+161	Lashi	pʰ j u ²¹	pʰ j u ²¹	101
+162	Maru	pʰ j u ⁵¹	pʰ j u ⁵¹	101
+163	Phon	pʰ j u ⁵⁵	pʰ j u ⁵⁵	101
+164	Zaiwa	pʰ j u ⁵¹	pʰ j u ⁵¹	101
+165	Achang	l a ³	l a ³	102
+166	Lashi	l a ²	l a ²	102
+167	Maru	pʰ j a k ⁵	pʰ j a k ⁵	103
+168	Zaiwa	pʰ j i k ⁵	pʰ j i k ⁵	103
+169	Achang	l a ³	l a - ³	104
+170	Lashi	l a ²	l a - ²	104
+171	Zaiwa	l u m ⁴	l u m ⁴	104
+172	Achang	m i ⁵	m i ⁵	105
+173	Lashi	m ɯ̃ ⁵²	m ɯ̃ ⁵²	105
+174	Achang	w ɔ m ³	w ɔ m ³	107
+175	Lashi	w ø m ²	w ø m ²	107
+176	Maru	d z o ³¹	d z o - ³¹	108
+177	Zaiwa	d z a ŋ ³¹	d z a ŋ ³¹	108
+178	Achang	pʰ ə ³	pʰ ə - ³	109
+179	Maru	pʰ œ i ³²	pʰ œ i ³²	109
+180	Phon	pʰ u	pʰ u - -	109
+181	WrittenBurmese	p a	p a - -	109
+182	Achang	s a n ³	s a n ³	110
+183	Lashi	s ɨ ⁵	s ɨ - ⁵	110
+184	Phon	ʃ e ʔ	ʃ e ʔ -	110
+185	Zaiwa	tʃʰ ɪ ŋ ⁵³	tʃʰ ɪ ŋ ⁵³	110
+186	Lashi	k o̰ k ⁵⁴	k o̰ k ⁵⁴	111
+187	Phon	k o ʔ ⁵⁵	k o ʔ ⁵⁵	111
+188	Achang	g au ³⁴	g au - ³⁴	113
+189	Lashi	k au ²	k au - ²	113
+190	WrittenBurmese	k au ŋ	k au ŋ -	113
+191	Achang	n j æ̰ ṵ ʔ ⁵²	n j æ̰ ṵ ʔ ⁵²	114
+192	Lashi	n j au k ⁵³	n j au - k ⁵³	114
+193	Achang	dʒ ɔ ³	dʒ - ɔ ³	115
+194	Lashi	d z ə ⁴³	d z ə ⁴³	115
+195	Maru	kʰ a ²	kʰ - a ²	117
+196	Phon	k ə	k - ə -	117
+197	WrittenBurmese	k j aː	k j aː -	117
+198	Maru	m j a ŋ ³²	m j a ŋ ³²	118
+199	Zaiwa	m ɔ ³	m - ɔ - ³	118
+200	Achang	l ai ³⁴	- l ai ³⁴	121
+201	Lashi	l a ³	- l a ³	121
+202	WrittenBurmese	h lʷ a	h lʷ a -	121
+203	Zaiwa	l ə ³	- l ə ³	121
+204	Lashi	n ɔ̃ ʔ ³¹	n ɔ̃ ʔ ³¹	123
+205	Zaiwa	n ɔ ʔ ³²	n ɔ ʔ ³²	123
+206	Bela	n a ʔ ⁵²	n a ʔ ⁵²	126
+207	Lashi	n ɔ̃ ʔ ³	n ɔ̃ ʔ ³	126
+208	Zaiwa	ŋ ɔ ³	ŋ ɔ - ³	126
+209	Lashi	l a ⁵³	l a ⁵³	128
+210	Maru	l ə	l ə -	128
+211	Phon	kʰ w e ⁵⁵	kʰ w e ⁵⁵	129
+212	Zaiwa	kʰ w i ³²	kʰ w i ³²	129
+213	Achang	dʒ j æ p ⁴²	dʒ j æ p ⁴²	130
+214	Lashi	g j æ p ³	g j æ p ³	130
+215	Maru	ɣ e ʔ ³	- ɣ e ʔ ³	130
+216	Achang	ŋ a t ³¹	ŋ a t ³¹	131
+217	Lashi	ŋ ai t ³	ŋ ai t ³	131
+218	Maru	n a ³²	n a - ³²	131
+219	Zaiwa	ŋ a t ³²	ŋ a t ³²	131
+220	Maru	dʒ au ŋ ⁵¹	dʒ au ŋ ⁵¹	134
+221	Zaiwa	dʒ u ŋ ⁵³	dʒ u ŋ ⁵³	134
+222	Achang	l j a̰ ŋ k ⁵³	l j a̰ ŋ k ⁵³	138
+223	Lashi	j a̰ ŋ k ⁵³	- j a̰ ŋ k ⁵³	138
+224	Bela	sʰ a ²³	sʰ a ²³	140
+225	Maru	ʃ ɪ ⁴	ʃ ɪ ⁴	140
+226	Zaiwa	ʃ ɔ ⁴³	ʃ ɔ ⁴³	140
+227	Achang	tsʰ a ŋ ³	tsʰ a ŋ ³	141
+228	Lashi	tsʰ a ŋ ²	tsʰ a ŋ ²	141
+229	Maru	tsʰ a ⁵³	tsʰ a - ⁵³	141
+230	WrittenBurmese	tsʰ a ŋ	tsʰ a ŋ -	141
+231	Lashi	ʔ a ³	ʔ a ³	147
+232	WrittenBurmese	ʔ ə	ʔ ə -	147
+233	Achang	b ɛ ³	b ɛ ³	151
+234	Lashi	b ə ³	b ə ³	151
+235	WrittenBurmese	b a	b a -	151
+236	Achang	l a̰ ŋ ³	l a̰ ŋ ³	153
+237	Lashi	l a̰ ŋ ³⁴	l a̰ ŋ ³⁴	153
+238	Maru	l a̰ ³	l a̰ - ³	153
+239	Zaiwa	l a̰ ŋ ⁵³	l a̰ ŋ ⁵³	153
+240	Lashi	dʒ ɛ ⁵	dʒ - ɛ - ⁵	155
+241	Zaiwa	d z u ŋ ³	d z u ŋ ³	155
+242	Achang	m a n ³¹	m a n ³¹	156
+243	Phon	m i ³¹	m i - ³¹	156
+244	WrittenBurmese	m iˀ	m iˀ - -	156
+245	Achang	b au ³	b - au ³	158
+246	Phon	p u ³¹	p - u ³¹	158
+247	WrittenBurmese	p w iː	p w iː -	158
+248	Zaiwa	b au ³¹	b - au ³¹	158
+249	Achang	n j ɔ̰ ⁴²	n j ɔ̰ ⁴²	159
+250	Lashi	m j ɛ ³	m j ɛ ³	159
+251	Zaiwa	m j a̰ ⁴	m j a̰ ⁴	159
+252	Bela	k o ŋ ⁵²	k o ŋ ⁵²	160
+253	Lashi	g a ŋ ³²	g a ŋ ³²	160
+254	Maru	g a ³²	g a - ³²	160
+255	Zaiwa	g ɔ ŋ ³²	g ɔ ŋ ³²	160
+256	Achang	s o t ⁵	s o t ⁵	161
+257	Maru	s ai t ⁵	s ai t ⁵	161
+258	Zaiwa	s ʊ t ⁵	s ʊ t ⁵	161
+259	Lashi	j ɛ m ³	j ɛ m ³	162
+260	WrittenBurmese	ʔ i m	ʔ i m -	162
+261	Achang	dʒ a ŋ ³	dʒ a ŋ ³	164
+262	Maru	dʒ a̰ ³²	dʒ a̰ - ³²	164
+263	Zaiwa	dʒ a ŋ ³²	dʒ a ŋ ³²	164
+264	Achang	n ə ³	n ə ³	167
+265	Lashi	n ə ³²	n ə ³²	167
+266	Maru	n ə ²	n ə ²	167
+267	Achang	b a p ³¹	b a p ³¹	168
+268	Lashi	b ai t ³²	b ai t ³²	168
+269	Maru	b e ʔ ²¹	b e ʔ ²¹	168
+270	WrittenBurmese	p a k	p a k -	168
+271	Achang	kʰ u ŋ ⁵	kʰ u ŋ ⁵	172
+272	Lashi	kʰ o ŋ ⁵	kʰ o ŋ ⁵	172
+273	Phon	k ə	k ə - -	172
+274	Zaiwa	kʰ u ŋ ³¹	kʰ u ŋ ³¹	172
+275	Phon	p j a ⁵⁵	p j a ⁵⁵	175
+276	WrittenBurmese	p r a	p r a -	175
+277	Achang	g u ŋ ³¹	g u ŋ ³¹	176
+278	Lashi	g o ŋ ⁵²	g o ŋ ⁵²	176
+279	WrittenBurmese	k a ŋ	k a ŋ -	176
+280	Achang	g au ⁵	g au ⁵	177
+281	Lashi	g au ⁵	g au ⁵	177
+282	Phon	k o ³¹	k o ³¹	177
+283	WrittenBurmese	k au k	k au k -	178
+284	Zaiwa	g ɔ k ⁴	g ɔ k ⁴	178
+285	Achang	l ɔ m ⁵³	l ɔ m ⁵³	180
+286	Bela	l a m ⁵²	l a m ⁵²	180
+287	Lashi	l ø̃ m ⁵¹	l ø̃ m ⁵¹	180
+288	Zaiwa	l ṵ m ³¹	l ṵ m ³¹	180
+289	Achang	n ɔ̰ ³¹	- n ɔ̰ ³¹	182
+290	Lashi	n ɔ̃ ³	- n ɔ̃ ³	182
+291	Maru	n ɔ ³	- n ɔ ³	182
+292	WrittenBurmese	h n a	h n a -	182
+293	Achang	m i ³²	m i - ³²	188
+294	Bela	m au ŋ ²³	m au ŋ ²³	188
+295	Lashi	m ɨ ³	m ɨ - ³	188
+296	Zaiwa	m au ³	m au - ³	188
+297	Achang	dʒ i ⁴³	dʒ i ⁴³	190
+298	Bela	ts i ²³	ts i ²³	190
+299	Phon	s i ³¹	s i ³¹	190
+300	Zaiwa	dʒ i ³	dʒ i ³	190
+301	Achang	k ṵ k ⁵⁴	k ṵ k ⁵⁴	191
+302	Lashi	g o k ⁵³	g o k ⁵³	191
+303	WrittenBurmese	k a m	k a m -	191
+304	Zaiwa	k ṵ ʔ ⁵	k ṵ ʔ ⁵	191
+305	Achang	l ɔ t ⁴³	l ɔ t ⁴³	194
+306	Lashi	l oi ʔ ³²	l oi ʔ ³²	194
+307	Bela	k j ɛ ²³	k j ɛ - ²³	196
+308	Lashi	kʰ j æ p ⁵³	kʰ j æ p ⁵³	196
+309	Zaiwa	kʰ j æ p ⁵	kʰ j æ p ⁵	196
+310	Bela	ʃʰ a ⁵²	- ʃʰ a ⁵²	198
+311	Maru	ʃ ɔ ⁵¹	- ʃ ɔ ⁵¹	198
+312	Zaiwa	m w i ³¹	m w i ³¹	198
+313	Achang	d j ɔ̰ ³	d j ɔ̰ - ³	199
+314	Lashi	j ɔ ⁴³	- j ɔ - ⁴³	199
+315	Phon	j a ʔ ⁵⁵	- j a ʔ ⁵⁵	199
+316	Phon	s ɛ	s - ɛ	201
+317	WrittenBurmese	s w aː	s w aː	201
+318	Achang	n j e ŋ ³¹	n j e ŋ ³¹	202
+319	Maru	n j ɛ n ³¹	n j ɛ n ³¹	202
+320	Achang	ʔ a m ³	ʔ a m ³	203
+321	Lashi	ʔ æ m ³	ʔ æ m ³	203
+322	Maru	ʔ e ³²	ʔ e - ³²	203
+323	Zaiwa	ʔ a m ⁵	ʔ a m ⁵	203
+324	Achang	tʃʰ a m ⁵	tʃʰ a m ⁵	204
+325	Lashi	tʃʰ æ m ⁴	tʃʰ æ m ⁴	204
+326	WrittenBurmese	ts eˀ	ts eˀ - -	204
+327	Zaiwa	tʰ a ŋ ⁵³	tʰ a ŋ ⁵³	204
+328	Achang	j u k ⁴³	- j u k ⁴³	207
+329	Lashi	g j ɛ t ⁴	g j ɛ t ⁴	207
+330	WrittenBurmese	r i t	- r i t -	207
+331	Achang	n o ŋ ⁵	n o ŋ ⁵	208
+332	Lashi	n o ŋ ⁴⁵	n o ŋ ⁴⁵	208
+333	WrittenBurmese	n au k	n au k -	208
+334	Achang	m a n ⁵	m a - n ⁵	219
+335	Lashi	m oi ⁴⁵	m oi - - ⁴⁵	219
+336	Maru	m a̰ ḭ t ⁵	m a̰ ḭ t ⁵	219
+337	Zaiwa	m u n ³⁴	m u - n ³⁴	219
+338	Achang	g w e ³	g w e ³	221
+339	Lashi	g w e ⁵³	g w e ⁵³	221
+340	Lashi	tʃʰ æ p ⁵³	tʃʰ æ p ⁵³	222
+341	Maru	tʃʰ ɛ ʔ ⁴³	tʃʰ ɛ ʔ ⁴³	222
+342	Lashi	kʰ j o ŋ ⁴	kʰ j - o ŋ ⁴	223
+343	Maru	kʰ æu ŋ ⁴²	kʰ - - æu ŋ ⁴²	223
+344	WrittenBurmese	kʰ j w i ŋ	kʰ j w i ŋ -	223
+345	Achang	tʃʰ o ʔ ⁵³	tʃʰ o ʔ ⁵³	226
+346	Lashi	tʃʰ o ŋ ⁵³	tʃʰ o ŋ ⁵³	226
+347	WrittenBurmese	tsʰ au ŋˀ	tsʰ au ŋˀ -	226
+348	Zaiwa	tʃʰ ə ⁵	tʃʰ ə - ⁵	226
+349	Achang	d a ŋ ⁵	d a ŋ ⁵	227
+350	Bela	t o ŋ ²³	t o ŋ ²³	227
+351	Lashi	d a ŋ ⁵	d a ŋ ⁵	227
+352	Zaiwa	d a ŋ ³²	d a ŋ ³²	227
+353	Achang	pʰ ə ⁵	pʰ - ə - ⁵	229
+354	Lashi	b w e ⁵³	b w e - ⁵³	229
+355	Maru	p a̰ t ⁵	p - a̰ t ⁵	229
+356	WrittenBurmese	p u	p - u - -	229
+357	Achang	l u k ⁵⁴	l u k ⁵⁴	230
+358	Lashi	l o ʔ ³²	l o ʔ ³²	230
+359	Maru	l au ʔ ³	l au ʔ ³	230
+360	Achang	tʃʰ a p ⁵⁴	tʃʰ a p ⁵⁴	231
+361	Phon	tsʰ i ʔ ⁵⁵	tsʰ i ʔ ⁵⁵	231
+362	WrittenBurmese	tsʰ a ts	tsʰ a ts -	231
+363	Achang	p ṵ ʔ ⁵⁴	p ṵ ʔ ⁵⁴	232
+364	Lashi	b u ʔ ⁵³	b u ʔ ⁵³	232
+365	Maru	b au ³	b au - ³	232
+366	Zaiwa	b u ³	b u - ³	232
+367	Achang	n j a̰ ŋ ⁵	n j a̰ ŋ ⁵	233
+368	Maru	m a̰ ⁴	m - a̰ - ⁴	233
+369	Zaiwa	m j a̰ ŋ ³²	m j a̰ ŋ ³²	233
+370	Achang	k a̰ ŋ ³	k a̰ ŋ - ³	234
+371	Lashi	g a ŋ k ⁵²	g a ŋ k ⁵²	234
+372	Maru	k a̰u ŋ ⁴	k a̰u ŋ - ⁴	234
+373	Lashi	tʰ u ŋ ⁴	tʰ u ŋ ⁴	236
+374	Maru	tʰ au ŋ ²	tʰ au ŋ ²	236
+375	Phon	tʰ a ŋ ³¹	tʰ a ŋ ³¹	236
+376	Zaiwa	tʰ a ŋ ⁴³	tʰ a ŋ ⁴³	236
+377	Lashi	tʃʰ a m ⁵⁴	tʃʰ a m ⁵⁴	240
+378	Maru	tʃʰ e ⁴²	tʃʰ e - ⁴²	240
+379	Zaiwa	tʃʰ a m ³²	tʃʰ a m ³²	240
+380	Achang	j ei ³¹	j ei ³¹	243
+381	Lashi	j e ⁵¹	j e ⁵¹	243
+382	Phon	ɹ i	ɹ i -	243
+383	WrittenBurmese	r e	r e -	243
+384	Bela	p au ⁵²	p - au ⁵²	245
+385	Lashi	b j e ³¹	b j e ³¹	245
+386	Maru	b au ³¹	b - au ³¹	245
+387	Zaiwa	b w i ³²	b w i ³²	245
+388	Lashi	f w e ʔ ⁵³	f w e ʔ ⁵³	247
+389	Maru	f a k ⁵	f - a k ⁵	247
+390	Achang	j ḛ ḭ ⁵	j ḛ ḭ ⁵	249
+391	Lashi	j ḛ ⁵	j ḛ - ⁵	249
+392	Maru	ʔ ḭ t ⁵	ʔ ḭ t ⁵	249
+393	Zaiwa	ʔ i ³	ʔ i - ³	249
+394	Phon	sʰ i ³¹	sʰ i ³¹	250
+395	WrittenBurmese	s eː	s eː -	250
+396	Zaiwa	ʃ i ⁵³	ʃ i ⁵³	250
+397	Bela	j au ʔ ⁵²	j au ʔ ⁵²	251
+398	Phon	j o k ⁵⁵	j o k ⁵⁵	251
+399	WrittenBurmese	j au k	j au k -	251
+400	Zaiwa	j u ʔ ⁴	j u ʔ ⁴	251
+401	Bela	ɣ ɛ ⁵²	ɣ ɛ ⁵²	254
+402	Lashi	j e ⁴	j e ⁴	254
+403	Maru	ɣ e ²	ɣ e ²	254
+404	Achang	ʔ u ŋ ³	ʔ u ŋ ³	258
+405	Bela	ʔ a	ʔ a - -	258
+406	Lashi	ʔ a ³	ʔ a - ³	258
+407	Phon	ʔ ə	ʔ ə - -	258
+408	Achang	w ɛ ³¹	w ɛ - ³¹	259
+409	Lashi	j ḛ ʔ ⁵³	j ḛ ʔ ⁵³	259
+410	Maru	j ɪ p ²	j ɪ p ²	259
+411	Phon	j i ³¹	j i - ³¹	259
+412	Lashi	n o ŋ	n o ŋ -	260
+413	Maru	m ḭ ⁴²	m ḭ - ⁴²	260
+414	WrittenBurmese	m iˀ	m iˀ - -	260
+415	Achang	ʃ a ŋ ³	ʃ a ŋ ³	261
+416	Phon	s ə	s ə - -	261
+417	WrittenBurmese	s aː	s aː - -	261
+418	Zaiwa	ʃ a ŋ ⁵³	ʃ a ŋ ⁵³	261
+419	Achang	l ə ³	l ə ³	262
+420	WrittenBurmese	l eː	l eː -	262
+421	Lashi	d z u ⁴	d z u ⁴	263
+422	Maru	d z o ³²	d z o ³²	263
+423	Zaiwa	dʒ ə ³	dʒ - ə ³	263
+424	Achang	m ɔ ʔ ⁴³	m ɔ ʔ ⁴³	264
+425	Lashi	m ɔ ʔ ⁴	m ɔ ʔ ⁴	264
+426	Phon	m o ʔ ³¹	m o ʔ ³¹	264
+427	WrittenBurmese	m a k	m a k -	264
+428	Maru	ʔ o k ⁴²	ʔ o k ⁴²	265
+429	Zaiwa	ʔ a̰u ⁵³	ʔ a̰u - ⁵³	265
+430	Achang	j ɛ̰ n ⁴	j ɛ̰ n ⁴	266
+431	Lashi	j o k ³	j o k ³	266
+432	Maru	j a̰ m ³²	j a̰ m ³²	266
+433	Zaiwa	j a̰ ŋ ³	j a̰ ŋ ³	266
+434	Achang	s ai n ⁴³	s ai n ⁴³	267
+435	Maru	s a ŋ ²¹	s a ŋ ²¹	267
+436	Achang	pʰ ɔ ʔ ³¹	pʰ ɔ ʔ ³¹	268
+437	Maru	pʰ o ³	pʰ o - ³	268
+438	Bela	l o ŋ ³	l o ŋ ³	269
+439	Phon	l o ⁵⁵	l o - ⁵⁵	269
+440	WrittenBurmese	l a ŋ	l a ŋ -	269
+441	Zaiwa	l a ŋ ⁵³	l a ŋ ⁵³	269
+442	Achang	d j ɛ n ³¹	d j ɛ n ³¹	276
+443	Bela	p w i ³	p w i - ³	276
+444	Lashi	b j e ŋ ⁵³	b j e ŋ ⁵³	276
+445	Maru	b j ɪ n ²¹	b j ɪ n ²¹	276
+446	Achang	kʰ au ³	kʰ au - ³	280
+447	Lashi	g o ŋ ⁵¹	g o ŋ ⁵¹	280
+448	Maru	kʰ au ŋ ²	kʰ au ŋ ²	280
+449	Phon	kʰ ə	kʰ ə - -	280
+450	Achang	l ṵ ³	l ṵ - ³	282
+451	Phon	ɹ i ³¹	ɹ i - ³¹	282
+452	WrittenBurmese	l a m	l a m -	282
+453	Maru	ɣ i t ²	ɣ i t ²	284
+454	WrittenBurmese	ʔ ə	ʔ ə - -	284
+455	Zaiwa	w i ³	w i - ³	284
+456	Lashi	d w a ŋ ³¹	d w a ŋ ³¹	287
+457	WrittenBurmese	t a ŋ	t - a ŋ -	287
+458	Zaiwa	d ɔ ŋ ³¹	d - ɔ ŋ ³¹	287
+459	Achang	b ai ʔ ⁴¹	b ai ʔ ⁴¹	288
+460	WrittenBurmese	p au k	p au k -	288
+461	Achang	dʒ ei ³¹	dʒ ei - ³¹	290
+462	Lashi	g e ⁵	g e - ⁵	290
+463	Maru	g i t ³	g i t ³	290
+464	Zaiwa	g i ⁴³	g i - ⁴³	290
+465	Achang	dʒ ə̰ ³	dʒ ə̰ ³	291
+466	Bela	tsʰ i	tsʰ i -	291
+467	Phon	tʰ o ⁵⁵	tʰ o ⁵⁵	291
+468	Zaiwa	tsʰ ə ⁵⁴	tsʰ ə ⁵⁴	291
+469	Achang	tʰ a n ³	tʰ a n ³	292
+470	Lashi	tʰ ãɪ ⁵²	tʰ ãɪ - ⁵²	292
+471	Maru	tʰ ɪ n ⁴¹	tʰ ɪ n ⁴¹	292
+472	Zaiwa	tʃʰ ə ⁴	tʃʰ ə - ⁴	292
+473	WrittenBurmese	pʰ j a	pʰ j a -	293
+474	Zaiwa	pʰ j ɔ ⁵³	pʰ j ɔ ⁵³	293
+475	Achang	m i ³¹	m i - ³¹	296
+476	Lashi	m ḛ ḭ ⁵¹	m ḛ ḭ ⁵¹	296
+477	Maru	m ai ³²	m ai - ³²	296
+478	Maru	pʰ o ʔ ⁴	pʰ o ʔ ⁴	297
+479	Zaiwa	pʰ ə ³	pʰ ə - ³	297
+480	WrittenBurmese	ts au ŋ	ts au ŋ -	298
+481	Zaiwa	dʒ ɔ ŋ ³⁴	dʒ ɔ ŋ ³⁴	298
+482	Bela	p ṵ ⁵²	p ṵ ⁵²	299
+483	Maru	b au ²	b au ²	299
+484	Zaiwa	b u ³¹	b u ³¹	299
+485	Achang	l ṵ ⁵	l ṵ - ⁵	303
+486	Lashi	l o ⁴	l o - ⁴	303
+487	WrittenBurmese	l u m	l u m -	303
+488	Maru	k a̰ ŋ ³²	k a̰ ŋ ³²	304
+489	WrittenBurmese	kʰ a ɲ	kʰ a ɲ -	304
+490	Achang	kʰ j a ʔ ⁵³	kʰ j a ʔ ⁵³	305
+491	Lashi	kʰ j a ʔ ⁵³	kʰ j a ʔ ⁵³	305
+492	Zaiwa	kʰ a p ³²	kʰ - a p ³²	305
+493	Achang	k j ɔ̰ p ⁵³	k j ɔ̰ p ⁵³	310
+494	WrittenBurmese	tsʷ a p	- tsʷ a p -	310
+495	Zaiwa	dʒ ɔ p ⁵⁴	- dʒ ɔ p ⁵⁴	310
+496	Lashi	b ai n ⁴	b ai n ⁴	311
+497	Maru	p ḛ n ²	p ḛ n ²	311
+498	Achang	k j ḛ ḭ ³	k j ḛ ḭ ³	316
+499	Lashi	g e ³¹	g - e - ³¹	316
+500	WrittenBurmese	k j a ɲ	k j a ɲ -	316
+501	Zaiwa	g i ⁵³	g - i - ⁵³	316
+502	Achang	m ɔ t ⁴²	m ɔ t ⁴²	317
+503	Lashi	m oi ʔ ³	m oi ʔ ³	317
+504	Lashi	d z ɔ ³	d z ɔ ³	318
+505	Zaiwa	dʒ ɔ ⁵³	dʒ - ɔ ⁵³	318
+506	Achang	b a n ³¹	b a n ³¹	319
+507	Lashi	b ãɪ ⁵¹	b ãɪ - ⁵¹	319
+508	Maru	b a n ³¹	b a n ³¹	319
+509	WrittenBurmese	p a n	p a n -	319
+510	Maru	d z o ³²	d z o - ³²	320
+511	WrittenBurmese	ʔ a ŋ	- ʔ a ŋ -	320
+512	Zaiwa	d z a ŋ ³¹	d z a ŋ ³¹	320
+513	Maru	kʰ j u m ⁴³	kʰ j u m ⁴³	323
+514	WrittenBurmese	kʰ a p	kʰ - a p -	323
+515	Achang	j a p ⁴²	j a p ⁴²	324
+516	Lashi	j æ p ³	j æ p ³	324
+517	Zaiwa	v a p ⁵	v a p ⁵	324
+518	Achang	pʰ ə ³	pʰ - ə ³	326
+519	WrittenBurmese	pʰ aˀ	pʰ - aˀ -	326
+520	Zaiwa	b j ɔ ³	b j ɔ ³	326
+521	Achang	j æu ŋ ⁵	j æu ŋ ⁵	327
+522	WrittenBurmese	j au ŋ	j au ŋ -	327
+523	Lashi	d z ə ŋ ⁵¹	d z ə ŋ ⁵¹	328
+524	Maru	ts a̰ ŋ ⁴¹	- ts a̰ ŋ ⁴¹	328
+525	Zaiwa	d z i ŋ ⁵	d z i ŋ ⁵	328
+526	Achang	m a ŋ ⁵	m a ŋ ⁵	329
+527	Lashi	m a ŋ ³⁴	m a ŋ ³⁴	329
+528	Maru	m a ³⁴³	m a - ³⁴³	329
+529	Phon	m ɔ ŋ ³¹	m ɔ ŋ ³¹	329
+530	Achang	h j æu ⁵	h j æu ⁵	334
+531	Bela	k j a̰ ⁵²	k j a̰ ⁵²	334
+532	Lashi	ʃ au ⁵	- ʃ au ⁵	334
+533	Zaiwa	w ɔ ⁴	w - ɔ ⁴	334
+534	Maru	l a p ³²	l a p ³²	339
+535	Zaiwa	l ʊ p ³	l ʊ p ³	339
+536	Achang	j w a t ⁴²	j w a t ⁴²	343
+537	Lashi	j oi ʔ ²	j - oi ʔ ²	343
+538	Maru	v w e ³⁴	v w e - ³⁴	343
+539	Maru	m ø ʔ ⁵⁴	m - ø ʔ ⁵⁴	344
+540	Phon	m j e ʔ ³¹	m j e ʔ ³¹	344
+541	WrittenBurmese	m w a t	m w a t -	344
+542	Zaiwa	m ʊ t ³²	m - ʊ t ³²	344
+543	Lashi	g i ³	g i ³	345
+544	Maru	kʰ i ⁵⁴	kʰ i ⁵⁴	345
+545	Zaiwa	g i ³¹	g i ³¹	345
+546	Achang	d u k ⁴²	d u k ⁴²	349
+547	Lashi	d o k ³	d o k ³	349
+548	Maru	d au t ⁴²	d au t ⁴²	349
+549	Lashi	b i ⁴⁵	b i ⁴⁵	350
+550	Zaiwa	b e ³²	b e ³²	350
+551	Achang	d j ɛ ⁵	d j ɛ - ⁵	351
+552	Lashi	p j a̰ ʔ ⁵³	p j a̰ ʔ ⁵³	351
+553	Maru	pʰ ø ⁵	pʰ - ø - ⁵	351
+554	WrittenBurmese	p r a ts	p r a ts -	351
+555	Achang	ts a̰u ⁵	- ts a̰u - ⁵	353
+556	Lashi	d z au ⁵³	d z au - ⁵³	353
+557	Maru	d z o̰ ʔ ⁵⁴	d z o̰ ʔ ⁵⁴	353
+558	Phon	sʰ o ³¹	- sʰ o - ³¹	353
+559	Zaiwa	d z au ³²	d z au - ³²	353
+560	Achang	dʒ ei ³	dʒ ei ³	354
+561	Lashi	dʒ e ⁴³	dʒ e ⁴³	354
+562	Maru	tʃʰ ɔ ³	tʃʰ ɔ ³	355
+563	Zaiwa	tʃʰ ɪ ³²	tʃʰ ɪ ³²	355
+564	Achang	h a m ⁵	h a m ⁵	356
+565	Lashi	h a m ⁴	h a m ⁴	356
+566	Maru	h e ⁴	h e - ⁴	356
+567	WrittenBurmese	h a n	h a n -	356
+568	Zaiwa	h a m ²¹	h a m ²¹	356
+569	Achang	s ɔ ʔ ⁵³	s ɔ ʔ ⁵³	357
+570	Lashi	s ɔ ʔ ⁵³	s ɔ ʔ ⁵³	357
+571	Maru	s ɔ ʔ ⁵⁴	s ɔ ʔ ⁵⁴	357
+572	WrittenBurmese	s a k	s a k -	357
+573	Zaiwa	s ɔ ʔ ⁵⁴	s ɔ ʔ ⁵⁴	357
+574	Achang	ʃ ɛ t ³¹	ʃ ɛ t ³¹	358
+575	Lashi	ʃ ɛ ³¹	ʃ ɛ - ³¹	358
+576	Maru	ʃ ɛ ³¹	ʃ ɛ - ³¹	358
+577	Phon	ʃ e t	ʃ e t -	358
+578	Zaiwa	ʃ e ³¹	ʃ e - ³¹	358
+579	Maru	n a̰ ḭ t ⁵⁴	n a̰ ḭ t ⁵⁴	359
+580	Zaiwa	n ʊ̰ t ⁵	n ʊ̰ - t ⁵	359
+581	Achang	d j ɔ ʔ ³¹	- d j ɔ ʔ ³¹	361
+582	Lashi	j ɔ̰ ʔ ³²	- - j ɔ̰ ʔ ³²	361
+583	Maru	j ɔ ʔ ³²	- - j ɔ ʔ ³²	361
+584	WrittenBurmese	h l j a k	h l j a k -	361
+585	Zaiwa	j ɔ ʔ ³²	- - j ɔ ʔ ³²	361
+586	Achang	t a̰ ḭ ʔ ⁵³	t a̰ ḭ ʔ ⁵³	363
+587	Bela	t ḭ ²³	t ḭ - - ²³	363
+588	Lashi	d a ŋ ²	d a - ŋ ²	363
+589	Zaiwa	d a ŋ ⁴³	d a - ŋ ⁴³	363
+590	Maru	dʒ au ²	dʒ - au ²	364
+591	WrittenBurmese	tsʰ w i	tsʰ w i -	364
+592	Achang	t a̰ ḭ ⁵³	t a̰ ḭ ⁵³	365
+593	Lashi	d e ʔ ³¹	d e ʔ ³¹	365
+594	Maru	d a ⁴³	d a - ⁴³	365
+595	Zaiwa	t a̰ ḭ ⁵³	t a̰ ḭ ⁵³	365
+596	Achang	g j ɔ ⁵	g j ɔ ⁵	366
+597	Lashi	g j ɔ ³	g j ɔ ³	366
+598	Maru	g j ɔ ³²	g j ɔ ³²	366
+599	Achang	k a̰ ḭ ʔ ⁵³	k a̰ ḭ ʔ ⁵³	367
+600	Maru	g e ʔ ⁴²	g e - ʔ ⁴²	367
+601	Zaiwa	g ə ³	g ə - - ³	367
+602	Maru	h o k ⁵⁴	h o k ⁵⁴	368
+603	WrittenBurmese	h a ts	h a ts -	368
+604	Lashi	d w ɛ m ³²	d w ɛ m ³²	369
+605	Maru	d u k ⁵	d - u k ⁵	369
+606	Phon	tʰ u ³¹	tʰ - u - ³¹	369
+607	Zaiwa	t a̰u ³¹	t - a̰u - ³¹	369
+608	Lashi	d e ʔ ³²	d e ʔ ³²	370
+609	Maru	d a ⁴³	d a - ⁴³	370
+610	Achang	pʰ u k ⁵³	pʰ - u k ⁵³	371
+611	WrittenBurmese	pʰ r euˀ	pʰ r euˀ - -	371
+612	Lashi	m au ʔ ³¹	m au ʔ ³¹	372
+613	Maru	m o̰ k ⁵⁴	m o̰ k ⁵⁴	372
+614	Zaiwa	m a̰u ⁵²	m a̰u - ⁵²	372
+615	Achang	tʃʰ u ŋ ⁵	tʃʰ - u ŋ ⁵	373
+616	Maru	tʃʰ æu ŋ ⁴³	tʃʰ - æu ŋ ⁴³	373
+617	WrittenBurmese	tsʰ w i	tsʰ w i - -	373
+618	Bela	k j ḛ ʔ ³	k j ḛ ʔ ³	374
+619	Lashi	kʰ oi ⁴³	kʰ - oi - ⁴³	374
+620	WrittenBurmese	k j u	k j u - -	374
+621	Achang	ŋ a̰ m ⁵³	- ŋ a̰ m ⁵³	375
+622	Lashi	m j e ³²	m j e - ³²	375
+623	Maru	m i t ³	m - i t ³	375
+624	Zaiwa	m ɪ t ³	m - ɪ t ³	375
+625	Achang	t ɔ̰ ⁴⁵	t ɔ̰ - ⁴⁵	377
+626	Lashi	d ɔ ³⁴	d ɔ - ³⁴	377
+627	Maru	t o̰ ʔ ⁵	t o̰ ʔ ⁵	377
+628	Zaiwa	t ɔ̰ ⁵⁴	t ɔ̰ - ⁵⁴	377
+629	Achang	n j ḛ k ⁵²	n j ḛ k ⁵²	378
+630	Lashi	m j ɛ̰ ʔ ⁵²	m j ɛ̰ ʔ ⁵²	378
+631	Maru	m ḭ t ⁵⁴	m - ḭ t ⁵⁴	378
+632	WrittenBurmese	m eˀ	m - eˀ - -	378
+633	Zaiwa	m ḭ ⁵³	m - ḭ - ⁵³	378
+634	Achang	kʰ j ɛ n ³	kʰ j ɛ n ³	379
+635	Lashi	kʰ j e ⁴³	kʰ j e - ⁴³	379
+636	Maru	kʰ ɪ n ⁴³	kʰ - ɪ n ⁴³	379
+637	WrittenBurmese	kʰ j ai	kʰ j ai - -	379
+638	Zaiwa	kʰ ɪ n ⁴²	kʰ - ɪ n ⁴²	379
+639	Lashi	j u ³¹	j - u ³¹	380
+640	Maru	j u ³	j - u ³	380
+641	WrittenBurmese	r w eː	r w eː -	380
+642	Achang	dʒ ɛ t ⁵⁴	dʒ ɛ t ⁵⁴	381
+643	Maru	dʒ i t ⁵	dʒ i t ⁵	381
+644	Achang	d a p ³¹	d a p ³¹	382
+645	Maru	d e ³²	d e - ³²	382
+646	Lashi	ʔ a ²	ʔ a ²	383
+647	Zaiwa	ʔ a ²	ʔ a ²	383
+648	Achang	l a ŋ ⁵	l a ŋ ⁵	384
+649	Lashi	l a ŋ ³	l a ŋ ³	384
+650	Maru	l a ²⁵	l a - ²⁵	384
+651	Zaiwa	l a ŋ ³⁴	l a ŋ ³⁴	384
+652	Maru	n a ⁵²	n a - ⁵²	385
+653	WrittenBurmese	ŋ a mˀ	ŋ a mˀ -	385
+654	Achang	s w a n ³	s w a n ³	386
+655	Lashi	s oe ³	s - oe - ³	386
+656	Bela	ŋ w ɛ̰ ʔ	ŋ w ɛ̰ ʔ -	387
+657	Maru	ŋ ḭ ʔ ⁵	ŋ - ḭ ʔ ⁵	387
+658	Zaiwa	ŋ a̰ p ⁵⁴	ŋ - a̰ p ⁵⁴	387
+659	Achang	g j u k ⁴²	g j u k ⁴²	388
+660	Lashi	g j o k ³²	g j o k ³²	388
+661	Maru	g j æu ʔ ⁴³	g j æu ʔ ⁴³	388
+662	WrittenBurmese	k r au k	k r au k -	388
+663	Zaiwa	g j u ʔ ³²	g j u ʔ ³²	388
+664	Achang	j ɔ̰ ³²	j ɔ̰ ³²	390
+665	Bela	j a ⁵²	j a ⁵²	390
+666	Lashi	j ɔ ²¹	j ɔ ²¹	390
+667	Maru	j o ³⁵	j o ³⁵	390
+668	Zaiwa	j ɔ ⁵¹	j ɔ ⁵¹	390
+669	Achang	n o̰ ³	n - o̰ - ³	392
+670	Lashi	n j ɔ̃ ³¹	n j ɔ̃ - ³¹	392
+671	Maru	m j a ŋ ³	m j a ŋ ³	392
+672	Achang	kʰ u ŋ ³	kʰ u ŋ ³	393
+673	WrittenBurmese	h au k	h au k -	393
+674	Zaiwa	kʰ ɔ k ³²	kʰ ɔ k ³²	393
+675	Achang	m ɛ ³	m ɛ ³	396
+676	Bela	m a̰ ³	m a̰ ³	396
+677	Lashi	m ə ³	m ə ³	396
+678	Maru	m ə ²	m ə ²	396
+679	Achang	j ɔ ³	j ɔ ³	398
+680	Lashi	j ɔ ³²	j ɔ ³²	398
+681	Phon	j a ³¹	j a ³¹	398
+682	WrittenBurmese	j aː	j aː -	398
+683	Zaiwa	j ɔ ⁵³	j ɔ ⁵³	398
+684	Achang	k j ɛ̰ n ³	k j ɛ̰ n ³	399
+685	Lashi	g j ẽ ŋ ³²	g j ẽ ŋ ³²	399
+686	Maru	g ɪ n ⁴¹	g - ɪ n ⁴¹	399
+687	WrittenBurmese	kʰ r a ts	kʰ r a ts -	399
+688	Zaiwa	g i n ³¹	g - i n ³¹	399
+689	Achang	n a n ³¹	n a n ³¹	400
+690	Bela	n e ²³	n e - ²³	400
+691	Lashi	n ãɪ ⁴	n ãɪ - ⁴	400
+692	Maru	n ɪ n ⁵⁴	n ɪ n ⁵⁴	400
+693	Zaiwa	n a̰ n ³	n a̰ n ³	400
+694	Achang	s i ³	s i - ³	402
+695	Lashi	s ə ³	s ə - ³	402
+696	Maru	s ə p ²	s ə p ²	402
+697	Zaiwa	ʃ ə ⁴	ʃ ə - ⁴	402
+698	Achang	d j ɔ ³¹	d j - ɔ ³¹	403
+699	Bela	j w i ³	- j w i ³	403
+700	Lashi	b j u ³¹	b j - u ³¹	403
+701	Maru	b j ɔ ³¹	b j - ɔ ³¹	403
+702	Zaiwa	b j ɔ ⁵¹	b j - ɔ ⁵¹	403
+703	Achang	j a p ³¹	j a p ³¹	405
+704	Maru	j e ʔ ³	j e ʔ ³	405
+705	Phon	ɹ e ʔ ⁵⁵	ɹ e ʔ ⁵⁵	405
+706	WrittenBurmese	r a p	r a p -	405
+707	Zaiwa	j a̰ p ³¹	j a̰ p ³¹	405
+708	Achang	tʰ u k ⁵³	tʰ u k ⁵³	406
+709	Lashi	tʰ o ʔ ⁵³	tʰ o ʔ ⁵³	406
+710	Maru	tʰ au k ⁵⁴	tʰ au k ⁵⁴	406
+711	WrittenBurmese	tʰ au k	tʰ au k -	406
+712	Zaiwa	tʰ u ʔ ⁴³	tʰ u ʔ ⁴³	406
+713	Achang	s u ⁵	s u ⁵	407
+714	Bela	ts o̰ ²³	ts o̰ ²³	407
+715	Lashi	s ɔ ⁴	s ɔ ⁴	407
+716	Maru	s u ⁵	s u ⁵	407
+717	Zaiwa	s ɔ ⁵²	s ɔ ⁵²	407
+718	Achang	w a ŋ ³¹	w - a ŋ ³¹	410
+719	Lashi	w a ŋ ³¹	w - a ŋ ³¹	410
+720	Maru	w a ³²	w - a - ³²	410
+721	Phon	v ɹ o ⁵⁵	v ɹ o - ⁵⁵	410
+722	WrittenBurmese	w a ŋ	w - a ŋ -	410
+723	Lashi	d ø m ³¹	d ø m ³¹	411
+724	Maru	d a m ³	d a m ³	411
+725	Zaiwa	d au	d au - -	411
+726	Achang	t a̰u ⁵	t a̰u - ⁵	412
+727	Maru	t o̰ k ⁵⁴	t o̰ k ⁵⁴	412
+728	Achang	l a ŋ ³	l a ŋ ³	414
+729	Bela	l õ ⁵²	l õ - ⁵²	414
+730	Lashi	l a ŋ ²	l a ŋ ²	414
+731	WrittenBurmese	l uˀ	l uˀ - -	414
+732	Zaiwa	l a ŋ ⁵³	l a ŋ ⁵³	414
+733	Achang	tʰ ə ʔ ⁵³	tʰ ə ʔ ⁵³	415
+734	Lashi	tʰ ɨ ʔ ⁴²	tʰ ɨ ʔ ⁴²	415
+735	Maru	tʰ au ŋ ⁴	tʰ au ŋ ⁴	415
+736	Achang	d ɨu ⁴³	d ɨu - ⁴³	416
+737	Zaiwa	d u n ⁵³	d u n ⁵³	416
+738	Lashi	p j æ̰ p ⁵³	p j æ̰ p ⁵³	417
+739	Maru	p j ḛ ʔ ⁵⁴	p j ḛ ʔ ⁵⁴	417
+740	WrittenBurmese	p j a ts	p j a ts -	417
+741	Achang	g j ɔ ⁴³	g j ɔ ⁴³	418
+742	Bela	k j a ²³	k j a ²³	418
+743	Lashi	g j ɔ ⁴	g j ɔ ⁴	418
+744	Maru	g j o ⁵	g j o ⁵	418
+745	WrittenBurmese	k j aˀ	k j aˀ -	418
+746	Maru	kʰ e ʔ ⁵⁴	kʰ - e ʔ ⁵⁴	419
+747	WrittenBurmese	kʰ dʒʷ eː	kʰ dʒʷ eː - -	419
+748	Lashi	m j ũ ³	m j ũ - ³	420
+749	Maru	m j u ŋ ⁵⁴	m j u ŋ ⁵⁴	420
+750	WrittenBurmese	m j aːu	m j aːu - -	420
+751	Maru	w a ⁵⁴	w a - ⁵⁴	422
+752	Zaiwa	w a ŋ ³¹	w a ŋ ³¹	422
+753	Achang	j au ³¹	- j au - ³¹	423
+754	Lashi	j au ³¹	- j au - ³¹	423
+755	Maru	j o̰ k ⁵	- j o̰ k ⁵	423
+756	WrittenBurmese	k j aˀ	k j aˀ - -	423
+757	Zaiwa	ʔ ʊ̰ t ⁵	ʔ - ʊ̰ t ⁵	423
+758	Lashi	n j ɛ ²¹	n j - ɛ ²¹	424
+759	Maru	n a ⁴³	n - - a ⁴³	424
+760	Zaiwa	m j w i ²¹	m j w i ²¹	424
+761	Achang	d ṵ ḭ ⁵	d ṵ ḭ ⁵	426
+762	Lashi	d ɨ ⁵⁴	d - ɨ ⁵⁴	426
+763	Maru	d ø i ⁵	d ø i ⁵	426
+764	Zaiwa	d w i ⁵³	d w i ⁵³	426
+765	Achang	b w a ³¹	b w a - ³¹	427
+766	Lashi	b oe ʔ ³	b - oe ʔ ³	427
+767	Maru	s a t ⁵⁴	s - a t ⁵⁴	428
+768	Phon	ʃ w ai ʔ ³¹	ʃ w ai ʔ ³¹	428
+769	WrittenBurmese	s u t	s - u t -	428
+770	Zaiwa	s ʊ t ⁵⁴	s - ʊ t ⁵⁴	428
+771	Achang	tsʰ a ʔ ⁴¹	tsʰ - a ʔ ⁴¹	429
+772	Lashi	dʒ oi ʔ ⁵	- dʒ oi ʔ ⁵	429
+773	WrittenBurmese	s w eː	s w eː - -	429
+774	Achang	g u ŋ ⁴³	g - - u ŋ ⁴³	431
+775	Lashi	g o ŋ ³¹	g - - o ŋ ³¹	431
+776	Maru	g au ŋ ³¹	g - - au ŋ ³¹	431
+777	WrittenBurmese	kʰ j w iː	kʰ j w iː - -	431
+778	Zaiwa	g u ŋ ³	g - - u ŋ ³	431
+779	Achang	b a t ³¹	b a t - ³¹	432
+780	Maru	b ḛ t ʔ ⁵⁴	b ḛ t ʔ ⁵⁴	432
+781	Lashi	j ø k ³	j - ø k ³	433
+782	WrittenBurmese	r w i k	r w i k -	433
+783	WrittenBurmese	t w i k	t w i k -	434
+784	Zaiwa	tʰ w i ⁵³	tʰ w i - ⁵³	434
+785	Achang	kʰ j a m ⁵⁴	kʰ j a m ⁵⁴	435
+786	Lashi	kʰ ɔ ʔ ⁵²	kʰ - ɔ ʔ ⁵²	435
+787	Maru	kʰ o ʔ ⁵⁴	kʰ - o ʔ ⁵⁴	435
+788	WrittenBurmese	k a	k - a - -	435
+789	Zaiwa	kʰ ɔ ʔ ⁵	kʰ - ɔ ʔ ⁵	435
+790	Achang	tsʰ a m ³	tsʰ a m ³	436
+791	Bela	x a m ³	x a m ³	436
+792	WrittenBurmese	tsʰ a m	tsʰ a m -	436
+793	Lashi	n j æ̃ m ⁵⁴	n j æ̃ - m ⁵⁴	437
+794	Maru	m j æ ṵ k ⁵³	m j æ ṵ k ⁵³	437
+795	WrittenBurmese	h ɲ a p	h ɲ a - p -	437
+796	Achang	tʰ au ⁵	tʰ - au - ⁵	438
+797	Lashi	tʰ au ⁴	tʰ - au - ⁴	438
+798	Maru	tʰ o ʔ ⁵	tʰ - o ʔ ⁵	438
+799	WrittenBurmese	tʰ w iː	tʰ w iː - -	438
+800	Zaiwa	tʰ au ⁵²	tʰ - au - ⁵²	438
+801	Bela	l w i ²³	- l w i - ²³	439
+802	Lashi	l ə̰ ŋ ³²	- l - ə̰ ŋ ³²	439
+803	WrittenBurmese	k r a ɲ	k r - a ɲ -	439
+804	Lashi	d z o ŋ ⁴	d z o ŋ ⁴	440
+805	Maru	d z a̰u ʔ ⁵³	d z a̰u ʔ ⁵³	440
+806	WrittenBurmese	ts w i k	ts w i k -	440
+807	Achang	x j ɔ ⁵	x j ɔ ⁵	441
+808	Zaiwa	h ɔ ⁵³	h - ɔ ⁵³	441
+809	Maru	j a ⁴	- j a - ⁴	444
+810	WrittenBurmese	p r a	p r a - -	444
+811	Zaiwa	p j a̰ ŋ ⁵³	p j a̰ ŋ ⁵³	444
+812	Achang	l a̰ ŋ k ⁴²	- l a̰ ŋ k ⁴²	445
+813	WrittenBurmese	h l au ŋ	h l au ŋ - -	445
+814	Achang	l a̰ p ⁴²	l a̰ p ⁴²	446
+815	Lashi	l æ̰ p ³²	l æ̰ p ³²	446
+816	Maru	l ḛ ʔ ⁵⁴	l ḛ ʔ ⁵⁴	446
+817	Zaiwa	l a̰ p ⁵⁴	l a̰ p ⁵⁴	446
+818	Achang	dʒ au ʔ ³¹	dʒ - au ʔ ³¹	448
+819	Bela	ts a̰ ʔ ⁵²	- ts a̰ ʔ ⁵²	448
+820	Lashi	dʒ a ʔ ⁵³	dʒ - a ʔ ⁵³	448
+821	Maru	d z ɔ ³²	d z ɔ - ³²	448
+822	Zaiwa	d z a ŋ ³	d z a ŋ ³	448
+823	Achang	ts ṵ ʔ ⁵²	- ts ṵ ʔ ⁵²	449
+824	Lashi	d z u ³²	d z u - ³²	449
+825	Maru	d z a̰u ⁴	d z a̰u - ⁴	449
+826	WrittenBurmese	tsʰ u	- tsʰ u - -	449
+827	Zaiwa	dʒ ɔ ʔ ⁵⁴	dʒ - ɔ ʔ ⁵⁴	449
+828	Achang	ŋ æ̰ ʔ ³¹	ŋ - æ̰ ʔ ³¹	450
+829	Lashi	ŋ e ⁴	ŋ - e - ⁴	450
+830	Maru	ŋ a ⁴⁵	ŋ - a - ⁴⁵	450
+831	Zaiwa	n j ɛ̰ ⁵³	n j ɛ̰ - ⁵³	450
+832	Lashi	s ai ⁵²	s ai - ⁵²	451
+833	Maru	s e ʔ ⁵⁴	s e ʔ ⁵⁴	451
+834	WrittenBurmese	s e	s e - -	451
+835	Zaiwa	s a t ⁵⁴	s a t ⁵⁴	451
+836	Maru	m i ⁴	m i ⁴	452
+837	Zaiwa	m i ³	m i ³	452
+838	Achang	m u ⁵	- m u ⁵	453
+839	Lashi	m ɔ ⁵	- m ɔ ⁵	453
+840	Maru	m au ²⁵	- m au ²⁵	453
+841	WrittenBurmese	h m uˀ	h m uˀ -	453
+842	Zaiwa	m u ⁵	- m u ⁵	453
+843	Achang	d z w i ³	d z w i - ³	454
+844	Lashi	d z ɨ ²¹	d z - ɨ - ²¹	454
+845	Maru	d z ø i ⁵	d z - ø i ⁵	454
+846	Zaiwa	d z w i ⁵³	d z w i - ⁵³	454
+847	Achang	l ɨ̰ ṵ ³	l ɨ̰ ṵ ³	455
+848	Bela	l i ²³	l i - ²³	455
+849	Lashi	l u ³²	l u - ³²	455
+850	Achang	b ai ʔ ³¹	b ai ʔ ³¹	457
+851	Lashi	b ə k ²	b ə k ²	457
+852	Maru	b a k ³²	b a k ³²	457
+853	WrittenBurmese	p a ts	p a ts -	457
+854	Achang	kʰ a t ⁵²	kʰ a t ⁵²	459
+855	Lashi	kʰ a̰i ʔ ⁵¹	kʰ a̰i ʔ ⁵¹	459
+856	Zaiwa	kʰ a t ⁵⁴	kʰ a t ⁵⁴	459
+857	Maru	p j ḛ ⁵⁴	p j ḛ - ⁵⁴	461
+858	WrittenBurmese	pʰ j a k	pʰ j a k -	461
+859	Bela	p ḛ ʔ ²³	p - ḛ ʔ ²³	462
+860	Lashi	p j æ̰ p ³¹	p j æ̰ p ³¹	462
+861	Zaiwa	b j ɔ ʔ ³	b j ɔ ʔ ³	462
+862	Achang	tʰ ai ʔ ³¹	tʰ ai ʔ ³¹	465
+863	Lashi	tʰ e ⁵³	tʰ e - ⁵³	465
+864	Maru	tʰ a ⁴³	tʰ a - ⁴³	465
+865	WrittenBurmese	pʰ ai	pʰ ai - -	465
+866	Zaiwa	tʰ ai ⁵⁴	tʰ ai - ⁵⁴	465
+867	WrittenBurmese	h l ai	h l ai - -	466
+868	Zaiwa	l u m ⁵³	- l u m ⁵³	466
+869	Lashi	tʃʰ j ɛ ²	tʃʰ j ɛ ²	467
+870	Maru	tʃʰ i ⁴	tʃʰ - i ⁴	467
+871	Achang	d j ei ³	d j ei - ³	468
+872	Maru	b ḭ ʔ ⁵⁴	- b ḭ ʔ ⁵⁴	468
+873	WrittenBurmese	p eː	- p eː - -	468
+874	Zaiwa	b i ⁵³	- b i - ⁵³	468
+875	Achang	j u k ³²	j u k ³²	471
+876	Lashi	j o k ³²	j o k ³²	471
+877	Maru	j æu ʔ ⁴²	j æu ʔ ⁴²	471
+878	WrittenBurmese	j au k	j au k -	471
+879	Zaiwa	j u ʔ ³¹	j u ʔ ³¹	471
+880	Achang	ʔ ai ⁵³	ʔ ai - ⁵³	472
+881	Bela	j ḭ ²³	j ḭ - ²³	472
+882	Lashi	ʔ ə k ⁵³	ʔ ə k ⁵³	472
+883	Phon	h ai ʔ ³¹	h ai ʔ ³¹	472
+884	Zaiwa	ʔ i ⁴⁵	ʔ i - ⁴⁵	472
+885	Achang	n j ei ³	n j ei ³	474
+886	Bela	m i ⁵²	m - i ⁵²	474
+887	Lashi	m j e ⁴	m j e ⁴	474
+888	Phon	ɲ i ³¹	ɲ - i ³¹	474
+889	Zaiwa	m i ³²	m - i ³²	474
+890	Phon	j ɔ ŋ ⁵⁵	- j ɔ ŋ ⁵⁵	479
+891	WrittenBurmese	h r a ts	h r a ts -	479
+892	Achang	x j ɔ ³	x j ɔ - ³	482
+893	Lashi	ʃ o ⁴²	- ʃ o - ⁴²	482
+894	Phon	j a ʔ ⁵⁵	- j a ʔ ⁵⁵	482
+895	WrittenBurmese	r a	- r a - -	482
+896	Zaiwa	ʃ ɔ ⁵³	- ʃ ɔ - ⁵³	482
+897	Phon	h e ŋ ⁵⁵	h e ŋ ⁵⁵	483
+898	Zaiwa	h i ŋ ⁴⁵	h i ŋ ⁴⁵	483
+899	Achang	kʰ j ɨ ŋ ⁵⁴	kʰ j ɨ ŋ ⁵⁴	484
+900	Lashi	kʰ ə ŋ ⁵³	kʰ - ə ŋ ⁵³	484
+901	Maru	kʰ i ŋ ⁵⁴	kʰ - i ŋ ⁵⁴	484
+902	Achang	ʃ ɔ ³⁵	ʃ ɔ - ³⁵	486
+903	Lashi	ʃ ɔ ʔ ⁵³	ʃ ɔ ʔ ⁵³	486
+904	Achang	ŋ a n ⁵	ŋ a n ⁵	487
+905	Lashi	ŋ ãɪ ²⁴	ŋ ãɪ - ²⁴	487
+906	Achang	j a m ⁵	j a m ⁵	488
+907	Lashi	j æ̰ m ⁴	j æ̰ m ⁴	488
+908	WrittenBurmese	ʔ ə	ʔ ə - -	488
+909	Zaiwa	ʔ a̰ m ³¹	ʔ a̰ m ³¹	488
+910	Achang	m a̰u ⁵	m a̰u ⁵	489
+911	Maru	m o ³²	m o ³²	489
+912	Lashi	dʒ i t ⁵	dʒ i t ⁵	490
+913	Zaiwa	dʒ ɪ̰ t ⁵	dʒ ɪ̰ t ⁵	490
+914	Phon	n e ³¹	n e ³¹	491
+915	WrittenBurmese	n a	n a -	491
+916	Achang	g ɔ ⁵	g ɔ - ⁵	492
+917	Lashi	g ɔ ³	g ɔ - ³	492
+918	Maru	g au ŋ ³	g au ŋ ³	492
+919	Achang	j i ⁵	- j i ⁵	493
+920	Lashi	j i ³	- j i ³	493
+921	Maru	ɣ i ³⁵	- ɣ i ³⁵	493
+922	Zaiwa	β w i ⁴	β w i ⁴	493
+923	WrittenBurmese	t u t	t u t -	497
+924	Zaiwa	d ɔ t ⁵⁴	d ɔ t ⁵⁴	497
+925	Achang	d j u ŋ ³	d j u ŋ ³	498
+926	Bela	l a ŋ ²³	- l a ŋ ²³	498
+927	Lashi	l ə ŋ ⁴	- l ə ŋ ⁴	498
+928	Maru	l a ŋ ³⁴	- l a ŋ ³⁴	498
+929	Achang	b u ³	b u ³	502
+930	Lashi	b o ³	b o ³	502
+931	Maru	b o ³	b o ³	502
+932	Phon	p a ³¹	p a ³¹	502
+933	WrittenBurmese	p aː	p aː -	502
+934	Achang	tsʰ ɨu ³	tsʰ ɨu ³	503
+935	Lashi	tsʰ u ³²	tsʰ u ³²	503
+936	Maru	tsʰ au ³²	tsʰ au ³²	503
+937	WrittenBurmese	tsʰ u	tsʰ u -	503
+938	Zaiwa	tsʰ u ⁴³	tsʰ u ⁴³	503
+939	Achang	g j i ⁵	g j i ⁵	504
+940	Lashi	g i ⁴	g - i ⁴	504
+941	Zaiwa	g i ⁴³	g - i ⁴³	504
+942	Achang	l a m ³¹	l a m ³¹	505
+943	Bela	l ẽ ²³	l ẽ - ²³	505
+944	Lashi	l æ̰ m ³¹	l æ̰ m ³¹	505
+945	Maru	l e ²	l e - ²	505
+946	Zaiwa	l a m ³²	l a m ³²	505
+947	Achang	b u ³¹	b u - ³¹	508
+948	Lashi	b ɔ ⁴	b ɔ - ⁴	508
+949	WrittenBurmese	p a k	p a k -	508
+950	Achang	j ɔ ⁴²	j ɔ ⁴²	512
+951	Lashi	j u ⁴²	j u ⁴²	512
+952	Maru	j o ³²	j o ³²	512
+953	WrittenBurmese	j a	j a -	512
+954	Zaiwa	j ɔ ³¹	j ɔ ³¹	512
+955	Lashi	g o ŋ ⁵	g o ŋ ⁵	513
+956	Maru	k au ŋ ³	k au ŋ ³	513
+957	Achang	w i ³⁴	w i ³⁴	514
+958	WrittenBurmese	w a	w a -	514
+959	Achang	d a n ³	d a n ³	515
+960	Lashi	d ai n ³	d ai n ³	515
+961	Maru	d ɪ n ⁴	d ɪ n ⁴	515
+962	WrittenBurmese	t a ɲ	t a ɲ -	515
+963	Zaiwa	d i ŋ ⁴	d i ŋ ⁴	515
+964	Bela	ts õ ²³	ts õ - - ²³	517
+965	Lashi	dʒ a ŋ k ⁵³	dʒ a ŋ k ⁵³	517
+966	Maru	dʒ a ³⁴	dʒ a - - ³⁴	517
+967	WrittenBurmese	r a ŋ	r a ŋ - -	517
+968	Zaiwa	dʒ a̰ ŋ ⁵³	dʒ a̰ ŋ - ⁵³	517
+969	Achang	n i ³	n i ³	518
+970	Phon	n e ³¹	n e ³¹	518
+971	WrittenBurmese	n iː	n iː -	518
+972	Achang	h ai ³	h ai - ³	519
+973	Lashi	h ɛ ³	h ɛ - ³	519
+974	Phon	h ai ŋ ⁵⁵	h ai ŋ ⁵⁵	519
+975	Bela	tʃʰ ḛ ³	tʃʰ - ḛ ³	520
+976	Lashi	d z i ⁵¹	d z i ⁵¹	520
+977	Maru	tʃʰ e ⁴¹	tʃʰ - e ⁴¹	520
+978	Zaiwa	ʃ i ⁵³	- ʃ i ⁵³	520
+979	Bela	p a ²³	p a ²³	526
+980	Lashi	b ɔ ⁴	b ɔ ⁴	526
+981	Maru	b o ³⁵	b o ³⁵	526
+982	Achang	tʃʰ ɔ ʔ ⁵⁴	tʃʰ ɔ ʔ ⁵⁴	527
+983	Lashi	tʃʰ ɔ ʔ ⁵³	tʃʰ ɔ ʔ ⁵³	527
+984	Zaiwa	tʃʰ a ⁵	tʃʰ a - ⁵	527
+985	Achang	l au ʔ ³¹	l au ʔ ³¹	528
+986	Bela	l u ²³	l u - ²³	528
+987	Maru	l a̰ k ⁵³	l a̰ k ⁵³	528
+988	Achang	ʔ a ³	ʔ a ³	529
+989	Lashi	ʔ a ³	ʔ a ³	529
+990	Maru	ʔ a ²	ʔ a ²	529
+991	WrittenBurmese	ʔ ə	ʔ ə -	529
+992	Zaiwa	ʔ ə ³	ʔ ə ³	529
+993	Achang	s ai k ⁵⁴	s ai k ⁵⁴	530
+994	Lashi	s ə k ⁵³	s ə k ⁵³	530
+995	Maru	s a k ⁵	s a k ⁵	530
+996	WrittenBurmese	s a ts	s a ts -	530
+997	Zaiwa	s ɪ k ⁵⁴	s ɪ k ⁵⁴	530
+998	Achang	tsʰ au ⁵	tsʰ au - ⁵	531
+999	Lashi	tsʰ au ³	tsʰ au - ³	531
+1000	Maru	tsʰ o ʔ ⁵⁴	tsʰ o ʔ ⁵⁴	531
+1001	Achang	tʃʰ w a t ⁵⁴	tʃʰ w a t ⁵⁴	532
+1002	Lashi	tʃʰ oi ʔ ⁵³	tʃʰ - oi ʔ ⁵³	532
+1003	Zaiwa	tʃʰ u t ⁵⁴	tʃʰ - u t ⁵⁴	532
+1004	Lashi	m au ²	- m au - ²	533
+1005	WrittenBurmese	h m au ŋ	h m au ŋ -	533
+1006	Zaiwa	m a ³²	- m a - ³²	533
+1007	Maru	n o ʔ ³⁴	n o ʔ ³⁴	534
+1008	Phon	ɲ o ⁵⁵	ɲ o - ⁵⁵	534
+1009	Achang	b a ŋ ³¹	b a ŋ ³¹	535
+1010	Lashi	b a ŋ ³¹	b a ŋ ³¹	535
+1011	Maru	b o ³⁴	b o - ³⁴	535
+1012	WrittenBurmese	p aˀ	p aˀ - -	535
+1013	Zaiwa	b ɔ ³	b ɔ - ³	535
+1014	Achang	d e ³	d e - ³	536
+1015	Lashi	d u ³¹	d u - ³¹	536
+1016	Maru	d au ³	d au - ³	536
+1017	WrittenBurmese	t u	t u - -	536
+1018	Zaiwa	ts ṵ ŋ ⁵³	ts ṵ ŋ ⁵³	536
+1019	Lashi	g ə ⁵	g ə ⁵	537
+1020	Maru	g ə ²	g ə ²	537
+1021	WrittenBurmese	kʷ a	kʷ a -	537
+1022	Lashi	pʰ j ə k ⁵³	pʰ j ə k ⁵³	541
+1023	Maru	j a k ³	- j a k ³	541
+1024	WrittenBurmese	p r a ɲˀ	p r a ɲˀ -	541
+1025	Zaiwa	pʰ j ɪ k ⁵	pʰ j ɪ k ⁵	541
+1026	Achang	b w ɔ p ³¹	b w ɔ p ³¹	542
+1027	Lashi	b w ɛ p ²	b w ɛ p ²	542
+1028	Maru	b a p ³⁴	b - a p ³⁴	542
+1029	WrittenBurmese	p u p	p - u p -	542
+1030	Zaiwa	b ʊ p ³	b - ʊ p ³	542
+1031	Achang	j a m ³	j a m ³	543
+1032	Lashi	j æ̰ m ³	j æ̰ m ³	543
+1033	WrittenBurmese	r a m	r a m -	543
+1034	Achang	dʒ w ɛ ʔ ⁵²	dʒ w ɛ ʔ ⁵²	545
+1035	Lashi	dʒ ø m ³²	dʒ - ø m ³²	545
+1036	Maru	dʒ o ⁵	dʒ - o - ⁵	545
+1037	WrittenBurmese	tsʷ a t	tsʷ - a t -	545
+1038	Achang	ŋ ɛ ⁵	ŋ - ɛ ⁵	546
+1039	Zaiwa	n j ɛ ³²	n j ɛ ³²	546
+1040	Lashi	l o ŋ ⁵¹	l o ŋ ⁵¹	547
+1041	Maru	l au ŋ ³	l au ŋ ³	547
+1042	WrittenBurmese	l au ŋ	l au ŋ -	547
+1043	Achang	dʒ a m ³	dʒ a m ³	549
+1044	Lashi	dʒ æ m ⁵⁴	dʒ æ m ⁵⁴	549
+1045	Achang	d w a m ³	d w a m ³	551
+1046	WrittenBurmese	t u m	t - u m -	551
+1047	Lashi	l e ³²	l e ³²	552
+1048	Maru	l a ⁵	l a ⁵	552
+1049	WrittenBurmese	l eː	l eː -	552
+1050	Zaiwa	l ai ⁵³	l ai ⁵³	552
+1051	Achang	tʰ a n ³	tʰ a n ³	553
+1052	Lashi	tʰ ãɪ ²	tʰ ãɪ - ²	553
+1053	Zaiwa	tʰ a n ³²	tʰ a n ³²	553
+1054	Achang	dʒ ṵ a̰ t ⁵⁴	dʒ ṵ a̰ t ⁵⁴	554
+1055	Lashi	dʒ w e ʔ ⁵³	dʒ w e ʔ ⁵³	554
+1056	Lashi	j o ŋ ³	- j o ŋ ³	555
+1057	Maru	j æu ŋ ⁴	- j æu ŋ ⁴	555
+1058	WrittenBurmese	l j a ɲ	l j a ɲ -	555
+1059	Zaiwa	ɹ a ³	ɹ - a - ³	555
+1060	Achang	n j a p ⁴²	n j a p ⁴²	556
+1061	Lashi	m j æ p ³	m j æ p ³	556
+1062	Achang	d z ɔ ⁵	d z ɔ ⁵	557
+1063	Bela	t a ⁵²	t - a ⁵²	557
+1064	Lashi	d z ɔ ⁴⁵	d z ɔ ⁴⁵	557
+1065	WrittenBurmese	tsʰ eː	tsʰ - eː -	557
+1066	Bela	j e ³	j e ³	558
+1067	Lashi	ɹ ɛ ⁵³	ɹ ɛ ⁵³	558
+1068	Zaiwa	j ɔ̰ ⁴⁵	j ɔ̰ ⁴⁵	558
+1069	Achang	j ɔ m ³	j ɔ m ³	559
+1070	Lashi	j ɛ m ²³	j ɛ m ²³	559
+1071	Maru	ɣ a m ³	ɣ a m ³	559
+1072	Zaiwa	v u m ³	v u m ³	559
+1073	Achang	b ɔ ³¹	b ɔ ³¹	560
+1074	Lashi	b ɔ ⁵¹	b ɔ ⁵¹	560
+1075	Maru	b o ³	b o ³	560
+1076	Zaiwa	b ɔ ³¹	b ɔ ³¹	560
+1077	Achang	n ṵ k ⁵³	n - ṵ k ⁵³	561
+1078	Lashi	n ə ŋ ²	n - ə ŋ ²	561
+1079	Maru	n e ⁵	n - e - ⁵	561
+1080	WrittenBurmese	n a n	n - a n -	561
+1081	Zaiwa	n j ɔ̰ m ⁵³	n j ɔ̰ m ⁵³	561
+1082	Achang	dʒ ɛ t ³¹	dʒ ɛ t ³¹	563
+1083	Lashi	dʒ e ⁴⁵	dʒ e - ⁴⁵	563
+1084	Maru	dʒ i t ⁵³	dʒ i t ⁵³	563
+1085	Phon	sʰ i ³¹	sʰ i - ³¹	563
+1086	Zaiwa	dʒ ɪ t ³²	dʒ ɪ t ³²	563
+1087	Achang	l a ³	- l a - ³	564
+1088	WrittenBurmese	p r au ŋ	p r au ŋ -	564
+1089	Zaiwa	l a ŋ ³	- l a ŋ ³	564
+1090	Maru	ŋ a ³⁴	ŋ a - ³⁴	565
+1091	Zaiwa	ŋ ɔ t ³²	ŋ ɔ t ³²	565
+1092	Lashi	g j ɛ ³¹	g j ɛ - ³¹	566
+1093	Maru	k j ɛ̰ t ⁵³	k j ɛ̰ t ⁵³	566
+1094	Achang	tʃʰ j ɛ n ³	tʃʰ j ɛ n ³	567
+1095	Lashi	tʃʰ e n ³²	tʃʰ - e n ³²	567
+1096	Maru	dʒ ɛ̰ t ⁵	dʒ - ɛ̰ t ⁵	567
+1097	Zaiwa	tʃʰ ɪ n ⁵³	tʃʰ - ɪ n ⁵³	567
+1098	Achang	kʰ a ⁴	kʰ a - ⁴	569
+1099	Lashi	kʰ a ²⁴	kʰ a - ²⁴	569
+1100	Maru	kʰ ø ⁵	kʰ ø - ⁵	569
+1101	WrittenBurmese	k aˀ	k aˀ - -	569
+1102	Zaiwa	kʰ ə t ⁴³	kʰ ə t ⁴³	569
+1103	Achang	n a̰ m p ⁵²	n a̰ m p ⁵²	570
+1104	Lashi	n æ̰ p ⁴²	n æ̰ - p ⁴²	570
+1105	Zaiwa	n a̰ m ³²	n a̰ m - ³²	570
+1106	Lashi	m ɔ ²¹	- m ɔ ²¹	571
+1107	WrittenBurmese	h m a	h m a -	571
+1108	Achang	d j e ³	d j e ³	572
+1109	Maru	d au ⁵¹	d - au ⁵¹	572
+1110	Achang	h a ŋ k ⁵⁴	h a ŋ k ⁵⁴	573
+1111	Bela	kʰ a k ³	kʰ a - k ³	573
+1112	Lashi	h a ŋ ⁴	h a ŋ - ⁴	573
+1113	Lashi	ŋ o̰i ³¹	ŋ o̰i - ³¹	574
+1114	Maru	ŋ a t ³²	ŋ a t ³²	574
+1115	Achang	tʃʰ a ³	tʃʰ a - ³	575
+1116	Lashi	tʃʰ ɛ ⁵³	tʃʰ ɛ - ⁵³	575
+1117	Zaiwa	dʒ u ŋ ⁵²	dʒ u ŋ ⁵²	575
+1118	WrittenBurmese	h m aː	h m aː -	576
+1119	Zaiwa	h a ⁵	h - a ⁵	576
+1120	Achang	n j ɔ̰ ʔ ⁵³	- n j ɔ̰ ʔ ⁵³	577
+1121	WrittenBurmese	h n aˀ	h n - aˀ - -	577

@@ -1,0 +1,257 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	more	w u r a	w u r a -	5
+2	orowin	f u ʔ	f u ʔ - -	5
+3	tora	w i h u	w i h u -	5
+4	wari	w a h u ʔ	w a h u ʔ	5
+5	orowin	w o r i k o k o	w o r i k o k o	6
+6	tora	w a r i k o	w a r i k - - o	6
+7	wari	w i r i k o k o	w i r i k o k o	6
+8	more	a t i	a t i	9
+9	orowin	a t i	a t i	9
+10	more	t i k o w	t i - k o w	10
+11	tora	t e o k a j	t e o k a j	10
+12	wari	k a ɲ	- - - k a ɲ	10
+13	orowin	m i j a ʔ	m i j a ʔ	11
+14	tora	j a b	- - j a b	11
+15	wari	m i j a	m i j a -	11
+16	cojubim	n a p a	n a p a	12
+17	more	n a p a	n a p a	12
+18	orowin	n a p a	n a p a	12
+19	orowin	k a w a s a n	k a - w a s a n	18
+20	wari	t o k w a n	t o k w - - a n	18
+21	jaru	h o r a	h - o r a -	27
+22	orowin	f o r a ʔ	f - o r a ʔ	27
+23	wari	h w a r a ʔ	h w a r a ʔ	27
+24	orowin	e k e m	e - - k e - m	28
+25	tora	u k a d n	u - - k a d n	28
+26	urupa	e v e k e m	e v e k e - m	28
+27	cojubim	i n a	i n a	30
+28	more	i n a	i n a	30
+29	orowin	w i j a m a n	w i j a m a n	34
+30	urupa	i a m a j	- i - a m a j	34
+31	wanyam	w i j i k u n	w i j i k u n	34
+32	wari	w i j i m a	w i j i m a -	34
+33	kitemoka	p i ʃ i t i k o	p i ʃ i t i k o -	35
+34	tapakura	m i tʃ i t i k o n	m i tʃ i t i k o n	35
+35	cojubim	e	e - -	36
+36	more	e j e	e j e	36
+37	cojubim	t a n a m a n	t a n a m a n	40
+38	more	t a n a m a n	t a n a m a n	40
+39	kitemoka	ɲ a m a k i	ɲ a m a k i -	41
+40	tapakura	j a m a k e	j a m a k e -	41
+41	tora	n a k a m i n	n a k a m i n	41
+42	cojubim	n a m a k o n	n a m a k o n	43
+43	more	n a m a k o n	n a m a k o n	43
+44	tora	n a k o n	n a - - k o n	43
+45	cojubim	r a t o	- r a t o -	47
+46	more	r a t o ʔ	- r a t o ʔ	47
+47	tora	i r a t o	i r a t o -	47
+48	cojubim	p a t i ʔ	p a t i ʔ	53
+49	more	p a t i ʔ	p a t i ʔ	53
+50	wanyam	p a t i ʔ	p a t i ʔ	53
+51	jaru	w i j e m u	w i j e m u -	60
+52	more	j i m o p	- - j i m o p	60
+53	tora	v i j e m o p	v i j e m o p	60
+54	urupa	j e m o b	- - j e m o b	60
+55	jaru	k o m e m	k o m e m	61
+56	wari	k o m e m	k o m e m	61
+57	kitemoka	k i m a r i	k i m a r i -	62
+58	tapakura	k i m a r i	k i m a r i -	62
+59	wanyam	i m a r i ʔ	- i m a r i ʔ	62
+60	jaru	e m e t e	e m e t e -	68
+61	orowin	e m e t e ʔ	e m e t e ʔ	68
+62	wari	m e t e ʔ	- m e t e ʔ	68
+63	orowin	s i k i n a n	s i k i n a n	83
+64	wari	k a tʃ i m a	k a tʃ i m a -	83
+65	kitemoka	t o h o t	t o h o t -	85
+66	tapakura	t a h u n e	t a h u n e	85
+67	jaru	i w i p	i w - - i p	87
+68	wanyam	i w i j i p	i w i j i p	87
+69	kitemoka	w i w i t i	w i w i t i	89
+70	tapakura	w i ʃ i t i	w i ʃ i t i	89
+71	jaru	k u r u p i	- - k u r u p i	92
+72	tora	t u k u r i p a	t u k u r i p a	92
+73	kitemoka	p i tʃ i	p i tʃ i - - -	100
+74	orowin	p i t i k o n	p i t i k o n	100
+75	wari	p i tʃ i n a ɲ	p i tʃ i n a ɲ	100
+76	cojubim	t a t a w	t a t a w -	101
+77	more	t a t a w	t a t a w -	101
+78	wanyam	t a t a w i	t a t a w i	101
+79	kitemoka	s o k o tʃ e t i tʃ e	s o k o tʃ e t i tʃ e	105
+80	tapakura	tʃ i p i tʃ i	- - - - tʃ i p i tʃ i	105
+81	jaru	j u h e n e s i	j u h e n e s i	107
+82	urupa	y v e n e s i	- y v e n e s i	107
+83	cojubim	t e n e t e t	t e n e t e t	113
+84	more	t e n e t e t	t e n e t e t	113
+85	tora	t e t e t e	t e t e t e -	113
+86	orowin	t e p e k e j e s i	t e p - e k e j - e s i	120
+87	tapakura	t a p u i t a k a tʃ i	t a p u i t a k - a tʃ i	120
+88	wari	p e t e h w e t	- - p - e t e h w e t -	120
+89	cojubim	t u p i	t u p i	123
+90	more	t u p i	t u p i	123
+91	orowin	p a s o m a s i	p a s o m a s i -	126
+92	wari	p i tʃ i j a tʃ i ʔ	p i tʃ i j a tʃ i ʔ	126
+93	cojubim	tʃ i n a k	tʃ i - - n a k -	127
+94	more	tʃ i n a k	tʃ i - - n a k -	127
+95	tapakura	tʃ i k i tʃ i	tʃ i k - - i tʃ i	127
+96	tora	ʃ i k i n i ʃ i	ʃ i k i n i ʃ i	127
+97	orowin	m a k a r a m a s i	m a - - k a r a m a s i -	129
+98	wanyam	w a r a k a r a m a ʃ i ʔ	w a r a k a r a m a ʃ i ʔ	129
+99	wari	k a r a m a tʃ i ʔ	- - - - k a r a m a tʃ i ʔ	129
+100	cojubim	tʃ a k a w	tʃ a k a w	137
+101	more	tʃ a k a w	tʃ a k a w	137
+102	kitemoka	a i k e ɲ e m i tʃ e	- a i k e ɲ e m i tʃ e -	143
+103	tapakura	h u k i m i n i tʃ i	h u - k i m i n i tʃ i -	143
+104	wari	k a n e m i tʃ i ʔ	- - - k a n e m i tʃ i ʔ	143
+105	more	a w i	- a w i - -	155
+106	orowin	w o r a m	w o r a m -	155
+107	wanyam	u r a m	- u r a m -	155
+108	wari	w e r e m e	w e r e m e	155
+109	cojubim	z a k	z a k	156
+110	more	ʒ̟ a k	ʒ̟ a k	156
+111	cojubim	r a p a t	- - r a p a t	161
+112	more	a r a p a t	- a r a p a t	161
+113	orowin	w o r a p a t	w o r a p a t	161
+114	wanyam	w a r a p a t	w a r a p a t	161
+115	kitemoka	t i o a k k o	t i o a k k o -	168
+116	tapakura	t u a k u n	t u - a - k u n	168
+117	orowin	t a m a n a ʔ	t a m a n a ʔ	169
+118	wari	m a n a ʔ	- - m a n a ʔ	169
+119	more	a r a m i	a - - r a m i	171
+120	wanyam	a ʃ e r e m i	a ʃ e r e m i	171
+121	cojubim	p a p	p a p	178
+122	orowin	p a k	p a k	178
+123	tora	p a k	p a k	178
+124	cojubim	w a k	w a k	180
+125	more	w o k	w o k	180
+126	orowin	w a k	w a k	180
+127	wari	w a k	w a k	180
+128	orowin	p i t	p i t - - - -	181
+129	tapakura	p i tʃ i r a m	p i tʃ i r a m	181
+130	wanyam	p i t	p i t - - - -	181
+131	wari	p i t	p i t - - - -	181
+132	cojubim	t u k	t u k - -	182
+133	orowin	t i k i	t i k i -	182
+134	wanyam	k i t	k i t - -	182
+135	wari	t i k i ʔ	t i k i ʔ	182
+136	orowin	j y	j y	184
+137	wanyam	j i	j i	184
+138	more	k a w a k	k a w a k	187
+139	tapakura	k a w a	k a w a -	187
+140	orowin	t a k i	t a k i -	189
+141	wanyam	t a k i	t a k i -	189
+142	wari	t a k i ʔ	t a k i ʔ	189
+143	cojubim	z e	z e	191
+144	more	ʒ̟ e	ʒ̟ e	191
+145	orowin	m a k i	m a k i -	193
+146	tora	m a k i ʔ	m a k i ʔ	193
+147	wari	m a k i ʔ	m a k i ʔ	193
+148	cojubim	i w a n	i w a n	194
+149	more	i w a n	i w a n	194
+150	wanyam	i w a n	i w a n	194
+151	kitemoka	tʃ e k o m	tʃ e k o m	198
+152	orowin	t o k o ʔ	t o k o ʔ	198
+153	wari	t o k o ʔ	t o k o ʔ	198
+154	jaru	t a	t a -	199
+155	more	ʒ̟ a k	ʒ̟ a k	199
+156	urupa	t a k	t a k	199
+157	wari	t a k	t a k	199
+158	cojubim	t a k	t a k - - - - -	202
+159	more	t a k i	t a k - - - - i	202
+160	tapakura	t e k i p e p e	t e k i p e p e	202
+161	wari	t e k i ʔ	t e k i ʔ - - -	202
+162	kitemoka	s e d	s e d	204
+163	wari	tʃ a t	tʃ a t	204
+164	jaru	r o k o n	- - r o k o n	208
+165	orowin	w i r i k o m	w i r i k o m	208
+166	wanyam	i r o k o n	- i r o k o n	208
+167	cojubim	tʃ a w	tʃ a w -	210
+168	more	tʃ a w	tʃ a w -	210
+169	wanyam	ʃ a w a	ʃ a w a	210
+170	cojubim	k o	k o -	211
+171	more	k o	k o -	211
+172	orowin	k o k	k o k	211
+173	wari	k ø k	k ø k	211
+174	cojubim	j o k	j o k	212
+175	orowin	j y k	j y k	212
+176	wanyam	j e k	j e k	212
+177	wari	j ø k	j ø k	212
+178	orowin	s i n	s i n	214
+179	wanyam	ʃ i n	ʃ i n	214
+180	wari	tʃ i n	tʃ i n	214
+181	cojubim	p i n	p - i n	215
+182	more	p w i n	p w i n	215
+183	more	p a w	p a w -	216
+184	orowin	p a w	p a w -	216
+185	wanyam	p a w	p a w -	216
+186	wari	p a w ʔ	p a w ʔ	216
+187	cojubim	p i p	p i p	217
+188	more	p i p	p i p	217
+189	kitemoka	t u m i	t u m i -	218
+190	tapakura	t i m i	t i m i -	218
+191	wari	t o m i ʔ	t o m i ʔ	218
+192	cojubim	j a	j a - - - -	222
+193	kitemoka	j a j a r a	j a j a r a	222
+194	more	j a	j a - - - -	222
+195	orowin	k o m	k o m	223
+196	wanyam	k u m	k u m	223
+197	wari	k o m	k o m	223
+198	cojubim	w o	w o	225
+199	more	w o	w o	225
+200	jaru	k o m e m	k o m e m	229
+201	urupa	k u m e n	k u m e n	229
+202	kitemoka	m a t e	- m a t e	238
+203	tapakura	u m a t i	u m a t i	238
+204	orowin	p a f o t i ʔ	p a f o t i ʔ	242
+205	tora	p a h u z i	p a h u z i -	242
+206	wanyam	p a h o t i ʔ	p a h o t i ʔ	242
+207	wari	h o t o w a	h o t o w a -	242
+208	jaru	k a h o	k a h o	243
+209	urupa	k a k o	k a k o	243
+210	cojubim	p u j a n i	p u j a n i	244
+211	more	p u j a n i	p u j a n i	244
+212	cojubim	m e m	m e m -	252
+213	more	m e m	m e m -	252
+214	orowin	m e m	m e m -	252
+215	tora	m ë b n	m ë b n	252
+216	wanyam	p a k a ɲ i k o n	p a k a ɲ i k o n	253
+217	wari	p a k a ʔ	p a k a - - ʔ - -	253
+218	jaru	t e m ʔ	t e m ʔ	254
+219	urupa	t y m	t y m -	254
+220	kitemoka	t i o p a tʃ e n e	t i o p a tʃ e n e	255
+221	tapakura	t u p a tʃ i n i	t u - p a tʃ i n i	255
+222	kitemoka	a tʃ i w i	a tʃ i w i	258
+223	tapakura	i t u w i	i t u w i	258
+224	kitemoka	t i h o t i	t i h o t i	260
+225	tapakura	t a h u t i	t a h u t i	260
+226	orowin	m e s e m	m e s e m	261
+227	tora	m o r e m	m o r e m	261
+228	wari	m i tʃ e m	m i tʃ e m	261
+229	jaru	s a g a j	s a g a - j	263
+230	urupa	s k a i d	s - k a i d	263
+231	kitemoka	j u i t a m a k e	j u i t a m a k e	264
+232	tapakura	w i t a m	w - i t a m - - -	264
+233	cojubim	t o m	t o m	265
+234	more	t o m	t o m	265
+235	orowin	t o m	t o m	265
+236	wari	t o m	t o m	265
+237	cojubim	t i p a t	t i - - p a t	269
+238	more	t i j i p a t	t i j i p a t	269
+239	tora	a n a p a t	- a n a p a t	269
+240	orowin	s o k o r i	s o k o r i - -	273
+241	tora	t u k u r u d n	t u k u r u d n	273
+242	wari	tʃ o k o r i	tʃ o k o r i - -	273
+243	orowin	f o r o n	- - - - f o r o n	275
+244	wanyam	m a r a h o r o n	m a r a h o r o n	275
+245	wari	h o r o n	- - - - h o r o n	275
+246	kitemoka	t a r a k o n	- t a r a k o n	277
+247	tapakura	i t a r a k u n	i t a r a k u n	277
+248	orowin	a w i	a w i -	279
+249	wari	a w i ʔ	a w i ʔ	279
+250	jaru	a s a p	- a - - s a p -	280
+251	kitemoka	n a v i s a j a	n a v i s a j a	280
+252	orowin	i s a p	- i - - s a p -	280
+253	tapakura	n a w a s a	n a w a s - - a	280
+254	urupa	w a s a b	- - w a s a b -	280
+255	cojubim	n a m i ʔ	n a m i ʔ	281
+256	wanyam	i j a	- i j a -	281

@@ -1,0 +1,3212 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	Eryuan	ʈʂʰ ɤ ³¹	ʈʂʰ - ɤ ³¹	12
+2	Heqing	tɕʰ w ɔ ³¹	tɕʰ w ɔ ³¹	12
+3	Jianchuan	tsʰ ɤ ³¹	tsʰ - ɤ ³¹	12
+4	Lanping	tsʰ ɛ ⁴²	tsʰ - ɛ ⁴²	12
+5	Qiliqiao	tsʰ ɤ ³¹	tsʰ - ɤ ³¹	12
+6	Zhoucheng	tsʰ ɤ ³¹	tsʰ - ɤ ³¹	12
+7	Eryuan	p e ²¹	p e ²¹	22
+8	Heqing	p e ²¹	p e ²¹	22
+9	Jianchuan	p e ²¹	p e ²¹	22
+10	Lanping	p e ²¹	p e ²¹	22
+11	Qiliqiao	p e ²¹	p e ²¹	22
+12	Xiangyun	p e ²¹	p e ²¹	22
+13	Yunlong	p e ²¹	p e ²¹	22
+14	Zhoucheng	p e ²¹	p e ²¹	22
+15	Eryuan	t ɯ ²¹	t - ɯ ²¹	33
+16	Heqing	t ɯ ²¹	t - ɯ ²¹	33
+17	Jianchuan	t ɛ ²¹	t - ɛ ²¹	33
+18	Lanping	t j ɯ ²¹	t j ɯ ²¹	33
+19	Luobenzhuo	ʈ ɯ ³¹	ʈ - ɯ ³¹	33
+20	Qiliqiao	t ɯ ²¹	t - ɯ ²¹	33
+21	Yunlong	t ɯ ²¹	t - ɯ ²¹	33
+22	Zhoucheng	t ɯ ²¹	t - ɯ ²¹	33
+23	Eryuan	t e ³³	t - e ³³	53
+24	Heqing	t j ɛ ³³	t j ɛ ³³	53
+25	Jianchuan	t ĩ ³³	t - ĩ ³³	53
+26	Lanping	t j ɛ̃ ³³	t j ɛ̃ ³³	53
+27	Xiangyun	t ĩ ³³	t - ĩ ³³	53
+28	Yunlong	t i ³³	t - i ³³	53
+29	Eryuan	t ɔ ⁴⁴	t ɔ ⁴⁴	54
+30	Luobenzhuo	t o ⁵⁵	t o ⁵⁵	54
+31	Qiliqiao	t o ⁴⁴	t o ⁴⁴	54
+32	Zhoucheng	t o ³³	t o ³³	54
+33	Eryuan	tɕ i ³³	tɕ i ³³	85
+34	Heqing	tɕ ĩ ³³	tɕ ĩ ³³	85
+35	Jianchuan	tɕ ĩ ³³	tɕ ĩ ³³	85
+36	Lanping	tɕ ĩ ³³	tɕ ĩ ³³	85
+37	Qiliqiao	tɕ i ³³	tɕ i ³³	85
+38	Yunlong	dz e ³³	dz e ³³	85
+39	Zhoucheng	tɕ i ³³	tɕ i ³³	85
+40	Eryuan	ɲ i ²¹	ɲ i ²¹	95
+41	Heqing	j i ²¹	j i ²¹	95
+42	Jianchuan	j ĩ ³¹	j ĩ ³¹	95
+43	Lanping	j ĩ ²¹	j ĩ ²¹	95
+44	Luobenzhuo	ɲ i ³¹	ɲ i ³¹	95
+45	Qiliqiao	ɲ i ²¹	ɲ i ²¹	95
+46	Yunlong	ɲ i ²¹	ɲ i ²¹	95
+47	Zhoucheng	ɲ i ³¹	ɲ i ³¹	95
+48	Eryuan	ɲ ɯ ⁴²	ɲ ɯ ⁴²	108
+49	Heqing	j ɯ̃ ⁴²	j ɯ̃ ⁴²	108
+50	Jianchuan	j ɯ̃ ⁴²	j ɯ̃ ⁴²	108
+51	Lanping	j ɯ̃ ⁴²	j ɯ̃ ⁴²	108
+52	Yunlong	ɲ ɯ ⁴²	ɲ ɯ ⁴²	108
+53	Zhoucheng	ɲ ɯ ³²	ɲ ɯ ³²	108
+54	Luobenzhuo	ʈʂ æ ⁵⁵	ʈʂ æ ⁵⁵	109
+55	Xiangyun	tɕ ɛ ⁴⁴	tɕ ɛ ⁴⁴	109
+56	Eryuan	l a ⁴⁴	l a ⁴⁴	138
+57	Heqing	l a ⁴⁴	l a ⁴⁴	138
+58	Xiangyun	l a ⁴⁴	l a ⁴⁴	138
+59	Jianchuan	s ẽ ³³	s - ẽ ³³	139
+60	Lanping	s w ẽ ³³	s w ẽ ³³	139
+61	Qiliqiao	t e ³³	t e ³³	141
+62	Zhoucheng	t ɛ ³³	t ɛ ³³	141
+63	Luobenzhuo	t ɯ̃ ³¹	t ɯ̃ ³¹	149
+64	Yunlong	d ɔ ³¹	d ɔ ³¹	149
+65	Eryuan	ts e ⁴⁴	ts e ⁴⁴	160
+66	Heqing	ts e ⁵⁵	ts e ⁵⁵	160
+67	Jianchuan	ts e ⁴⁴	ts e ⁴⁴	160
+68	Lanping	ts e ⁴²	ts e ⁴²	160
+69	Qiliqiao	ts e ⁴⁴	ts e ⁴⁴	160
+70	Xiangyun	ts e ⁴⁴	ts e ⁴⁴	160
+71	Yunlong	ts ɛ ⁴⁴	ts ɛ ⁴⁴	160
+72	Zhoucheng	ts e ⁴⁴	ts e ⁴⁴	160
+73	Eryuan	tɕʰ ɔ ⁵⁵	tɕʰ - ɔ ⁵⁵	180
+74	Heqing	ts a ³⁵	ts - a ³⁵	180
+75	Jianchuan	ts a ³⁵	ts - a ³⁵	180
+76	Lanping	tɕʰ ɛ̃ ⁵⁵	tɕʰ - ɛ̃ ⁵⁵	180
+77	Luobenzhuo	d a ⁵⁵	d - a ⁵⁵	180
+78	Xiangyun	tɕʰ w ɛ ⁵⁵	tɕʰ w ɛ ⁵⁵	180
+79	Yunlong	ts a ⁵⁵	ts - a ⁵⁵	180
+80	Luobenzhuo	tɕ ã ³¹	tɕ ã ³¹	183
+81	Yunlong	tɕʰ i ³¹	tɕʰ i ³¹	183
+82	Eryuan	t ɔ ³⁵	t ɔ ³⁵	195
+83	Heqing	t ɔu ³⁵	t ɔu ³⁵	195
+84	Jianchuan	t o ⁵⁵	t o ⁵⁵	195
+85	Lanping	t u ⁵⁵	t u ⁵⁵	195
+86	Qiliqiao	t ɔ ³⁵	t ɔ ³⁵	195
+87	Zhoucheng	t ɔ ³⁵	t ɔ ³⁵	195
+88	Eryuan	p ɔ ³⁵	p ɔ ³⁵	196
+89	Heqing	p ɔu ³⁵	p ɔu ³⁵	196
+90	Jianchuan	p o ⁵⁵	p o ⁵⁵	196
+91	Lanping	p u ⁵⁵	p u ⁵⁵	196
+92	Luobenzhuo	p ɤ ⁵⁵	p ɤ ⁵⁵	196
+93	Qiliqiao	p ɔ ³⁵	p ɔ ³⁵	196
+94	Zhoucheng	p ɔ ³⁵	p ɔ ³⁵	196
+95	Eryuan	x ɔ ³¹	x - ɔ ³¹	214
+96	Jianchuan	x u ³¹	x - u ³¹	214
+97	Lanping	x ɔ ³³	x - ɔ ³³	214
+98	Luobenzhuo	x ẽ ⁵⁵	x - ẽ ⁵⁵	214
+99	Qiliqiao	x a ⁴²	x - a ⁴²	214
+100	Xiangyun	x w e ³³	x w e ³³	214
+101	Eryuan	kʰ ɯ ³³	kʰ ɯ ³³	215
+102	Jianchuan	kʰ ɯ ³³	kʰ ɯ ³³	215
+103	Lanping	kʰ ɯ ⁴⁴	kʰ ɯ ⁴⁴	215
+104	Qiliqiao	kʰ ɯ ³³	kʰ ɯ ³³	215
+105	Xiangyun	kʰ ou ³³	kʰ ou ³³	215
+106	Luobenzhuo	ts ẽ ⁵⁵	ts ẽ ⁵⁵	218
+107	Yunlong	tɕʰ i ³¹	tɕʰ i ³¹	218
+108	Zhoucheng	ts ɿ ⁴⁴	ts ɿ ⁴⁴	218
+109	Eryuan	j ɯ ⁴⁴	j ɯ ⁴⁴	253
+110	Heqing	j ɯ̃ ⁴⁴	j ɯ̃ ⁴⁴	253
+111	Jianchuan	j ɯ̃ ⁴⁴	j ɯ̃ ⁴⁴	253
+112	Yunlong	j ɯ ⁴⁴	j ɯ ⁴⁴	253
+113	Eryuan	p ɯ ³¹	p ɯ ³¹	272
+114	Heqing	p ɯ ²¹	p ɯ ²¹	272
+115	Jianchuan	p o ²¹	p o ²¹	272
+116	Qiliqiao	p ɯ ³¹	p ɯ ³¹	272
+117	Xiangyun	p ou ²¹	p ou ²¹	272
+118	Yunlong	p ɯ ³¹	p ɯ ³¹	272
+119	Zhoucheng	p ɯ ³¹	p ɯ ³¹	272
+120	Heqing	ts ɿ ³³	ts ɿ ³³	273
+121	Jianchuan	ts ɿ ³³	ts ɿ ³³	273
+122	Lanping	ts ɿ ⁴⁴	ts ɿ ⁴⁴	273
+123	Luobenzhuo	tɕ i ³¹	tɕ i ³¹	273
+124	Xiangyun	ts ɿ ³³	ts ɿ ³³	273
+125	Eryuan	p e ³³	p e ³³	294
+126	Jianchuan	p e ³³	p e ³³	294
+127	Eryuan	s e ⁴⁴	s e ⁴⁴	295
+128	Qiliqiao	s e ⁴²	s e ⁴²	295
+129	Eryuan	p ɯ ⁴⁴	p ɯ ⁴⁴	296
+130	Heqing	p ɯ ⁴⁴	p ɯ ⁴⁴	296
+131	Lanping	p i ³³	p i ³³	296
+132	Luobenzhuo	p ɯ ⁵⁵	p ɯ ⁵⁵	296
+133	Zhoucheng	p ɯ ⁴⁴	p ɯ ⁴⁴	296
+134	Jianchuan	tɕ i ³¹	tɕ i ³¹	299
+135	Lanping	tɕ i ³¹	tɕ i ³¹	299
+136	Zhoucheng	tɕʰ ɯ ⁵⁵	tɕʰ ɯ ⁵⁵	299
+137	Lanping	kʰ o ⁵⁵	kʰ o ⁵⁵	300
+138	Qiliqiao	kʰ ɔ ⁵⁵	kʰ ɔ ⁵⁵	300
+139	Luobenzhuo	tɕ ɤ ³³	tɕ ɤ ³³	301
+140	Xiangyun	tɕʰ ỹ ⁵⁵	tɕʰ ỹ ⁵⁵	301
+141	Yunlong	tɕʰ u ³³	tɕʰ u ³³	301
+142	Eryuan	p j ɛ ⁴⁴	p j ɛ ⁴⁴	317
+143	Heqing	p j ɛ ⁴⁴	p j ɛ ⁴⁴	317
+144	Jianchuan	p j ɛ ⁴⁴	p j ɛ ⁴⁴	317
+145	Lanping	p j ɛ ⁴⁴	p j ɛ ⁴⁴	317
+146	Qiliqiao	p j ɛ ⁴⁴	p j ɛ ⁴⁴	317
+147	Xiangyun	p j ɛ ⁴⁴	p j ɛ ⁴⁴	317
+148	Yunlong	p j ɛ ⁴⁴	p j ɛ ⁴⁴	317
+149	Zhoucheng	p j ɛ ⁴⁴	p j ɛ ⁴⁴	317
+150	Eryuan	x e ⁴⁴	x e ⁴⁴	327
+151	Heqing	x e ³³	x e ³³	327
+152	Jianchuan	x e ⁴⁴	x e ⁴⁴	327
+153	Lanping	x e ⁴⁴	x e ⁴⁴	327
+154	Qiliqiao	x e ⁴⁴	x e ⁴⁴	327
+155	Xiangyun	x ɛ ⁴⁴	x ɛ ⁴⁴	327
+156	Yunlong	x ɛ ³³	x ɛ ³³	327
+157	Eryuan	l ɔ ⁵⁵	l ɔ ⁵⁵	349
+158	Jianchuan	l ou ⁵⁵	l ou ⁵⁵	349
+159	Lanping	l o ⁵⁵	l o ⁵⁵	349
+160	Eryuan	j a ⁴⁴	j a ⁴⁴	350
+161	Lanping	j a ⁴⁴	j a ⁴⁴	350
+162	Eryuan	t ɯ ⁴²	t ɯ ⁴²	351
+163	Heqing	t ɯ ⁴²	t ɯ ⁴²	351
+164	Qiliqiao	t ɯ ⁴²	t ɯ ⁴²	351
+165	Xiangyun	t ɯ̃ ⁴²	t ɯ̃ ⁴²	351
+166	Yunlong	t ɯ ²¹	t ɯ ²¹	351
+167	Zhoucheng	t ɯ ³²	t ɯ ³²	351
+168	Heqing	m ɔu ³³	m ɔu ³³	352
+169	Luobenzhuo	m ɯ̃ ⁵⁵	m ɯ̃ ⁵⁵	352
+170	Qiliqiao	m ɯ ³¹	m ɯ ³¹	352
+171	Xiangyun	m ɔ ⁴²	m ɔ ⁴²	352
+172	Yunlong	m o ³³	m o ³³	352
+173	Zhoucheng	m ɯ ³¹	m ɯ ³¹	352
+174	Eryuan	p j a ⁴²	p j a ⁴²	374
+175	Heqing	p j a ⁴²	p j a ⁴²	374
+176	Jianchuan	p j a ⁴²	p j a ⁴²	374
+177	Lanping	p j a ⁴²	p j a ⁴²	374
+178	Qiliqiao	p j a ⁴²	p j a ⁴²	374
+179	Xiangyun	p j a ⁴²	p j a ⁴²	374
+180	Yunlong	p j a ⁴²	p j a ⁴²	374
+181	Eryuan	p ɯ ⁴⁴	p ɯ ⁴⁴	417
+182	Heqing	p ɯ ⁵⁵	p ɯ ⁵⁵	417
+183	Jianchuan	p o ⁵⁵	p o ⁵⁵	417
+184	Lanping	p u ⁵⁵	p u ⁵⁵	417
+185	Qiliqiao	p o ⁵⁵	p o ⁵⁵	417
+186	Xiangyun	p ɔ ³⁵	p ɔ ³⁵	417
+187	Yunlong	p u ⁵⁵	p u ⁵⁵	417
+188	Heqing	p ɯ ³³	p ɯ ³³	418
+189	Jianchuan	p o ⁴⁴	p o ⁴⁴	418
+190	Lanping	p u ⁵⁵	p u ⁵⁵	418
+191	Qiliqiao	p o ⁴⁴	p o ⁴⁴	418
+192	Xiangyun	p ou ³³	p ou ³³	418
+193	Jianchuan	ts ɿ ³³	ts ɿ ³³	419
+194	Zhoucheng	ts ɿ ³³	ts ɿ ³³	419
+195	Xiangyun	ɕ ɛ ⁴⁴	ɕ ɛ ⁴⁴	422
+196	Yunlong	ʃ ɤ ³³	ʃ ɤ ³³	422
+197	Zhoucheng	s e ⁵⁵	s e ⁵⁵	422
+198	Eryuan	p ɛ ³¹	p ɛ ³¹	440
+199	Heqing	p ɛ̃ ³¹	p ɛ̃ ³¹	440
+200	Jianchuan	p ɛ̃ ³¹	p ɛ̃ ³¹	440
+201	Lanping	p æ̃ ⁴²	p æ̃ ⁴²	440
+202	Qiliqiao	p ɛ ³¹	p ɛ ³¹	440
+203	Xiangyun	p ɛ̃ ³¹	p ɛ̃ ³¹	440
+204	Yunlong	p ɛ ³¹	p ɛ ³¹	440
+205	Zhoucheng	p ɛ ³¹	p ɛ ³¹	440
+206	Jianchuan	s ɤ̃ ³¹	s ɤ̃ ³¹	441
+207	Lanping	s ɔ̃ ⁴²	s ɔ̃ ⁴²	441
+208	Luobenzhuo	s õ ³¹	s õ ³¹	441
+209	Eryuan	tɕ i ³⁵	tɕ i ³⁵	462
+210	Heqing	tɕ ĩ ³⁵	tɕ ĩ ³⁵	462
+211	Jianchuan	tɕ ĩ ⁵⁵	tɕ ĩ ⁵⁵	462
+212	Lanping	tɕ ĩ ⁵⁵	tɕ ĩ ⁵⁵	462
+213	Luobenzhuo	ts ẽ ⁵⁵	ts ẽ ⁵⁵	462
+214	Xiangyun	tɕ ĩ ³⁵	tɕ ĩ ³⁵	462
+215	Yunlong	tɕ i ³⁵	tɕ i ³⁵	462
+216	Qiliqiao	ɕ o ⁴²	ɕ o ⁴²	464
+217	Zhoucheng	ɕ o ⁴²	ɕ o ⁴²	464
+218	Eryuan	ʈʂ ɔ ³¹	ʈʂ ɔ ³¹	483
+219	Heqing	ts ɔ̃u ²¹	ts ɔ̃u ²¹	483
+220	Jianchuan	ts õu ²¹	ts õu ²¹	483
+221	Lanping	ts ɔ ³³	ts ɔ ³³	483
+222	Qiliqiao	ts o ²¹	ts o ²¹	483
+223	Zhoucheng	ts o ²¹	ts o ²¹	483
+224	Luobenzhuo	qʰ ã ⁴²	qʰ ã ⁴²	487
+225	Yunlong	kʰ ɤ ³¹	kʰ ɤ ³¹	487
+226	Eryuan	ʈʂ ɤ ⁴⁴	ʈʂ ɤ ⁴⁴	496
+227	Luobenzhuo	tɕ o ⁵⁵	tɕ o ⁵⁵	496
+228	Qiliqiao	ts ɤ ⁴⁴	ts ɤ ⁴⁴	496
+229	Xiangyun	tɕ ɛ ⁴⁴	tɕ ɛ ⁴⁴	496
+230	Yunlong	tsʰ o ³³	tsʰ o ³³	496
+231	Zhoucheng	ts ɤ ⁴⁴	ts ɤ ⁴⁴	496
+232	Eryuan	ɕ i ⁴⁴	ɕ i ⁴⁴	497
+233	Heqing	s ɿ ⁵⁵	s ɿ ⁵⁵	497
+234	Jianchuan	s ɿ ⁵⁵	s ɿ ⁵⁵	497
+235	Lanping	s ɛ ⁴⁴	s ɛ ⁴⁴	497
+236	Luobenzhuo	ɕ i ⁵⁵	ɕ i ⁵⁵	497
+237	Qiliqiao	ɕ i ⁴⁴	ɕ i ⁴⁴	497
+238	Xiangyun	ɕ i ⁴⁴	ɕ i ⁴⁴	497
+239	Zhoucheng	ɕ i ⁴⁴	ɕ i ⁴⁴	497
+240	Heqing	p i ⁵⁵	p i ⁵⁵	498
+241	Jianchuan	p i ⁵⁵	p i ⁵⁵	498
+242	Lanping	p i ⁴⁴	p i ⁴⁴	498
+243	Yunlong	p e ³³	p e ³³	498
+244	Eryuan	ts ɿ ⁵⁵	ts ɿ ⁵⁵	517
+245	Luobenzhuo	tɕ ɛ̃ ⁵⁵	tɕ ɛ̃ ⁵⁵	517
+246	Yunlong	ts ɿ ⁵⁵	ts ɿ ⁵⁵	517
+247	Eryuan	f ɤ ⁵⁵	f ɤ ⁵⁵	518
+248	Heqing	f ɤ̃ ⁵⁵	f ɤ̃ ⁵⁵	518
+249	Jianchuan	f ɤ̃ ⁵⁵	f ɤ̃ ⁵⁵	518
+250	Lanping	f ɯ̃ ⁵⁵	f ɯ̃ ⁵⁵	518
+251	Qiliqiao	f ɤ ⁵⁵	f ɤ ⁵⁵	518
+252	Xiangyun	f ɯ̃ ⁵⁵	f ɯ̃ ⁵⁵	518
+253	Yunlong	f ɤ ⁵⁵	f ɤ ⁵⁵	518
+254	Zhoucheng	f ɤ ⁵⁵	f ɤ ⁵⁵	518
+255	Eryuan	ɣ ɯ ³³	ɣ ɯ ³³	530
+256	Heqing	ɣ ɯ ³³	ɣ ɯ ³³	530
+257	Jianchuan	ɣ ɯ ³³	ɣ ɯ ³³	530
+258	Lanping	ɣ ɯ ⁴⁴	ɣ ɯ ⁴⁴	530
+259	Luobenzhuo	x ɯ̃ ³³	x ɯ̃ ³³	530
+260	Xiangyun	ɣ ɯ ³³	ɣ ɯ ³³	530
+261	Yunlong	x ɯ ⁵⁵	x ɯ ⁵⁵	530
+262	Zhoucheng	ɣ ɯ ³³	ɣ ɯ ³³	530
+263	Eryuan	p ɔ ³¹	p ɔ ³¹	531
+264	Zhoucheng	p e ²¹	p e ²¹	531
+265	Heqing	m i ⁴²	m i ⁴²	532
+266	Jianchuan	m i ⁴²	m i ⁴²	532
+267	Lanping	m i ³³	m i ³³	532
+268	Qiliqiao	m i ⁴⁴	m i ⁴⁴	532
+269	Luobenzhuo	d ɯ̃ ³¹	d ɯ̃ ³¹	534
+270	Qiliqiao	t ɔ ³⁵	t ɔ ³⁵	534
+271	Yunlong	d ɔ ³¹	d ɔ ³¹	534
+272	Zhoucheng	t ɔ ³¹	t ɔ ³¹	534
+273	Eryuan	f ɤ ⁴⁴	f ɤ ⁴⁴	564
+274	Heqing	f ɤ ⁴⁴	f ɤ ⁴⁴	564
+275	Jianchuan	f ɤ ⁴⁴	f ɤ ⁴⁴	564
+276	Qiliqiao	f ɤ ⁴⁴	f ɤ ⁴⁴	564
+277	Xiangyun	f ɤ ⁴⁴	f ɤ ⁴⁴	564
+278	Yunlong	f ɤ ⁴⁴	f ɤ ⁴⁴	564
+279	Zhoucheng	f ɤ ⁴⁴	f ɤ ⁴⁴	564
+280	Lanping	ʐ ɛ ³¹	ʐ ɛ ³¹	565
+281	Luobenzhuo	ʐ a ⁴⁴	ʐ a ⁴⁴	565
+282	Heqing	ts ɿ ³³	ts ɿ ³³	586
+283	Jianchuan	ts ɿ ³³	ts ɿ ³³	586
+284	Lanping	ts ɿ ⁵⁵	ts ɿ ⁵⁵	586
+285	Heqing	p j ɛ ⁴⁴	p j ɛ ⁴⁴	649
+286	Jianchuan	p j ɛ ⁴⁴	p j ɛ ⁴⁴	649
+287	Eryuan	t w a ³¹	t w a ³¹	660
+288	Heqing	t w a ³¹	t w a ³¹	660
+289	Jianchuan	t w a ³¹	t w a ³¹	660
+290	Xiangyun	t w e ³³	t w e ³³	660
+291	Yunlong	t w a ³¹	t w a ³¹	660
+292	Qiliqiao	j i ³¹	j i ³¹	663
+293	Zhoucheng	j i ³¹	j i ³¹	663
+294	Qiliqiao	m u ³³	m u ³³	664
+295	Zhoucheng	m u ³³	m u ³³	664
+296	Eryuan	t ɯ ²¹	t ɯ ²¹	702
+297	Heqing	t ɯ ²¹	t ɯ ²¹	702
+298	Jianchuan	t ɯ ²¹	t ɯ ²¹	702
+299	Qiliqiao	t ɯ ²¹	t ɯ ²¹	702
+300	Xiangyun	t ou ²¹	t ou ²¹	702
+301	Yunlong	t ɯ ²¹	t ɯ ²¹	702
+302	Zhoucheng	t ɯ ²¹	t ɯ ²¹	702
+303	Lanping	ts e ⁴⁴	ts e ⁴⁴	703
+304	Luobenzhuo	ts ɛ ⁴⁴	ts ɛ ⁴⁴	703
+305	Eryuan	s ɤ ³⁵	s - ɤ ³⁵	720
+306	Heqing	s w ɔ ³⁵	s w ɔ ³⁵	720
+307	Jianchuan	s ɤ ⁵⁵	s - ɤ ⁵⁵	720
+308	Lanping	s ɿ ⁴⁴	s - ɿ ⁴⁴	720
+309	Qiliqiao	s ɿ ³⁵	s - ɿ ³⁵	720
+310	Xiangyun	s ɤ ³⁵	s - ɤ ³⁵	720
+311	Yunlong	ʃ ɤ ³⁵	ʃ - ɤ ³⁵	720
+312	Zhoucheng	s ɿ ³⁵	s - ɿ ³⁵	720
+313	Eryuan	tsʰ w ɛ ⁴⁴	tsʰ w ɛ ⁴⁴	721
+314	Heqing	tɕʰ w ɛ ⁴⁴	tɕʰ w ɛ ⁴⁴	721
+315	Jianchuan	tsʰ w ɛ ⁴⁴	tsʰ w ɛ ⁴⁴	721
+316	Lanping	tɕʰ w ɛ ³³	tɕʰ w ɛ ³³	721
+317	Qiliqiao	tʃʰ w ɛ ⁴⁴	tʃʰ w ɛ ⁴⁴	721
+318	Xiangyun	tɕʰ w ɛ ⁴⁴	tɕʰ w ɛ ⁴⁴	721
+319	Yunlong	tsʰ w ɛ ⁴⁴	tsʰ w ɛ ⁴⁴	721
+320	Zhoucheng	tsʰ w ɛ ⁴⁴	tsʰ w ɛ ⁴⁴	721
+321	Eryuan	k u ²¹	k u ²¹	739
+322	Jianchuan	k u ²¹	k u ²¹	739
+323	Lanping	k u ²¹	k u ²¹	739
+324	Qiliqiao	k u ²¹	k u ²¹	739
+325	Zhoucheng	k u ²¹	k u ²¹	739
+326	Heqing	p j ɛ̃ ²¹	p j ɛ̃ ²¹	740
+327	Xiangyun	p ɛ̃ ²¹	p - ɛ̃ ²¹	740
+328	Eryuan	pʰ ɔ ²¹	pʰ ɔ ²¹	773
+329	Heqing	pʰ ɔu ³¹	pʰ ɔu ³¹	773
+330	Jianchuan	p ou ³¹	p ou ³¹	773
+331	Lanping	pʰ o ³¹	pʰ o ³¹	773
+332	Qiliqiao	pʰ ɔ ³¹	pʰ ɔ ³¹	773
+333	Zhoucheng	pʰ ɔ ³¹	pʰ ɔ ³¹	773
+334	Luobenzhuo	t ɤ ³³	t ɤ ³³	774
+335	Xiangyun	tʰ ɛ̃ ⁵⁵	tʰ ɛ̃ ⁵⁵	774
+336	Eryuan	ʈʂ w e ⁴⁴	ʈʂ w e ⁴⁴	822
+337	Heqing	ts w e ⁴⁴	ts w e ⁴⁴	822
+338	Jianchuan	ts w e ⁴⁴	ts w e ⁴⁴	822
+339	Lanping	ts w e ⁴⁴	ts w e ⁴⁴	822
+340	Luobenzhuo	t w ɛ ⁵⁵	t w ɛ ⁵⁵	822
+341	Xiangyun	ts w e ⁴⁴	ts w e ⁴⁴	822
+342	Zhoucheng	ts w e ⁴⁴	ts w e ⁴⁴	822
+343	Eryuan	k ɤ ²¹	k ɤ ²¹	823
+344	Heqing	k ɯ ²¹	k ɯ ²¹	823
+345	Lanping	k u ³¹	k u ³¹	823
+346	Qiliqiao	k ɤ ³¹	k ɤ ³¹	823
+347	Yunlong	k ɤ ²¹	k ɤ ²¹	823
+348	Zhoucheng	k ɤ ³¹	k ɤ ³¹	823
+349	Heqing	tsʰ ɛ̃ ⁴⁴	tsʰ ɛ̃ ⁴⁴	840
+350	Jianchuan	tsʰ ɛ̃ ⁴⁴	tsʰ ɛ̃ ⁴⁴	840
+351	Eryuan	tʰ ɤ ²¹	tʰ ɤ ²¹	859
+352	Heqing	tʰ ɔ̃ ³¹	tʰ ɔ̃ ³¹	859
+353	Jianchuan	tʰ ɤ̃ ³¹	tʰ ɤ̃ ³¹	859
+354	Qiliqiao	tʰ ɤ ²¹	tʰ ɤ ²¹	859
+355	Xiangyun	tʰ ɛ̃ ⁴²	tʰ ɛ̃ ⁴²	859
+356	Yunlong	tʰ ɤ ²¹	tʰ ɤ ²¹	859
+357	Zhoucheng	tʰ ɤ ³¹	tʰ ɤ ³¹	859
+358	Heqing	ts ɿ ³³	ts ɿ ³³	882
+359	Jianchuan	ts ɿ ³³	ts ɿ ³³	882
+360	Xiangyun	ts ɿ ³³	ts ɿ ³³	882
+361	Zhoucheng	ts ɿ ³³	ts ɿ ³³	882
+362	Eryuan	tɕʰ y ⁵⁵	tɕʰ y ⁵⁵	913
+363	Heqing	tɕʰ ỹ ⁵⁵	tɕʰ ỹ ⁵⁵	913
+364	Jianchuan	tɕʰ ỹ ⁵⁵	tɕʰ ỹ ⁵⁵	913
+365	Lanping	tɕʰ ỹ ⁵⁵	tɕʰ ỹ ⁵⁵	913
+366	Qiliqiao	tɕʰ y ⁵⁵	tɕʰ y ⁵⁵	913
+367	Xiangyun	tsʰ ɯ̃ ⁵⁵	tsʰ ɯ̃ ⁵⁵	913
+368	Zhoucheng	tɕʰ y ⁵⁵	tɕʰ y ⁵⁵	913
+369	Eryuan	ɕ ɔ ³¹	ɕ ɔ ³¹	923
+370	Qiliqiao	ɕ ɔ ³¹	ɕ ɔ ³¹	923
+371	Xiangyun	c õ ⁴²	c õ ⁴²	923
+372	Yunlong	ɕ ɔ ³¹	ɕ ɔ ³¹	923
+373	Zhoucheng	ɕ o ³¹	ɕ o ³¹	923
+374	Eryuan	t ɯ ⁴²	t ɯ ⁴²	925
+375	Heqing	t ɯ ⁴²	t ɯ ⁴²	925
+376	Jianchuan	t ɯ ⁴²	t ɯ ⁴²	925
+377	Zhoucheng	t ɯ ⁴²	t ɯ ⁴²	925
+378	Jianchuan	ts ɿ ³¹	ts ɿ ³¹	926
+379	Lanping	ts ɯ ³³	ts ɯ ³³	926
+380	Xiangyun	ts ɿ ³³	ts ɿ ³³	926
+381	Lanping	k a ⁵⁵	k a ⁵⁵	927
+382	Luobenzhuo	q a ⁵⁵	q a ⁵⁵	927
+383	Eryuan	j ɛ ⁴²	j ɛ ⁴²	947
+384	Heqing	j ɛ̃ ⁴²	j ɛ̃ ⁴²	947
+385	Jianchuan	j ɛ ⁴²	j ɛ ⁴²	947
+386	Qiliqiao	j ɛ ³²	j ɛ ³²	947
+387	Yunlong	j ɛ ⁴²	j ɛ ⁴²	947
+388	Zhoucheng	j ɛ ⁴²	j ɛ ⁴²	947
+389	Lanping	v ɛ ³³	v ɛ ³³	948
+390	Luobenzhuo	v e ³³	v e ³³	948
+391	Heqing	p ɔu ³¹	p ɔu ³¹	957
+392	Luobenzhuo	b o ⁴⁴	b o ⁴⁴	957
+393	Xiangyun	p a ³¹	p a ³¹	957
+394	Yunlong	p ao ²¹	p ao ²¹	957
+395	Jianchuan	m a ²¹	m a ²¹	958
+396	Lanping	m a ²¹	m a ²¹	958
+397	Eryuan	a ⁵⁵	a ⁵⁵	966
+398	Jianchuan	a ⁵⁵	a ⁵⁵	966
+399	Qiliqiao	a ⁵⁵	a ⁵⁵	966
+400	Xiangyun	a ⁵⁵	a ⁵⁵	966
+401	Zhoucheng	a ⁵⁵	a ⁵⁵	966
+402	Eryuan	n i ⁵⁵	n i ⁵⁵	967
+403	Heqing	n i ³⁵	n i ³⁵	967
+404	Jianchuan	n i ⁵⁵	n i ⁵⁵	967
+405	Lanping	n i ⁵⁵	n i ⁵⁵	967
+406	Qiliqiao	m i ⁵⁵	m i ⁵⁵	971
+407	Xiangyun	m i ⁵⁵	m i ⁵⁵	971
+408	Yunlong	m i ⁵⁵	m i ⁵⁵	971
+409	Zhoucheng	m i ⁵⁵	m i ⁵⁵	971
+410	Eryuan	tɕ i ⁴²	tɕ i ⁴²	983
+411	Jianchuan	tɕ i ⁴²	tɕ i ⁴²	983
+412	Lanping	tɕ i ³¹	tɕ i ³¹	983
+413	Xiangyun	tɕ i ⁴²	tɕ i ⁴²	983
+414	Yunlong	k ɛ ³¹	k ɛ ³¹	983
+415	Zhoucheng	kʲ i ⁴²	kʲ i ⁴²	983
+416	Eryuan	t e ³³	t e ³³	985
+417	Lanping	t ẽ ⁴²	t ẽ ⁴²	985
+418	Luobenzhuo	t ẽ ³³	t ẽ ³³	985
+419	Eryuan	pʰ i ⁵⁵	pʰ i ⁵⁵	996
+420	Heqing	pʰ i ⁵⁵	pʰ i ⁵⁵	996
+421	Jianchuan	pʰ i ⁵⁵	pʰ i ⁵⁵	996
+422	Lanping	pʰ i ⁵⁵	pʰ i ⁵⁵	996
+423	Qiliqiao	pʰ i ⁵⁵	pʰ i ⁵⁵	996
+424	Xiangyun	pʰ ĩ ⁵⁵	pʰ ĩ ⁵⁵	996
+425	Yunlong	pʰ i ⁵⁵	pʰ i ⁵⁵	996
+426	Zhoucheng	pʰ i ⁵⁵	pʰ i ⁵⁵	996
+427	Eryuan	j i ⁴⁴	j i ⁴⁴	997
+428	Heqing	j i ⁴⁴	j i ⁴⁴	997
+429	Jianchuan	j i ⁴⁴	j i ⁴⁴	997
+430	Lanping	j i ³¹	j i ³¹	997
+431	Qiliqiao	j i ⁴⁴	j i ⁴⁴	997
+432	Xiangyun	j i ⁴⁴	j i ⁴⁴	997
+433	Yunlong	j i ⁴⁴	j i ⁴⁴	997
+434	Zhoucheng	j i ⁴⁴	j i ⁴⁴	997
+435	Eryuan	ts ɔ ⁴²	ts ɔ ⁴²	1015
+436	Heqing	ts ɔu ⁴²	ts ɔu ⁴²	1015
+437	Jianchuan	ts ou ⁴²	ts ou ⁴²	1015
+438	Lanping	ts a ⁴²	ts a ⁴²	1015
+439	Qiliqiao	ts o ⁴²	ts o ⁴²	1015
+440	Yunlong	ts o ⁴²	ts o ⁴²	1015
+441	Zhoucheng	ts o ⁴²	ts o ⁴²	1015
+442	Luobenzhuo	ʐ a ⁴²	ʐ a ⁴²	1017
+443	Xiangyun	z a ³¹	z a ³¹	1017
+444	Eryuan	m a ³⁵	m a ³⁵	1036
+445	Yunlong	m a ³⁵	m a ³⁵	1036
+446	Eryuan	ɲ i ²¹	ɲ i ²¹	1038
+447	Yunlong	ɲ i ²¹	ɲ i ²¹	1038
+448	Zhoucheng	ɲ i ³³	ɲ i ³³	1038
+449	Heqing	s ɿ ⁵⁵	s ɿ ⁵⁵	1039
+450	Jianchuan	s ɿ ⁵⁵	s ɿ ⁵⁵	1039
+451	Lanping	s ɿ ⁵⁵	s ɿ ⁵⁵	1039
+452	Qiliqiao	s ɤ ⁵⁵	s ɤ ⁵⁵	1039
+453	Zhoucheng	s ɿ ⁵⁵	s ɿ ⁵⁵	1039
+454	Heqing	ts ɿ ³³	ts ɿ ³³	1040
+455	Jianchuan	ts ɿ ³³	ts ɿ ³³	1040
+456	Lanping	ts ɯ ⁴⁴	ts ɯ ⁴⁴	1040
+457	Luobenzhuo	ts ɿ ⁴⁴	ts ɿ ⁴⁴	1040
+458	Qiliqiao	ts ɤ ³³	ts ɤ ³³	1040
+459	Xiangyun	ts ɿ ³³	ts ɿ ³³	1040
+460	Zhoucheng	ts ɿ ³³	ts ɿ ³³	1040
+461	Heqing	j ɤ ³³	j ɤ ³³	1041
+462	Jianchuan	j ɤ̃ ³³	j ɤ̃ ³³	1041
+463	Qiliqiao	n ɤ ³³	n ɤ ³³	1041
+464	Heqing	ts ou ⁴⁴	ts ou ⁴⁴	1094
+465	Jianchuan	ts ou ⁴⁴	ts ou ⁴⁴	1094
+466	Lanping	ts u ⁴⁴	ts u ⁴⁴	1094
+467	Qiliqiao	ts o ⁴⁴	ts o ⁴⁴	1094
+468	Xiangyun	ts ɔ ⁴⁴	ts ɔ ⁴⁴	1094
+469	Yunlong	ts u ⁴⁴	ts u ⁴⁴	1094
+470	Zhoucheng	ts o ⁴⁴	ts o ⁴⁴	1094
+471	Eryuan	m i ³⁵	m i ³⁵	1153
+472	Heqing	m e ³⁵	m e ³⁵	1153
+473	Jianchuan	m e ⁵⁵	m e ⁵⁵	1153
+474	Lanping	m ĩ ⁵⁵	m ĩ ⁵⁵	1153
+475	Qiliqiao	m e ³⁵	m e ³⁵	1153
+476	Xiangyun	m i ³⁵	m i ³⁵	1153
+477	Yunlong	m i ³⁵	m i ³⁵	1153
+478	Zhoucheng	m e ³⁵	m e ³⁵	1153
+479	Eryuan	pʰ j ɔ ³¹	pʰ j ɔ ³¹	1163
+480	Qiliqiao	pʰ j ɔ ³¹	pʰ j ɔ ³¹	1163
+481	Xiangyun	pʰ j ɔ ³¹	pʰ j ɔ ³¹	1163
+482	Yunlong	pʰ j ɔ ³¹	pʰ j ɔ ³¹	1163
+483	Zhoucheng	pʰ j ɔ ³¹	pʰ j ɔ ³¹	1163
+484	Heqing	sʰ e ⁴⁴	sʰ e ⁴⁴	1164
+485	Jianchuan	s e ⁴⁴	s e ⁴⁴	1164
+486	Lanping	s e ⁴⁴	s e ⁴⁴	1164
+487	Luobenzhuo	s æ ⁵⁵	s æ ⁵⁵	1164
+488	Eryuan	p e ⁴²	p e ⁴²	1174
+489	Jianchuan	p e ⁴²	p e ⁴²	1174
+490	Lanping	p e ³³	p e ³³	1174
+491	Qiliqiao	p e ³²	p e ³²	1174
+492	Zhoucheng	p e ⁴²	p e ⁴²	1174
+493	Heqing	k w ã ³⁵	k w ã ³⁵	1175
+494	Jianchuan	k w ã ⁵⁵	k w ã ⁵⁵	1175
+495	Xiangyun	k w ã ³⁵	k w ã ³⁵	1175
+496	Yunlong	kʰ ao ⁵⁵	kʰ - ao ⁵⁵	1175
+497	Eryuan	v ɤ ²¹	v ɤ ²¹	1192
+498	Heqing	v ɤ ²¹	v ɤ ²¹	1192
+499	Jianchuan	v ɤ̃ ²¹	v ɤ̃ ²¹	1192
+500	Lanping	v ã ²¹	v ã ²¹	1192
+501	Qiliqiao	v ɤ ²¹	v ɤ ²¹	1192
+502	Zhoucheng	v ɤ ²¹	v ɤ ²¹	1192
+503	Xiangyun	j ɛ̃ ²¹	j ɛ̃ ²¹	1195
+504	Yunlong	ɥ ɛ ⁴⁴	ɥ ɛ ⁴⁴	1195
+505	Eryuan	p e ²¹	p e ²¹	1214
+506	Qiliqiao	pʰ i ²¹	pʰ i ²¹	1214
+507	Yunlong	p e ²¹	p e ²¹	1214
+508	Heqing	s u ⁵⁵	s u ⁵⁵	1215
+509	Jianchuan	s ɤ ⁵⁵	s ɤ ⁵⁵	1215
+510	Lanping	s u ⁵⁵	s u ⁵⁵	1215
+511	Luobenzhuo	ɕ u ³³	ɕ u ³³	1215
+512	Qiliqiao	s ɤ ³⁵	s ɤ ³⁵	1215
+513	Xiangyun	ɕ ɛ ³⁵	ɕ ɛ ³⁵	1215
+514	Yunlong	ʃ ɤ ³⁵	ʃ ɤ ³⁵	1215
+515	Zhoucheng	s ɤ ³⁵	s ɤ ³⁵	1215
+516	Heqing	ts ɿ ³³	ts ɿ ³³	1216
+517	Xiangyun	ts ɿ ³³	ts ɿ ³³	1216
+518	Qiliqiao	kʰ ɔ ⁵⁵	kʰ ɔ ⁵⁵	1218
+519	Zhoucheng	kʰ ɔ ⁵⁵	kʰ ɔ ⁵⁵	1218
+520	Eryuan	p e ⁴⁴	p e ⁴⁴	1241
+521	Qiliqiao	p e ⁴⁴	p e ⁴⁴	1241
+522	Yunlong	p e ⁴⁴	p e ⁴⁴	1241
+523	Zhoucheng	p e ⁴⁴	p e ⁴⁴	1241
+524	Eryuan	j ɯ ³⁵	j ɯ ³⁵	1242
+525	Yunlong	j ɯ ³⁵	j ɯ ³⁵	1242
+526	Zhoucheng	j ɯ ³⁵	j ɯ ³⁵	1242
+527	Heqing	ɣ ɯ ³⁵	ɣ ɯ ³⁵	1243
+528	Jianchuan	ɣ ɯ ³⁵	ɣ ɯ ³⁵	1243
+529	Lanping	ɣ ɯ ³⁵	ɣ ɯ ³⁵	1243
+530	Xiangyun	ɣ ɯ ³⁵	ɣ ɯ ³⁵	1243
+531	Eryuan	ʐ ɤ ⁴²	ʐ ɤ ⁴²	1256
+532	Qiliqiao	s ɤ ⁴²	s ɤ ⁴²	1256
+533	Yunlong	z ɤ ⁴²	z ɤ ⁴²	1256
+534	Zhoucheng	z ɤ ⁴²	z ɤ ⁴²	1256
+535	Heqing	v ɤ ⁴²	v ɤ ⁴²	1257
+536	Jianchuan	v ɤ ⁴²	v ɤ ⁴²	1257
+537	Eryuan	ʈʂ ɤ ⁴²	ʈʂ - ɤ ⁴²	1276
+538	Heqing	ts w ɔ̃ ⁴²	ts w ɔ̃ ⁴²	1276
+539	Lanping	ts ao ⁴²	ts - ao ⁴²	1276
+540	Qiliqiao	ts ɤ ⁴²	ts - ɤ ⁴²	1276
+541	Xiangyun	tɕ ɛ ⁴²	tɕ - ɛ ⁴²	1276
+542	Jianchuan	x ɯ̃ ³³	x ɯ̃ ³³	1277
+543	Yunlong	x ɯ ³³	x ɯ ³³	1277
+544	Zhoucheng	x ɯ ³⁵	x ɯ ³⁵	1277
+545	Eryuan	tsʰ ɯ ³¹	tsʰ ɯ ³¹	1286
+546	Heqing	tsʰ ɯ ³¹	tsʰ ɯ ³¹	1286
+547	Jianchuan	tsʰ ɯ ³¹	tsʰ ɯ ³¹	1286
+548	Lanping	tsʰ ɯ ³¹	tsʰ ɯ ³¹	1286
+549	Luobenzhuo	tsʰ ɯ ³¹	tsʰ ɯ ³¹	1286
+550	Xiangyun	tsʰ ou ³¹	tsʰ ou ³¹	1286
+551	Yunlong	tsʰ ɯ ³¹	tsʰ ɯ ³¹	1286
+552	Qiliqiao	x ɛ ⁵⁵	x ɛ ⁵⁵	1287
+553	Zhoucheng	x ɛ ⁵⁵	x ɛ ⁵⁵	1287
+554	Qiliqiao	pʰ a ⁴⁴	pʰ a ⁴⁴	1288
+555	Zhoucheng	pʰ a ⁴⁴	pʰ a ⁴⁴	1288
+556	Eryuan	z ɿ ³¹	z ɿ ³¹	1299
+557	Heqing	z ɿ ³¹	z ɿ ³¹	1299
+558	Jianchuan	s ɿ ³¹	s ɿ ³¹	1299
+559	Lanping	ʐ ɯ ³³	ʐ ɯ ³³	1299
+560	Qiliqiao	s ɿ ³¹	s ɿ ³¹	1299
+561	Yunlong	z ɿ ³¹	z ɿ ³¹	1299
+562	Zhoucheng	z ɿ ³¹	z ɿ ³¹	1299
+563	Eryuan	y ⁵⁵	y ⁵⁵	1315
+564	Yunlong	y ⁵⁵	y ⁵⁵	1315
+565	Eryuan	m ɯ ⁵⁵	m ɯ ⁵⁵	1316
+566	Heqing	m ɯ ³⁵	m ɯ ³⁵	1316
+567	Jianchuan	m ɯ ⁵⁵	m ɯ ⁵⁵	1316
+568	Lanping	m ɯ̃ ³³	m ɯ̃ ³³	1316
+569	Xiangyun	m e ³⁵	m e ³⁵	1316
+570	Yunlong	m ɛ ⁵⁵	m ɛ ⁵⁵	1316
+571	Zhoucheng	m ɛ ⁵⁵	m ɛ ⁵⁵	1316
+572	Heqing	j ɛ̃ ³⁵	j ɛ̃ ³⁵	1317
+573	Jianchuan	j ɯ̃ ⁵⁵	j ɯ̃ ⁵⁵	1317
+574	Zhoucheng	j i ⁵⁵	j i ⁵⁵	1317
+575	Lanping	x ã ³³	x ã ³³	1318
+576	Luobenzhuo	x a ⁴²	x a ⁴²	1318
+577	Eryuan	x ɔ ³⁵	x ɔ ³⁵	1334
+578	Luobenzhuo	x ɔ ⁵⁵	x ɔ ⁵⁵	1334
+579	Qiliqiao	x ɔ ³⁵	x ɔ ³⁵	1334
+580	Xiangyun	x ɔ ³⁵	x ɔ ³⁵	1334
+581	Yunlong	x ɔ ³⁵	x ɔ ³⁵	1334
+582	Zhoucheng	x ɔ ³⁵	x ɔ ³⁵	1334
+583	Eryuan	ɕ i ⁵⁵	ɕ i ⁵⁵	1335
+584	Yunlong	s e ⁵⁵	s e ⁵⁵	1335
+585	Zhoucheng	ɕ i ³⁵	ɕ i ³⁵	1335
+586	Heqing	m i ⁵⁵	m i ⁵⁵	1336
+587	Jianchuan	m i ⁵⁵	m i ⁵⁵	1336
+588	Lanping	m i ⁵⁵	m i ⁵⁵	1336
+589	Qiliqiao	m i ³¹	m i ³¹	1336
+590	Xiangyun	m i ³¹	m i ³¹	1336
+591	Heqing	x w a ⁵⁵	x w a ⁵⁵	1337
+592	Jianchuan	x w a ⁵⁵	x w a ⁵⁵	1337
+593	Lanping	x w a ⁵⁵	x w a ⁵⁵	1337
+594	Eryuan	x u ⁴⁴	x u ⁴⁴	1362
+595	Heqing	x ɯ ⁴⁴	x ɯ ⁴⁴	1362
+596	Jianchuan	x ɯ ⁴⁴	x ɯ ⁴⁴	1362
+597	Lanping	x u ³³	x u ³³	1362
+598	Qiliqiao	x ɯ ⁴⁴	x ɯ ⁴⁴	1362
+599	Xiangyun	x ɯ ⁴⁴	x ɯ ⁴⁴	1362
+600	Zhoucheng	x ɯ ⁴⁴	x ɯ ⁴⁴	1362
+601	Eryuan	u ⁵⁵	u ⁵⁵	1363
+602	Lanping	u ⁵⁵	u ⁵⁵	1363
+603	Jianchuan	v ɤ ⁵⁵	v ɤ ⁵⁵	1365
+604	Luobenzhuo	v ɤ ⁵⁵	v ɤ ⁵⁵	1365
+605	Qiliqiao	ŋ ɤ ³⁵	ŋ ɤ ³⁵	1365
+606	Xiangyun	ɛ ³⁵	- ɛ ³⁵	1365
+607	Zhoucheng	v ɤ ³⁵	v ɤ ³⁵	1365
+608	Eryuan	m ɛ ²¹	m ɛ ²¹	1380
+609	Heqing	m ɛ ²¹	m ɛ ²¹	1380
+610	Jianchuan	m ɛ ²¹	m ɛ ²¹	1380
+611	Lanping	m æ ²¹	m æ ²¹	1380
+612	Luobenzhuo	m ã ³¹	m ã ³¹	1380
+613	Qiliqiao	m ɛ ²¹	m ɛ ²¹	1380
+614	Yunlong	m ɛ ²¹	m ɛ ²¹	1380
+615	Zhoucheng	m ɛ ²¹	m ɛ ²¹	1380
+616	Eryuan	tsʰ w a ³³	tsʰ w a ³³	1411
+617	Heqing	tsʰ w ã ³³	tsʰ w ã ³³	1411
+618	Jianchuan	tsʰ w ã ³³	tsʰ w ã ³³	1411
+619	Lanping	tɕʰ w ã ⁴⁴	tɕʰ w ã ⁴⁴	1411
+620	Qiliqiao	tʃʰ w a ³³	tʃʰ w a ³³	1411
+621	Xiangyun	tsʰ w ã ³³	tsʰ w ã ³³	1411
+622	Yunlong	tsʰ w a ³³	tsʰ w a ³³	1411
+623	Zhoucheng	tsʰ w a ³³	tsʰ w a ³³	1411
+624	Eryuan	tʰ j ɔ ⁵⁵	tʰ j ɔ ⁵⁵	1441
+625	Qiliqiao	tʰ j ɔ ⁵⁵	tʰ j ɔ ⁵⁵	1441
+626	Yunlong	tʰ j ɔ ⁵⁵	tʰ j ɔ ⁵⁵	1441
+627	Eryuan	v ɤ ³¹	v ɤ ³¹	1442
+628	Qiliqiao	v ɤ ³¹	v ɤ ³¹	1442
+629	Yunlong	v ɤ ³¹	v ɤ ³¹	1442
+630	Zhoucheng	v ɤ ³¹	v ɤ ³¹	1442
+631	Heqing	t a ⁴²	t a ⁴²	1443
+632	Jianchuan	t a ⁴²	t a ⁴²	1443
+633	Lanping	t a ⁴²	t a ⁴²	1443
+634	Luobenzhuo	t a ⁴⁴	t a ⁴⁴	1443
+635	Xiangyun	t a ⁴²	t a ⁴²	1443
+636	Heqing	k ɔu ³³	k ɔu ³³	1444
+637	Jianchuan	k o ³³	k o ³³	1444
+638	Lanping	k o ⁴⁴	k o ⁴⁴	1444
+639	Luobenzhuo	k ɔ ³³	k ɔ ³³	1444
+640	Xiangyun	k ɔu ³³	k ɔu ³³	1444
+641	Zhoucheng	tɕʰ ɔ ⁵⁵	tɕʰ ɔ ⁵⁵	1444
+642	Eryuan	m j ɛ ⁴²	m j ɛ ⁴²	1460
+643	Heqing	m j ɛ ⁴²	m j ɛ ⁴²	1460
+644	Jianchuan	m j ɛ ⁴²	m j ɛ ⁴²	1460
+645	Lanping	m j ɛ ⁴²	m j ɛ ⁴²	1460
+646	Qiliqiao	m j ɛ ³²	m j ɛ ³²	1460
+647	Zhoucheng	m j ɛ ⁴²	m j ɛ ⁴²	1460
+648	Eryuan	x ɯ ⁴⁴	x ɯ ⁴⁴	1462
+649	Qiliqiao	x ɯ ⁴⁴	x ɯ ⁴⁴	1462
+650	Xiangyun	x ou ⁴⁴	x ou ⁴⁴	1462
+651	Yunlong	x ɯ ⁴⁴	x ɯ ⁴⁴	1462
+652	Zhoucheng	x ɯ ⁴⁴	x ɯ ⁴⁴	1462
+653	Eryuan	ɲ i ⁴⁴	ɲ i ⁴⁴	1483
+654	Heqing	j ĩ ⁴⁴	j ĩ ⁴⁴	1483
+655	Jianchuan	j ĩ ⁴⁴	j ĩ ⁴⁴	1483
+656	Lanping	j ĩ ⁴⁴	j ĩ ⁴⁴	1483
+657	Luobenzhuo	ɲ i ³³	ɲ i ³³	1483
+658	Qiliqiao	ɲ i ⁴⁴	ɲ i ⁴⁴	1483
+659	Xiangyun	n i ⁴⁴	n i ⁴⁴	1483
+660	Zhoucheng	ɲ i ⁴⁴	ɲ i ⁴⁴	1483
+661	Jianchuan	ɕ ɛ ⁴⁴	ɕ ɛ ⁴⁴	1484
+662	Yunlong	ɕ ɛ ⁴⁴	ɕ ɛ ⁴⁴	1484
+663	Eryuan	a ³¹	a ³¹	1494
+664	Qiliqiao	a ³¹	a ³¹	1494
+665	Yunlong	a ³¹	a ³¹	1494
+666	Zhoucheng	a ³¹	a ³¹	1494
+667	Eryuan	ɲ i ⁴⁴	ɲ i ⁴⁴	1496
+668	Heqing	j ĩ ⁴⁴	j ĩ ⁴⁴	1496
+669	Jianchuan	j ĩ ⁴⁴	j ĩ ⁴⁴	1496
+670	Lanping	j ĩ ⁴⁴	j ĩ ⁴⁴	1496
+671	Luobenzhuo	ɲ i ³³	ɲ i ³³	1496
+672	Qiliqiao	ɲ i ⁴⁴	ɲ i ⁴⁴	1496
+673	Xiangyun	n i ⁴⁴	n i ⁴⁴	1496
+674	Zhoucheng	ɲ i ⁴⁴	ɲ i ⁴⁴	1496
+675	Eryuan	ts ɔ ³³	ts ɔ ³³	1518
+676	Heqing	ts ɔ ³³	ts ɔ ³³	1518
+677	Jianchuan	ts õ ³³	ts õ ³³	1518
+678	Lanping	ts õ ³³	ts õ ³³	1518
+679	Luobenzhuo	z ɔ̃ ³³	z ɔ̃ ³³	1518
+680	Xiangyun	z ã ³³	z ã ³³	1518
+681	Yunlong	dz ɔ ³³	dz ɔ ³³	1518
+682	Eryuan	ɲ i ⁴⁴	ɲ i ⁴⁴	1519
+683	Heqing	j ĩ ⁴⁴	j ĩ ⁴⁴	1519
+684	Jianchuan	j ĩ ⁴⁴	j ĩ ⁴⁴	1519
+685	Lanping	j ĩ ⁴⁴	j ĩ ⁴⁴	1519
+686	Luobenzhuo	ɲ i ³³	ɲ i ³³	1519
+687	Qiliqiao	ɲ i ⁴⁴	ɲ i ⁴⁴	1519
+688	Xiangyun	n i ⁴⁴	n i ⁴⁴	1519
+689	Zhoucheng	ɲ i ⁴⁴	ɲ i ⁴⁴	1519
+690	Yunlong	ɕ ɛ ⁴⁴	ɕ ɛ ⁴⁴	1522
+691	Zhoucheng	s e ⁴⁴	s e ⁴⁴	1522
+692	Eryuan	tɕ y ³¹	tɕ y ³¹	1539
+693	Yunlong	tɕ o ³¹	tɕ o ³¹	1539
+694	Jianchuan	pʰ ĩ ⁴⁴	pʰ ĩ ⁴⁴	1541
+695	Qiliqiao	pʰ i ⁵⁵	pʰ i ⁵⁵	1541
+696	Xiangyun	p ĩ ⁵⁵	p ĩ ⁵⁵	1541
+697	Lanping	l e ⁵⁵	l e ⁵⁵	1542
+698	Luobenzhuo	l o ⁵⁵	l o ⁵⁵	1542
+699	Eryuan	n a ³¹	n a ³¹	1570
+700	Heqing	n a ²¹	n a ²¹	1570
+701	Jianchuan	n a ²¹	n a ²¹	1570
+702	Lanping	n a ²¹	n a ²¹	1570
+703	Qiliqiao	n a ²¹	n a ²¹	1570
+704	Xiangyun	n a ³¹	n a ³¹	1570
+705	Yunlong	n a ³¹	n a ³¹	1570
+706	Zhoucheng	n a ³¹	n a ³¹	1570
+707	Eryuan	kʰ u ²¹	kʰ u ²¹	1580
+708	Heqing	tɕʰ ɯ̃ ⁵⁵	tɕʰ ɯ̃ ⁵⁵	1580
+709	Jianchuan	tɕʰ ɯ̃ ⁴²	tɕʰ ɯ̃ ⁴²	1580
+710	Qiliqiao	tɕ ɯ ³¹	tɕ ɯ ³¹	1580
+711	Xiangyun	tɕ a ⁴⁴	tɕ a ⁴⁴	1580
+712	Yunlong	tɕʰ ɯ ³¹	tɕʰ ɯ ³¹	1580
+713	Zhoucheng	tɕʰ ɯ ⁴²	tɕʰ ɯ ⁴²	1580
+714	Heqing	l i ⁵⁵	l i ⁵⁵	1582
+715	Lanping	l ɛ ³¹	l ɛ ³¹	1582
+716	Qiliqiao	l i ³¹	l i ³¹	1582
+717	Jianchuan	kʰ w ɛ ⁵⁵	kʰ w ɛ ⁵⁵	1583
+718	Yunlong	kʰ w ɛ ⁵⁵	kʰ w ɛ ⁵⁵	1583
+719	Eryuan	ts ɯ ⁵⁵	ts ɯ ⁵⁵	1612
+720	Heqing	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1612
+721	Jianchuan	ts u ⁵⁵	ts u ⁵⁵	1612
+722	Lanping	ts u ⁵⁵	ts u ⁵⁵	1612
+723	Qiliqiao	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1612
+724	Xiangyun	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1612
+725	Yunlong	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1612
+726	Zhoucheng	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1612
+727	Eryuan	n ɤ ²¹	n ɤ ²¹	1656
+728	Heqing	n u ²¹	n u ²¹	1656
+729	Jianchuan	n ɤ ²¹	n ɤ ²¹	1656
+730	Lanping	n ɔ ²¹	n ɔ ²¹	1656
+731	Qiliqiao	n ɤ ²¹	n ɤ ²¹	1656
+732	Xiangyun	n ɤ̃ ²¹	n ɤ̃ ²¹	1656
+733	Yunlong	n ɤ ²¹	n ɤ ²¹	1656
+734	Luobenzhuo	l u ³¹	l u ³¹	1657
+735	Zhoucheng	l ɤ ²¹	l ɤ ²¹	1657
+736	Eryuan	ɯ ³³	- ɯ ³³	1666
+737	Heqing	ɯ ³³	- ɯ ³³	1666
+738	Jianchuan	ɯ̃ ³³	- ɯ̃ ³³	1666
+739	Luobenzhuo	ɯ̃ ³³	- ɯ̃ ³³	1666
+740	Qiliqiao	ɯ ³³	- ɯ ³³	1666
+741	Xiangyun	ẽ ³³	- ẽ ³³	1666
+742	Yunlong	ʔ ɯ ³³	ʔ ɯ ³³	1666
+743	Eryuan	ʂ e ⁴²	ʂ e ⁴²	1707
+744	Heqing	s ẽ ⁴²	s ẽ ⁴²	1707
+745	Lanping	s ɛ̃ ⁴²	s ɛ̃ ⁴²	1707
+746	Yunlong	s ɛ ⁴²	s ɛ ⁴²	1707
+747	Heqing	p ɔu ³³	p ɔu ³³	1708
+748	Jianchuan	p o ³³	p o ³³	1708
+749	Luobenzhuo	p ɔ ³³	p ɔ ³³	1708
+750	Qiliqiao	p o ³³	p o ³³	1708
+751	Xiangyun	p o ³³	p o ³³	1708
+752	Zhoucheng	p ɔ ³³	p ɔ ³³	1708
+753	Heqing	p ɔu ³³	p ɔu ³³	1709
+754	Jianchuan	p o ³³	p o ³³	1709
+755	Luobenzhuo	m ɔ ³³	m ɔ ³³	1710
+756	Qiliqiao	m ɯ ³³	m ɯ ³³	1710
+757	Xiangyun	m e ³³	m e ³³	1710
+758	Zhoucheng	m ɔ ³³	m ɔ ³³	1710
+759	Eryuan	ɲ ɤ ³³	ɲ ɤ ³³	1742
+760	Qiliqiao	n ɤ ³³	n ɤ ³³	1742
+761	Yunlong	ɲ ɤ ³³	ɲ ɤ ³³	1742
+762	Zhoucheng	ɲ ɤ ³³	ɲ ɤ ³³	1742
+763	Eryuan	p i ²¹	p i ²¹	1743
+764	Xiangyun	p i ³¹	p i ³¹	1743
+765	Heqing	t õ ⁴²	t õ ⁴²	1745
+766	Qiliqiao	t ɔ ⁴⁴	t ɔ ⁴⁴	1745
+767	Zhoucheng	t o ³²	t o ³²	1745
+768	Jianchuan	j ĩ ³³	j ĩ ³³	1746
+769	Lanping	j ɛ̃ ³³	j ɛ̃ ³³	1746
+770	Xiangyun	j ɔ ³³	j ɔ ³³	1746
+771	Jianchuan	t ɯ ²¹	t - ɯ ²¹	1747
+772	Lanping	t j ɯ ³¹	t j ɯ ³¹	1747
+773	Yunlong	t ɯ ³¹	t - ɯ ³¹	1747
+774	Jianchuan	k w ã ⁵⁵	k w ã ⁵⁵	1748
+775	Lanping	k w ã ⁵⁵	k w ã ⁵⁵	1748
+776	Eryuan	ɲ ɤ ³³	ɲ ɤ ³³	1774
+777	Qiliqiao	n ɤ ³³	n ɤ ³³	1774
+778	Yunlong	ɲ ɤ ³³	ɲ ɤ ³³	1774
+779	Zhoucheng	ɲ ɤ ³³	ɲ ɤ ³³	1774
+780	Eryuan	ts a ²¹	ts a ²¹	1776
+781	Zhoucheng	ts a ²¹	ts a ²¹	1776
+782	Heqing	j ĩ ³³	j ĩ ³³	1777
+783	Jianchuan	j ĩ ³³	j ĩ ³³	1777
+784	Xiangyun	j ɔ ³³	j ɔ ³³	1777
+785	Heqing	p ɛ ²¹	p ɛ ²¹	1800
+786	Jianchuan	p ɛ ²¹	p ɛ ²¹	1800
+787	Luobenzhuo	p a ⁴²	p a ⁴²	1800
+788	Qiliqiao	p ɛ ²¹	p ɛ ²¹	1800
+789	Xiangyun	p ɛ ²¹	p ɛ ²¹	1800
+790	Eryuan	k ɛ ³⁵	k ɛ ³⁵	1815
+791	Lanping	k u ⁵⁵	k u ⁵⁵	1815
+792	Luobenzhuo	q ɔ ⁵⁵	q ɔ ⁵⁵	1815
+793	Xiangyun	kʲ ɛ ³⁵	kʲ ɛ ³⁵	1815
+794	Yunlong	k ɛ ³⁵	k ɛ ³⁵	1815
+795	Lanping	l u ⁵⁵	l u ⁵⁵	1821
+796	Xiangyun	l i ³³	l i ³³	1821
+797	Qiliqiao	p i ²¹	p i ²¹	1822
+798	Zhoucheng	p i ³¹	p i ³¹	1822
+799	Qiliqiao	tɕ a ³⁵	tɕ a ³⁵	1823
+800	Yunlong	tɕ ao ²¹	tɕ ao ²¹	1823
+801	Zhoucheng	tɕ a ³⁵	tɕ a ³⁵	1823
+802	Heqing	ɣ ɔu ⁴²	ɣ ɔu ⁴²	1843
+803	Jianchuan	ɣ ou ⁴²	ɣ ou ⁴²	1843
+804	Qiliqiao	ɔ ⁴²	- ɔ ⁴²	1843
+805	Zhoucheng	ɔ ⁴²	- ɔ ⁴²	1843
+806	Lanping	w u ³¹	w u ³¹	1845
+807	Luobenzhuo	w u ³³	w u ³³	1845
+808	Xiangyun	w ɔ ⁴²	w ɔ ⁴²	1845
+809	Eryuan	j ɯ ⁴⁴	j ɯ ⁴⁴	1854
+810	Heqing	j ɯ ⁴⁴	j ɯ ⁴⁴	1854
+811	Jianchuan	j ɯ ⁴⁴	j ɯ ⁴⁴	1854
+812	Lanping	j ɯ ⁴⁴	j ɯ ⁴⁴	1854
+813	Luobenzhuo	j i ⁴⁴	j i ⁴⁴	1854
+814	Xiangyun	j ou ⁴⁴	j ou ⁴⁴	1854
+815	Yunlong	j ɯ ⁴⁴	j ɯ ⁴⁴	1854
+816	Zhoucheng	j ɯ ⁴⁴	j ɯ ⁴⁴	1854
+817	Eryuan	p j a ⁴⁴	p j a ⁴⁴	1874
+818	Heqing	p j a ⁴⁴	p j a ⁴⁴	1874
+819	Jianchuan	p j a ⁴⁴	p j a ⁴⁴	1874
+820	Lanping	p j a ⁴⁴	p j a ⁴⁴	1874
+821	Qiliqiao	p j a ⁴⁴	p j a ⁴⁴	1874
+822	Xiangyun	p j a ⁴⁴	p j a ⁴⁴	1874
+823	Yunlong	p j a ⁴⁴	p j a ⁴⁴	1874
+824	Zhoucheng	p j a ⁴⁴	p j a ⁴⁴	1874
+825	Eryuan	t ɔ ³¹	t ɔ ³¹	1885
+826	Heqing	t ɔu ⁴²	t ɔu ⁴²	1885
+827	Jianchuan	t ou ⁴²	t ou ⁴²	1885
+828	Lanping	t o ³¹	t o ³¹	1885
+829	Luobenzhuo	ʈ ɔ ³¹	ʈ ɔ ³¹	1885
+830	Qiliqiao	t ɔ ³¹	t ɔ ³¹	1885
+831	Yunlong	t ɔ ³¹	t ɔ ³¹	1885
+832	Zhoucheng	t ɔ ³¹	t ɔ ³¹	1885
+833	Eryuan	t o ⁴⁴	t o ⁴⁴	1942
+834	Heqing	t ou ⁴⁴	t ou ⁴⁴	1942
+835	Luobenzhuo	t u ⁵⁵	t u ⁵⁵	1942
+836	Qiliqiao	t o ⁴⁴	t o ⁴⁴	1942
+837	Yunlong	t o ⁴⁴	t o ⁴⁴	1942
+838	Zhoucheng	t o ⁴⁴	t o ⁴⁴	1942
+839	Jianchuan	t w ɛ ⁴⁴	t w ɛ ⁴⁴	1944
+840	Lanping	t w ɛ ⁴⁴	t w ɛ ⁴⁴	1944
+841	Jianchuan	f ɛ̃ ³³	f ɛ̃ ³³	1945
+842	Lanping	f ɛ̃ ³³	f ɛ̃ ³³	1945
+843	Yunlong	f ɛ ⁴⁴	f ɛ ⁴⁴	1945
+844	Luobenzhuo	x a ⁴⁴	x a ⁴⁴	1946
+845	Qiliqiao	x ɯ ⁵⁵	x ɯ ⁵⁵	1946
+846	Eryuan	f ɛ ⁴⁴	f ɛ ⁴⁴	1988
+847	Heqing	f ɤ ²¹	f ɤ ²¹	1988
+848	Jianchuan	f ɛ ⁴⁴	f ɛ ⁴⁴	1988
+849	Lanping	f e ⁴⁴	f e ⁴⁴	1988
+850	Yunlong	f ɛ ⁴⁴	f ɛ ⁴⁴	1988
+851	Qiliqiao	k o ²¹	k o ²¹	1990
+852	Xiangyun	k ã ²¹	k ã ²¹	1990
+853	Zhoucheng	k o ⁴²	k o ⁴²	1990
+854	Eryuan	a ⁵⁵	a ⁵⁵	1998
+855	Lanping	a ⁴⁴	a ⁴⁴	1998
+856	Luobenzhuo	a ⁵⁵	a ⁵⁵	1998
+857	Yunlong	a ⁵⁵	a ⁵⁵	1998
+858	Zhoucheng	a ³³	a ³³	1998
+859	Heqing	t i ³³	t i ³³	2000
+860	Jianchuan	t i ³³	t i ³³	2000
+861	Lanping	t i ⁴⁴	t i ⁴⁴	2000
+862	Qiliqiao	t i ³³	t i ³³	2000
+863	Xiangyun	t i ³³	t i ³³	2000
+864	Yunlong	t i ³³	t i ³³	2000
+865	Zhoucheng	tɕ i ³³	tɕ i ³³	2000
+866	Jianchuan	a ³¹	a ³¹	2001
+867	Qiliqiao	a ³¹	a ³¹	2001
+868	Xiangyun	a ³¹	a ³¹	2001
+869	Eryuan	kʲ ɛ ³⁵	kʲ ɛ ³⁵	2016
+870	Heqing	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	2016
+871	Jianchuan	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	2016
+872	Lanping	k ɛ̃ ⁵⁵	k ɛ̃ ⁵⁵	2016
+873	Qiliqiao	k ɛ ³⁵	k ɛ ³⁵	2016
+874	Xiangyun	kʲ ɛ̃ ³⁵	kʲ ɛ̃ ³⁵	2016
+875	Yunlong	k ɛ ³⁵	k ɛ ³⁵	2016
+876	Zhoucheng	kʲ ɛ ³⁵	kʲ ɛ ³⁵	2016
+877	Eryuan	w e ⁴²	w e ⁴²	2036
+878	Heqing	w e ⁴²	w e ⁴²	2036
+879	Jianchuan	w ẽ ⁴²	w ẽ ⁴²	2036
+880	Lanping	w e ⁴²	w e ⁴²	2036
+881	Qiliqiao	w a ³²	w a ³²	2036
+882	Xiangyun	w e ⁴²	w e ⁴²	2036
+883	Yunlong	w ɛ ⁴²	w ɛ ⁴²	2036
+884	Zhoucheng	w e ⁴²	w e ⁴²	2036
+885	Eryuan	t ɯ ²¹	t ɯ ²¹	2067
+886	Heqing	t ɯ ²¹	t ɯ ²¹	2067
+887	Jianchuan	t ɯ ²¹	t ɯ ²¹	2067
+888	Lanping	t i ⁵⁵	t i ⁵⁵	2067
+889	Qiliqiao	ts ɿ ³¹	ts ɿ ³¹	2067
+890	Xiangyun	t ou ²¹	t ou ²¹	2067
+891	Zhoucheng	t ɯ ²¹	t ɯ ²¹	2067
+892	Jianchuan	ts ɿ ³³	ts ɿ ³³	2072
+893	Luobenzhuo	tɕ ɯ̃ ³¹	tɕ ɯ̃ ³¹	2072
+894	Qiliqiao	ts ɿ ³³	ts ɿ ³³	2072
+895	Xiangyun	ts ɿ ³³	ts ɿ ³³	2072
+896	Yunlong	ts ɿ ³³	ts ɿ ³³	2072
+897	Zhoucheng	ts ɿ ³³	ts ɿ ³³	2072
+898	Eryuan	t ɯ ²¹	t ɯ ²¹	2095
+899	Heqing	t ɯ ²¹	t ɯ ²¹	2095
+900	Jianchuan	t ɯ ²¹	t ɯ ²¹	2095
+901	Lanping	t i ⁵⁵	t i ⁵⁵	2095
+902	Luobenzhuo	t ɯ ³¹	t ɯ ³¹	2095
+903	Xiangyun	t ou ²¹	t ou ²¹	2095
+904	Yunlong	t ɯ ²¹	t ɯ ²¹	2095
+905	Luobenzhuo	tɕ ɯ̃ ³¹	tɕ ɯ̃ ³¹	2098
+906	Qiliqiao	tɕ i ³³	tɕ i ³³	2098
+907	Zhoucheng	ts ɿ ³³	ts ɿ ³³	2098
+908	Eryuan	x w e ³³	x w e ³³	2124
+909	Heqing	xʰ w e ³³	xʰ w e ³³	2124
+910	Jianchuan	x w e ³³	x w e ³³	2124
+911	Lanping	x w e ⁴⁴	x w e ⁴⁴	2124
+912	Qiliqiao	x w e ³³	x w e ³³	2124
+913	Xiangyun	x w e ³³	x w e ³³	2124
+914	Yunlong	x w e ³³	x w e ³³	2124
+915	Zhoucheng	x w e ³³	x w e ³³	2124
+916	Eryuan	t ɯ ²¹	t - ɯ ²¹	2144
+917	Heqing	t ɯ ²¹	t - ɯ ²¹	2144
+918	Jianchuan	t ɯ ²¹	t - ɯ ²¹	2144
+919	Lanping	t j ɯ ²¹	t j ɯ ²¹	2144
+920	Luobenzhuo	t ɤ ³¹	t - ɤ ³¹	2144
+921	Qiliqiao	t ɯ ²¹	t - ɯ ²¹	2144
+922	Xiangyun	t ou ³¹	t - ou ³¹	2144
+923	Jianchuan	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	2145
+924	Yunlong	s ɛ ³³	s ɛ ³³	2145
+925	Zhoucheng	ɕ i ³³	ɕ i ³³	2145
+926	Eryuan	ʈʂ ɛ ³⁵	ʈʂ ɛ ³⁵	2155
+927	Heqing	ts ɛ̃ ³⁵	ts ɛ̃ ³⁵	2155
+928	Jianchuan	ts ɿ ⁵⁵	ts ɿ ⁵⁵	2155
+929	Lanping	ts ã ⁵⁵	ts ã ⁵⁵	2155
+930	Qiliqiao	ts ɛ ³⁵	ts ɛ ³⁵	2155
+931	Xiangyun	ts ɛ̃ ³⁵	ts ɛ̃ ³⁵	2155
+932	Yunlong	ts ɛ ³⁵	ts ɛ ³⁵	2155
+933	Zhoucheng	ts ɛ ³⁵	ts ɛ ³⁵	2155
+934	Eryuan	ɤ ³⁵	- ɤ ³⁵	2174
+935	Jianchuan	ɤ̃ ⁵⁵	- ɤ̃ ⁵⁵	2174
+936	Qiliqiao	ŋ ɤ ³⁵	ŋ ɤ ³⁵	2174
+937	Xiangyun	ŋ ɯ ³⁵	ŋ ɯ ³⁵	2174
+938	Yunlong	ŋ ɯ ³⁵	ŋ ɯ ³⁵	2174
+939	Zhoucheng	ŋ ɤ ³⁵	ŋ ɤ ³⁵	2174
+940	Heqing	ũ ⁵⁵	ũ ⁵⁵	2175
+941	Lanping	ũ ⁵⁵	ũ ⁵⁵	2175
+942	Eryuan	ŋ o ³³	ŋ o ³³	2184
+943	Jianchuan	ɤ̃ ³³	- ɤ̃ ³³	2184
+944	Luobenzhuo	ŋ ɤ̃ ³³	ŋ ɤ̃ ³³	2184
+945	Qiliqiao	ŋ ɤ ³³	ŋ ɤ ³³	2184
+946	Yunlong	ŋ u ³³	ŋ u ³³	2184
+947	Lanping	w õ ⁴⁴	w õ ⁴⁴	2186
+948	Xiangyun	w ɔ̃ ³³	w ɔ̃ ³³	2186
+949	Eryuan	kʰ w a ³³	kʰ w a ³³	2194
+950	Heqing	kʰ w ã ³³	kʰ w ã ³³	2194
+951	Jianchuan	kʰ w ã ³³	kʰ w ã ³³	2194
+952	Lanping	kʰ w ã ⁴⁴	kʰ w ã ⁴⁴	2194
+953	Luobenzhuo	qʰ ɔ̃ ³³	qʰ - ɔ̃ ³³	2194
+954	Xiangyun	kʰ w ã ³³	kʰ w ã ³³	2194
+955	Yunlong	kʰ w a ³³	kʰ w a ³³	2194
+956	Eryuan	s ɔ ⁴⁴	s ɔ ⁴⁴	2195
+957	Heqing	ɕ i ⁴⁴	ɕ i ⁴⁴	2195
+958	Jianchuan	ɕ i ⁴⁴	ɕ i ⁴⁴	2195
+959	Lanping	ɕ i ⁴⁴	ɕ i ⁴⁴	2195
+960	Xiangyun	s ɤ ⁴⁴	s ɤ ⁴⁴	2195
+961	Lanping	ts ɿ ³³	ts ɿ ³³	2196
+962	Zhoucheng	ts ɿ ³³	ts ɿ ³³	2196
+963	Luobenzhuo	ɕ ʊ ³³	ɕ - ʊ ³³	2197
+964	Qiliqiao	ʃ w ɔ ³³	ʃ w ɔ ³³	2197
+965	Yunlong	s u ³³	s - u ³³	2197
+966	Qiliqiao	tʰ j ɔ ³³	tʰ j ɔ ³³	2198
+967	Zhoucheng	tɕʰ o ³³	tɕʰ - o ³³	2198
+968	Eryuan	m u ²¹	m u ²¹	2215
+969	Heqing	m ɯ ²¹	m ɯ ²¹	2215
+970	Jianchuan	m o ²¹	m o ²¹	2215
+971	Lanping	m ɯ ²¹	m ɯ ²¹	2215
+972	Qiliqiao	m u ²¹	m u ²¹	2215
+973	Xiangyun	m ou ²¹	m ou ²¹	2215
+974	Yunlong	m u ²¹	m u ²¹	2215
+975	Zhoucheng	m u ²¹	m u ²¹	2215
+976	Eryuan	ʐ ɯ ²¹	ʐ ɯ ²¹	2236
+977	Heqing	z ɯ̃ ²¹	z ɯ̃ ²¹	2236
+978	Jianchuan	s ɯ̃ ²¹	s ɯ̃ ²¹	2236
+979	Lanping	ʐ ɯ ²¹	ʐ ɯ ²¹	2236
+980	Qiliqiao	s ɯ ²¹	s ɯ ²¹	2236
+981	Xiangyun	z ɯ̃ ²¹	z ɯ̃ ²¹	2236
+982	Yunlong	z ɯ ²¹	z ɯ ²¹	2236
+983	Zhoucheng	z ɯ ²¹	z ɯ ²¹	2236
+984	Eryuan	k ɔ ²¹	k ɔ ²¹	2248
+985	Heqing	k ɔ̃ ⁴²	k ɔ̃ ⁴²	2248
+986	Jianchuan	k õ ⁴²	k õ ⁴²	2248
+987	Lanping	k ɔ̃ ²¹	k ɔ̃ ²¹	2248
+988	Luobenzhuo	k ao ⁴²	k ao ⁴²	2248
+989	Xiangyun	k ã ⁴²	k ã ⁴²	2248
+990	Yunlong	k ao ⁴²	k ao ⁴²	2248
+991	Heqing	m ɯ ³¹	m ɯ ³¹	2249
+992	Jianchuan	m ɯ ²¹	m ɯ ²¹	2249
+993	Luobenzhuo	m ɯ̃ ³¹	m ɯ̃ ³¹	2249
+994	Xiangyun	m u ³¹	m u ³¹	2249
+995	Yunlong	m ɯ ³¹	m ɯ ³¹	2249
+996	Eryuan	kʰ ɤ ⁴⁴	kʰ - ɤ ⁴⁴	2266
+997	Heqing	k w ɔ ⁴⁴	k w ɔ ⁴⁴	2266
+998	Jianchuan	kʰ ɤ ⁴⁴	kʰ - ɤ ⁴⁴	2266
+999	Lanping	kʰ w ɔ ⁴⁴	kʰ w ɔ ⁴⁴	2266
+1000	Qiliqiao	tsʰ ɛ ⁵⁵	tsʰ - ɛ ⁵⁵	2266
+1001	Xiangyun	kʰ ɛ ⁴⁴	kʰ - ɛ ⁴⁴	2266
+1002	Yunlong	kʰ ɤ ⁴⁴	kʰ - ɤ ⁴⁴	2266
+1003	Zhoucheng	kʰ ɤ ⁴⁴	kʰ - ɤ ⁴⁴	2266
+1004	Qiliqiao	tɕ i ³²	tɕ i ³²	2271
+1005	Zhoucheng	tɕ i ³²	tɕ i ³²	2271
+1006	Eryuan	pʰ ɛ ³³	pʰ ɛ ³³	2291
+1007	Heqing	pʰ ɯ ³³	pʰ ɯ ³³	2291
+1008	Jianchuan	pʰ ɛ̃ ³³	pʰ ɛ̃ ³³	2291
+1009	Lanping	pʰ a ⁴⁴	pʰ a ⁴⁴	2291
+1010	Qiliqiao	pʰ e ⁴⁴	pʰ e ⁴⁴	2291
+1011	Xiangyun	pʰ ĩ ³³	pʰ ĩ ³³	2291
+1012	Yunlong	pʰ ɛ ³³	pʰ ɛ ³³	2291
+1013	Zhoucheng	pʰ u ³³	pʰ u ³³	2291
+1014	Eryuan	ɕ i ⁵⁵	ɕ i ⁵⁵	2293
+1015	Heqing	ɕ i ⁵⁵	ɕ i ⁵⁵	2293
+1016	Jianchuan	ɕ i ⁵⁵	ɕ i ⁵⁵	2293
+1017	Lanping	ɕ i ⁴⁴	ɕ i ⁴⁴	2293
+1018	Yunlong	ɕ i ⁵⁵	ɕ i ⁵⁵	2293
+1019	Heqing	x ɑ ⁵⁵	x ɑ ⁵⁵	2294
+1020	Qiliqiao	x ɯ ⁵⁵	x ɯ ⁵⁵	2294
+1021	Xiangyun	x ou ⁵⁵	x ou ⁵⁵	2294
+1022	Zhoucheng	x ɯ ⁵⁵	x ɯ ⁵⁵	2294
+1023	Eryuan	ɕ ɔ ³⁵	ɕ ɔ ³⁵	2330
+1024	Heqing	ɕ õu ⁵⁵	ɕ õu ⁵⁵	2330
+1025	Jianchuan	ɕ õ ⁵⁵	ɕ õ ⁵⁵	2330
+1026	Lanping	ɕ o ⁵⁵	ɕ o ⁵⁵	2330
+1027	Qiliqiao	ɕ o ³⁵	ɕ o ³⁵	2330
+1028	Xiangyun	ɕ ã ³⁵	ɕ ã ³⁵	2330
+1029	Yunlong	ɕ ɔ ³⁵	ɕ ɔ ³⁵	2330
+1030	Zhoucheng	ɕ o ³⁵	ɕ o ³⁵	2330
+1031	Eryuan	ɔ ³¹	ɔ ³¹	2340
+1032	Heqing	u ³¹	u ³¹	2340
+1033	Jianchuan	õ ²¹	õ ²¹	2340
+1034	Lanping	ɔ̃ ²¹	ɔ̃ ²¹	2340
+1035	Qiliqiao	o ²¹	o ²¹	2340
+1036	Zhoucheng	ɔ ²¹	ɔ ²¹	2340
+1037	Eryuan	m ɛ ³⁵	m ɛ ³⁵	2341
+1038	Heqing	m ɛ ³⁵	m ɛ ³⁵	2341
+1039	Jianchuan	m ɛ ⁵⁵	m ɛ ⁵⁵	2341
+1040	Lanping	m ɛ ⁵⁵	m ɛ ⁵⁵	2341
+1041	Qiliqiao	m ɛ ³⁵	m ɛ ³⁵	2341
+1042	Xiangyun	m ɛ ³⁵	m ɛ ³⁵	2341
+1043	Lanping	tɕʰ ɛ ⁴⁴	tɕʰ ɛ ⁴⁴	2342
+1044	Xiangyun	tɕʰ ɛ̃ ²¹	tɕʰ ɛ̃ ²¹	2342
+1045	Zhoucheng	ts a ⁴⁴	ts a ⁴⁴	2342
+1046	Eryuan	tɕ i ⁴²	tɕ i ⁴²	2404
+1047	Jianchuan	tɕ i ⁴²	tɕ i ⁴²	2404
+1048	Lanping	tɕ ĩ ⁴²	tɕ ĩ ⁴²	2404
+1049	Qiliqiao	tɕ i ³²	tɕ i ³²	2404
+1050	Yunlong	tɕ i ⁴²	tɕ i ⁴²	2404
+1051	Eryuan	x ɛ ⁵⁵	x - ɛ ⁵⁵	2405
+1052	Jianchuan	x ɛ ⁵⁵	x - ɛ ⁵⁵	2405
+1053	Lanping	x w e ⁴⁴	x w e ⁴⁴	2405
+1054	Qiliqiao	x ɛ ⁵⁵	x - ɛ ⁵⁵	2405
+1055	Yunlong	x ɛ ⁵⁵	x - ɛ ⁵⁵	2405
+1056	Zhoucheng	x a ⁵⁵	x - a ⁵⁵	2405
+1057	Eryuan	p e ⁴⁴	p e ⁴⁴	2422
+1058	Qiliqiao	p e ⁴⁴	p e ⁴⁴	2422
+1059	Zhoucheng	p e ⁴⁴	p e ⁴⁴	2422
+1060	Heqing	ŋ ɛ ²¹	ŋ - ɛ ²¹	2424
+1061	Jianchuan	ŋ ɛ ²¹	ŋ - ɛ ²¹	2424
+1062	Lanping	ŋ ɛ ²¹	ŋ - ɛ ²¹	2424
+1063	Qiliqiao	ŋ ɛ ²¹	ŋ - ɛ ²¹	2424
+1064	Xiangyun	n j ɛ ²¹	n j ɛ ²¹	2424
+1065	Zhoucheng	ŋ ɛ ²¹	ŋ - ɛ ²¹	2424
+1066	Heqing	p e ⁴⁴	p e ⁴⁴	2436
+1067	Lanping	p ẽ ⁴⁴	p ẽ ⁴⁴	2436
+1068	Qiliqiao	p e ⁴⁴	p e ⁴⁴	2436
+1069	Zhoucheng	p e ⁴⁴	p e ⁴⁴	2436
+1070	Heqing	p e ⁴⁴	p e ⁴⁴	2452
+1071	Lanping	p ẽ ⁴⁴	p ẽ ⁴⁴	2452
+1072	Qiliqiao	p e ⁴⁴	p e ⁴⁴	2452
+1073	Yunlong	p e ⁴⁴	p e ⁴⁴	2452
+1074	Zhoucheng	p e ⁴⁴	p e ⁴⁴	2452
+1075	Heqing	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	2453
+1076	Jianchuan	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	2453
+1077	Lanping	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	2453
+1078	Luobenzhuo	ʈʂʰ ɛ ⁵⁵	ʈʂʰ ɛ ⁵⁵	2453
+1079	Qiliqiao	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	2453
+1080	Xiangyun	tɕʰ ɛ ⁴²	tɕʰ ɛ ⁴²	2453
+1081	Yunlong	tɕʰ i ³³	tɕʰ i ³³	2453
+1082	Zhoucheng	ɕ i ⁴⁴	ɕ i ⁴⁴	2453
+1083	Eryuan	f e ³⁵	f e ³⁵	2468
+1084	Zhoucheng	f e ³⁵	f e ³⁵	2468
+1085	Heqing	x u ³³	x u ³³	2469
+1086	Jianchuan	x u ³³	x u ³³	2469
+1087	Lanping	x u ³³	x u ³³	2469
+1088	Luobenzhuo	x ɯ̃ ³³	x ɯ̃ ³³	2469
+1089	Qiliqiao	x u ³³	x u ³³	2469
+1090	Xiangyun	x u ³³	x u ³³	2469
+1091	Yunlong	x u ³³	x u ³³	2469
+1092	Jianchuan	ɕ o ³¹	ɕ o ³¹	2471
+1093	Lanping	ɕ o ⁴²	ɕ o ⁴²	2471
+1094	Eryuan	a ⁵⁵	a ⁵⁵	2482
+1095	Heqing	a ⁵⁵	a ⁵⁵	2482
+1096	Lanping	a ⁴⁴	a ⁴⁴	2482
+1097	Luobenzhuo	a ⁵⁵	a ⁵⁵	2482
+1098	Yunlong	a ⁴⁴	a ⁴⁴	2482
+1099	Eryuan	l ɔ ²¹	l ɔ ²¹	2483
+1100	Qiliqiao	l ɔ ³¹	l ɔ ³¹	2483
+1101	Zhoucheng	l ɔ ³¹	l ɔ ³¹	2483
+1102	Heqing	p ɔu ⁵⁵	p ɔu ⁵⁵	2484
+1103	Luobenzhuo	p ɤ ⁵⁵	p ɤ ⁵⁵	2484
+1104	Xiangyun	p ɔ ³⁵	p ɔ ³⁵	2484
+1105	Jianchuan	a ³¹	a ³¹	2485
+1106	Qiliqiao	a ³¹	a ³¹	2485
+1107	Xiangyun	a ³¹	a ³¹	2485
+1108	Zhoucheng	a ³¹	a ³¹	2485
+1109	Jianchuan	j i ⁴²	j i ⁴²	2486
+1110	Lanping	j ɛ ⁴²	j ɛ ⁴²	2486
+1111	Eryuan	a ⁵⁵	a ⁵⁵	2501
+1112	Lanping	a ⁴⁴	a ⁴⁴	2501
+1113	Luobenzhuo	a ⁵⁵	a ⁵⁵	2501
+1114	Yunlong	a ⁵⁵	a ⁵⁵	2501
+1115	Eryuan	n e ⁴⁴	n e ⁴⁴	2502
+1116	Heqing	n e ⁴⁴	n e ⁴⁴	2502
+1117	Jianchuan	n e ⁴⁴	n e ⁴⁴	2502
+1118	Lanping	n ɛ ⁴⁴	n ɛ ⁴⁴	2502
+1119	Qiliqiao	n e ⁴⁴	n e ⁴⁴	2502
+1120	Xiangyun	n e ⁴⁴	n e ⁴⁴	2502
+1121	Zhoucheng	n e ⁴⁴	n e ⁴⁴	2502
+1122	Jianchuan	a ³¹	a ³¹	2503
+1123	Qiliqiao	a ³¹	a ³¹	2503
+1124	Xiangyun	a ³¹	a ³¹	2503
+1125	Zhoucheng	a ³¹	a ³¹	2503
+1126	Eryuan	l ɤ ⁴⁴	l - ɤ ⁴⁴	2529
+1127	Heqing	l w ɔ ⁴⁴	l w ɔ ⁴⁴	2529
+1128	Jianchuan	l u ⁴⁴	l - u ⁴⁴	2529
+1129	Lanping	l ao ⁴⁴	l - ao ⁴⁴	2529
+1130	Xiangyun	l ɯ ⁴⁴	l - ɯ ⁴⁴	2529
+1131	Yunlong	l ɤ ³³	l - ɤ ³³	2529
+1132	Zhoucheng	l ɤ ⁴⁴	l - ɤ ⁴⁴	2529
+1133	Eryuan	ʈʂʰ e ⁴⁴	ʈʂʰ e ⁴⁴	2540
+1134	Xiangyun	tsʰ e ⁴⁴	tsʰ e ⁴⁴	2540
+1135	Yunlong	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	2540
+1136	Heqing	w ẽ ⁴²	w ẽ ⁴²	2541
+1137	Jianchuan	w ẽ ⁴²	w ẽ ⁴²	2541
+1138	Lanping	w ẽ ⁴²	w ẽ ⁴²	2541
+1139	Qiliqiao	w e ⁴²	w e ⁴²	2541
+1140	Zhoucheng	w e ³²	w e ³²	2541
+1141	Eryuan	k ɔ ³⁵	k - ɔ ³⁵	2550
+1142	Jianchuan	k ou ⁵⁵	k - ou ⁵⁵	2550
+1143	Qiliqiao	k w ɔ ³⁵	k w ɔ ³⁵	2550
+1144	Xiangyun	k w ɔ ³⁵	k w ɔ ³⁵	2550
+1145	Yunlong	k ɔ ³⁵	k - ɔ ³⁵	2550
+1146	Zhoucheng	k w ɔ ³⁵	k w ɔ ³⁵	2550
+1147	Heqing	t ɔu ⁴²	t ɔu ⁴²	2551
+1148	Jianchuan	t ou ⁴²	t ou ⁴²	2551
+1149	Lanping	t o ³¹	t o ³¹	2551
+1150	Luobenzhuo	d ao ⁴²	d ao ⁴²	2551
+1151	Yunlong	d ao ³¹	d ao ³¹	2551
+1152	Eryuan	ʈʂ ɯ ⁴²	ʈʂ ɯ ⁴²	2563
+1153	Jianchuan	ts ɯ ⁴²	ts ɯ ⁴²	2563
+1154	Lanping	ts ɯ̃ ⁴²	ts ɯ̃ ⁴²	2563
+1155	Luobenzhuo	tʰ ɯ̃ ⁴²	tʰ ɯ̃ ⁴²	2563
+1156	Yunlong	tsʰ ai ³¹	tsʰ ai ³¹	2563
+1157	Heqing	tʰ e ³³	tʰ e ³³	2564
+1158	Qiliqiao	tsʰ e ³³	tsʰ e ³³	2564
+1159	Xiangyun	tsʰ e ⁵⁵	tsʰ e ⁵⁵	2564
+1160	Zhoucheng	tsʰ ɛ ³³	tsʰ ɛ ³³	2564
+1161	Eryuan	ʈʂ ɔ ⁴²	ʈʂ ɔ ⁴²	2573
+1162	Yunlong	ts o ⁴²	ts o ⁴²	2573
+1163	Eryuan	p ɔ ⁴²	p ɔ ⁴²	2574
+1164	Lanping	p o ³³	p o ³³	2574
+1165	Yunlong	p o ⁴²	p o ⁴²	2574
+1166	Eryuan	ts ɿ ³³	ts ɿ ³³	2575
+1167	Heqing	ts ɿ ³³	ts ɿ ³³	2575
+1168	Jianchuan	ts ɿ ³³	ts ɿ ³³	2575
+1169	Qiliqiao	ts ɿ ³³	ts ɿ ³³	2575
+1170	Xiangyun	ts ɿ ³³	ts ɿ ³³	2575
+1171	Yunlong	ts ɿ ³³	ts ɿ ³³	2575
+1172	Zhoucheng	ts ɿ ³³	ts ɿ ³³	2575
+1173	Heqing	sʰ w e ⁴⁴	sʰ w e ⁴⁴	2576
+1174	Jianchuan	s w e ⁴⁴	s w e ⁴⁴	2576
+1175	Xiangyun	s w a ⁴⁴	s w a ⁴⁴	2576
+1176	Zhoucheng	s w e ⁴⁴	s w e ⁴⁴	2576
+1177	Heqing	w a ⁴²	w a ⁴²	2577
+1178	Jianchuan	w a ⁴²	w a ⁴²	2577
+1179	Qiliqiao	kʰ w ɔ ³³	kʰ w ɔ ³³	2582
+1180	Xiangyun	kʰ w ɔ ³³	kʰ w ɔ ³³	2582
+1181	Zhoucheng	kʰ w ɔ ³³	kʰ w ɔ ³³	2582
+1182	Eryuan	ŋ ɛ ⁴²	ŋ ɛ ⁴²	2638
+1183	Heqing	ŋ ɛ ³¹	ŋ ɛ ³¹	2638
+1184	Jianchuan	ŋ ɛ ⁴²	ŋ ɛ ⁴²	2638
+1185	Lanping	ŋ ɛ ⁴²	ŋ ɛ ⁴²	2638
+1186	Qiliqiao	ŋ ɛ ³²	ŋ ɛ ³²	2638
+1187	Yunlong	ŋ ɛ ⁴²	ŋ ɛ ⁴²	2638
+1188	Zhoucheng	ŋ ɛ ³²	ŋ ɛ ³²	2638
+1189	Eryuan	x ɯ ⁴⁴	x ɯ ⁴⁴	2668
+1190	Heqing	x ɯ̃ ⁴⁴	x ɯ̃ ⁴⁴	2668
+1191	Xiangyun	x ɯ̃ ³³	x ɯ̃ ³³	2668
+1192	Zhoucheng	x ɯ ³²	x ɯ ³²	2668
+1193	Jianchuan	k ɯ ⁴²	k ɯ ⁴²	2669
+1194	Lanping	k ɯ ⁴²	k ɯ ⁴²	2669
+1195	Qiliqiao	tsʰ ɿ ²¹	tsʰ ɿ ²¹	2669
+1196	Yunlong	tsʰ ɿ ³¹	tsʰ ɿ ³¹	2669
+1197	Eryuan	p ɔ ³¹	p ɔ ³¹	2679
+1198	Heqing	v ɔ ³¹	v ɔ ³¹	2679
+1199	Luobenzhuo	b ɔ ⁴⁴	b ɔ ⁴⁴	2679
+1200	Qiliqiao	v ɔ ³¹	v ɔ ³¹	2679
+1201	Xiangyun	p ɔ ³¹	p ɔ ³¹	2679
+1202	Yunlong	p ɔ ³¹	p ɔ ³¹	2679
+1203	Zhoucheng	p ɔ ³¹	p ɔ ³¹	2679
+1204	Jianchuan	m o ³¹	m o ³¹	2680
+1205	Lanping	m ɔ ³¹	m ɔ ³¹	2680
+1206	Eryuan	ʈʂ ɤ ³³	ʈʂ - ɤ ³³	2718
+1207	Heqing	ts w ɔ̃ ³³	ts w ɔ̃ ³³	2718
+1208	Jianchuan	ts ɤ̃ ³³	ts - ɤ̃ ³³	2718
+1209	Lanping	ts õ ³³	ts - õ ³³	2718
+1210	Luobenzhuo	dʑ ɔ̃ ³³	- dʑ ɔ̃ ³³	2718
+1211	Qiliqiao	ts ɤ ³³	ts - ɤ ³³	2718
+1212	Yunlong	dz ɤ ³³	- dz ɤ ³³	2718
+1213	Zhoucheng	ts ɤ ³³	ts - ɤ ³³	2718
+1214	Eryuan	t a ⁴²	t a ⁴²	2728
+1215	Jianchuan	t a ⁴²	t a ⁴²	2728
+1216	Lanping	t a ⁴²	t a ⁴²	2728
+1217	Luobenzhuo	t a ⁵⁵	t a ⁵⁵	2728
+1218	Qiliqiao	ts a ⁴²	ts a ⁴²	2728
+1219	Yunlong	t a ⁴²	t a ⁴²	2728
+1220	Zhoucheng	t a ³²	t a ³²	2728
+1221	Eryuan	p ɔ ²¹	p ɔ ²¹	2729
+1222	Heqing	p a ²¹	p a ²¹	2729
+1223	Qiliqiao	p ɔ ²¹	p ɔ ²¹	2729
+1224	Xiangyun	p a ²¹	p a ²¹	2729
+1225	Zhoucheng	p ɔ ²¹	p ɔ ²¹	2729
+1226	Jianchuan	ɣ ɯ ⁴²	ɣ ɯ ⁴²	2730
+1227	Lanping	ɣ ɯ ⁴²	ɣ ɯ ⁴²	2730
+1228	Luobenzhuo	ɣ ɯ ⁴²	ɣ ɯ ⁴²	2730
+1229	Yunlong	ɣ ɯ ⁴²	ɣ ɯ ⁴²	2730
+1230	Xiangyun	tsʰ u ⁵⁵	tsʰ u ⁵⁵	2757
+1231	Yunlong	ts u ⁵⁵	ts u ⁵⁵	2757
+1232	Eryuan	a ⁵⁵	a ⁵⁵	2767
+1233	Jianchuan	a ⁵⁵	a ⁵⁵	2767
+1234	Lanping	a ⁵⁵	a ⁵⁵	2767
+1235	Qiliqiao	a ⁵⁵	a ⁵⁵	2767
+1236	Xiangyun	a ⁵⁵	a ⁵⁵	2767
+1237	Yunlong	a ⁵⁵	a ⁵⁵	2767
+1238	Eryuan	t a ⁴⁴	t a ⁴⁴	2768
+1239	Heqing	t a ⁴⁴	t a ⁴⁴	2768
+1240	Jianchuan	t a ⁴⁴	t a ⁴⁴	2768
+1241	Qiliqiao	t a ⁴⁴	t a ⁴⁴	2768
+1242	Xiangyun	t a ⁴⁴	t a ⁴⁴	2768
+1243	Yunlong	t a ⁴⁴	t a ⁴⁴	2768
+1244	Eryuan	p ɯ ⁵⁵	p ɯ ⁵⁵	2807
+1245	Heqing	v ɯ ⁵⁵	v ɯ ⁵⁵	2807
+1246	Luobenzhuo	b ɔ ⁵⁵	b ɔ ⁵⁵	2807
+1247	Qiliqiao	v ɯ ⁵⁵	v ɯ ⁵⁵	2807
+1248	Xiangyun	p ou ⁵⁵	p ou ⁵⁵	2807
+1249	Yunlong	p ɯ ⁵⁵	p ɯ ⁵⁵	2807
+1250	Zhoucheng	p ɯ ⁵⁵	p ɯ ⁵⁵	2807
+1251	Jianchuan	m ɯ ⁵⁵	m ɯ ⁵⁵	2808
+1252	Lanping	m ɯ ⁵⁵	m ɯ ⁵⁵	2808
+1253	Luobenzhuo	m ɤ ⁵⁵	m ɤ ⁵⁵	2808
+1254	Eryuan	ʂ e ⁴²	ʂ e ⁴²	2830
+1255	Heqing	s ẽ ⁴²	s ẽ ⁴²	2830
+1256	Jianchuan	s ẽ ⁴²	s ẽ ⁴²	2830
+1257	Lanping	s ẽ ⁴²	s ẽ ⁴²	2830
+1258	Yunlong	s e ⁴²	s e ⁴²	2830
+1259	Zhoucheng	s e ⁴²	s e ⁴²	2830
+1260	Heqing	kʰ e ⁴⁴	kʰ e ⁴⁴	2846
+1261	Luobenzhuo	qʰ æ ⁵⁵	qʰ æ ⁵⁵	2846
+1262	Jianchuan	n e ⁴⁴	n e ⁴⁴	2847
+1263	Lanping	n ẽ ⁵⁵	n ẽ ⁵⁵	2847
+1264	Qiliqiao	n e ⁴⁴	n e ⁴⁴	2847
+1265	Zhoucheng	n e ⁴⁴	n e ⁴⁴	2847
+1266	Eryuan	k ɤ ⁴⁴	k - ɤ ⁴⁴	2856
+1267	Heqing	k w ɔ ⁴⁴	k w ɔ ⁴⁴	2856
+1268	Jianchuan	k ɤ ⁴⁴	k - ɤ ⁴⁴	2856
+1269	Lanping	k o ⁵⁵	k - o ⁵⁵	2856
+1270	Luobenzhuo	q õ ⁵⁵	q - õ ⁵⁵	2856
+1271	Qiliqiao	k ɤ ⁴⁴	k - ɤ ⁴⁴	2856
+1272	Yunlong	k ɤ ⁴⁴	k - ɤ ⁴⁴	2856
+1273	Zhoucheng	k ɤ ⁴⁴	k - ɤ ⁴⁴	2856
+1274	Eryuan	ɯ ³¹	ɯ ³¹	2876
+1275	Lanping	ɯ ⁴²	ɯ ⁴²	2876
+1276	Qiliqiao	ɯ ³¹	ɯ ³¹	2876
+1277	Heqing	w ẽ ⁵⁵	w ẽ ⁵⁵	2877
+1278	Jianchuan	w ẽ ⁵⁵	w ẽ ⁵⁵	2877
+1279	Qiliqiao	w e ³⁵	w e ³⁵	2877
+1280	Xiangyun	w ẽ ³⁵	w ẽ ³⁵	2877
+1281	Yunlong	w ɛ ³³	w ɛ ³³	2877
+1282	Zhoucheng	w ɛ ³⁵	w ɛ ³⁵	2877
+1283	Luobenzhuo	ɲ i ⁵⁵	ɲ i ⁵⁵	2879
+1284	Qiliqiao	ɲ i ⁴⁴	ɲ i ⁴⁴	2879
+1285	Heqing	ts ɿ ⁵⁵	ts ɿ ⁵⁵	2910
+1286	Jianchuan	ts ɿ ⁵⁵	ts ɿ ⁵⁵	2910
+1287	Luobenzhuo	ʈʂ ɛ̃ ⁵⁵	ʈʂ ɛ̃ ⁵⁵	2910
+1288	Qiliqiao	ts ɿ ⁵⁵	ts ɿ ⁵⁵	2910
+1289	Zhoucheng	ts ɯ ⁵⁵	ts ɯ ⁵⁵	2910
+1290	Heqing	k ɛ ²¹	k ɛ ²¹	2911
+1291	Jianchuan	k ɛ ²¹	k ɛ ²¹	2911
+1292	Lanping	k ɛ ³¹	k ɛ ³¹	2911
+1293	Lanping	i ⁵⁵	- i ⁵⁵	2912
+1294	Yunlong	i ⁴⁴	- i ⁴⁴	2912
+1295	Zhoucheng	n ɯ ⁵⁵	n ɯ ⁵⁵	2912
+1296	Luobenzhuo	m e ³³	m e ³³	2913
+1297	Qiliqiao	m ɯ ⁵⁵	m ɯ ⁵⁵	2913
+1298	Yunlong	m ɯ ⁴⁴	m ɯ ⁴⁴	2913
+1299	Eryuan	ɕ u ³³	ɕ u ³³	2929
+1300	Heqing	ɕ u ³³	ɕ u ³³	2929
+1301	Jianchuan	ɕ u ³³	ɕ u ³³	2929
+1302	Lanping	ɕ o ⁴⁴	ɕ o ⁴⁴	2929
+1303	Qiliqiao	ɕ o ³³	ɕ o ³³	2929
+1304	Xiangyun	ɕ u ³³	ɕ u ³³	2929
+1305	Yunlong	ɕ u ³³	ɕ u ³³	2929
+1306	Zhoucheng	ɕ o ³³	ɕ o ³³	2929
+1307	Heqing	m i ⁴²	m i ⁴²	2949
+1308	Jianchuan	m i ⁴²	m i ⁴²	2949
+1309	Lanping	m i ³³	m i ³³	2949
+1310	Luobenzhuo	m o ⁵⁵	m o ⁵⁵	2949
+1311	Qiliqiao	m i ³²	m i ³²	2949
+1312	Xiangyun	m ou ⁵⁵	m ou ⁵⁵	2949
+1313	Yunlong	m ɯ ⁵⁵	m ɯ ⁵⁵	2949
+1314	Zhoucheng	m i ³²	m i ³²	2949
+1315	Qiliqiao	ɕ i ³⁵	ɕ i ³⁵	2951
+1316	Zhoucheng	ɕ i ³⁵	ɕ i ³⁵	2951
+1317	Eryuan	ɤ ⁴⁴	- ɤ ⁴⁴	2969
+1318	Jianchuan	ɤ ⁴⁴	- ɤ ⁴⁴	2969
+1319	Qiliqiao	v ɤ ⁴⁴	v ɤ ⁴⁴	2969
+1320	Xiangyun	ɛ ⁴⁴	- ɛ ⁴⁴	2969
+1321	Yunlong	ʔ ɯ ⁴⁴	ʔ ɯ ⁴⁴	2969
+1322	Zhoucheng	v ɤ ⁴⁴	v ɤ ⁴⁴	2969
+1323	Lanping	w ɛ ⁴⁴	w ɛ ⁴⁴	2971
+1324	Luobenzhuo	w ɛ ⁵⁵	w ɛ ⁵⁵	2971
+1325	Eryuan	ʈʂ ɤ ³¹	ʈʂ - ɤ ³¹	2979
+1326	Heqing	ts w ɔ̃ ⁴²	ts w ɔ̃ ⁴²	2979
+1327	Jianchuan	ts ɤ̃ ²¹	ts - ɤ̃ ²¹	2979
+1328	Lanping	ts ɔ ²¹	ts - ɔ ²¹	2979
+1329	Luobenzhuo	tɕ ʊ ³¹	tɕ - ʊ ³¹	2979
+1330	Qiliqiao	ts ɤ ²¹	ts - ɤ ²¹	2979
+1331	Xiangyun	tɕ ɛ̃ ³¹	tɕ - ɛ̃ ³¹	2979
+1332	Zhoucheng	ts ɤ ²¹	ts - ɤ ²¹	2979
+1333	Eryuan	kʰ ɯ ³¹	kʰ ɯ ³¹	2989
+1334	Heqing	kʰ ɯ ³¹	kʰ ɯ ³¹	2989
+1335	Jianchuan	kʰ ɯ ³¹	kʰ ɯ ³¹	2989
+1336	Qiliqiao	kʰ ɯ ³¹	kʰ ɯ ³¹	2989
+1337	Xiangyun	k ou ³¹	k ou ³¹	2989
+1338	Yunlong	kʰ ɯ ³¹	kʰ ɯ ³¹	2989
+1339	Zhoucheng	kʰ ɯ ³¹	kʰ ɯ ³¹	2989
+1340	Eryuan	p ɔ ³¹	p ɔ ³¹	2990
+1341	Luobenzhuo	b o ⁵⁵	b o ⁵⁵	2990
+1342	Qiliqiao	p ɔ ²¹	p ɔ ²¹	2990
+1343	Heqing	f ɤ ³³	f ɤ ³³	2991
+1344	Jianchuan	f ɤ ³³	f ɤ ³³	2991
+1345	Lanping	m ɯ ⁵⁵	m ɯ ⁵⁵	2992
+1346	Luobenzhuo	m u ⁵⁵	m u ⁵⁵	2992
+1347	Zhoucheng	m i ³²	m i ³²	2992
+1348	Eryuan	p ɯ ²¹	p ɯ ²¹	3009
+1349	Heqing	p ɯ ²¹	p ɯ ²¹	3009
+1350	Jianchuan	p ɯ ²¹	p ɯ ²¹	3009
+1351	Lanping	p ɯ ²¹	p ɯ ²¹	3009
+1352	Luobenzhuo	p ɯ ³¹	p ɯ ³¹	3009
+1353	Qiliqiao	p ɯ ²¹	p ɯ ²¹	3009
+1354	Xiangyun	p ou ²¹	p ou ²¹	3009
+1355	Zhoucheng	p ɯ ²¹	p ɯ ²¹	3009
+1356	Eryuan	m ɯ ⁵⁵	m ɯ ⁵⁵	3041
+1357	Jianchuan	m ɯ ⁵⁵	m ɯ ⁵⁵	3041
+1358	Lanping	m ɯ ⁵⁵	m ɯ ⁵⁵	3041
+1359	Xiangyun	m u ⁵⁵	m u ⁵⁵	3041
+1360	Zhoucheng	m ɯ ⁵⁵	m ɯ ⁵⁵	3041
+1361	Eryuan	t ɯ ²¹	t - ɯ ²¹	3042
+1362	Heqing	t ɯ ⁵⁵	t - ɯ ⁵⁵	3042
+1363	Jianchuan	t ɯ ²¹	t - ɯ ²¹	3042
+1364	Lanping	t j ɯ ²¹	t j ɯ ²¹	3042
+1365	Qiliqiao	t ɯ ²¹	t - ɯ ²¹	3042
+1366	Xiangyun	t ou ³¹	t - ou ³¹	3042
+1367	Heqing	tɕ a ⁵⁵	tɕ a ⁵⁵	3044
+1368	Qiliqiao	tʰ a ⁵⁵	tʰ a ⁵⁵	3044
+1369	Xiangyun	tɕ ĩ ³⁵	tɕ ĩ ³⁵	3044
+1370	Yunlong	ts ɯ ⁴⁴	ts ɯ ⁴⁴	3044
+1371	Luobenzhuo	c ɤ ³¹	c ɤ ³¹	3047
+1372	Zhoucheng	tɕ i ⁴²	tɕ i ⁴²	3047
+1373	Eryuan	ʈʂ ɔ ⁴²	ʈʂ ɔ ⁴²	3064
+1374	Heqing	ts ɔu ⁴²	ts ɔu ⁴²	3064
+1375	Jianchuan	ts o ⁴²	ts o ⁴²	3064
+1376	Lanping	ts u ³¹	ts u ³¹	3064
+1377	Qiliqiao	ts o ⁴²	ts o ⁴²	3064
+1378	Xiangyun	ts ou ⁴²	ts ou ⁴²	3064
+1379	Yunlong	ts ao ³¹	ts ao ³¹	3064
+1380	Zhoucheng	ts o ⁴²	ts o ⁴²	3064
+1381	Eryuan	kʰ ɯ ³⁵	kʰ ɯ ³⁵	3065
+1382	Heqing	k ɯ ⁵⁵	k ɯ ⁵⁵	3065
+1383	Jianchuan	k ɯ ⁵⁵	k ɯ ⁵⁵	3065
+1384	Lanping	k ɯ ⁵⁵	k ɯ ⁵⁵	3065
+1385	Qiliqiao	k ɯ ³⁵	k ɯ ³⁵	3065
+1386	Xiangyun	k ɯ ³⁵	k ɯ ³⁵	3065
+1387	Yunlong	k ɯ ³⁵	k ɯ ³⁵	3065
+1388	Zhoucheng	k ɯ ³⁵	k ɯ ³⁵	3065
+1389	Eryuan	kʲ ɛ ⁴⁴	kʲ ɛ ⁴⁴	3085
+1390	Heqing	tɕʰ ɛ ⁴⁴	tɕʰ ɛ ⁴⁴	3085
+1391	Jianchuan	tɕʰ ɛ ⁴⁴	tɕʰ ɛ ⁴⁴	3085
+1392	Lanping	tɕʰ ɛ ⁴⁴	tɕʰ ɛ ⁴⁴	3085
+1393	Zhoucheng	tɕʰ ɛ ⁴⁴	tɕʰ ɛ ⁴⁴	3085
+1394	Heqing	j ɔ ³⁵	j ɔ ³⁵	3097
+1395	Qiliqiao	j ɔ ³⁵	j ɔ ³⁵	3097
+1396	Xiangyun	j ɔ ³⁵	j ɔ ³⁵	3097
+1397	Zhoucheng	j ɔ ³⁵	j ɔ ³⁵	3097
+1398	Jianchuan	j a ⁵⁵	j a ⁵⁵	3098
+1399	Yunlong	j ao ²¹	j ao ²¹	3098
+1400	Eryuan	kʰ w ɛ ³¹	kʰ w ɛ ³¹	3112
+1401	Heqing	kʰ w ɛ ³¹	kʰ w ɛ ³¹	3112
+1402	Jianchuan	kʰ w ɛ ³¹	kʰ w ɛ ³¹	3112
+1403	Lanping	kʰ w ɛ ³¹	kʰ w ɛ ³¹	3112
+1404	Qiliqiao	kʰ w ɛ ³¹	kʰ w ɛ ³¹	3112
+1405	Xiangyun	kʰ w ɛ ³¹	kʰ w ɛ ³¹	3112
+1406	Zhoucheng	kʰ w a ³¹	kʰ w a ³¹	3112
+1407	Eryuan	t ɯ ²¹	t - ɯ ²¹	3113
+1408	Heqing	t ɯ ²¹	t - ɯ ²¹	3113
+1409	Jianchuan	ts ɿ ³¹	ts - ɿ ³¹	3113
+1410	Lanping	t j ɯ ²¹	t j ɯ ²¹	3113
+1411	Qiliqiao	ts ɿ ²¹	ts - ɿ ²¹	3113
+1412	Xiangyun	t ɛ ²¹	t - ɛ ²¹	3113
+1413	Zhoucheng	t ɯ ²¹	t - ɯ ²¹	3113
+1414	Lanping	k a ⁴⁴	k a ⁴⁴	3115
+1415	Luobenzhuo	q u ⁵⁵	q u ⁵⁵	3115
+1416	Yunlong	k u ³³	k u ³³	3115
+1417	Eryuan	k ɤ ²¹	k - ɤ ²¹	3139
+1418	Heqing	k w ɔ ²¹	k w ɔ ²¹	3139
+1419	Jianchuan	k ɤ ³¹	k - ɤ ³¹	3139
+1420	Lanping	k w ɛ ³¹	k w ɛ ³¹	3139
+1421	Qiliqiao	k ɤ ²¹	k - ɤ ²¹	3139
+1422	Xiangyun	k ɯ ²¹	k - ɯ ²¹	3139
+1423	Yunlong	k ɤ ²¹	k - ɤ ²¹	3139
+1424	Zhoucheng	k ɤ ³³	k - ɤ ³³	3139
+1425	Eryuan	s e ³³	s - e ³³	3168
+1426	Heqing	s e ³³	s - e ³³	3168
+1427	Jianchuan	s ẽ ³³	s - ẽ ³³	3168
+1428	Lanping	s w ɛ̃ ⁵⁵	s w ɛ̃ ⁵⁵	3168
+1429	Qiliqiao	z ɯ ⁴⁴	z - ɯ ⁴⁴	3168
+1430	Xiangyun	z ɛ̃ ²¹	z - ɛ̃ ²¹	3168
+1431	Yunlong	z ɿ ³³	z - ɿ ³³	3168
+1432	Zhoucheng	s e ³³	s - e ³³	3168
+1433	Luobenzhuo	t ɯ ⁵⁵	t ɯ ⁵⁵	3170
+1434	Qiliqiao	t ɯ ⁴⁴	t ɯ ⁴⁴	3170
+1435	Xiangyun	t ou ⁴⁴	t ou ⁴⁴	3170
+1436	Yunlong	t ɯ ³³	t ɯ ³³	3170
+1437	Eryuan	ts ɯ ⁵⁵	ts ɯ ⁵⁵	3182
+1438	Heqing	ts ɿ ⁵⁵	ts ɿ ⁵⁵	3182
+1439	Jianchuan	ts u ⁵⁵	ts u ⁵⁵	3182
+1440	Lanping	ts u ⁵⁵	ts u ⁵⁵	3182
+1441	Qiliqiao	ts ɿ ⁵⁵	ts ɿ ⁵⁵	3182
+1442	Yunlong	ts ɿ ⁵⁵	ts ɿ ⁵⁵	3182
+1443	Zhoucheng	ts ɿ ⁵⁵	ts ɿ ⁵⁵	3182
+1444	Eryuan	ts ɔ ⁴²	ts ɔ ⁴²	3183
+1445	Heqing	ts ɔu ⁴²	ts ɔu ⁴²	3183
+1446	Jianchuan	ts ou ⁴²	ts ou ⁴²	3183
+1447	Lanping	ts u ³¹	ts u ³¹	3183
+1448	Qiliqiao	ts ɔ ³²	ts ɔ ³²	3183
+1449	Xiangyun	ts ɔ ⁴²	ts ɔ ⁴²	3183
+1450	Yunlong	ts ɔ ⁴²	ts ɔ ⁴²	3183
+1451	Zhoucheng	ts ɔ ⁴²	ts ɔ ⁴²	3183
+1452	Eryuan	ts ɿ ²¹	ts ɿ ²¹	3210
+1453	Heqing	ts ɿ ²¹	ts ɿ ²¹	3210
+1454	Jianchuan	ts ɛ ²¹	ts ɛ ²¹	3210
+1455	Qiliqiao	ts ɿ ²¹	ts ɿ ²¹	3210
+1456	Yunlong	dz ɿ ²¹	dz ɿ ²¹	3210
+1457	Zhoucheng	ts ɿ ²¹	ts ɿ ²¹	3210
+1458	Eryuan	tʰ i ⁵⁵	tʰ i ⁵⁵	3211
+1459	Heqing	tʰ e ³⁵	tʰ e ³⁵	3211
+1460	Jianchuan	tʰ i ⁵⁵	tʰ i ⁵⁵	3211
+1461	Qiliqiao	tʰ i ⁵⁵	tʰ i ⁵⁵	3211
+1462	Xiangyun	tʰ e ⁵⁵	tʰ e ⁵⁵	3211
+1463	Yunlong	tʰ i ⁵⁵	tʰ i ⁵⁵	3211
+1464	Zhoucheng	tʰ ɯ ⁵⁵	tʰ ɯ ⁵⁵	3211
+1465	Eryuan	k a ³⁵	k a ³⁵	3212
+1466	Lanping	k e ⁵⁵	k e ⁵⁵	3212
+1467	Luobenzhuo	q ẽ ⁵⁵	q ẽ ⁵⁵	3212
+1468	Yunlong	k ɛ ³⁵	k ɛ ³⁵	3212
+1469	Zhoucheng	k a ³⁵	k a ³⁵	3212
+1470	Lanping	k u ²¹	k u ²¹	3213
+1471	Luobenzhuo	k ɤ ³¹	k ɤ ³¹	3213
+1472	Eryuan	k ɔ ²¹	k ɔ ²¹	3234
+1473	Heqing	k ɔ ²¹	k ɔ ²¹	3234
+1474	Jianchuan	k o ²¹	k o ²¹	3234
+1475	Lanping	k ɔ ²¹	k ɔ ²¹	3234
+1476	Qiliqiao	k ɔ ²¹	k ɔ ²¹	3234
+1477	Yunlong	k ao ²¹	k ao ²¹	3234
+1478	Zhoucheng	k ɔ ²¹	k ɔ ²¹	3234
+1479	Luobenzhuo	b ɯ ³³	b ɯ ³³	3236
+1480	Xiangyun	p ɯ ³³	p ɯ ³³	3236
+1481	Eryuan	n a ²¹	n a ²¹	3246
+1482	Heqing	n a ²¹	n a ²¹	3246
+1483	Jianchuan	n a ²¹	n a ²¹	3246
+1484	Lanping	n a ³¹	n a ³¹	3246
+1485	Qiliqiao	n a ²¹	n a ²¹	3246
+1486	Xiangyun	n a ²¹	n a ²¹	3246
+1487	Yunlong	n a ²¹	n a ²¹	3246
+1488	Zhoucheng	n a ²¹	n a ²¹	3246
+1489	Heqing	sʰ w a ⁴⁴	sʰ w a ⁴⁴	3248
+1490	Jianchuan	s w a ⁴⁴	s w a ⁴⁴	3248
+1491	Qiliqiao	ʃ w a ⁴⁴	ʃ w a ⁴⁴	3248
+1492	Yunlong	s w a ⁴⁴	s w a ⁴⁴	3248
+1493	Zhoucheng	s w a ⁴⁴	s w a ⁴⁴	3248
+1494	Heqing	sʰ ɯ ⁴⁴	sʰ ɯ ⁴⁴	3291
+1495	Jianchuan	s ɯ ⁴⁴	s ɯ ⁴⁴	3291
+1496	Lanping	s ɯ ⁴⁴	s ɯ ⁴⁴	3291
+1497	Qiliqiao	z ɯ ⁴⁴	z ɯ ⁴⁴	3291
+1498	Zhoucheng	s ɯ ⁴⁴	s ɯ ⁴⁴	3291
+1499	Eryuan	p ɛ ⁴²	p ɛ ⁴²	3301
+1500	Heqing	p ɛ ⁴²	p ɛ ⁴²	3301
+1501	Jianchuan	p ɛ ⁴²	p ɛ ⁴²	3301
+1502	Luobenzhuo	p a ⁴²	p a ⁴²	3301
+1503	Qiliqiao	p ɛ ⁴²	p ɛ ⁴²	3301
+1504	Xiangyun	p ɛ ⁴²	p ɛ ⁴²	3301
+1505	Yunlong	p ɛ ⁴²	p ɛ ⁴²	3301
+1506	Eryuan	j ɔ ³³	j ɔ ³³	3302
+1507	Heqing	j ɔ ³³	j ɔ ³³	3302
+1508	Jianchuan	j o ³³	j o ³³	3302
+1509	Qiliqiao	j ɔ ³³	j ɔ ³³	3302
+1510	Xiangyun	j ɔ ³³	j ɔ ³³	3302
+1511	Yunlong	j ɔ ³³	j ɔ ³³	3302
+1512	Eryuan	k ɯ ³³	k ɯ ³³	3303
+1513	Jianchuan	k ɯ ³³	k ɯ ³³	3303
+1514	Qiliqiao	k ɯ ³³	k ɯ ³³	3303
+1515	Xiangyun	k ɯ ³³	k ɯ ³³	3303
+1516	Yunlong	k ɯ ³³	k ɯ ³³	3303
+1517	Lanping	l ã ³¹	l ã ³¹	3304
+1518	Zhoucheng	l a ³¹	l a ³¹	3304
+1519	Lanping	k ã ⁵⁵	k ã ⁵⁵	3344
+1520	Luobenzhuo	q a ⁵⁵	q a ⁵⁵	3344
+1521	Eryuan	p i ³⁵	p i ³⁵	3355
+1522	Heqing	p i ⁵⁵	p i ⁵⁵	3355
+1523	Jianchuan	p i ⁵⁵	p i ⁵⁵	3355
+1524	Lanping	pʰ ao ⁴⁴	pʰ ao ⁴⁴	3355
+1525	Qiliqiao	p i ³⁵	p i ³⁵	3355
+1526	Xiangyun	p i ³⁵	p i ³⁵	3355
+1527	Yunlong	p i ³⁵	p i ³⁵	3355
+1528	Zhoucheng	p i ³⁵	p i ³⁵	3355
+1529	Eryuan	p ɔ ³¹	p ɔ ³¹	3356
+1530	Qiliqiao	p ɔ ²¹	p ɔ ²¹	3356
+1531	Yunlong	p ɔ ³¹	p ɔ ³¹	3356
+1532	Zhoucheng	p o ³¹	p o ³¹	3356
+1533	Heqing	f ɤ ³³	f ɤ ³³	3357
+1534	Jianchuan	f ɤ ³³	f ɤ ³³	3357
+1535	Eryuan	kʲ e ³¹	kʲ e ³¹	3375
+1536	Heqing	k e ⁴²	k e ⁴²	3375
+1537	Jianchuan	k ẽ ³¹	k ẽ ³¹	3375
+1538	Lanping	k e ³³	k e ³³	3375
+1539	Qiliqiao	k e ³¹	k e ³¹	3375
+1540	Xiangyun	kʲ ẽ ²¹	kʲ ẽ ²¹	3375
+1541	Yunlong	k e ³¹	k e ³¹	3375
+1542	Eryuan	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	3385
+1543	Heqing	tsʰ ɛ̃ ⁵⁵	tsʰ ɛ̃ ⁵⁵	3385
+1544	Jianchuan	tsʰ ɛ̃ ⁵⁵	tsʰ ɛ̃ ⁵⁵	3385
+1545	Lanping	tsʰ ɛ̃ ⁵⁵	tsʰ ɛ̃ ⁵⁵	3385
+1546	Qiliqiao	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	3385
+1547	Xiangyun	tsʰ ɛ̃ ⁵⁵	tsʰ ɛ̃ ⁵⁵	3385
+1548	Yunlong	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	3385
+1549	Zhoucheng	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	3385
+1550	Heqing	m ɛ ²¹	m ɛ ²¹	3396
+1551	Jianchuan	m ɛ ²¹	m ɛ ²¹	3396
+1552	Lanping	m æ ²¹	m æ ²¹	3396
+1553	Qiliqiao	m ɛ ²¹	m ɛ ²¹	3396
+1554	Xiangyun	m ɛ ²¹	m ɛ ²¹	3396
+1555	Zhoucheng	m ɛ ²¹	m ɛ ²¹	3396
+1556	Eryuan	kʲ i ³¹	kʲ i ³¹	3405
+1557	Heqing	tɕ i ³¹	tɕ i ³¹	3405
+1558	Jianchuan	ts ɿ ³³	ts ɿ ³³	3405
+1559	Lanping	ts ɿ ³³	ts ɿ ³³	3405
+1560	Qiliqiao	tɕ i ³¹	tɕ i ³¹	3405
+1561	Yunlong	dʑ i ³³	dʑ i ³³	3405
+1562	Zhoucheng	kʲ i ³¹	kʲ i ³¹	3405
+1563	Eryuan	ŋ w e ³³	ŋ w e ³³	3406
+1564	Xiangyun	l w ẽ ³³	l w ẽ ³³	3406
+1565	Zhoucheng	x w e ³³	x w e ³³	3406
+1566	Eryuan	z ɛ ³³	z ɛ ³³	3407
+1567	Jianchuan	s ɛ̃ ²¹	s ɛ̃ ²¹	3407
+1568	Lanping	ʐ ɯ ³³	ʐ ɯ ³³	3407
+1569	Heqing	k ɔu ⁵⁵	k ɔu ⁵⁵	3408
+1570	Qiliqiao	k ɤ ³⁵	k ɤ ³⁵	3408
+1571	Heqing	l a ⁴⁴	l a ⁴⁴	3409
+1572	Qiliqiao	l a ⁴⁴	l a ⁴⁴	3409
+1573	Zhoucheng	l ɛ ⁵⁵	l ɛ ⁵⁵	3409
+1574	Jianchuan	pʰ j ɯ ⁴⁴	pʰ j ɯ ⁴⁴	3410
+1575	Lanping	pʰ j ɯ ⁴⁴	pʰ j ɯ ⁴⁴	3410
+1576	Luobenzhuo	m i ³¹	m i ³¹	3413
+1577	Yunlong	m i ³³	m i ³³	3413
+1578	Xiangyun	j ɛ̃ ³³	j ɛ̃ ³³	3415
+1579	Yunlong	j ɛ ³³	j ɛ ³³	3415
+1580	Eryuan	x w a ³⁵	x w a ³⁵	3434
+1581	Heqing	x w ã ⁵⁵	x w ã ⁵⁵	3434
+1582	Jianchuan	x w ã ⁵⁵	x w ã ⁵⁵	3434
+1583	Lanping	x w ã ⁵⁵	x w ã ⁵⁵	3434
+1584	Qiliqiao	x w a ³⁵	x w a ³⁵	3434
+1585	Xiangyun	x w ã ³⁵	x w ã ³⁵	3434
+1586	Yunlong	x w a ³⁵	x w a ³⁵	3434
+1587	Zhoucheng	x w a ³⁵	x w a ³⁵	3434
+1588	Eryuan	s ɔ ³³	s - ɔ ³³	3472
+1589	Heqing	s w ɔ ³³	s w ɔ ³³	3472
+1590	Lanping	s u ⁴⁴	s - u ⁴⁴	3472
+1591	Luobenzhuo	s ɔ ³³	s - ɔ ³³	3472
+1592	Qiliqiao	ʃ w ɔ ²¹	ʃ w ɔ ²¹	3472
+1593	Yunlong	s w ɔ ³³	s w ɔ ³³	3472
+1594	Zhoucheng	s w a ³³	s w a ³³	3472
+1595	Eryuan	k ɤ ²¹	k ɤ ²¹	3473
+1596	Zhoucheng	k ɤ ²¹	k ɤ ²¹	3473
+1597	Jianchuan	ts ou ⁴²	ts ou ⁴²	3474
+1598	Xiangyun	ts ou ⁴²	ts ou ⁴²	3474
+1599	Eryuan	s a ²¹	s - a ²¹	3486
+1600	Heqing	s ã ⁴²	s - ã ⁴²	3486
+1601	Jianchuan	s w ã ³¹	s w ã ³¹	3486
+1602	Lanping	s w a ³³	s w a ³³	3486
+1603	Qiliqiao	ɕ ɔ ³³	ɕ - ɔ ³³	3486
+1604	Xiangyun	s a ³³	s - a ³³	3486
+1605	Yunlong	s a ²¹	s - a ²¹	3486
+1606	Zhoucheng	s ɔ ³³	s - ɔ ³³	3486
+1607	Eryuan	n a ³³	n a ³³	3487
+1608	Yunlong	n a ³³	n a ³³	3487
+1609	Eryuan	kʲ e ³⁵	kʲ e ³⁵	3488
+1610	Heqing	k e ⁵⁵	k e ⁵⁵	3488
+1611	Jianchuan	k e ⁵⁵	k e ⁵⁵	3488
+1612	Lanping	k e ⁵⁵	k e ⁵⁵	3488
+1613	Qiliqiao	k e ³⁵	k e ³⁵	3488
+1614	Xiangyun	kʲ i ³⁵	kʲ i ³⁵	3488
+1615	Yunlong	k e ³⁵	k e ³⁵	3488
+1616	Zhoucheng	k e ³⁵	k e ³⁵	3488
+1617	Heqing	m ɔu ³³	m ɔu ³³	3489
+1618	Jianchuan	m a ³¹	m a ³¹	3489
+1619	Lanping	m ɯ̃ ³³	m ɯ̃ ³³	3489
+1620	Xiangyun	m a ³³	m a ³³	3489
+1621	Luobenzhuo	l a ⁴⁴	l a ⁴⁴	3490
+1622	Qiliqiao	l ɔ ³⁵	l ɔ ³⁵	3490
+1623	Zhoucheng	l ɔ ³³	l ɔ ³³	3490
+1624	Eryuan	a ³³	a ³³	3523
+1625	Jianchuan	ã ³³	ã ³³	3523
+1626	Lanping	ã ⁴⁴	ã ⁴⁴	3523
+1627	Qiliqiao	a ³³	a ³³	3523
+1628	Xiangyun	ã ³³	ã ³³	3523
+1629	Yunlong	a ³³	a ³³	3523
+1630	Zhoucheng	a ³³	a ³³	3523
+1631	Heqing	xʰ ã ⁵⁵	xʰ ã ⁵⁵	3524
+1632	Jianchuan	x ã ⁵⁵	x ã ⁵⁵	3524
+1633	Eryuan	j i ²¹	j i ²¹	3534
+1634	Lanping	j i ²¹	j i ²¹	3534
+1635	Qiliqiao	j i ²¹	j i ²¹	3534
+1636	Zhoucheng	j i ³¹	j i ³¹	3534
+1637	Jianchuan	ɕ ĩ ²¹	ɕ ĩ ²¹	3536
+1638	Luobenzhuo	ʂ æ ⁴²	ʂ æ ⁴²	3536
+1639	Xiangyun	z ẽ ³¹	z ẽ ³¹	3536
+1640	Yunlong	z e ³¹	z e ³¹	3536
+1641	Jianchuan	ã ³³	ã ³³	3537
+1642	Lanping	ã ⁴⁴	ã ⁴⁴	3537
+1643	Eryuan	ʂ ɔ ³³	ʂ ɔ ³³	3547
+1644	Heqing	sʰ ɔu ³³	sʰ ɔu ³³	3547
+1645	Jianchuan	s u ³³	s u ³³	3547
+1646	Lanping	s ɔ̃ ³³	s ɔ̃ ³³	3547
+1647	Luobenzhuo	ʂ ʅ ³³	ʂ ʅ ³³	3547
+1648	Yunlong	s ɔ ³³	s ɔ ³³	3547
+1649	Jianchuan	tsʰ ɯ ⁵⁵	tsʰ ɯ ⁵⁵	3549
+1650	Luobenzhuo	ʈʂʰ ʅ ³³	ʈʂʰ ʅ ³³	3549
+1651	Qiliqiao	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	3549
+1652	Xiangyun	ts ɿ ⁵⁵	ts ɿ ⁵⁵	3549
+1653	Zhoucheng	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	3549
+1654	Eryuan	k ɔ ²¹	k - ɔ ²¹	3575
+1655	Heqing	k w ɔ ²¹	k w ɔ ²¹	3575
+1656	Jianchuan	k ou ²¹	k - ou ²¹	3575
+1657	Lanping	k o ²¹	k - o ²¹	3575
+1658	Luobenzhuo	k ao ³¹	k - ao ³¹	3575
+1659	Qiliqiao	k w ɔ ²¹	k w ɔ ²¹	3575
+1660	Yunlong	k ɔ ²¹	k - ɔ ²¹	3575
+1661	Zhoucheng	k ɔ ²¹	k - ɔ ²¹	3575
+1662	Eryuan	p i ³³	p i ³³	3585
+1663	Heqing	p i ³³	p i ³³	3585
+1664	Jianchuan	p i ³³	p i ³³	3585
+1665	Lanping	p ĩ ⁴⁴	p ĩ ⁴⁴	3585
+1666	Qiliqiao	p i ³³	p i ³³	3585
+1667	Xiangyun	p i ³³	p i ³³	3585
+1668	Yunlong	p i ³³	p i ³³	3585
+1669	Zhoucheng	p i ³³	p i ³³	3585
+1670	Eryuan	u ⁵⁵	- u ⁵⁵	3625
+1671	Qiliqiao	o ⁵⁵	- o ⁵⁵	3625
+1672	Xiangyun	u ⁵⁵	- u ⁵⁵	3625
+1673	Yunlong	w u ⁵⁵	w u ⁵⁵	3625
+1674	Zhoucheng	o ⁵⁵	- o ⁵⁵	3625
+1675	Eryuan	ʈʂ w ɛ ⁵⁵	ʈʂ w ɛ ⁵⁵	3626
+1676	Yunlong	ts w ɛ ⁵⁵	ts w ɛ ⁵⁵	3626
+1677	Eryuan	l ɛ ⁵⁵	l ɛ ⁵⁵	3627
+1678	Heqing	l a ³⁵	l a ³⁵	3627
+1679	Jianchuan	l i ⁵⁵	l i ⁵⁵	3627
+1680	Lanping	l e ⁵⁵	l e ⁵⁵	3627
+1681	Zhoucheng	l a ⁴²	l a ⁴²	3627
+1682	Heqing	ts a ⁴²	ts a ⁴²	3629
+1683	Jianchuan	ts a ⁴²	ts a ⁴²	3629
+1684	Lanping	ts a ⁵⁵	ts a ⁵⁵	3629
+1685	Luobenzhuo	tɕ a ⁵⁵	tɕ a ⁵⁵	3629
+1686	Xiangyun	tsʰ a ⁴²	tsʰ a ⁴²	3629
+1687	Zhoucheng	ts a ⁴²	ts a ⁴²	3629
+1688	Jianchuan	v ɤ ⁵⁵	v ɤ ⁵⁵	3630
+1689	Luobenzhuo	v ɤ ⁵⁵	v ɤ ⁵⁵	3630
+1690	Eryuan	v ɤ ³³	v ɤ ³³	3664
+1691	Heqing	f ɤ ³³	f ɤ ³³	3664
+1692	Jianchuan	v ɤ ³³	v ɤ ³³	3664
+1693	Lanping	v ɛ ⁴⁴	v ɛ ⁴⁴	3664
+1694	Qiliqiao	v ɤ ³³	v ɤ ³³	3664
+1695	Xiangyun	ɤ ³³	- ɤ ³³	3664
+1696	Yunlong	v ɤ ³³	v ɤ ³³	3664
+1697	Zhoucheng	v ɤ ³³	v ɤ ³³	3664
+1698	Heqing	ts ɿ ³³	ts ɿ ³³	3666
+1699	Xiangyun	ts ɿ ³³	ts ɿ ³³	3666
+1700	Lanping	k a ⁴⁴	k a ⁴⁴	3668
+1701	Zhoucheng	tɕ a ⁴⁴	tɕ a ⁴⁴	3668
+1702	Qiliqiao	tʰ u ⁵⁵	tʰ u ⁵⁵	3670
+1703	Yunlong	tʰ u ⁵⁵	tʰ u ⁵⁵	3670
+1704	Eryuan	t ɛ ⁴⁴	t ɛ ⁴⁴	3684
+1705	Heqing	t ɛ ⁴⁴	t ɛ ⁴⁴	3684
+1706	Jianchuan	t ɛ ⁴⁴	t ɛ ⁴⁴	3684
+1707	Lanping	t ɛ ⁴⁴	t ɛ ⁴⁴	3684
+1708	Qiliqiao	t ɛ ⁴⁴	t ɛ ⁴⁴	3684
+1709	Xiangyun	t ɛ̃ ⁴⁴	t ɛ̃ ⁴⁴	3684
+1710	Yunlong	t ɛ ⁴⁴	t ɛ ⁴⁴	3684
+1711	Zhoucheng	t ɛ ⁴⁴	t ɛ ⁴⁴	3684
+1712	Eryuan	f ɛ ⁴⁴	f ɛ ⁴⁴	3685
+1713	Heqing	f ɛ̃ ⁴⁴	f ɛ̃ ⁴⁴	3685
+1714	Jianchuan	f ɛ ⁴⁴	f ɛ ⁴⁴	3685
+1715	Lanping	f ɛ ⁴⁴	f ɛ ⁴⁴	3685
+1716	Qiliqiao	f ɛ ⁴⁴	f ɛ ⁴⁴	3685
+1717	Xiangyun	f ɛ ⁴⁴	f ɛ ⁴⁴	3685
+1718	Yunlong	f ɛ ⁴⁴	f ɛ ⁴⁴	3685
+1719	Zhoucheng	f ɛ ⁴⁴	f ɛ ⁴⁴	3685
+1720	Eryuan	v ɤ ³³	v ɤ ³³	3703
+1721	Heqing	v ɤ ³³	v ɤ ³³	3703
+1722	Jianchuan	v ɤ ³³	v ɤ ³³	3703
+1723	Luobenzhuo	v ʊ ³³	v ʊ ³³	3703
+1724	Qiliqiao	v ɤ ³³	v ɤ ³³	3703
+1725	Yunlong	v ɤ ³³	v ɤ ³³	3703
+1726	Zhoucheng	v ɤ ³¹	v ɤ ³¹	3703
+1727	Eryuan	tɕ i ³¹	tɕ i ³¹	3721
+1728	Heqing	tɕ i ³¹	tɕ i ³¹	3721
+1729	Jianchuan	tɕ i ³¹	tɕ i ³¹	3721
+1730	Lanping	tɕ i ³¹	tɕ i ³¹	3721
+1731	Luobenzhuo	tɕ i ³¹	tɕ i ³¹	3721
+1732	Yunlong	tɕ i ³¹	tɕ i ³¹	3721
+1733	Zhoucheng	tɕ i ³¹	tɕ i ³¹	3721
+1734	Eryuan	y ⁴⁴	- y ⁴⁴	3759
+1735	Jianchuan	j y ⁴⁴	j y ⁴⁴	3759
+1736	Lanping	j y ⁴⁴	j y ⁴⁴	3759
+1737	Qiliqiao	j y ⁴⁴	j y ⁴⁴	3759
+1738	Yunlong	j y ⁴⁴	j y ⁴⁴	3759
+1739	Eryuan	t ɯ ⁴⁴	t ɯ ⁴⁴	3760
+1740	Jianchuan	t ɯ ⁴⁴	t ɯ ⁴⁴	3760
+1741	Lanping	t ɯ ⁴⁴	t ɯ ⁴⁴	3760
+1742	Qiliqiao	t ɯ ⁴⁴	t ɯ ⁴⁴	3760
+1743	Yunlong	t ɯ ⁴⁴	t ɯ ⁴⁴	3760
+1744	Zhoucheng	t ɯ ³³	t ɯ ³³	3760
+1745	Heqing	sʰ a ⁵⁵	sʰ a ⁵⁵	3761
+1746	Lanping	s ã ⁴⁴	s ã ⁴⁴	3761
+1747	Luobenzhuo	s ao ⁵⁵	s ao ⁵⁵	3761
+1748	Heqing	k ẽ ⁴²	k ẽ ⁴²	3762
+1749	Luobenzhuo	tɕ a ⁴²	tɕ a ⁴²	3762
+1750	Xiangyun	tɕ ɛ̃ ⁴²	tɕ ɛ̃ ⁴²	3762
+1751	Heqing	kʰ a ⁴⁴	kʰ a ⁴⁴	3781
+1752	Lanping	kʰ a ⁴⁴	kʰ a ⁴⁴	3781
+1753	Eryuan	kʲ ɛ ⁴²	kʲ ɛ ⁴²	3793
+1754	Heqing	k ɛ̃ ⁴²	k ɛ̃ ⁴²	3793
+1755	Jianchuan	k ɛ ⁴²	k ɛ ⁴²	3793
+1756	Lanping	k ɛ ⁴²	k ɛ ⁴²	3793
+1757	Qiliqiao	k ɛ ³²	k ɛ ³²	3793
+1758	Xiangyun	kʲ ɛ̃ ⁴²	kʲ ɛ̃ ⁴²	3793
+1759	Yunlong	k ɛ ⁴²	k ɛ ⁴²	3793
+1760	Zhoucheng	kʲ ɛ ⁴²	kʲ ɛ ⁴²	3793
+1761	Eryuan	m i ⁴⁴	m i ⁴⁴	3794
+1762	Heqing	m i ⁴²	m i ⁴²	3794
+1763	Jianchuan	m i ⁴²	m i ⁴²	3794
+1764	Lanping	m i ³³	m i ³³	3794
+1765	Qiliqiao	m i ³²	m i ³²	3794
+1766	Yunlong	m i ⁴⁴	m i ⁴⁴	3794
+1767	Zhoucheng	m i ⁴²	m i ⁴²	3794
+1768	Eryuan	ts e ²¹	ts e ²¹	3813
+1769	Heqing	tɕʰ ẽ ³⁵	tɕʰ ẽ ³⁵	3813
+1770	Jianchuan	ts e ²¹	ts e ²¹	3813
+1771	Lanping	ts e ⁴²	ts e ⁴²	3813
+1772	Qiliqiao	tɕʰ e ⁵⁵	tɕʰ e ⁵⁵	3813
+1773	Xiangyun	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	3813
+1774	Yunlong	ts e ²¹	ts e ²¹	3813
+1775	Zhoucheng	ts e ⁵⁵	ts e ⁵⁵	3813
+1776	Eryuan	u ²¹	- u ²¹	3823
+1777	Heqing	u ²¹	- u ²¹	3823
+1778	Yunlong	w u ²¹	w u ²¹	3823
+1779	Eryuan	s w a ³⁵	s w a ³⁵	3824
+1780	Heqing	s w ã ³⁵	s w ã ³⁵	3824
+1781	Jianchuan	s w ã ⁵⁵	s w ã ⁵⁵	3824
+1782	Lanping	s w ã ⁴⁴	s w ã ⁴⁴	3824
+1783	Qiliqiao	ʃ w a ³⁵	ʃ w a ³⁵	3824
+1784	Xiangyun	s w ã ³⁵	s w ã ³⁵	3824
+1785	Yunlong	s w a ³⁵	s w a ³⁵	3824
+1786	Zhoucheng	s a ³⁵	s - a ³⁵	3824
+1787	Jianchuan	ɣ ou ²¹	ɣ ou ²¹	3825
+1788	Lanping	ɔ̃ ²¹	- ɔ̃ ²¹	3825
+1789	Luobenzhuo	õ ³¹	- õ ³¹	3825
+1790	Qiliqiao	o ⁴²	- o ⁴²	3825
+1791	Zhoucheng	ɔ ²¹	- ɔ ²¹	3825
+1792	Luobenzhuo	s õ ⁵⁵	s õ ⁵⁵	3826
+1793	Yunlong	s ɿ ⁵⁵	s ɿ ⁵⁵	3826
+1794	Eryuan	m i ⁵⁵	m i ⁵⁵	3853
+1795	Heqing	m i ³⁵	m i ³⁵	3853
+1796	Jianchuan	m i ⁵⁵	m i ⁵⁵	3853
+1797	Lanping	m ĩ ⁵⁵	m ĩ ⁵⁵	3853
+1798	Qiliqiao	m i ⁵⁵	m i ⁵⁵	3853
+1799	Xiangyun	m i ³⁵	m i ³⁵	3853
+1800	Yunlong	m i ⁵⁵	m i ⁵⁵	3853
+1801	Zhoucheng	m i ³⁵	m i ³⁵	3853
+1802	Eryuan	ŋ w a ⁴⁴	ŋ w a ⁴⁴	3854
+1803	Heqing	w ã ⁴⁴	- w ã ⁴⁴	3854
+1804	Jianchuan	w ã ⁴⁴	- w ã ⁴⁴	3854
+1805	Lanping	w ã ⁴⁴	- w ã ⁴⁴	3854
+1806	Qiliqiao	w a ⁴⁴	- w a ⁴⁴	3854
+1807	Xiangyun	w ã ⁴⁴	- w ã ⁴⁴	3854
+1808	Yunlong	ŋ w a ⁴⁴	ŋ w a ⁴⁴	3854
+1809	Zhoucheng	w a ⁴⁴	- w a ⁴⁴	3854
+1810	Eryuan	kʲʰ ɛ ⁵⁵	kʲʰ ɛ ⁵⁵	3873
+1811	Heqing	kʰ ɛ ⁵⁵	kʰ ɛ ⁵⁵	3873
+1812	Jianchuan	kʰ ɛ ⁵⁵	kʰ ɛ ⁵⁵	3873
+1813	Lanping	kʰ ɯ ⁵⁵	kʰ ɯ ⁵⁵	3873
+1814	Qiliqiao	kʰ ɯ ³³	kʰ ɯ ³³	3873
+1815	Xiangyun	kʰ ɯ ³³	kʰ ɯ ³³	3873
+1816	Yunlong	kʰ ɛ ⁵⁵	kʰ ɛ ⁵⁵	3873
+1817	Zhoucheng	kʰ ɯ ⁵⁵	kʰ ɯ ⁵⁵	3873
+1818	Eryuan	t ɯ ²¹	t - ɯ ²¹	3874
+1819	Heqing	t ɯ ²¹	t - ɯ ²¹	3874
+1820	Jianchuan	t ɛ ²¹	t - ɛ ²¹	3874
+1821	Lanping	t j ɯ ³¹	t j ɯ ³¹	3874
+1822	Luobenzhuo	ts ɯ ³¹	ts - ɯ ³¹	3874
+1823	Yunlong	t ɯ ²¹	t - ɯ ²¹	3874
+1824	Heqing	ts ɿ ⁵⁵	ts ɿ ⁵⁵	3875
+1825	Luobenzhuo	ts ɯ ³¹	ts ɯ ³¹	3875
+1826	Qiliqiao	tsʰ ɛ ³³	tsʰ ɛ ³³	3875
+1827	Yunlong	ts ɿ ³³	ts ɿ ³³	3875
+1828	Zhoucheng	tsʰ ɛ ³³	tsʰ ɛ ³³	3875
+1829	Eryuan	a ⁵⁵	a ⁵⁵	3915
+1830	Lanping	a ⁴⁴	a ⁴⁴	3915
+1831	Luobenzhuo	a ⁵⁵	a ⁵⁵	3915
+1832	Yunlong	a ⁵⁵	a ⁵⁵	3915
+1833	Zhoucheng	a ³³	a ³³	3915
+1834	Jianchuan	a ³¹	a ³¹	3917
+1835	Qiliqiao	a ³¹	a ³¹	3917
+1836	Xiangyun	a ³¹	a ³¹	3917
+1837	Eryuan	tɕ y ³³	tɕ y ³³	3954
+1838	Jianchuan	tɕ y ³³	tɕ y ³³	3954
+1839	Lanping	tɕ y ³³	tɕ y ³³	3954
+1840	Qiliqiao	tɕ y ³³	tɕ y ³³	3954
+1841	Xiangyun	y ³³	- y ³³	3954
+1842	Yunlong	dʑ y ³³	dʑ y ³³	3954
+1843	Zhoucheng	tɕ y ³³	tɕ y ³³	3954
+1844	Eryuan	k a ³⁵	k - a ³⁵	3955
+1845	Heqing	kʰ ɔ̃ ⁴⁴	kʰ - ɔ̃ ⁴⁴	3955
+1846	Jianchuan	k ɛ ⁵⁵	k - ɛ ⁵⁵	3955
+1847	Lanping	k w ɛ ⁵⁵	k w ɛ ⁵⁵	3955
+1848	Luobenzhuo	q o ⁴⁴	q - o ⁴⁴	3955
+1849	Yunlong	k ɛ ³³	k - ɛ ³³	3955
+1850	Zhoucheng	k w a ³⁵	k w a ³⁵	3955
+1851	Eryuan	ŋ ɯ ⁵⁵	ŋ ɯ ⁵⁵	4004
+1852	Heqing	ŋ ɯ ⁵⁵	ŋ ɯ ⁵⁵	4004
+1853	Lanping	ŋ ɯ ⁵⁵	ŋ ɯ ⁵⁵	4004
+1854	Luobenzhuo	ɴ ɔ ⁵⁵	ɴ ɔ ⁵⁵	4004
+1855	Qiliqiao	ŋ ɯ ⁵⁵	ŋ ɯ ⁵⁵	4004
+1856	Xiangyun	ŋ ɯ ⁵⁵	ŋ ɯ ⁵⁵	4004
+1857	Yunlong	ŋ ɯ ⁵⁵	ŋ ɯ ⁵⁵	4004
+1858	Zhoucheng	ŋ ɯ ⁵⁵	ŋ ɯ ⁵⁵	4004
+1859	Eryuan	m j ɛ ³⁵	m j ɛ ³⁵	4016
+1860	Heqing	m j ɛ ³⁵	m j ɛ ³⁵	4016
+1861	Jianchuan	m j ɛ ⁵⁵	m j ɛ ⁵⁵	4016
+1862	Lanping	m j ɛ ⁵⁵	m j ɛ ⁵⁵	4016
+1863	Qiliqiao	m j ɛ ³⁵	m j ɛ ³⁵	4016
+1864	Xiangyun	m j ɛ ³⁵	m j ɛ ³⁵	4016
+1865	Yunlong	m j ɛ ³⁵	m j ɛ ³⁵	4016
+1866	Zhoucheng	m j ɛ ³⁵	m j ɛ ³⁵	4016
+1867	Eryuan	z ɿ ⁴²	z ɿ ⁴²	4026
+1868	Lanping	ʐ ɛ ³¹	ʐ ɛ ³¹	4026
+1869	Luobenzhuo	ʐ a ⁴²	ʐ a ⁴²	4026
+1870	Qiliqiao	s ɿ ³¹	s ɿ ³¹	4026
+1871	Yunlong	tɕʰ i ⁴²	tɕʰ i ⁴²	4026
+1872	Eryuan	ŋ ɤ ³³	ŋ - ɤ ³³	4027
+1873	Yunlong	ŋ w e ³³	ŋ w e ³³	4027
+1874	Heqing	j ɔ̃ ²¹	j ɔ̃ ²¹	4029
+1875	Jianchuan	j õ ²¹	j õ ²¹	4029
+1876	Xiangyun	j ã ²¹	j ã ²¹	4029
+1877	Zhoucheng	j o ³¹	j o ³¹	4029
+1878	Heqing	f ɤ ⁴⁴	f ɤ ⁴⁴	4030
+1879	Jianchuan	f ɤ ⁴⁴	f ɤ ⁴⁴	4030
+1880	Luobenzhuo	f ʊ ⁵⁵	f ʊ ⁵⁵	4030
+1881	Qiliqiao	f ɤ ⁴⁴	f ɤ ⁴⁴	4030
+1882	Xiangyun	f ɤ ⁴⁴	f ɤ ⁴⁴	4030
+1883	Zhoucheng	f ɤ ⁴⁴	f ɤ ⁴⁴	4030
+1884	Eryuan	tɕ i ³³	tɕ i ³³	4054
+1885	Heqing	tɕ ĩ ³³	tɕ ĩ ³³	4054
+1886	Jianchuan	tɕ ĩ ³³	tɕ ĩ ³³	4054
+1887	Lanping	tɕ ĩ ⁴⁴	tɕ ĩ ⁴⁴	4054
+1888	Yunlong	tɕ i ³³	tɕ i ³³	4054
+1889	Qiliqiao	tɕ j ɛ ³³	tɕ j ɛ ³³	4056
+1890	Xiangyun	j ĩ ³³	- j ĩ ³³	4056
+1891	Zhoucheng	tɕ j ɛ ³³	tɕ j ɛ ³³	4056
+1892	Heqing	m j ɛ ⁴²	m j ɛ ⁴²	4066
+1893	Jianchuan	m i ⁴²	m - i ⁴²	4066
+1894	Lanping	m i ³³	m - i ³³	4066
+1895	Xiangyun	m i ⁴²	m - i ⁴²	4066
+1896	Heqing	tʰ ɔ̃ ⁵⁵	tʰ ɔ̃ ⁵⁵	4067
+1897	Jianchuan	ts ɤ ⁴⁴	ts ɤ ⁴⁴	4067
+1898	Lanping	ts a ⁴⁴	ts a ⁴⁴	4067
+1899	Luobenzhuo	ʈ ɛ ⁵⁵	ʈ ɛ ⁵⁵	4067
+1900	Yunlong	t e ³³	t e ³³	4067
+1901	Qiliqiao	p ɔ ³⁵	p ɔ ³⁵	4069
+1902	Zhoucheng	p ɔ ³⁵	p ɔ ³⁵	4069
+1903	Qiliqiao	ts ɿ ³³	ts ɿ ³³	4070
+1904	Xiangyun	tɕ ɿ ³³	tɕ ɿ ³³	4070
+1905	Zhoucheng	ts ɿ ³³	ts ɿ ³³	4070
+1906	Eryuan	ɲ i ⁴⁴	ɲ i ⁴⁴	4110
+1907	Luobenzhuo	ɲ i ³³	ɲ i ³³	4110
+1908	Qiliqiao	ɲ i ⁴⁴	ɲ i ⁴⁴	4110
+1909	Xiangyun	n i ⁴⁴	n i ⁴⁴	4110
+1910	Yunlong	ɲ i ⁴⁴	ɲ i ⁴⁴	4110
+1911	Zhoucheng	ɲ ɯ ⁴⁴	ɲ ɯ ⁴⁴	4110
+1912	Eryuan	t ɯ ²¹	t ɯ ²¹	4111
+1913	Heqing	t ɯ̃ ³¹	t ɯ̃ ³¹	4111
+1914	Jianchuan	t ɯ̃ ³¹	t ɯ̃ ³¹	4111
+1915	Lanping	t ɯ ³¹	t ɯ ³¹	4111
+1916	Qiliqiao	t ɯ ²¹	t ɯ ²¹	4111
+1917	Xiangyun	t ou ²¹	t ou ²¹	4111
+1918	Zhoucheng	t ɯ ²¹	t ɯ ²¹	4111
+1919	Heqing	j ĩ ⁴⁴	j ĩ ⁴⁴	4112
+1920	Jianchuan	j ɯ̃ ³³	j ɯ̃ ³³	4112
+1921	Lanping	j ɯ ⁴⁴	j ɯ ⁴⁴	4112
+1922	Jianchuan	k ɛ ⁴⁴	k ɛ ⁴⁴	4115
+1923	Lanping	k ɛ ³³	k ɛ ³³	4115
+1924	Lanping	ts ɛ ³¹	ts ɛ ³¹	4116
+1925	Zhoucheng	ts ɿ ³¹	ts ɿ ³¹	4116
+1926	Luobenzhuo	x ɯ̃ ³³	x ɯ̃ ³³	4117
+1927	Yunlong	x ɯ ³¹	x ɯ ³¹	4117
+1928	Eryuan	p i ²¹	p i ²¹	4136
+1929	Qiliqiao	p i ²¹	p i ²¹	4136
+1930	Xiangyun	p i ³³	p i ³³	4136
+1931	Yunlong	p i ²¹	p i ²¹	4136
+1932	Zhoucheng	p i ²¹	p i ²¹	4136
+1933	Heqing	v ɤ ³¹	v ɤ ³¹	4138
+1934	Jianchuan	ɤ̃ ³¹	- ɤ̃ ³¹	4138
+1935	Qiliqiao	f ɤ ⁴⁴	f ɤ ⁴⁴	4138
+1936	Zhoucheng	f ɤ ⁴⁴	f ɤ ⁴⁴	4138
+1937	Heqing	t ɯ ²¹	t - ɯ ²¹	4139
+1938	Jianchuan	t ɯ ⁴²	t - ɯ ⁴²	4139
+1939	Lanping	t j ɯ ³¹	t j ɯ ³¹	4139
+1940	Luobenzhuo	ʈ ɯ ²¹	ʈ - ɯ ²¹	4139
+1941	Qiliqiao	t ɯ ²¹	t - ɯ ²¹	4139
+1942	Xiangyun	t ou ³¹	t - ou ³¹	4139
+1943	Jianchuan	kʰ ɤ ⁴⁴	kʰ - ɤ ⁴⁴	4140
+1944	Luobenzhuo	qʰ w ɛ ⁵⁵	qʰ w ɛ ⁵⁵	4140
+1945	Eryuan	n ɯ ³¹	n ɯ ³¹	4158
+1946	Luobenzhuo	n ɔ ³¹	n ɔ ³¹	4158
+1947	Yunlong	n ɯ ³¹	n ɯ ³¹	4158
+1948	Zhoucheng	n ɯ ³¹	n ɯ ³¹	4158
+1949	Eryuan	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	4159
+1950	Heqing	tɕʰ i ³³	tɕʰ i ³³	4159
+1951	Xiangyun	tɕ ĩ ³⁵	tɕ ĩ ³⁵	4159
+1952	Zhoucheng	ts ɿ ³³	ts ɿ ³³	4159
+1953	Heqing	l ɯ ²¹	l ɯ ²¹	4160
+1954	Jianchuan	l ɛ ²¹	l ɛ ²¹	4160
+1955	Qiliqiao	l ɯ ³¹	l ɯ ³¹	4160
+1956	Jianchuan	k ɛ ⁴⁴	k ɛ ⁴⁴	4161
+1957	Yunlong	g ɛ ⁵⁵	g ɛ ⁵⁵	4161
+1958	Lanping	p ɛ ³¹	p ɛ ³¹	4163
+1959	Luobenzhuo	p ã ³¹	p ã ³¹	4163
+1960	Qiliqiao	tʰ a ⁵⁵	tʰ a ⁵⁵	4164
+1961	Zhoucheng	tʰ a ⁵⁵	tʰ a ⁵⁵	4164
+1962	Eryuan	j i ⁴⁴	j i ⁴⁴	4216
+1963	Heqing	j i ⁴⁴	j i ⁴⁴	4216
+1964	Jianchuan	j i ⁴⁴	j i ⁴⁴	4216
+1965	Lanping	j i ⁴⁴	j i ⁴⁴	4216
+1966	Luobenzhuo	ʔ i ⁵⁵	ʔ i ⁵⁵	4216
+1967	Qiliqiao	j i ⁴⁴	j i ⁴⁴	4216
+1968	Yunlong	j i ⁴⁴	j i ⁴⁴	4216
+1969	Zhoucheng	j i ⁴⁴	j i ⁴⁴	4216
+1970	Xiangyun	a ³¹	a ³¹	4217
+1971	Yunlong	a ³¹	a ³¹	4217
+1972	Eryuan	a ³¹	a ³¹	4227
+1973	Heqing	a ³¹	a ³¹	4227
+1974	Jianchuan	a ³¹	a ³¹	4227
+1975	Lanping	a ³¹	a ³¹	4227
+1976	Qiliqiao	a ³¹	a ³¹	4227
+1977	Xiangyun	a ³¹	a ³¹	4227
+1978	Yunlong	a ³¹	a ³¹	4227
+1979	Zhoucheng	a ³¹	a ³¹	4227
+1980	Eryuan	a ³¹	a ³¹	4246
+1981	Heqing	a ³¹	a ³¹	4246
+1982	Jianchuan	a ³¹	a ³¹	4246
+1983	Lanping	a ³¹	a ³¹	4246
+1984	Qiliqiao	a ³¹	a ³¹	4246
+1985	Xiangyun	a ³¹	a ³¹	4246
+1986	Yunlong	a ³¹	a ³¹	4246
+1987	Zhoucheng	a ³¹	a ³¹	4246
+1988	Eryuan	ŋ w a ⁴⁴	ŋ w a ⁴⁴	4275
+1989	Heqing	w ã ⁴⁴	- w ã ⁴⁴	4275
+1990	Jianchuan	w ã ⁴⁴	- w ã ⁴⁴	4275
+1991	Lanping	w ã ⁵⁵	- w ã ⁵⁵	4275
+1992	Qiliqiao	w a ⁴⁴	- w a ⁴⁴	4275
+1993	Xiangyun	w ã ⁴⁴	- w ã ⁴⁴	4275
+1994	Yunlong	ŋ w a ⁴⁴	ŋ w a ⁴⁴	4275
+1995	Zhoucheng	w a ⁴⁴	- w a ⁴⁴	4275
+1996	Eryuan	p ɔ ³¹	p ɔ ³¹	4276
+1997	Luobenzhuo	p o ³³	p o ³³	4276
+1998	Qiliqiao	p ɔ ²¹	p ɔ ²¹	4276
+1999	Yunlong	p ɔ ³¹	p ɔ ³¹	4276
+2000	Heqing	f ɤ ³³	f ɤ ³³	4277
+2001	Jianchuan	f ɤ ³³	f ɤ ³³	4277
+2002	Eryuan	ʂ e ⁴²	ʂ e ⁴²	4317
+2003	Heqing	sʰ e ⁴⁴	sʰ e ⁴⁴	4317
+2004	Lanping	s e ⁴⁴	s e ⁴⁴	4317
+2005	Qiliqiao	s e ⁴⁴	s e ⁴⁴	4317
+2006	Yunlong	s ɛ ⁵⁵	s ɛ ⁵⁵	4317
+2007	Zhoucheng	s e ⁴⁴	s e ⁴⁴	4317
+2008	Eryuan	l ɯ ³¹	l - ɯ ³¹	4343
+2009	Lanping	l j ɯ ²¹	l j ɯ ²¹	4343
+2010	Yunlong	l ɯ ³¹	l - ɯ ³¹	4343
+2011	Eryuan	f ɤ ⁴⁴	f ɤ ⁴⁴	4409
+2012	Heqing	f ɤ ⁴⁴	f ɤ ⁴⁴	4409
+2013	Jianchuan	f ɤ ⁴⁴	f ɤ ⁴⁴	4409
+2014	Lanping	f ɛ ⁴⁴	f ɛ ⁴⁴	4409
+2015	Qiliqiao	f ɤ ⁴⁴	f ɤ ⁴⁴	4409
+2016	Xiangyun	f ɤ ⁴⁴	f ɤ ⁴⁴	4409
+2017	Yunlong	f ɤ ³³	f ɤ ³³	4409
+2018	Zhoucheng	f ɤ ⁴⁴	f ɤ ⁴⁴	4409
+2019	Eryuan	k w a ⁴²	k w a ⁴²	4411
+2020	Luobenzhuo	q w a ⁴⁴	q w a ⁴⁴	4411
+2021	Eryuan	tʰ a ⁴⁴	tʰ a ⁴⁴	4435
+2022	Heqing	tʰ a ⁴⁴	tʰ a ⁴⁴	4435
+2023	Jianchuan	tʰ a ⁴⁴	tʰ a ⁴⁴	4435
+2024	Lanping	tʰ a ⁴⁴	tʰ a ⁴⁴	4435
+2025	Qiliqiao	tʰ a ⁴⁴	tʰ a ⁴⁴	4435
+2026	Xiangyun	tʰ a ⁴⁴	tʰ a ⁴⁴	4435
+2027	Zhoucheng	tʰ a ⁴⁴	tʰ a ⁴⁴	4435
+2028	Eryuan	ɲ i ²¹	ɲ i ²¹	4456
+2029	Heqing	j ĩ ²¹	j ĩ ²¹	4456
+2030	Jianchuan	j ĩ ²¹	j ĩ ²¹	4456
+2031	Zhoucheng	ɲ i ²¹	ɲ i ²¹	4456
+2032	Eryuan	ʈʂ e ³³	ʈʂ - e ³³	4507
+2033	Heqing	ts ẽ ³³	ts - ẽ ³³	4507
+2034	Jianchuan	ts ẽ ³³	ts - ẽ ³³	4507
+2035	Lanping	ts ẽ ⁴⁴	ts - ẽ ⁴⁴	4507
+2036	Luobenzhuo	ɖ ẽ ³³	ɖ - ẽ ³³	4507
+2037	Qiliqiao	ts e ³³	ts - e ³³	4507
+2038	Yunlong	t w e ³³	t w e ³³	4507
+2039	Zhoucheng	ts e ³³	ts - e ³³	4507
+2040	Eryuan	z ɔ ³¹	z ɔ ³¹	4529
+2041	Jianchuan	ɕ õ ²¹	ɕ õ ²¹	4529
+2042	Luobenzhuo	ʐ u ³¹	ʐ u ³¹	4529
+2043	Qiliqiao	ɕ o ³¹	ɕ o ³¹	4529
+2044	Xiangyun	z ou ³¹	z ou ³¹	4529
+2045	Eryuan	ʈʂ ɯ ³¹	ʈʂ ɯ ³¹	4530
+2046	Heqing	ts ɯ ³¹	ts ɯ ³¹	4530
+2047	Jianchuan	ts ɯ ³¹	ts ɯ ³¹	4530
+2048	Lanping	ts ɯ ²¹	ts ɯ ²¹	4530
+2049	Luobenzhuo	ɖ ɯ ³¹	ɖ ɯ ³¹	4530
+2050	Yunlong	dz ɯ ³¹	dz ɯ ³¹	4530
+2051	Zhoucheng	ts ɯ ³¹	ts ɯ ³¹	4530
+2052	Heqing	j õ ²¹	j õ ²¹	4531
+2053	Lanping	j ɔ ²¹	j ɔ ²¹	4531
+2054	Xiangyun	j ã ³¹	j ã ³¹	4531
+2055	Yunlong	j o ²¹	j o ²¹	4531
+2056	Zhoucheng	j o ²¹	j o ²¹	4531
+2057	Eryuan	ts ɤ ⁴²	ts - ɤ ⁴²	4559
+2058	Heqing	ts w ɔ̃ ⁴²	ts w ɔ̃ ⁴²	4559
+2059	Jianchuan	ts ɤ̃ ⁴²	ts - ɤ̃ ⁴²	4559
+2060	Lanping	ts ɔ̃ ⁴²	ts - ɔ̃ ⁴²	4559
+2061	Luobenzhuo	tɕ õ ⁴²	tɕ - õ ⁴²	4559
+2062	Qiliqiao	ts ɤ ³²	ts - ɤ ³²	4559
+2063	Xiangyun	tɕ ɛ̃ ⁴²	tɕ - ɛ̃ ⁴²	4559
+2064	Zhoucheng	ts ɤ ⁴²	ts - ɤ ⁴²	4559
+2065	Lanping	k u ⁴⁴	k u ⁴⁴	4560
+2066	Xiangyun	kʲ ɛ ³⁵	kʲ ɛ ³⁵	4560
+2067	Yunlong	k ɛ ³³	k ɛ ³³	4560
+2068	Eryuan	u ³¹	- u ³¹	4572
+2069	Jianchuan	w a ⁴²	w a ⁴²	4572
+2070	Lanping	w a ⁴²	w a ⁴²	4572
+2071	Yunlong	w u ³¹	w u ³¹	4572
+2072	Eryuan	tɕʰ u ³¹	tɕʰ u ³¹	4573
+2073	Qiliqiao	tɕʰ ɔ ³³	tɕʰ ɔ ³³	4573
+2074	Xiangyun	tsʰ u ³¹	tsʰ u ³¹	4573
+2075	Yunlong	tɕʰ u ³¹	tɕʰ u ³¹	4573
+2076	Zhoucheng	tɕʰ o ³¹	tɕʰ o ³¹	4573
+2077	Jianchuan	s ẽ ²¹	s ẽ ²¹	4576
+2078	Lanping	ʐ ɛ ²¹	ʐ ɛ ²¹	4576
+2079	Luobenzhuo	ʐ æ ⁴²	ʐ æ ⁴²	4576
+2080	Qiliqiao	ɔ ²¹	ɔ ²¹	4578
+2081	Zhoucheng	ɔ ²¹	ɔ ²¹	4578
+2082	Heqing	k ɯ ³¹	k ɯ ³¹	4604
+2083	Jianchuan	k u ³¹	k u ³¹	4604
+2084	Qiliqiao	k ɯ ³¹	k ɯ ³¹	4604
+2085	Zhoucheng	k ɯ ³¹	k ɯ ³¹	4604
+2086	Luobenzhuo	qʰ o ⁵⁵	qʰ o ⁵⁵	4606
+2087	Yunlong	kʰ ao ⁵⁵	kʰ ao ⁵⁵	4606
+2088	Eryuan	p ɯ ³³	p ɯ ³³	4620
+2089	Heqing	p ɯ ³³	p ɯ ³³	4620
+2090	Jianchuan	p ɯ ³³	p ɯ ³³	4620
+2091	Lanping	p ɯ ³³	p ɯ ³³	4620
+2092	Luobenzhuo	b ɯ ³³	b ɯ ³³	4620
+2093	Qiliqiao	p ɯ ³³	p ɯ ³³	4620
+2094	Zhoucheng	p ɯ ³³	p ɯ ³³	4620
+2095	Lanping	ɕ y ³³	ɕ y ³³	4621
+2096	Xiangyun	ɕ y ³³	ɕ y ³³	4621
+2097	Yunlong	ɕ y ³³	ɕ y ³³	4621
+2098	Eryuan	kʰ w e ³³	kʰ w e ³³	4634
+2099	Qiliqiao	kʰ w e ³³	kʰ w e ³³	4634
+2100	Eryuan	ʈʂ ɔ ⁴²	ʈʂ - ɔ ⁴²	4635
+2101	Luobenzhuo	tɕ a ⁴²	tɕ - a ⁴²	4635
+2102	Qiliqiao	ts o ³¹	ts - o ³¹	4635
+2103	Xiangyun	k w ɔ ⁴²	k w ɔ ⁴²	4635
+2104	Yunlong	k ɔ ³¹	k - ɔ ³¹	4635
+2105	Zhoucheng	tɕʰ o ⁴²	tɕʰ - o ⁴²	4635
+2106	Heqing	j ĩ ⁵⁵	j ĩ ⁵⁵	4636
+2107	Jianchuan	j ĩ ⁵⁵	j ĩ ⁵⁵	4636
+2108	Lanping	j ɛ̃ ⁵⁵	j ɛ̃ ⁵⁵	4636
+2109	Heqing	n a ⁵⁵	n a ⁵⁵	4637
+2110	Xiangyun	n a ²¹	n a ²¹	4637
+2111	Yunlong	n a ⁴²	n a ⁴²	4637
+2112	Heqing	k u ²¹	k u ²¹	4638
+2113	Jianchuan	k u ²¹	k u ²¹	4638
+2114	Lanping	k ɯ ³¹	k ɯ ³¹	4638
+2115	Luobenzhuo	tɕ i ³¹	tɕ i ³¹	4638
+2116	Eryuan	pʰ j a ⁴²	pʰ j a ⁴²	4677
+2117	Lanping	p j a ⁴²	p j a ⁴²	4677
+2118	Yunlong	p j a ⁴²	p j a ⁴²	4677
+2119	Eryuan	m a ²¹	m a ²¹	4678
+2120	Heqing	m a ²¹	m a ²¹	4678
+2121	Jianchuan	m a ²¹	m a ²¹	4678
+2122	Lanping	m a ²¹	m a ²¹	4678
+2123	Qiliqiao	m a ²¹	m a ²¹	4678
+2124	Xiangyun	m a ²¹	m a ²¹	4678
+2125	Zhoucheng	m a ²¹	m a ²¹	4678
+2126	Eryuan	e ⁵⁵	e ⁵⁵	4689
+2127	Luobenzhuo	ɤ ⁴⁴	ɤ ⁴⁴	4689
+2128	Heqing	n a ⁵⁵	n a ⁵⁵	4691
+2129	Qiliqiao	n a ⁴²	n a ⁴²	4691
+2130	Zhoucheng	n a ³⁵	n a ³⁵	4691
+2131	Jianchuan	tɕ i ⁵⁵	tɕ i ⁵⁵	4692
+2132	Lanping	tɕ ĩ ⁵⁵	tɕ ĩ ⁵⁵	4692
+2133	Xiangyun	tɕ i ⁵⁵	tɕ i ⁵⁵	4692
+2134	Yunlong	tɕ o ⁵⁵	tɕ o ⁵⁵	4692
+2135	Eryuan	m a ³⁵	m - a ³⁵	4707
+2136	Heqing	m a ⁵⁵	m - a ⁵⁵	4707
+2137	Jianchuan	m j a ⁵⁵	m j a ⁵⁵	4707
+2138	Lanping	m a ⁴⁴	m - a ⁴⁴	4707
+2139	Qiliqiao	m a ³⁵	m - a ³⁵	4707
+2140	Xiangyun	m a ³⁵	m - a ³⁵	4707
+2141	Yunlong	m a ³⁵	m - a ³⁵	4707
+2142	Zhoucheng	m a ³⁵	m - a ³⁵	4707
+2143	Eryuan	x a ⁵⁵	x a ⁵⁵	4718
+2144	Heqing	xʰ ã ⁵⁵	xʰ ã ⁵⁵	4718
+2145	Jianchuan	x ã ⁵⁵	x ã ⁵⁵	4718
+2146	Lanping	x ã ⁵⁵	x ã ⁵⁵	4718
+2147	Qiliqiao	x a ⁵⁵	x a ⁵⁵	4718
+2148	Xiangyun	x ã ⁵⁵	x ã ⁵⁵	4718
+2149	Yunlong	x a ⁵⁵	x a ⁵⁵	4718
+2150	Zhoucheng	x a ⁵⁵	x a ⁵⁵	4718
+2151	Eryuan	x ɛ ⁴⁴	x ɛ ⁴⁴	4729
+2152	Luobenzhuo	χ a ⁵⁵	χ a ⁵⁵	4729
+2153	Yunlong	x ɛ ⁴⁴	x ɛ ⁴⁴	4729
+2154	Jianchuan	ɯ ⁴⁴	ɯ ⁴⁴	4731
+2155	Lanping	ɯ ⁴⁴	ɯ ⁴⁴	4731
+2156	Qiliqiao	ɯ ⁴⁴	ɯ ⁴⁴	4731
+2157	Xiangyun	ou ⁴⁴	ou ⁴⁴	4731
+2158	Zhoucheng	ɯ ⁴⁴	ɯ ⁴⁴	4731
+2159	Eryuan	tɕ i ⁴²	tɕ i ⁴²	4750
+2160	Heqing	tɕ i ⁴²	tɕ i ⁴²	4750
+2161	Jianchuan	tɕ i ⁴²	tɕ i ⁴²	4750
+2162	Lanping	tɕ i ⁵⁵	tɕ i ⁵⁵	4750
+2163	Luobenzhuo	ts a ⁴⁴	ts a ⁴⁴	4750
+2164	Qiliqiao	tɕ ɯ ³¹	tɕ ɯ ³¹	4750
+2165	Yunlong	tɕ ɯ ³³	tɕ ɯ ³³	4750
+2166	Eryuan	ts w a ⁴²	ts w a ⁴²	4751
+2167	Heqing	ts w a ⁴²	ts w a ⁴²	4751
+2168	Jianchuan	ts w a ⁴²	ts w a ⁴²	4751
+2169	Lanping	ts w a ⁴²	ts w a ⁴²	4751
+2170	Eryuan	v ɤ ³³	v ɤ ³³	4788
+2171	Heqing	v ɤ ³³	v ɤ ³³	4788
+2172	Jianchuan	v ɤ ³³	v ɤ ³³	4788
+2173	Qiliqiao	v ɤ ³³	v ɤ ³³	4788
+2174	Yunlong	v ɤ ³³	v ɤ ³³	4788
+2175	Zhoucheng	v ɤ ³³	v ɤ ³³	4788
+2176	Eryuan	ɕ i ³³	ɕ i ³³	4789
+2177	Lanping	ʐ ɯ ³³	ʐ ɯ ³³	4789
+2178	Luobenzhuo	ɖʐ ʅ ³³	ɖʐ ʅ ³³	4789
+2179	Qiliqiao	ɕ i ³³	ɕ i ³³	4789
+2180	Yunlong	ɕ i ³³	ɕ i ³³	4789
+2181	Zhoucheng	ɕ i ³³	ɕ i ³³	4789
+2182	Eryuan	z ɔ ²¹	z ɔ ²¹	4812
+2183	Heqing	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4812
+2184	Jianchuan	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4812
+2185	Lanping	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4812
+2186	Luobenzhuo	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4812
+2187	Xiangyun	ɣ ou ⁴²	ɣ ou ⁴²	4812
+2188	Yunlong	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4812
+2189	Zhoucheng	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4812
+2190	Eryuan	ʂ ɯ ³⁵	ʂ ɯ ³⁵	4824
+2191	Heqing	s ɯ ⁵⁵	s ɯ ⁵⁵	4824
+2192	Jianchuan	s ɯ ⁵⁵	s ɯ ⁵⁵	4824
+2193	Lanping	s ɯ ⁵⁵	s ɯ ⁵⁵	4824
+2194	Qiliqiao	s ɯ ³⁵	s ɯ ³⁵	4824
+2195	Xiangyun	s ou ³⁵	s ou ³⁵	4824
+2196	Yunlong	s ɤ ³⁵	s ɤ ³⁵	4824
+2197	Zhoucheng	s ɯ ³⁵	s ɯ ³⁵	4824
+2198	Eryuan	x ɔ ³⁵	x - ɔ ³⁵	4834
+2199	Qiliqiao	x w ɔ ³⁵	x w ɔ ³⁵	4834
+2200	Heqing	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	4835
+2201	Jianchuan	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	4835
+2202	Lanping	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	4835
+2203	Qiliqiao	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	4835
+2204	Xiangyun	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	4835
+2205	Yunlong	tsʰ ɛ ³³	tsʰ ɛ ³³	4835
+2206	Zhoucheng	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	4835
+2207	Eryuan	p e ⁴⁴	p e ⁴⁴	4874
+2208	Yunlong	p e ⁴⁴	p e ⁴⁴	4874
+2209	Zhoucheng	p e ⁴⁴	p e ⁴⁴	4874
+2210	Eryuan	t i ³⁵	t i ³⁵	4875
+2211	Yunlong	t i ³⁵	t i ³⁵	4875
+2212	Heqing	j a ⁴⁴	j a ⁴⁴	4876
+2213	Jianchuan	j a ⁴⁴	j a ⁴⁴	4876
+2214	Lanping	j a ⁴⁴	j a ⁴⁴	4876
+2215	Qiliqiao	j a ⁴⁴	j a ⁴⁴	4876
+2216	Xiangyun	j a ²¹	j a ²¹	4876
+2217	Yunlong	j a ⁴⁴	j a ⁴⁴	4876
+2218	Lanping	k ɯ ⁵⁵	k ɯ ⁵⁵	4877
+2219	Luobenzhuo	k ɯ ⁴⁴	k ɯ ⁴⁴	4877
+2220	Eryuan	j i ³⁵	j i ³⁵	4892
+2221	Heqing	j ĩ ²¹	j ĩ ²¹	4892
+2222	Eryuan	p ɔ ³⁵	p ɔ ³⁵	4893
+2223	Heqing	p ɔu ⁵⁵	p ɔu ⁵⁵	4893
+2224	Qiliqiao	p ɔ ³⁵	p ɔ ³⁵	4893
+2225	Zhoucheng	p ɔ ³⁵	p ɔ ³⁵	4893
+2226	Jianchuan	ɕ o ²¹	ɕ o ²¹	4894
+2227	Lanping	ɕ o ³¹	ɕ o ³¹	4894
+2228	Qiliqiao	ɲ i ⁵⁵	ɲ i ⁵⁵	4895
+2229	Zhoucheng	ɲ i ⁵⁵	ɲ i ⁵⁵	4895
+2230	Eryuan	p ɔ ³¹	p ɔ ³¹	4924
+2231	Qiliqiao	p ɔ ²¹	p ɔ ²¹	4924
+2232	Zhoucheng	p o ³¹	p o ³¹	4924
+2233	Heqing	f ɤ ³³	f ɤ ³³	4925
+2234	Jianchuan	f ɤ ³³	f ɤ ³³	4925
+2235	Luobenzhuo	ʈ õ ²¹	ʈ õ ²¹	4943
+2236	Xiangyun	ts ɔ ⁴²	ts ɔ ⁴²	4943
+2237	Lanping	t e ⁴⁴	t e ⁴⁴	4976
+2238	Yunlong	d ɛ ³³	d ɛ ³³	4976
+2239	Eryuan	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4988
+2240	Heqing	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4988
+2241	Jianchuan	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4988
+2242	Lanping	ɣ ɯ ⁴⁴	ɣ ɯ ⁴⁴	4988
+2243	Luobenzhuo	ɣ ɯ ⁴⁴	ɣ ɯ ⁴⁴	4988
+2244	Xiangyun	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4988
+2245	Yunlong	ʔ ɯ ⁴²	ʔ ɯ ⁴²	4988
+2246	Zhoucheng	ɣ ɯ ⁴²	ɣ ɯ ⁴²	4988
+2247	Eryuan	tsʰ ɔ ³¹	tsʰ ɔ ³¹	5017
+2248	Heqing	tsʰ ou ³¹	tsʰ ou ³¹	5017
+2249	Jianchuan	tsʰ õu ³¹	tsʰ õu ³¹	5017
+2250	Lanping	tsʰ ɔ ⁴²	tsʰ ɔ ⁴²	5017
+2251	Qiliqiao	tsʰ o ³¹	tsʰ o ³¹	5017
+2252	Xiangyun	tsʰ ã ³¹	tsʰ ã ³¹	5017
+2253	Yunlong	tsʰ ɔ ³¹	tsʰ ɔ ³¹	5017
+2254	Zhoucheng	tsʰ o ³¹	tsʰ o ³¹	5017
+2255	Eryuan	s a ⁴⁴	s a ⁴⁴	5027
+2256	Heqing	s a ⁴⁴	s a ⁴⁴	5027
+2257	Jianchuan	s a ⁴⁴	s a ⁴⁴	5027
+2258	Lanping	s a ⁴⁴	s a ⁴⁴	5027
+2259	Qiliqiao	s a ³²	s a ³²	5027
+2260	Xiangyun	s a ⁴⁴	s a ⁴⁴	5027
+2261	Yunlong	s a ⁴⁴	s a ⁴⁴	5027
+2262	Zhoucheng	s a ⁴⁴	s a ⁴⁴	5027
+2263	Eryuan	z ɿ ³¹	z ɿ ³¹	5057
+2264	Heqing	z ɿ ³¹	z ɿ ³¹	5057
+2265	Jianchuan	s ɿ ²¹	s ɿ ²¹	5057
+2266	Lanping	ʐ ɯ ³³	ʐ ɯ ³³	5057
+2267	Qiliqiao	s ɿ ³¹	s ɿ ³¹	5057
+2268	Xiangyun	z ɿ ³¹	z ɿ ³¹	5057
+2269	Zhoucheng	z ɿ ³¹	z ɿ ³¹	5057
+2270	Eryuan	ŋ w a ⁴⁴	ŋ w a ⁴⁴	5058
+2271	Heqing	w ã ⁴⁴	- w ã ⁴⁴	5058
+2272	Jianchuan	w ã ⁴⁴	- w ã ⁴⁴	5058
+2273	Lanping	w ã ⁴⁴	- w ã ⁴⁴	5058
+2274	Luobenzhuo	ŋ w a ⁴⁴	ŋ w a ⁴⁴	5058
+2275	Qiliqiao	w a ⁴⁴	- w a ⁴⁴	5058
+2276	Xiangyun	w ã ⁴⁴	- w ã ⁴⁴	5058
+2277	Zhoucheng	w a ⁴⁴	- w a ⁴⁴	5058
+2278	Eryuan	kʲ e ⁴²	kʲ e ⁴²	5076
+2279	Heqing	k ẽ ⁴²	k ẽ ⁴²	5076
+2280	Jianchuan	k ẽ ⁴²	k ẽ ⁴²	5076
+2281	Lanping	k ɛ̃ ⁴²	k ɛ̃ ⁴²	5076
+2282	Qiliqiao	k e ⁴²	k e ⁴²	5076
+2283	Xiangyun	kʲ ẽ ⁴²	kʲ ẽ ⁴²	5076
+2284	Zhoucheng	k e ⁴²	k e ⁴²	5076
+2285	Luobenzhuo	t ɯ ⁵⁵	t ɯ ⁵⁵	5077
+2286	Yunlong	t ɯ ³³	t ɯ ³³	5077
+2287	Eryuan	ts e ³⁵	ts e ³⁵	5118
+2288	Heqing	ts ẽ ⁵⁵	ts ẽ ⁵⁵	5118
+2289	Jianchuan	ts ẽ ⁵⁵	ts ẽ ⁵⁵	5118
+2290	Lanping	ts ẽ ⁵⁵	ts ẽ ⁵⁵	5118
+2291	Qiliqiao	ts e ³⁵	ts e ³⁵	5118
+2292	Xiangyun	ts ẽ ³⁵	ts ẽ ³⁵	5118
+2293	Yunlong	ts e ³⁵	ts e ³⁵	5118
+2294	Zhoucheng	ts e ³⁵	ts e ³⁵	5118
+2295	Eryuan	j i ³¹	j i ³¹	5128
+2296	Heqing	j i ³¹	j i ³¹	5128
+2297	Jianchuan	j i ³¹	j i ³¹	5128
+2298	Lanping	j i ³¹	j i ³¹	5128
+2299	Qiliqiao	j i ³³	j i ³³	5128
+2300	Xiangyun	j i ³¹	j i ³¹	5128
+2301	Yunlong	j ɛ ³¹	j ɛ ³¹	5128
+2302	Zhoucheng	j i ³¹	j i ³¹	5128
+2303	Eryuan	tɕ ɛ ³¹	tɕ ɛ ³¹	5138
+2304	Heqing	tɕ ɛ ³¹	tɕ ɛ ³¹	5138
+2305	Jianchuan	tɕ ɛ ³¹	tɕ ɛ ³¹	5138
+2306	Lanping	tɕ ɛ̃ ⁴²	tɕ ɛ̃ ⁴²	5138
+2307	Qiliqiao	tɕ ɛ ³¹	tɕ ɛ ³¹	5138
+2308	Yunlong	tɕ ɛ ³¹	tɕ ɛ ³¹	5138
+2309	Zhoucheng	tɕ ɛ ³¹	tɕ ɛ ³¹	5138
+2310	Eryuan	ts ɿ ⁵⁵	ts ɿ ⁵⁵	5148
+2311	Heqing	ts ɿ ³⁵	ts ɿ ³⁵	5148
+2312	Jianchuan	ts ɛ̃ ⁵⁵	ts ɛ̃ ⁵⁵	5148
+2313	Lanping	ts ɿ ³³	ts ɿ ³³	5148
+2314	Luobenzhuo	tɕ ɯ̃ ³³	tɕ ɯ̃ ³³	5148
+2315	Yunlong	ts ɿ ³³	ts ɿ ³³	5148
+2316	Zhoucheng	ts ɿ ⁵⁵	ts ɿ ⁵⁵	5148
+2317	Eryuan	j ɔ ²¹	j ɔ ²¹	5149
+2318	Heqing	j ɔ̃ ²¹	j ɔ̃ ²¹	5149
+2319	Jianchuan	j õ ²¹	j õ ²¹	5149
+2320	Lanping	j ɔ ²¹	j ɔ ²¹	5149
+2321	Qiliqiao	j o ²¹	j o ²¹	5149
+2322	Xiangyun	j ã ²¹	j ã ²¹	5149
+2323	Yunlong	j ɔ ²¹	j ɔ ²¹	5149
+2324	Zhoucheng	j ɔ ²¹	j ɔ ²¹	5149
+2325	Heqing	p ɛ ⁴²	p ɛ ⁴²	5150
+2326	Yunlong	p ɛ ⁴²	p ɛ ⁴²	5150
+2327	Eryuan	j u ³¹	j u ³¹	5167
+2328	Heqing	j u ³¹	j u ³¹	5167
+2329	Jianchuan	j u ³¹	j u ³¹	5167
+2330	Lanping	j u ³¹	j u ³¹	5167
+2331	Qiliqiao	j ɔ ³¹	j ɔ ³¹	5167
+2332	Xiangyun	j u ²¹	j u ²¹	5167
+2333	Yunlong	j o ³¹	j o ³¹	5167
+2334	Zhoucheng	j ɔ ³¹	j ɔ ³¹	5167
+2335	Luobenzhuo	ts ɿ ³³	ts ɿ ³³	5183
+2336	Qiliqiao	tɕ i ³³	tɕ i ³³	5183
+2337	Eryuan	ŋ ɛ ²¹	ŋ ɛ ²¹	5194
+2338	Heqing	ŋ ɛ ²¹	ŋ ɛ ²¹	5194
+2339	Jianchuan	ŋ ɛ ²¹	ŋ ɛ ²¹	5194
+2340	Lanping	ŋ ɛ ²¹	ŋ ɛ ²¹	5194
+2341	Luobenzhuo	n i ³¹	n i ³¹	5194
+2342	Yunlong	ŋ ɛ ²¹	ŋ ɛ ²¹	5194
+2343	Zhoucheng	ŋ ɛ ²¹	ŋ ɛ ²¹	5194
+2344	Heqing	ɯ ³⁵	- ɯ ³⁵	5216
+2345	Jianchuan	ɯ ⁵⁵	- ɯ ⁵⁵	5216
+2346	Lanping	ɯ ⁵⁵	- ɯ ⁵⁵	5216
+2347	Yunlong	ʔ ɯ ³⁵	ʔ ɯ ³⁵	5216
+2348	Zhoucheng	v ɤ ³⁵	v ɤ ³⁵	5216
+2349	Qiliqiao	k ɤ ³⁵	k ɤ ³⁵	5218
+2350	Xiangyun	k ɯ ³⁵	k ɯ ³⁵	5218
+2351	Eryuan	p e ²¹	p e ²¹	5226
+2352	Yunlong	p e ²¹	p e ²¹	5226
+2353	Heqing	ts ɿ ³³	ts ɿ ³³	5227
+2354	Luobenzhuo	tɕ ĩ ³³	tɕ ĩ ³³	5227
+2355	Qiliqiao	s e ³²	s e ³²	5229
+2356	Zhoucheng	s e ⁴²	s e ⁴²	5229
+2357	Eryuan	k ɤ ⁴²	k - ɤ ⁴²	5243
+2358	Heqing	k w ɔ ⁴²	k w ɔ ⁴²	5243
+2359	Jianchuan	k ɤ ⁴²	k - ɤ ⁴²	5243
+2360	Luobenzhuo	k ɤ ⁴⁴	k - ɤ ⁴⁴	5243
+2361	Qiliqiao	k ɤ ³²	k - ɤ ³²	5243
+2362	Xiangyun	k ɯ ⁴²	k - ɯ ⁴²	5243
+2363	Yunlong	k ɤ ⁴²	k - ɤ ⁴²	5243
+2364	Zhoucheng	k ɤ ³²	k - ɤ ³²	5243
+2365	Eryuan	ʈʂʰ ɛ ³³	ʈʂʰ ɛ ³³	5274
+2366	Heqing	tsʰ ɛ̃ ³³	tsʰ ɛ̃ ³³	5274
+2367	Jianchuan	tsʰ ɛ̃ ³³	tsʰ ɛ̃ ³³	5274
+2368	Lanping	tsʰ ɛ̃ ⁴⁴	tsʰ ɛ̃ ⁴⁴	5274
+2369	Qiliqiao	tsʰ ɛ ³³	tsʰ ɛ ³³	5274
+2370	Xiangyun	tsʰ ɛ̃ ³³	tsʰ ɛ̃ ³³	5274
+2371	Yunlong	tsʰ ɛ ³³	tsʰ ɛ ³³	5274
+2372	Zhoucheng	tsʰ ɛ ³³	tsʰ ɛ ³³	5274
+2373	Heqing	kʰ w ã ⁵⁵	kʰ w ã ⁵⁵	5286
+2374	Jianchuan	kʰ w ã ⁵⁵	kʰ w ã ⁵⁵	5286
+2375	Lanping	kʰ w ã ⁴⁴	kʰ w ã ⁴⁴	5286
+2376	Qiliqiao	kʰ w a ³⁵	kʰ w a ³⁵	5286
+2377	Yunlong	kʰ w a ⁴⁴	kʰ w a ⁴⁴	5286
+2378	Lanping	ɕ ĩ ⁴⁴	ɕ ĩ ⁴⁴	5287
+2379	Qiliqiao	ɕ i ³⁵	ɕ i ³⁵	5287
+2380	Qiliqiao	pʰ i ⁴²	pʰ i ⁴²	5289
+2381	Xiangyun	pʰ i ⁵⁵	pʰ i ⁵⁵	5289
+2382	Zhoucheng	pʰ i ⁵⁵	pʰ i ⁵⁵	5289
+2383	Eryuan	kʰ w a ⁵⁵	kʰ w a ⁵⁵	5298
+2384	Heqing	kʰ w ã ⁵⁵	kʰ w ã ⁵⁵	5298
+2385	Jianchuan	kʰ w ã ⁵⁵	kʰ w ã ⁵⁵	5298
+2386	Lanping	kʰ w ã ⁵⁵	kʰ w ã ⁵⁵	5298
+2387	Qiliqiao	kʰ w a ⁵⁵	kʰ w a ⁵⁵	5298
+2388	Yunlong	kʰ w a ⁵⁵	kʰ w a ⁵⁵	5298
+2389	Zhoucheng	kʰ w a ⁵⁵	kʰ w a ⁵⁵	5298
+2390	Eryuan	ɕ i ⁵⁵	ɕ i ⁵⁵	5299
+2391	Heqing	ɕ i ⁵⁵	ɕ i ⁵⁵	5299
+2392	Jianchuan	ɕ i ⁵⁵	ɕ i ⁵⁵	5299
+2393	Lanping	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	5299
+2394	Luobenzhuo	ʑ u ⁵⁵	ʑ u ⁵⁵	5299
+2395	Qiliqiao	ɕ i ³⁵	ɕ i ³⁵	5299
+2396	Yunlong	s e ⁵⁵	s e ⁵⁵	5299
+2397	Zhoucheng	ɕ i ³⁵	ɕ i ³⁵	5299
+2398	Eryuan	ʈʂʰ u ⁵⁵	ʈʂʰ u ⁵⁵	5341
+2399	Heqing	tɕʰ u ³⁵	tɕʰ u ³⁵	5341
+2400	Jianchuan	tsʰ u ⁵⁵	tsʰ u ⁵⁵	5341
+2401	Lanping	tsʰ u ⁵⁵	tsʰ u ⁵⁵	5341
+2402	Qiliqiao	tʃʰ u ⁵⁵	tʃʰ u ⁵⁵	5341
+2403	Xiangyun	tɕʰ u ⁵⁵	tɕʰ u ⁵⁵	5341
+2404	Yunlong	tsʰ u ⁵⁵	tsʰ u ⁵⁵	5341
+2405	Eryuan	ts e ⁴²	ts e ⁴²	5370
+2406	Heqing	ts e ⁴²	ts e ⁴²	5370
+2407	Jianchuan	ts e ⁴²	ts e ⁴²	5370
+2408	Lanping	ts e ⁴⁴	ts e ⁴⁴	5370
+2409	Qiliqiao	ts e ⁴²	ts e ⁴²	5370
+2410	Xiangyun	ts e ⁴⁴	ts e ⁴⁴	5370
+2411	Yunlong	ts e ⁴⁴	ts e ⁴⁴	5370
+2412	Zhoucheng	ts e ³³	ts e ³³	5370
+2413	Eryuan	ts ɯ ²¹	ts ɯ ²¹	5390
+2414	Heqing	ts ɿ ²¹	ts ɿ ²¹	5390
+2415	Jianchuan	ts ɯ ²¹	ts ɯ ²¹	5390
+2416	Lanping	ts ɯ ²¹	ts ɯ ²¹	5390
+2417	Qiliqiao	ts ɿ ²¹	ts ɿ ²¹	5390
+2418	Xiangyun	z ɿ ²¹	z ɿ ²¹	5390
+2419	Zhoucheng	ts ɿ ²¹	ts ɿ ²¹	5390
+2420	Lanping	pʰ ao ⁵⁵	pʰ ao ⁵⁵	5391
+2421	Yunlong	pʰ ao ³³	pʰ ao ³³	5391
+2422	Eryuan	tʰ u ³³	tʰ u ³³	5401
+2423	Heqing	tʰ u ³³	tʰ u ³³	5401
+2424	Jianchuan	tʰ u ³³	tʰ u ³³	5401
+2425	Lanping	tʰ u ³³	tʰ u ³³	5401
+2426	Heqing	s ɿ ³³	s ɿ ³³	5402
+2427	Jianchuan	s ɿ ³³	s ɿ ³³	5402
+2428	Lanping	s ɿ ³³	s ɿ ³³	5402
+2429	Luobenzhuo	n ɛ ³³	n ɛ ³³	5403
+2430	Qiliqiao	n e ²¹	n e ²¹	5403
+2431	Xiangyun	n e ³¹	n e ³¹	5403
+2432	Yunlong	ɲ i ³¹	ɲ i ³¹	5403
+2433	Zhoucheng	n e ²¹	n e ²¹	5403
+2434	Luobenzhuo	pʰ a ⁵⁵	pʰ a ⁵⁵	5404
+2435	Yunlong	pʰ a ⁴⁴	pʰ a ⁴⁴	5404
+2436	Eryuan	pʰ ɛ ³¹	pʰ ɛ ³¹	5428
+2437	Heqing	pʰ ɯ ³¹	pʰ ɯ ³¹	5428
+2438	Jianchuan	pʰ ɛ ³¹	pʰ ɛ ³¹	5428
+2439	Xiangyun	pʰ ɛ̃ ³¹	pʰ ɛ̃ ³¹	5428
+2440	Yunlong	pʰ ɛ ³¹	pʰ ɛ ³¹	5428
+2441	Zhoucheng	pʰ ɯ ³¹	pʰ ɯ ³¹	5428
+2442	Eryuan	m ɛ ³¹	m ɛ ³¹	5429
+2443	Heqing	m ɛ ³¹	m ɛ ³¹	5429
+2444	Jianchuan	m ɛ ³¹	m ɛ ³¹	5429
+2445	Lanping	m a ³³	m a ³³	5429
+2446	Luobenzhuo	m a ⁴⁴	m a ⁴⁴	5429
+2447	Xiangyun	m ɛ ²¹	m ɛ ²¹	5429
+2448	Yunlong	m ɛ ³¹	m ɛ ³¹	5429
+2449	Zhoucheng	m ɛ ³¹	m ɛ ³¹	5429
+2450	Lanping	pʰ a ⁴⁴	pʰ a ⁴⁴	5430
+2451	Luobenzhuo	pʰ a ⁴⁴	pʰ a ⁴⁴	5430
+2452	Eryuan	kʲʰ i ⁴⁴	kʲʰ i ⁴⁴	5448
+2453	Heqing	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5448
+2454	Jianchuan	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5448
+2455	Lanping	tsʰ ɯ̃ ⁵⁵	tsʰ ɯ̃ ⁵⁵	5448
+2456	Qiliqiao	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5448
+2457	Xiangyun	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5448
+2458	Yunlong	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5448
+2459	Zhoucheng	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	5448
+2460	Eryuan	s w a ⁵⁵	s w a ⁵⁵	5475
+2461	Heqing	sʰ w ã ⁵⁵	sʰ w ã ⁵⁵	5475
+2462	Jianchuan	s w ã ⁵⁵	s w ã ⁵⁵	5475
+2463	Lanping	s w ã ⁵⁵	s w ã ⁵⁵	5475
+2464	Qiliqiao	ʃ w a ⁵⁵	ʃ w a ⁵⁵	5475
+2465	Xiangyun	s w ã ⁵⁵	s w ã ⁵⁵	5475
+2466	Yunlong	s w a ⁵⁵	s w a ⁵⁵	5475
+2467	Zhoucheng	s w a ⁵⁵	s w a ⁵⁵	5475
+2468	Eryuan	p ɛ ⁴⁴	p ɛ ⁴⁴	5485
+2469	Heqing	p ɛ ⁴²	p ɛ ⁴²	5485
+2470	Lanping	p a ⁴⁴	p a ⁴⁴	5485
+2471	Xiangyun	p ɛ ⁴²	p ɛ ⁴²	5485
+2472	Yunlong	p ɛ ⁴⁴	p ɛ ⁴⁴	5485
+2473	Heqing	ts ɿ ³³	ts ɿ ³³	5488
+2474	Jianchuan	ts ɿ ³³	ts ɿ ³³	5488
+2475	Qiliqiao	ts ɿ ³³	ts ɿ ³³	5488
+2476	Yunlong	ts ɿ ³³	ts ɿ ³³	5488
+2477	Jianchuan	s ɛ̃ ⁵⁵	s ɛ̃ ⁵⁵	5489
+2478	Qiliqiao	s ɿ ³⁵	s ɿ ³⁵	5489
+2479	Zhoucheng	s ɿ ⁵⁵	s ɿ ⁵⁵	5489
+2480	Eryuan	ts ɿ ²¹	ts ɿ ²¹	5511
+2481	Heqing	ts ɿ ³¹	ts ɿ ³¹	5511
+2482	Jianchuan	ts ɿ ²¹	ts ɿ ²¹	5511
+2483	Lanping	ts ɿ ³³	ts ɿ ³³	5511
+2484	Qiliqiao	tɕ i ⁴²	tɕ i ⁴²	5511
+2485	Xiangyun	ts ɿ ³¹	ts ɿ ³¹	5511
+2486	Yunlong	ts ɿ ²¹	ts ɿ ²¹	5511
+2487	Zhoucheng	ts ɿ ²¹	ts ɿ ²¹	5511
+2488	Eryuan	kʲ e ³⁵	kʲ e ³⁵	5512
+2489	Yunlong	k ɛ ³³	k ɛ ³³	5512
+2490	Heqing	ts ou ⁴²	ts ou ⁴²	5513
+2491	Jianchuan	ts o ⁴⁴	ts o ⁴⁴	5513
+2492	Lanping	ts u ⁴⁴	ts u ⁴⁴	5513
+2493	Luobenzhuo	ts u ⁵⁵	ts u ⁵⁵	5513
+2494	Qiliqiao	ts o ⁴⁴	ts o ⁴⁴	5513
+2495	Xiangyun	ts ɔ ⁴⁴	ts ɔ ⁴⁴	5513
+2496	Zhoucheng	ts o ⁴⁴	ts o ⁴⁴	5513
+2497	Eryuan	ɣ ɔ ³¹	ɣ ɔ ³¹	5540
+2498	Heqing	ɣ ɔ ²¹	ɣ ɔ ²¹	5540
+2499	Heqing	s e ⁵⁵	s e ⁵⁵	5542
+2500	Lanping	ɕ i ⁵⁵	ɕ i ⁵⁵	5542
+2501	Luobenzhuo	s ao ⁵⁵	s ao ⁵⁵	5542
+2502	Qiliqiao	s ɿ ³⁵	s ɿ ³⁵	5542
+2503	Xiangyun	s ɤ ³⁵	s ɤ ³⁵	5542
+2504	Yunlong	s u ⁵⁵	s u ⁵⁵	5542
+2505	Zhoucheng	ɕ i ³⁵	ɕ i ³⁵	5542
+2506	Lanping	t u ⁵⁵	t u ⁵⁵	5545
+2507	Luobenzhuo	t ao ⁵⁵	t ao ⁵⁵	5545
+2508	Qiliqiao	t ɔ ³⁵	t ɔ ³⁵	5545
+2509	Yunlong	t ao ⁵⁵	t ao ⁵⁵	5545
+2510	Zhoucheng	t ɔ ⁵⁵	t ɔ ⁵⁵	5545
+2511	Qiliqiao	ŋ ɯ ²¹	ŋ ɯ ²¹	5550
+2512	Zhoucheng	ŋ ɯ ²¹	ŋ ɯ ²¹	5550
+2513	Eryuan	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	5567
+2514	Heqing	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	5567
+2515	Jianchuan	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	5567
+2516	Lanping	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	5567
+2517	Xiangyun	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	5567
+2518	Yunlong	ts ɿ ³⁵	ts ɿ ³⁵	5567
+2519	Zhoucheng	ts ɿ ⁵⁵	ts ɿ ⁵⁵	5567
+2520	Eryuan	tʰ ɤ ⁴²	tʰ ɤ ⁴²	5578
+2521	Jianchuan	tʰ ɤ ³¹	tʰ ɤ ³¹	5578
+2522	Qiliqiao	tʰ ɤ ³¹	tʰ ɤ ³¹	5578
+2523	Zhoucheng	tʰ ɤ ³¹	tʰ ɤ ³¹	5578
+2524	Heqing	f ɛ ⁴⁴	f ɛ ⁴⁴	5579
+2525	Xiangyun	f ɛ ⁴⁴	f ɛ ⁴⁴	5579
+2526	Yunlong	f ɛ ⁴⁴	f ɛ ⁴⁴	5579
+2527	Eryuan	l ɯ ²¹	l ɯ ²¹	5588
+2528	Heqing	l e ²¹	l e ²¹	5588
+2529	Eryuan	k u ²¹	k u ²¹	5589
+2530	Heqing	k u ²¹	k u ²¹	5589
+2531	Jianchuan	k ou ²¹	k ou ²¹	5589
+2532	Lanping	k u ³³	k u ³³	5589
+2533	Luobenzhuo	q u ⁵⁵	q u ⁵⁵	5589
+2534	Eryuan	tʰ i ⁵⁵	tʰ i ⁵⁵	5590
+2535	Lanping	t i ⁵⁵	t i ⁵⁵	5590
+2536	Luobenzhuo	tʰ ã ⁵⁵	tʰ ã ⁵⁵	5590
+2537	Qiliqiao	tʰ i ⁵⁵	tʰ i ⁵⁵	5590
+2538	Xiangyun	tʰ e ⁵⁵	tʰ e ⁵⁵	5590
+2539	Yunlong	tʰ i ⁵⁵	tʰ i ⁵⁵	5590
+2540	Eryuan	k a ³⁵	k a ³⁵	5591
+2541	Yunlong	k ɛ ³⁵	k ɛ ³⁵	5591
+2542	Zhoucheng	k a ³⁵	k a ³⁵	5591
+2543	Jianchuan	n ɯ ²¹	n ɯ ²¹	5592
+2544	Lanping	n i ²¹	n i ²¹	5592
+2545	Qiliqiao	n ɯ ²¹	n ɯ ²¹	5592
+2546	Xiangyun	n ou ²¹	n ou ²¹	5592
+2547	Zhoucheng	n ɯ ²¹	n ɯ ²¹	5592
+2548	Eryuan	u ³¹	- u ³¹	5612
+2549	Heqing	u ³¹	- u ³¹	5612
+2550	Jianchuan	u ³¹	- u ³¹	5612
+2551	Lanping	w u ³³	w u ³³	5612
+2552	Qiliqiao	u ³¹	- u ³¹	5612
+2553	Xiangyun	u ³¹	- u ³¹	5612
+2554	Yunlong	w u ³¹	w u ³¹	5612
+2555	Eryuan	ɣ ɔ ³³	ɣ ɔ ³³	5623
+2556	Heqing	kʰ ɔ ³³	kʰ ɔ ³³	5623
+2557	Jianchuan	kʰ o ³³	kʰ o ³³	5623
+2558	Lanping	kʰ u ⁴⁴	kʰ u ⁴⁴	5623
+2559	Qiliqiao	o ³³	- o ³³	5623
+2560	Xiangyun	kʰ ɔ ³³	kʰ ɔ ³³	5623
+2561	Yunlong	kʰ ɔ ³³	kʰ ɔ ³³	5623
+2562	Zhoucheng	kʰ ɔ ³³	kʰ ɔ ³³	5623
+2563	Eryuan	ʈʂ ɤ ³³	ʈʂ - ɤ ³³	5651
+2564	Heqing	ts w ɔ ³³	ts w ɔ ³³	5651
+2565	Jianchuan	ts ɤ ³³	ts - ɤ ³³	5651
+2566	Lanping	ts u ³³	ts - u ³³	5651
+2567	Luobenzhuo	tɕ ʊ ³³	tɕ - ʊ ³³	5651
+2568	Qiliqiao	ts ɤ ³³	ts - ɤ ³³	5651
+2569	Yunlong	dz ɤ ⁴⁴	- dz ɤ ⁴⁴	5651
+2570	Zhoucheng	ts ɤ ³³	ts - ɤ ³³	5651
+2571	Eryuan	tɕʰ a ⁴⁴	tɕʰ a ⁴⁴	5671
+2572	Heqing	tɕʰ a ⁴⁴	tɕʰ a ⁴⁴	5671
+2573	Jianchuan	tɕʰ a ⁴⁴	tɕʰ a ⁴⁴	5671
+2574	Lanping	tɕʰ a ⁴⁴	tɕʰ a ⁴⁴	5671
+2575	Qiliqiao	tɕʰ a ⁴⁴	tɕʰ a ⁴⁴	5671
+2576	Qiliqiao	ŋ a ³⁵	ŋ - a ³⁵	5673
+2577	Xiangyun	n j a ⁴²	n j a ⁴²	5673
+2578	Yunlong	ɲ a ⁴⁴	ɲ - a ⁴⁴	5673
+2579	Zhoucheng	ɲ a ⁴⁴	ɲ - a ⁴⁴	5673
+2580	Eryuan	tsʰ u ³³	tsʰ u ³³	5682
+2581	Heqing	tsʰ u ³³	tsʰ u ³³	5682
+2582	Jianchuan	tsʰ u ³³	tsʰ u ³³	5682
+2583	Lanping	tsʰ u ³³	tsʰ u ³³	5682
+2584	Qiliqiao	tʃʰ u ³³	tʃʰ u ³³	5682
+2585	Xiangyun	tsʰ u ³³	tsʰ u ³³	5682
+2586	Yunlong	tsʰ u ³³	tsʰ u ³³	5682
+2587	Zhoucheng	tsʰ u ³³	tsʰ u ³³	5682
+2588	Eryuan	z ɿ ⁴²	z ɿ ⁴²	5692
+2589	Lanping	ʐ ɛ ⁴²	ʐ ɛ ⁴²	5692
+2590	Luobenzhuo	s æ̃ ³³	s æ̃ ³³	5692
+2591	Heqing	v ɤ ⁴²	v ɤ ⁴²	5694
+2592	Jianchuan	v ɤ ⁴²	v ɤ ⁴²	5694
+2593	Qiliqiao	f ɤ ⁴²	f ɤ ⁴²	5694
+2594	Xiangyun	ɤ ⁴²	- ɤ ⁴²	5694
+2595	Zhoucheng	v ɤ ⁴²	v ɤ ⁴²	5694
+2596	Eryuan	k u ³¹	k u ³¹	5743
+2597	Heqing	k u ³¹	k u ³¹	5743
+2598	Jianchuan	k u ³¹	k u ³¹	5743
+2599	Lanping	k a ⁴²	k a ⁴²	5743
+2600	Qiliqiao	k u ³¹	k u ³¹	5743
+2601	Xiangyun	k u ²¹	k u ²¹	5743
+2602	Yunlong	g u ³¹	g u ³¹	5743
+2603	Zhoucheng	k u ³¹	k u ³¹	5743
+2604	Eryuan	p ɯ ³¹	p ɯ ³¹	5744
+2605	Qiliqiao	p ɯ ³¹	p ɯ ³¹	5744
+2606	Lanping	ts ɿ ³³	ts ɿ ³³	5746
+2607	Luobenzhuo	k ɯ ³³	k ɯ ³³	5746
+2608	Yunlong	dz ɿ ³¹	dz ɿ ³¹	5746
+2609	Eryuan	m j ɔ ⁴²	m j ɔ ⁴²	5775
+2610	Qiliqiao	m j ɔ ³²	m j ɔ ³²	5775
+2611	Yunlong	m j ɔ ⁴²	m j ɔ ⁴²	5775
+2612	Heqing	ts ɿ ⁵⁵	ts ɿ ⁵⁵	5776
+2613	Xiangyun	ts ɿ ³⁵	ts ɿ ³⁵	5776
+2614	Zhoucheng	ts ɿ ³⁵	ts ɿ ³⁵	5776
+2615	Jianchuan	t w ẽ ⁵⁵	t w ẽ ⁵⁵	5777
+2616	Lanping	t w ẽ ⁴⁴	t w ẽ ⁴⁴	5777
+2617	Eryuan	ʂ e ⁴⁴	ʂ e ⁴⁴	5786
+2618	Lanping	s e ³³	s e ³³	5786
+2619	Qiliqiao	s e ⁴⁴	s e ⁴⁴	5786
+2620	Yunlong	s ɛ ⁴⁴	s ɛ ⁴⁴	5786
+2621	Eryuan	kʲʰ i ⁴⁴	kʲʰ i ⁴⁴	5813
+2622	Heqing	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5813
+2623	Jianchuan	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5813
+2624	Lanping	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	5813
+2625	Qiliqiao	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5813
+2626	Xiangyun	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5813
+2627	Yunlong	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	5813
+2628	Zhoucheng	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	5813
+2629	Eryuan	ɣ ɯ ⁴²	ɣ ɯ ⁴²	5814
+2630	Heqing	ɣ ɯ ⁴²	ɣ ɯ ⁴²	5814
+2631	Jianchuan	ɣ ɯ ⁴²	ɣ ɯ ⁴²	5814
+2632	Lanping	ɣ ɯ ⁴²	ɣ ɯ ⁴²	5814
+2633	Luobenzhuo	ɣ ɯ ⁴⁴	ɣ ɯ ⁴⁴	5814
+2634	Eryuan	ɲ i ⁴⁴	ɲ i ⁴⁴	5829
+2635	Heqing	j ĩ ⁴⁴	j ĩ ⁴⁴	5829
+2636	Jianchuan	j ĩ ⁴⁴	j ĩ ⁴⁴	5829
+2637	Lanping	j ĩ ⁵⁵	j ĩ ⁵⁵	5829
+2638	Luobenzhuo	ɲ i ⁵⁵	ɲ i ⁵⁵	5829
+2639	Xiangyun	n i ⁴⁴	n i ⁴⁴	5829
+2640	Yunlong	ɲ i ⁴⁴	ɲ i ⁴⁴	5829
+2641	Eryuan	pʰ i ³¹	pʰ i ³¹	5830
+2642	Heqing	pʰ ĩ ³¹	pʰ ĩ ³¹	5830
+2643	Jianchuan	pʰ ĩ ³¹	pʰ ĩ ³¹	5830
+2644	Lanping	pʰ ĩ ³¹	pʰ ĩ ³¹	5830
+2645	Qiliqiao	pʰ i ³¹	pʰ i ³¹	5830
+2646	Yunlong	pʰ i ³¹	pʰ i ³¹	5830
+2647	Zhoucheng	pʰ i ³¹	pʰ i ³¹	5830
+2648	Qiliqiao	m i ⁴⁴	m i ⁴⁴	5831
+2649	Zhoucheng	m i ⁴⁴	m i ⁴⁴	5831
+2650	Eryuan	x e ⁵⁵	x e ⁵⁵	5848
+2651	Jianchuan	x ẽ ⁵⁵	x ẽ ⁵⁵	5848
+2652	Lanping	x ẽ ⁵⁵	x ẽ ⁵⁵	5848
+2653	Yunlong	x e ⁵⁵	x e ⁵⁵	5848
+2654	Eryuan	l e ⁵⁵	l e ⁵⁵	5849
+2655	Heqing	l ɛ ³⁵	l ɛ ³⁵	5849
+2656	Xiangyun	l i ³⁵	l i ³⁵	5849
+2657	Zhoucheng	l i ⁵⁵	l i ⁵⁵	5849
+2658	Heqing	k ɛ ⁴²	k ɛ ⁴²	5852
+2659	Qiliqiao	k e ⁵⁵	k e ⁵⁵	5852
+2660	Xiangyun	kʲ ɛ ⁴²	kʲ ɛ ⁴²	5852
+2661	Heqing	ts ɿ ³³	ts ɿ ³³	5853
+2662	Jianchuan	ts ɿ ³³	ts ɿ ³³	5853
+2663	Lanping	ts ɿ ⁴⁴	ts ɿ ⁴⁴	5853
+2664	Luobenzhuo	tɕ i ³¹	tɕ i ³¹	5853
+2665	Qiliqiao	ts ɿ ³³	ts ɿ ³³	5853
+2666	Xiangyun	ts ɿ ³³	ts ɿ ³³	5853
+2667	Yunlong	ts ɿ ³³	ts ɿ ³³	5853
+2668	Zhoucheng	ts ɿ ³³	ts ɿ ³³	5853
+2669	Lanping	j ɛ̃ ⁴⁴	j ɛ̃ ⁴⁴	5855
+2670	Qiliqiao	j ɛ ³¹	j ɛ ³¹	5855
+2671	Zhoucheng	j a ⁴²	j a ⁴²	5855
+2672	Eryuan	ŋ a ²¹	ŋ a ²¹	5878
+2673	Heqing	ŋ a ²¹	ŋ a ²¹	5878
+2674	Jianchuan	ŋ a ²¹	ŋ a ²¹	5878
+2675	Lanping	ŋ a ²¹	ŋ a ²¹	5878
+2676	Luobenzhuo	ɴ a ²¹	ɴ a ²¹	5878
+2677	Qiliqiao	ŋ a ²¹	ŋ a ²¹	5878
+2678	Zhoucheng	ŋ a ²¹	ŋ a ²¹	5878
+2679	Xiangyun	ɣ ã ²¹	ɣ ã ²¹	5879
+2680	Yunlong	ɣ a ²¹	ɣ a ²¹	5879
+2681	Eryuan	s ɔ ⁴⁴	s ɔ ⁴⁴	5888
+2682	Heqing	tsʰ ou ⁴⁴	tsʰ ou ⁴⁴	5888
+2683	Jianchuan	tsʰ ou ⁴⁴	tsʰ ou ⁴⁴	5888
+2684	Lanping	tsʰ u ⁴⁴	tsʰ u ⁴⁴	5888
+2685	Luobenzhuo	ʈʰ u ⁵⁵	ʈʰ u ⁵⁵	5888
+2686	Qiliqiao	ɕ u ³³	ɕ - u ³³	5889
+2687	Xiangyun	s u ³³	s - u ³³	5889
+2688	Yunlong	s w ɔ ³³	s w ɔ ³³	5889
+2689	Zhoucheng	s ɔ ³³	s - ɔ ³³	5889
+2690	Eryuan	k a ³⁵	k a ³⁵	5898
+2691	Heqing	k ã ⁵⁵	k ã ⁵⁵	5898
+2692	Jianchuan	k ã ⁵⁵	k ã ⁵⁵	5898
+2693	Qiliqiao	k a ³⁵	k a ³⁵	5898
+2694	Xiangyun	k ã ³⁵	k ã ³⁵	5898
+2695	Yunlong	k a ³⁵	k a ³⁵	5898
+2696	Zhoucheng	k a ³⁵	k a ³⁵	5898
+2697	Eryuan	m i ⁴⁴	m i ⁴⁴	5899
+2698	Qiliqiao	m i ⁴⁴	m i ⁴⁴	5899
+2699	Xiangyun	m i ⁴⁴	m i ⁴⁴	5899
+2700	Yunlong	m i ⁴⁴	m i ⁴⁴	5899
+2701	Zhoucheng	m i ⁴⁴	m i ⁴⁴	5899
+2702	Heqing	v ɤ ³³	v ɤ ³³	5900
+2703	Jianchuan	ɤ̃ ³³	- ɤ̃ ³³	5900
+2704	Lanping	ɕ õ ⁵⁵	ɕ õ ⁵⁵	5901
+2705	Luobenzhuo	ɕ õ ⁵⁵	ɕ õ ⁵⁵	5901
+2706	Lanping	ts ɔ̃ ⁵⁵	ts ɔ̃ ⁵⁵	5927
+2707	Qiliqiao	ts o ³⁵	ts o ³⁵	5927
+2708	Yunlong	ts ao ³⁵	ts ao ³⁵	5927
+2709	Eryuan	ŋ ɤ ⁴⁴	ŋ ɤ ⁴⁴	5946
+2710	Yunlong	ŋ ɤ ⁴⁴	ŋ ɤ ⁴⁴	5946
+2711	Eryuan	t ɤ ³⁵	t - ɤ ³⁵	5947
+2712	Heqing	t w ɔ ⁵⁵	t w ɔ ⁵⁵	5947
+2713	Jianchuan	t ɤ̃ ⁵⁵	t - ɤ̃ ⁵⁵	5947
+2714	Lanping	t u ⁵⁵	t - u ⁵⁵	5947
+2715	Qiliqiao	t u ³⁵	t - u ³⁵	5947
+2716	Xiangyun	t ɯ ³⁵	t - ɯ ³⁵	5947
+2717	Yunlong	t ɤ ³⁵	t - ɤ ³⁵	5947
+2718	Zhoucheng	t ɤ ³⁵	t - ɤ ³⁵	5947
+2719	Luobenzhuo	m æ̃ ³¹	m æ̃ ³¹	5952
+2720	Qiliqiao	m i ⁴⁴	m i ⁴⁴	5952
+2721	Xiangyun	m i ³³	m i ³³	5952
+2722	Zhoucheng	m i ⁴⁴	m i ⁴⁴	5952
+2723	Eryuan	p i ²¹	p i ²¹	5966
+2724	Heqing	p i ²¹	p i ²¹	5966
+2725	Jianchuan	p i ²¹	p i ²¹	5966
+2726	Lanping	p i ²¹	p i ²¹	5966
+2727	Qiliqiao	p i ²¹	p i ²¹	5966
+2728	Xiangyun	p i ²¹	p i ²¹	5966
+2729	Yunlong	p i ²¹	p i ²¹	5966
+2730	Zhoucheng	p i ²¹	p i ²¹	5966
+2731	Eryuan	tʰ ɤ ⁵⁵	tʰ ɤ ⁵⁵	5967
+2732	Heqing	tʰ ɔ̃ ³⁵	tʰ ɔ̃ ³⁵	5967
+2733	Jianchuan	t ɤ̃ ⁵⁵	t ɤ̃ ⁵⁵	5967
+2734	Lanping	tʰ ɔ̃ ⁵⁵	tʰ ɔ̃ ⁵⁵	5967
+2735	Qiliqiao	tʰ ɤ ⁵⁵	tʰ ɤ ⁵⁵	5967
+2736	Xiangyun	tʰ ɤ̃ ⁵⁵	tʰ ɤ̃ ⁵⁵	5967
+2737	Yunlong	tʰ ɯ ⁵⁵	tʰ ɯ ⁵⁵	5967
+2738	Zhoucheng	tʰ ɤ ⁵⁵	tʰ ɤ ⁵⁵	5967
+2739	Jianchuan	s w a ⁴⁴	s w a ⁴⁴	6006
+2740	Zhoucheng	s w a ⁴⁴	s w a ⁴⁴	6006
+2741	Eryuan	a ³¹	a ³¹	6028
+2742	Heqing	a ³¹	a ³¹	6028
+2743	Jianchuan	a ³¹	a ³¹	6028
+2744	Lanping	a ³¹	a ³¹	6028
+2745	Qiliqiao	a ³¹	a ³¹	6028
+2746	Xiangyun	a ³¹	a ³¹	6028
+2747	Yunlong	a ³¹	a ³¹	6028
+2748	Zhoucheng	a ³¹	a ³¹	6028
+2749	Eryuan	ŋ ɤ ⁴²	ŋ ɤ ⁴²	6029
+2750	Heqing	ɤ̃ ⁴²	- ɤ̃ ⁴²	6029
+2751	Jianchuan	ɤ̃ ⁴²	- ɤ̃ ⁴²	6029
+2752	Qiliqiao	ŋ ɤ ³²	ŋ ɤ ³²	6029
+2753	Xiangyun	ŋ ɯ ⁴²	ŋ ɯ ⁴²	6029
+2754	Yunlong	n e ⁴⁴	n e ⁴⁴	6029
+2755	Lanping	w ɛ̃ ⁴²	w ɛ̃ ⁴²	6030
+2756	Luobenzhuo	w ẽ ⁵⁵	w ẽ ⁵⁵	6030
+2757	Eryuan	n a ⁵⁵	n a ⁵⁵	6047
+2758	Heqing	n a ⁵⁵	n a ⁵⁵	6047
+2759	Jianchuan	n a ⁵⁵	n a ⁵⁵	6047
+2760	Lanping	n a ⁵⁵	n a ⁵⁵	6047
+2761	Xiangyun	n a ⁵⁵	n a ⁵⁵	6047
+2762	Yunlong	n a ⁵⁵	n a ⁵⁵	6047
+2763	Luobenzhuo	t ɔ ⁵⁵	t ɔ ⁵⁵	6048
+2764	Zhoucheng	t ɔ ⁵⁵	t ɔ ⁵⁵	6048
+2765	Eryuan	n a ⁵⁵	n a ⁵⁵	6058
+2766	Heqing	n a ⁵⁵	n a ⁵⁵	6058
+2767	Jianchuan	n a ⁵⁵	n a ⁵⁵	6058
+2768	Xiangyun	n a ⁵⁵	n a ⁵⁵	6058
+2769	Yunlong	n a ⁵⁵	n a ⁵⁵	6058
+2770	Eryuan	x a ²¹	x a ²¹	6059
+2771	Xiangyun	x ou ³¹	x ou ³¹	6059
+2772	Lanping	t ã ⁵⁵	t ã ⁵⁵	6062
+2773	Luobenzhuo	t ɔ ⁴⁴	t ɔ ⁴⁴	6062
+2774	Qiliqiao	t a ⁴⁴	t a ⁴⁴	6062
+2775	Zhoucheng	t ɔ ⁵⁵	t ɔ ⁵⁵	6062
+2776	Lanping	w a ⁴⁴	w a ⁴⁴	6063
+2777	Luobenzhuo	w a ⁴⁴	w a ⁴⁴	6063
+2778	Yunlong	ŋ w e ³³	ŋ w e ³³	6066
+2779	Zhoucheng	w e ³³	- w e ³³	6066
+2780	Eryuan	p a ⁵⁵	p a ⁵⁵	6088
+2781	Heqing	v a ⁵⁵	v a ⁵⁵	6088
+2782	Luobenzhuo	b i ⁵⁵	b i ⁵⁵	6088
+2783	Qiliqiao	v a ⁵⁵	v a ⁵⁵	6088
+2784	Xiangyun	p a ⁵⁵	p a ⁵⁵	6088
+2785	Yunlong	p a ⁵⁵	p a ⁵⁵	6088
+2786	Zhoucheng	p a ⁵⁵	p a ⁵⁵	6088
+2787	Jianchuan	m a ⁵⁵	m a ⁵⁵	6089
+2788	Lanping	m a ⁵⁵	m a ⁵⁵	6089
+2789	Eryuan	v ɤ ³³	v ɤ ³³	6129
+2790	Lanping	v ɛ ⁴⁴	v ɛ ⁴⁴	6129
+2791	Yunlong	v ɤ ³³	v ɤ ³³	6129
+2792	Zhoucheng	v ɤ ³¹	v ɤ ³¹	6129
+2793	Eryuan	kʲ i ³¹	kʲ i ³¹	6130
+2794	Heqing	tsʰ ɿ ³³	tsʰ ɿ ³³	6130
+2795	Luobenzhuo	tɕ a ⁴²	tɕ a ⁴²	6130
+2796	Yunlong	tɕ i ³¹	tɕ i ³¹	6130
+2797	Heqing	t e ⁴²	t e ⁴²	6131
+2798	Jianchuan	t a ⁴²	t a ⁴²	6131
+2799	Lanping	t a ⁴²	t a ⁴²	6131
+2800	Jianchuan	ɤ̃ ³³	- ɤ̃ ³³	6132
+2801	Qiliqiao	ŋ ɤ ³³	ŋ ɤ ³³	6132
+2802	Xiangyun	ŋ ɛ ³³	ŋ ɛ ³³	6132
+2803	Qiliqiao	x w ɔ ³³	x w ɔ ³³	6134
+2804	Zhoucheng	x w a ³³	x w a ³³	6134
+2805	Eryuan	m i ³³	m i ³³	6148
+2806	Heqing	m i ³³	m i ³³	6148
+2807	Jianchuan	m i ³³	m i ³³	6148
+2808	Lanping	m i ³³	m i ³³	6148
+2809	Luobenzhuo	m i ³³	m i ³³	6148
+2810	Qiliqiao	m i ³³	m i ³³	6148
+2811	Yunlong	m i ³³	m i ³³	6148
+2812	Zhoucheng	m i ³³	m i ³³	6148
+2813	Eryuan	n ɯ ³¹	n ɯ ³¹	6168
+2814	Yunlong	n ɯ ³¹	n ɯ ³¹	6168
+2815	Jianchuan	l ɯ ³¹	l ɯ ³¹	6171
+2816	Qiliqiao	l ɯ ³¹	l ɯ ³¹	6171
+2817	Lanping	n ɔ ³¹	n ɔ ³¹	6172
+2818	Luobenzhuo	n ɔ ⁴⁴	n ɔ ⁴⁴	6172
+2819	Xiangyun	t ou ³¹	t ou ³¹	6173
+2820	Zhoucheng	t ɯ ³¹	t ɯ ³¹	6173
+2821	Heqing	sʰ w a ⁴⁴	sʰ w a ⁴⁴	6181
+2822	Jianchuan	s w a ⁴⁴	s w a ⁴⁴	6181
+2823	Qiliqiao	ʃ w a ⁴⁴	ʃ w a ⁴⁴	6181
+2824	Yunlong	s w a ⁴⁴	s w a ⁴⁴	6181
+2825	Zhoucheng	s w a ⁴⁴	s w a ⁴⁴	6181
+2826	Eryuan	ʂ ɔ ³⁵	ʂ ɔ ³⁵	6252
+2827	Heqing	s ou ⁵⁵	s ou ⁵⁵	6252
+2828	Jianchuan	s ou ⁵⁵	s ou ⁵⁵	6252
+2829	Lanping	s o ⁵⁵	s o ⁵⁵	6252
+2830	Qiliqiao	s ɔ ³⁵	s ɔ ³⁵	6252
+2831	Xiangyun	s ɔ ³⁵	s ɔ ³⁵	6252
+2832	Yunlong	s ɔ ³⁵	s ɔ ³⁵	6252
+2833	Zhoucheng	s ɔ ³⁵	s ɔ ³⁵	6252
+2834	Eryuan	kʰ u ³³	kʰ u ³³	6253
+2835	Heqing	kʰ u ³³	kʰ u ³³	6253
+2836	Jianchuan	kʰ u ³³	kʰ u ³³	6253
+2837	Lanping	kʰ u ³³	kʰ u ³³	6253
+2838	Qiliqiao	kʰ u ³³	kʰ u ³³	6253
+2839	Xiangyun	kʰ u ³³	kʰ u ³³	6253
+2840	Yunlong	kʰ u ³³	kʰ u ³³	6253
+2841	Zhoucheng	kʰ u ³³	kʰ u ³³	6253
+2842	Lanping	n ɛ ⁴⁴	n ɛ ⁴⁴	6254
+2843	Luobenzhuo	n æ̃ ⁴²	n æ̃ ⁴²	6254
+2844	Eryuan	pʰ j a ⁴⁴	pʰ j a ⁴⁴	6271
+2845	Heqing	pʰ j a ⁴⁴	pʰ j a ⁴⁴	6271
+2846	Jianchuan	pʰ j a ⁴⁴	pʰ j a ⁴⁴	6271
+2847	Lanping	pʰ j a ⁴⁴	pʰ j a ⁴⁴	6271
+2848	Qiliqiao	pʰ j a ⁴⁴	pʰ j a ⁴⁴	6271
+2849	Xiangyun	pʰ j ɛ ⁴⁴	pʰ j ɛ ⁴⁴	6271
+2850	Yunlong	pʰ j a ⁴⁴	pʰ j a ⁴⁴	6271
+2851	Zhoucheng	pʰ j a ⁴⁴	pʰ j a ⁴⁴	6271
+2852	Eryuan	ɲ i ⁴⁴	ɲ i ⁴⁴	6282
+2853	Heqing	j ĩ ⁴⁴	j ĩ ⁴⁴	6282
+2854	Jianchuan	j ĩ ⁴⁴	j ĩ ⁴⁴	6282
+2855	Lanping	j ĩ ⁴⁴	j ĩ ⁴⁴	6282
+2856	Luobenzhuo	ɲ i ³³	ɲ i ³³	6282
+2857	Qiliqiao	ɲ i ⁴⁴	ɲ i ⁴⁴	6282
+2858	Xiangyun	n i ⁴⁴	n i ⁴⁴	6282
+2859	Zhoucheng	ɲ i ⁴⁴	ɲ i ⁴⁴	6282
+2860	Eryuan	m e ⁵⁵	m e ⁵⁵	6300
+2861	Heqing	m ɛ ³⁵	m ɛ ³⁵	6300
+2862	Jianchuan	m e ⁵⁵	m e ⁵⁵	6300
+2863	Lanping	m ẽ ⁵⁵	m ẽ ⁵⁵	6300
+2864	Qiliqiao	m e ⁵⁵	m e ⁵⁵	6300
+2865	Xiangyun	m e ⁵⁵	m e ⁵⁵	6300
+2866	Yunlong	m ɛ ⁵⁵	m ɛ ⁵⁵	6300
+2867	Zhoucheng	m e ⁵⁵	m e ⁵⁵	6300
+2868	Eryuan	ɲ i ⁴⁴	ɲ i ⁴⁴	6301
+2869	Heqing	j ĩ ⁴⁴	j ĩ ⁴⁴	6301
+2870	Jianchuan	j ĩ ⁴⁴	j ĩ ⁴⁴	6301
+2871	Lanping	j ĩ ⁴⁴	j ĩ ⁴⁴	6301
+2872	Qiliqiao	ɲ i ⁴⁴	ɲ i ⁴⁴	6301
+2873	Xiangyun	n i ⁴⁴	n i ⁴⁴	6301
+2874	Zhoucheng	ɲ i ⁴⁴	ɲ i ⁴⁴	6301
+2875	Eryuan	pʰ i ³¹	pʰ i ³¹	6320
+2876	Heqing	pʰ ĩ ³¹	pʰ ĩ ³¹	6320
+2877	Lanping	pʰ ĩ ³¹	pʰ ĩ ³¹	6320
+2878	Qiliqiao	pʰ i ³¹	pʰ i ³¹	6320
+2879	Yunlong	pʰ i ³¹	pʰ i ³¹	6320
+2880	Zhoucheng	pʰ i ³¹	pʰ i ³¹	6320
+2881	Eryuan	ʈʂ ɯ ³¹	ʈʂ ɯ ³¹	6355
+2882	Heqing	ts ɯ ³¹	ts ɯ ³¹	6355
+2883	Jianchuan	ts ɯ ³¹	ts ɯ ³¹	6355
+2884	Lanping	ts ɯ ²¹	ts ɯ ²¹	6355
+2885	Luobenzhuo	ɖ ɯ ³¹	ɖ ɯ ³¹	6355
+2886	Qiliqiao	ts ɯ ³¹	ts ɯ ³¹	6355
+2887	Yunlong	dz ɯ ³¹	dz ɯ ³¹	6355
+2888	Zhoucheng	ts ɯ ³¹	ts ɯ ³¹	6355
+2889	Lanping	j u ⁴⁴	j u ⁴⁴	6366
+2890	Qiliqiao	j ɔ ³⁵	j ɔ ³⁵	6366
+2891	Yunlong	j ɔ ³³	j ɔ ³³	6366
+2892	Eryuan	ʂ ɯ ⁴⁴	ʂ ɯ ⁴⁴	6379
+2893	Heqing	s ɯ ⁴⁴	s ɯ ⁴⁴	6379
+2894	Jianchuan	s ɯ ⁴⁴	s ɯ ⁴⁴	6379
+2895	Lanping	s ɛ ⁴⁴	s ɛ ⁴⁴	6379
+2896	Luobenzhuo	ɕ ĩ ⁵⁵	ɕ ĩ ⁵⁵	6379
+2897	Qiliqiao	s ɯ ⁴⁴	s ɯ ⁴⁴	6379
+2898	Zhoucheng	s ɯ ³¹	s ɯ ³¹	6379
+2899	Eryuan	p ɯ ⁴⁴	p ɯ ⁴⁴	6381
+2900	Jianchuan	p ɯ ⁴⁴	p ɯ ⁴⁴	6381
+2901	Lanping	p ɯ ⁴⁴	p ɯ ⁴⁴	6381
+2902	Yunlong	p ao ⁴⁴	p ao ⁴⁴	6381
+2903	Zhoucheng	p ɯ ⁴⁴	p ɯ ⁴⁴	6381
+2904	Eryuan	tɕ ɯ ⁵⁵	tɕ ɯ ⁵⁵	6403
+2905	Jianchuan	tɕ i ⁵⁵	tɕ i ⁵⁵	6403
+2906	Lanping	tɕ ɯ ⁵⁵	tɕ ɯ ⁵⁵	6403
+2907	Luobenzhuo	tɕ i ⁵⁵	tɕ i ⁵⁵	6403
+2908	Xiangyun	tɕ i ⁵⁵	tɕ i ⁵⁵	6403
+2909	Yunlong	tɕ i ⁵⁵	tɕ i ⁵⁵	6403
+2910	Heqing	k u ³³	k u ³³	6406
+2911	Qiliqiao	k u ³³	k u ³³	6406
+2912	Zhoucheng	k u ³³	k u ³³	6406
+2913	Eryuan	tsʰ ɔ ⁴⁴	tsʰ - ɔ ⁴⁴	6426
+2914	Heqing	s ou ⁴⁴	s - ou ⁴⁴	6426
+2915	Jianchuan	tsʰ ou ⁴⁴	tsʰ - ou ⁴⁴	6426
+2916	Lanping	tsʰ w ɔ ⁴⁴	tsʰ w ɔ ⁴⁴	6426
+2917	Luobenzhuo	tsʰ o ⁵⁵	tsʰ - o ⁵⁵	6426
+2918	Qiliqiao	tsʰ o ⁴⁴	tsʰ - o ⁴⁴	6426
+2919	Xiangyun	tsʰ ɔ ³³	tsʰ - ɔ ³³	6426
+2920	Zhoucheng	tsʰ o ⁴⁴	tsʰ - o ⁴⁴	6426
+2921	Eryuan	ʈʂ ɔ ³³	ʈʂ ɔ ³³	6457
+2922	Heqing	ts u ³³	ts u ³³	6457
+2923	Jianchuan	ts õ ³³	ts õ ³³	6457
+2924	Lanping	ts õ ³³	ts õ ³³	6457
+2925	Qiliqiao	ts o ³³	ts o ³³	6457
+2926	Yunlong	dz ɔ ³³	dz ɔ ³³	6457
+2927	Zhoucheng	ts o ³³	ts o ³³	6457
+2928	Eryuan	ts ɿ ⁴⁴	ts ɿ ⁴⁴	6471
+2929	Luobenzhuo	ʈʂ æ ⁵⁵	ʈʂ æ ⁵⁵	6471
+2930	Luobenzhuo	a ⁵⁵	a ⁵⁵	6472
+2931	Qiliqiao	a ⁵⁵	a ⁵⁵	6472
+2932	Eryuan	j ɔ ⁴²	j ɔ ⁴²	6486
+2933	Heqing	j ɔ̃u ⁴²	j ɔ̃u ⁴²	6486
+2934	Jianchuan	j õ ⁴²	j õ ⁴²	6486
+2935	Lanping	j ɔ̃ ⁴²	j ɔ̃ ⁴²	6486
+2936	Xiangyun	j ɛ̃ ²¹	j ɛ̃ ²¹	6486
+2937	Yunlong	j ɔ ⁴²	j ɔ ⁴²	6486
+2938	Qiliqiao	z ɤ ³³	z ɤ ³³	6488
+2939	Zhoucheng	z ɤ ³¹	z ɤ ³¹	6488
+2940	Eryuan	j ɯ ²¹	j ɯ ²¹	6506
+2941	Heqing	j ɯ ²¹	j ɯ ²¹	6506
+2942	Jianchuan	j ɯ ²¹	j ɯ ²¹	6506
+2943	Lanping	j ɯ ²¹	j ɯ ²¹	6506
+2944	Xiangyun	j ɯ ²¹	j ɯ ²¹	6506
+2945	Yunlong	j ɯ ²¹	j ɯ ²¹	6506
+2946	Zhoucheng	j ɯ ²¹	j ɯ ²¹	6506
+2947	Eryuan	ts a ³⁵	ts a ³⁵	6516
+2948	Heqing	ts a ³⁵	ts a ³⁵	6516
+2949	Jianchuan	ts a ³⁵	ts a ³⁵	6516
+2950	Lanping	ts a ³⁵	ts a ³⁵	6516
+2951	Xiangyun	ts a ³⁵	ts a ³⁵	6516
+2952	Eryuan	s ɿ ³⁵	s ɿ ³⁵	6517
+2953	Heqing	sʰ ɯ ⁵⁵	sʰ ɯ ⁵⁵	6517
+2954	Jianchuan	s ɿ ⁵⁵	s ɿ ⁵⁵	6517
+2955	Lanping	s ɿ ⁵⁵	s ɿ ⁵⁵	6517
+2956	Xiangyun	s ɿ ³³	s ɿ ³³	6517
+2957	Qiliqiao	f e ⁴⁴	f e ⁴⁴	6519
+2958	Zhoucheng	f ɤ ³¹	f ɤ ³¹	6519
+2959	Eryuan	t a ⁴²	t a ⁴²	6544
+2960	Heqing	t ã ⁴²	t ã ⁴²	6544
+2961	Qiliqiao	t a ³²	t a ³²	6544
+2962	Yunlong	t a ⁴²	t a ⁴²	6544
+2963	Jianchuan	tɕʰ ɛ ⁴⁴	tɕʰ ɛ ⁴⁴	6545
+2964	Luobenzhuo	tɕʰ a ⁵⁵	tɕʰ a ⁵⁵	6545
+2965	Xiangyun	kʰ w e ³¹	kʰ w e ³¹	6547
+2966	Zhoucheng	kʰ w e ³¹	kʰ w e ³¹	6547
+2967	Eryuan	ʈʂ ɤ ⁴⁴	ʈʂ - ɤ ⁴⁴	6556
+2968	Heqing	ts w ɔ ⁴⁴	ts w ɔ ⁴⁴	6556
+2969	Eryuan	ɕ ɛ ⁵⁵	ɕ - ɛ ⁵⁵	6577
+2970	Heqing	ɕʰ ɛ̃ ⁵⁵	ɕʰ - ɛ̃ ⁵⁵	6577
+2971	Jianchuan	ɕ ɛ̃ ⁵⁵	ɕ - ɛ̃ ⁵⁵	6577
+2972	Lanping	ɕ j ɛ̃ ⁵⁵	ɕ j ɛ̃ ⁵⁵	6577
+2973	Qiliqiao	ɕ ɛ ⁵⁵	ɕ - ɛ ⁵⁵	6577
+2974	Zhoucheng	ɕ ɛ ⁵⁵	ɕ - ɛ ⁵⁵	6577
+2975	Eryuan	ɕ ɛ ⁵⁵	ɕ - ɛ ⁵⁵	6578
+2976	Heqing	ɕʰ ɛ ⁵⁵	ɕʰ - ɛ ⁵⁵	6578
+2977	Jianchuan	ɕ ɛ̃ ⁵⁵	ɕ - ɛ̃ ⁵⁵	6578
+2978	Lanping	ɕ j ɛ̃ ⁵⁵	ɕ j ɛ̃ ⁵⁵	6578
+2979	Luobenzhuo	tɕ i ⁵⁵	tɕ - i ⁵⁵	6578
+2980	Qiliqiao	ɕ i ⁵⁵	ɕ - i ⁵⁵	6578
+2981	Xiangyun	tɕʰ ĩ ⁵⁵	tɕʰ - ĩ ⁵⁵	6578
+2982	Zhoucheng	ɕ i ⁵⁵	ɕ - i ⁵⁵	6578
+2983	Luobenzhuo	tɕʰ o ³¹	tɕʰ o ³¹	6579
+2984	Xiangyun	tɕ ɛ ²¹	tɕ ɛ ²¹	6579
+2985	Yunlong	tsʰ u ³¹	tsʰ u ³¹	6579
+2986	Eryuan	p e ⁴⁴	p e ⁴⁴	6595
+2987	Heqing	p e ⁴⁴	p e ⁴⁴	6595
+2988	Jianchuan	p e ⁴⁴	p e ⁴⁴	6595
+2989	Lanping	p e ⁴⁴	p e ⁴⁴	6595
+2990	Qiliqiao	p e ⁴⁴	p e ⁴⁴	6595
+2991	Xiangyun	p e ⁴⁴	p e ⁴⁴	6595
+2992	Yunlong	p e ⁴⁴	p e ⁴⁴	6595
+2993	Zhoucheng	p e ⁴⁴	p e ⁴⁴	6595
+2994	Eryuan	ŋ ɔ ³³	ŋ ɔ ³³	6605
+2995	Heqing	ŋ ɔu ³³	ŋ ɔu ³³	6605
+2996	Yunlong	ʁ ɔ ³³	ʁ ɔ ³³	6605
+2997	Jianchuan	ɣ ou ³³	ɣ ou ³³	6606
+2998	Qiliqiao	ɣ u ³³	ɣ u ³³	6606
+2999	Xiangyun	ɣ ã ³³	ɣ ã ³³	6606
+3000	Zhoucheng	u ³³	- u ³³	6606
+3001	Eryuan	ɔ ²¹	ɔ ²¹	6616
+3002	Qiliqiao	ɔ ²¹	ɔ ²¹	6616
+3003	Zhoucheng	ɔ ²¹	ɔ ²¹	6616
+3004	Heqing	ɣ ɔu ²¹	ɣ ɔu ²¹	6618
+3005	Jianchuan	ɣ ou ²¹	ɣ ou ²¹	6618
+3006	Xiangyun	ɣ ɔ ²¹	ɣ ɔ ²¹	6618
+3007	Eryuan	v ɤ ⁴⁴	v ɤ ⁴⁴	6646
+3008	Jianchuan	v ɤ ⁴⁴	v ɤ ⁴⁴	6646
+3009	Eryuan	ŋ a ⁵⁵	ŋ a ⁵⁵	6678
+3010	Heqing	ŋ a ⁵⁵	ŋ a ⁵⁵	6678
+3011	Jianchuan	j ã ⁵⁵	j ã ⁵⁵	6678
+3012	Lanping	ŋ ã ⁵⁵	ŋ ã ⁵⁵	6678
+3013	Qiliqiao	ŋ a ⁵⁵	ŋ a ⁵⁵	6678
+3014	Xiangyun	ŋ a ⁵⁵	ŋ a ⁵⁵	6678
+3015	Yunlong	ɲ a ⁵⁵	ɲ a ⁵⁵	6678
+3016	Zhoucheng	ŋ a ⁵⁵	ŋ a ⁵⁵	6678
+3017	Eryuan	ɲ a ⁵⁵	ɲ - a ⁵⁵	6688
+3018	Heqing	j ã ⁵⁵	- j ã ⁵⁵	6688
+3019	Jianchuan	j ã ⁵⁵	- j ã ⁵⁵	6688
+3020	Lanping	j ã ⁵⁵	- j ã ⁵⁵	6688
+3021	Qiliqiao	ɲ j a ⁵⁵	ɲ j a ⁵⁵	6688
+3022	Xiangyun	n j a ⁵⁵	n j a ⁵⁵	6688
+3023	Yunlong	ɲ a ⁵⁵	ɲ - a ⁵⁵	6688
+3024	Zhoucheng	ɲ a ⁵⁵	ɲ - a ⁵⁵	6688
+3025	Eryuan	pʰ ɛ ⁵⁵	pʰ - ɛ ⁵⁵	6719
+3026	Heqing	pʰ ɛ̃ ⁵⁵	pʰ - ɛ̃ ⁵⁵	6719
+3027	Qiliqiao	pʰ ɛ ⁵⁵	pʰ - ɛ ⁵⁵	6719
+3028	Xiangyun	pʰ j ɛ ⁵⁵	pʰ j ɛ ⁵⁵	6719
+3029	Yunlong	pʰ ɛ ⁵⁵	pʰ - ɛ ⁵⁵	6719
+3030	Jianchuan	x ɛ̃ ⁵⁵	x ɛ̃ ⁵⁵	6720
+3031	Lanping	x ɛ ⁵⁵	x ɛ ⁵⁵	6720
+3032	Luobenzhuo	x ã ⁵⁵	x ã ⁵⁵	6720
+3033	Zhoucheng	x ɛ ³⁵	x ɛ ³⁵	6720
+3034	Eryuan	ɕ y ³³	ɕ y ³³	6729
+3035	Heqing	ɕ y ³³	ɕ y ³³	6729
+3036	Jianchuan	s o ⁵⁵	s o ⁵⁵	6729
+3037	Lanping	ɕ y ³³	ɕ y ³³	6729
+3038	Xiangyun	ɕ y ³³	ɕ y ³³	6729
+3039	Yunlong	ɕ y ³³	ɕ y ³³	6729
+3040	Zhoucheng	ɕ y ³³	ɕ y ³³	6729
+3041	Eryuan	a ⁵⁵	a ⁵⁵	6749
+3042	Heqing	a ⁵⁵	a ⁵⁵	6749
+3043	Luobenzhuo	a ⁵⁵	a ⁵⁵	6749
+3044	Xiangyun	a ⁵⁵	a ⁵⁵	6749
+3045	Yunlong	a ⁵⁵	a ⁵⁵	6749
+3046	Eryuan	n e ³¹	n e ³¹	6750
+3047	Qiliqiao	n e ³¹	n e ³¹	6750
+3048	Heqing	xʰ a ³¹	xʰ a ³¹	6751
+3049	Jianchuan	x ɛ̃ ³¹	x ɛ̃ ³¹	6751
+3050	Lanping	x ɛ̃ ⁴²	x ɛ̃ ⁴²	6751
+3051	Luobenzhuo	x ã ⁴²	x ã ⁴²	6751
+3052	Qiliqiao	x ɛ ³¹	x ɛ ³¹	6751
+3053	Yunlong	x e ³¹	x e ³¹	6751
+3054	Zhoucheng	x a ³¹	x a ³¹	6751
+3055	Jianchuan	ɛ ⁵⁵	ɛ ⁵⁵	6752
+3056	Lanping	ɛ ⁵⁵	ɛ ⁵⁵	6752
+3057	Xiangyun	l e ³¹	l e ³¹	6753
+3058	Zhoucheng	l e ³¹	l e ³¹	6753
+3059	Eryuan	a ⁵⁵	a ⁵⁵	6769
+3060	Jianchuan	a ⁵⁵	a ⁵⁵	6769
+3061	Lanping	a ⁵⁵	a ⁵⁵	6769
+3062	Luobenzhuo	a ⁵⁵	a ⁵⁵	6769
+3063	Qiliqiao	a ⁵⁵	a ⁵⁵	6769
+3064	Yunlong	a ⁵⁵	a ⁵⁵	6769
+3065	Zhoucheng	a ⁵⁵	a ⁵⁵	6769
+3066	Eryuan	n a ⁴⁴	n a ⁴⁴	6770
+3067	Jianchuan	n a ⁴⁴	n a ⁴⁴	6770
+3068	Qiliqiao	n a ⁴⁴	n a ⁴⁴	6770
+3069	Yunlong	n a ⁴⁴	n a ⁴⁴	6770
+3070	Heqing	m a ⁴⁴	m a ⁴⁴	6771
+3071	Lanping	m a ⁵⁵	m a ⁵⁵	6771
+3072	Luobenzhuo	m ã ⁵⁵	m ã ⁵⁵	6771
+3073	Eryuan	a ³¹	a ³¹	6799
+3074	Jianchuan	a ³¹	a ³¹	6799
+3075	Eryuan	t ɔ ²¹	t ɔ ²¹	6800
+3076	Heqing	t ɯ ²¹	t ɯ ²¹	6800
+3077	Jianchuan	t o ²¹	t o ²¹	6800
+3078	Luobenzhuo	t ɔ ³¹	t ɔ ³¹	6800
+3079	Xiangyun	t ɔ ²¹	t ɔ ²¹	6800
+3080	Heqing	m a ⁴⁴	m a ⁴⁴	6801
+3081	Lanping	m ɯ̃ ⁵⁵	m ɯ̃ ⁵⁵	6801
+3082	Luobenzhuo	a ⁵⁵	a ⁵⁵	6803
+3083	Qiliqiao	a ⁵⁵	a ⁵⁵	6803
+3084	Xiangyun	a ⁵⁵	a ⁵⁵	6803
+3085	Yunlong	a ⁵⁵	a ⁵⁵	6803
+3086	Zhoucheng	a ⁵⁵	a ⁵⁵	6803
+3087	Qiliqiao	ɲ i ²¹	ɲ i ²¹	6804
+3088	Yunlong	ɲ i ²¹	ɲ i ²¹	6804
+3089	Zhoucheng	ɲ i ²¹	ɲ i ²¹	6804
+3090	Yunlong	n a ⁴⁴	n a ⁴⁴	6806
+3091	Zhoucheng	n a ⁴⁴	n a ⁴⁴	6806
+3092	Eryuan	v ɤ ³³	v ɤ ³³	6821
+3093	Heqing	f ɤ ³³	f ɤ ³³	6821
+3094	Jianchuan	v ɤ ³³	v ɤ ³³	6821
+3095	Lanping	v ɛ ³³	v ɛ ³³	6821
+3096	Qiliqiao	v ɤ ³³	v ɤ ³³	6821
+3097	Yunlong	v ɤ ³³	v ɤ ³³	6821
+3098	Zhoucheng	v ɤ ³³	v ɤ ³³	6821
+3099	Eryuan	s ɿ ³⁵	s ɿ ³⁵	6840
+3100	Lanping	s ɯ ⁵⁵	s ɯ ⁵⁵	6840
+3101	Qiliqiao	s ɯ ⁵⁵	s ɯ ⁵⁵	6840
+3102	Xiangyun	s ɯ ⁵⁵	s ɯ ⁵⁵	6840
+3103	Zhoucheng	s ɿ ⁵⁵	s ɿ ⁵⁵	6840
+3104	Eryuan	ɣ ɯ ³³	ɣ ɯ ³³	6841
+3105	Heqing	ɣ ɯ ³³	ɣ ɯ ³³	6841
+3106	Jianchuan	ɣ ɯ ³³	ɣ ɯ ³³	6841
+3107	Lanping	ɣ ɯ ³³	ɣ ɯ ³³	6841
+3108	Qiliqiao	ɯ ³³	- ɯ ³³	6841
+3109	Xiangyun	ɣ o ⁴²	ɣ o ⁴²	6841
+3110	Yunlong	ʔ ɯ ³³	ʔ ɯ ³³	6841
+3111	Zhoucheng	ɣ ɯ ³³	ɣ ɯ ³³	6841
+3112	Heqing	ts ɯ ³¹	ts ɯ ³¹	6842
+3113	Jianchuan	ts ɯ ³¹	ts ɯ ³¹	6842
+3114	Yunlong	dz ɯ ³¹	dz ɯ ³¹	6842
+3115	Eryuan	p i ⁵⁵	p i ⁵⁵	6858
+3116	Heqing	p ĩ ⁵⁵	p ĩ ⁵⁵	6858
+3117	Jianchuan	p i ⁵⁵	p i ⁵⁵	6858
+3118	Lanping	p i ⁵⁵	p i ⁵⁵	6858
+3119	Qiliqiao	p i ³⁵	p i ³⁵	6858
+3120	Xiangyun	p i ³⁵	p i ³⁵	6858
+3121	Yunlong	p i ³⁵	p i ³⁵	6858
+3122	Zhoucheng	p i ³⁵	p i ³⁵	6858
+3123	Eryuan	s ɿ ⁵⁵	s ɿ ⁵⁵	6859
+3124	Jianchuan	s ɿ ⁵⁵	s ɿ ⁵⁵	6859
+3125	Lanping	s ɿ ⁵⁵	s ɿ ⁵⁵	6859
+3126	Qiliqiao	s ɿ ³⁵	s ɿ ³⁵	6859
+3127	Yunlong	ɕ i ⁵⁵	ɕ i ⁵⁵	6859
+3128	Zhoucheng	s ɿ ³⁵	s ɿ ³⁵	6859
+3129	Eryuan	j i ³¹	j i ³¹	6874
+3130	Heqing	j ĩ ⁴⁴	j ĩ ⁴⁴	6874
+3131	Jianchuan	j ĩ ³³	j ĩ ³³	6874
+3132	Luobenzhuo	j i ⁴²	j i ⁴²	6874
+3133	Qiliqiao	j i ³⁵	j i ³⁵	6874
+3134	Xiangyun	j ɔ ³³	j ɔ ³³	6874
+3135	Yunlong	j i ²¹	j i ²¹	6874
+3136	Zhoucheng	j i ³⁵	j i ³⁵	6874
+3137	Eryuan	kʰ ɤ ⁵⁵	kʰ ɤ ⁵⁵	6875
+3138	Jianchuan	kʰ ɤ ⁵⁵	kʰ ɤ ⁵⁵	6875
+3139	Lanping	kʰ u ⁵⁵	kʰ u ⁵⁵	6875
+3140	Qiliqiao	kʰ ɤ ⁵⁵	kʰ ɤ ⁵⁵	6875
+3141	Xiangyun	kʰ ɛ ⁵⁵	kʰ ɛ ⁵⁵	6875
+3142	Zhoucheng	kʰ ɤ ⁵⁵	kʰ ɤ ⁵⁵	6875
+3143	Heqing	kʰ w ɔ ³⁵	kʰ w ɔ ³⁵	6876
+3144	Zhoucheng	k w a ⁴⁴	k w a ⁴⁴	6876
+3145	Luobenzhuo	l ao ³¹	l ao ³¹	6878
+3146	Qiliqiao	l a ⁴⁴	l a ⁴⁴	6878
+3147	Yunlong	l ao ²¹	l ao ²¹	6878
+3148	Eryuan	ʈʂʰ ɛ ⁵⁵	ʈʂʰ ɛ ⁵⁵	6896
+3149	Jianchuan	tsʰ ɛ̃ ⁵⁵	tsʰ ɛ̃ ⁵⁵	6896
+3150	Lanping	tsʰ ɯ̃ ⁵⁵	tsʰ ɯ̃ ⁵⁵	6896
+3151	Luobenzhuo	tɕ i ³³	tɕ i ³³	6896
+3152	Eryuan	p e ²¹	p e ²¹	6897
+3153	Heqing	pʰ ĩ ³¹	pʰ ĩ ³¹	6897
+3154	Lanping	pʰ i ³³	pʰ i ³³	6897
+3155	Qiliqiao	p e ²¹	p e ²¹	6897
+3156	Heqing	k w ɔ ³⁵	k w ɔ ³⁵	6898
+3157	Qiliqiao	k w ɔ ³⁵	k w ɔ ³⁵	6898
+3158	Xiangyun	k w ɔ ³⁵	k w ɔ ³⁵	6898
+3159	Yunlong	k w ɔ ⁵⁵	k w ɔ ⁵⁵	6898
+3160	Eryuan	ʈʂ ɯ ⁴²	ʈʂ ɯ ⁴²	6914
+3161	Qiliqiao	tsʰ e ⁴²	tsʰ e ⁴²	6914
+3162	Xiangyun	ts ou ⁴²	ts ou ⁴²	6914
+3163	Heqing	n a ⁴²	n a ⁴²	6915
+3164	Jianchuan	n a ⁴²	n a ⁴²	6915
+3165	Lanping	l a ⁴²	l a ⁴²	6916
+3166	Zhoucheng	l a ⁴²	l a ⁴²	6916
+3167	Eryuan	t ɔ ²¹	t ɔ ²¹	6947
+3168	Heqing	t ɔ̃ ²¹	t ɔ̃ ²¹	6947
+3169	Jianchuan	t õ ²¹	t õ ²¹	6947
+3170	Lanping	t ɔ̃ ²¹	t ɔ̃ ²¹	6947
+3171	Luobenzhuo	t ɔ̃ ³¹	t ɔ̃ ³¹	6947
+3172	Qiliqiao	t o ²¹	t o ²¹	6947
+3173	Xiangyun	t ã ²¹	t ã ²¹	6947
+3174	Zhoucheng	t o ²¹	t o ²¹	6947
+3175	Luobenzhuo	ts o ³¹	ts o ³¹	6950
+3176	Yunlong	dz ɿ ³¹	dz ɿ ³¹	6950
+3177	Eryuan	w ɛ ⁴²	w ɛ ⁴²	6961
+3178	Heqing	v ɛ ⁴²	v ɛ ⁴²	6961
+3179	Jianchuan	v ɛ ⁴²	v ɛ ⁴²	6961
+3180	Lanping	v ɛ ⁴²	v ɛ ⁴²	6961
+3181	Qiliqiao	w ɛ ⁴²	w ɛ ⁴²	6961
+3182	Xiangyun	w ɛ ⁴²	w ɛ ⁴²	6961
+3183	Yunlong	w ɛ ⁴²	w ɛ ⁴²	6961
+3184	Zhoucheng	w ɛ ⁴²	w ɛ ⁴²	6961
+3185	Eryuan	ŋ ɤ ²¹	ŋ ɤ ²¹	6981
+3186	Jianchuan	ɤ̃ ²¹	- ɤ̃ ²¹	6981
+3187	Luobenzhuo	ŋ o ³¹	ŋ o ³¹	6981
+3188	Qiliqiao	ŋ ɤ ²¹	ŋ ɤ ²¹	6981
+3189	Xiangyun	ŋ ɯ ²¹	ŋ ɯ ²¹	6981
+3190	Zhoucheng	ŋ ɤ ²¹	ŋ ɤ ²¹	6981
+3191	Eryuan	ɲ i ⁴⁴	ɲ i ⁴⁴	6992
+3192	Heqing	j ĩ ⁴⁴	j ĩ ⁴⁴	6992
+3193	Jianchuan	j ĩ ⁴⁴	j ĩ ⁴⁴	6992
+3194	Lanping	j ĩ ⁴⁴	j ĩ ⁴⁴	6992
+3195	Luobenzhuo	ɲ i ³³	ɲ i ³³	6992
+3196	Qiliqiao	ɲ i ⁴⁴	ɲ i ⁴⁴	6992
+3197	Xiangyun	n i ⁴⁴	n i ⁴⁴	6992
+3198	Zhoucheng	ɲ i ⁴⁴	ɲ i ⁴⁴	6992
+3199	Qiliqiao	s e ⁴⁴	s e ⁴⁴	6993
+3200	Yunlong	ɕ ɛ ⁴⁴	ɕ ɛ ⁴⁴	6993
+3201	Zhoucheng	s e ⁴⁴	s e ⁴⁴	6993
+3202	Eryuan	n ɯ ⁵⁵	n ɯ ⁵⁵	7033
+3203	Heqing	n ɯ ⁵⁵	n ɯ ⁵⁵	7033
+3204	Jianchuan	n ɯ ⁵⁵	n ɯ ⁵⁵	7033
+3205	Lanping	n ɯ ⁵⁵	n ɯ ⁵⁵	7033
+3206	Luobenzhuo	n ɔ ⁵⁵	n ɔ ⁵⁵	7033
+3207	Qiliqiao	n ɯ ⁵⁵	n ɯ ⁵⁵	7033
+3208	Yunlong	n ɯ ⁵⁵	n ɯ ⁵⁵	7033
+3209	Zhoucheng	n ɯ ⁵⁵	n ɯ ⁵⁵	7033
+3210	Luobenzhuo	m ɤ ⁵⁵	m ɤ ⁵⁵	7035
+3211	Xiangyun	m ɯ ⁵⁵	m ɯ ⁵⁵	7035

@@ -1,0 +1,403 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	4	l u ŋ g u	l u ŋ g u	4
+2	6	r u ŋ g u	r u ŋ g u	4
+3	5	a m b ɛ	a m b ɛ	6
+4	7	a m b i	a m b i	6
+5	1	ɔ s ɛ	ɔ s ɛ	32
+6	6	o s e	o s e	32
+7	10	iː t i k a	iː t i k a	76
+8	6	i t i k a	i t i k a	76
+9	1	a a p a	a a p a	104
+10	4	a p a	a - p a	104
+11	10	g w a a p a	g w a a p a	105
+12	7	k w á p a	k w á - p a	105
+13	9	χ w á f a	χ w á - f a	105
+14	4	f w i	f w i	131
+15	6	v w i	v w i	131
+16	1	s ɔ ɔ ŋ g a	s ɔ ɔ ŋ g a	134
+17	8	s o ŋ g o	s o - ŋ g o	134
+18	1	l ɔ ɔ m b a	l ɔ ɔ m b a	153
+19	7	r ɔ m b a	r ɔ - m b a	153
+20	10	s o o k a	s o o k a	166
+21	6	z o k a	z o - k a	166
+22	8	s a g a	s a - g a	166
+23	10	ɲ u m a	ɲ u m a	182
+24	4	n u m a	n u m a	182
+25	4	k o n d e	k o n d e	212
+26	5	k ɔ n d ɔ	k ɔ n d ɔ	212
+27	7	b a n á n a	b a n á n a	214
+28	9	p a n á n a	p a n á n a	214
+29	1	ɔ g ɔ h a	ɔ g ɔ h a	251
+30	6	o ɣ o h a	o ɣ o h a	251
+31	1	l ɛ m a a l a	l ɛ m a a l a	263
+32	2	l e m a l a	l e m - a l a	263
+33	1	i g ʊ t a	i g ʊ t a	272
+34	6	i ɣ u t a	i ɣ u t a	272
+35	4	e f u	- e f u	294
+36	6	d e v u	d e v u	294
+37	1	p j a a	p j a a	303
+38	4	p j	p j - -	303
+39	1	k a l a	- - k a l a	314
+40	10	l a g a l a	l a g a l a	314
+41	6	o m a	o m a	318
+42	9	ɔ m a	ɔ m a	318
+43	1	k ʊ l a	k ʊ l a	346
+44	4	k u l	k u l -	346
+45	10	n d a a n d a	n d a a n d a	351
+46	2	tʰ a a n d a	- tʰ a a n d a	351
+47	2	s i	s i	414
+48	5	s i	s i	414
+49	7	n ɛ n ɛ	n ɛ n ɛ	438
+50	8	n e n e	n e n e	438
+51	4	s u m	s u m -	462
+52	7	ʃ u m a	ʃ u m a	462
+53	10	v a v a	v a v a	473
+54	6	v á v a	v á v a	473
+55	1	p i	p i -	483
+56	3	p i i	p i i	483
+57	10	t o k o t a	t o k o t a	539
+58	6	d o ɣ o d a	d o ɣ o d a	539
+59	3	b u ɲ a	b u ɲ a	615
+60	7	v u ɲ a	v u ɲ a	615
+61	4	s u l	s u l	624
+62	5	s u l	s u l	624
+63	3	b ɛ ɛ	b ɛ ɛ	631
+64	5	ɓ e e	ɓ e e	631
+65	10	v a k a	- v a k a	673
+66	8	o b a k a	o b a k a	673
+67	1	dʒ i i k a	dʒ i i k a	720
+68	6	dʒ i k a	dʒ i - k a	720
+69	2	s ìì x a	s ìì x a	722
+70	4	ʃ ìì k	ʃ ìì k -	722
+71	10	v i l a a ŋ g a	v i l a a ŋ g a	780
+72	2	l a a ŋ g a	- - l a a ŋ g a	780
+73	1	m a l a	m a l a	823
+74	2	m a l a	m a l a	823
+75	1	ʃ i l a	ʃ i l a	829
+76	6	s i a	s i - a	829
+77	10	p a a n d o	p a a n d o	837
+78	4	p a n d o	p a - n d o	837
+79	2	s a j a	s a j a	873
+80	4	s a j a	s a j a	873
+81	1	k u β a	k u β a	882
+82	8	k u b a	k u b a	882
+83	2	f u β a	f u β a	884
+84	4	f u β a	f u β a	884
+85	1	l ɛ z u	l ɛ z u	904
+86	9	l e d u	l e d u	904
+87	1	s a a g ʊ l a	s a a g ʊ l a	915
+88	6	s a ɣ u r a	s a - ɣ u r a	915
+89	3	s i s a	s i s a	984
+90	8	s i l a	s i l a	984
+91	1	l a a m b ɔ	l a a m b ɔ	1019
+92	2	l a a m b o	l a a m b o	1019
+93	6	i m b a	- i m b a	1025
+94	7	tʃ i m b a	tʃ i m b a	1025
+95	8	r ʊ m b a	r ʊ m b a	1025
+96	1	k i l a	k i l a	1073
+97	9	tsʰ i l a	tsʰ i l a	1073
+98	2	x i n a	x i n a	1123
+99	8	m i n a	m i n a	1123
+100	3	b o n dʒ a	b o n dʒ a	1171
+101	6	b u n t a	b u n t a	1171
+102	10	w a	- w a	1180
+103	8	k w a	k w a	1180
+104	3	t i m a	t i m a	1195
+105	7	t i m a	t i m a	1195
+106	7	d o ŋ g i	d o ŋ g i	1244
+107	9	t o ŋ k i	t o ŋ k i	1244
+108	4	i β i	i β i	1255
+109	8	i b i	i b i	1255
+110	6	o t a	- o t a	1277
+111	7	r ô t a	r ô t a	1277
+112	2	f u u m b i	f u u m b i	1317
+113	6	v u m b i	v u - m b i	1317
+114	3	dʒ á a	dʒ á a	1351
+115	9	dʒ a	dʒ a -	1351
+116	4	k o ŋ k o n i	k o ŋ k o n i	1388
+117	7	k ô k o n a	k ô - k o n a	1388
+118	10	d e e m b o	d e e m b o	1397
+119	6	t e m b o	t e - m b o	1397
+120	1	g ɔ h ɛ	g ɔ h ɛ	1453
+121	6	ɣ o h e	ɣ o h e	1453
+122	7	w a	w a	1478
+123	9	w a	w a	1478
+124	1	k ʊ l ɛ	k ʊ l ɛ	1486
+125	9	χ ʊ l ɛ	χ ʊ l ɛ	1486
+126	2	f u r a	f u r a	1496
+127	9	f u r a	f u r a	1496
+128	1	ɔ ɔ j a a	ɔ ɔ j a a	1529
+129	2	o o j a	o o j - a	1529
+130	4	k á l i p	k á l i p	1570
+131	8	k á l i	k á l i -	1570
+132	1	s ɔ ɔ m b a	s ɔ ɔ m b a	1641
+133	10	s o o m b a	s o o m b a	1641
+134	10	n s a a n o	n s a a n o	1667
+135	6	s á n o	- s - á n o	1667
+136	1	l ɔ ɔ n d a	l ɔ ɔ n d a	1722
+137	2	l o o n d a	l o o n d a	1722
+138	3	l ɔ n d ɔ	l ɔ n d ɔ -	1724
+139	4	l o n d o l	l o n d o l	1724
+140	10	s i t u	s i t u	1734
+141	6	ʃ i t u	ʃ i t u	1734
+142	6	k u k u	k u k u	1770
+143	7	k u k u	k u k u	1770
+144	9	k ʊ k ʊ	k ʊ k ʊ	1770
+145	1	k u m i i ŋ g a	k u m i i ŋ g a	1800
+146	8	k ʊ ŋ g a	k ʊ - - - ŋ g a	1800
+147	1	m a n i i l a	m a n i i l a	1814
+148	6	m a ɲ i r a	m a ɲ - i r a	1814
+149	1	d ɔ t a	d ɔ t a	1849
+150	2	tʰ o r a	tʰ o r a	1849
+151	3	b o r a	b o r a	1884
+152	8	b ʊ r a	b ʊ r a	1884
+153	1	s ɔ g a	s ɔ g a	1939
+154	8	s o g a	s o g a	1939
+155	1	g ʊ ʊ k ʊ	g ʊ ʊ k ʊ	1957
+156	2	k u u k a	k u u k a	1957
+157	3	k ɔ g ɔ	k ɔ g ɔ	1972
+158	6	k o k o	k o k o	1972
+159	1	k u u m b á t i l a	k u u m b á t i l a	1980
+160	8	k u m b a r i l a	k u - m b a r i l a	1980
+161	1	i g w a	i - g w a	2045
+162	8	u ŋ g w a	u ŋ g w a	2045
+163	1	f i g a	f i g a	2069
+164	10	v i g a	v i g a	2069
+165	1	ʊ ʊ k i	ʊ ʊ k i	2143
+166	8	u k i	u - k i	2143
+167	10	u tʃ i	u tʃ i	2144
+168	4	u tʃ i	u tʃ i	2144
+169	10	s e e ŋ g o	s e e ŋ g o	2156
+170	4	s e ŋ g o	s e - ŋ g o	2156
+171	2	i k a	i k a	2157
+172	8	e g a	e g a	2157
+173	2	n dʒ u	n dʒ u	2167
+174	9	n̩ tɬ ʊ̀	n̩ tɬ ʊ̀	2167
+175	10	l u m e	l u m e	2232
+176	4	l u m e	l u m e	2232
+177	6	u m e	- u m e	2232
+178	1	b i t i	b i t i	2243
+179	9	pʰ i r i	pʰ i r i	2243
+180	10	t u n u	t u n u	2244
+181	2	u ɲ u	- u ɲ u	2244
+182	1	ɔ ŋ g ɛ dʒ a	ɔ ŋ g ɛ dʒ a	2263
+183	6	o ŋ g e dʒ a	o ŋ g e dʒ a	2263
+184	1	g a t i i	g a t i i	2274
+185	6	ɣ a t i	ɣ a t - i	2274
+186	10	t u u m b o	t u u m b o	2287
+187	6	t u m b o	t u - m b o	2287
+188	6	v á v a	v á v a	2300
+189	9	b á b a	b á b a	2300
+190	10	p j o	p j o	2335
+191	4	f j o	f j o	2335
+192	1	β ʊ l á g a	β ʊ l á g a	2345
+193	10	w u l a g a	w u l a g a	2345
+194	1	ɲ a a ɲ z a a	ɲ a a ɲ z a a	2404
+195	10	ɲ a á s a	ɲ a á - s - a	2404
+196	10	s a a m b a	s a a m b a	2441
+197	8	s a m b a	s a - m b a	2441
+198	1	m ɔ s ɔ	m ɔ s ɔ	2471
+199	6	m o s o	m o s o	2471
+200	1	l a á m b a	l a á m b a	2496
+201	8	l á m b a	l á - m b a	2496
+202	10	g o n a	g o n a	2508
+203	2	k o n a	k o n a	2508
+204	4	l a a l	l a a l	2510
+205	5	l a l	l a - l	2510
+206	1	t i m a	t i m a	2561
+207	6	t i m a	t i m a	2561
+208	3	b a	b a -	2564
+209	5	ɓ a a	ɓ a a	2564
+210	2	s i k e	s i k e	2574
+211	6	z i ɣ e	z i ɣ e	2574
+212	6	n d a	n d a	2619
+213	9	n̩ t a	n̩ t a	2619
+214	1	b ʊ ʊ p ʊ	b ʊ ʊ p ʊ	2641
+215	10	p u u p u	p u u p u	2641
+216	7	k w e d i	k w e d i	2754
+217	9	qʰ w e d i	qʰ w e d i	2754
+218	5	ɲ ɔ ŋ	ɲ ɔ ŋ	2767
+219	9	n a ŋ̍	n a ŋ̍	2767
+220	1	s a a m a	s a a m a	2807
+221	6	s a m a	s a - m a	2807
+222	10	k o s i	k o s i	2840
+223	6	g o ʃ i	g o ʃ i	2840
+224	3	k ɔ r i	k ɔ r i	2842
+225	8	k o r o	k o r o	2842
+226	6	s i ŋ g o	s i ŋ g o	2876
+227	7	t î ŋ g o	t î ŋ g o	2876
+228	6	ʃ a	ʃ a	2887
+229	9	ʃ a	ʃ a	2887
+230	10	l o	l o	2894
+231	2	l o	l o	2894
+232	10	p u l a	p u l a	2917
+233	6	p u a	p u - a	2917
+234	6	m w e	m w e	2947
+235	7	m w e	m w e	2947
+236	1	l u g ʊ l a	l u g ʊ l a	2954
+237	10	w u g u l a	w u g u l a	2954
+238	10	e e t u	e e t u	2968
+239	6	e t u	e - t u	2968
+240	3	n dʒ e e	n dʒ e e	2975
+241	9	n̩ tɬ ɛ	n̩ tɬ - ɛ	2975
+242	2	o o β u l a	o o β u l a	3045
+243	9	o b ʊ l a	o - b ʊ l a	3045
+244	4	t u	t u	3068
+245	9	tʰ ʊ̀	tʰ ʊ̀	3068
+246	3	ŋ g u l u	ŋ g u l u	3077
+247	7	ŋ g u r u	ŋ g u r u	3077
+248	2	β j a a l a	β j a a l a	3123
+249	4	β j á l	β j á - l -	3123
+250	3	t ɔ g ɔ	t ɔ g ɔ	3138
+251	5	tʃ o k	tʃ o k -	3138
+252	10	p oː n d a	p oː n d a	3143
+253	7	p o n d a	p o n d a	3143
+254	7	k ô k a	k ô k a	3166
+255	9	χ ɔ χ a	χ ɔ χ a	3166
+256	5	t i n d ɛ	t i n d - - ɛ	3178
+257	7	t î n d e k a	t î n d e k a	3178
+258	10	w u n a	w u n a	3235
+259	6	v u n a	v u n a	3235
+260	4	k u l a	k u l a	3254
+261	8	k ʊ l a	k ʊ l a	3254
+262	2	f w a a n a	f w a - a n a	3298
+263	6	f w á n a n a	f w á n a n a	3298
+264	2	β a f u	β a f u	3321
+265	4	β a f u	β a f u	3321
+266	1	l j ɔ	l j ɔ	3330
+267	4	l j oː	l j oː	3330
+268	6	u m e	- u m e	3334
+269	8	d ʊ m e	d ʊ m e	3334
+270	10	dʒ e t e	dʒ e t e	3431
+271	4	tʃ e l e	tʃ e l e	3431
+272	3	k w a	- k w a	3432
+273	7	ŋ g w a	ŋ g w a	3432
+274	4	m o n	m o n -	3466
+275	7	m ô n a	m ô n a	3466
+276	8	m o n a	m o n a	3466
+277	6	d u r a	d u r a	3493
+278	8	k á r a	k á r a	3493
+279	1	s u m a	s u m a	3550
+280	6	tʃ u m a	tʃ u m a	3550
+281	3	t o ŋ g a	t o ŋ g a	3553
+282	7	t ô ŋ g a	t ô ŋ g a	3553
+283	4	s o n	s o n -	3554
+284	8	s o n a	s o n a	3554
+285	4	s o ŋ g o l	s o ŋ g o l -	3586
+286	8	s o ŋ g o l a	s o ŋ g o l a	3586
+287	1	m ɔ ɔ g a	m ɔ ɔ g a	3596
+288	10	m oː g a	m oː - g a	3596
+289	6	e ɲ dʒ a	- e ɲ dʒ a	3601
+290	7	ʃ e n d a	ʃ e n d a	3601
+291	2	g a β o	g a β o	3622
+292	8	g a b o	g a b o	3622
+293	6	i n d i	- i n d i	3635
+294	7	p î n d i	p î n d i	3635
+295	4	ʃ i ʃ i m	ʃ i ʃ i m - - -	3641
+296	8	s i s i m ʊ k a	s i s i m ʊ k a	3641
+297	5	k o p	k o p -	3724
+298	7	k ô β a	k ô β a	3724
+299	8	k o b a	k o b a	3724
+300	1	p i i	p i i	3744
+301	4	p i	p i -	3744
+302	10	k o v i	k o v i	3749
+303	6	k o f i	k o f i	3749
+304	2	tʰ i i tʰ i	tʰ i i tʰ i	3779
+305	7	d î d i	d î - d i	3779
+306	6	n u k a	n u k a	3807
+307	7	n u k a	n u k a	3807
+308	2	s i	s i	3817
+309	9	s i	s i	3817
+310	4	u ʃ i	u ʃ i	3819
+311	6	o ʃ i	o ʃ i	3819
+312	7	ɣ o n a	ɣ o n a	3842
+313	8	g o n a	g o n a	3842
+314	9	ɔ n a	- ɔ n a	3842
+315	2	b i l o	b i l o	3849
+316	8	b i l o	b i l o	3849
+317	10	s á v i	s á v i	3857
+318	6	s á v i	s á v i	3857
+319	2	dʒ a s i	dʒ - a s i	3867
+320	9	t ɬʰ á s i	t ɬʰ á s i	3867
+321	1	t a á n d ʊ	t a á n d ʊ	3903
+322	4	t a n d a	t a - n d a	3903
+323	2	a a l a	a a l a	3948
+324	9	a l a	a - l a	3948
+325	1	n i n a	n i n a	3970
+326	8	i nː a	- i nː a	3970
+327	6	z i ɣ i	z i ɣ i	4077
+328	8	z i g i	z i g i	4077
+329	2	k u k u m a	k u k u m a	4083
+330	6	g u g u m a	g u g u m a	4083
+331	1	ɔ ŋʰ a	ɔ ŋʰ a	4091
+332	9	a ɲ a	a ɲ a	4091
+333	10	o o ŋ g a	o o ŋ g a	4092
+334	4	o n k	o - n k -	4092
+335	6	o ŋ k a	o - ŋ k a	4092
+336	6	a m w a	- a m w a	4096
+337	7	ʝ a m w a	ʝ a m w a	4096
+338	1	g u β a	g u β a	4112
+339	6	ɣ u v a	ɣ u v a	4112
+340	3	k o g o	k o g o	4115
+341	5	k o g o	k o g o	4115
+342	1	ʊ ʊ β a	ʊ ʊ β a	4124
+343	10	u u v a	u u v a	4124
+344	4	s u β a	s u β a	4127
+345	6	z u v a	z u v a	4127
+346	7	ʝ u β a	ʝ u β a	4127
+347	10	t u k a n a	t u k a n a	4149
+348	7	t u k a	t u k - - a	4149
+349	8	s u g a	s u g - - a	4149
+350	10	t u k u t a	t u k u t a	4160
+351	4	t u k u t	t u k u t -	4160
+352	1	p j a á g ʊ l a	p j a á g ʊ l a	4170
+353	10	p j a a dʒ i l a	p j a a dʒ i l a	4170
+354	10	n d o o l o	n d o o l o	4182
+355	8	n d o l o	n d - o l o	4182
+356	1	k i l a	k i l a	4203
+357	8	k i l a	k i l a	4203
+358	10	tʃ i l a	tʃ i l a	4204
+359	4	tʃ i l a	tʃ i l a	4204
+360	2	f u u l a	f u u l a	4218
+361	4	f u u l	f u u l -	4218
+362	1	t a á ŋ g ɔ	t a á ŋ g ɔ	4282
+363	2	r a a ŋ g o	r a a ŋ g o	4282
+364	4	t u ŋ g u	t u ŋ g u	4285
+365	7	t u ŋ g i	t u ŋ g i	4285
+366	1	n ɔ ɔ t a	n ɔ ɔ t a	4294
+367	7	n ô t a	n ô - t a	4294
+368	10	i v a	i v a	4305
+369	6	i v a	i v a	4305
+370	3	l ɔ ɔ	l ɔ ɔ	4307
+371	5	l ɔ ɔ	l ɔ ɔ	4307
+372	2	tʰ a r u	tʰ a r u	4317
+373	3	ts á r o	ts á r o	4317
+374	4	k u p a	k u p a	4329
+375	7	k u p a	k u p a	4329
+376	9	qʰ ʊ f a	qʰ ʊ f a	4329
+377	2	x u tʰ u	x u tʰ u	4397
+378	9	kʰ u d u	kʰ u d u	4397
+379	5	k u l	k u l -	4400
+380	8	k u l u	k u l u	4400
+381	1	s u β a a l a	s u β a a l a	4473
+382	8	s ʊ b a l a	s ʊ b - a l a	4473
+383	10	s i	s i	4508
+384	4	ʃ i	ʃ i	4508
+385	6	z i	z i	4508
+386	1	z w i i	z w i i	4519
+387	7	ʝ w i	ʝ w i -	4519
+388	10	t a p i k a	t a p i k a	4531
+389	6	t á h i k a	t á h i k a	4531
+390	4	t a	t a	4544
+391	6	t a	t a	4544
+392	10	s i m a	s i m a	4585
+393	6	s i m a	s i m a	4585
+394	1	k i i	k i i	4593
+395	8	k i	k i -	4593
+396	6	v i	v i	4617
+397	7	v i	v i	4617
+398	2	p a p a l i l o	p a p a l i l o	4655
+399	8	p o p i l i l o	p o p i l i l o	4655
+400	10	e e n u	e e n u	4712
+401	6	e ɲ u	e - ɲ u	4712
+402	8	i ɲ ʊ	i - ɲ ʊ	4712

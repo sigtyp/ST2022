@@ -1,0 +1,819 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	MonpaDirang	a ʃ i	a ʃ i	2
+2	MonpaNamsu	a ʃ i	a ʃ i	2
+3	MonpaTembang	a ʃ i	a ʃ i	2
+4	MonpaSangti	dʒ a ŋ	dʒ a ŋ	5
+5	MonpaTomko	dʒ a ŋ	dʒ a ŋ	5
+6	MonpaDirangDum	z a m i ŋ	z a m i ŋ - - - - -	66
+7	MonpaSangti	z a m i n	z a m i n - - - - -	66
+8	MonpaTomko	z a m i n z i m b u	z a m i n z i m b u	66
+9	MonpaKalaktang	n a n	n a n	67
+10	MonpaNamsu	n a n	n a n	67
+11	MonpaBalemu	d̪ a n	d̪ a n	72
+12	MonpaDirangDum	d̪ a n	d̪ a n	72
+13	MonpaSangti	d̪ a n	d̪ a n	72
+14	MonpaKalaktang	n a n	n a n	74
+15	MonpaNamsu	n a n	n a n	74
+16	MonpaNamsu	kʰ a r i	kʰ a r i	117
+17	MonpaTembang	kʰ a r i	kʰ a r i	117
+18	MonpaBalemu	dʒ a p	dʒ a p	134
+19	MonpaTomko	dʒ a p	dʒ a p	134
+20	MonpaDirang	tʃʰ i ŋ kʰ a ŋ	tʃʰ i ŋ kʰ a ŋ	135
+21	MonpaDirangDum	tʃʰ i ŋ kʰ a ŋ	tʃʰ i ŋ kʰ a ŋ	135
+22	MonpaKalaktang	tʃʰ i ŋ kʰ a ŋ	tʃʰ i ŋ kʰ a ŋ	135
+23	MonpaNamsu	g e tʃ i k	g e tʃ i k	136
+24	MonpaSangti	g e tʃ i	g e tʃ i -	136
+25	MonpaTembang	g e tʃ i k	g e tʃ i k	136
+26	MonpaBalemu	l i ʃ i ŋ	l i ʃ i ŋ	153
+27	MonpaKalaktang	l i ʃ i ŋ	l i ʃ i ŋ	153
+28	MonpaDirang	n i z u m b a	n i z u m b a	181
+29	MonpaDirangDum	n i z u m b a	n i z u m b a	181
+30	MonpaNamsu	m i z u ŋ b a	m i z u ŋ b a	181
+31	MonpaSangti	n u z u m b a	n u z u m b a	181
+32	MonpaTembang	m i z u m b a	m i z u m b a	181
+33	MonpaTomko	n i z u m b a	n i z u m b a	181
+34	MonpaDirang	pʰ ɾ a ŋ g a	pʰ ɾ a ŋ g a	200
+35	MonpaDirangDum	pʰ ɾ a ŋ g a	pʰ ɾ a ŋ g a	200
+36	MonpaSangti	pʰ ɾ a ŋ g a	pʰ ɾ a ŋ g a	200
+37	MonpaTembang	pʰ ɾ a ŋ g a	pʰ ɾ a ŋ g a	200
+38	MonpaNamsu	t o ŋ t e	t o ŋ t e	202
+39	MonpaTomko	t o ŋ t e	t o ŋ t e	202
+40	MonpaBalemu	g o i	g o i	210
+41	MonpaDirang	g o i	g o i	210
+42	MonpaDirangDum	g o i	g o i	210
+43	MonpaKalaktang	g o i	g o i	210
+44	MonpaNamsu	g o i	g o i	210
+45	MonpaTomko	g o i	g o i	210
+46	MonpaBalemu	kʰ a l u	kʰ a l u	238
+47	MonpaKalaktang	kʰ a l u	kʰ a l u	238
+48	MonpaTomko	kʰ a l u	kʰ a l u	238
+49	MonpaDirang	kʰ a w a n	kʰ a w a n	239
+50	MonpaDirangDum	kʰ a w a n	kʰ a w a n	239
+51	MonpaSangti	kʰ a w a n	kʰ a w a n	239
+52	MonpaBalemu	j i	j i	266
+53	MonpaKalaktang	j i	j i	266
+54	MonpaDirang	dʒ i	dʒ i	267
+55	MonpaDirangDum	dʒ i	dʒ i	267
+56	MonpaNamsu	dʒ i	dʒ i	267
+57	MonpaSangti	dʒ i	dʒ i	267
+58	MonpaTembang	dʒ i	dʒ i	267
+59	MonpaTomko	dʒ i	dʒ i	267
+60	MonpaDirang	dʒ a tʃ i	dʒ a - tʃ i	276
+61	MonpaSangti	dʒ a ɲ tʃ i	dʒ a ɲ tʃ i	276
+62	MonpaBalemu	a l e j a k	a l e j a k	310
+63	MonpaKalaktang	a l a k	a l - - a k	310
+64	MonpaTomko	a l j a k	a l - j a k	310
+65	MonpaDirang	d a	d a	311
+66	MonpaNamsu	d a	d a	311
+67	MonpaSangti	d a	d a	311
+68	MonpaTembang	d a	d a	311
+69	MonpaBalemu	pʰ o t k a	pʰ o t k a -	319
+70	MonpaDirang	pʰ o t p a n	pʰ o t p a n	319
+71	MonpaNamsu	pʰ o t k a n	pʰ o t k a n	319
+72	MonpaSangti	pʰ o t k a n	pʰ o t k a n	319
+73	MonpaTembang	pʰ u t kʰ e n	pʰ u t kʰ e n	319
+74	MonpaTomko	p o t p a n	p o t p a n	319
+75	MonpaDirang	tʃ a n tʃ a ɾ a n	tʃ a n tʃ a ɾ a n	329
+76	MonpaDirangDum	tʃ a n tʃ a ɾ a n	tʃ a n tʃ a ɾ a n	329
+77	MonpaNamsu	tʃ a n tʃ a ɾ a n	tʃ a n tʃ a ɾ a n	329
+78	MonpaSangti	tʃ a n tʃ a ɾ a n	tʃ a n tʃ a ɾ a n	329
+79	MonpaTembang	tʃ a n tʃ a ɾ a n	tʃ a n tʃ a ɾ a n	329
+80	MonpaBalemu	m u m t̪ o k l o m	m u m t̪ o k l o m	347
+81	MonpaKalaktang	m u m t̪ o k l o m	m u m t̪ o k l o m	347
+82	MonpaBalemu	k o b i	k o b i	373
+83	MonpaDirang	k o b i	k o b i	373
+84	MonpaSangti	k o b i	k o b i	373
+85	MonpaBalemu	g u ɾ gʱ a ŋ	g u ɾ gʱ a ŋ	379
+86	MonpaKalaktang	kʰ u r kʰ a ŋ	kʰ u r kʰ a ŋ	379
+87	MonpaNamsu	kʰ u r kʰ a ŋ	kʰ u r kʰ a ŋ	379
+88	MonpaTembang	kʰ u r kʰ a ŋ	kʰ u r kʰ a ŋ	379
+89	MonpaDirang	d̪ o ŋ p a	d̪ o ŋ p a	380
+90	MonpaDirangDum	d̪ u ŋ p a	d̪ u ŋ p a	380
+91	MonpaTomko	t o ŋ p a	t o ŋ p a	380
+92	MonpaBalemu	g u w a	g u w a	388
+93	MonpaKalaktang	g o w a	g o w a	388
+94	MonpaDirang	g o g a	g o g a	389
+95	MonpaDirangDum	g o g a	g o g a	389
+96	MonpaNamsu	g o g a	g o g a	389
+97	MonpaSangti	g o g a	g o g a	389
+98	MonpaTembang	g o g a	g o g a	389
+99	MonpaTomko	g o g a	g o g a	389
+100	MonpaBalemu	kʰ a m u ŋ	kʰ a m u ŋ	415
+101	MonpaDirangDum	kʰ a u	kʰ a - u -	415
+102	MonpaNamsu	kʰ a u	kʰ a - u -	415
+103	MonpaTembang	kʰ a u	kʰ a - u -	415
+104	MonpaTomko	kʰ a m u	kʰ a m u -	415
+105	MonpaDirang	kʰ a m tʃ u d a ŋ	kʰ a m tʃ u d a ŋ	416
+106	MonpaSangti	kʰ a m tʃ u d a ŋ	kʰ a m tʃ u d a ŋ	416
+107	MonpaBalemu	n a ɾ i k o l	n a ɾ i k o l	445
+108	MonpaTomko	n a ɾ i k o l	n a ɾ i k o l	445
+109	MonpaDirang	n a ɾ i j a l	n a ɾ i j a l	446
+110	MonpaNamsu	n a ɾ i j a l	n a ɾ i j a l	446
+111	MonpaTembang	n a ɾ i j a l	n a ɾ i j a l	446
+112	MonpaBalemu	tʃ a ŋ p u	tʃ a ŋ p u	453
+113	MonpaDirang	tʃʰ a ŋ p u	tʃʰ a ŋ p u	453
+114	MonpaKalaktang	tʃʰ a ŋ p u	tʃʰ a ŋ p u	453
+115	MonpaNamsu	tʃ a ŋ p u	tʃ a ŋ p u	453
+116	MonpaTembang	tʃ a ŋ p u	tʃ a ŋ p u	453
+117	MonpaTomko	tʃ a ŋ p u	tʃ a ŋ p u	453
+118	MonpaDirangDum	kʰ u r l a	kʰ u r l a -	454
+119	MonpaKalaktang	k u r b a n	k u r b a n	454
+120	MonpaSangti	kʰ u r l a	kʰ u r l a -	454
+121	MonpaBalemu	t o	t o	463
+122	MonpaKalaktang	t o	t o	463
+123	MonpaDirang	t o tʃ a ŋ	t o tʃ a ŋ	464
+124	MonpaDirangDum	t o tʃ a ŋ	t o tʃ a ŋ	464
+125	MonpaNamsu	t o tʃ a ŋ	t o tʃ a ŋ	464
+126	MonpaSangti	t o tʃ a ŋ	t o tʃ a ŋ	464
+127	MonpaTembang	t o ʃ a ŋ	t o ʃ a ŋ	464
+128	MonpaDirangDum	ɾ i d o n	ɾ i d o n	493
+129	MonpaKalaktang	ɾ i d o n	ɾ i d o n	493
+130	MonpaNamsu	ɾ i d o n	ɾ i d o n	493
+131	MonpaSangti	ɾ i d o n	ɾ i d o n	493
+132	MonpaTembang	ɾ i d o n	ɾ i d o n	493
+133	MonpaBalemu	ŋ a m	ŋ a m	508
+134	MonpaDirang	ŋ a m	ŋ a m	508
+135	MonpaNamsu	ŋ a m	ŋ a m	508
+136	MonpaSangti	ŋ a m	ŋ a m	508
+137	MonpaTembang	ŋ a m	ŋ a m	508
+138	MonpaTomko	ŋ a m	ŋ a m	508
+139	MonpaDirangDum	t̪ i n u ŋ a m tʰ u r	t̪ i n u ŋ a m tʰ u r	509
+140	MonpaKalaktang	ŋ a m tʰ u r	- - - - ŋ a m tʰ u r	509
+141	MonpaBalemu	t i ŋ p u	t i ŋ p u	517
+142	MonpaKalaktang	t i ŋ p u	t i ŋ p u	517
+143	MonpaDirang	t o ŋ tʃ e n	t o ŋ tʃ e n	518
+144	MonpaNamsu	t o ŋ tʃ e n	t o ŋ tʃ e n	518
+145	MonpaSangti	t o ŋ tʃ e n	t o ŋ tʃ e n	518
+146	MonpaTembang	t o ŋ tʃ e n	t o ŋ tʃ e n	518
+147	MonpaBalemu	s a ŋ k a	s a ŋ k a	562
+148	MonpaKalaktang	s a ŋ k a	s a ŋ k a	562
+149	MonpaDirang	s a ŋ b u	s a ŋ b u - -	563
+150	MonpaDirangDum	s a ŋ b o l a	s a ŋ b o l a	563
+151	MonpaNamsu	s a ŋ b u	s a ŋ b u - -	563
+152	MonpaSangti	s a ŋ b u	s a ŋ b u - -	563
+153	MonpaTembang	s a ŋ b u	s a ŋ b u - -	563
+154	MonpaTomko	s a ŋ b u	s a ŋ b u - -	563
+155	MonpaBalemu	b l a s a	b l a s a	580
+156	MonpaTomko	b l a s a	b l a s a	580
+157	MonpaDirang	d u i p a	d u i p a	581
+158	MonpaDirangDum	d u i p a	d u i p a	581
+159	MonpaNamsu	d u i p a	d u i p a	581
+160	MonpaSangti	d u i p a	d u i p a	581
+161	MonpaTembang	d u i p a	d u i p a	581
+162	MonpaBalemu	p u r tʃ i	p u r tʃ i	582
+163	MonpaKalaktang	p u r tʃ i	p u r tʃ i	582
+164	MonpaBalemu	n a	n a	590
+165	MonpaKalaktang	n a	n a	590
+166	MonpaTomko	n a	n a	590
+167	MonpaDirang	n e g a ŋ	n e - - g a ŋ	591
+168	MonpaDirangDum	n e g a ŋ	n e - - g a ŋ	591
+169	MonpaNamsu	n e g a ŋ	n e - - g a ŋ	591
+170	MonpaSangti	n e j a g a ŋ	n e j a g a ŋ	591
+171	MonpaTembang	n e g a ŋ	n e - - g a ŋ	591
+172	MonpaDirang	g a ɾ a ŋ k i l i	g a ɾ a ŋ k i l i	627
+173	MonpaDirangDum	g a ɾ a ŋ k i l i	g a ɾ a ŋ k i l i	627
+174	MonpaNamsu	g a ɾ a ŋ k i l i	g a ɾ a ŋ k i l i	627
+175	MonpaTembang	g a ɾ a ŋ k i l i	g a ɾ a ŋ k i l i	627
+176	MonpaTomko	g a ɾ a ŋ k i l i	g a ɾ a ŋ k i l i	627
+177	MonpaBalemu	a t a	a t a	635
+178	MonpaKalaktang	a t a	a t a	635
+179	MonpaDirangDum	a u	a - u	637
+180	MonpaKalaktang	a u	a - u	637
+181	MonpaNamsu	a u	a - u	637
+182	MonpaSangti	a w u	a w u	637
+183	MonpaTembang	a u	a - u	637
+184	MonpaTomko	a u	a - u	637
+185	MonpaDirang	s a tʃ i l a	s a tʃ i l a	655
+186	MonpaDirangDum	s a tʃ i l a	s a tʃ i l a	655
+187	MonpaNamsu	s a tʃ i l a	s a tʃ i l a	655
+188	MonpaSangti	s a tʃ i l a	s a tʃ i l a	655
+189	MonpaTembang	s e tʃ i l a	s e tʃ i l a	655
+190	MonpaBalemu	tʰ a ŋ p u	tʰ a ŋ p u	728
+191	MonpaTomko	tʰ a ŋ p u	tʰ a ŋ p u	728
+192	MonpaDirang	b i ŋ tʃ e n	b i ŋ tʃ e n	729
+193	MonpaDirangDum	b i ŋ tʃ e n	b i ŋ tʃ e n	729
+194	MonpaSangti	b i ŋ tʃ e n	b i ŋ tʃ e n	729
+195	MonpaTembang	b i ŋ tʃ e n	b i ŋ tʃ e n	729
+196	MonpaBalemu	a n i ŋ tʰ u r	a n i ŋ tʰ u r	754
+197	MonpaKalaktang	a n i tʰ u r	a n i - tʰ u r	754
+198	MonpaNamsu	tʃ a tʰ u r	- tʃ a - tʰ u r	754
+199	MonpaSangti	s a ŋ tʰ u r	- s a ŋ tʰ u r	754
+200	MonpaTembang	tʃ a tʰ u r	- tʃ a - tʰ u r	754
+201	MonpaTomko	a ŋ tʰ u r	a - - ŋ tʰ u r	754
+202	MonpaDirang	tʃ j a m t u ɾ t a	tʃ j a m t u ɾ t a	755
+203	MonpaDirangDum	tʃ j a m t u ɾ t a	tʃ j a m t u ɾ t a	755
+204	MonpaBalemu	g a ɾ a ŋ b r u m a	g a ɾ a ŋ b r u m a	764
+205	MonpaDirang	g a ɾ a ŋ b r u m a	g a ɾ a ŋ b r u m a	764
+206	MonpaDirangDum	g a ɾ a ŋ b r u m a	g a ɾ a ŋ b r u m a	764
+207	MonpaKalaktang	g ă z a ŋ b r u m a	g ă z a ŋ b r u m a	764
+208	MonpaSangti	g a ɾ a ŋ b r u m a	g a ɾ a ŋ b r u m a	764
+209	MonpaTomko	g a ɾ a ŋ b r u m a	g a ɾ a ŋ b r u m a	764
+210	MonpaBalemu	g a ɾ a ŋ tʃ i ŋ n a ŋ	g a ɾ a ŋ tʃ i ŋ n a ŋ	773
+211	MonpaKalaktang	g ă z a ŋ tʃ i ŋ n a	g ă z a ŋ tʃ i ŋ n a -	773
+212	MonpaNamsu	g a ɾ a ŋ tʃ i ŋ n a ŋ	g a ɾ a ŋ tʃ i ŋ n a ŋ	773
+213	MonpaTembang	g a ɾ a ŋ tʃ i ŋ n a ŋ	g a ɾ a ŋ tʃ i ŋ n a ŋ	773
+214	MonpaDirang	tʃ i n a ŋ	tʃ i n a ŋ	774
+215	MonpaDirangDum	tʃ i n a ŋ	tʃ i n a ŋ	774
+216	MonpaSangti	tʃ i n a ŋ	tʃ i n a ŋ	774
+217	MonpaTomko	tʃ i n a ŋ	tʃ i n a ŋ	774
+218	MonpaDirang	z a m b a	z a m b a	819
+219	MonpaDirangDum	z a m b a	z a m b a	819
+220	MonpaNamsu	z a m b a	z a m b a	819
+221	MonpaSangti	z a m b a	z a m b a	819
+222	MonpaTembang	z a m b a	z a m b a	819
+223	MonpaTomko	z a m b a	z a m b a	819
+224	MonpaBalemu	bʱ i	bʱ i -	827
+225	MonpaDirangDum	bʱ i	bʱ i -	827
+226	MonpaKalaktang	bʱ i	bʱ i -	827
+227	MonpaNamsu	b i h̥	b i h̥	827
+228	MonpaSangti	b i h̥	b i h̥	827
+229	MonpaTembang	bʱ i	bʱ i -	827
+230	MonpaBalemu	p a i pʰ u	p a i pʰ u	854
+231	MonpaKalaktang	p a i p u	p a i p u	854
+232	MonpaTomko	p e p u	p e - p u	854
+233	MonpaDirang	b e ŋ k u ɾ t a	b e ŋ k u ɾ t a	855
+234	MonpaNamsu	b e ŋ k u t̪ a	b e ŋ k u - t̪ a	855
+235	MonpaSangti	b e ŋ k u t̪ a	b e ŋ k u - t̪ a	855
+236	MonpaDirangDum	k j a k p a	k j a k p a	856
+237	MonpaTembang	k j a k p a	k j a k p a	856
+238	MonpaBalemu	s e	s e	863
+239	MonpaDirangDum	s e	s e	863
+240	MonpaKalaktang	s e	s e	863
+241	MonpaDirang	g o ŋ	g o ŋ	864
+242	MonpaNamsu	g o ŋ	g o ŋ	864
+243	MonpaSangti	z a s	z a s	865
+244	MonpaTembang	z a s	z a s	865
+245	MonpaBalemu	pʰ u ŋ k a	pʰ u ŋ k a	872
+246	MonpaKalaktang	pʰ u ŋ k a	pʰ u ŋ k a	872
+247	MonpaDirang	pʰ u ŋ b e	pʰ u ŋ b e	873
+248	MonpaDirangDum	pʰ u ŋ b e	pʰ u ŋ b e	873
+249	MonpaNamsu	pʰ u ŋ b e	pʰ u ŋ b e	873
+250	MonpaSangti	pʰ u ŋ b e	pʰ u ŋ b e	873
+251	MonpaTembang	pʰ u ŋ b e	pʰ u ŋ b e	873
+252	MonpaBalemu	l j a k p u	l j a k p u	908
+253	MonpaKalaktang	l e k p u	- l e k p u	908
+254	MonpaTomko	j a k p u	- j a k p u	908
+255	MonpaDirang	pʰ e l u l a	pʰ e l u l a	909
+256	MonpaDirangDum	pʰ e l u l a	pʰ e l u l a	909
+257	MonpaNamsu	pʰ e l o	pʰ e l - - o	909
+258	MonpaSangti	pʰ e l o	pʰ e l - - o	909
+259	MonpaTembang	pʰ e l u l a	pʰ e l u l a	909
+260	MonpaDirang	j a ŋ l u	j a ŋ l u -	918
+261	MonpaDirangDum	j a ŋ l u	j a ŋ l u -	918
+262	MonpaNamsu	j a ŋ l u	j a ŋ l u -	918
+263	MonpaSangti	j a ŋ l u ŋ	j a ŋ l u ŋ	918
+264	MonpaTembang	j a ŋ l u ŋ	j a ŋ l u ŋ	918
+265	MonpaTomko	j a ŋ l u ŋ	j a ŋ l u ŋ	918
+266	MonpaDirang	tʰ o ŋ	- - tʰ o ŋ	936
+267	MonpaDirangDum	tʰ o ŋ	- - tʰ o ŋ	936
+268	MonpaNamsu	t o ŋ	- - t o ŋ	936
+269	MonpaSangti	kʰ a t o ŋ	kʰ a t o ŋ	936
+270	MonpaBalemu	s e m	s e m	962
+271	MonpaNamsu	s e m	s e m	962
+272	MonpaTomko	s e m	s e m	962
+273	MonpaDirangDum	tʰ i m l u ŋ	tʰ i m l u ŋ	964
+274	MonpaSangti	tʰ i m l u ŋ	tʰ i m l u ŋ	964
+275	MonpaKalaktang	tʰ i ŋ l o m	tʰ i ŋ l o m	965
+276	MonpaTembang	tʰ i ŋ l o m	tʰ i ŋ l o m	965
+277	MonpaBalemu	tʃʰ a b u l a	tʃʰ a b u l a	989
+278	MonpaKalaktang	tʃʰ a b u	tʃʰ a b u - -	989
+279	MonpaDirang	tʃ o tʃ o	tʃ o tʃ o	990
+280	MonpaNamsu	tʃ o tʃ o	tʃ o tʃ o	990
+281	MonpaSangti	tʃ o tʃ o	tʃ o tʃ o	990
+282	MonpaTembang	tʃ o tʃ o	tʃ o tʃ o	990
+283	MonpaTomko	tʃ o	tʃ o - -	990
+284	MonpaBalemu	d u ŋ d u ŋ m a	d u ŋ d u ŋ m a	1007
+285	MonpaKalaktang	d u ŋ d u ŋ m a	d u ŋ d u ŋ m a	1007
+286	MonpaDirang	a b i tʃ a ŋ	a b i - tʃ a ŋ	1008
+287	MonpaSangti	a b i tʃ a ŋ	a b i - tʃ a ŋ	1008
+288	MonpaTembang	a i p tʃ a ŋ	a - i p tʃ a ŋ	1008
+289	MonpaBalemu	g e s a ŋ	g e s a ŋ - -	1013
+290	MonpaDirang	g e dʒ a ŋ j a	g e dʒ a ŋ j a	1013
+291	MonpaNamsu	g e dʒ a ŋ	g e dʒ a ŋ - -	1013
+292	MonpaTembang	g e dʒ a ŋ	g e dʒ a ŋ - -	1013
+293	MonpaTomko	k e z a ŋ	k e z a ŋ - -	1013
+294	MonpaDirangDum	g e s t̪ u j a	g e s t̪ u j a	1014
+295	MonpaSangti	g e s t̪ u r	g e s t̪ u r -	1014
+296	MonpaBalemu	pʰ u i b u	pʰ u i b u	1040
+297	MonpaKalaktang	pʰ o i b u	pʰ o i b u	1040
+298	MonpaDirangDum	j u ŋ p a	j u ŋ p a	1042
+299	MonpaNamsu	j u ŋ p a	j u ŋ p a	1042
+300	MonpaTembang	j u ŋ p a	j u ŋ p a	1042
+301	MonpaTomko	j u ŋ p a	j u ŋ p a	1042
+302	MonpaBalemu	kʰ o l o k p a	kʰ o l o k p a	1060
+303	MonpaDirangDum	k o l o k p a	k o l o k p a	1060
+304	MonpaSangti	k o l o k p a	k o l o k p a	1060
+305	MonpaDirang	g u m z i ŋ	g u m z i ŋ	1061
+306	MonpaNamsu	g u m z i ŋ	g u m z i ŋ	1061
+307	MonpaTembang	g u m z i ŋ	g u m z i ŋ	1061
+308	MonpaBalemu	j o n	j o n	1088
+309	MonpaKalaktang	j o n	j o n	1088
+310	MonpaTomko	j o n	j o n	1088
+311	MonpaDirang	j o m l o k p a ts o k	j o m l o k p a ts o k	1089
+312	MonpaNamsu	j o m l o k p a ts o k	j o m l o k p a ts o k	1089
+313	MonpaTembang	j o m l o k p a ts o k	j o m l o k p a ts o k	1089
+314	MonpaBalemu	t̪ a ŋ h e p k a	t̪ a ŋ h e - p k a -	1108
+315	MonpaTomko	t̪ a ŋ h e m p a n	t̪ a ŋ h e m p - a n	1108
+316	MonpaNamsu	t a ŋ l e m	t a ŋ l e m - - -	1112
+317	MonpaTembang	t a ŋ l e m kʰ e n	t a ŋ l e m kʰ e n	1112
+318	MonpaDirang	tʃʰ u i	tʃʰ u - i	1118
+319	MonpaTomko	tʰ u l i	tʰ u l i	1118
+320	MonpaBalemu	b ă ŋ tʃ a ŋ	b ă ŋ tʃ a ŋ	1132
+321	MonpaDirangDum	b ă ŋ tʃ a ŋ	b ă ŋ tʃ a ŋ	1132
+322	MonpaTomko	b ă ŋ tʃ a ŋ	b ă ŋ tʃ a ŋ	1132
+323	MonpaDirang	j u	j u	1133
+324	MonpaKalaktang	j u	j u	1133
+325	MonpaNamsu	j u	j u	1133
+326	MonpaSangti	j u	j u	1133
+327	MonpaTembang	j u	j u	1133
+328	MonpaBalemu	s o ŋ o	s o ŋ o	1150
+329	MonpaDirangDum	z o ŋ a	z o ŋ a	1150
+330	MonpaNamsu	s o ŋ a	s o ŋ a	1150
+331	MonpaSangti	s o ŋ a	s o ŋ a	1150
+332	MonpaTembang	s o ŋ a	s o ŋ a	1150
+333	MonpaBalemu	o t p a	o t p a	1169
+334	MonpaKalaktang	o t p a	o t p a	1169
+335	MonpaDirang	tʃʰ a tʃʰ a	tʃʰ a tʃʰ a	1170
+336	MonpaDirangDum	tʃʰ a tʃʰ a	tʃʰ a tʃʰ a	1170
+337	MonpaNamsu	tʃʰ a tʃʰ a	tʃʰ a tʃʰ a	1170
+338	MonpaTembang	tʃ a tʃ i	tʃ a tʃ i	1170
+339	MonpaBalemu	t r o ŋ tʃ u m	t - r o ŋ tʃ u - m -	1244
+340	MonpaDirang	k u ɾ o ŋ tʃ u ŋ b u	k u ɾ o ŋ tʃ u ŋ b u	1244
+341	MonpaDirangDum	k u ɾ o ŋ tʃ u ŋ b u	k u ɾ o ŋ tʃ u ŋ b u	1244
+342	MonpaKalaktang	t r o ŋ tʃ u m	t - r o ŋ tʃ u - m -	1244
+343	MonpaNamsu	k r o ŋ tʃ u ŋ	k - r o ŋ tʃ u ŋ - -	1244
+344	MonpaTembang	k r o ŋ tʃ u ŋ	k - r o ŋ tʃ u ŋ - -	1244
+345	MonpaDirang	ɾ j u	ɾ j u	1263
+346	MonpaDirangDum	ɾ j u	ɾ j u	1263
+347	MonpaSangti	ɾ j u	ɾ j u	1263
+348	MonpaTembang	ɾ j u	ɾ j u	1263
+349	MonpaKalaktang	z o ɾ	z o ɾ	1264
+350	MonpaTomko	z o ɾ	z o ɾ	1264
+351	MonpaBalemu	s o ŋ o	s o ŋ o	1460
+352	MonpaDirang	s o ŋ a	s o ŋ a	1460
+353	MonpaKalaktang	s o ŋ o	s o ŋ o	1460
+354	MonpaNamsu	s o ŋ a	s o ŋ a	1460
+355	MonpaSangti	s o ŋ	s o ŋ -	1460
+356	MonpaTembang	s o ŋ a	s o ŋ a	1460
+357	MonpaBalemu	p a s a g o ŋ	p a s a g o ŋ	1486
+358	MonpaKalaktang	p a s a g o m	p a s a g o m	1486
+359	MonpaDirang	dʒ o g t a ŋ	dʒ o g t a ŋ	1487
+360	MonpaDirangDum	dʒ o g t a ŋ	dʒ o g t a ŋ	1487
+361	MonpaNamsu	dʒ o k t a ŋ	dʒ o k t a ŋ	1487
+362	MonpaSangti	dʒ o k t a ŋ	dʒ o k t a ŋ	1487
+363	MonpaTembang	tʃ o k t̪ a ŋ	tʃ o k t̪ a ŋ	1487
+364	MonpaTomko	tʃ o k t̪ a ŋ	tʃ o k t̪ a ŋ	1487
+365	MonpaDirang	tʃʰ u	tʃʰ u	1521
+366	MonpaDirangDum	tʃʰ u	tʃʰ u	1521
+367	MonpaNamsu	tʃʰ u	tʃʰ u	1521
+368	MonpaSangti	tʃʰ u	tʃʰ u	1521
+369	MonpaTembang	tʃʰ u	tʃʰ u	1521
+370	MonpaTomko	tʃʰ u	tʃʰ u	1521
+371	MonpaBalemu	j a s	j a s	1547
+372	MonpaKalaktang	j a s	j a s	1547
+373	MonpaTomko	j a s	j a s	1547
+374	MonpaDirang	pʰ e l u tʃ o k	pʰ e l u tʃ o k	1548
+375	MonpaNamsu	pʰ e l u tʃ o k	pʰ e l u tʃ o k	1548
+376	MonpaSangti	pʰ e l u tʃ o k	pʰ e l u tʃ o k	1548
+377	MonpaBalemu	m ĭ n k a	m ĭ n k a -	1566
+378	MonpaDirang	m i n p a n	m i n p a n	1566
+379	MonpaKalaktang	m ĭ n k a	m ĭ n k a -	1566
+380	MonpaTembang	m i ŋ kʰ e n	m i ŋ kʰ e n	1566
+381	MonpaBalemu	ɾ i j a m a	ɾ i j a m a	1575
+382	MonpaKalaktang	ɾ i j a m a	ɾ i j a m a	1575
+383	MonpaDirang	g o ŋ ɾ i	- - g o ŋ ɾ i	1576
+384	MonpaNamsu	g o ŋ ɾ i	- - g o ŋ ɾ i	1576
+385	MonpaSangti	ɾ i g o ŋ ɾ i	ɾ i g o ŋ ɾ i	1576
+386	MonpaDirangDum	ɾ i	ɾ i	1577
+387	MonpaTembang	ɾ i	ɾ i	1577
+388	MonpaBalemu	g a ɾ i l a m	g a ɾ i l a m	1584
+389	MonpaDirang	g a ɾ i l a m	g a ɾ i l a m	1584
+390	MonpaNamsu	g a ɾ i l a m	g a ɾ i l a m	1584
+391	MonpaSangti	g a ɾ i l a m	g a ɾ i l a m	1584
+392	MonpaTomko	g a ɾ i l a m	g a ɾ i l a m	1584
+393	MonpaDirangDum	l a m	l a m	1585
+394	MonpaKalaktang	l a m	l a m	1585
+395	MonpaTembang	l a m	l a m	1585
+396	MonpaBalemu	pʰ a i b ŭ ŋ n a ŋ	pʰ a i b ŭ ŋ n a ŋ	1593
+397	MonpaKalaktang	pʰ a i b ŭ ŋ n a ŋ	pʰ a i b ŭ ŋ n a ŋ	1593
+398	MonpaDirang	pʰ e i tʰ u ŋ	pʰ e i tʰ u ŋ	1594
+399	MonpaNamsu	pʰ e i tʰ u ŋ	pʰ e i tʰ u ŋ	1594
+400	MonpaSangti	pʰ e tʰ u ŋ	pʰ e - tʰ u ŋ	1594
+401	MonpaTembang	pʰ e i tʰ u ŋ	pʰ e i tʰ u ŋ	1594
+402	MonpaTomko	pʰ e tʰ u ŋ	pʰ e - tʰ u ŋ	1594
+403	MonpaBalemu	tʃ a	tʃ a	1602
+404	MonpaKalaktang	tʃ a	tʃ a	1602
+405	MonpaTomko	tʃ a	tʃ a	1602
+406	MonpaDirang	r a	r a	1603
+407	MonpaDirangDum	r a	r a	1603
+408	MonpaNamsu	ɾ u	ɾ u	1603
+409	MonpaSangti	r a	r a	1603
+410	MonpaTembang	ɾ u	ɾ u	1603
+411	MonpaBalemu	ɕ i t k a l a	ɕ i t k a l a	1611
+412	MonpaSangti	ʃ i k a n	ʃ i - k a n -	1611
+413	MonpaTembang	z i t kʰ e n	z i t kʰ e n -	1611
+414	MonpaDirang	dʒ i p a n	dʒ i - p a n	1612
+415	MonpaNamsu	dʒ i d p æ n	dʒ i d p æ n	1612
+416	MonpaTomko	dʒ i p a n	dʒ i - p a n	1612
+417	MonpaBalemu	d̪ u l u l a	d̪ u l u l a	1627
+418	MonpaKalaktang	d o l u	d o l u - -	1627
+419	MonpaDirang	ɾ i tʃ i k p u	ɾ i tʃ i k p u	1628
+420	MonpaDirangDum	ɾ i tʃ i k p u	ɾ i tʃ i k p u	1628
+421	MonpaSangti	ɾ i tʃ i k p u	ɾ i tʃ i k p u	1628
+422	MonpaNamsu	ŋ o n b u	ŋ o n b u	1629
+423	MonpaTembang	ŋ o n b u	ŋ o n b u	1629
+424	MonpaDirang	tʃ o	tʃ o	1646
+425	MonpaDirangDum	tʃ o	tʃ o	1646
+426	MonpaKalaktang	tʃ o	tʃ o	1646
+427	MonpaTembang	tʃ o	tʃ o	1646
+428	MonpaSangti	ɾ i t a ŋ p u	ɾ i t a ŋ p u	1648
+429	MonpaTomko	ɾ i t a ŋ p u	ɾ i t a ŋ p u	1648
+430	MonpaBalemu	l e m a	l e m a	1672
+431	MonpaKalaktang	l e m a	l e m a	1672
+432	MonpaBalemu	z i m u	z i m - u	1734
+433	MonpaDirangDum	z i m b u	z i m b u	1734
+434	MonpaKalaktang	z i m u	z i m - u	1734
+435	MonpaNamsu	z e m b u	z e m b u	1734
+436	MonpaSangti	z i m b u	z i m b u	1734
+437	MonpaTembang	z i m b u	z i m b u	1734
+438	MonpaBalemu	s a h̥	s a h̥	1760
+439	MonpaDirang	s a h̥	s a h̥	1760
+440	MonpaDirangDum	s a	s a -	1760
+441	MonpaKalaktang	s a	s a -	1760
+442	MonpaNamsu	s a ʔ	s a ʔ	1761
+443	MonpaSangti	s a h̥	s a h̥	1761
+444	MonpaDirang	tʃ j a ŋ	- tʃ j a ŋ	1770
+445	MonpaNamsu	o tʃ a n	o tʃ - a n	1770
+446	MonpaSangti	h a ŋ a n u	h a ŋ - a n u	1773
+447	MonpaTomko	h a ŋ g i n u	h a ŋ g i n u	1773
+448	MonpaBalemu	kʰ a b a ɾ a	kʰ a b a ɾ a	1796
+449	MonpaDirang	kʰ a b a r	kʰ a b a r -	1796
+450	MonpaKalaktang	kʰ a b a r	kʰ a b a r -	1796
+451	MonpaTomko	pʰ a r	- - pʰ a r -	1796
+452	MonpaNamsu	dʒ o ŋ	dʒ o ŋ	1798
+453	MonpaTembang	dʒ o ŋ	dʒ o ŋ	1798
+454	MonpaBalemu	h a s o k l a	h a s o k l a	1805
+455	MonpaTomko	kʰ a s o	kʰ a s - - - o	1805
+456	MonpaDirangDum	tʃʰ i n l a	tʃʰ i n l a	1807
+457	MonpaSangti	tʃʰ i n l a	tʃʰ i n l a	1807
+458	MonpaNamsu	tʃ i kʰ e n	tʃ i kʰ e n	1809
+459	MonpaTembang	tʃ i kʰ e n	tʃ i kʰ e n	1809
+460	MonpaDirang	b r o ŋ b u	- b - r o ŋ b u	1815
+461	MonpaDirangDum	b u ŋ p u	- b - - u ŋ p u	1815
+462	MonpaNamsu	a t ə r o ŋ b a	a t ə r o ŋ b a	1815
+463	MonpaSangti	b ă ɾ o ŋ b a	- b ă ɾ o ŋ b a	1815
+464	MonpaTembang	a t ə r o ŋ b a	a t ə r o ŋ b a	1815
+465	MonpaBalemu	kʰ u m i n	kʰ u m i n	1851
+466	MonpaKalaktang	kʰ ŏ m i n	kʰ ŏ m i n	1851
+467	MonpaTomko	kʰ ŏ m i n	kʰ ŏ m i n	1851
+468	MonpaDirang	kʰ o m tʰ e ɾ a ŋ	kʰ o m tʰ e ɾ a ŋ	1852
+469	MonpaDirangDum	kʰ o m d̪ a ɾ a ŋ	kʰ o m d̪ a ɾ a ŋ	1852
+470	MonpaNamsu	kʰ o m d̪ a ɾ a ŋ	kʰ o m d̪ a ɾ a ŋ	1852
+471	MonpaSangti	kʰ o m tʰ e ɾ a ŋ	kʰ o m tʰ e ɾ a ŋ	1852
+472	MonpaTembang	kʰ o m d i r a ŋ	kʰ o m d i r a ŋ	1852
+473	MonpaBalemu	j u ŋ m u	j u ŋ m u	1878
+474	MonpaDirang	j u ŋ b u	j u ŋ b u	1878
+475	MonpaDirangDum	j u ŋ b u	j u ŋ b u	1878
+476	MonpaSangti	j u ŋ b u	j u ŋ b u	1878
+477	MonpaTomko	j u ŋ b u	j u ŋ b u	1878
+478	MonpaBalemu	tʃʰ e r tʃʰ e r	tʃʰ e r tʃʰ e r	1879
+479	MonpaKalaktang	tʃʰ e r tʃʰ e r	tʃʰ e r tʃʰ e r	1879
+480	MonpaNamsu	j o ŋ j o ŋ	j o ŋ j o ŋ	1880
+481	MonpaTembang	j o ŋ j o ŋ	j o ŋ j o ŋ	1880
+482	MonpaBalemu	u ɲ u	u ɲ - - u	1906
+483	MonpaDirang	u ɲ u m o	u ɲ u m o	1906
+484	MonpaKalaktang	u ɲ u	u ɲ - - u	1906
+485	MonpaSangti	u ɲ u	u ɲ - - u	1906
+486	MonpaNamsu	o tʰ u g a ŋ p u	o tʰ u g a ŋ p u	1918
+487	MonpaSangti	u t u g a m p u	u t u g a m p u	1918
+488	MonpaTembang	u t g a m b u	u t - g a m b u	1918
+489	MonpaDirang	k ɾ e m ʃ i pː a	k ɾ e m ʃ i pː a	1924
+490	MonpaSangti	k ɾ e m ʃ i pː a	k ɾ e m ʃ i pː a	1924
+491	MonpaBalemu	u t u	u t u	1941
+492	MonpaDirang	u tʰ u	u tʰ u	1941
+493	MonpaDirangDum	u tʰ u	u tʰ u	1941
+494	MonpaKalaktang	u tʰ u	u tʰ u	1941
+495	MonpaBalemu	u ɲ u	u ɲ u - - - - -	1959
+496	MonpaDirang	u ɲ u b a g m o	u ɲ u b a g m o	1959
+497	MonpaKalaktang	u ɲ u b a	u ɲ u b - - - a	1959
+498	MonpaNamsu	o tʰ u g a ŋ p u	- o tʰ u g a ŋ p u	1961
+499	MonpaSangti	ʔ o ɲ u g a m p u	ʔ o ɲ u g a m p u	1961
+500	MonpaTembang	o i g a ŋ p u	- o - i g a ŋ p u	1961
+501	MonpaBalemu	m u t̪ i r k a	m u - t̪ i r k a -	1996
+502	MonpaDirang	m u ŋ t̪ a ŋ	m u ŋ t̪ a ŋ - - -	1996
+503	MonpaNamsu	m u ŋ d i r	m u ŋ d i r - - -	1996
+504	MonpaTembang	m u ŋ d i r kʰ e n	m u ŋ d i r kʰ e n	1996
+505	MonpaTomko	m u ŋ d i r p a n	m u ŋ d i r p a n	1996
+506	MonpaBalemu	s e m tʃ e n	s e m tʃ e n	2006
+507	MonpaTomko	s e m tʃ e n	s e m tʃ e n	2006
+508	MonpaDirang	b u	b u - - -	2007
+509	MonpaDirangDum	b u ʃ u	b u - ʃ u	2007
+510	MonpaNamsu	b u ʃ u	b u - ʃ u	2007
+511	MonpaSangti	b u a t̪ a	b u a t̪ a	2007
+512	MonpaTembang	b u a t̪ a	b u a t̪ a	2007
+513	MonpaBalemu	g o k p o	g o k p o -	2033
+514	MonpaDirang	g o k tʃ u	g o k tʃ u -	2033
+515	MonpaDirangDum	g o k p o	g o k p o -	2033
+516	MonpaKalaktang	g o k tʃʰ a m	g o k tʃʰ a m	2033
+517	MonpaNamsu	g o k p o	g o k p o -	2033
+518	MonpaTomko	g o k p a n	g o k p a n	2033
+519	MonpaSangti	g o k u	g o k u -	2034
+520	MonpaTembang	g o kʰ e n	g o kʰ e n	2034
+521	MonpaDirangDum	l e j a ŋ b o	l e j a ŋ b o	2045
+522	MonpaNamsu	l e ŋ b o	l e - - ŋ b o	2045
+523	MonpaSangti	l e j a ŋ b o	l e j a ŋ b o	2045
+524	MonpaDirang	u n tʃ u	u n tʃ u -	2053
+525	MonpaKalaktang	ŭ n tʃʰ a m	ŭ n tʃʰ a m	2053
+526	MonpaDirang	ŭ ɾ u	ŭ ɾ u	2054
+527	MonpaDirangDum	ŭ ɾ u	ŭ ɾ u	2054
+528	MonpaSangti	ŭ ɾ u	ŭ ɾ u	2054
+529	MonpaNamsu	u kʰ e n	u kʰ e n	2055
+530	MonpaTembang	u kʰ e n	u kʰ e n	2055
+531	MonpaDirang	tʰ a kʰ u	tʰ a kʰ u	2063
+532	MonpaSangti	tʰ a kʰ u	tʰ a kʰ u	2063
+533	MonpaDirang	g e p ʃ u	g e p ʃ u -	2072
+534	MonpaNamsu	g e p k a n	g e p k a n	2072
+535	MonpaSangti	g e p k a n	g e p k a n	2072
+536	MonpaTembang	g e p kʰ ə n	g e p kʰ ə n	2072
+537	MonpaTomko	g e p a n	g e p - a n	2072
+538	MonpaDirang	d̪ o ŋ b a	d̪ o ŋ b a -	2081
+539	MonpaDirangDum	d̪ o ŋ b a	d̪ o ŋ b a -	2081
+540	MonpaSangti	d̪ o ŋ k a n	d̪ o ŋ k a n	2081
+541	MonpaTembang	d o ŋ kʰ e n	d o ŋ kʰ e n	2081
+542	MonpaDirangDum	z a m b o	z a m b o	2083
+543	MonpaNamsu	z a m b o	z a m b o	2083
+544	MonpaDirang	l e m	- - - l e m - -	2092
+545	MonpaDirangDum	tʃ a m l e m b o	tʃ a m l e m b o	2092
+546	MonpaNamsu	l e m b o	- - - l e m b o	2092
+547	MonpaSangti	l e m b o	- - - l e m b o	2092
+548	MonpaBalemu	ʃ i k a	ʃ i k a -	2100
+549	MonpaDirangDum	ʃ i l o	ʃ i l o -	2100
+550	MonpaNamsu	ʃ i k a n	ʃ i k a n	2100
+551	MonpaSangti	ʃ i k a n	ʃ i k a n	2100
+552	MonpaTembang	ʃ i kʰ e n	ʃ i kʰ e n	2100
+553	MonpaDirang	ʃ i n dʒ i	ʃ i n dʒ i -	2101
+554	MonpaKalaktang	ʃ i n tʃʰ a m	ʃ i n tʃʰ a m	2101
+555	MonpaBalemu	a l o	- a l o	2110
+556	MonpaNamsu	a l o	- a l o	2110
+557	MonpaSangti	ʔ a l o	ʔ a l o	2110
+558	MonpaNamsu	dʒ a kʰ ə n	dʒ a kʰ ə n	2140
+559	MonpaTembang	dʒ a kʰ ə n	dʒ a kʰ ə n	2140
+560	MonpaNamsu	n u p kʰ ə n	n u p kʰ ə n	2149
+561	MonpaTembang	n u p kʰ ə n	n u p kʰ ə n	2149
+562	MonpaNamsu	p i r kʰ ə n	p i r kʰ ə n	2158
+563	MonpaTembang	p i r kʰ ə n	p i r kʰ ə n	2158
+564	MonpaBalemu	ŋ a t̪ k a	ŋ a t̪ - k a - - -	2163
+565	MonpaDirangDum	ŋ a t a ɲ dʒ i	ŋ a t - - a ɲ dʒ i	2163
+566	MonpaSangti	ŋ a t̪ a k a n	ŋ a t̪ a k a - n -	2163
+567	MonpaTomko	ŋ a t p a n	ŋ a t - p a - n -	2163
+568	MonpaNamsu	g r a n dʒ a m e kʰ e n	g r a n dʒ a m e kʰ e n	2166
+569	MonpaTembang	g r a ŋ g i m e kʰ e n	g r a ŋ g i m e kʰ e n	2166
+570	MonpaBalemu	b i l o	b i l o -	2172
+571	MonpaDirangDum	b i l o	b i l o -	2172
+572	MonpaNamsu	b i l o	b i l o -	2172
+573	MonpaSangti	b i	b i - - -	2172
+574	MonpaTembang	b i kʰ e n	b i kʰ e n	2172
+575	MonpaTomko	b i l o	b i l o -	2172
+576	MonpaDirang	b i n tʃ u	b i n tʃ u -	2173
+577	MonpaKalaktang	b i n tʃʰ a m	b i n tʃʰ a m	2173
+578	MonpaDirang	m a g ɾ a k a n	m a g ɾ a k a n	2191
+579	MonpaSangti	m a g ɾ a k a n	m a g ɾ a k a n	2191
+580	MonpaTembang	m a g r a kʰ e n	m a g r a kʰ e n	2191
+581	MonpaBalemu	n a d̪ o k l a	n a - - d̪ o k l a -	2200
+582	MonpaKalaktang	n a d̪ o k tʃʰ a m	n a - - d̪ o k tʃʰ a m	2200
+583	MonpaTomko	n a h a d o k p a n	n a h a d o k p a n	2200
+584	MonpaDirang	n a ʃ u	n a ʃ u	2201
+585	MonpaSangti	n a ʃ u	n a ʃ u	2201
+586	MonpaNamsu	a kʰ ə n	- a kʰ ə n	2203
+587	MonpaTembang	n a kʰ ə n	n a kʰ ə n	2203
+588	MonpaBalemu	b i t i ŋ p i n l a	b i t i ŋ p i n l a -	2209
+589	MonpaDirang	b i t i ŋ p e w o	b i t i ŋ p e w - o -	2209
+590	MonpaDirangDum	b i t i ŋ p e w o	b i t i ŋ p e w - o -	2209
+591	MonpaKalaktang	b i t i ŋ pʰ i tʃʰ a m	b i t i ŋ pʰ i - tʃʰ a m	2209
+592	MonpaNamsu	b i t i ŋ p æ kʰ ə n	b i t i ŋ p æ - kʰ ə n	2209
+593	MonpaSangti	p i t i ŋ	p i t i ŋ - - - - - -	2209
+594	MonpaDirang	ʃ e ʃ u	ʃ e ʃ u	2219
+595	MonpaSangti	ʃ e ʃ u	ʃ e ʃ u	2219
+596	MonpaNamsu	ʃ e kʰ e n	ʃ e kʰ e n	2222
+597	MonpaTembang	ʃ e kʰ e n	ʃ e kʰ e n	2222
+598	MonpaDirangDum	z o g j a k b o	z o g j a k b o -	2249
+599	MonpaNamsu	z o k j a kʰ e n	z o k j a kʰ - e n	2249
+600	MonpaSangti	z o g j a k b o	z o g j a k b o -	2249
+601	MonpaTembang	z o k j a kʰ e n	z o k j a kʰ - e n	2249
+602	MonpaTomko	z o g j a k b o	z o g j a k b o -	2249
+603	MonpaBalemu	pʰ u l o	pʰ u - l o -	2256
+604	MonpaDirang	pʰ u l o	pʰ u - l o -	2256
+605	MonpaDirangDum	pʰ u l o	pʰ u - l o -	2256
+606	MonpaNamsu	u kʰ e n	- u - kʰ e n	2256
+607	MonpaTembang	pʰ u a kʰ e n	pʰ u a kʰ e n	2256
+608	MonpaTomko	pʰ u l a n	pʰ u - l a n	2256
+609	MonpaDirang	g ɾ a n tʃ u	g ɾ a n tʃ u -	2266
+610	MonpaNamsu	g ɾ a kʰ e n	g ɾ a - kʰ e n	2266
+611	MonpaSangti	g r a k a n	g r a - k a n	2266
+612	MonpaTembang	g ɾ a kʰ e n	g ɾ a - kʰ e n	2266
+613	MonpaKalaktang	s e m pʰ e k a	s e m pʰ e k a -	2268
+614	MonpaTomko	s e m pʰ e l a n	s e m pʰ e l a n	2268
+615	MonpaDirang	ɲ e p ʃ u	ɲ e p - - ʃ u -	2276
+616	MonpaKalaktang	ɲ e p ă n tʃʰ a m	ɲ e p ă n tʃʰ a m	2276
+617	MonpaTembang	ɲ e p a kʰ e n	ɲ e p a - kʰ e n	2276
+618	MonpaTomko	ɲ e p a n	ɲ e p - - - a n	2276
+619	MonpaDirangDum	ŋ j e w o	ŋ j e w o	2277
+620	MonpaSangti	ŋ j e w o	ŋ j e w o	2277
+621	MonpaDirang	dʒ a ŋ k u	dʒ a ŋ k u -	2285
+622	MonpaDirangDum	dʒ a ŋ p o	dʒ a ŋ p o -	2285
+623	MonpaNamsu	dʒ a ŋ p o	dʒ a ŋ p o -	2285
+624	MonpaSangti	tʃ a ŋ k u	tʃ a ŋ k u -	2285
+625	MonpaTomko	dʒ a ŋ p a n	dʒ a ŋ p a n	2285
+626	MonpaDirangDum	b ɾ a k o	b ɾ a k - - o -	2295
+627	MonpaNamsu	b e kʰ e n	b - e kʰ - - e n	2295
+628	MonpaSangti	b ɾ a k o	b ɾ a k - - o -	2295
+629	MonpaTembang	b r e k a kʰ e n	b r e k a kʰ e n	2295
+630	MonpaKalaktang	tʰ o g tʃʰ a m	tʰ o g tʃʰ a m	2296
+631	MonpaTomko	t o k p a n	t o k p a n	2296
+632	MonpaBalemu	ʃ o ŋ l a k a	ʃ o ŋ l a k a -	2302
+633	MonpaDirang	ʃ o ŋ l a i	ʃ o ŋ l a - i -	2302
+634	MonpaNamsu	ʃ o ŋ l a kʰ a n	ʃ o ŋ l a kʰ a n	2302
+635	MonpaTembang	ʃ o ŋ l a kʰ a n	ʃ o ŋ l a kʰ a n	2302
+636	MonpaTomko	ʃ o ŋ l a l a n	ʃ o ŋ l a l a n	2302
+637	MonpaDirang	g o tʃ u	g o tʃ u	2312
+638	MonpaSangti	g o tʃ u	g o tʃ u	2312
+639	MonpaKalaktang	k o t tʃʰ a m	k o t tʃʰ a m	2314
+640	MonpaNamsu	g o t kʰ ə n	g o t kʰ ə n	2314
+641	MonpaTembang	g o t kʰ ə n	g o t kʰ ə n	2314
+642	MonpaTomko	g o t p a n	g o t p a n	2314
+643	MonpaBalemu	tʃ o ŋ o	tʃ o ŋ - - o -	2320
+644	MonpaDirangDum	tʃ o ŋ a l o	tʃ o ŋ a l o -	2320
+645	MonpaNamsu	tʃ o ŋ a l o	tʃ o ŋ a l o -	2320
+646	MonpaTembang	tʃ o ŋ a kʰ e n	tʃ o ŋ a kʰ e n	2320
+647	MonpaSangti	kʰ o d̪ i l o	kʰ o d̪ i l o	2323
+648	MonpaTomko	kʰ o l o	kʰ o - - l o	2323
+649	MonpaBalemu	tʃ o k l a	tʃ o k l a -	2329
+650	MonpaSangti	tʃ o k a n	tʃ o k - a n	2329
+651	MonpaTembang	tʃ o kʰ e n	tʃ o kʰ - e n	2329
+652	MonpaDirangDum	tʃ o k p o	tʃ o k p o	2331
+653	MonpaNamsu	tʃ o k p o	tʃ o k p o	2331
+654	MonpaTomko	tʃ o k p o	tʃ o k p o	2331
+655	MonpaBalemu	ɲ o ɾ l a	ɲ o ɾ l a -	2338
+656	MonpaDirang	ɲ u r tʃ u	ɲ u r tʃ u -	2338
+657	MonpaSangti	j u r tʃ u	j u r tʃ u -	2338
+658	MonpaTembang	ɲ u r kʰ ə n	ɲ u r kʰ ə n	2338
+659	MonpaDirangDum	ŋ a ŋ ɲ i r p o	ŋ a ŋ ɲ i r p o -	2339
+660	MonpaNamsu	ɲ u r kʰ ə n	- - - ɲ u r kʰ ə n	2339
+661	MonpaTomko	ɲ i r p a n	- - - ɲ i r p a n	2339
+662	MonpaDirang	l a ŋ tʃ o i	l a ŋ tʃ o i	2348
+663	MonpaDirangDum	l a ŋ tʃ e	l a ŋ tʃ - e	2348
+664	MonpaSangti	l a ŋ tʃ o i	l a ŋ tʃ o i	2348
+665	MonpaNamsu	tʃ o kʰ ə n	tʃ o kʰ ə n	2350
+666	MonpaTomko	tʃʰ o l a n	tʃʰ o l a n	2350
+667	MonpaBalemu	i p k a	i p k a -	2356
+668	MonpaKalaktang	i p tʃʰ a m	i p tʃʰ a m	2356
+669	MonpaNamsu	i p kʰ e n	i p kʰ e n	2356
+670	MonpaTembang	i p kʰ e n	i p kʰ e n	2356
+671	MonpaTomko	i p a n	i p - a n	2356
+672	MonpaDirangDum	ʔ i w o	ʔ i w o	2358
+673	MonpaSangti	ʔ i w o	ʔ i w o	2358
+674	MonpaDirangDum	tʰ i ŋ kʰ u	tʰ i ŋ kʰ u -	2379
+675	MonpaNamsu	tʰ i ŋ kʰ ə n	tʰ i ŋ kʰ ə n	2379
+676	MonpaSangti	tʰ i ŋ kʰ u	tʰ i ŋ kʰ u -	2379
+677	MonpaTembang	tʰ i ŋ kʰ ə n	tʰ i ŋ kʰ ə n	2379
+678	MonpaTomko	tʰ i ŋ m a n	tʰ i ŋ m a n	2379
+679	MonpaDirang	g ɾ o w a n	g ɾ o w a n - -	2387
+680	MonpaNamsu	g ɾ o w a n	g ɾ o w a n - -	2387
+681	MonpaSangti	g ɾ o g a n	g ɾ o g a n - -	2387
+682	MonpaTomko	d r o g a n p a	d r o g a n p a	2387
+683	MonpaDirangDum	ɾ i g a ɲ j e w o	ɾ i g a ɲ j e w - o	2397
+684	MonpaSangti	ɾ i g a ŋ j a p ʃ o	ɾ i g a ŋ j a p ʃ o	2397
+685	MonpaBalemu	pʰ a l o	pʰ a l o	2404
+686	MonpaDirangDum	pʰ a w o	pʰ a w o	2404
+687	MonpaTomko	pʰ a l o	pʰ a l o	2404
+688	MonpaNamsu	pʰ a kʰ e n	pʰ a kʰ e n	2407
+689	MonpaTembang	pʰ a kʰ e n	pʰ a kʰ e n	2407
+690	MonpaDirang	l u s p u z i g tʃ u	l u s p u z i g tʃ u -	2414
+691	MonpaKalaktang	l u ʃ p u z i g tʃʰ a m	l u ʃ p u z i g tʃʰ a m	2414
+692	MonpaNamsu	l u s p u z i g p o	l u s p u z i g p o -	2414
+693	MonpaTembang	l u s p u z i kʰ e n	l u s p u z i kʰ - e n	2414
+694	MonpaSangti	z i k a n	z i k - a n	2416
+695	MonpaTomko	z i g p a n	z i g p a n	2416
+696	MonpaBalemu	j a k p o	j a k p o	2422
+697	MonpaDirangDum	j a k p o	j a k p o	2422
+698	MonpaDirang	pʰ i r	pʰ i r - - -	2433
+699	MonpaDirangDum	pʰ i r pʰ o	pʰ i r pʰ o -	2433
+700	MonpaNamsu	pʰ i r p o k	pʰ i r p o k	2433
+701	MonpaBalemu	tʃʰ i k p o	tʃʰ i k p o -	2443
+702	MonpaDirangDum	tʰ i k b o	tʰ i k b o -	2443
+703	MonpaKalaktang	tʰ i g tʃʰ a m	tʰ i g tʃʰ a m	2443
+704	MonpaTomko	tʰ i k p a n	tʰ i k p a n	2443
+705	MonpaDirang	t̪ a m tʃ u	t̪ a m tʃ u	2445
+706	MonpaSangti	t̪ a m tʃ u	t̪ a m tʃ u	2445
+707	MonpaBalemu	n u ŋ k a l a	n u ŋ - - k a l a	2452
+708	MonpaDirang	n o ŋ kʰ u	n o ŋ - - kʰ u - -	2452
+709	MonpaNamsu	n o ŋ kʰ ə n	n o ŋ - - kʰ ə n -	2452
+710	MonpaSangti	n o ŋ kʰ u	n o ŋ - - kʰ u - -	2452
+711	MonpaTembang	n o ŋ tʃ u kʰ ə n	n o ŋ tʃ u kʰ ə n -	2452
+712	MonpaDirang	d̪ a ŋ kʰ u	d̪ a ŋ kʰ u -	2462
+713	MonpaSangti	d̪ a m k u	d̪ a m k u -	2462
+714	MonpaTembang	d a ŋ kʰ ə n	d a ŋ kʰ ə n	2462
+715	MonpaTomko	tʰ a ŋ m a n	tʰ a ŋ m a n	2462
+716	MonpaDirangDum	d̪ a ŋ b a	d̪ a ŋ b a -	2463
+717	MonpaKalaktang	d̪ a ŋ tʃʰ a m	d̪ a ŋ tʃʰ a m	2463
+718	MonpaKalaktang	z i g tʃʰ a m	z i - g tʃʰ a m	2473
+719	MonpaNamsu	z e i kʰ e n	z e i kʰ - e n	2473
+720	MonpaTembang	z e i kʰ e n	z e i kʰ - e n	2473
+721	MonpaTomko	z i g p a n	z i - g p a n	2473
+722	MonpaNamsu	n a m kʰ a n	n a m kʰ a n	2483
+723	MonpaSangti	n a m kʰ a n	n a m kʰ a n	2483
+724	MonpaTembang	n a m kʰ e n	n a m kʰ e n	2483
+725	MonpaDirang	pʰ a k p o	pʰ a k p o	2489
+726	MonpaDirangDum	pʰ a k p o	pʰ a k p o	2489
+727	MonpaNamsu	pʰ a kʰ e n	pʰ a kʰ e n	2491
+728	MonpaTembang	pʰ aː kʰ e n	pʰ aː kʰ e n	2491
+729	MonpaDirang	ʃ e ʃ u	ʃ e ʃ u	2492
+730	MonpaSangti	ʃ e ʃ u	ʃ e ʃ u	2492
+731	MonpaBalemu	l e k aː l o	l e k - - aː - l o -	2498
+732	MonpaDirang	l e k a ʔ a n z u	l e k a ʔ a n z u -	2498
+733	MonpaKalaktang	l e k a ă n tʃʰ a m	l e k a - ă n tʃʰ a m	2498
+734	MonpaNamsu	l e k aː l o	l e k - - aː - l o -	2498
+735	MonpaSangti	l e k a ʔ a l o	l e k a ʔ a - l o -	2498
+736	MonpaBalemu	ŋ a m tʃ a	ŋ a m tʃ a -	2517
+737	MonpaDirang	ŋ a m tʃʰ a	ŋ a m tʃʰ a -	2517
+738	MonpaDirangDum	ŋ a m tʃʰ a	ŋ a m tʃʰ a -	2517
+739	MonpaKalaktang	n a m tʃ a ŋ	n a m tʃ a ŋ	2517
+740	MonpaNamsu	ŋ a m tʃ a	ŋ a m tʃ a -	2517
+741	MonpaTembang	ŋ a m ts i	ŋ a m ts i -	2517
+742	MonpaDirang	d̪ u ɾ i	d̪ u ɾ i	2554
+743	MonpaSangti	d̪ u ɾ i	d̪ u ɾ i	2554
+744	MonpaKalaktang	g a tʃ a	g a tʃ a	2555
+745	MonpaNamsu	k a tʃ u	k a tʃ u	2555
+746	MonpaTembang	k a tʃ u	k a tʃ u	2555
+747	MonpaDirang	kʰ u	kʰ u	2588
+748	MonpaDirangDum	kʰ u	kʰ u	2588
+749	MonpaNamsu	kʰ u	kʰ u	2588
+750	MonpaSangti	kʰ u	kʰ u	2588
+751	MonpaTembang	kʰ u	kʰ u	2588
+752	MonpaBalemu	ɾ e d̪ a ŋ	- - - ɾ e d̪ a ŋ	2605
+753	MonpaKalaktang	pʰ a i ɾ e d̪ a ŋ	pʰ a i ɾ e d̪ a ŋ	2605
+754	MonpaDirang	tʃ i k p a	tʃ i k p a	2607
+755	MonpaDirangDum	tʃ i k p a	tʃ i k p a	2607
+756	MonpaSangti	tʃ i k p a	tʃ i k p a	2607
+757	MonpaTomko	tʃ i k p a	tʃ i k p a	2607
+758	MonpaNamsu	j a m l o k	j a m l o k	2608
+759	MonpaTembang	j a m l o k	j a m l o k	2608
+760	MonpaBalemu	d̪ u n ts i	d̪ u n ts i	2624
+761	MonpaNamsu	d u n tʃ i	d u n tʃ i	2624
+762	MonpaDirang	b e n a m z u m	b - e n a m z u m	2625
+763	MonpaDirangDum	b i n a z u ŋ	b - i n a - z u ŋ	2625
+764	MonpaSangti	b o i n a m z u ŋ	b o i n a m z u ŋ	2625
+765	MonpaTembang	b i n a z u ŋ	b - i n a - z u ŋ	2625
+766	MonpaTomko	i n a ŋ z u m	- - i n a ŋ z u m	2625
+767	MonpaDirang	ʃ i ɾ i	ʃ i ɾ - - i	2635
+768	MonpaDirangDum	ʃ i r i l a	ʃ i r i l a	2635
+769	MonpaNamsu	ʃ i r a	ʃ i r - - a	2635
+770	MonpaTembang	ʃ i r a	ʃ i r - - a	2635
+771	MonpaDirang	p e t̪ a r	p e t̪ a r	2638
+772	MonpaSangti	b e t̪ a r	b e t̪ a r	2638
+773	MonpaBalemu	h ă ŋ	h ă ŋ	2645
+774	MonpaDirangDum	h ă ŋ	h ă ŋ	2645
+775	MonpaNamsu	h ă ŋ	h ă ŋ	2645
+776	MonpaTomko	h ă ŋ	h ă ŋ	2645
+777	MonpaDirang	h a ŋ j a	h a ŋ j a	2646
+778	MonpaSangti	h a ŋ j a	h a ŋ j a	2646
+779	MonpaBalemu	b o ŋ	- - - b o ŋ	2654
+780	MonpaDirang	b o ŋ	- - - b o ŋ	2654
+781	MonpaDirangDum	b o ŋ	- - - b o ŋ	2654
+782	MonpaKalaktang	b o ŋ	- - - b o ŋ	2654
+783	MonpaNamsu	r a ŋ b o ŋ	r a ŋ b o ŋ	2654
+784	MonpaTembang	b o ŋ	- - - b o ŋ	2654
+785	MonpaBalemu	tʃ a i t a ŋ p u	tʃ a - - i t a ŋ p u	2699
+786	MonpaKalaktang	t a ŋ p u	- - - - - t a ŋ p u	2699
+787	MonpaTomko	s a p tʃ a t a ŋ p u	s a p tʃ a t a ŋ p u	2699
+788	MonpaBalemu	pʰ ă j a m a	pʰ ă j a m a	2709
+789	MonpaDirang	pʰ a i a m a	pʰ a i a m a	2709
+790	MonpaKalaktang	pʰ ă j a m a	pʰ ă j a m a	2709
+791	MonpaNamsu	pʰ e j a m a	pʰ e j a m a	2709
+792	MonpaTembang	pʰ a i a m a	pʰ a i a m a	2709
+793	MonpaDirangDum	n ĭ z i	n ĭ z i	2710
+794	MonpaKalaktang	n ĭ z i	n ĭ z i	2710
+795	MonpaSangti	ŋ i z i	ŋ i z i	2710
+796	MonpaTomko	n ĭ z i	n ĭ z i	2710
+797	MonpaBalemu	ɲ i z o k a	ɲ i z o k a	2737
+798	MonpaDirang	ŋ i z a	ŋ i z - - a	2737
+799	MonpaDirangDum	ŋ i z a	ŋ i z - - a	2737
+800	MonpaNamsu	n i z a	n i z - - a	2737
+801	MonpaSangti	ŋ i z a	ŋ i z - - a	2737
+802	MonpaTembang	ɲ i dʒ a	ɲ i dʒ - - a	2737
+803	MonpaBalemu	i n i ŋ	i n i ŋ	2765
+804	MonpaKalaktang	i ɲ i ŋ	i ɲ i ŋ	2765
+805	MonpaTomko	i n i ŋ	i n i ŋ	2765
+806	MonpaDirang	i ŋ o m	- i ŋ o m - -	2766
+807	MonpaDirangDum	i ŋ o m	- i ŋ o m - -	2766
+808	MonpaNamsu	ɲ i ŋ a m	ɲ i ŋ a m - -	2766
+809	MonpaSangti	ŋ a m tʃ a	- - ŋ a m tʃ a	2766
+810	MonpaTembang	i ŋ a m	- i ŋ a m - -	2766
+811	MonpaBalemu	n a ɲ i ŋ	n a ɲ i ŋ	2783
+812	MonpaDirang	n a ɲ i ŋ	n a ɲ i ŋ	2783
+813	MonpaNamsu	n a ɲ i ŋ	n a ɲ i ŋ	2783
+814	MonpaTembang	n a ɲ i ŋ	n a ɲ i ŋ	2783
+815	MonpaDirangDum	z i	z i	2784
+816	MonpaKalaktang	z i	z i	2784
+817	MonpaSangti	z i	z i	2784
+818	MonpaTomko	z i	z i	2784

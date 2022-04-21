@@ -1,0 +1,462 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	HtanHsan	m i	m i	2
+2	NamHsan	m i	m i	2
+3	GuangKa	p o ŋ	p o ŋ	7
+4	NanSang	p o n	p o n	7
+5	ChaYeQing	d o h	d o h	8
+6	GuangKa	t o h	t o h	8
+7	MangBang	t o h	t o h	8
+8	NanSang	t o h	t o h	8
+9	PangKham	tʰ ui̯	tʰ ui̯ -	8
+10	NoeLae	r au̯	r au̯	9
+11	PongNuea	r ɔː	r ɔː	9
+12	BanPaw	b r ɔ	b r ɔ	34
+13	NoeLae	b r ɔ	b r ɔ	34
+14	NyaungGone	b r ɔ	b r ɔ	34
+15	PongNuea	b r ɔ	b r ɔ	34
+16	NoeLae	ŋ ɔ	ŋ ɔ	35
+17	NyaungGone	ŋ ɔ	ŋ ɔ	35
+18	PongNuea	ŋ ɔː	ŋ ɔː	35
+19	HtanHsan	dʑ ə m	dʑ ə m	106
+20	KhunHawt	dʑ ə m	dʑ ə m	106
+21	NamHsan	dʑ ə m	dʑ ə m	106
+22	HtanHsan	k ə n	k ə n	140
+23	KhunHawt	k a n	k a n	140
+24	BanPaw	h ə̆ k	h ə̆ k	173
+25	ChuDongGua	h ə h	h ə h	173
+26	ManLoi	l e h	l e h	173
+27	NoeLae	h ə̆ k	h ə̆ k	173
+28	PongNuea	h ə k	h ə k	173
+29	XiangZhaiTang	h ə k	h ə k	173
+30	ChaYeQing	ə ŋ	ə ŋ	240
+31	MangBang	ə ŋ	ə ŋ	240
+32	NanSang	ə ŋ	ə ŋ	240
+33	NoeLae	ə ŋ	ə ŋ	240
+34	NyaungGone	ə ŋ	ə ŋ	240
+35	PongNuea	ə ŋ	ə ŋ	240
+36	XiangZhaiTang	ə ŋ	ə ŋ	240
+37	ChaYeQing	m a	m a	339
+38	NoeLae	m a	m a	339
+39	NyaungGone	m a	m a	339
+40	PongNuea	m a	m a	339
+41	ChaYeQing	ʔ o ʔ	ʔ o ʔ	341
+42	ChuDongGua	ʔ o ʔ	ʔ o ʔ	341
+43	HtanHsan	ʔ o ʔ	ʔ o ʔ	341
+44	KhunHawt	ʔ o ʔ	ʔ o ʔ	341
+45	ManLoi	ʔ o ʔ	ʔ o ʔ	341
+46	MengDan	ʔ u ʔ	ʔ u ʔ	341
+47	NamHsan	ʔ o ʔ	ʔ o ʔ	341
+48	PangKham	ʔ o ʔ	ʔ o ʔ	341
+49	HtanHsan	l a	l a -	387
+50	KhunHawt	r a	r a -	387
+51	ManLoi	l ɛː	l ɛː -	387
+52	MangBang	l a	l a -	387
+53	NamHsan	l a j	l a j	387
+54	KhunHawt	k ə n	k ə n	409
+55	NamHsan	k ə	k ə -	409
+56	BanPaw	p ə n	p ə n	459
+57	ChaYeQing	b əː n	b əː n	459
+58	GuangKa	b əː n	b əː n	459
+59	MangBang	b əː n	b əː n	459
+60	NamHsan	ɓ e ʔ	ɓ e ʔ	459
+61	NanSang	b əː n	b əː n	459
+62	NoeLae	p ə n	p ə n	459
+63	NyaungGone	p ə n	p ə n	459
+64	PongNuea	p əa n	p əa n	459
+65	XiangZhaiTang	p əː n	p əː n	459
+66	BanPaw	ʔ j a n	ʔ j a n	460
+67	ChuDongGua	ʔ j a r	ʔ j a r	460
+68	NoeLae	ʔ j a n	ʔ j a n	460
+69	NyaungGone	ʔ j a n	ʔ j a n	460
+70	ChuDongGua	g r aːu̯	g r aːu̯	461
+71	ManLoi	kʰ ai̯	kʰ - ai̯	461
+72	MengDan	g l ɛːu̯	g l ɛːu̯	461
+73	PangKham	g l au̯	g l au̯	461
+74	HtanHsan	ɗ a m	ɗ a m	462
+75	KhunHawt	ɗ a m	ɗ a m	462
+76	NamHsan	d a m	d a m	462
+77	ManLoi	b l eː	b l eː	486
+78	PangKham	b l eː	b l eː	486
+79	ManLoi	t o ŋ	t o ŋ	520
+80	MangBang	d o ŋ	d o ŋ	520
+81	MengDan	d o ŋ	d o ŋ	520
+82	NanSang	d o ŋ	d o ŋ	520
+83	NoeLae	t o ŋ	t o ŋ	520
+84	NyaungGone	t o k	t o k	520
+85	PangKham	d o ŋ	d o ŋ	520
+86	PongNuea	t o ŋ	t o ŋ	520
+87	XiangZhaiTang	t o ŋ	t o ŋ	520
+88	HtanHsan	s a	s a	521
+89	NamHsan	s a	s a	521
+90	HtanHsan	ŋ aːi̯	ŋ aːi̯	522
+91	NamHsan	ŋ aːi̯	ŋ aːi̯	522
+92	NyaungGone	n	n -	522
+93	BanPaw	j o	j o	558
+94	ChuDongGua	j oː	j oː	558
+95	GuangKa	j au̯	j au̯	558
+96	KhunHawt	j ou̯	j ou̯	558
+97	MangBang	j au̯	j au̯	558
+98	NanSang	j au̯	j au̯	558
+99	PongNuea	j ou̯	j ou̯	558
+100	ChaYeQing	dʑ au̯	dʑ - au̯	559
+101	HtanHsan	dʑ oː	dʑ - oː	559
+102	ManLoi	dʑ ɔː	dʑ - ɔː	559
+103	MengDan	dʑ oː	dʑ - oː	559
+104	NamHsan	dʑ ɔː	dʑ - ɔː	559
+105	NoeLae	c w a	c w a	559
+106	NyaungGone	c w a	c w a	559
+107	PangKham	dʑ oː	dʑ - oː	559
+108	NoeLae	m a	m a	593
+109	NyaungGone	m a	m a	593
+110	PongNuea	m a	m a	593
+111	NoeLae	ə m	ə m	666
+112	NyaungGone	ə m	ə m	666
+113	PongNuea	ə m	ə m	666
+114	XiangZhaiTang	ə m	ə m	666
+115	BanPaw	g ɨ ɲ	g ɨ ɲ	757
+116	ManLoi	g i ŋ	g i ŋ	757
+117	NoeLae	g i ɲ	g i ɲ	757
+118	NyaungGone	g ɨ n	g ɨ n	757
+119	PangKham	g i ɲ	g i ɲ	757
+120	PongNuea	g i ɲ	g i ɲ	757
+121	ChaYeQing	n ɔ h	n ɔ h	826
+122	ChuDongGua	n ɔːi̯	n ɔːi̯ -	826
+123	GuangKa	n ɔ h	n ɔ h	826
+124	HtanHsan	nˀ ɔ h	nˀ ɔ h	826
+125	KhunHawt	nʰ ɔ h	nʰ ɔ h	826
+126	MangBang	n ɔ h	n ɔ h	826
+127	MengDan	n ɔi̯ h	n ɔi̯ h	826
+128	NanSang	n ɔ h	n ɔ h	826
+129	XiangZhaiTang	n ɔ x	n ɔ x	826
+130	ChaYeQing	b l ɔːi̯	b l ɔːi̯	827
+131	HtanHsan	b l ei̯	b l ei̯	827
+132	KhunHawt	b l ei̯	b l ei̯	827
+133	ManLoi	b l eː	b l eː	827
+134	MengDan	b l i	b l i	827
+135	NamHsan	b l e	b l e	827
+136	NoeLae	b a	b - a	827
+137	PangKham	b l eː	b l eː	827
+138	PongNuea	b e	b - e	827
+139	XiangZhaiTang	b l ei̯	b l ei̯	827
+140	BanPaw	b a	b - a -	890
+141	ChaYeQing	b j ai̯	b j ai̯ -	890
+142	NamHsan	b j a m	b j a m	890
+143	BanPaw	p r ɛ	p r ɛ	891
+144	ChuDongGua	b r ai̯	b r ai̯	891
+145	GuangKa	p ai̯	p - ai̯	891
+146	HtanHsan	b r ei̯	b r ei̯	891
+147	KhunHawt	p r iː	p r iː	891
+148	ManLoi	p r ai̯	p r ai̯	891
+149	NoeLae	p r ɛ	p r ɛ	891
+150	NyaungGone	p r ɛ	p r ɛ	891
+151	PangKham	p r ai̯	p r ai̯	891
+152	XiangZhaiTang	p r ɛː	p r ɛː	891
+153	ChaYeQing	l ə p	- l ə p	892
+154	ChuDongGua	k l ɔː	k l ɔː -	892
+155	MangBang	l ɛː	- l ɛː -	892
+156	MengDan	l i p	- l i p	892
+157	NoeLae	l ɛ	- l ɛ -	892
+158	NyaungGone	l ɛ	- l ɛ -	892
+159	XiangZhaiTang	l ɨ p	- l ɨ p	892
+160	GuangKa	t oː	t oː	893
+161	NanSang	t oː	t oː	893
+162	HtanHsan	l w a ŋ	l w a ŋ	894
+163	MengDan	r i ŋ	r - i ŋ	894
+164	KhunHawt	k o h	k - o h	895
+165	ManLoi	kʰ r ɔ h	kʰ r ɔ h	895
+166	NyaungGone	kʰ ɛ	kʰ - ɛ -	895
+167	PangKham	k u h	k - u h	895
+168	PongNuea	ŋ au̯ h	- ŋ au̯ h	895
+169	BanPaw	ɲ ɔ ŋ	ɲ ɔ ŋ	921
+170	ChaYeQing	ɣ a n	ɣ a n	921
+171	ChuDongGua	r ɔː n	r ɔː n	921
+172	MengDan	r ɔː n	r ɔː n	921
+173	NoeLae	ɲ ɔ ŋ	ɲ ɔ ŋ	921
+174	NyaungGone	ɲ ɔ ŋ	ɲ ɔ ŋ	921
+175	PongNuea	ɲ ɔ ŋ	ɲ ɔ ŋ	921
+176	MangBang	n v a t	n v a t	922
+177	NanSang	n v a t	n v a t	922
+178	NoeLae	v a c	- v a c	922
+179	NyaungGone	v a t	- v a t	922
+180	PongNuea	v ai̯ c	- v ai̯ c	922
+181	XiangZhaiTang	v a c	- v a c	922
+182	MangBang	s ɔ	s ɔ	924
+183	NanSang	s ɔ	s ɔ	924
+184	HtanHsan	ɓ j a m	ɓ j a m	941
+185	KhunHawt	p j a m	p j a m	941
+186	NamHsan	b j a m	b j a m	941
+187	ChaYeQing	k ə	k ə -	974
+188	PangKham	k a n	k a n	974
+189	HtanHsan	dʑ u m	dʑ u m	976
+190	KhunHawt	dʑ u m	dʑ u m	976
+191	NamHsan	j u m	j u m	976
+192	ChuDongGua	h iː	h iː	1005
+193	KhunHawt	h eːi̯	h eːi̯	1005
+194	MangBang	h ɔːi̯	h ɔːi̯	1005
+195	MengDan	h i	h i	1005
+196	BanPaw	n a	n a -	1026
+197	ChaYeQing	n a	n a -	1026
+198	HtanHsan	n a p	n a p	1026
+199	KhunHawt	n a p	n a p	1026
+200	XiangZhaiTang	n a	n a -	1026
+201	HtanHsan	kʰ ɔ n	kʰ ɔ n	1029
+202	KhunHawt	kʰ ɔ n	kʰ ɔ n	1029
+203	BanPaw	m a	m a	1110
+204	ChaYeQing	m a	m a	1110
+205	NoeLae	m a	m a	1110
+206	NyaungGone	m a	m a	1110
+207	PongNuea	m a	m a	1110
+208	XiangZhaiTang	m a	m a	1110
+209	BanPaw	k ɨ n	k ɨ n	1134
+210	ChaYeQing	g ɨ n	g ɨ n	1134
+211	GuangKa	g ɨ n	g ɨ n	1134
+212	MangBang	g ɨ n	g ɨ n	1134
+213	NanSang	k ɨ n	k ɨ n	1134
+214	NoeLae	k ɨ n	k ɨ n	1134
+215	NyaungGone	k ɨ n	k ɨ n	1134
+216	ChuDongGua	b r a m	b r a m	1135
+217	HtanHsan	p ə r	p - ə r	1135
+218	MengDan	b r a m	b r a m	1135
+219	NamHsan	b r a m	b r a m	1135
+220	ManLoi	r j a n	r j a n	1138
+221	PangKham	r j a n	r j a n	1138
+222	NoeLae	m a	m a	1150
+223	NyaungGone	m a	m a	1150
+224	PongNuea	m a	m a	1150
+225	XiangZhaiTang	m ə	m ə	1150
+226	HtanHsan	s u r̥	s u r̥	1185
+227	KhunHawt	s o r	s o r	1185
+228	MengDan	s u l	s u l	1185
+229	NamHsan	s u r	s u r	1185
+230	BanPaw	ə ŋ	ə ŋ	1218
+231	NoeLae	ə ŋ	ə ŋ	1218
+232	NyaungGone	ə ŋ	ə ŋ	1218
+233	PongNuea	ə ŋ	ə ŋ	1218
+234	XiangZhaiTang	ŋ	- ŋ	1218
+235	ChuDongGua	ʔ a	ʔ a	1220
+236	ManLoi	ʔ a	ʔ a	1220
+237	MengDan	ʔ a	ʔ a	1220
+238	PangKham	ʔ a	ʔ a	1220
+239	HtanHsan	r ə n	r ə n	1221
+240	KhunHawt	r ə	r ə -	1221
+241	NamHsan	r ə	r ə -	1221
+242	BanPaw	kʰ r j a ʔ	kʰ r j a ʔ	1264
+243	NoeLae	kʰ r j a ʔ	kʰ r j a ʔ	1264
+244	NyaungGone	kʰ r j a ʔ	kʰ r j a ʔ	1264
+245	PongNuea	kʰ r j a ʔ	kʰ r j a ʔ	1264
+246	ChaYeQing	ə n	ə n	1265
+247	MengDan	ə n	ə n	1265
+248	ChaYeQing	d ɔ ʔ	d ɔ ʔ	1266
+249	ChuDongGua	d a t	d a t	1266
+250	GuangKa	t ə	t ə -	1266
+251	HtanHsan	d a t	d a t	1266
+252	KhunHawt	d a t	d a t	1266
+253	ManLoi	t a ʔ	t a ʔ	1266
+254	MengDan	d a t	d a t	1266
+255	NamHsan	t a	t a -	1266
+256	PangKham	dʱ a t	dʱ a t	1266
+257	XiangZhaiTang	t a t	t a t	1266
+258	GuangKa	tɕ ɔ m	tɕ ɔ m	1267
+259	MangBang	tɕ a m	tɕ a m	1267
+260	NanSang	tɕ a m	tɕ a m	1267
+261	HtanHsan	k ə n	k ə n	1289
+262	KhunHawt	k a r	k a r	1289
+263	NamHsan	k ə n	k ə n	1289
+264	GuangKa	t a	t a	1292
+265	MangBang	t a	t a	1292
+266	NanSang	t a	t a	1292
+267	BanPaw	kʰ ɛ	kʰ ɛ -	1322
+268	ChaYeQing	kʰ a	kʰ a -	1322
+269	ChuDongGua	kʰ a	kʰ a -	1322
+270	ManLoi	kʰ iː	kʰ iː -	1322
+271	MengDan	kʰ iːu̯	kʰ iːu̯ -	1322
+272	NoeLae	kʰ ɛ	kʰ ɛ -	1322
+273	PangKham	kʰ i m	kʰ i m	1322
+274	PongNuea	kʰ ɛ	kʰ ɛ -	1322
+275	GuangKa	s ɛ m	s ɛ m	1324
+276	MangBang	s ə m	s ə m	1324
+277	NanSang	s ə m	s ə m	1324
+278	HtanHsan	r ə n	r ə n	1325
+279	NamHsan	r a	r a -	1325
+280	XiangZhaiTang	tɕ u ŋ	tɕ u ŋ	1325
+281	BanPaw	g u ŋ	g u ŋ	1355
+282	HtanHsan	k ɔ ŋ	k ɔ ŋ	1355
+283	KhunHawt	k ɔ ŋ	k ɔ ŋ	1355
+284	ManLoi	g ɔ ŋ	g ɔ ŋ	1355
+285	NamHsan	k ɔ ŋ	k ɔ ŋ	1355
+286	NoeLae	g o ŋ	g o ŋ	1355
+287	NyaungGone	g u	g u -	1355
+288	PangKham	g ɔ ŋ	g ɔ ŋ	1355
+289	PongNuea	g u ŋ	g u ŋ	1355
+290	XiangZhaiTang	g u ŋ	g u ŋ	1355
+291	GuangKa	d u ŋ	d u ŋ	1357
+292	MangBang	d ɔ ŋ	d ɔ ŋ	1357
+293	NanSang	d u ŋ	d u ŋ	1357
+294	HtanHsan	p ə	p ə	1392
+295	KhunHawt	p a	p a	1392
+296	MengDan	l u ʔ	l u - ʔ	1412
+297	PongNuea	l əi̯ h	l əi̯ - h	1412
+298	XiangZhaiTang	l̥ e i̯ h	l̥ e i̯ h	1412
+299	HtanHsan	ɓ i	ɓ i	1432
+300	KhunHawt	ɓ iː	ɓ iː	1432
+301	NamHsan	b iː	b iː	1432
+302	PongNuea	v ɨi̯	v ɨi̯	1432
+303	HtanHsan	dʑ uː ŋ	dʑ uː ŋ	1460
+304	KhunHawt	dʑ o ŋ	dʑ o ŋ	1460
+305	NamHsan	tɕ u ŋ	tɕ u ŋ	1460
+306	ChuDongGua	d w a	d w a -	1478
+307	MengDan	d i ŋ	d - i ŋ	1478
+308	NamHsan	d a m	d - a m	1478
+309	GuangKa	ʔ a	ʔ a	1479
+310	ManLoi	ʔ a	ʔ a	1479
+311	MangBang	ʔ a	ʔ a	1479
+312	MengDan	ʔ a	ʔ a	1479
+313	NamHsan	ʔ i	ʔ i	1479
+314	NanSang	ʔ a	ʔ a	1479
+315	NoeLae	ʔ a	ʔ a	1479
+316	NyaungGone	ʔ a	ʔ a	1479
+317	PangKham	ʔ a	ʔ a	1479
+318	PongNuea	ʔ a	ʔ a	1479
+319	BanPaw	ə n	ə n	1508
+320	GuangKa	ə n	ə n	1508
+321	ManLoi	ə n	ə n	1508
+322	MangBang	ə n	ə n	1508
+323	NanSang	ə n	ə n	1508
+324	NoeLae	ə n	ə n	1508
+325	NyaungGone	ə n	ə n	1508
+326	PangKham	ə n	ə n	1508
+327	PongNuea	ə n	ə n	1508
+328	XiangZhaiTang	ə n	ə n	1508
+329	KhunHawt	r a	r a	1511
+330	NamHsan	r a	r a	1511
+331	ChaYeQing	ɣ ə h	ɣ ə h	1539
+332	GuangKa	ʐ ə h	ʐ ə h	1539
+333	MangBang	ɣ ə h	ɣ ə h	1539
+334	ChaYeQing	h ɔi̯	h ɔi̯	1540
+335	ChuDongGua	h i	h i	1540
+336	HtanHsan	h ei̯	h ei̯	1540
+337	ManLoi	h ei̯	h ei̯	1540
+338	MengDan	h iː	h iː	1540
+339	NanSang	h ɔi̯	h ɔi̯	1540
+340	XiangZhaiTang	h ei̯	h ei̯	1540
+341	GuangKa	tʰ u	tʰ u	1565
+342	HtanHsan	tʰ u	tʰ u	1565
+343	KhunHawt	d u	d u	1565
+344	MangBang	tʰ u	tʰ u	1565
+345	NanSang	tʰ u	tʰ u	1565
+346	GuangKa	tʰ i k	tʰ i k	1566
+347	KhunHawt	d i t	d i t	1566
+348	MangBang	tʰ iː	tʰ iː -	1566
+349	MengDan	ɗ ai̯	ɗ ai̯ -	1566
+350	NanSang	tʰ iː	tʰ iː -	1566
+351	ChaYeQing	tɕ eː m	tɕ eː m	1598
+352	ChuDongGua	tɕ eː m	tɕ eː m	1598
+353	GuangKa	tɕ ɛː m	tɕ ɛː m	1598
+354	MangBang	tɕ eː m	tɕ eː m	1598
+355	NamHsan	tɕ ɛː m	tɕ ɛː m	1598
+356	PangKham	j ɛː m	j ɛː m	1598
+357	HtanHsan	s ɔ ʔ	s ɔ ʔ	1599
+358	ManLoi	s ɛ ʔ	s ɛ ʔ	1599
+359	XiangZhaiTang	s ɛ ʔ	s ɛ ʔ	1599
+360	HtanHsan	k r aːi̯ ʔ	k r - aːi̯ ʔ	1618
+361	KhunHawt	k r aːi̯ ʔ	k r - aːi̯ ʔ	1618
+362	ManLoi	k r j a ʔ	k r j a ʔ	1618
+363	NamHsan	g r aː ʔ	g r - aː ʔ	1618
+364	PangKham	k r j a h	k r j a h	1618
+365	BanPaw	j ə	j ə	1635
+366	ChuDongGua	j ɨː	j ɨː	1635
+367	GuangKa	j eu̯	j eu̯	1635
+368	HtanHsan	j əː	j əː	1635
+369	MangBang	j eu̯	j eu̯	1635
+370	NanSang	j eu̯	j eu̯	1635
+371	NoeLae	j ə	j ə	1635
+372	NyaungGone	j ə	j ə	1635
+373	PongNuea	j əɯ̯	j əɯ̯	1635
+374	XiangZhaiTang	j əɯ̯	j əɯ̯	1635
+375	ChaYeQing	dʑ eː w	dʑ eː w	1636
+376	KhunHawt	dʑ əː	dʑ əː -	1636
+377	ManLoi	dʑ əː	dʑ əː -	1636
+378	MengDan	dʑ ɨː	dʑ ɨː -	1636
+379	PangKham	dʑ ə ɯ	dʑ ə ɯ	1636
+380	BanPaw	t u t	t u t	1670
+381	NoeLae	t u c	t u c	1670
+382	NyaungGone	t u c	t u c	1670
+383	PongNuea	t ui̯ c	t ui̯ c	1670
+384	ChaYeQing	ʔ a k	ʔ a k	1671
+385	GuangKa	ʔ ɔ k	ʔ ɔ k	1671
+386	MangBang	ʔ ɔ k	ʔ ɔ k	1671
+387	NanSang	ʔ a k	ʔ a k	1671
+388	ChuDongGua	ŋ oːi̯	ŋ oːi̯	1672
+389	MengDan	ŋ oːi̯	ŋ oːi̯	1672
+390	HtanHsan	m ɔ ʔ	m ɔ ʔ	1673
+391	KhunHawt	m o ʔ	m o ʔ	1673
+392	ManLoi	m ɔ ŋ	m ɔ ŋ	1673
+393	NamHsan	m ɔ ʔ	m ɔ ʔ	1673
+394	PangKham	m ɔ ŋ	m ɔ ŋ	1673
+395	HtanHsan	kʰ r ɨ ʔ	kʰ r - ɨ ʔ	1722
+396	KhunHawt	k r w ə t	k r w ə t	1722
+397	ManLoi	kʰ r i t	kʰ r - i t	1722
+398	NamHsan	kʰ r i ʔ	kʰ r - i ʔ	1722
+399	PangKham	kʰ r ɔː t	kʰ r - ɔː t	1722
+400	NamHsan	ŋ a r	ŋ a r	1739
+401	PangKham	ŋ ɔː	ŋ ɔː -	1739
+402	NoeLae	m a	m a	1758
+403	PongNuea	m a	m a	1758
+404	ChuDongGua	s ə	s ə	1813
+405	HtanHsan	s a	s a	1813
+406	KhunHawt	s ə	s ə	1813
+407	NamHsan	s a	s a	1813
+408	NoeLae	s a	s a	1813
+409	NyaungGone	s a	s a	1813
+410	PongNuea	s a	s a	1813
+411	XiangZhaiTang	s a	s a	1813
+412	GuangKa	l aːu̯	l aːu̯	1816
+413	MangBang	l aːu̯	l aːu̯	1816
+414	NanSang	l aːu̯	l aːu̯	1816
+415	ManLoi	p l aː ŋ	p l aː ŋ	1817
+416	PangKham	p l aː ŋ	p l aː ŋ	1817
+417	ChaYeQing	ʔ a	ʔ a	1924
+418	ChuDongGua	h a	h a	1924
+419	HtanHsan	ʔ a	ʔ a	1924
+420	KhunHawt	ʔ a	ʔ a	1924
+421	ManLoi	ʔ ɨː	ʔ ɨː	1924
+422	MangBang	ʔ a	ʔ a	1924
+423	MengDan	ʔ ɯː	ʔ ɯː	1924
+424	NamHsan	h a	h a	1924
+425	NanSang	ʔ a	ʔ a	1924
+426	XiangZhaiTang	ʔ a	ʔ a	1924
+427	BanPaw	s ɨ	s ɨ	1967
+428	MangBang	s ə	s ə	1967
+429	NanSang	s a	s a	1967
+430	NoeLae	s a	s a	1967
+431	NyaungGone	s a	s a	1967
+432	PongNuea	s a	s a	1967
+433	XiangZhaiTang	s ɨ	s ɨ	1967
+434	HtanHsan	k ə r	k ə r	1969
+435	KhunHawt	k ə r	k ə r	1969
+436	GuangKa	t a ŋ	t a ŋ	2018
+437	HtanHsan	ɗ ɨ ŋ	ɗ ɨ ŋ	2018
+438	KhunHawt	ɗ ə ŋ	ɗ ə ŋ	2018
+439	ManLoi	d a ŋ	d a ŋ	2018
+440	MangBang	t a ŋ	t a ŋ	2018
+441	NamHsan	ɗ ɨ ŋ	ɗ ɨ ŋ	2018
+442	NanSang	t a ŋ	t a ŋ	2018
+443	XiangZhaiTang	d a ŋ	d a ŋ	2018
+444	ChuDongGua	b l ɔ ʔ	b l ɔ ʔ	2112
+445	HtanHsan	p l ɔ ʔ	p l ɔ ʔ	2112
+446	KhunHawt	b l ɔː ʔ	b l ɔː ʔ	2112
+447	MengDan	p l ɔ ʔ	p l ɔ ʔ	2112
+448	NamHsan	b l ɔ ʔ	b l ɔ ʔ	2112
+449	BanPaw	ʔ a	ʔ a -	2129
+450	KhunHawt	ʔ a n	ʔ a n	2129
+451	ManLoi	ʔ a	ʔ a -	2129
+452	MengDan	ʔ i	ʔ i -	2129
+453	NamHsan	ʔ a	ʔ a -	2129
+454	NoeLae	ʔ a	ʔ a -	2129
+455	NyaungGone	ʔ a	ʔ a -	2129
+456	PangKham	ʔ a	ʔ a -	2129
+457	PongNuea	ʔ a	ʔ a -	2129
+458	XiangZhaiTang	ʔ a	ʔ a -	2129
+459	HtanHsan	m ɔ h	m ɔ h	2131
+460	NamHsan	m ə h	m ə h	2131
+461	NanSang	m̥ əː	m̥ əː -	2131

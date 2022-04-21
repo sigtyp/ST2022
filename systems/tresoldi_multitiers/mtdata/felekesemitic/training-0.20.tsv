@@ -1,0 +1,1454 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	Amharic	h u lː u m	h - u lː u m - -	2
+2	Argobba	d i jː u m	- d i jː u m - -	2
+3	Geez	k w ə lː	k w ə lː - - - -	2
+4	Harari	k u lː u	k - u lː u - - -	2
+5	Kistane	k u lː ɨ m	k - u lː ɨ m - -	2
+6	Silte	h u lː ɨ m k ə	h - u lː ɨ m k ə	2
+7	Tigre	k ɨ lː a n	k - ɨ lː a n - -	2
+8	Tigrigna	k u lː u	k - u lː u - - -	2
+9	Wolane	h u l ɨ m	h - u l ɨ m - -	2
+10	Zway	h u lː u	h - u lː u - - -	2
+11	Amharic	k ɨ n d	k ɨ n - d -	3
+12	Argobba	k ɨ rː a	k ɨ - - rː a	3
+13	Ezha	h ɨ nː ə	h ɨ nː - - ə	3
+14	Gumer	x ɨ n ə	x ɨ n - - ə	3
+15	Gura	h ɨ n ə	h ɨ n - - ə	3
+16	Inor	h ɨ n ɨ ʔ ə	h ɨ n ɨ ʔ ə	3
+17	Kistane	k ɨ rː ə	k ɨ - - rː ə	3
+18	Mesqan	h ɨ nː ə	h ɨ nː - - ə	3
+19	Silte	k i r e	k i - - r e	3
+20	Wolane	k i r e	k i - - r e	3
+21	Amharic	dʒ ə r b a	dʒ - ə r b - - a	4
+22	Argobba	dʒ eː d	dʒ - eː d - - - -	4
+23	Chaha	g j i ʃ ə	g j i - ʃ - - ə	4
+24	Endegagn	g j i ʃ ə	g j i - ʃ - - ə	4
+25	Ezha	g ɨ n ʒ ə	g - ɨ n ʒ - - ə	4
+26	Gura	dʒ j i ʃ ə	dʒ j i - ʃ - - ə	4
+27	Gyeto	g i ʃ ə	g - i - ʃ - - ə	4
+28	Inor	g i ʃ ɨ ʔ ə	g - i - ʃ ɨ ʔ ə	4
+29	Kistane	g ɨ n ʒ ə	g - ɨ n ʒ - - ə	4
+30	Mesqan	g ɨ n ʒ ə	g - ɨ n ʒ - - ə	4
+31	Muher	g ɨ n ʒ ə	g - ɨ n ʒ - - ə	4
+32	Amharic	g ə b s	g ə b - s	5
+33	Geez	g ə b s	g ə b - s	5
+34	Harari	g uː s	g uː - - s	5
+35	Kistane	g ə b s	g ə b - s	5
+36	Zway	g ə b ɨ s	g ə b ɨ s	5
+37	Amharic	m ə l k a m	m ə l k a m -	6
+38	Chaha	m ə r k a m a	m ə r k a m a	6
+39	Endegagn	m ə l k a m a	m ə l k a m a	6
+40	Ezha	m ə r k a mː a	m ə r k a mː a	6
+41	Gumer	m ə r k a mː a	m ə r k a mː a	6
+42	Gura	m ə r k a m a	m ə r k a m a	6
+43	Gyeto	m ə r k a m a	m ə r k a m a	6
+44	Inor	m ə r k a m a	m ə r k a m a	6
+45	Kistane	m ə l k a m a	m ə l k a m a	6
+46	Mesqan	m ə l k a m a	m ə l k a m a	6
+47	Muher	m ə l k a m a	m ə l k a m a	6
+48	Zway	m ə l k ə mː a	m ə l k ə mː a	6
+49	Amharic	kʼ ə b ə tː o	kʼ ə b ə tː o - -	8
+50	Endegagn	kʼ ə b ə t o ʔ ə	kʼ ə b ə t o ʔ ə	8
+51	Ezha	kʼ ə b ə tː o	kʼ ə b ə tː o - -	8
+52	Gumer	kʼ ə b ə tː o	kʼ ə b ə tː o - -	8
+53	Gura	kʼ ə b ə tː o	kʼ ə b ə tː o - -	8
+54	Gyeto	kʼ ə b ə t o ʔ ə	kʼ ə b ə t o ʔ ə	8
+55	Kistane	kʼ ə b ə tː o	kʼ ə b ə tː o - -	8
+56	Mesqan	kʼ ə b ə tː o	kʼ ə b ə tː o - -	8
+57	Muher	kʼ ə b ə tː o	kʼ ə b ə tː o - -	8
+58	Silte	kʼ ə b ə tː o	kʼ ə b ə tː o - -	8
+59	Wolane	kʼ ə b ə tː o	kʼ ə b ə tː o - -	8
+60	Amharic	tʼ ɨ kʼ u r	tʼ ɨ kʼ - u r	10
+61	Argobba	tʼ ɨ kʼ u r	tʼ ɨ kʼ - u r	10
+62	Chaha	tʼ ɨ kʼ u r	tʼ ɨ kʼ - u r	10
+63	Gumer	tʼ ɨ k w ɨ r	tʼ ɨ k w ɨ r	10
+64	Gura	tʼ ɨ kʼ u r	tʼ ɨ kʼ - u r	10
+65	Gyeto	l ɨ kʼ u r	l ɨ kʼ - u r	10
+66	Kistane	tʼ ɨ kʼ u r	tʼ ɨ kʼ - u r	10
+67	Mesqan	tʼ ɨ kʼ u r	tʼ ɨ kʼ - u r	10
+68	Muher	tʼ ɨ kʼ u r	tʼ ɨ kʼ - u r	10
+69	Argobba	m ə kː a tʃː a	m ə - - kː a tʃː a	13
+70	Chaha	m ə t a g ə tʃ a	m ə t a g ə tʃ a	13
+71	Chaha	ʔ ɨ nː ɨ m	ʔ ɨ nː - ɨ m -	15
+72	Endegagn	h ɨ n ʔ e d i	h ɨ n ʔ e d i	15
+73	Ezha	ʔ ɨ nː ɨ m	ʔ ɨ nː - ɨ m -	15
+74	Gumer	ʔ ɨ nː ɨ m	ʔ ɨ nː - ɨ m -	15
+75	Gura	ʔ ɨ nː ɨ m	ʔ ɨ nː - ɨ m -	15
+76	Gyeto	ʔ ɨ nː ɨ ʔ	ʔ ɨ nː - ɨ ʔ -	15
+77	Inor	ʔ ɨ nː ə	ʔ ɨ nː - ə - -	15
+78	Mesqan	ʔ ɨ nː ɨ m	ʔ ɨ nː - ɨ m -	15
+79	Muher	ʔ ɨ nː ɨ m	ʔ ɨ nː - ɨ m -	15
+80	Chaha	ʔ a g a t	ʔ a g a t	16
+81	Endegagn	ʔ a g a d	ʔ a g a d	16
+82	Gyeto	ʔ a g a l	ʔ a g a l	16
+83	Chaha	ʔ ə x ɨ r	ʔ ə x ɨ r	17
+84	Endegagn	ʔ ə h ɨ r	ʔ ə h ɨ r	17
+85	Ezha	ʔ ə x ɨ r	ʔ ə x ɨ r	17
+86	Gumer	ʔ ə h ɨ r	ʔ ə h ɨ r	17
+87	Gura	ʔ ə h ɨ r	ʔ ə h ɨ r	17
+88	Gyeto	ʔ ə x ɨ r	ʔ ə x ɨ r	17
+89	Inor	ʔ ə x ɨ r	ʔ ə x ɨ r	17
+90	Mesqan	ʔ ɨ h ɨ r	ʔ ɨ h ɨ r	17
+91	Muher	ʔ ə x i	ʔ ə x i -	17
+92	Silte	ʔ ɨ x ɨ l	ʔ ɨ x ɨ l	17
+93	Tigre	ʃ ɨ ʕ i r	ʃ ɨ ʕ i r	17
+94	Wolane	ʔ ɨ x ɨ l	ʔ ɨ x ɨ l	17
+95	Chaha	n ɨ kʼ i j ə	n ɨ kʼ i j ə	18
+96	Endegagn	n u ʔ	n u ʔ - - -	18
+97	Ezha	ʔ ɨ m i j ə	ʔ ɨ m i j ə	18
+98	Gumer	n ɨ kʼ j ə	n ɨ kʼ - j ə	18
+99	Gura	n ɨ kʼ j ə	n ɨ kʼ - j ə	18
+100	Gyeto	n ɨ k i j ə	n ɨ k i j ə	18
+101	Inor	n u ʔ i j ə	n u ʔ i j ə	18
+102	Mesqan	n ɨ kʼ	n ɨ kʼ - - -	18
+103	Muher	l ɨ ʔ ɨ j ə	l ɨ ʔ ɨ j ə	18
+104	Endegagn	g ə m b ə n ə	g ə m b ə n ə	20
+105	Ezha	g ə m b ə nː a	g ə m b ə nː a	20
+106	Inor	g ə m b ə n a	g ə m b ə n a	20
+107	Zway	g ə m b ə l o	g ə m b ə l o	20
+108	Geez	ʕ a r a t	ʕ a r a t	24
+109	Tigre	ʕ a r a t	ʕ a r a t	24
+110	Tigrigna	ʕ a r a t	ʕ a r a t	24
+111	Geez	ʕ ə bː i	ʕ ə bː - - i	26
+112	Tigre	ʕ a b a j i	ʕ a b a j i	26
+113	Geez	s a lː i m	s a lː i m	27
+114	Tigre	s ə l i m	s ə l i m	27
+115	Tigrigna	s ə lː i m	s ə lː i m	27
+116	Harari	ħ a r ə kʼ	ħ a r ə kʼ	29
+117	Tigre	r ɨ s ɨ kʼ	r ɨ s ɨ kʼ	29
+118	Zway	ʔ a r ə kʼ	ʔ a r ə kʼ	29
+119	Harari	ħ a tʃʼ i	ħ a tʃʼ i -	30
+120	Silte	tʃʼ ɨ n	- - tʃʼ ɨ n	30
+121	Wolane	tʃ ɨ n	- - tʃ ɨ n	30
+122	Harari	tʼ əi̯	tʼ əi̯ -	35
+123	Silte	tʼ e m	tʼ e m	35
+124	Wolane	t ɨ m	t ɨ m	35
+125	Silte	b ə r eː d ə	b ə r eː d ə	42
+126	Wolane	b ə r e d ə	b ə r e d ə	42
+127	Tigre	m ə kʼ tʼ ə n	m ə - kʼ tʼ ə n	49
+128	Zway	m ɨ s k ə t	m ɨ s k - ə t	49
+129	Wolane	dʒ ə b ə	dʒ ə b ə	58
+130	Zway	dʒ ə b a	dʒ ə b a	58
+131	Amharic	f ə lː a	f ə lː - - a	62
+132	Harari	f ə l a ħ a	f ə l a ħ a	62
+133	Kistane	f ə lː a m	f ə lː a m -	62
+134	Silte	f ə l a	f ə l - - a	62
+135	Wolane	f ə l a	f ə l - - a	62
+136	Zway	f ə l ə	f ə l - - ə	62
+137	Amharic	g o mː ə nː	g o mː ə nː	68
+138	Argobba	g o m ə n	g o m ə n	68
+139	Amharic	tʼ ɨ dʒː a	tʼ ɨ dʒː a	69
+140	Argobba	tʼ ɨ dʒː a	tʼ ɨ dʒː a	69
+141	Harari	tʼ ɨ dʒ a	tʼ ɨ dʒ a	69
+142	Kistane	tʼ ə g	tʼ ə g -	69
+143	Muher	d ə g	d ə g -	69
+144	Argobba	n ə fː ə r a	n ə fː ə r a	70
+145	Geez	n ə f ə r ə	n ə f ə r ə	70
+146	Tigre	ħ a f ə n a	ħ a f ə n a	70
+147	Argobba	ʔ ə h	ʔ ə h - -	71
+148	Geez	ʔ ɨ ħ ɨ w	ʔ ɨ ħ ɨ w	71
+149	Harari	ʔ ɨ ħ	ʔ ɨ ħ - -	71
+150	Zway	ʔ ɨː n	ʔ ɨː n - -	71
+151	Chaha	tʃ ə k ə r ə m	tʃ ə k - ə r ə m	73
+152	Endegagn	tʃ a k a rː a	tʃ a k - a rː a -	73
+153	Ezha	tʃ ə kː w ə r ə	tʃ ə kː w ə r ə -	73
+154	Gumer	tʃ ə kː ə r ə m	tʃ ə kː - ə r ə m	73
+155	Gura	tʃ ə k ə r ə m	tʃ ə k - ə r ə m	73
+156	Gyeto	tʃ ə k ə r ə	tʃ ə k - ə r ə -	73
+157	Inor	tʃ ə k w ə r ə	tʃ ə k w ə r ə -	73
+158	Mesqan	tʃ ə kː w ə r ə	tʃ ə kː w ə r ə -	73
+159	Muher	tʃ ə kː w ə r ə m	tʃ ə kː w ə r ə m	73
+160	Chaha	g w ə p ə	g w ə p ə	74
+161	Ezha	g w ə bː e	g w ə bː e	74
+162	Gumer	g w ə pː ai̯	g w ə pː ai̯	74
+163	Gura	g w ə p ə	g w ə p ə	74
+164	Gyeto	g w ə p ai̯	g w ə p ai̯	74
+165	Mesqan	g w ə bː e	g w ə bː e	74
+166	Muher	g w ə bː e	g w ə bː e	74
+167	Chaha	m w ə s a	- - m w ə s a	76
+168	Endegagn	m o s a	- - m - o s a	76
+169	Ezha	m w ə sː a	- - m w ə sː a	76
+170	Gumer	m w ə s a	- - m w ə s a	76
+171	Gura	m w ə s a	- - m w ə s a	76
+172	Gyeto	m w ə s a	- - m w ə s a	76
+173	Inor	m w ə s a	- - m w ə s a	76
+174	Mesqan	m w a s a	- - m w a s a	76
+175	Wolane	ʔ ɨ m b o sː ə	ʔ ɨ m b o sː ə	76
+176	Endegagn	ʔ ə ʃː ə ʔ ə m	ʔ ə ʃː ə ʔ ə m	77
+177	Inor	ʔ ə s ə m	ʔ ə s - - ə m	77
+178	Geez	ʔ ɨ g w ə l t	ʔ ɨ g w ə l t	81
+179	Tigre	ʔ ɨ g a l	ʔ ɨ g - a l -	81
+180	Harari	b a ʔ a r a	b a ʔ a r a	84
+181	Muher	b o r a	b o - - r a	84
+182	Mesqan	f u r n o	f u r n o	87
+183	Silte	f u r n o	f u r n o	87
+184	Silte	ʔ ɨ z ə kʼ	ʔ ɨ z ə kʼ	98
+185	Zway	ʔ ɨ z ə kʼ	ʔ ɨ z ə kʼ	98
+186	Tigre	b a n i	b a n i	100
+187	Tigrigna	b a n i	b a n i	100
+188	Tigre	ħ u	ħ u -	101
+189	Tigrigna	ħ a w	ħ a w	101
+190	Amharic	m ə tʼː a	m ə tʼː - a -	106
+191	Argobba	m ə tʼː a	m ə tʼː - a -	106
+192	Endegagn	m ə ʔ a	m ə - ʔ a -	106
+193	Geez	m ə s ʔ a	m ə s ʔ a -	106
+194	Inor	m ə ʔ a	m ə - ʔ a -	106
+195	Kistane	m ə tʼː a	m ə tʼː - a -	106
+196	Silte	m ə tʼ a	m ə tʼ - a -	106
+197	Tigre	m ə s a	m ə s - a -	106
+198	Tigrigna	m ɨ s a ʔ	m ɨ s - a ʔ	106
+199	Wolane	m ə tʼ a	m ə tʼ - a -	106
+200	Zway	m aː t aː	m aː t - aː -	106
+201	Amharic	d ɨ mː ə t	d ɨ mː ə t	108
+202	Argobba	d ɨ m ə t	d ɨ m ə t	108
+203	Geez	d ɨ mː ə t	d ɨ mː ə t	108
+204	Tigre	d ɨ mː u	d ɨ mː u -	108
+205	Tigrigna	d ɨ mː u	d ɨ mː u -	108
+206	Amharic	g u n tʃʼ	g u n tʃʼ -	109
+207	Argobba	g u n tʃ e	g u n tʃ e	109
+208	Harari	tʃʼ aː tʃʼ u	tʃʼ aː - tʃʼ u	109
+209	Inor	g u n tʃʼ ə	g u n tʃʼ ə	109
+210	Kistane	g u n tʃʼ ə	g u n tʃʼ ə	109
+211	Muher	g u n tʃʼ ə	g u n tʃʼ ə	109
+212	Silte	g u n tʃʼ o	g u n tʃʼ o	109
+213	Tigrigna	n u n tʃʼ i	n u n tʃʼ i	109
+214	Amharic	d ə r ə t	d ə r ə t	110
+215	Chaha	d a t a	d a t a -	110
+216	Endegagn	d a tː ə	d a tː ə -	110
+217	Ezha	d a dː a	d a dː a -	110
+218	Gumer	d a tː a	d a tː a -	110
+219	Gyeto	d a tː ə	d a tː ə -	110
+220	Inor	d a t a	d a t a -	110
+221	Kistane	d ə r ə t	d ə r ə t	110
+222	Muher	d a dː a	d a dː a -	110
+223	Amharic	l ɨ dʒ	l ɨ dʒ	111
+224	Argobba	l ɨ dʒ	l ɨ dʒ	111
+225	Wolane	w e dʒ	w e dʒ	111
+226	Amharic	b u nː a	b u nː a	113
+227	Argobba	b u nː	b u nː -	113
+228	Ezha	b u n a	b u n a	113
+229	Geez	b u nː a	b u nː a	113
+230	Gyeto	b u n o	b u n o	113
+231	Harari	b u n	b u n -	113
+232	Kistane	b u n a	b u n a	113
+233	Silte	b u n o	b u n o	113
+234	Tigre	b u n	b u n -	113
+235	Tigrigna	b u n	b u n -	113
+236	Wolane	b u n o	b u n o	113
+237	Zway	b u n a	b u n a	113
+238	Amharic	d ə bː ə kʼ ə	d ə bː ə kʼ ə	114
+239	Geez	d ə b ə kʼ ə	d ə b ə kʼ ə	114
+240	Argobba	g ə n g a d	g ə n g a d - -	116
+241	Geez	ʔ ɨ n g ɨ d ʔ a	ʔ ɨ n g ɨ d ʔ a	116
+242	Chaha	tʃ ə n ə	tʃ ə n ə	118
+243	Ezha	tʃ ə n ə	tʃ ə n ə	118
+244	Gumer	tʃ ə n ə	tʃ ə n ə	118
+245	Gura	tʃ ə n ə	tʃ ə n ə	118
+246	Gyeto	tʃ ə ɲ ə	tʃ ə ɲ ə	118
+247	Mesqan	tʃ ə ɲː ə	tʃ ə ɲː ə	118
+248	Chaha	ʔ a n g a tʃ a	ʔ a n g a tʃ a	119
+249	Endegagn	ʔ a n g a tʃː ə	ʔ a n g a tʃː ə	119
+250	Ezha	ʔ a n g a tʃː a	ʔ a n g a tʃː a	119
+251	Gumer	ʔ a n g a tʃː a	ʔ a n g a tʃː a	119
+252	Gura	ʔ a n g a tʃ a	ʔ a n g a tʃ a	119
+253	Gyeto	ʔ a n g a tʃ a	ʔ a n g a tʃ a	119
+254	Inor	ʔ a n g a tʃ a	ʔ a n g a tʃ a	119
+255	Kistane	ʔ a n g a tʃ a	ʔ a n g a tʃ a	119
+256	Mesqan	ʔ a n g a tʃ a	ʔ a n g a tʃ a	119
+257	Muher	ʔ a n g a tʃ a	ʔ a n g a tʃ a	119
+258	Chaha	d a n g a	d a n g a	120
+259	Endegagn	d a n g ə	d a n g ə	120
+260	Ezha	d a n g ə	d a n g ə	120
+261	Gumer	d a n g a	d a n g a	120
+262	Gura	d a n g a	d a n g a	120
+263	Gyeto	d a n g a	d a n g a	120
+264	Mesqan	d a n g a	d a n g a	120
+265	Chaha	t ɨ k ə	t ɨ k ə	121
+266	Endegagn	t ɨ k ə	t ɨ k ə	121
+267	Ezha	t ɨ k ə	t ɨ k ə	121
+268	Gumer	t ɨ k ə	t ɨ k ə	121
+269	Gura	t ɨ k ə	t ɨ k ə	121
+270	Gyeto	t ɨ k ə	t ɨ k ə	121
+271	Inor	t ɨ k ə	t ɨ k ə	121
+272	Mesqan	t ɨ x ə	t ɨ x ə	121
+273	Muher	t ɨ k ə	t ɨ k ə	121
+274	Chaha	kʼ a w a	kʼ a w a	122
+275	Endegagn	kʼ ə w a	kʼ ə w a	122
+276	Gumer	kʼ a w a	kʼ a w a	122
+277	Gura	kʼ a w a	kʼ a w a	122
+278	Inor	kʼ a w a	kʼ a w a	122
+279	Mesqan	kʼ a w a	kʼ a w a	122
+280	Muher	kʼ a w a	kʼ a w a	122
+281	Chaha	ʃ e m ə	ʃ e m ə - -	123
+282	Ezha	ʃ e m ə m	ʃ e m ə m -	123
+283	Gumer	ʃ e m ə m	ʃ e m ə m -	123
+284	Gura	ʃ e m ə ʔ	ʃ e m ə ʔ -	123
+285	Gyeto	ʃ e m ə	ʃ e m ə - -	123
+286	Harari	ʃ eː m ə kʼ a	ʃ eː m ə kʼ a	123
+287	Kistane	s ə tʼ ə	s ə tʼ ə - -	123
+288	Mesqan	ʃ e m ə	ʃ e m ə - -	123
+289	Muher	ʃ ə m ə m	ʃ ə m ə m -	123
+290	Silte	ʃ eː m e	ʃ eː m e - -	123
+291	Wolane	ʃ e m e	ʃ e m e - -	123
+292	Zway	ʃ i m i	ʃ i m i - -	123
+293	Endegagn	d ə ʔ ə n ə	d ə ʔ ə n ə -	124
+294	Inor	d ə ʔ ə r ə ʔ	d ə ʔ ə r ə ʔ	124
+295	Geez	w a l d	w a l - d	126
+296	Harari	w iː dʒ	w iː - - dʒ	126
+297	Tigre	w ə l a d	w ə l a d	126
+298	Harari	ʔ a d u rː u	ʔ a d u rː u	131
+299	Silte	ʔ aː d ə n	ʔ aː d ə n -	131
+300	Wolane	ʔ a d ə n	ʔ a d ə n -	131
+301	Zway	ʔ a d u rː u	ʔ a d u rː u	131
+302	Harari	w a z ə n a	w a z ə n a	132
+303	Silte	w ə z ə n ə	w ə z ə n ə	132
+304	Kistane	b ai̯	b ai̯ - -	133
+305	Zway	b aː j u	b aː j u	133
+306	Amharic	ʔ a l ə kʼː ə s ə	ʔ a l ə kʼː ə s ə	151
+307	Argobba	l ə kʼː ə s ə	- - l ə kʼː ə s ə	151
+308	Amharic	ʔ a zː o	ʔ a zː o	152
+309	Argobba	ʔ a z o	ʔ a z o	152
+310	Ezha	ʔ a zː o	ʔ a zː o	152
+311	Gumer	ʔ a zː o	ʔ a zː o	152
+312	Kistane	ʔ a zː o	ʔ a zː o	152
+313	Mesqan	ʔ a zː o	ʔ a zː o	152
+314	Muher	ʔ a zː o	ʔ a zː o	152
+315	Wolane	ʔ a zː o	ʔ a zː o	152
+316	Zway	ʔ a zː o	ʔ a zː o	152
+317	Amharic	w ə sː ə n ə	w ə - - sː - ə n ə	153
+318	Chaha	w ə w ə sː ɨ n	w ə w ə sː - ɨ n -	153
+319	Gumer	w ə s n o t	w ə - - s n o t -	153
+320	Inor	w ə sː ɨ n	w ə - - sː - ɨ n -	153
+321	Kistane	w o w o sː ɨ n	w o w o sː - ɨ n -	153
+322	Mesqan	w ə w ə sː ɨ n	w ə w ə sː - ɨ n -	153
+323	Muher	w ə w ə sː ɨ n	w ə w ə sː - ɨ n -	153
+324	Tigrigna	w ə sː ə n ə	w ə - - sː - ə n ə	153
+325	Amharic	ʔ a f ə rː ə s ə	ʔ a f ə rː ə s ə -	154
+326	Argobba	f ə rː ə s ə	f ə - - rː ə s ə -	154
+327	Geez	ʔ a f r ə s ə	ʔ a f - r ə s ə -	154
+328	Mesqan	b ə rː ə s ə	b ə - - rː ə s ə -	154
+329	Muher	ʔ a f ə rː ə s ə m	ʔ a f ə rː ə s ə m	154
+330	Tigre	ʔ a f r ə s a	ʔ a f - r ə s a -	154
+331	Zway	f ə r ə s ə	f ə - - r ə s ə -	154
+332	Amharic	w ɨ ʃː a	w ɨ ʃː a	155
+333	Argobba	w ɨ ʃ a	w ɨ ʃ a	155
+334	Kistane	w ɨ sː a	w ɨ sː a	155
+335	Amharic	ʔ a h ɨ jː a	ʔ a h ɨ jː a	156
+336	Argobba	ʔ a h ɨ j a	ʔ a h ɨ j a	156
+337	Amharic	ʔ a lː ə m ə	ʔ a lː ə m ə	157
+338	Geez	ħ ɨ l u m	ħ ɨ l u m -	157
+339	Tigre	ħ a lː ə m	ħ a lː ə m -	157
+340	Tigrigna	ħ a l ə m ə	ħ a l ə m ə	157
+341	Chaha	b a n ə r ə m	b a n ə r ə m	166
+342	Endegagn	b a nː ə r ə	b a nː ə r ə -	166
+343	Ezha	b a nː ə s ə m	b a nː ə s ə m	166
+344	Gura	b a n ə r ə m	b a n ə r ə m	166
+345	Inor	b a n ə r ə	b a n ə r ə -	166
+346	Chaha	g ɨ j ə	g ɨ j ə	167
+347	Endegagn	g ɨ j ə	g ɨ j ə	167
+348	Ezha	g ɨ jː ə	g ɨ jː ə	167
+349	Gumer	g ɨ j ə	g ɨ j ə	167
+350	Gura	g ɨ j ə	g ɨ j ə	167
+351	Gyeto	g ɨ j ə	g ɨ j ə	167
+352	Inor	g ɨ j ə	g ɨ j ə	167
+353	Mesqan	g ɨ j ə	g ɨ j ə	167
+354	Muher	g ɨ j ə	g ɨ j ə	167
+355	Endegagn	d ə r ə w ə	d ə - - r - ə w ə	170
+356	Gura	j ə b a r ʔ a w i	j ə b a r ʔ a w i	170
+357	Gyeto	ʔ a b a r a w	ʔ a b a r - a w -	170
+358	Inor	ʔ a b a r ʔ a w i	ʔ a b a r ʔ a w i	170
+359	Geez	ħ ə r g ə s	ħ ə r g ə s	175
+360	Harari	ħ aː s	ħ aː - - - s	175
+361	Tigrigna	ħ a r g ə s	ħ a r g ə s	175
+362	Geez	k ə l b	k ə l - b -	177
+363	Tigre	k ə l ɨ b	k ə l ɨ b -	177
+364	Tigrigna	k ə l b i	k ə l - b i	177
+365	Geez	ʔ a d g	ʔ a d - g -	178
+366	Tigre	ʔ a d ɨ g	ʔ a d ɨ g -	178
+367	Tigrigna	ʔ a d g i	ʔ a d - g i	178
+368	Geez	j ɨ b u s	j ɨ - b u s	179
+369	Tigre	j ɨ b u s	j ɨ - b u s	179
+370	Tigrigna	n ɨ kʼ w u s	n ɨ kʼ w u s	179
+371	Gyeto	d a s ə	d a - - s ə -	184
+372	Harari	d aː m ə s a	d aː m ə s a -	184
+373	Kistane	d a s ə m	d a - - s ə m	184
+374	Silte	d a s ə m	d a - - s ə m	184
+375	Wolane	d a s aː	d a - - s aː -	184
+376	Harari	kʼ oː tʃʼ a	kʼ oː tʃʼ a	186
+377	Silte	kʼ oː tʃ e	kʼ oː tʃ e	186
+378	Wolane	kʼ oː tʃ e	kʼ oː tʃ e	186
+379	Zway	kʼ uː tʃ i	kʼ uː tʃ i	186
+380	Harari	b u tʃ i	b u tʃ i	187
+381	Silte	b uː tʃ o	b uː tʃ o	187
+382	Wolane	b u tʃ o	b u tʃ o	187
+383	Amharic	dʒ o r o	dʒ o r o	207
+384	Argobba	dʒ o r o	dʒ o r o	207
+385	Amharic	m ɨ ʃː ɨ t	m ɨ ʃː ɨ t	211
+386	Argobba	m u ʃ e d	m u ʃ e d	211
+387	Geez	m ɨ s e t	m ɨ s e t	211
+388	Harari	m ə ʃ eː t	m ə ʃ eː t	211
+389	Kistane	m ɨ ʃ ə r	m ɨ ʃ ə r	211
+390	Silte	g ə bː a t	g ə bː a t	211
+391	Tigre	m ɨ s e	m ɨ s e -	211
+392	Tigrigna	m ɨ ʃ ə t	m ɨ ʃ ə t	211
+393	Zway	m ɨ ʃ i t	m ɨ ʃ i t	211
+394	Amharic	ʔ a r aː ʃ	ʔ a r aː ʃ - -	213
+395	Argobba	ʔ a r aː ʃ	ʔ a r aː ʃ - -	213
+396	Harari	ħ a r aː ʃ i	ħ a r aː ʃ - i	213
+397	Kistane	ʔ a r a ʃ	ʔ a r a ʃ - -	213
+398	Mesqan	ʔ a r a ʃ	ʔ a r a ʃ - -	213
+399	Silte	ʔ a r aː ʃ i	ʔ a r aː ʃ - i	213
+400	Tigre	ħ ə r ə s t ai̯	ħ ə r ə s t ai̯	213
+401	Tigrigna	ħ a r ə s t ai̯	ħ a r ə s t ai̯	213
+402	Wolane	ʔ a r a ʃ	ʔ a r a ʃ - -	213
+403	Zway	ʔ a r aː ʃ i	ʔ a r aː ʃ - i	213
+404	Amharic	tʃʼ ə rː ə s ə	tʃʼ ə rː ə s ə	216
+405	Argobba	tʃʼ e rː ə s a	tʃʼ e rː ə s a	216
+406	Silte	tʃʼ eː r ə s ə	tʃʼ eː r ə s ə	216
+407	Wolane	tʃʼ eː r ə s ə	tʃʼ eː r ə s ə	216
+408	Argobba	ʔ a w	ʔ a w	217
+409	Harari	ʔ aː w	ʔ aː w	217
+410	Chaha	g ə p a t	g ə p a t	219
+411	Ezha	g ə bː a t	g ə bː a t	219
+412	Gumer	g ə pː a t	g ə pː a t	219
+413	Gura	g ə p a t	g ə p a t	219
+414	Gyeto	g ə p a t	g ə p a t	219
+415	Inor	g ə p a d	g ə p a d	219
+416	Mesqan	g ə bː a t	g ə bː a t	219
+417	Muher	g ə bː a t	g ə bː a t	219
+418	Chaha	tʃ ə w a tʃ	tʃ ə w a tʃ	220
+419	Ezha	tʃ ə w a tʃ	tʃ ə w a tʃ	220
+420	Gumer	tʃ ə w a tʃ	tʃ ə w a tʃ	220
+421	Gura	tʃ ə w a tʃ	tʃ ə w a tʃ	220
+422	Gyeto	tʃ o w a tʃ	tʃ o w a tʃ	220
+423	Inor	tʃ ə w a dʒ	tʃ ə w a dʒ	220
+424	Muher	tʃ ə w a tʃ	tʃ ə w a tʃ	220
+425	Chaha	dʒ ə p ə r ə	dʒ ə p ə r ə	221
+426	Gumer	dʒ ə pː ə r ə	dʒ ə pː ə r ə	221
+427	Gura	dʒ ə p ə r ə	dʒ ə p ə r ə	221
+428	Gyeto	dʒ ə pː ə r ə	dʒ ə pː ə r ə	221
+429	Inor	dʒ ə p ə r ə	dʒ ə p ə r ə	221
+430	Mesqan	ʒ ə bː ə r ə	ʒ ə bː ə r ə	221
+431	Ezha	f ə dʒː ə m	f ə dʒː ə m -	222
+432	Geez	f ə sː ə m ə	f ə sː ə m ə	222
+433	Muher	f ə dʒː ə m	f ə dʒː ə m -	222
+434	Geez	ħ ə r m ə z	ħ ə r m ə z	224
+435	Tigre	h a r m ə z	h a r m ə z	224
+436	Tigrigna	ħ a r m a z	ħ a r m a z	224
+437	Harari	ʔ a tʼ ə b i ɲː	ʔ a tʼ ə b i - ɲː -	227
+438	Tigrigna	ʔ a s a b ɨ ʕ t i	ʔ a s a b ɨ ʕ t i	227
+439	Kistane	tʃʼ ə rː ə s ə	tʃʼ ə rː ə s ə -	229
+440	Tigre	w ə dː ə ʔ ə	w ə dː ə ʔ ə -	229
+441	Tigrigna	w ə dː ə ʔ ə	w ə dː ə ʔ ə -	229
+442	Zway	ʔ a tʃʼ i r aː kʼ	ʔ a tʃʼ i r aː kʼ	229
+443	Amharic	ʔ a g ə ɲː ə	ʔ a g ə ɲː ə -	243
+444	Harari	ʔ a g ə ɲ ə	ʔ a g ə ɲ ə -	243
+445	Kistane	ʔ a g ə ɲː o	ʔ a g ə ɲː o -	243
+446	Muher	ʔ a g ə ɲː ə m	ʔ a g ə ɲː ə m	243
+447	Zway	g aː ɲ i	- - g aː ɲ i -	243
+448	Amharic	kʼ ə b ə r o	kʼ - ə b ə r o	245
+449	Chaha	kʼ ə w ə r ə	kʼ - ə w ə r ə	245
+450	Ezha	kʼ ə w ə r ə	kʼ - ə w ə r ə	245
+451	Gumer	kʼ ə w ə r ə	kʼ - ə w ə r ə	245
+452	Gura	kʼ ə w ə r ə	kʼ - ə w ə r ə	245
+453	Gyeto	kʼ w ə b ə r ə	kʼ w ə b ə r ə	245
+454	Muher	kʼ ə w ə r ə	kʼ - ə w ə r ə	245
+455	Amharic	ʔ a r b	ʔ a r b -	246
+456	Geez	ʕ a r b	ʕ a r b -	246
+457	Tigrigna	ʕ a r b i	ʕ a r b i	246
+458	Amharic	ʔ ɨ n kʼ u r a r i t	ʔ ɨ n kʼ u r a r i t	247
+459	Argobba	ʔ ɨ n kʼ u r a r i t	ʔ ɨ n kʼ u r a r i t	247
+460	Silte	ʔ ɨ n kʼ u r a r i t	ʔ ɨ n kʼ u r a r i t	247
+461	Tigre	ʔ ɨ n kʼ ɨ r ʕ o b	ʔ ɨ n kʼ ɨ r - ʕ o b	247
+462	Tigrigna	ʔ ɨ n kʼ u r a r i t	ʔ ɨ n kʼ u r a r i t	247
+463	Wolane	ʔ ɨ n kʼ u r a r i t	ʔ ɨ n kʼ u r a r i t	247
+464	Zway	ʔ ɨ n kʼ u r a r i t	ʔ ɨ n kʼ u r a r i t	247
+465	Amharic	n ə tʃʼ ʃ ɨ n k u r t	n ə tʃʼ ʃ ɨ n k u r t	249
+466	Argobba	z a h ʃ u n k u r t	z a h ʃ u n k u r t	249
+467	Amharic	t ə w ə	- - t ə w ə -	250
+468	Argobba	t ə w ə	- - t ə w ə -	250
+469	Chaha	w ə t e	w ə t e - - -	250
+470	Ezha	w ə t e	w ə t e - - -	250
+471	Gumer	t a b o t	- - t a b o t	250
+472	Gura	w ə t e	w ə t e - - -	250
+473	Inor	ʔ ə t ə ʔ u t	ʔ ə t ə ʔ u t	250
+474	Muher	w ə t e	w ə t e - - -	250
+475	Argobba	r a x ə w	r a x ə w - -	252
+476	Chaha	n ə k ə b ə m	n ə k ə b ə m	252
+477	Ezha	n ə kː ə b ə m	n ə kː ə b ə m	252
+478	Geez	r ə k ə b ə	r ə k ə b ə -	252
+479	Gumer	n ə kː ə b ə m	n ə kː ə b ə m	252
+480	Gura	n ə k ə b ə	n ə k ə b ə -	252
+481	Gyeto	n ə k ə b ə	n ə k ə b ə -	252
+482	Inor	n ə k ə β ə	n ə k ə β ə -	252
+483	Mesqan	r ə kː ə b ə	r ə kː ə b ə -	252
+484	Silte	r ə k ə b ə	r ə k ə b ə -	252
+485	Tigre	r ə k b ə	r ə k - b ə -	252
+486	Wolane	r ə h aː b ə	r ə h aː b ə -	252
+487	Argobba	ʔ ɨ n dʒ e d e l o	ʔ ɨ n dʒ e d e l o	253
+488	Zway	dʒ eː d aː l ə	- - - dʒ eː d aː l ə	253
+489	Argobba	dʒ u m a ʔ a	dʒ u m a ʔ a -	254
+490	Chaha	dʒ i m a t	dʒ i m - - a t	254
+491	Gumer	dʒ ɨ m a t	dʒ ɨ m - - a t	254
+492	Gura	dʒ ɨ m a t	dʒ ɨ m - - a t	254
+493	Gyeto	dʒ i m ʔ a t	dʒ i m - ʔ a t	254
+494	Harari	dʒ u m ʔ a	dʒ u m - ʔ a -	254
+495	Inor	dʒ ɨ m ʔ a t	dʒ ɨ m - ʔ a t	254
+496	Silte	dʒ i m a t	dʒ i m - - a t	254
+497	Tigre	dʒ ɨ m a t	dʒ ɨ m - - a t	254
+498	Wolane	dʒ i m a t	dʒ i m - - a t	254
+499	Zway	dʒ i m ə t	dʒ i m - - ə t	254
+500	Chaha	kʼ w ə n tʃʼ ə	kʼ w ə n - tʃʼ ə	255
+501	Ezha	kʼ w ə tʃʼ ə	kʼ w ə - - tʃʼ ə	255
+502	Gumer	kʼ w ə n tʃʼ ə	kʼ w ə n - tʃʼ ə	255
+503	Gura	kʼ w ə n tʃʼ ə	kʼ w ə n - tʃʼ ə	255
+504	Gyeto	kʼ w ə n tʃ ə	kʼ w ə n - tʃ ə	255
+505	Inor	kʼ o n tʃ ə	kʼ - o n - tʃ ə	255
+506	Kistane	kʼ o l ə tʃ ə	kʼ - o l ə tʃ ə	255
+507	Mesqan	kʼ w ə tʃ ə	kʼ w ə - - tʃ ə	255
+508	Muher	kʼ o l ə tʃ ə	kʼ - o l ə tʃ ə	255
+509	Ezha	ʔ a dː a r ə	ʔ a dː a r ə	257
+510	Kistane	ʔ a dː a r ə	ʔ a dː a r ə	257
+511	Mesqan	ʔ a dː a r ə	ʔ a dː a r ə	257
+512	Muher	ʔ a dː a r ə	ʔ a dː a r ə	257
+513	Geez	kʼ w ɨ n s ɨ l	kʼ w ɨ n s ɨ l	258
+514	Tigre	ħ a ʃ i l	ħ - a - ʃ i l	258
+515	Geez	kʼ w ə r n ə n ə ʕ a t	kʼ w ə r n - ə n ə ʕ a t	259
+516	Harari	ʔ a n kʼ u r aː r a ħ	ʔ - a - n kʼ u r aː r a ħ	259
+517	Geez	tʼ a l i	tʼ a l i	261
+518	Tigrigna	tʼʲ ə l	tʼʲ ə l -	261
+519	Harari	ʔ aː z j ə g ə d u	ʔ aː z j ə g ə d u	264
+520	Silte	z ə g ə d o	- - z - ə g ə d o	264
+521	Inor	ʔ ɨ n g w ə r ə g ɨi̯	ʔ ɨ n g w ə r ə - g - - ɨi̯	267
+522	Wolane	w ə l ə n g aː j a	- - - - w ə l ə n g aː j a	267
+523	Kistane	w ə g f ɨ r	w ə g f ɨ r	269
+524	Mesqan	w ə g f ɨ r	w ə g f ɨ r	269
+525	Silte	ʔ ɨ d ə g o t	ʔ ɨ d ə g o t	277
+526	Wolane	ʔ a d ə g ə	ʔ a d ə g ə -	277
+527	Zway	ʔ a d ə g ə	ʔ a d ə g ə -	277
+528	Amharic	s ə g u r	s ə g u r - -	286
+529	Argobba	tʃ ɨ g a r	tʃ ɨ g a r - -	286
+530	Geez	s ə g w r	s ə g w r - -	286
+531	Harari	tʃʼ ɨ g ə r	tʃʼ ɨ g ə r - -	286
+532	Tigre	tʃʼ ə gː ə r ə t	tʃʼ ə gː ə r ə t	286
+533	Tigrigna	s ə g u r i	s ə g u r i -	286
+534	Zway	t ɨ g ə r	t ɨ g ə r - -	286
+535	Amharic	ʔ ɨ sː u	ʔ ɨ sː u	287
+536	Argobba	k ɨ s u	k ɨ s u	287
+537	Tigrigna	n ɨ sː u	n ɨ sː u	287
+538	Amharic	r a s	r a - - s -	288
+539	Geez	r ɨ ʔ ɨ s	r ɨ ʔ ɨ s -	288
+540	Harari	ʔ u r uː s	ʔ u r uː s -	288
+541	Tigre	r ə ʔ a s	r ə ʔ a s -	288
+542	Tigrigna	r ɨ ʔ s i	r ɨ ʔ - s i	288
+543	Zway	ʔ a h ə r	ʔ a h ə r -	288
+544	Amharic	l ɨ bː	l ɨ - bː -	289
+545	Argobba	l ɨ b i	l ɨ - b i	289
+546	Geez	l ɨ bː	l ɨ - bː -	289
+547	Harari	kʼ ə l b i	kʼ ə l b i	289
+548	Kistane	l ɨ bː	l ɨ - bː -	289
+549	Muher	l ɨ bː	l ɨ - bː -	289
+550	Tigre	l ɨ bː	l ɨ - bː -	289
+551	Tigrigna	l ɨ bː i	l ɨ - bː i	289
+552	Amharic	ʔ a gː ə z ə	ʔ a gː ə z ə -	290
+553	Argobba	h a gː ə z a	h a gː ə z a -	290
+554	Chaha	ʔ a g ə z ə m	ʔ a g ə z ə m	290
+555	Ezha	ʔ a gː ə z ə m	ʔ a gː ə z ə m	290
+556	Geez	ħ ə g ə z ə	ħ ə g ə z ə -	290
+557	Gumer	ʔ a g ə z ə m	ʔ a g ə z ə m	290
+558	Gura	ʔ a g ə z ə m	ʔ a g ə z ə m	290
+559	Mesqan	ʔ a gː ə z ə	ʔ a gː ə z ə -	290
+560	Silte	ʔ a g ə z ə	ʔ a g ə z ə -	290
+561	Tigrigna	ħ a g ə z ə	ħ a g ə z ə -	290
+562	Wolane	ʔ a g ə z ə	ʔ a g ə z ə -	290
+563	Amharic	d o r o	d o r - o	291
+564	Argobba	d o r o	d o r - o	291
+565	Geez	d o r h o	d o r h o	291
+566	Tigre	d ə r h o	d ə r h o	291
+567	Tigrigna	d ə r h o	d ə r h o	291
+568	Argobba	d ɨ m a	d ɨ m a	295
+569	Silte	d u m	d u m -	295
+570	Wolane	d u m i	d u m i	295
+571	Argobba	ʔ i wː a t	ʔ i - wː a t -	296
+572	Chaha	j ə h u t	j ə h - u t -	296
+573	Ezha	j ə x u t	j ə x - u t -	296
+574	Gumer	j ə x u t	j ə x - u t -	296
+575	Gura	j a h u t	j a h - u t -	296
+576	Gyeto	ʔ ɨ x w t a	ʔ ɨ x w - t a	296
+577	Inor	ʔ ɨ h u d a	ʔ ɨ h u - d a	296
+578	Kistane	j ə k w a	j ə k w - - a	296
+579	Mesqan	j ə h u t i	j ə h - u t i	296
+580	Muher	j ə x w a	j ə x w - - a	296
+581	Silte	j u h a	j u h - - - a	296
+582	Wolane	j u h ə	j u h - - - ə	296
+583	Zway	j aː w ɨ t i	j aː - w ɨ t i	296
+584	Chaha	g u n ə r	g u n - ə r	297
+585	Ezha	g u nː ə r	g u nː - ə r	297
+586	Gumer	g u n ə r	g u n - ə r	297
+587	Gura	g u n ə r	g u n - ə r	297
+588	Gyeto	g u n ʔ ə r	g u n ʔ ə r	297
+589	Inor	g u n ʔ ə r	g u n ʔ ə r	297
+590	Kistane	g u nː ə n	g u nː - ə n	297
+591	Mesqan	g u nː ə n	g u nː - ə n	297
+592	Muher	g u nː ə n	g u nː - ə n	297
+593	Chaha	h u t	- - h u t -	298
+594	Ezha	h u t	- - h u t -	298
+595	Geez	w ɨ ʔ ɨ t u	w ɨ ʔ ɨ t u	298
+596	Gumer	x u t	- - x u t -	298
+597	Gura	h u t	- - h u t -	298
+598	Gyeto	x u t a	- - x u t a	298
+599	Inor	h u d a	- - h u d a	298
+600	Mesqan	h u t i	- - h u t i	298
+601	Tigre	h ɨ t u	- - h ɨ t u	298
+602	Zway	ʔ u t	- - ʔ u t -	298
+603	Chaha	g u n ə r	g u n - ə r	299
+604	Ezha	g u nː ə r	g u nː - ə r	299
+605	Gumer	g u n ə r	g u n - ə r	299
+606	Gura	g u n ə r	g u n - ə r	299
+607	Gyeto	g u n ʔ ə r	g u n ʔ ə r	299
+608	Inor	g u n ʔ ə r	g u n ʔ ə r	299
+609	Kistane	g u nː ə n	g u nː - ə n	299
+610	Mesqan	g u nː ə n	g u nː - ə n	299
+611	Muher	g u nː ə n	g u nː - ə n	299
+612	Chaha	x ɨ n	x - ɨ n -	300
+613	Ezha	x ɨ nː	x - ɨ nː -	300
+614	Gumer	x j ɨ n	x j ɨ n -	300
+615	Gura	x ɨ n	x - ɨ n -	300
+616	Gyeto	x i n	x - i n -	300
+617	Inor	ʔ a n ə	ʔ - a n ə	300
+618	Mesqan	h i n	h - i n -	300
+619	Chaha	k u t ə r a	k u t ə r a	301
+620	Ezha	k u tː ə r a	k u tː ə r a	301
+621	Gumer	k u tː a r a	k u tː a r a	301
+622	Gura	k u t a r a	k u t a r a	301
+623	Gyeto	k u t a r a	k u t a r a	301
+624	Inor	k u t a r a	k u t a r a	301
+625	Mesqan	k u tː ə n a	k u tː ə n a	301
+626	Muher	k u tː ə n a	k u tː ə n a	301
+627	Geez	g ə b ə t a	g ə b ə t a	303
+628	Tigre	g ə b ə t a	g ə b ə t a	303
+629	Geez	z i ʔ a h u	z i ʔ a h u	304
+630	Harari	z i j u	z i j - - u	304
+631	Kistane	k w a	k - w a	305
+632	Muher	x w a	x - w a	305
+633	Silte	ʔ u h a	ʔ u h a	305
+634	Wolane	ʔ u h ə	ʔ u h ə	305
+635	Harari	ʔ a t ə w aː kʼ	ʔ a - t ə w aː kʼ -	309
+636	Silte	ʔ ɨ n tʃ a kʼ o	ʔ ɨ n tʃ - - a kʼ o	309
+637	Wolane	ʔ ɨ n tʃʼ a kʼ o	ʔ ɨ n tʃʼ - - a kʼ o	309
+638	Zway	ʔ ɨ n tʼ aː kʼ	ʔ ɨ n tʼ - - aː kʼ -	309
+639	Harari	w ɨi̯	w ɨi̯ - -	310
+640	Tigrigna	w u ʕ ui̯	w u ʕ ui̯	310
+641	Kistane	ʔ ə r ə dː a m	ʔ ə r ə dː a m	312
+642	Muher	ʔ ə r ə dː a m	ʔ ə r ə dː a m	312
+643	Tigre	r ə d ɨ ʔ a	r ə d ɨ ʔ a -	312
+644	Silte	d u m	d u m -	319
+645	Wolane	d u m i	d u m i	319
+646	Silte	w ə z ə n ə	w ə z ə n ə	320
+647	Wolane	w ə z aː n	w ə z aː n -	320
+648	Zway	w ə z ə n ə	w ə z ə n ə	320
+649	Tigre	t u	- - t u	321
+650	Tigrigna	n a t u	n a t u	321
+651	Amharic	m ə t o	m ə - - t o	326
+652	Argobba	m ə t o	m ə - - t o	326
+653	Geez	m ɨ ʔ ɨ t	m ɨ ʔ ɨ t -	326
+654	Gumer	m ə t o	m ə - - t o	326
+655	Kistane	m ə t o	m ə - - t o	326
+656	Mesqan	m ə t o	m ə - - t o	326
+657	Tigre	m ɨ ʔ ɨ t	m ɨ ʔ ɨ t -	326
+658	Tigrigna	m i ʔ t i	m i ʔ - t i	326
+659	Amharic	dʒ ɨ b	dʒ ɨ - b - -	327
+660	Argobba	dʒ ɨ b	dʒ ɨ - b - -	327
+661	Geez	z ɨ ʔ b	z ɨ ʔ b - -	327
+662	Tigrigna	z ɨ b ʔ i	z ɨ - b ʔ i	327
+663	Amharic	s ə dː ə b ə	s ə dː ə b ə -	328
+664	Argobba	s ə dː ə b ə	s ə dː ə b ə -	328
+665	Harari	s ə d ə b a	s ə d ə b a -	328
+666	Kistane	s ə dː ə b ə m	s ə dː ə b ə m	328
+667	Mesqan	s ə dː ə b ə	s ə dː ə b ə -	328
+668	Muher	s ə dː ə b ə m	s ə dː ə b ə m	328
+669	Silte	s ə d ə b ə	s ə d ə b ə -	328
+670	Wolane	s ə d ə b ə	s ə d ə b ə -	328
+671	Zway	s ə d ə b ə	s ə d ə b ə -	328
+672	Amharic	s ɨ r a	s ɨ r a -	329
+673	Tigrigna	s ɨ r a ħ	s ɨ r a ħ	329
+674	Amharic	kʼ ə l d	kʼ ə l d - -	330
+675	Argobba	kʼ ə l d	kʼ ə l d - -	330
+676	Endegagn	kʼ ə l d	kʼ ə l d - -	330
+677	Geez	kʼ ə l d	kʼ ə l d - -	330
+678	Kistane	kʼ ə l d	kʼ ə l d - -	330
+679	Mesqan	kʼ ə l d	kʼ ə l d - -	330
+680	Muher	kʼ ə l d	kʼ ə l d - -	330
+681	Silte	kʼ ə l d	kʼ ə l d - -	330
+682	Tigre	k ə d m a	k ə - d m a	330
+683	Tigrigna	q ə l d i	q ə l d - i	330
+684	Wolane	kʼ aː l d	kʼ aː l d - -	330
+685	Zway	kʼ ə l d	kʼ ə l d - -	330
+686	Amharic	m ɨ sː ɨ r	m ɨ sː ɨ r -	333
+687	Argobba	m ɨ sː ɨ r	m ɨ sː ɨ r -	333
+688	Geez	m ɨ sː ɨ r	m ɨ sː ɨ r -	333
+689	Harari	m i sː i r	m i sː i r -	333
+690	Kistane	m ɨ ʃ ɨ r ə	m ɨ ʃ ɨ r ə	333
+691	Silte	m ɨ ʃ ɨ r	m ɨ ʃ ɨ r -	333
+692	Tigre	m ə s ɨ r	m ə s ɨ r -	333
+693	Wolane	m ɨ s r	m ɨ s - r -	333
+694	Zway	m ɨ ʃ ɨ r	m ɨ ʃ ɨ r -	333
+695	Amharic	ʔ a m b ə sː a	ʔ a m b ə sː a	334
+696	Argobba	x a m b ə s a	x a m b ə s a	334
+697	Endegagn	ʔ a m b ə sː a	ʔ a m b ə sː a	334
+698	Ezha	ʔ a m b ə sː a	ʔ a m b ə sː a	334
+699	Geez	ʕ a n b ə s a	ʕ a n b ə s a	334
+700	Kistane	ʔ a n b ə sː a	ʔ a n b ə sː a	334
+701	Mesqan	ʔ a n b ə sː a	ʔ a n b ə sː a	334
+702	Muher	ʔ a n b ə sː a	ʔ a n b ə sː a	334
+703	Tigrigna	ʔ a n b ə sː a	ʔ a n b ə sː a	334
+704	Argobba	k ə m e	k ə m e	335
+705	Tigrigna	k ə m əi̯	k ə m əi̯	335
+706	Argobba	g a r	- - g - a r	336
+707	Geez	t ə g b a r	t ə g b a r	336
+708	Argobba	kʼ ɨ l tʼ ɨ m	kʼ ɨ l tʼ ɨ m	337
+709	Harari	kʼ u l tʼ u m	kʼ u l tʼ u m	337
+710	Chaha	n ə m ɨ r	n ə m - - ɨ r	338
+711	Ezha	b ə m ɨ r	b ə m - - ɨ r	338
+712	Gumer	m ə m ɨ r	m ə m - - ɨ r	338
+713	Gura	n ə m ɨ r	n ə m - - ɨ r	338
+714	Gyeto	m ə m a r	m ə m - - a r	338
+715	Kistane	m ɨ n k o m	m ɨ n - k o m	338
+716	Mesqan	b ə m ɨ n	b ə m - - ɨ n	338
+717	Muher	b ə mː ɨ n	b ə mː - - ɨ n	338
+718	Wolane	m ɨ n a k o	m ɨ n a k o -	338
+719	Chaha	b ə kʼ ɨ r	b ə kʼ ɨ r -	339
+720	Endegagn	b ə ʔ ə r	b ə ʔ ə r -	339
+721	Ezha	b ə kʼ ɨ r	b ə kʼ ɨ r -	339
+722	Gura	b ə kʼ ɨ r	b ə kʼ ɨ r -	339
+723	Gyeto	b ə kʼ ɨ r	b ə kʼ ɨ r -	339
+724	Harari	b ə kʼ l ə	b ə kʼ - l ə	339
+725	Inor	b ə ʔ ə r	b ə ʔ ə r -	339
+726	Muher	b ə ʔ ɨ l	b ə ʔ ɨ l -	339
+727	Silte	b ə kʼː ɨ l	b ə kʼː ɨ l -	339
+728	Wolane	b aː kʼː ɨ l	b aː kʼː ɨ l -	339
+729	Zway	b a kʼ ɨ l	b a kʼ ɨ l -	339
+730	Chaha	g w ə n tʃ ə	g w ə n tʃ ə	340
+731	Endegagn	g o n tʃ ə	g - o n tʃ ə	340
+732	Ezha	g w ə tʃ ə	g w ə - tʃ ə	340
+733	Gumer	g w ə n tʃ ə	g w ə n tʃ ə	340
+734	Gura	g o n tʃ ə	g - o n tʃ ə	340
+735	Gyeto	g w ə n tʃ ə	g w ə n tʃ ə	340
+736	Inor	g o n tʃ ə	g - o n tʃ ə	340
+737	Kistane	g ə tʃ ə	g - ə - tʃ ə	340
+738	Mesqan	g w ə tʃ ə	g w ə - tʃ ə	340
+739	Muher	g ə tʃ ə	g - ə - tʃ ə	340
+740	Chaha	kʼ ə n d m ə m	kʼ ə n d - m ə m	341
+741	Endegagn	kʼ ə n ə m ə	kʼ ə n - ə m ə -	341
+742	Ezha	kʼ ə nː ə m ə m	kʼ ə nː - ə m ə m	341
+743	Gumer	kʼ ɨ n e m a	kʼ ɨ n - e m a -	341
+744	Gura	kʼ ə n d m ə m	kʼ ə n d - m ə m	341
+745	Gyeto	kʼ ə n ə m ə	kʼ ə n - ə m ə -	341
+746	Inor	kʼ ə n ə m ə	kʼ ə n - ə m ə -	341
+747	Chaha	m e n a	m e n a	342
+748	Endegagn	m e n a	m e n a	342
+749	Ezha	m e n a	m e n a	342
+750	Gumer	m e n a	m e n a	342
+751	Gura	m e n a	m e n a	342
+752	Gyeto	m ai̯ n a	m ai̯ n a	342
+753	Inor	m e n a	m e n a	342
+754	Mesqan	m e nː a	m e nː a	342
+755	Muher	m e rː a	m e rː a	342
+756	Chaha	kʼ ə ʃ ə	kʼ - ə ʃ ə	343
+757	Ezha	k ə ʃ ə	k - ə ʃ ə	343
+758	Gumer	k j ə ʃ ə	k j ə ʃ ə	343
+759	Gura	kʼ ə ʃ ə	kʼ - ə ʃ ə	343
+760	Harari	kʼ o s a	kʼ - o s a	343
+761	Chaha	kʼ ə s ə m	kʼ ə s ə m	344
+762	Endegagn	kʼ ə s ə m	kʼ ə s ə m	344
+763	Ezha	kʼ ə s ə m	kʼ ə s ə m	344
+764	Gumer	kʼ ə s ə m	kʼ ə s ə m	344
+765	Gura	kʼ ə s ɨ m	kʼ ə s ɨ m	344
+766	Gyeto	kʼ ə s ə m	kʼ ə s ə m	344
+767	Inor	kʼ ə s ə m	kʼ ə s ə m	344
+768	Mesqan	kʼ ə s ə m	kʼ ə s ə m	344
+769	Muher	kʼ ə s ə m	kʼ ə s ə m	344
+770	Chaha	ʒ ə p	ʒ ə p -	345
+771	Gumer	ʒ ə pː	ʒ ə pː -	345
+772	Gura	ʒ ə p ə	ʒ ə p ə	345
+773	Gyeto	ʒ ə p	ʒ ə p -	345
+774	Inor	ʒ ə p	ʒ ə p -	345
+775	Endegagn	ʔ e t ə h ə	ʔ e t ə h ə	346
+776	Inor	ʔ ə t ə k a	ʔ ə t ə k a	346
+777	Geez	ʔ ɨ fː o	ʔ ɨ fː o	347
+778	Tigre	ʔ a f o	ʔ a f o	347
+779	Geez	ʕ a jː ə r ə	ʕ a jː ə r ə	348
+780	Tigre	ʕ a j ə r a	ʕ a j ə r a	348
+781	Gyeto	s i j a	s i j a	352
+782	Inor	s i j a	s i j a	352
+783	Harari	w a r aː b a	w a r aː b a	354
+784	Silte	w ə r a b ə	w ə r a b ə	354
+785	Wolane	w ə r a b ə	w ə r a b ə	354
+786	Zway	ʔ u r aː b a	ʔ u r aː b a	354
+787	Silte	ʔ ai̯ n ə k o	ʔ ai̯ n ə k o	363
+788	Zway	ʔ ai̯ k u	ʔ ai̯ - - k u	363
+789	Silte	b ɨ l	b ɨ l	364
+790	Wolane	b ɨ l	b ɨ l	364
+791	Silte	w ə r b a	w ə r - b a	365
+792	Wolane	w ə r a b e	w ə r a b e	365
+793	Amharic	k ə n f ə r	k ə n f ə r	372
+794	Chaha	k ə n f ə r	k ə n f ə r	372
+795	Endegagn	k ə n f ə r	k ə n f ə r	372
+796	Ezha	k ə n f ə r	k ə n f ə r	372
+797	Geez	k ə n f ə r	k ə n f ə r	372
+798	Gumer	k ə n f ə r	k ə n f ə r	372
+799	Gyeto	k ə n f ə r	k ə n f ə r	372
+800	Inor	k ə n f ə r	k ə n f ə r	372
+801	Kistane	k ə n f ə r	k ə n f ə r	372
+802	Mesqan	k ə n f ə r	k ə n f ə r	372
+803	Muher	k ə n f ə r	k ə n f ə r	372
+804	Tigre	k ə m f ə r	k ə m f ə r	372
+805	Tigrigna	k ə n f ə r	k ə n f ə r	372
+806	Amharic	b ə kʼː o lː o	b ə kʼː - o lː - - o	374
+807	Chaha	b ə kʼ o lː o	b ə kʼ - o lː - - o	374
+808	Endegagn	b ə kʼː o l ə	b ə kʼː - o l - - ə	374
+809	Ezha	b ə kʼː w o lː o	b ə kʼː w o lː - - o	374
+810	Gumer	b ə kʼ w ə lː o	b ə kʼ w ə lː - - o	374
+811	Gura	b ə kʼ w o lː o	b ə kʼ w o lː - - o	374
+812	Gyeto	b o kʼ o lː o	b o kʼ - o lː - - o	374
+813	Inor	b ə kʼ o lː o ʔ ə	b ə kʼ - o lː o ʔ ə	374
+814	Kistane	b o kʼː o lː o	b o kʼː - o lː - - o	374
+815	Mesqan	b o kʼː o lː o	b o kʼː - o lː - - o	374
+816	Muher	b ə kʼː o lː o	b ə kʼː - o lː - - o	374
+817	Silte	b ə kʼː o lː o	b ə kʼː - o lː - - o	374
+818	Wolane	b o kʼː o lː o	b o kʼː - o lː - - o	374
+819	Amharic	s ə w	s ə w - -	375
+820	Argobba	s ə w	s ə w - -	375
+821	Chaha	s ə b	s ə b - -	375
+822	Endegagn	s ə w	s ə w - -	375
+823	Ezha	s ə b	s ə b - -	375
+824	Geez	s ə b	s ə b - -	375
+825	Gyeto	s ə b	s ə b - -	375
+826	Inor	s ə b	s ə b - -	375
+827	Silte	s ə b	s ə b - -	375
+828	Tigre	s ə b	s ə b - -	375
+829	Tigrigna	s ə b ʔ ai̯	s ə b ʔ ai̯	375
+830	Wolane	s ə b	s ə b - -	375
+831	Zway	s ə b	s ə b - -	375
+832	Amharic	s ə ɲː o	s ə ɲː o	376
+833	Geez	s ə n ui̯	s ə n ui̯	376
+834	Tigre	s ə n o	s ə n o	376
+835	Tigrigna	s ə n ui̯	s ə n ui̯	376
+836	Argobba	b a r m a s i l a	b a r m a s i l a	383
+837	Zway	m aː ʃ u lː e	- - - m aː ʃ u lː e	383
+838	Chaha	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+839	Endegagn	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+840	Ezha	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+841	Gumer	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+842	Gura	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+843	Gyeto	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+844	Inor	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+845	Kistane	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+846	Mesqan	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+847	Muher	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+848	Silte	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+849	Wolane	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+850	Zway	w ɨ tʼ ə t	w ɨ tʼ ə t	385
+851	Geez	k ɨ s a d	k ɨ s a d	388
+852	Tigre	s ɨ g a d	s ɨ g a d	388
+853	Tigrigna	k ɨ s a d	k ɨ s a d	388
+854	Geez	t ə s ʕ ə tː u	t ə s - ʕ ə tː u	389
+855	Tigre	s ɨ ʕ	s ɨ - - ʕ - - -	389
+856	Tigrigna	t ɨ ʃ ə ʕ a t ə	t ɨ ʃ ə ʕ a t ə	389
+857	Geez	j ɨ ʔ ə z e	j ɨ ʔ ə z e	390
+858	Tigre	ʔ a z e	- - ʔ a z e	390
+859	Tigrigna	ħ ɨ z i	ħ ɨ - - z i	390
+860	Gumer	m ɨ s	m ɨ s	391
+861	Gura	m ɨ s	m ɨ s	391
+862	Kistane	m ɨ s	m ɨ s	391
+863	Mesqan	m ɨ s	m ɨ s	391
+864	Muher	m ɨ s	m ɨ s	391
+865	Harari	l ə f l ə f	l ə f l ə f	393
+866	Wolane	l ə f l ə f	l ə f l ə f	393
+867	Zway	l e f l ə f	l e f l ə f	393
+868	Tigre	ʕ ɨ fː u n	ʕ ɨ fː u n	407
+869	Tigrigna	ʕ u f a n	ʕ u f a n	407
+870	Amharic	kʼ a r ɨ j a	kʼ a r ɨ j a	410
+871	Chaha	kʼ a r e	kʼ a r - - e	410
+872	Endegagn	kʼ a r e ʔ	kʼ a r e ʔ -	410
+873	Ezha	kʼ a l e	kʼ a l - - e	410
+874	Gumer	kʼ a r ɨ j a	kʼ a r ɨ j a	410
+875	Gura	kʼ a r i	kʼ a r - - i	410
+876	Kistane	kʼ a r ɨ j a	kʼ a r ɨ j a	410
+877	Mesqan	kʼ a r i j a	kʼ a r i j a	410
+878	Muher	kʼ a r e	kʼ a r - - e	410
+879	Amharic	t ɨ r a s	t ɨ - r - - a s	411
+880	Chaha	t ɨ r a s	t ɨ - r - - a s	411
+881	Endegagn	t ɨ r a s	t ɨ - r - - a s	411
+882	Ezha	t ɨ r a s	t ɨ - r - - a s	411
+883	Geez	t ə r ʔ a s	t ə - r - ʔ a s	411
+884	Gumer	t ɨ r a s	t ɨ - r - - a s	411
+885	Gyeto	t ə r a s	t ə - r - - a s	411
+886	Harari	m ɨ t r aː ʃ	m ɨ t r - - aː ʃ	411
+887	Mesqan	t ə r a s	t ə - r - - a s	411
+888	Muher	t ɨ r a s	t ɨ - r - - a s	411
+889	Tigre	t ə r ʔ a s	t ə - r - ʔ a s	411
+890	Tigrigna	m ə t r ə ʔ a s	m ə t r ə ʔ a s	411
+891	Wolane	t ə r a s	t ə - r - - a s	411
+892	Amharic	g ə n f o	g ə n f o	413
+893	Argobba	g ɨ n f o	g ɨ n f o	413
+894	Kistane	g ə n f o	g ə n f o	413
+895	Tigrigna	g ə n f o	g ə n f o	413
+896	Amharic	kʼ ei̯	kʼ ei̯ - - -	416
+897	Argobba	kʼ ə j ɨ h	kʼ ə j ɨ h	416
+898	Harari	kʼ eː h	kʼ eː - - h	416
+899	Tigre	kʼ ai̯ ħ ɨ t	kʼ ai̯ ħ ɨ t	416
+900	Tigrigna	q ə j ɨ ħ	q ə j ɨ ħ	416
+901	Zway	kʼ aːi̯	kʼ aːi̯ - - -	416
+902	Argobba	b ə r b ə r e	b ə r b ə r e	418
+903	Geez	b ə r b ə rː e	b ə r b ə rː e	418
+904	Harari	b ə r b ə r i	b ə r b ə r i	418
+905	Tigre	b ə r b ə r e	b ə r b ə r e	418
+906	Tigrigna	b ə r b ə r ə	b ə r b ə r ə	418
+907	Wolane	b ə r b ə r e	b ə r b ə r e	418
+908	Zway	b ə r b aː r i	b ə r b aː r i	418
+909	Chaha	ʔ o z a t	ʔ o - z a t	420
+910	Ezha	ʔ o z a t	ʔ o - z a t	420
+911	Gumer	ʔ o z a t	ʔ o - z a t	420
+912	Gura	ʔ o w z a t	ʔ o w z a t	420
+913	Gyeto	ʔ a w z a t	ʔ a w z a t	420
+914	Muher	ʔ o z a t	ʔ o - z a t	420
+915	Chaha	b ɨ ʃ ə	b ɨ ʃ ə	421
+916	Endegagn	b u ʃ ə	b u ʃ ə	421
+917	Ezha	b ɨ ʃː ə	b ɨ ʃː ə	421
+918	Gumer	b ɨ ʃː a	b ɨ ʃː a	421
+919	Gura	b ɨ ʃ ə	b ɨ ʃ ə	421
+920	Gyeto	b ɨ ʃ a	b ɨ ʃ a	421
+921	Inor	b ɨ ʃ ə	b ɨ ʃ ə	421
+922	Kistane	b ɨ ʃː ə	b ɨ ʃː ə	421
+923	Mesqan	b ɨ ʃː a	b ɨ ʃː a	421
+924	Muher	b ɨ ʃː a	b ɨ ʃː a	421
+925	Silte	b u ʃ o	b u ʃ o	421
+926	Wolane	b u ʃ a	b u ʃ a	421
+927	Endegagn	d a ʔ ə	d a ʔ ə -	422
+928	Geez	g a ʕ t	g a ʕ - t	422
+929	Inor	d a ʔ a	d a ʔ a -	422
+930	Tigre	g a ʕ t	g a ʕ - t	422
+931	Endegagn	d ɨ j ə	d ɨ j ə	423
+932	Inor	d ɨ j ə	d ɨ j ə	423
+933	Gura	dʒ ɨ mː ə	dʒ ɨ mː - ə	428
+934	Inor	g i m ʔ ə	g i m ʔ ə	428
+935	Kistane	g i mː ə	g i mː - ə	428
+936	Silte	g i mː a	g i mː - a	428
+937	Zway	g i mː a	g i mː - a	428
+938	Mesqan	ʔ ɨ n kʼ a tʃː e	ʔ ɨ n kʼ a tʃː e	435
+939	Silte	ʔ ɨ n kʼ a tʃː ə	ʔ ɨ n kʼ a tʃː ə	435
+940	Wolane	ʔ ɨ n kʼ a tʃː e	ʔ ɨ n kʼ a tʃː e	435
+941	Amharic	h a b t a m	h a b t a m	445
+942	Argobba	d ə m a m	d ə - m a m	445
+943	Tigrigna	h a b t a m	h a b t a m	445
+944	Amharic	m ə n g ə d	m ə n g ə d -	446
+945	Geez	m ə n g ə d	m ə n g ə d -	446
+946	Tigrigna	m ə n g ə d i	m ə n g ə d i	446
+947	Amharic	tʃʼ ə w	tʃʼ ə w -	447
+948	Argobba	tʃ ə w	tʃ ə w -	447
+949	Geez	s e w	s e w -	447
+950	Tigre	s e w e	s e w e	447
+951	Tigrigna	tʃʼ ə w	tʃʼ ə w -	447
+952	Amharic	kʼ ɨ d a m e	kʼ ɨ d a m - - - - - e -	448
+953	Chaha	kʼ ə tʼ a n s ə n b ə t	kʼ ə tʼ a n - s ə n b ə t	448
+954	Ezha	kʼ ə tʼ a n s ə n b ə t	kʼ ə tʼ a n - s ə n b ə t	448
+955	Geez	kʼ ə d a m i ts ə n b ə t	kʼ ə d a m i ts ə n b ə t	448
+956	Gumer	kʼ ə t a s ə n b ə t	kʼ ə t a - - s ə n b ə t	448
+957	Gura	kʼ ə tʼ a n s ə n b ə t	kʼ ə tʼ a n - s ə n b ə t	448
+958	Gyeto	kʼ ə tʼ a ts ə m b ə t	kʼ ə tʼ a - - ts ə m b ə t	448
+959	Inor	kʼ ə tʼ a n s ə n b ə t	kʼ ə tʼ a n - s ə n b ə t	448
+960	Kistane	k ɨ d a n s ə n b ə t	k ɨ d a n - s ə n b ə t	448
+961	Mesqan	k ɨ d a n s ə n b ə t	k ɨ d a n - s ə n b ə t	448
+962	Muher	k ə d a n s ə n b ə t	k ə d a n - s ə n b ə t	448
+963	Tigrigna	q ə d a m	q ə d a m - - - - - - -	448
+964	Amharic	ʔ a j ə	ʔ a - j ə -	449
+965	Argobba	x a j e	x a - j e -	449
+966	Chaha	ʔ a ʒ ə	ʔ a - ʒ ə -	449
+967	Endegagn	ʔ a ʃː ə m	ʔ a - ʃː ə m	449
+968	Ezha	ʔ a ʒː ə m	ʔ a - ʒː ə m	449
+969	Gumer	ʔ a ʃː ə m	ʔ a - ʃː ə m	449
+970	Gura	ʔ a ʒ ə	ʔ a - ʒ ə -	449
+971	Inor	ʔ a ʒ ə	ʔ a - ʒ ə -	449
+972	Kistane	ʔ a ʒː ə	ʔ a - ʒː ə -	449
+973	Mesqan	ʔ a ʒː ə	ʔ a - ʒː ə -	449
+974	Muher	a ʒː ə m	- a - ʒː ə m	449
+975	Silte	ʔ a n ʒ ə	ʔ a n ʒ ə -	449
+976	Amharic	ʔ ɨ s w a	ʔ ɨ s w a	452
+977	Argobba	k ɨ sː a	k ɨ sː - a	452
+978	Silte	ʔ i ʃ a	ʔ i ʃ - a	452
+979	Tigrigna	n ɨ sː a	n ɨ sː - a	452
+980	Wolane	ʔ ɨ ʃ ə	ʔ ɨ ʃ - ə	452
+981	Amharic	b ə g	b ə g - -	453
+982	Geez	b ə gː ɨ ʕ	b ə gː ɨ ʕ	453
+983	Tigre	b ə gː u ʕ	b ə gː u ʕ	453
+984	Tigrigna	b ə g ɨ ʕ	b ə g ɨ ʕ	453
+985	Argobba	x ɨ j ɨ m a	x ɨ j ɨ m a	455
+986	Chaha	ʔ e m a	ʔ e - - m a	455
+987	Ezha	ʔ e m a	ʔ e - - m a	455
+988	Gumer	ʔ e m a	ʔ e - - m a	455
+989	Gura	ʔ e m a	ʔ e - - m a	455
+990	Mesqan	ʔ e m a	ʔ e - - m a	455
+991	Argobba	s ə m b ə d	- - - - s ə m b - ə d - - - - - -	456
+992	Harari	s ə b t i	- - - - s ə - b t i - - - - - - -	456
+993	Silte	a n s ə n b ə t	- a n - s ə n b - ə t - - - - - -	456
+994	Tigre	s ə n b ə t + n ɨ ʔ ɨ ʃ	- - - - s ə n b - ə t + n ɨ ʔ ɨ ʃ	456
+995	Wolane	ʔ a n s ə n b ə t	ʔ a n - s ə n b - ə t - - - - - -	456
+996	Zway	ʔ a n ə s ə n b ə t	ʔ a n ə s ə n b - ə t - - - - - -	456
+997	Chaha	d ə n g ə ɲː ə	d ə n g ə ɲː ə	458
+998	Endegagn	d ə n g ə ɲː ə	d ə n g ə ɲː ə	458
+999	Ezha	d ə n g ə ɲː ə	d ə n g ə ɲː ə	458
+1000	Gumer	d ə n g ə n ə	d ə n g ə n ə	458
+1001	Gura	d ə n g ə ɲː ə	d ə n g ə ɲː ə	458
+1002	Gyeto	d ə n g ə ɲ ə	d ə n g ə ɲ ə	458
+1003	Inor	d ə n g ə ɲ ə	d ə n g ə ɲ ə	458
+1004	Kistane	d ə n g ə ɲː ə	d ə n g ə ɲː ə	458
+1005	Mesqan	d ə n g ə ɲː ə	d ə n g ə ɲː ə	458
+1006	Muher	d ə n g ə ɲː ə	d ə n g ə ɲː ə	458
+1007	Chaha	ʔ a sː o	ʔ a - - sː o	459
+1008	Ezha	ʔ a sː o	ʔ a - - sː o	459
+1009	Gumer	ʔ a sː o	ʔ a - - sː o	459
+1010	Gura	ʔ a sː o	ʔ a - - sː o	459
+1011	Gyeto	ʔ a s ə w ə	ʔ a s ə w ə	459
+1012	Mesqan	ʔ a sː o	ʔ a - - sː o	459
+1013	Muher	ʔ a sː ə w ə	ʔ a sː ə w ə	459
+1014	Silte	ʔ a r u s o	ʔ a r u s o	459
+1015	Wolane	ʔ a s ə b o	ʔ a s ə b o	459
+1016	Zway	ʔ a s o b u	ʔ a s o b u	459
+1017	Chaha	x j ɨ t a	x j - - ɨ t a	460
+1018	Ezha	x j i t	x j - - i t -	460
+1019	Geez	j ɨ ʔ ɨ t i	- j ɨ ʔ ɨ t i	460
+1020	Gumer	x j ɨ t	x j - - ɨ t -	460
+1021	Gura	x j ɨ t	x j - - ɨ t -	460
+1022	Inor	x i d a	x - - - i d a	460
+1023	Kistane	k i j a	k - - - i j a	460
+1024	Mesqan	x i t i	x - - - i t i	460
+1025	Muher	x j a	x j - - a - -	460
+1026	Tigre	h ɨ t a	h - - - ɨ t a	460
+1027	Zway	ʔ i t	- - - ʔ i t -	460
+1028	Endegagn	m e j a	m e j a	462
+1029	Gyeto	m ə j a	m ə j a	462
+1030	Inor	m e ʔ a	m e ʔ a	462
+1031	Kistane	m o tʃʼ ə	m o tʃʼ ə	462
+1032	Endegagn	b ə ʔ ə d	b ə ʔ ə d	463
+1033	Inor	b ə ʔ ə d	b ə ʔ ə d	463
+1034	Geez	b ɨ ʕ u l	b ɨ ʕ u l	466
+1035	Harari	b a ʔ a w	b a ʔ a w	466
+1036	Gyeto	m ə g a z	m ə g a z	468
+1037	Wolane	m ə g a z	m ə g a z	468
+1038	Zway	m ə g a z	m ə g a z	468
+1039	Gyeto	z ɨ ɲ ʔ ə	z ɨ ɲ ʔ ə	469
+1040	Harari	s ə ɲ i	s ə ɲ - i	469
+1041	Harari	ʔ uː g a	ʔ uː - g a	471
+1042	Silte	ʔ u n g a	ʔ u n g a	471
+1043	Wolane	ʔ u n dʒ ə	ʔ u n dʒ ə	471
+1044	Zway	ʔ uː n dʒ ə	ʔ uː n dʒ ə	471
+1045	Silte	d u r e sː ə	d u r e sː ə	477
+1046	Wolane	d u r e sː ə	d u r e sː ə	477
+1047	Tigre	s ɨ g u b	s ɨ g - u b - - -	481
+1048	Zway	n ɨ b r ə t a ɲ ə	n ɨ b r ə t a ɲ ə	481
+1049	Tigre	r ə ʔ a	r ə ʔ - - a	483
+1050	Tigrigna	r ə ʔ a j ə	r ə ʔ a j ə	483
+1051	Amharic	tʃʼ ɨ s	tʃʼ ɨ s	485
+1052	Argobba	tʃ i s	tʃ i s	485
+1053	Amharic	n ə tʼː ə kʼ ə	n ə tʼː ə kʼ ə -	486
+1054	Argobba	n ə tʼː ə kʼ ə	n ə tʼː ə kʼ ə -	486
+1055	Endegagn	n ə tʼ ə kʼ ə	n ə tʼ ə kʼ ə -	486
+1056	Ezha	n ə tʼ ə kʼ ə	n ə tʼ ə kʼ ə -	486
+1057	Geez	n ə tʼ ə kʼ ə	n ə tʼ ə kʼ ə -	486
+1058	Gumer	n ə tʼ ə kʼ ə m	n ə tʼ ə kʼ ə m	486
+1059	Gyeto	n ə tʼ ə kʼ ə	n ə tʼ ə kʼ ə -	486
+1060	Inor	n ə tʼː ə kʼ ə m	n ə tʼː ə kʼ ə m	486
+1061	Muher	n ə tʼː ə kʼ ə m	n ə tʼː ə kʼ ə m	486
+1062	Zway	n ə tʼ ə kʼ ə	n ə tʼ ə kʼ ə -	486
+1063	Amharic	z ə f ə n	z ə f ə n	487
+1064	Argobba	z ə f ə n	z ə f ə n	487
+1065	Amharic	d ɨ n g ai̯	d ɨ n g ai̯	488
+1066	Argobba	d ɨ n g ai̯	d ɨ n g ai̯	488
+1067	Amharic	b ə r tʃʼ u m a	b - ə r tʃʼ u m a	489
+1068	Chaha	b w ə r tʃʼ u m a	b w ə r tʃʼ u m a	489
+1069	Endegagn	b a r tʃʼ u mː a	b - a r tʃʼ u mː a	489
+1070	Ezha	b w ə r tʃʼ u m a	b w ə r tʃʼ u m a	489
+1071	Gumer	b o r tʃʼ u m a	b - o r tʃʼ u m a	489
+1072	Gura	w ə r tʃʼ u m a	- w ə r tʃʼ u m a	489
+1073	Gyeto	b w ə r tʃʼ ə m a	b w ə r tʃʼ ə m a	489
+1074	Inor	b ə r tʃʼ ɨ m a	b - ə r tʃʼ ɨ m a	489
+1075	Mesqan	b o r tʃʼ u m a	b - o r tʃʼ u m a	489
+1076	Muher	b w ə r tʃʼ ɨ mː a	b w ə r tʃʼ ɨ mː a	489
+1077	Wolane	b o r tʃʼ ɨ mː a	b - o r tʃʼ ɨ mː a	489
+1078	Amharic	d ɨ n g ə t	d ɨ n g ə t	491
+1079	Argobba	d ɨ n g ə t	d ɨ n g ə t	491
+1080	Gumer	d ɨ n g ə t	d ɨ n g ə t	491
+1081	Gyeto	d ɨ n g ə t	d ɨ n g ə t	491
+1082	Harari	d ə g u	d ə - g u -	491
+1083	Inor	d ɨ n g ə t	d ɨ n g ə t	491
+1084	Kistane	d ɨ n g ə t	d ɨ n g ə t	491
+1085	Mesqan	d ɨ n g ə t	d ɨ n g ə t	491
+1086	Muher	d ɨ n g ə t	d ɨ n g ə t	491
+1087	Silte	d ɨ n b u tʼ	d ɨ n b u tʼ	491
+1088	Wolane	d ɨ n g ə t	d ɨ n g ə t	491
+1089	Zway	d ɨ n g ə t	d ɨ n g ə t	491
+1090	Amharic	s ə h ai̯	s ə h ai̯	492
+1091	Geez	tsʼ ə ħ ai̯	tsʼ ə ħ ai̯	492
+1092	Tigrigna	s ə ħ ai̯	s ə ħ ai̯	492
+1093	Amharic	ʔ ɨ h u d	ʔ ɨ - h u d	493
+1094	Geez	ʔ ɨ ħ u d	ʔ ɨ - ħ u d	493
+1095	Harari	ʔ a l ħ a d	ʔ a l ħ a d	493
+1096	Argobba	tʃ ə h e d	tʃ ə h e d	495
+1097	Chaha	tʃʼ e t	tʃʼ - - e t	495
+1098	Ezha	tʃʼ e t	tʃʼ - - e t	495
+1099	Gumer	tʃʼ e t	tʃʼ - - e t	495
+1100	Gura	tʃʼ e t	tʃʼ - - e t	495
+1101	Mesqan	tʃʼ e t	tʃʼ - - e t	495
+1102	Chaha	m ə tʃʼ ə kʼ ə m	m ə tʃʼ ə kʼ ə m	498
+1103	Gura	m ə tʃʼ ə kʼ ə m	m ə tʃʼ ə kʼ ə m	498
+1104	Kistane	m o tʃʼ ə kʼ ə m	m o tʃʼ ə kʼ ə m	498
+1105	Mesqan	m e tʃʼ ə kʼ ə m	m e tʃʼ ə kʼ ə m	498
+1106	Silte	b o tʃʼ ə kʼ ə	b o tʃʼ ə kʼ ə -	498
+1107	Wolane	b o tʃʼ ə kʼ ə	b o tʃʼ ə kʼ ə -	498
+1108	Chaha	l a l e	l a l e	499
+1109	Ezha	l a l e	l a l e	499
+1110	Gura	l a l e	l a l e	499
+1111	Inor	l a l e	l a l e	499
+1112	Chaha	ʔ ɨ m ɨ r	ʔ ɨ m ɨ r -	500
+1113	Endegagn	ʔ ə w n	ʔ ə w - n -	500
+1114	Ezha	ʔ ɨ m ɨ r	ʔ ɨ m ɨ r -	500
+1115	Geez	ʔ ɨ b n	ʔ ɨ b - n -	500
+1116	Gumer	ʔ ɨ m ɨ r	ʔ ɨ m ɨ r -	500
+1117	Gura	ʔ ɨ m ɨ r	ʔ ɨ m ɨ r -	500
+1118	Gyeto	ʔ ɨ m ɨ r	ʔ ɨ m ɨ r -	500
+1119	Inor	ʔ ɨ m ɨ r	ʔ ɨ m ɨ r -	500
+1120	Kistane	j i m i r	j i m i r -	500
+1121	Mesqan	ʔ ɨ m ɨ r	ʔ ɨ m ɨ r -	500
+1122	Tigre	ʔ ɨ b ɨ n	ʔ ɨ b ɨ n -	500
+1123	Tigrigna	ʔ ɨ m n i	ʔ ɨ m - n i	500
+1124	Zway	ʔ u m u n	ʔ u m u n -	500
+1125	Chaha	m a t ə g a	m a t - - ə - g a -	501
+1126	Endegagn	ʔ ɨ mː a t ə g	ʔ ɨ mː a t ə - g - -	501
+1127	Ezha	ʔ ɨ mː a t i n g i	ʔ ɨ mː a t i n g i -	501
+1128	Gura	h ɨ m ə g a	h ɨ m - - ə - g a -	501
+1129	Tigre	ʔ ɨ b h a m g ə m	ʔ ɨ b - h a m g ə m	501
+1130	Endegagn	d a s	d a - - s -	502
+1131	Kistane	d ə r s	d ə r - s -	502
+1132	Mesqan	d ə r s	d ə r - s -	502
+1133	Muher	d ə rː ɨ s	d ə rː ɨ s -	502
+1134	Tigrigna	d ə r f i	d ə r - f i	502
+1135	Endegagn	ʔ a j e d	ʔ a - - j e d	503
+1136	Gyeto	ʔ ɨ w a j ə	ʔ ɨ w a j ə -	503
+1137	Inor	ʔ ɨ w ə j ə	ʔ ɨ w ə j ə -	503
+1138	Geez	m ə n b ə r	m ə n b ə r	506
+1139	Harari	w ə m b ə r	w ə m b ə r	506
+1140	Kistane	w ə n b ə r	w ə n b ə r	506
+1141	Tigrigna	m ə n b ə r	m ə n b ə r	506
+1142	Harari	ʔ i r	ʔ i r - -	509
+1143	Kistane	j i m ɨ r	j i m ɨ r	509
+1144	Muher	ʔ a r e t	ʔ a r e t	509
+1145	Silte	ʔ a j ɨ r	ʔ a j ɨ r	509
+1146	Wolane	ʔ ai̯ r	ʔ ai̯ r - -	509
+1147	Zway	ʔ a r i t	ʔ a r i t	509
+1148	Gumer	w e g	w e - - g	510
+1149	Gyeto	w ə j ə g	w ə j ə g	510
+1150	Tigre	w ə t ə r	w ə t ə r	510
+1151	Harari	ʔ uː n	ʔ uː n	513
+1152	Silte	ʔ uː n	ʔ uː n	513
+1153	Wolane	ʔ u n	ʔ u n	513
+1154	Silte	ʃ ɨ b ə t	ʃ ɨ b ə t	523
+1155	Wolane	ʃ ɨ b ə t	ʃ ɨ b ə t	523
+1156	Zway	ʃ i b ai̯	ʃ i b ai̯ -	523
+1157	Amharic	l a b	l a b	534
+1158	Argobba	l a b	l a b	534
+1159	Amharic	j a	j a	536
+1160	Ezha	z a	z a	536
+1161	Kistane	z a	z a	536
+1162	Mesqan	z a	z a	536
+1163	Muher	z a	z a	536
+1164	Amharic	k ə zː i j a	k ə zː i - - j a	537
+1165	Argobba	w o d g ɨ z e	w o d - g ɨ z e	537
+1166	Gyeto	x ə g ɨ z ɨ j ə	x ə g ɨ z ɨ j ə	537
+1167	Zway	j a n e g i	j a n e g - - i	537
+1168	Amharic	ʔ ɨ nː ə sː u	ʔ ɨ nː ə sː u -	538
+1169	Tigrigna	n ɨ sː a t ə n	n ɨ sː a t ə n	538
+1170	Zway	ʔ ɨ n o mː u	ʔ ɨ n o mː u -	538
+1171	Amharic	w ə f r a m	w ə f r a m	539
+1172	Argobba	w ɨ f r a m	w ɨ f r a m	539
+1173	Amharic	l e b a	l e b a	540
+1174	Argobba	l e β a	l e β a	540
+1175	Chaha	n e b a	n e b a	540
+1176	Gumer	n ə b a	n ə b a	540
+1177	Gura	n e b a	n e b a	540
+1178	Kistane	l e b a	l e b a	540
+1179	Mesqan	l e b a	l e b a	540
+1180	Muher	l e b a	l e b a	540
+1181	Zway	l e b a	l e b a	540
+1182	Amharic	kʼ ə tʃʼ ɨ n	kʼ ə tʃʼ ɨ n	541
+1183	Argobba	kʼ ə tʃ ɨ n	kʼ ə tʃ ɨ n	541
+1184	Endegagn	kʼ ə tʃʼ ɨ n	kʼ ə tʃʼ ɨ n	541
+1185	Geez	kʼ ə tʼː ɨ n	kʼ ə tʼː ɨ n	541
+1186	Gyeto	kʼ ə tʃʼ ɨ r	kʼ ə tʃʼ ɨ r	541
+1187	Harari	kʼ ə tʃʼ iː n	kʼ ə tʃʼ iː n	541
+1188	Inor	kʼ ə tʃ ɨ r	kʼ ə tʃ ɨ r	541
+1189	Mesqan	kʼ ɨ tʃː ɨ n	kʼ ɨ tʃː ɨ n	541
+1190	Silte	kʼ ə tʃ ɨ n	kʼ ə tʃ ɨ n	541
+1191	Tigre	kʼ ə tʼ i n	kʼ ə tʼ i n	541
+1192	Tigrigna	q ə tʼː i n	q ə tʼː i n	541
+1193	Wolane	kʼ ə tʃʼ ɨ n	kʼ ə tʃʼ ɨ n	541
+1194	Zway	kʼ ə tʃʼ ɨ n	kʼ ə tʃʼ ɨ n	541
+1195	Amharic	j ɨ h	j ɨ h	542
+1196	Harari	j i	j i -	542
+1197	Argobba	k ɨ s ɨ m	k ɨ s ɨ m -	545
+1198	Chaha	x ɨ n o	x ɨ n o - -	545
+1199	Endegagn	h u n o	h u n o - -	545
+1200	Ezha	x ɨ n o	x ɨ n o - -	545
+1201	Gumer	x ɨ n o	x ɨ n o - -	545
+1202	Gura	x ɨ n u	x ɨ n u - -	545
+1203	Gyeto	x ɨ n ə w a	x ɨ n ə w a	545
+1204	Inor	x ɨ n o w a	x ɨ n o w a	545
+1205	Kistane	k ɨ nː ə m	k ɨ nː ə m -	545
+1206	Mesqan	x ɨ nː o	x ɨ nː o - -	545
+1207	Muher	x ɨ nː ə w	x ɨ nː ə w -	545
+1208	Tigre	h ɨ t o m	h ɨ t o m -	545
+1209	Chaha	x ɨ x	x ɨ x -	548
+1210	Endegagn	x a d ə	x a d ə	548
+1211	Gumer	x ɨ x	x ɨ x -	548
+1212	Gyeto	x ə	x ə - -	548
+1213	Inor	x a d a	x a d a	548
+1214	Chaha	t ə h a n kʼ e	t ə h - - a n kʼ - e -	549
+1215	Endegagn	t ə h a ʔ e g ə d	t ə h a ʔ e - g - ə d	549
+1216	Ezha	t ə h a n kʼ j e	t ə h - - a n kʼ j e -	549
+1217	Gumer	t ə x a n kʼ e	t ə x - - a n kʼ - e -	549
+1218	Gura	t ə h ʔ a n g j e	t ə h - ʔ a n g j e -	549
+1219	Kistane	t ə k w a	t ə - - - - - k w a -	549
+1220	Muher	t ə h ɨ m a n g e	t ə h ɨ m a n g - e -	549
+1221	Chaha	dʒ ə n dʒ ɨ r	dʒ ə n dʒ ɨ r	550
+1222	Endegagn	g u ʃ ɨ r	g u - ʃ ɨ r	550
+1223	Ezha	dʒ ə n dʒ ɨ r	dʒ ə n dʒ ɨ r	550
+1224	Gumer	dʒ ə n dʒ ɨ r	dʒ ə n dʒ ɨ r	550
+1225	Gura	dʒ ə n dʒ ɨ r	dʒ ə n dʒ ɨ r	550
+1226	Gyeto	d ɨ n dʒ ɨ r	d ɨ n dʒ ɨ r	550
+1227	Inor	dʒ ə n dʒ ɨ r	dʒ ə n dʒ ɨ r	550
+1228	Mesqan	dʒ ə n dʒ ɨ n	dʒ ə n dʒ ɨ n	550
+1229	Muher	dʒ ə n dʒ ɨ n	dʒ ə n dʒ ɨ n	550
+1230	Chaha	s ɨ s ə	s ɨ s ə	551
+1231	Ezha	s ɨ sː ə	s ɨ sː ə	551
+1232	Gumer	s ɨ s a	s ɨ s a	551
+1233	Gura	s ɨ s ə	s ɨ s ə	551
+1234	Muher	s ə sː ə	s ə sː ə	551
+1235	Chaha	z ɨ	z ɨ - - -	552
+1236	Ezha	z ɨ x	z ɨ - x -	552
+1237	Geez	z ɨ n t u	z ɨ n t u	552
+1238	Gumer	z ɨ	z ɨ - - -	552
+1239	Gura	z ɨ	z ɨ - - -	552
+1240	Gyeto	z ə	z ə - - -	552
+1241	Kistane	z i	z i - - -	552
+1242	Mesqan	z i	z i - - -	552
+1243	Muher	z i	z i - - -	552
+1244	Tigrigna	ʔ ɨ zː i	ʔ ɨ - zː i	552
+1245	Wolane	z i	z i - - -	552
+1246	Endegagn	f a n g a j ə	f a n g a j ə	553
+1247	Gyeto	f ə n g ə j a	f ə n g ə j a	553
+1248	Inor	f ə n g ə j a	f ə n g ə j a	553
+1249	Endegagn	w a	w - - a	554
+1250	Inor	w ə d a	w ə d a	554
+1251	Ezha	s ə r ə ɲː ə	s ə r ə ɲː ə	555
+1252	Geez	s ə r a kʼ i	s ə r a kʼ i	555
+1253	Tigre	s e r kʼ ai̯	s e r - kʼ ai̯	555
+1254	Tigrigna	s ə r a q i	s ə r a q i	555
+1255	Gura	h a t a	h a t a	561
+1256	Silte	h a tː ai̯	h a tː ai̯	561
+1257	Harari	b ə ħ ə r	b ə ħ ə r	563
+1258	Inor	t ə h ɨ m	t ə h ɨ m	563
+1259	Mesqan	b ə h i	b ə h i -	563
+1260	Harari	r o g i	r o - g i	566
+1261	Silte	r a n dʒ i	r a n dʒ i	566
+1262	Wolane	r a n dʒ i	r a n dʒ i	566
+1263	Silte	ʔ u x u n	ʔ u x u n	578
+1264	Wolane	ʔ u h u n	ʔ u h u n	578
+1265	Silte	m ə g ə rː i	m ə g ə rː i	579
+1266	Wolane	m ə g ə rː i	m ə g ə rː i	579
+1267	Silte	ʔ ɨ nː ə	ʔ ɨ nː - - ə	580
+1268	Zway	ʔ ɨ n a tʃː u	ʔ ɨ n a tʃː u	580
+1269	Tigre	l a h ai̯	l a h ai̯	582
+1270	Zway	j a h ai̯	j a h ai̯	582
+1271	Amharic	g i zː e	g i zː - - e	594
+1272	Geez	g i z e	g i z - - e	594
+1273	Inor	g ɨ z ɨ j ə	g ɨ z ɨ j ə	594
+1274	Kistane	g ɨ z j e	g ɨ z - j e	594
+1275	Mesqan	g ɨ z j e	g ɨ z - j e	594
+1276	Muher	g e	g e - - - -	594
+1277	Wolane	g ɨ n	g ɨ n - - -	594
+1278	Zway	g i	g i - - - -	594
+1279	Amharic	n ə g ə	n ə g ə	596
+1280	Argobba	n ə g	n ə g -	596
+1281	Chaha	n ə g ə	n ə g ə	596
+1282	Endegagn	n ə g ə	n ə g ə	596
+1283	Ezha	n ə g ə	n ə g ə	596
+1284	Gumer	n ə g ə	n ə g ə	596
+1285	Gura	n ə g ə	n ə g ə	596
+1286	Gyeto	n ə g ə	n ə g ə	596
+1287	Inor	n ə g ə	n ə g ə	596
+1288	Kistane	n ə g ə	n ə g ə	596
+1289	Mesqan	n ə g ə	n ə g ə	596
+1290	Muher	n ə g ə	n ə g ə	596
+1291	Amharic	tʼ o r ɨ n ə t	tʼ o r ɨ n ə t	599
+1292	Argobba	tʼ o r ɨ n ə t	tʼ o r ɨ n ə t	599
+1293	Amharic	w ɨ h a	w ɨ h - - a	600
+1294	Argobba	ʔ a h o w a	ʔ a h o w a	600
+1295	Amharic	m ɨ n	m ɨ n - -	602
+1296	Argobba	m ɨ n	m ɨ n - -	602
+1297	Ezha	m ə ʔ e	m ə - ʔ e	602
+1298	Geez	m ɨ n t	m ɨ n t -	602
+1299	Harari	m i n	m i n - -	602
+1300	Kistane	m ɨ n	m ɨ n - -	602
+1301	Muher	m ɨ ʔ e	m ɨ - ʔ e	602
+1302	Silte	m ɨ n	m ɨ n - -	602
+1303	Tigre	m i	m i - - -	602
+1304	Wolane	m ɨ n	m ɨ n - -	602
+1305	Zway	m ɨ n	m ɨ n - -	602
+1306	Argobba	w ə kʼ t	w ə kʼ - t -	603
+1307	Harari	w a kʼ t i	w a kʼ - t i	603
+1308	Silte	w ə kʼ t	w ə kʼ - t -	603
+1309	Tigre	w ə kʼ ɨ d	w ə kʼ ɨ d -	603
+1310	Argobba	h u m a	h u m a	604
+1311	Geez	j o m	j o m -	604
+1312	Tigre	j o m	j o m -	604
+1313	Chaha	ʔ ə g a	ʔ ə g a	606
+1314	Ezha	ʔ ə g a	ʔ ə g a	606
+1315	Gura	ʔ ə g a	ʔ ə g a	606
+1316	Gyeto	ʔ ə g a	ʔ ə g a	606
+1317	Chaha	ʔ ə k w a	ʔ ə k w a -	607
+1318	Endegagn	ʔ a kː a	ʔ a kː - a -	607
+1319	Ezha	ʔ ə kː w a	ʔ ə kː w a -	607
+1320	Gumer	ʔ ə kː w a	ʔ ə kː w a -	607
+1321	Gura	ʔ ə k w a	ʔ ə k w a -	607
+1322	Gyeto	ʔ ə k w a	ʔ ə k w a -	607
+1323	Inor	ʔ o k w a	ʔ o k w a -	607
+1324	Kistane	ʔ a x u ɲ	ʔ a x - u ɲ	607
+1325	Mesqan	ʔ a k w a	ʔ a k w a -	607
+1326	Muher	ʔ ə kː w a	ʔ ə kː w a -	607
+1327	Chaha	g a z	g a z	608
+1328	Gumer	g a z	g a z	608
+1329	Gura	g a z	g a z	608
+1330	Inor	g a z	g a z	608
+1331	Muher	g a z	g a z	608
+1332	Chaha	ʔ ɨ x a	ʔ ɨ x a	609
+1333	Endegagn	ʔ ɨ x ə	ʔ ɨ x ə	609
+1334	Ezha	ʔ ɨ x a	ʔ ɨ x a	609
+1335	Gumer	ʔ ɨ x a	ʔ ɨ x a	609
+1336	Gura	ʔ ɨ x a	ʔ ɨ x a	609
+1337	Gyeto	ʔ i x a	ʔ i x a	609
+1338	Inor	ʔ ɨ x a	ʔ ɨ x a	609
+1339	Kistane	j i g a	j i g a	609
+1340	Mesqan	ʔ ə g a	ʔ ə g a	609
+1341	Muher	ʔ ɨ g a	ʔ ɨ g a	609
+1342	Chaha	m ɨ r kʼ a r	m ɨ r - kʼ a r	610
+1343	Endegagn	m ɨ r a f ə r	m ɨ r a f ə r	610
+1344	Gumer	m ɨ r kʼ a r	m ɨ r - kʼ a r	610
+1345	Gura	m ɨ r kʼ a r	m ɨ r - kʼ a r	610
+1346	Gyeto	m ə m ɨ r	m ə m - - ɨ r	610
+1347	Inor	m ɨ r ʔ a r	m ɨ r - ʔ a r	610
+1348	Mesqan	m ɨ r kʼ a r	m ɨ r - kʼ a r	610
+1349	Endegagn	ʔ a r ɨ w	ʔ a r ɨ w - -	612
+1350	Ezha	ʔ a r b	ʔ a r - b - -	612
+1351	Geez	ħ ə r b	ħ ə r - b - -	612
+1352	Gyeto	ʔ a r ɨ b	ʔ a r ɨ b - -	612
+1353	Harari	ħ aː r b i	ħ aː r - b i -	612
+1354	Mesqan	ʔ a r ɨ b	ʔ a r ɨ b - -	612
+1355	Silte	ʔ a r b	ʔ a r - b - -	612
+1356	Tigre	h ɨ r a b ə t	h ɨ r a b ə t	612
+1357	Wolane	ʔ a r b	ʔ a r - b - -	612
+1358	Geez	g e s ə m	g e s ə m	613
+1359	Harari	g i ʃ	g i ʃ - -	613
+1360	Silte	g eː s	g eː s - -	613
+1361	Wolane	g eː s	g eː s - -	613
+1362	Zway	g eː s	g eː s - -	613
+1363	Geez	m ai̯	m ai̯	615
+1364	Harari	m i	m i	615
+1365	Silte	m əi̯	m əi̯	615
+1366	Tigre	m ai̯	m ai̯	615
+1367	Tigrigna	m ai̯	m ai̯	615
+1368	Wolane	m əi̯	m əi̯	615
+1369	Zway	m əi̯	m əi̯	615
+1370	Silte	ʔ a w dʒ e	ʔ a w dʒ e	627
+1371	Wolane	ʔ a w dʒ e	ʔ a w dʒ e	627
+1372	Zway	ʔ a w dʒ i	ʔ a w dʒ i	627
+1373	Silte	ʔ o ʃ t	ʔ o ʃ t	629
+1374	Wolane	h oi̯ t	h oi̯ - t	629
+1375	Zway	h oi̯ t	h oi̯ - t	629
+1376	Tigre	g ə j a ʃ ai̯	g ə j a ʃ ai̯	631
+1377	Tigrigna	g ə j a ʃ ai̯	g ə j a ʃ ai̯	631
+1378	Amharic	j ə t ɨ ɲː a w	j ə t ɨ ɲː a w	639
+1379	Argobba	j e d ɨ ɲː a w	j e d ɨ ɲː a w	639
+1380	Kistane	j ɨ tː a	j ɨ tː - - a -	639
+1381	Amharic	s ə fː i	s ə fː i -	641
+1382	Argobba	s ə f i	s ə f i -	641
+1383	Tigrigna	g ə fː i ħ	g ə fː i ħ	641
+1384	Zway	s ə fː i	s ə fː i -	641
+1385	Amharic	g a r	g a r - -	643
+1386	Ezha	g i	g i - - -	643
+1387	Gumer	g a m w ə	g a m w ə	643
+1388	Gura	g a m w a	g a m w a	643
+1389	Inor	g ə z j ə	g ə z j ə	643
+1390	Kistane	g oi̯	g oi̯ - - -	643
+1391	Muher	g e	g e - - -	643
+1392	Amharic	s e t ɨ j o	s e - t ɨ j o	644
+1393	Tigrigna	s ə b ʔ ai̯ t i	s ə b ʔ ai̯ t i	644
+1394	Zway	s e t	s e - t - - -	644
+1395	Amharic	t a tʃː	t a - - - tʃː - -	647
+1396	Chaha	t ə t n ə j ə	t ə t n ə - j ə	647
+1397	Ezha	t ə tː ɨ n j a	t ə tː - ɨ n j a	647
+1398	Harari	t a ħ ai̯	t a ħ - ai̯ - - -	647
+1399	Kistane	t ə t a t əi̯	t ə t - a t - əi̯	647
+1400	Mesqan	t ə t ə tː e	t ə t - ə tː - e	647
+1401	Muher	t ə tː i j ə	t ə tː - i - j ə	647
+1402	Tigre	t ə ħ a t	t ə ħ - a t - -	647
+1403	Tigrigna	k ə t a tʃ	k ə t - a tʃ - -	647
+1404	Wolane	t u t	t u - - - t - -	647
+1405	Argobba	kʼ a m ə d i	kʼ a m ə d i	648
+1406	Harari	kʼ a m ə d i	kʼ a m ə d i	648
+1407	Argobba	b ə	b ə	649
+1408	Gyeto	b ə	b ə	649
+1409	Harari	b e	b e	649
+1410	Wolane	b ə	b ə	649
+1411	Zway	b ə	b ə	649
+1412	Chaha	ʔ ə n d e h u t a	ʔ ə n d e h u t a	652
+1413	Endegagn	ʔ ə t ə d ə	ʔ ə - t ə - - d ə	652
+1414	Ezha	ʔ ɨ n d e j ə t a	ʔ ɨ n d e j ə t a	652
+1415	Gumer	ʔ e t ə t a	ʔ e - t ə - - t a	652
+1416	Gura	ʔ e t ə t a	ʔ e - t ə - - t a	652
+1417	Gyeto	ʔ ai̯ t ə x t a	ʔ ai̯ - t ə x - t a	652
+1418	Inor	ʔ ə t ə d o	ʔ ə - t ə - - d o	652
+1419	Mesqan	ʔ e tː i	ʔ e - - - - - tː i	652
+1420	Muher	ʔ ɨ n tʼ e w e	ʔ ɨ n tʼ e w - - e	652
+1421	Silte	ʔ ai̯ t ai̯	ʔ ai̯ - - - - - t ai̯	652
+1422	Zway	ʔ ai̯ t e	ʔ ai̯ - - - - - t e	652
+1423	Chaha	b ə t ɨ t	b ə t ɨ t	653
+1424	Endegagn	b ə tː ə d	b ə tː ə d	653
+1425	Ezha	b ə tː ɨ t	b ə tː ɨ t	653
+1426	Gumer	b ə t ɨ t	b ə t ɨ t	653
+1427	Gura	b ə t ɨ t	b ə t ɨ t	653
+1428	Gyeto	b ə tː ə t	b ə tː ə t	653
+1429	Inor	b ə t ɨ t	b ə t ɨ t	653
+1430	Kistane	b ə t ə t	b ə t ə t	653
+1431	Mesqan	b ə tː ə t	b ə tː ə t	653
+1432	Muher	b ə tː ɨ t	b ə tː ɨ t	653
+1433	Silte	f ə tː	f ə tː - -	653
+1434	Wolane	f ə tː i	f ə tː i -	653
+1435	Chaha	t ə h u t	t ə h u t -	654
+1436	Endegagn	t ɨ h u d ə	t ɨ h u d ə	654
+1437	Silte	t uː h a	t uː h a - -	654
+1438	Endegagn	g ə d ə n i	g ə d ə n - - i	656
+1439	Inor	g ə d a n i j ə	g ə d a n i j ə	656
+1440	Geez	ʔ əi̯ n u	ʔ əi̯ n u -	658
+1441	Harari	ʔ aːi̯	ʔ aːi̯ - - -	658
+1442	Tigre	ʔ a j a	ʔ a j a -	658
+1443	Tigrigna	ʔ a jː ə n	ʔ a jː ə n	658
+1444	Wolane	ʔ ai̯ n e	ʔ ai̯ n e -	658
+1445	Geez	m ɨ s l ə	m ɨ s l ə	660
+1446	Tigre	m ɨ s	m ɨ s - -	660
+1447	Tigrigna	m ɨ s	m ɨ s - -	660
+1448	Gumer	w ə s tʼ ɨ n j ə	w ə s tʼ ɨ n - j ə	662
+1449	Gura	w ə s tʼ i n i j ə	w ə s tʼ i n i j ə	662
+1450	Gyeto	w ə s tʼ	w ə s tʼ - - - - -	662
+1451	Zway	w ɨ s t	w ɨ s t - - - - -	662
+1452	Kistane	d ə x ə	d ə - - x ə	667
+1453	Tigrigna	n ɨ s ɨ x a	n ɨ s ɨ x a	667

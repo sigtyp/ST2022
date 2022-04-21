@@ -1,0 +1,437 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	BelejeGonfoye	h a ɲ g ɪ r i	h a ɲ g ɪ r i	1
+2	Fadashi	h a ɳ dʒ i r	h a ɳ dʒ i r -	1
+3	Maiyu	h a n dʒ i r	h a n dʒ i r -	1
+4	Undulu	h a ŋː h i r	h a ŋː h i r -	1
+5	BelejeGonfoye	a l i	a l i	6
+6	Fadashi	a l i	a l i	6
+7	Maiyu	a l i	a l i	6
+8	Undulu	a l i	a l i	6
+9	Fadashi	a l h a m i s	a l h a m i s	13
+10	Maiyu	h a m i s	- - h a m i s	13
+11	Undulu	a l h a m i s	a l h a m i s	13
+12	Fadashi	f i ʃ	f i ʃ	20
+13	Maiyu	f i ʃ	f i ʃ	20
+14	BelejeGonfoye	s i	s i	24
+15	Fadashi	s iː	s iː	24
+16	Maiyu	s iː	s iː	24
+17	BelejeGonfoye	lː a r e	lː a r e	25
+18	Fadashi	θ aː r e	θ aː r e	25
+19	Maiyu	θ aː r e	θ aː r e	25
+20	BelejeGonfoye	b i e	b i e	41
+21	Fadashi	b eː	b eː -	41
+22	Undulu	b i e	b i e	41
+23	BelejeGonfoye	d oː ʃ i	d oː - ʃ i	52
+24	Maiyu	d ʊu̯ o ʃ	d ʊu̯ o ʃ -	52
+25	Undulu	t oː ʃ	t oː - ʃ -	52
+26	Fadashi	k ʔ a s ʔ i	k ʔ a s ʔ i	64
+27	Maiyu	k ʔ ə s ʔ i	k ʔ ə s ʔ i	64
+28	Fadashi	d iː d e	d iː d e	80
+29	Maiyu	d i ɗ i	d i ɗ i	80
+30	Fadashi	g a l a s i	g a l a s i	91
+31	Maiyu	g ɛ l a s i	g ɛ l a s i	91
+32	Undulu	g a l a z i	g a l a z i	91
+33	BelejeGonfoye	o l g ɪ n e	o l g ɪ n e	100
+34	Fadashi	o l g i ŋ i	o l g i ŋ i	100
+35	Maiyu	ɔ l g ɪ ɲ i	ɔ l g ɪ ɲ i	100
+36	BelejeGonfoye	k ʔ i d e ɾ e	k ʔ i d e ɾ e	110
+37	Fadashi	tʃ ʔ ɪ d ɛ r i	tʃ ʔ ɪ d ɛ r i	110
+38	Undulu	dʒ i d ɛ r i	- dʒ i d ɛ r i	110
+39	Fadashi	s u k u l i ŋ e	s u k u l i ŋ e	116
+40	Undulu	s u k u θ i ŋ e	s u k u θ i ŋ e	116
+41	Maiyu	a ŋ	- a ŋ	124
+42	Undulu	g a ŋ	g a ŋ	124
+43	Fadashi	s uː w a ʔ i	s - uː w a ʔ i	129
+44	Maiyu	s ʔ ʊ w i	s ʔ ʊ w - - i	129
+45	Fadashi	ɓ ə ɗ i ʔ i	ɓ - ə ɗ i ʔ i	134
+46	Maiyu	p ʔ a ɗ i ʔ i	p ʔ a ɗ i ʔ i	134
+47	Undulu	ɓ ə ɗ i ʔ e	ɓ - ə ɗ i ʔ e	134
+48	Fadashi	a sː e	a sː e	145
+49	Maiyu	a sː e	a sː e	145
+50	BelejeGonfoye	a ʔ m ɛ n dʒ i	a ʔ m ɛ n dʒ i	154
+51	Fadashi	a m a n z i	a - m a n z i	154
+52	Maiyu	a m a n z i	a - m a n z i	154
+53	Undulu	a m a n z i	a - m a n z i	154
+54	Fadashi	ɓ ə ɗ e	ɓ ə ɗ e	161
+55	Undulu	ɓ ɛ ɗ e	ɓ ɛ ɗ e	161
+56	BelejeGonfoye	m a	m a	165
+57	Fadashi	m a	m a	165
+58	Maiyu	m a	m a	165
+59	BelejeGonfoye	ɓ uː ɗ e	ɓ uː ɗ e	173
+60	Maiyu	ɓ u d a	ɓ u d a	173
+61	Undulu	ɓ u ɗ i	ɓ u ɗ i	173
+62	Fadashi	k ʔ u r f e	k ʔ u r f e	182
+63	Maiyu	k ʔ u r f e	k ʔ u r f e	182
+64	Fadashi	b u s ʔ i k e	b u s ʔ i k e	187
+65	Maiyu	b ʊ s k ʔ e	b ʊ s k - ʔ e	187
+66	Undulu	b ɪ s k ʔ e	b ɪ s k - ʔ e	187
+67	BelejeGonfoye	b ɪ mː b i l	b - ɪ mː b - i l	191
+68	Fadashi	ɓ ɛ m b ɛ l	ɓ - ɛ m b - ɛ l	191
+69	Maiyu	p ʔ ɪ mː p ʔ i l	p ʔ ɪ mː p ʔ i l	191
+70	Undulu	ɓ ɪ m ɓ ɪ l	ɓ - ɪ m ɓ - ɪ l	191
+71	BelejeGonfoye	mʷ ɔː n e	mʷ ɔː n e	217
+72	Fadashi	mː oː n e	mː oː n e	217
+73	Maiyu	m uː f a	m uː f a	218
+74	Undulu	m uː f o	m uː f o	218
+75	Maiyu	k ʊ r s i	- - k ʊ r s i	230
+76	Undulu	a l k u r s i	a l k u r s i	230
+77	BelejeGonfoye	ɓ i ɓ i o	ɓ - i ɓ - i o	233
+78	Fadashi	b i b i y o	b - i b i y o	233
+79	Maiyu	p ʔ iː p i o	p ʔ iː p - i o	233
+80	Fadashi	m i s e	m i s e -	234
+81	Undulu	m ɪ s e ʔ	m ɪ s e ʔ	234
+82	BelejeGonfoye	m aː s iː s o	m aː s iː s o	241
+83	Fadashi	m aː ʃ o	m aː - - ʃ o	241
+84	Maiyu	m aː ʃ ũ	m aː - - ʃ ũ	241
+85	Undulu	m ə n ʃ o	m ə n - ʃ o	241
+86	Fadashi	o r	o r	247
+87	Maiyu	ɔ r	ɔ r	247
+88	Undulu	o r	o r	247
+89	BelejeGonfoye	a g u r u	a g u r u	251
+90	Fadashi	a g uː r u	a g uː r u	251
+91	Maiyu	a g uː r u	a g uː r u	251
+92	Undulu	a g uː r u	a g uː r u	251
+93	Fadashi	m a	m a	263
+94	Maiyu	m ə	m ə	263
+95	Undulu	m a	m a	263
+96	Fadashi	g aː ʃ a	g aː ʃ a	264
+97	Maiyu	g aː ʃ a	g aː ʃ a	264
+98	Undulu	g aː ʃ a	g aː ʃ a	264
+99	Fadashi	aː m i l e	aː m i l e	272
+100	Maiyu	a m i l u	a m i l u	272
+101	BelejeGonfoye	m i l o ʔ i	- m i l o ʔ i	278
+102	Fadashi	a m i l u ʔ a	a m i l u ʔ a	278
+103	Maiyu	a m i l o	a m i l - - o	278
+104	Undulu	a m i l u ʔ i	a m i l u ʔ i	278
+105	BelejeGonfoye	a n tʃ ʔ ɛ r e	- a n tʃ ʔ ɛ r e	283
+106	Fadashi	a n s aː r e	- a n - s aː r e	283
+107	Maiyu	m a n s ʔ a r e	m a n s ʔ a r e	283
+108	BelejeGonfoye	i l o	i l o	296
+109	Maiyu	i l e	i l e	296
+110	Undulu	i l e	i l e	296
+111	Maiyu	ʃ ɛ r	ʃ ɛ r	298
+112	Undulu	ʃ e r	ʃ e r	298
+113	BelejeGonfoye	m uː ʃ e	m uː ʃ e	308
+114	Fadashi	m u ʃ e	m u ʃ e	308
+115	Maiyu	m u ʃ a	m u ʃ a	308
+116	BelejeGonfoye	u w e s i	u w e s i	318
+117	Fadashi	f eː s i	- f eː s i	318
+118	Maiyu	f e ʃ a	- f e ʃ a	318
+119	Undulu	f ɛ ʃ i	- f ɛ ʃ i	318
+120	Fadashi	aː m oː s o	aː m oː s o	326
+121	Maiyu	a m ɔː z o	a m ɔː z o	326
+122	BelejeGonfoye	a m b u d u ɾ o	a m b u d u ɾ o	330
+123	Fadashi	a m b u r u	a m b - - u r u	330
+124	Maiyu	a m b ʊ d u r	a m b ʊ d u r -	330
+125	BelejeGonfoye	m e t ɪ k eː	m e t ɪ k eː	351
+126	Fadashi	m ɛ d e g e	m ɛ d e g e	351
+127	Maiyu	f i l	- - f i l	353
+128	Undulu	a l f i l	a l f i l	353
+129	BelejeGonfoye	k oː ɗ e	k oː ɗ e	358
+130	Fadashi	k oː ɗ e	k oː ɗ e	358
+131	BelejeGonfoye	a r e	a r e	369
+132	Fadashi	a r e	a r e	369
+133	Maiyu	a r e	a r e	369
+134	Fadashi	a r e ʔ o l o	a r e ʔ o l o	370
+135	Undulu	a r o ʔ o l o	a r o ʔ o l o	370
+136	BelejeGonfoye	m b a	m - b a	375
+137	Maiyu	m aː b a	m aː b a	375
+138	Fadashi	n d a	n d a	377
+139	Undulu	n d a	n d a	377
+140	Fadashi	m ə k ʔ o ʃ	m ə k ʔ o ʃ	385
+141	Maiyu	m ə k ʔ ɔ ʃ	m ə k ʔ ɔ ʃ	385
+142	Undulu	m o k ʔ o ʃ	m o k ʔ o ʃ	385
+143	Fadashi	a bː a	a bː - - - a	390
+144	Maiyu	a bː a	a bː - - - a	390
+145	Undulu	aː b a i y o	aː b a i y o	390
+146	Maiyu	a g o ŋ g o r	a g o ŋ g o r	396
+147	Undulu	a g o ŋ h o r	a g o ŋ h o r	396
+148	BelejeGonfoye	n ə g u	n ə g u	399
+149	Fadashi	n ɛ g u	n ɛ g u	399
+150	Fadashi	b ə d e	b ə d e	405
+151	Maiyu	b ə d a	b ə d a	405
+152	Undulu	b ə d e	b ə d e	405
+153	Fadashi	e ʔ a f iː ŋ a	e ʔ a f iː ŋ a	419
+154	Maiyu	a f iː ŋ a	- - a f iː ŋ a	419
+155	Undulu	a f iː ɲ a	- - a f iː ɲ a	419
+156	Fadashi	h aː ɓ u	- h aː ɓ - u	424
+157	Maiyu	a h a p ʔ u	a h a p ʔ u	424
+158	Fadashi	b o ŋ o ʃ	b o ŋ - o ʃ	429
+159	Maiyu	b ɔ ɲ ɔ ʃ	b ɔ ɲ - ɔ ʃ	429
+160	Undulu	b o ŋ k o ʃ	b o ŋ k o ʃ	429
+161	BelejeGonfoye	n d ɛ nː e	n d ɛ nː e	438
+162	Fadashi	n d ɛ n e	n d ɛ n e	438
+163	Undulu	n d ɪ n e	n d ɪ n e	438
+164	Fadashi	s ʔ a k ʔ a	s ʔ a k ʔ a	449
+165	Maiyu	s ʔ a k ʔ a	s ʔ a k ʔ a	449
+166	Undulu	s ʔ a k ʔ a	s ʔ a k ʔ a	449
+167	BelejeGonfoye	a s ʔ i s ʔ e	a s ʔ i s ʔ e	458
+168	Fadashi	a s ʔ i s ʔ i	a s ʔ i s ʔ i	458
+169	Maiyu	a s ʔ i s ʔ i	a s ʔ i s ʔ i	458
+170	Undulu	a s ʔ i s ʔ i	a s ʔ i s ʔ i	458
+171	BelejeGonfoye	ɪ nː e	- ɪ nː e	473
+172	Fadashi	ɲ i n e	ɲ i n e	473
+173	Maiyu	ɲ i n e	ɲ i n e	473
+174	Undulu	ɪ nː e	- ɪ nː e	473
+175	Fadashi	θ oː ʔ i	θ oː ʔ - i -	485
+176	Undulu	θ oː ʔ i y u	θ oː ʔ i y u	485
+177	Fadashi	b o n e	b o n e	491
+178	Maiyu	b ə n a	b ə n a	491
+179	BelejeGonfoye	s u l ɲ e r o	s u l ɲ e r o	495
+180	Maiyu	ʃ u l	ʃ u - - - l -	495
+181	Undulu	ʃ u l	ʃ u - - - l -	495
+182	Maiyu	ɲ ɛː r a	ɲ ɛː r a	497
+183	Undulu	ɲ e r a	ɲ e r a	497
+184	Fadashi	f a r a d a	f a r a d a	518
+185	Maiyu	f ə r a d a	f ə r a d a	518
+186	Fadashi	h a g a	h a g a	519
+187	Undulu	h a g a	h a g a	519
+188	Fadashi	m o f a	m o f a	520
+189	Undulu	m o f a	m o f a	520
+190	BelejeGonfoye	h o ɾ e	h o ɾ e	525
+191	Undulu	h oː r e	h oː r e	525
+192	Fadashi	g uː ɗ ɛ	g uː ɗ ɛ	526
+193	Maiyu	g ʊ d a	g ʊ d a	526
+194	Fadashi	m ə r i ɛ n e	m ə r i ɛ n e	531
+195	Undulu	m ə r i ɛ n e	m ə r i ɛ n e	531
+196	BelejeGonfoye	k ʔ eː t e	k ʔ eː t e	536
+197	Fadashi	k eː d e	k - eː d e	536
+198	Maiyu	k ʔ eː d a	k ʔ eː d a	536
+199	Fadashi	s oː s o ʔ	s oː s o ʔ	542
+200	Maiyu	s ɔ s ɔ ʔ	s ɔ s ɔ ʔ	542
+201	Undulu	z o z o	z o z o -	542
+202	BelejeGonfoye	h a n d u	h a n d - - u	556
+203	Fadashi	h a n d u ŋ u	h a n d u ŋ u	556
+204	Maiyu	h a n d u ŋ u	h a n d u ŋ u	556
+205	Undulu	h a n d u ŋ u	h a n d u ŋ u	556
+206	Fadashi	m u l h i	m u l h i	558
+207	Maiyu	m u l h i	m u l h i	558
+208	Undulu	m u l h i	m u l h i	558
+209	Fadashi	a n f a n f o r o s ʔ	a n f a n f o r o s ʔ	566
+210	Maiyu	a f a ɲ f a r a s ʔ	a - f a ɲ f a r a s ʔ	566
+211	Undulu	aː w a w o r e s ʔ	aː - w a - w o r e s ʔ	566
+212	BelejeGonfoye	o ʔ o ɲ e	o ʔ o ɲ e	582
+213	Fadashi	o ʔ o ŋ	o ʔ o ŋ -	582
+214	Maiyu	ʊ ʔ u ŋ	ʊ ʔ u ŋ -	582
+215	Undulu	u q u ɲ	u q u ɲ -	582
+216	Maiyu	a dː ɛ w a	a dː ɛ w a	589
+217	Undulu	a dː a w a	a dː a w a	589
+218	BelejeGonfoye	m a n k o	m a n k - o	592
+219	Fadashi	mː a n k o	mː a n k - o	592
+220	Maiyu	m a n k ʔ o	m a n k ʔ o	592
+221	Fadashi	a mː a	a mː a	612
+222	Maiyu	a mː a	a mː a	612
+223	Fadashi	s u r e	s u r e	628
+224	Maiyu	s ʊ r e	s ʊ r e	628
+225	BelejeGonfoye	a b u lː u	a b u lː - u	632
+226	Maiyu	a b u l d u	a b u l d u	632
+227	Fadashi	k o r o m b o	- k o r o m b o	633
+228	Undulu	a g o r o m b o	a g o r o m b o	633
+229	Fadashi	t o k o l o	t - o k - o l o	644
+230	Maiyu	t ʔ ɔ k ʔ ɔ l o	t ʔ ɔ k ʔ ɔ l o	644
+231	Undulu	t ʔ o k ʔ o l o	t ʔ o k ʔ o l o	644
+232	Fadashi	k ʔ o ʃ	k ʔ o ʃ	650
+233	Maiyu	k ʔ ɔ ʃ	k ʔ ɔ ʃ	650
+234	Undulu	k ʔ o ʃ	k ʔ o ʃ	650
+235	BelejeGonfoye	mʷ o ɲ ʃ o	mʷ o ɲ ʃ o	655
+236	Undulu	m u n z oː	m u n z oː	655
+237	Fadashi	m a n e n k u	m a n e n k u	657
+238	Undulu	m u n e n k o	m u n e n k o	657
+239	Fadashi	w ɛ lː a	w ɛ lː a	668
+240	Maiyu	w ɛ lː a	w ɛ lː a	668
+241	Undulu	w ɛ lː a	w ɛ lː a	668
+242	Fadashi	m aː m a ŋ	m aː m a ŋ	674
+243	Maiyu	m a n a ɲ	m a n a ɲ	674
+244	BelejeGonfoye	m a ŋ k a	m a ŋ k - a	678
+245	Fadashi	mː a n k a	mː a n k - a	678
+246	Maiyu	m a n k ʔ a	m a n k ʔ a	678
+247	Fadashi	θ oː l a	θ oː l a	683
+248	Maiyu	θ ʊː θ a	θ ʊː θ a	683
+249	Undulu	θ uː θ e	θ uː θ e	683
+250	Fadashi	a l w a r ə g a	a l w a r ə g a	689
+251	Maiyu	w a r g a	- - w a r - g a	689
+252	BelejeGonfoye	n d ə	n d ə	694
+253	Fadashi	n d ə	n d ə	694
+254	Undulu	n d ə	n d ə	694
+255	BelejeGonfoye	m i l i	m i l i	695
+256	Fadashi	m i l i	m i l i	695
+257	Undulu	m i l i	m i l i	695
+258	BelejeGonfoye	iː l e	iː l e	702
+259	Maiyu	iː l a	iː l a	702
+260	Undulu	iː l a	iː l a	702
+261	Fadashi	g u ɗ u b a	g u ɗ u b a	708
+262	Undulu	g u ɗ u b i	g u ɗ u b i	708
+263	Fadashi	a ʃ iː b a	a ʃ iː b a	709
+264	Maiyu	a ʃ iː b a	a ʃ iː b a	709
+265	Fadashi	r ɛ g i s ʔ e	r ɛ g i s ʔ - - e	715
+266	Maiyu	r i g i s ʔ i ŋ a	r i g i s ʔ i ŋ a	715
+267	Fadashi	aː s ɛ l a	aː s ɛ l a -	720
+268	Maiyu	aː s ɛ l a	aː s ɛ l a -	720
+269	Undulu	aː s ɛ l a ʔ	aː s ɛ l a ʔ	720
+270	Fadashi	r o r a	r o r a	727
+271	Undulu	θ o r a	θ o r a	727
+272	Fadashi	s i ʔ i	s i ʔ i	728
+273	Maiyu	h u ʃ i	h u ʃ i	728
+274	Undulu	s i ʔ i	s i ʔ i	728
+275	Fadashi	a g o	a g o -	742
+276	Maiyu	aː g u	aː g u -	742
+277	Undulu	a g o ʔ	a g o ʔ	742
+278	Maiyu	f ʊː f u r	f ʊː f u r	748
+279	Undulu	f uː f u r	f uː f u r	748
+280	BelejeGonfoye	r o	r o	751
+281	Fadashi	r o	r o	751
+282	Maiyu	r ɔ	r ɔ	751
+283	Undulu	r o	r o	751
+284	Fadashi	m o z o l	m o z o l	757
+285	Undulu	m o g o l	m o g o l	757
+286	Fadashi	a m a z i ɲ	a m a z i ɲ	762
+287	Maiyu	a m a s i ɲ	a m a s i ɲ	762
+288	Undulu	a m a z i	a m a z i -	762
+289	BelejeGonfoye	s oː r e	s oː r e	766
+290	Fadashi	ʃ oː r a	ʃ oː r a	766
+291	Maiyu	ʃ ɔː r a	ʃ ɔː r a	766
+292	Undulu	ʃ oː r a	ʃ oː r a	766
+293	Fadashi	g i n d aː l i a	g i n d aː l i a	777
+294	Maiyu	d aː l i a	- - - d aː l i a	777
+295	Undulu	g i n d aː l i a	g i n d aː l i a	777
+296	BelejeGonfoye	d eː ɲ i	d eː ɲ i	782
+297	Maiyu	d iː ŋ i	d iː ŋ i	782
+298	Fadashi	m aː r a	m aː r - a	783
+299	Maiyu	m ʊ r θ a	m ʊ r θ a	783
+300	Undulu	m a r θ a	m a r θ a	783
+301	Fadashi	a m a ɗ e	a m a ɗ e	789
+302	Maiyu	a m a ɗ i	a m a ɗ i	789
+303	Undulu	a m a ɗ e	a m a ɗ e	789
+304	Fadashi	ʃ eː k ʔ e	ʃ eː k ʔ e	794
+305	Maiyu	ʃ eː k ʔ e	ʃ eː k ʔ e	794
+306	BelejeGonfoye	k ʔ o k o n e	k ʔ o - k o n e	798
+307	Fadashi	k ʔ o ŋ k o n i	k ʔ o ŋ k o n i	798
+308	Maiyu	k ɔ ŋ k ɔ n e	k - ɔ ŋ k ɔ n e	798
+309	Maiyu	p ʔ eː r a	p ʔ eː r a	799
+310	Undulu	ɓ eː r a	ɓ - eː r a	799
+311	BelejeGonfoye	ɛ l e n o l o	ɛ l e n o l o	804
+312	Fadashi	ɛ l e n e l o	ɛ l e n e l o	804
+313	Fadashi	n ɛ b e nː a	n ɛ b e nː a	811
+314	Undulu	h ɛ b e n a	h ɛ b e n a	811
+315	BelejeGonfoye	a s o r i	a s o r i -	820
+316	Fadashi	aː ʃ o r e	aː ʃ o r e -	820
+317	Undulu	aː ʃ o r e n	aː ʃ o r e n	820
+318	Fadashi	aː ɓ i l a	aː ɓ - i l a	827
+319	Maiyu	a p ʔ i l a	a p ʔ i l a	827
+320	Undulu	aː ɓ i l a	aː ɓ - i l a	827
+321	BelejeGonfoye	m aː s i	m aː s i	837
+322	Fadashi	m aː ʃ i	m aː ʃ i	837
+323	Undulu	m aː ʃ i	m aː ʃ i	837
+324	BelejeGonfoye	ɗ o ŋ o s e	ɗ o ŋ o s e	842
+325	Fadashi	ɗ o ŋ o ʃ a	ɗ o ŋ o ʃ a	842
+326	Maiyu	ɗ ɔ ŋ ɔ ʃ a	ɗ ɔ ŋ ɔ ʃ a	842
+327	Fadashi	t i r ʃ a	t i r ʃ a	853
+328	Maiyu	d i r ʃ a	d i r ʃ a	853
+329	Undulu	θ ə r ʃ a	θ ə r ʃ a	853
+330	Fadashi	k ʔ o s i	k ʔ o s - i	859
+331	Maiyu	k ʔ ɔ s ʔ i	k ʔ ɔ s ʔ i	859
+332	BelejeGonfoye	a ŋ o n ɛ n e	a ŋ o n ɛ n e	864
+333	Fadashi	a ŋ o n i	a ŋ o n - - i	864
+334	Maiyu	a ŋ ɔ n a	a ŋ ɔ n - - a	864
+335	Undulu	a ŋː o n i	a ŋː o n - - i	864
+336	Fadashi	h a r o ɗ i	h a r o ɗ i	875
+337	Undulu	g o r o ɗ i	g o r o ɗ i	875
+338	BelejeGonfoye	a b a r a b ɛ t i	a b a r a b ɛ t i	879
+339	Fadashi	a b a r a b ɛ t	a b a r a b ɛ t -	879
+340	Maiyu	a b a r ə b ɛ d	a b a r ə b ɛ d -	879
+341	BelejeGonfoye	ɓ iː l o	ɓ - iː l o	889
+342	Fadashi	ɓ eː l e	ɓ - eː l e	889
+343	Maiyu	p ʔ eː l a	p ʔ eː l a	889
+344	Fadashi	iː s ʔ u	iː s ʔ u	894
+345	Maiyu	iː s ʔ u	iː s ʔ u	894
+346	Undulu	iː s ʔ u	iː s ʔ u	894
+347	Fadashi	ɗ a ɗ a f e t	- ɗ a - ɗ a f e t	899
+348	Maiyu	a ɗ a ɗ a f ɛ d	a ɗ a - ɗ a f ɛ d	899
+349	Undulu	a ɗ a n ɗ a f e t	a ɗ a n ɗ a f e t	899
+350	Fadashi	b eː k a	b eː k a	904
+351	Maiyu	b ə k a	b ə k a	904
+352	BelejeGonfoye	m u ɲ dʒ o	m u ɲ dʒ o	908
+353	Maiyu	m u n s u	m u n s u	908
+354	Undulu	m u n z u	m u n z u	908
+355	Fadashi	m e n e m e n i ɲ i	m e n e m e n i ɲ i	914
+356	Maiyu	m ɛ n ɛ m ɛ ɲ ɪ n i	m ɛ n ɛ m ɛ ɲ ɪ n i	914
+357	Fadashi	s ʔ oː b i	s ʔ oː b i	924
+358	Maiyu	s ʔ ɛ b i	s ʔ ɛ b i	924
+359	BelejeGonfoye	m b a	m - b a	928
+360	Maiyu	m aː b ə	m aː b ə	928
+361	Fadashi	n d a	n d a	931
+362	Undulu	n d a	n d a	931
+363	Fadashi	g ɛ r a ʔ i	g ɛ r a ʔ i	932
+364	Undulu	g ɛ r a ʔ i	g ɛ r a ʔ i	932
+365	BelejeGonfoye	ɓ u l ei̯ a n e	ɓ - u l ei̯ a n e	938
+366	Fadashi	ɓ u l a	ɓ - u l - - - a	938
+367	Maiyu	p ʔ u l a	p ʔ u l - - - a	938
+368	BelejeGonfoye	ɓ a ŋ g o	ɓ a ŋ g o	946
+369	Fadashi	ɓ a ŋ g o	ɓ a ŋ g o	946
+370	Undulu	ɓ a ŋ g o	ɓ a ŋ g o	946
+371	BelejeGonfoye	m a r e	m a r e	957
+372	Fadashi	m a r e	m a r e	957
+373	Maiyu	m ə r e	m ə r e	957
+374	Undulu	m a r e	m a r e	957
+375	Fadashi	s ɛː ŋ a n e	s ɛː ŋ a n e	968
+376	Undulu	s e nː a	s e - - nː a	968
+377	Fadashi	a ŋ	a ŋ	973
+378	Maiyu	aː ŋ	aː ŋ	973
+379	BelejeGonfoye	b eː	b eː	978
+380	Maiyu	b eː	b eː	978
+381	Undulu	b eː	b eː	978
+382	Fadashi	m ɛ n ɗ a ʃ i	m ɛ n ɗ a ʃ i	993
+383	Undulu	m e n ɗ ɛ ʃ i	m e n ɗ ɛ ʃ i	993
+384	Fadashi	ʃ i ɲ	ʃ i ɲ	1001
+385	Maiyu	ʃ i ŋ	ʃ i ŋ	1001
+386	BelejeGonfoye	ɪ ŋ g o l e	ɪ ŋ g o l e	1007
+387	Fadashi	ɪ ŋ g o l e	ɪ ŋ g o l e	1007
+388	Undulu	o ŋ g o l e	o ŋ g o l e	1007
+389	Fadashi	a sː u r w a l	a sː u r w a l	1013
+390	Maiyu	a s ʊ r w a l	a s ʊ r w a l	1013
+391	Fadashi	w aː s a	- w aː s a	1017
+392	Maiyu	a w a z a	a w a z a	1017
+393	Undulu	w aː s a	- w aː s a	1017
+394	Fadashi	ʃ ɪ m b i r a	- ʃ ɪ m b - i r a	1022
+395	Maiyu	a ʃ ɪ m b r i ŋ a	a ʃ ɪ m b r i ŋ a	1022
+396	BelejeGonfoye	b oː b o	b oː b o	1027
+397	Fadashi	b o b o	b o b o	1027
+398	Fadashi	ʃ ɪ m b i l	ʃ ɪ m b i l -	1044
+399	Maiyu	ʃ i m b i l	ʃ i m b i l -	1044
+400	Undulu	ʃ i m b i l u	ʃ i m b i l u	1044
+401	Fadashi	ʃ ɛ b o r o	ʃ ɛ b o r o	1057
+402	Maiyu	ʃ ɛ b a r o	ʃ ɛ b a r o	1057
+403	Fadashi	h aː ʃ a	h aː - - ʃ a	1062
+404	Maiyu	h a h a ʃ a	h a h a ʃ a	1062
+405	Undulu	h a h a ʃ a	h a h a ʃ a	1062
+406	BelejeGonfoye	w ɛ n t e ɲ e	w ɛ n - t e ɲ e	1066
+407	Fadashi	f ɛ n s i ŋ a	f ɛ n s - i ŋ a	1066
+408	Maiyu	f e n s ʔ i ŋ a	f e n s ʔ i ŋ a	1066
+409	Undulu	f ɛ n t e ŋ i	f ɛ n - t e ŋ i	1066
+410	BelejeGonfoye	m b o l e ʔ i a	m b o l e ʔ i a	1071
+411	Fadashi	m b o l e j a	m b o l e j - a	1071
+412	Fadashi	m e h i	m e h i	1078
+413	Maiyu	m iː h i	m iː h i	1078
+414	Undulu	m ɪ h i	m ɪ h i	1078
+415	Fadashi	m e h i	m e h i	1084
+416	Maiyu	m iː h i	m iː h i	1084
+417	BelejeGonfoye	ɪ ŋ g o l e	ɪ ŋ g o l e	1087
+418	Fadashi	ɪ ŋ g o l e	ɪ ŋ g o l e	1087
+419	Undulu	o ŋ g o l e	o ŋ g o l e	1087
+420	BelejeGonfoye	h o s a l e	h o s a l e	1088
+421	Maiyu	h ɔ ʃ ɛ l i	h ɔ ʃ ɛ l i	1088
+422	Undulu	h o ʃ ɛ l e	h o ʃ ɛ l e	1088
+423	Fadashi	r oː n d u	r oː n d u	1097
+424	Maiyu	r ɔː n d u	r ɔː n d u	1097
+425	Undulu	r oː n d u	r oː n d u	1097
+426	BelejeGonfoye	n g o	n g o	1106
+427	Fadashi	n g o	n g o	1106
+428	Maiyu	ŋ g o	ŋ g o	1106
+429	Undulu	ɲ ɦ o	ɲ ɦ o	1106
+430	BelejeGonfoye	h a l u	h a l u	1111
+431	Fadashi	h a l u	h a l u	1111
+432	Maiyu	h a θ u	h a θ u	1111
+433	Undulu	h a θ u	h a θ u	1111
+434	BelejeGonfoye	mː b a ʔ a	mː b a ʔ a	1122
+435	Fadashi	m b a ʔ a	m b a ʔ a	1122
+436	Maiyu	m b a ʔ a	m b a ʔ a	1122

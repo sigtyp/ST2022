@@ -1,0 +1,559 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	ChorbatBalti	m i n̪ s̪	m i n̪ s̪	1
+2	KhapaluBalti	m i n̪ s̪	m i n̪ s̪	1
+3	KharmangBalti	m ɪ n̪ s̪	m ɪ n̪ s̪	1
+4	RonduBalti	m i n̪ s̪	m i n̪ s̪	1
+5	ShigarBalti	m ɪ n̪ s̪	m ɪ n̪ s̪	1
+6	SkarduBalti	m ɪ n̪ s̪	m ɪ n̪ s̪	1
+7	ChorbatBalti	p o t̪ ʊ k s̪	p o t̪ ʊ k s̪	33
+8	KharmangBalti	t̪ ʊ k s̪	- - t̪ ʊ k s̪	33
+9	ShigarBalti	t̪ ʊ k s̪	- - t̪ ʊ k s̪	33
+10	KhapaluBalti	s̪ t̪ r̪ ɜ k s̪	s̪ t̪ r̪ ɜ k s̪	34
+11	RonduBalti	s̪ t̪ r̪ ɜ k s̪	s̪ t̪ r̪ ɜ k s̪	34
+12	SkarduBalti	s̪ t̪ r̪ ɜ k s̪	s̪ t̪ r̪ ɜ k s̪	34
+13	ChorbatBalti	õ s̪	õ - s̪	41
+14	KhapaluBalti	õ s̪	õ - s̪	41
+15	KharmangBalti	õ s̪	õ - s̪	41
+16	RonduBalti	õ s̪	õ - s̪	41
+17	ShigarBalti	õ s̪	õ - s̪	41
+18	SkarduBalti	o ŋ s̪	o ŋ s̪	41
+19	SkarduPurki	õ s̪	õ - s̪	41
+20	ChorbatBalti	ɕ ɪ s̪	ɕ ɪ s̪	49
+21	KhapaluBalti	ɕ i s̪	ɕ i s̪	49
+22	KharmangBalti	ɕ i s̪	ɕ i s̪	49
+23	RonduBalti	ɕ i s̪	ɕ i s̪	49
+24	ShigarBalti	ɕ ɪ s̪	ɕ ɪ s̪	49
+25	SkarduBalti	ɕ i s̪	ɕ i s̪	49
+26	SkarduPurki	ɕ i s̪	ɕ i s̪	49
+27	ChorbatBalti	k o s̪	k o s̪	65
+28	KhapaluBalti	k o s̪	k o s̪	65
+29	KharmangBalti	k o s̪	k o s̪	65
+30	RonduBalti	k o s̪	k o s̪	65
+31	ShigarBalti	k o s̪	k o s̪	65
+32	SkarduBalti	k o s̪	k o s̪	65
+33	SkarduPurki	k o s̪	k o s̪	65
+34	ChorbatBalti	ɾ d ɜ p s̪	ɾ d ɜ p s̪	73
+35	KhapaluBalti	ɾ d ɜ p s̪	ɾ d ɜ p s̪	73
+36	KharmangBalti	ɾ d ɜ p s̪	ɾ d ɜ p s̪	73
+37	ShigarBalti	ɾ d ɜ p s̪	ɾ d ɜ p s̪	73
+38	SkarduBalti	ɾ d ɜ p s̪	ɾ d ɜ p s̪	73
+39	SkarduPurki	ɾ d ɜ p s̪	ɾ d ɜ p s̪	73
+40	ChorbatBalti	p r̪ ɛ t̪ l ɑ	p r̪ ɛ t̪ l ɑ	80
+41	KhapaluBalti	p r̪ ɛ l ɑ	p r̪ ɛ - l ɑ	80
+42	ShigarBalti	p r̪ ɛ l ɑ	p r̪ ɛ - l ɑ	80
+43	RonduBalti	ɾ ɪ l s̪	ɾ ɪ l s̪	82
+44	SkarduBalti	ɾ ɪ l s̪	ɾ ɪ l s̪	82
+45	ChorbatBalti	ɾ gʲ u k s̪	ɾ gʲ u k s̪	88
+46	KhapaluBalti	b gʲ u k s̪	b gʲ u k s̪	88
+47	KharmangBalti	β gʲ ʊ k s̪	β gʲ ʊ k s̪	88
+48	RonduBalti	b gʲ u k s̪	b gʲ u k s̪	88
+49	ShigarBalti	β gʲ u k s̪	β gʲ u k s̪	88
+50	SkarduBalti	b gʲ u k s̪	b gʲ u k s̪	88
+51	ChorbatBalti	d̪ u k s̪	d̪ u k s̪	96
+52	KhapaluBalti	d̪ u k s̪	d̪ u k s̪	96
+53	KharmangBalti	d̪ u k s̪	d̪ u k s̪	96
+54	RonduBalti	d̪ u k s̪	d̪ u k s̪	96
+55	ShigarBalti	d̪ u k s̪	d̪ u k s̪	96
+56	SkarduBalti	d̪ u k s̪	d̪ u k s̪	96
+57	SkarduPurki	d̪ u k s̪	d̪ u k s̪	96
+58	ChorbatBalti	t̪ʰ o ŋ s̪	t̪ʰ o ŋ s̪	104
+59	KhapaluBalti	t̪ʰ õ s̪	t̪ʰ õ - s̪	104
+60	KharmangBalti	t̪ʰ o ŋ s̪	t̪ʰ o ŋ s̪	104
+61	RonduBalti	t̪ʰ o ŋ	t̪ʰ o ŋ -	104
+62	ShigarBalti	t̪ʰ o ŋ	t̪ʰ o ŋ -	104
+63	SkarduBalti	t̪ʰ o ŋ s̪	t̪ʰ o ŋ s̪	104
+64	ChorbatBalti	ŋ ĩ t̪ ɑ̃ s̪	ŋ ĩ t̪ - ɑ̃ s̪	111
+65	KhapaluBalti	ŋ ĩ t̪ õ s̪	ŋ ĩ t̪ - õ s̪	111
+66	KharmangBalti	ŋ ĩ t̪ ɑ̃ s̪	ŋ ĩ t̪ - ɑ̃ s̪	111
+67	RonduBalti	ŋ ĩ t̪ ɜ̃ s̪	ŋ ĩ t̪ - ɜ̃ s̪	111
+68	ShigarBalti	ȵ ĩ t̪ ʔ õ s̪	ȵ ĩ t̪ ʔ õ s̪	111
+69	SkarduBalti	ȵ ĩ t̪ ɜ̃ s̪	ȵ ĩ t̪ - ɜ̃ s̪	111
+70	SkarduPurki	ŋ ĩ t̪ ɑ̃ s̪	ŋ ĩ t̪ - ɑ̃ s̪	111
+71	ChorbatBalti	z̪ ɛ ɾ s̪	z̪ ɛ ɾ s̪	120
+72	KhapaluBalti	z̪ ɛ ɾ s̪	z̪ ɛ ɾ s̪	120
+73	KharmangBalti	z̪ ɛ ɾ s̪	z̪ ɛ ɾ s̪	120
+74	RonduBalti	z̪ ɛ ɾ s̪	z̪ ɛ ɾ s̪	120
+75	ShigarBalti	z̪ ɛ ɾ s̪	z̪ ɛ ɾ s̪	120
+76	SkarduBalti	z̪ ɛ ɾ s̪	z̪ ɛ ɾ s̪	120
+77	SkarduPurki	z̪ ɛ ɾ s̪	z̪ ɛ ɾ s̪	120
+78	ChorbatBalti	d̪ r̪ u l s̪	d̪ r̪ u l s̪	128
+79	KhapaluBalti	d̪ r̪ u l s̪	d̪ r̪ u l s̪	128
+80	KharmangBalti	d̪ r̪ u l s̪	d̪ r̪ u l s̪	128
+81	RonduBalti	d̪ r̪ u l s̪	d̪ r̪ u l s̪	128
+82	ShigarBalti	d̪ r̪ u l s̪	d̪ r̪ u l s̪	128
+83	SkarduBalti	d̪ r̪ u l s̪	d̪ r̪ u l s̪	128
+84	SkarduPurki	d̪ r̪ u l s̪	d̪ r̪ u l s̪	128
+85	ChorbatBalti	s̪ o ŋ s̪	s̪ o ŋ s̪	136
+86	KhapaluBalti	s̪ õ s̪	s̪ õ - s̪	136
+87	KharmangBalti	s̪ o ŋ	s̪ o ŋ -	136
+88	RonduBalti	s̪ o ŋ	s̪ o ŋ -	136
+89	ShigarBalti	s̪ õ s̪	s̪ õ - s̪	136
+90	SkarduBalti	s̪ o ŋ s̪	s̪ o ŋ s̪	136
+91	SkarduPurki	s̪ o ŋ	s̪ o ŋ -	136
+92	ChorbatBalti	pʰ u ɾ s̪	pʰ u ɾ s̪	144
+93	KhapaluBalti	pʰ u ɾ s̪	pʰ u ɾ s̪	144
+94	KharmangBalti	pʰ u ɾ s̪	pʰ u ɾ s̪	144
+95	RonduBalti	pʰ u ɾ s̪	pʰ u ɾ s̪	144
+96	ShigarBalti	pʰ u ɾ s̪	pʰ u ɾ s̪	144
+97	SkarduBalti	pʰ u ɾ s̪	pʰ u ɾ s̪	144
+98	SkarduPurki	pʰ u ɾ s̪	pʰ u ɾ s̪	144
+99	ChorbatBalti	tɕ ɜ t̪ s̪	tɕ ɜ t̪ s̪	152
+100	KhapaluBalti	tɕ ɜ t̪ s̪	tɕ ɜ t̪ s̪	152
+101	KharmangBalti	tɕ ɜ t̪ s̪	tɕ ɜ t̪ s̪	152
+102	ShigarBalti	tɕ ɜ t̪ s̪	tɕ ɜ t̪ s̪	152
+103	RonduBalti	kʰ ɜ k t̪ ɜ t̪ s̪	kʰ ɜ k t̪ ɜ t̪ s̪	153
+104	ShigarBalti	kʰ ɑ k t̪ ɜ t̪ s̪	kʰ ɑ k t̪ ɜ t̪ s̪	153
+105	SkarduBalti	kʰ ɜ k t̪ ɜ t̪ s̪	kʰ ɜ k t̪ ɜ t̪ s̪	153
+106	KhapaluBalti	s̪ ʊ t̪ ʊ p s̪	s̪ ʊ t̪ ʊ - p s̪	154
+107	SkarduBalti	s̪ o t̪ ɜ p s̪	s̪ o t̪ ɜ - p s̪	154
+108	SkarduPurki	t̪ʰ ɜ m p s̪	- - t̪ʰ ɜ m p s̪	154
+109	ChorbatBalti	ŋ ɑ	ŋ ɑ	163
+110	KhapaluBalti	ŋ ɑ	ŋ ɑ	163
+111	KharmangBalti	ŋ ɑ	ŋ ɑ	163
+112	RonduBalti	ŋ ɑ	ŋ ɑ	163
+113	ShigarBalti	ŋ ɑ	ŋ ɑ	163
+114	SkarduBalti	ŋ ɜ	ŋ ɜ	163
+115	SkarduPurki	ŋ ɑ	ŋ ɑ	163
+116	KhapaluBalti	t̪ʲ o k	t̪ʲ o k	172
+117	RonduBalti	t̪ o k	t̪ o k	172
+118	SkarduBalti	t̪ o k	t̪ o k	172
+119	KharmangBalti	gʲ ɜ̃ l ɜ	gʲ ɜ̃ l ɜ	173
+120	SkarduPurki	gʲ ɜ̃ l ɜ	gʲ ɜ̃ l ɜ	173
+121	RonduBalti	j ɑ ɾ	j ɑ ɾ	174
+122	ShigarBalti	j ɑ ɾ	j ɑ ɾ	174
+123	SkarduBalti	j ɜ ɾ	j ɜ ɾ	174
+124	ChorbatBalti	k ɪ m b o q	k ɪ m b o q	197
+125	KhapaluBalti	k i ŋ b o q	k i ŋ b o q	197
+126	RonduBalti	ʈʂ ɪ m o q	ʈʂ ɪ m o q	199
+127	ShigarBalti	ʈʂ ɪ m o q	ʈʂ ɪ m o q	199
+128	SkarduBalti	ʈʂ ɪ m o q	ʈʂ ɪ m o q	199
+129	ChorbatBalti	t̪ʰ ɜ l tθ ɪ ɾ	t̪ʰ ɜ l tθ ɪ ɾ	213
+130	KhapaluBalti	t̪ʰ ɜ l tθ i ɾ	t̪ʰ ɜ l tθ i ɾ	213
+131	RonduBalti	t̪ʰ ɜ l tɕ ɪ t̪	t̪ʰ ɜ l tɕ ɪ t̪	213
+132	ShigarBalti	t̪ʰ ɜ l tɕ ɪ t̪	t̪ʰ ɜ l tɕ ɪ t̪	213
+133	SkarduBalti	t̪ʰ ɜ l tɕ ɪ t̪	t̪ʰ ɜ l tɕ ɪ t̪	213
+134	KharmangBalti	t̪ʰ ɜ l b ɜ	t̪ʰ ɜ l b ɜ	214
+135	SkarduPurki	t̪ʰ ɜ l b ɜ	t̪ʰ ɜ l b ɜ	214
+136	ChorbatBalti	tɕ ɜ ŋ m ɛ n̪	tɕ ɜ ŋ m ɛ n̪	229
+137	KhapaluBalti	tɕ ɜ ŋ m ɛ n̪	tɕ ɜ ŋ m ɛ n̪	229
+138	KharmangBalti	tɕ ɑ ŋ m ɛ n̪	tɕ ɑ ŋ m ɛ n̪	229
+139	RonduBalti	tɕʲ ɑ ŋ m ɛ n̪	tɕʲ ɑ ŋ m ɛ n̪	229
+140	ShigarBalti	tɕ ɑ ŋ m ɛ n̪	tɕ ɑ ŋ m ɛ n̪	229
+141	SkarduBalti	tɕ ɑ ŋ m ɛ n̪	tɕ ɑ ŋ m ɛ n̪	229
+142	KhapaluBalti	ʊ ɾ g o	ʊ ɾ g o	279
+143	KharmangBalti	ʊ ɾ g o	ʊ ɾ g o	279
+144	RonduBalti	ɾ g o	- ɾ g o	279
+145	ShigarBalti	ʊ ɾ g o	ʊ ɾ g o	279
+146	SkarduBalti	ɾ g o	- ɾ g o	279
+147	SkarduPurki	ʊ ɾ g o	ʊ ɾ g o	279
+148	ChorbatBalti	tɕʰ ɜ x s̪	tɕʰ ɜ x s̪	311
+149	ShigarBalti	tɕʰ ɜ x s̪	tɕʰ ɜ x s̪	311
+150	ChorbatBalti	k ɜ ɽ ɜ m	k ɜ ɽ ɜ m	328
+151	KharmangBalti	k ɜ ɽ ɜ m	k ɜ ɽ ɜ m	328
+152	RonduBalti	k ɜ ɽ ɜ m	k ɜ ɽ ɜ m	328
+153	ShigarBalti	k ɜ ɽ ɜ m	k ɜ ɽ ɜ m	328
+154	SkarduBalti	k ɜ ɽ ɜ m	k ɜ ɽ ɜ m	328
+155	ChorbatBalti	b ɜ n̪ d	b ɜ n̪ d	329
+156	KhapaluBalti	b ɜ n̪ d	b ɜ n̪ d	329
+157	KharmangBalti	b ɜ n̪ d	b ɜ n̪ d	329
+158	SkarduPurki	b ɜ n̪ d	b ɜ n̪ d	329
+159	ChorbatBalti	g o b i	g o b i	330
+160	KhapaluBalti	g o b i	g o b i	330
+161	KharmangBalti	g o b i	g o b i	330
+162	SkarduPurki	g o b i	g o b i	330
+163	ChorbatBalti	g o b i	- - - g o b i	342
+164	KhapaluBalti	g o b i	- - - g o b i	342
+165	KharmangBalti	ɸ u l g o b i	ɸ u l g o b i	342
+166	SkarduPurki	pʰ u l g o b i	pʰ u l g o b i	342
+167	RonduBalti	k ɜ ɽ ɜ m	k ɜ ɽ ɜ m	343
+168	ShigarBalti	k ɜ ɽ ɜ m	k ɜ ɽ ɜ m	343
+169	SkarduBalti	k ɜ ɽ ɜ m	k ɜ ɽ ɜ m	343
+170	ChorbatBalti	pʰ r̪ u	pʰ r̪ u	358
+171	KhapaluBalti	pʰ r̪ u	pʰ r̪ u	358
+172	KharmangBalti	pʰ r̪ u	pʰ r̪ u	358
+173	ShigarBalti	p l̥ u	p l̥ u	358
+174	SkarduBalti	p l̥ u	p l̥ u	358
+175	SkarduPurki	pʰ r̪ u	pʰ r̪ u	358
+176	ChorbatBalti	r̪ ɜ s̪	r̪ ɜ s̪	374
+177	KhapaluBalti	ɾ ɜ s̪	ɾ ɜ s̪	374
+178	KharmangBalti	ɾ ɜ s̪	ɾ ɜ s̪	374
+179	SkarduBalti	ɾ ɜ s̪	ɾ ɜ s̪	374
+180	SkarduPurki	ɾ ɜ s̪	ɾ ɜ s̪	374
+181	KharmangBalti	k ɜ p ɽ ɑ	k ɜ p ɽ ɑ	375
+182	RonduBalti	k ɜ p ɽ ɜ	k ɜ p ɽ ɜ	375
+183	ChorbatBalti	b ɑ	b ɑ	399
+184	ShigarBalti	b ɜ	b ɜ	399
+185	SkarduBalti	b ɜ	b ɜ	399
+186	KharmangBalti	b ɜ l ɜ ŋ	b ɜ l ɜ ŋ	400
+187	SkarduBalti	b ɜ l ɜ ŋ	b ɜ l ɜ ŋ	400
+188	ChorbatBalti	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m	455
+189	KhapaluBalti	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m	455
+190	KharmangBalti	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m	455
+191	RonduBalti	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m	455
+192	ShigarBalti	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m	455
+193	SkarduPurki	t̪ʰ ɜ l d u m	t̪ʰ ɜ l d u m	455
+194	ShigarBalti	t̪ʰ ɜ l p ʊ ʈ	t̪ʰ ɜ l p ʊ ʈ	456
+195	SkarduBalti	t̪ʰ ɜ l p ʊ ʈ	t̪ʰ ɜ l p ʊ ʈ	456
+196	ChorbatBalti	b i ɜ p ʑ ʊ n̪	b i ɜ p ʑ ʊ n̪	473
+197	KhapaluBalti	b i ɜ m ʑ ʊ n̪	b i ɜ m ʑ ʊ n̪	473
+198	KharmangBalti	b i ɜ p ʑ ʊ n̪	b i ɜ p ʑ ʊ n̪	473
+199	RonduBalti	b i ɜ p dʑ ʊ n̪	b i ɜ p dʑ ʊ n̪	473
+200	ShigarBalti	b i ɜ p ʑ ʊ n̪	b i ɜ p ʑ ʊ n̪	473
+201	SkarduBalti	b i ɜ p ʑ ʊ n̪	b i ɜ p ʑ ʊ n̪	473
+202	KhapaluBalti	b ɛ ŋ g ɜ n̪	b ɛ ŋ g ɜ n̪	481
+203	KharmangBalti	b ɛ ŋ g ɜ n̪	b ɛ ŋ g ɜ n̪	481
+204	ShigarBalti	b ɛ ŋ g ɜ n̪	b ɛ ŋ g ɜ n̪	481
+205	RonduBalti	p ɑ ɣ ɜ n̪	p ɑ ɣ ɜ n̪	482
+206	SkarduBalti	p ɑ ɣ ɜ n̪	p ɑ ɣ ɜ n̪	482
+207	ChorbatBalti	kʰ r̪ i õ ŋ	kʰ r̪ i - õ ŋ	496
+208	KhapaluBalti	t̪ʰ r̪ i m o ŋ	t̪ʰ r̪ i m o ŋ	496
+209	RonduBalti	ʈʂ ɪ m o k	ʈʂ - ɪ m o k	496
+210	ShigarBalti	t̪ʰ r̪ ɪ m o ŋ	t̪ʰ r̪ ɪ m o ŋ	496
+211	SkarduBalti	t̪ʰ r̪ ɪ m o ŋ	t̪ʰ r̪ ɪ m o ŋ	496
+212	ChorbatBalti	ɾ ɑ	ɾ ɑ	564
+213	SkarduPurki	ɾ ɑ	ɾ ɑ	564
+214	KharmangBalti	ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	566
+215	RonduBalti	ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	566
+216	ShigarBalti	ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	566
+217	SkarduBalti	ɾ ɜ b ɜ q	ɾ ɜ b ɜ q	566
+218	ChorbatBalti	dz̪ o g u	dz̪ o g u	572
+219	KharmangBalti	z̪ o g u	z̪ o g u	572
+220	SkarduPurki	z̪ ɪ g u	z̪ ɪ g u	572
+221	KhapaluBalti	s̪ ɛ n̪ m ɜ	s̪ ɛ n̪ m ɜ	573
+222	KharmangBalti	s̪ ɛ n̪ m o	s̪ ɛ n̪ m o	573
+223	RonduBalti	s̪ ɛ n̪ m o	s̪ ɛ n̪ m o	573
+224	ShigarBalti	s̪ ɛ n̪ m o	s̪ ɛ n̪ m o	573
+225	SkarduBalti	s̪ ɛ n̪ m o	s̪ ɛ n̪ m o	573
+226	KhapaluBalti	z̪ ɛ r̪ m õ ŋ	z̪ ɛ r̪ m õ ŋ	584
+227	RonduBalti	z̪ ɛ r̪ m o ŋ	z̪ ɛ r̪ m o ŋ	584
+228	ShigarBalti	z̪ ɛ r̪ m õ ŋ	z̪ ɛ r̪ m õ ŋ	584
+229	SkarduBalti	z̪ ɛ r̪ m õ ŋ	z̪ ɛ r̪ m õ ŋ	584
+230	SkarduPurki	s̪ ɛ r̪ m õ	s̪ ɛ r̪ m õ -	584
+231	ChorbatBalti	pʰ u	pʰ u	600
+232	KhapaluBalti	pʰ u	pʰ u	600
+233	ChorbatBalti	ɣ ɑ	- ɣ ɑ	618
+234	KhapaluBalti	ɣ ɑ	- ɣ ɑ	618
+235	KharmangBalti	ɣ ɑ	- ɣ ɑ	618
+236	RonduBalti	ɣ ɑ	- ɣ ɑ	618
+237	ShigarBalti	ɜ ɣ ɑ	ɜ ɣ ɑ	618
+238	SkarduBalti	ɣ ɑ	- ɣ ɑ	618
+239	ChorbatBalti	m e β̞ ɑ	m e β̞ ɑ	642
+240	KhapaluBalti	m e β̞ ɑ	m e β̞ ɑ	642
+241	KharmangBalti	m e β̞ ɑ	m e β̞ ɑ	642
+242	RonduBalti	m e β̞ ɑ	m e β̞ ɑ	642
+243	SkarduBalti	m e β̞ ɑ	m e β̞ ɑ	642
+244	KharmangBalti	pʰ ɜ x m u l	pʰ - ɜ x m u l	643
+245	RonduBalti	pʰ ɜ x m u l	pʰ - ɜ x m u l	643
+246	ShigarBalti	pʰ l ɜ x m u l	pʰ l ɜ x m u l	643
+247	SkarduBalti	pʰ ɜ x m ʊ l	pʰ - ɜ x m ʊ l	643
+248	ChorbatBalti	ɾ ɑ l	ɾ ɑ l	685
+249	KhapaluBalti	ɾ ɑ l	ɾ ɑ l	685
+250	KharmangBalti	ɾ ɑ l	ɾ ɑ l	685
+251	RonduBalti	ɾ ɑ l	ɾ ɑ l	685
+252	ShigarBalti	ɾ ɑ l	ɾ ɑ l	685
+253	SkarduBalti	ɾ ɑ l	ɾ ɑ l	685
+254	ChorbatBalti	kʰ o	kʰ o	701
+255	KhapaluBalti	kʰ o	kʰ o	701
+256	KharmangBalti	kʰ o	kʰ o	701
+257	RonduBalti	kʰ o	kʰ o	701
+258	ShigarBalti	kʰ o	kʰ o	701
+259	SkarduBalti	kʰ o	kʰ o	701
+260	SkarduPurki	kʰ o	kʰ o	701
+261	ChorbatBalti	l̪ tɕʰ o	l̪ tɕʰ o	726
+262	KhapaluBalti	l̪ tɕʰ o	l̪ tɕʰ o	726
+263	KharmangBalti	l̪ tɕʰ o	l̪ tɕʰ o	726
+264	RonduBalti	l̪ tɕʰ o	l̪ tɕʰ o	726
+265	ShigarBalti	l̪ tɕʰ o	l̪ tɕʰ o	726
+266	SkarduBalti	l̪ tɕʰ o	l̪ tɕʰ o	726
+267	ChorbatBalti	tθʰ o	tθʰ o	742
+268	KhapaluBalti	tθʰ o	tθʰ o	742
+269	KharmangBalti	tθʰ o	tθʰ o	742
+270	RonduBalti	tθʰ o	tθʰ o	742
+271	ShigarBalti	tθʰ o	tθʰ o	742
+272	SkarduBalti	tθʰ o	tθʰ o	742
+273	ChorbatBalti	t̪ʰ r̪ ʊ n̪ m o	t̪ʰ r̪ ʊ n̪ m o	743
+274	SkarduPurki	ʈʰ o n̪ m o	ʈʰ - o n̪ m o	743
+275	ChorbatBalti	ɜ ɕ i p ɑ	ɜ ɕ i p ɑ	767
+276	KhapaluBalti	ɜ ɕ i p ɑ	ɜ ɕ i p ɑ	767
+277	KharmangBalti	ɜ ɕ i p ɑ	ɜ ɕ i p ɑ	767
+278	RonduBalti	ɜ ɕ i p ɜ	ɜ ɕ i p ɜ	767
+279	ShigarBalti	ɜ ɕ i p ɑ	ɜ ɕ i p ɑ	767
+280	SkarduBalti	ɜ ɕ i p ɜ	ɜ ɕ i p ɜ	767
+281	ChorbatBalti	d̪ ɑ x p o	d̪ ɑ x p o	768
+282	KhapaluBalti	d̪ ɑ x p o	d̪ ɑ x p o	768
+283	RonduBalti	d̪ ɜ x p o	d̪ ɜ x p o	768
+284	ShigarBalti	d̪ ɑ x ɸ o	d̪ ɑ x ɸ o	768
+285	SkarduBalti	d̪ ɜ x p o	d̪ ɜ x p o	768
+286	SkarduPurki	d̪ ɑ k p o	d̪ ɑ k p o	768
+287	ChorbatBalti	ɣ r̪ i	ɣ r̪ i	780
+288	KharmangBalti	ɣ r̪ i	ɣ r̪ i	780
+289	SkarduPurki	g r̪ i	g r̪ i	780
+290	KhapaluBalti	ɖʐ i	ɖʐ i	781
+291	RonduBalti	ʐ i	ʐ i	781
+292	ShigarBalti	ɖʐ i	ɖʐ i	781
+293	SkarduBalti	ɖʐ i	ɖʐ i	781
+294	KhapaluBalti	x ɛ n̪	x ɛ n̪	797
+295	KharmangBalti	xʲ ʊ n̪	xʲ ʊ n̪	797
+296	RonduBalti	xʲ u n̪	xʲ u n̪	797
+297	ShigarBalti	x ɛ n̪	x ɛ n̪	797
+298	SkarduBalti	xʲ ʊ n̪	xʲ ʊ n̪	797
+299	KhapaluBalti	ɪ ɕ ɪ n̪	ɪ ɕ ɪ n̪	853
+300	KharmangBalti	ɪ ɕ ɪ n̪	ɪ ɕ ɪ n̪	853
+301	RonduBalti	ɜ ɕ i n̪	ɜ ɕ i n̪	853
+302	ShigarBalti	i ɕ ɪ n̪	i ɕ ɪ n̪	853
+303	SkarduBalti	i ɕ ɪ n̪	i ɕ ɪ n̪	853
+304	ChorbatBalti	l̪ t̪ i m	l̪ t̪ i m	855
+305	KhapaluBalti	l̪ ʈ i m	l̪ ʈ i m	855
+306	ChorbatBalti	ɕ ɛ d i	ɕ ɛ d i	887
+307	KhapaluBalti	ɕ ɛ d i	ɕ ɛ d i	887
+308	KharmangBalti	ɕ ɜ d i	ɕ ɜ d i	887
+309	ShigarBalti	ɕ ɛ d i	ɕ ɛ d i	887
+310	SkarduBalti	ɕ ɛ d i	ɕ ɛ d i	887
+311	SkarduPurki	ɕ ɑ d i	ɕ ɑ d i	887
+312	RonduBalti	ɕ ɛ r̪ i	ɕ ɛ r̪ i	888
+313	SkarduBalti	ɕ ɛ r̪ i	ɕ ɛ r̪ i	888
+314	ChorbatBalti	l dð ɑ	l dð ɑ	896
+315	KhapaluBalti	l dð ɑ	l dð ɑ	896
+316	KharmangBalti	l dð ɑ	l dð ɑ	896
+317	RonduBalti	l dð ɑ	l dð ɑ	896
+318	SkarduPurki	l dð ɑ	l dð ɑ	896
+319	ShigarBalti	l z̪ ɑ	l z̪ ɑ	897
+320	SkarduBalti	l z̪ ɑ	l z̪ ɑ	897
+321	ChorbatBalti	gʲ o x p ɑ	gʲ o x - p ɑ	912
+322	KhapaluBalti	gʲ o x p ɑ	gʲ o x - p ɑ	912
+323	KharmangBalti	gʲ o x p ɜ	gʲ o x - p ɜ	912
+324	RonduBalti	gʲ o x p ɜ	gʲ o x - p ɜ	912
+325	ShigarBalti	gʲ ʊ x p ɜ	gʲ ʊ x - p ɜ	912
+326	SkarduBalti	gʲ ʊ k s̪ p ɜ	gʲ ʊ k s̪ p ɜ	912
+327	ChorbatBalti	l̪ ʈ ɜ n̪ ʊ s̪	l̪ ʈ ɜ n̪ ʊ s̪	921
+328	KhapaluBalti	l̪ t̪ ɜ n̪ u s̪	l̪ t̪ ɜ n̪ u s̪	921
+329	KharmangBalti	l̪ ʈ ɜ n̪ ʊ s̪	l̪ ʈ ɜ n̪ ʊ s̪	921
+330	RonduBalti	l̪ t̪ ɜ n̪ u s̪	l̪ t̪ ɜ n̪ u s̪	921
+331	ShigarBalti	l̪ t̪ ɜ n̪ ʊ s̪	l̪ t̪ ɜ n̪ ʊ s̪	921
+332	SkarduBalti	l̪ t̪ ɜ n̪ u s̪	l̪ t̪ ɜ n̪ u s̪	921
+333	ChorbatBalti	ɜ ŋ ɑ	ɜ ŋ ɑ	938
+334	SkarduPurki	ɜ m ɑ	ɜ m ɑ	938
+335	KhapaluBalti	ɑ ŋ o	ɑ ŋ o	939
+336	KharmangBalti	ɜ m o	ɜ m o	939
+337	RonduBalti	ɑ ŋ o	ɑ ŋ o	939
+338	ShigarBalti	ɑ ŋ o	ɑ ŋ o	939
+339	SkarduBalti	ɑ ŋ o	ɑ ŋ o	939
+340	ChorbatBalti	kʰ ɑ	kʰ ɑ	946
+341	KhapaluBalti	kʰ ɑ	kʰ ɑ	946
+342	KharmangBalti	kʰ ɑ	kʰ ɑ	946
+343	SkarduPurki	kʰ ɑ	kʰ ɑ	946
+344	RonduBalti	kʰ ɜ p ɜ k	kʰ ɜ p ɜ k	947
+345	ShigarBalti	kʰ ɑ b ɜ k	kʰ ɑ b ɜ k	947
+346	SkarduBalti	kʰ ɑ b ɜ k	kʰ ɑ b ɜ k	947
+347	KharmangBalti	tɕʰ ɪ n̪	tɕʰ ɪ n̪	956
+348	SkarduBalti	tɕʰ ɪ n̪	tɕʰ ɪ n̪	956
+349	RonduBalti	dʑʲ ɑ g ɜ t̪	dʑʲ ɑ g ɜ t̪	957
+350	ShigarBalti	dʑ ɑ g ɜ t̪	dʑ ɑ g ɜ t̪	957
+351	SkarduBalti	dʑ ɑ g ɜ t̪	dʑ ɑ g ɜ t̪	957
+352	ChorbatBalti	kʰ ɜ p	kʰ ɜ p	980
+353	KhapaluBalti	kʰ ɜ p	kʰ ɜ p	980
+354	KharmangBalti	kʰ ɜ p	kʰ ɜ p	980
+355	RonduBalti	kʰ ɜ p	kʰ ɜ p	980
+356	ShigarBalti	kʰ ɜ p	kʰ ɜ p	980
+357	SkarduBalti	kʰ ɜ p	kʰ ɜ p	980
+358	ChorbatBalti	s̪ o ŋ ɑ	s̪ o ŋ ɑ	988
+359	KharmangBalti	s̪ o m ɑ	s̪ o m ɑ	988
+360	SkarduPurki	s̪ o m ɑ	s̪ o m ɑ	988
+361	KhapaluBalti	s̪ ɜ r̪ p ɜ	s̪ ɜ r̪ p ɜ	989
+362	RonduBalti	s̪ ɜ r̪ ɸ ɑ	s̪ ɜ r̪ ɸ ɑ	989
+363	ShigarBalti	s̪ ɜ r̪ ɸ ɜ	s̪ ɜ r̪ ɸ ɜ	989
+364	SkarduBalti	s̪ ɜ r̪ f ɜ	s̪ ɜ r̪ f ɜ	989
+365	ChorbatBalti	ɜ ɕ e	ɜ ɕ e	1057
+366	KhapaluBalti	ɑ ɕ e	ɑ ɕ e	1057
+367	KharmangBalti	ɜ ɕ e	ɜ ɕ e	1057
+368	RonduBalti	ɑ ɕ e	ɑ ɕ e	1057
+369	ShigarBalti	ɜ ɕ ɛ	ɜ ɕ ɛ	1057
+370	SkarduBalti	ɜ ɕ e	ɜ ɕ e	1057
+371	ChorbatBalti	l̪ ʈ ɜ n̪ ʊ s̪ i	l̪ ʈ ɜ n̪ ʊ s̪ i	1105
+372	KhapaluBalti	l̪ t̪ ɜ n̪ u s̪	l̪ t̪ ɜ n̪ u s̪ -	1105
+373	RonduBalti	l̪ t̪ ɜ n̪ u s̪ e	l̪ t̪ ɜ n̪ u s̪ e	1105
+374	ShigarBalti	l̪ t̪ ɜ n̪ u s̪ i	l̪ t̪ ɜ n̪ u s̪ i	1105
+375	SkarduBalti	l̪ t̪ ɜ n̪ u s̪	l̪ t̪ ɜ n̪ u s̪ -	1105
+376	SkarduPurki	l̪ t̪ ɜ n̪ u s̪	l̪ t̪ ɜ n̪ u s̪ -	1105
+377	ChorbatBalti	ɾ z̪ ɜ	ɾ z̪ ɜ	1135
+378	KhapaluBalti	ɣ z̪ ɜ	ɣ z̪ ɜ	1135
+379	KharmangBalti	ɣ z̪ ɜ	ɣ z̪ ɜ	1135
+380	RonduBalti	p ɜ r̪ ɜ k z̪ ɜ	p ɜ r̪ ɜ k z̪ - ɜ	1136
+381	ShigarBalti	p ɜ ɽ ɑ ɣ z̪ ɑ	p ɜ ɽ ɑ ɣ z̪ - ɑ	1136
+382	SkarduBalti	pʰ ɜ ɽ ɜ k z̪ ɜ	pʰ ɜ ɽ ɜ k z̪ - ɜ	1136
+383	SkarduPurki	p ɑ r̪ ɑ z̪ β̞ ɑ	p ɑ r̪ ɑ - z̪ β̞ ɑ	1136
+384	ChorbatBalti	t̪ r̪ ɜ ŋ	t̪ r̪ ɜ ŋ	1159
+385	KharmangBalti	t̪ r̪ ɜ ŋ	t̪ r̪ ɜ ŋ	1159
+386	RonduBalti	t̪ r̪ ɜ ŋ	t̪ r̪ ɜ ŋ	1159
+387	ShigarBalti	t̪ r̪ ɜ ŋ	t̪ r̪ ɜ ŋ	1159
+388	SkarduBalti	t̪ r̪ ɜ ŋ	t̪ r̪ ɜ ŋ	1159
+389	SkarduPurki	ʈ ɑ ŋ	ʈ - ɑ ŋ	1159
+390	ChorbatBalti	s̪ u r̪ ʊ p	- s̪ u r̪ ʊ p	1167
+391	KhapaluBalti	s̪ u r̪ ʊ p	- s̪ u r̪ ʊ p	1167
+392	KharmangBalti	x s̪ ʊ r̪ u p	x s̪ ʊ r̪ u p	1167
+393	RonduBalti	s̪ u r̪ ʊ p	- s̪ u r̪ ʊ p	1167
+394	ShigarBalti	x s̪ u r̪ ʊ p	x s̪ u r̪ ʊ p	1167
+395	SkarduBalti	s̪ u r̪ ʊ p	- s̪ u r̪ ʊ p	1167
+396	KhapaluBalti	h ɜ n̪ d o q	h ɜ n̪ d o q	1184
+397	KharmangBalti	h ɜ n̪ d o q	h ɜ n̪ d o q	1184
+398	RonduBalti	h ɜ n̪ d o q	h ɜ n̪ d o q	1184
+399	ShigarBalti	h ɜ n̪ d o q	h ɜ n̪ d o q	1184
+400	SkarduBalti	h ɜ n̪ d o q	h ɜ n̪ d o q	1184
+401	SkarduPurki	h ɑ n̪ d o q	h ɑ n̪ d o q	1184
+402	ChorbatBalti	p ɑ j u	p ɑ j u	1207
+403	KhapaluBalti	p ɑ j u	p ɑ j u	1207
+404	KharmangBalti	p ɑ j u	p ɑ j u	1207
+405	RonduBalti	p ɑ j u	p ɑ j u	1207
+406	ShigarBalti	p ɑ j u	p ɑ j u	1207
+407	SkarduBalti	p ɑ j u	p ɑ j u	1207
+408	ChorbatBalti	ɾ d u n̪	- ɾ d u n̪	1231
+409	KhapaluBalti	b d u n̪	- b d u n̪	1231
+410	RonduBalti	β d u n̪	- β d u n̪	1231
+411	ShigarBalti	β d u n̪	- β d u n̪	1231
+412	SkarduBalti	b d u n̪	- b d u n̪	1231
+413	SkarduPurki	ʊ ɾ d u n̪	ʊ ɾ d u n̪	1231
+414	ChorbatBalti	m o	m o	1239
+415	KhapaluBalti	m o	m o	1239
+416	KharmangBalti	m o	m o	1239
+417	RonduBalti	m o	m o	1239
+418	ShigarBalti	m o	m o	1239
+419	SkarduBalti	m o	m o	1239
+420	ChorbatBalti	ȵ i m ɑ	ȵ i m ɑ	1339
+421	KhapaluBalti	ȵ i m ɑ	ȵ i m ɑ	1339
+422	KharmangBalti	ȵ i m ɑ	ȵ i m ɑ	1339
+423	RonduBalti	ȵ i m ɑ	ȵ i m ɑ	1339
+424	SkarduBalti	ȵ i m ɑ	ȵ i m ɑ	1339
+425	SkarduPurki	ȵ i m ɑ	ȵ i m ɑ	1339
+426	ChorbatBalti	s̪ ȵ ɜ m ɜ	s̪ ȵ ɜ - m ɜ	1347
+427	SkarduPurki	ɕ ȵ ɑ ŋ m ɑ	ɕ ȵ ɑ ŋ m ɑ	1347
+428	KhapaluBalti	ʑ ɪ n̪ d o	ʑ ɪ n̪ d o	1348
+429	KharmangBalti	ʑ ɪ g d o	ʑ ɪ g d o	1348
+430	RonduBalti	dʑ i n̪ d o	dʑ i n̪ d o	1348
+431	ShigarBalti	ʑ ɪ n̪ d o	ʑ ɪ n̪ d o	1348
+432	SkarduBalti	ʑ ɪ n̪ d o	ʑ ɪ n̪ d o	1348
+433	ChorbatBalti	h tɕ u	h - tɕ u	1363
+434	SkarduPurki	h s̪ tɕ u	h s̪ tɕ u	1363
+435	KhapaluBalti	ɸ tɕ u	ɸ - tɕ u	1364
+436	KharmangBalti	ɸ tɕ u	ɸ - tɕ u	1364
+437	RonduBalti	ɸ tɕ u	ɸ - tɕ u	1364
+438	ShigarBalti	ɸ tɕ u	ɸ - tɕ u	1364
+439	SkarduBalti	p ɕ tɕ u	p ɕ tɕ u	1364
+440	ChorbatBalti	d̪ o	d̪ o	1371
+441	KhapaluBalti	d̪ o	d̪ o	1371
+442	KharmangBalti	d̪ o	d̪ o	1371
+443	RonduBalti	d̪ o	d̪ o	1371
+444	ShigarBalti	d̪ o	d̪ o	1371
+445	SkarduBalti	d̪ o	d̪ o	1371
+446	ChorbatBalti	d̪ʲ u n̪	d̪ʲ u n̪	1379
+447	KhapaluBalti	d̪ʲ u n̪	d̪ʲ u n̪	1379
+448	RonduBalti	d̪ʲ u ŋ	d̪ʲ u ŋ	1379
+449	ShigarBalti	d̪ʲ u	d̪ʲ u -	1379
+450	SkarduBalti	d̪ʲ u ŋ	d̪ʲ u ŋ	1379
+451	SkarduPurki	d̪ʲ u	d̪ʲ u -	1379
+452	KharmangBalti	d̪ i	d̪ i	1380
+453	ShigarBalti	d̪ i	d̪ i	1380
+454	SkarduBalti	d̪ i	d̪ i	1380
+455	ChorbatBalti	kʰ o ŋ	kʰ o ŋ	1389
+456	KhapaluBalti	kʰ o ŋ	kʰ o ŋ	1389
+457	KharmangBalti	kʰ o ŋ	kʰ o ŋ	1389
+458	RonduBalti	kʰ o ŋ	kʰ o ŋ	1389
+459	ShigarBalti	kʰ o ŋ	kʰ o ŋ	1389
+460	SkarduBalti	kʰ o ŋ	kʰ o ŋ	1389
+461	SkarduPurki	kʰ o ŋ	kʰ o ŋ	1389
+462	ChorbatBalti	d̪ʲ u	d̪ʲ u	1397
+463	KhapaluBalti	d̪ʲ u	d̪ʲ u	1397
+464	RonduBalti	d̪ʲ u	d̪ʲ u	1397
+465	ShigarBalti	d̪ʲ u	d̪ʲ u	1397
+466	SkarduBalti	d̪ʲ u	d̪ʲ u	1397
+467	SkarduPurki	d̪ʲ u	d̪ʲ u	1397
+468	ChorbatBalti	ɾ i ŋ ɑ	ɾ i ŋ ɑ	1405
+469	KhapaluBalti	ɾ i ŋ ɑ	ɾ i ŋ ɑ	1405
+470	SkarduBalti	ɾ i ŋ ɑ	ɾ i ŋ ɑ	1405
+471	KhapaluBalti	tθʰ o q	tθʰ o q	1406
+472	KharmangBalti	tθʰ o q	tθʰ o q	1406
+473	RonduBalti	tθʰ o q	tθʰ o q	1406
+474	ShigarBalti	tθʰ o q	tθʰ o q	1406
+475	SkarduBalti	tθʰ o q	tθʰ o q	1406
+476	ChorbatBalti	h ɜ s̪ k e	h ɜ s̪ k e	1456
+477	KhapaluBalti	h ɜ s̪ k e	h ɜ s̪ k e	1456
+478	KharmangBalti	h ɜ s̪ k e	h ɜ s̪ k e	1456
+479	RonduBalti	h ɜ s̪ k e	h ɜ s̪ k e	1456
+480	ShigarBalti	h ɜ s̪ k e	h ɜ s̪ k e	1456
+481	SkarduBalti	h ɜ s̪ k e	h ɜ s̪ k e	1456
+482	ChorbatBalti	g ʊ r̪ o ŋ	g ʊ r̪ o ŋ	1520
+483	KhapaluBalti	g r̪ o ŋ	g - r̪ o ŋ	1520
+484	KharmangBalti	g ʊ r̪ o ŋ	g ʊ r̪ o ŋ	1520
+485	SkarduBalti	g ʊ r̪ o ŋ	g ʊ r̪ o ŋ	1520
+486	RonduBalti	ʐ o ŋ	ʐ o ŋ	1521
+487	ShigarBalti	ɖʐ o ŋ	ɖʐ o ŋ	1521
+488	SkarduBalti	ɖʐ o ŋ	ɖʐ o ŋ	1521
+489	ChorbatBalti	ŋ ɑ j ɑ	ŋ ɑ j ɑ	1537
+490	KhapaluBalti	ŋ ɑ j ɑ	ŋ ɑ j ɑ	1537
+491	KharmangBalti	ŋ ɑ j ɑ	ŋ ɑ j ɑ	1537
+492	RonduBalti	ŋ ɑ j ɑ	ŋ ɑ j ɑ	1537
+493	ShigarBalti	ŋ ɑ j ɑ	ŋ ɑ j ɑ	1537
+494	SkarduBalti	ŋ ɑ j ɑ	ŋ ɑ j ɑ	1537
+495	ChorbatBalti	ŋ ɜ t̪ ɜ ŋ	ŋ ɜ t̪ ɜ ŋ	1545
+496	KhapaluBalti	ŋ ɜ t̪ ɜ ŋ	ŋ ɜ t̪ ɜ ŋ	1545
+497	KharmangBalti	ŋ ɜ t̪ ɜ ŋ	ŋ ɜ t̪ ɜ ŋ	1545
+498	RonduBalti	ŋ ɑ d ɑ ŋ	ŋ ɑ d ɑ ŋ	1545
+499	ShigarBalti	ŋ ɜ t̪ ɜ ŋ	ŋ ɜ t̪ ɜ ŋ	1545
+500	SkarduBalti	ŋ ɜ t̪ ɜ ŋ	ŋ ɜ t̪ ɜ ŋ	1545
+501	SkarduPurki	ŋ ɜ t̪ ɜ ŋ	ŋ ɜ t̪ ɜ ŋ	1545
+502	ChorbatBalti	ʑ ɜ k ʊ r̪ d u n̪	ʑ ɜ k ʊ r̪ d u n̪	1553
+503	SkarduPurki	ʊ ɾ d u n̪	- - - ʊ ɾ d u n̪	1553
+504	KhapaluBalti	h ɜ f t̪ ɑ	h ɜ f t̪ ɑ	1554
+505	KharmangBalti	h ɜ f t̪ ɑ	h ɜ f t̪ ɑ	1554
+506	RonduBalti	h ɜ f t̪ ɜ	h ɜ f t̪ ɜ	1554
+507	SkarduBalti	h ɜ f t̪ ɜ	h ɜ f t̪ ɜ	1554
+508	ChorbatBalti	k r̪ o	k r̪ o	1577
+509	KharmangBalti	k r̪ o	k r̪ o	1577
+510	SkarduPurki	k r̪ o	k r̪ o	1577
+511	KhapaluBalti	ʈʂ o	ʈʂ o	1578
+512	RonduBalti	ʈʂ o	ʈʂ o	1578
+513	ShigarBalti	ʈʂ o	ʈʂ o	1578
+514	SkarduBalti	ʈʂ o	ʈʂ o	1578
+515	ChorbatBalti	g oˑ	g oˑ	1601
+516	KhapaluBalti	g o	g o	1601
+517	ShigarBalti	g oˑ	g oˑ	1601
+518	SkarduBalti	g oˑ	g oˑ	1601
+519	SkarduPurki	g o	g o	1601
+520	KharmangBalti	g ɜo	g ɜo	1602
+521	RonduBalti	g ɜo	g ɜo	1602
+522	ChorbatBalti	z̪ ɜ n̪ z̪ ʊ s̪	z̪ ɜ n̪ z̪ ʊ s̪	1625
+523	KhapaluBalti	z̪ ɜ n̪ z̪ ʊ s̪	z̪ ɜ n̪ z̪ ʊ s̪	1625
+524	KharmangBalti	z̪ ɜ n̪ z̪ u s̪	z̪ ɜ n̪ z̪ u s̪	1625
+525	RonduBalti	z̪ ɜ n̪ z̪ ʊ s̪	z̪ ɜ n̪ z̪ ʊ s̪	1625
+526	ShigarBalti	z̪ ɜ n̪ z̪ ʊ s̪	z̪ ɜ n̪ z̪ ʊ s̪	1625
+527	SkarduBalti	z̪ ɜ n̪ z̪ ʊ s̪	z̪ ɜ n̪ z̪ ʊ s̪	1625
+528	KhapaluBalti	n̪ ɜ m ɑ	n̪ ɜ m ɑ	1626
+529	SkarduPurki	n̪ ɑ m ɑ	n̪ ɑ m ɑ	1626
+530	ChorbatBalti	tɕ ʊ ŋ m ɜ	tɕ ʊ ŋ m ɜ	1627
+531	KhapaluBalti	tɕ ʊ ŋ m ɜ	tɕ ʊ ŋ m ɜ	1627
+532	ChorbatBalti	j ɑ ŋ	j ɑ ŋ	1668
+533	KhapaluBalti	j ɑ ŋ	j ɑ ŋ	1668
+534	KharmangBalti	j ɑ ŋ	j ɑ ŋ	1668
+535	RonduBalti	j ɑ ŋ	j ɑ ŋ	1668
+536	ShigarBalti	j ɑ ŋ	j ɑ ŋ	1668
+537	SkarduBalti	j ɑ ŋ	j ɑ ŋ	1668
+538	SkarduPurki	j ɑ ŋ	j ɑ ŋ	1668
+539	ChorbatBalti	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	1676
+540	KhapaluBalti	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	1676
+541	KharmangBalti	kʰʲ ɜ ŋ	kʰʲ ɜ ŋ	1676
+542	RonduBalti	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	1676
+543	ShigarBalti	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	1676
+544	SkarduBalti	kʰʲ ɑ ŋ	kʰʲ ɑ ŋ	1676
+545	ChorbatBalti	kʰ i t̪ ɜ ŋ	kʰ i t̪ ɜ ŋ	1684
+546	KhapaluBalti	kʰ i d ɜ ŋ	kʰ i d ɜ ŋ	1684
+547	KharmangBalti	kʰ ɪ t̪ ɜ ŋ	kʰ ɪ t̪ ɜ ŋ	1684
+548	RonduBalti	kʰ i d ɜ ŋ	kʰ i d ɜ ŋ	1684
+549	ShigarBalti	kʰ i t̪ ɜ ŋ	kʰ i t̪ ɜ ŋ	1684
+550	SkarduBalti	kʰ i t̪ ɜ ŋ	kʰ i t̪ ɜ ŋ	1684
+551	ChorbatBalti	n̪ o ŋ o	n̪ o ŋ o	1700
+552	SkarduBalti	n̪ o ŋ o	n̪ o ŋ o	1700
+553	SkarduPurki	n̪ õ ŋ o	n̪ õ ŋ o	1700
+554	KhapaluBalti	s̪ t̪ r̪ i ŋ m o	s̪ t̪ r̪ i ŋ m o	1701
+555	KharmangBalti	s̪ t̪ r̪ i ŋ m o	s̪ t̪ r̪ i ŋ m o	1701
+556	RonduBalti	s̪ t̪ r̪ i ŋ m o	s̪ t̪ r̪ i ŋ m o	1701
+557	ShigarBalti	s̪ t̪ r̪ i ŋ m o	s̪ t̪ r̪ i ŋ m o	1701
+558	SkarduBalti	s̪ t̪ r̪ i ŋ m o	s̪ t̪ r̪ i ŋ m o	1701

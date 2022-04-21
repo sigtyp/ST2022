@@ -1,0 +1,1867 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	Bunoge	k ɛ m n ɔ	k ɛ m n ɔ	2
+2	Mombo	k aː n u	k aː - n u	2
+3	Penange	k aː m n ɔ	k aː m n ɔ	2
+4	Bunoge	k a n i	k a n i	3
+5	Mombo	k a n i	k a n i	3
+6	Penange	k a n	k a n -	3
+7	Najamba	k u n dʒ ɛ	k u n dʒ ɛ	4
+8	Tiranige_Diga	k u n dʒ o	k u n dʒ o	4
+9	Bankan_Tey	d aː b a	d aː b a	21
+10	Mombo	d e b u	d e b u	21
+11	Penange	d aː b a	d aː b a	21
+12	Mombo	b ɛ l i	b ɛ l i	26
+13	Tiranige_Diga	b e l	b e l -	26
+14	Tommo_So	b ɛ l u	b ɛ l u	26
+15	Bankan_Tey	k i s ɛ	k i s ɛ	42
+16	Bunoge	k i dʒ ɛ	k i dʒ ɛ	42
+17	Penange	k i dʒ ɛ	k i dʒ ɛ	42
+18	Bankan_Tey	a r	a r	60
+19	Ben_Tey	a r	a r	60
+20	Bankan_Tey	k ɛ n d ɛ	k ɛ n d ɛ	61
+21	Ben_Tey	k ɛ l ɛ	k ɛ - l ɛ	61
+22	Nanga	k ɛ n d ɛ	k ɛ n d ɛ	61
+23	Jamsay	k i	k i - -	62
+24	Toro_Tegu	k i l a	k i l a	62
+25	Yorno_So	k i	k i - -	62
+26	Mombo	k a r a	k a r a	64
+27	Penange	k a r a	k a r a	64
+28	Tiranige_Diga	k a r a	k a r a	64
+29	Bunoge	d i n	d i n	94
+30	Mombo	d i n	d i n	94
+31	Mombo	j ɛː	j ɛː	96
+32	Penange	j ɛ	j ɛ	96
+33	Bankan_Tey	ɔ j̃	ɔ j̃	115
+34	Ben_Tey	ɔ j̃	ɔ j̃	115
+35	Mombo	dʷ ɛː	dʷ ɛː	117
+36	Penange	dʷ ɛː	dʷ ɛː	117
+37	Tiranige_Diga	dʷ ɛː	dʷ ɛː	117
+38	Tommo_So	u n d ɔ	u n d ɔ	120
+39	Yorno_So	u n ɔ	u n - ɔ	120
+40	Ben_Tey	k ɛ l ɛ	k ɛ l ɛ	136
+41	Perge_Tegu	k ɛ l ɛ	k ɛ l ɛ	136
+42	Togo_Kan	k ɛ n ɛ	k ɛ n ɛ	136
+43	Tommo_So	o nː u	- o nː u	144
+44	Toro_Tegu	t u ŋ ɔ	t u ŋ ɔ	144
+45	Yorno_So	o n ɔ	- o n ɔ	144
+46	Bunoge	ɲ a m i	ɲ a m i	159
+47	Penange	ɲ a m	ɲ a m -	159
+48	Ben_Tey	k o m b iː	k o m b - - iː	178
+49	Bunoge	k o b a l i	k o - b a l i	178
+50	Mombo	k o m b o l i	k o m b o l i	178
+51	Tebul_Ure	k o b e	k o - b - - e	178
+52	Jamsay	dʒ e j	dʒ e j	179
+53	Tommo_So	dʒ o j̃	dʒ o j̃	179
+54	Nanga	t u m a	t u m a	180
+55	Yanda_Dom	t i m e	t i m e	180
+56	Jamsay	b ɛ w	b ɛ w	197
+57	Nanga	b ɛː	b ɛː -	197
+58	Perge_Tegu	b ɛ w	b ɛ w	197
+59	Tebul_Ure	b e j aː	b e j aː	200
+60	Yanda_Dom	b i j a	b i j a	200
+61	Mombo	j aː g a	j aː g a	224
+62	Penange	j a g a	j a g a	224
+63	Tiranige_Diga	j a g a	j a g a	224
+64	Bankan_Tey	t u m b i	t u m b i	239
+65	Ben_Tey	t u m d i	t u m d i	239
+66	Tiranige_Diga	t u m b u	t u m b u	239
+67	Bunoge	d ɔ g u	d ɔ g u	241
+68	Mombo	d ɔ g ɛ	d ɔ g ɛ	241
+69	Penange	d ɔ g u	d ɔ g u	241
+70	Bunoge	l ɛ	l ɛ	242
+71	Penange	l ɛ	l ɛ	242
+72	Tiranige_Diga	l ɔ	l ɔ	242
+73	Perge_Tegu	n ɔː	n ɔː	246
+74	Yanda_Dom	n ɔ	n ɔ	246
+75	Mombo	b a ŋ g ũː	b a ŋ g ũː	281
+76	Penange	p a ŋ̍	p a ŋ̍ - -	281
+77	Nanga	g o	g o	283
+78	Toro_Tegu	k u	k u	283
+79	Yorno_So	g e	g e	283
+80	Bankan_Tey	d i j̃ a w̃	d i j̃ a w̃	309
+81	Ben_Tey	d i j̃ a w	d i j̃ a w	309
+82	Yanda_Dom	d i j a	d i j a -	309
+83	Mombo	b a j̃	b a j̃	312
+84	Penange	b a j̃	b a j̃	312
+85	Tiranige_Diga	b a j	b a j	312
+86	Nanga	d u g i	d u g i	314
+87	Yorno_So	d u g u	d u g u	314
+88	Bankan_Tey	n iː m	- n iː m	327
+89	Mombo	i n i	i n i -	327
+90	Najamba	n iː	- n iː -	327
+91	Ben_Tey	n iː j̃ i	n iː j̃ i	328
+92	Tiranige_Diga	n i j e	n i j e	328
+93	Jamsay	s aː dʒ ĩː	s aː dʒ - ĩː	331
+94	Togo_Kan	s a dʒ u	s a dʒ - u	331
+95	Tommo_So	s a d a a	s a d a a	331
+96	Perge_Tegu	s a s a j	s a s a j	334
+97	Toro_Tegu	s a j	s a - - j	334
+98	Yorno_So	s i s aː	s i s aː -	334
+99	Ben_Tey	k u w o	k u w o	345
+100	Nanga	k u w o	k u w o	345
+101	Bunoge	n u n dʒ e	n u n dʒ e	346
+102	Mombo	n u ŋ g ɛ	n u ŋ g ɛ	346
+103	Jamsay	tʃ ɛ r ɛ	tʃ ɛ r ɛ	347
+104	Tebul_Ure	tʃ ɛ r ɛ	tʃ ɛ r ɛ	347
+105	Tiranige_Diga	tʃ ɛ r ɔ	tʃ ɛ r ɔ	347
+106	Toro_Tegu	tʃ ɛ r u	tʃ ɛ r u	347
+107	Bankan_Tey	m	m	360
+108	Ben_Tey	m	m	360
+109	Bunoge	k a r	k a r -	361
+110	Mombo	k a r a	k a r a	361
+111	Penange	k a r a	k a r a	361
+112	Bunoge	g a	g a - -	362
+113	Mombo	k a nː i	k a nː i	362
+114	Bankan_Tey	m	m	386
+115	Ben_Tey	m	m	386
+116	Najamba	d u b e	d u b e	388
+117	Tiranige_Diga	d uː	d uː - -	388
+118	Perge_Tegu	n	n -	389
+119	Tommo_So	n ɛ	n ɛ	389
+120	Toro_Tegu	n	n -	389
+121	Yorno_So	n ɛ	n ɛ	389
+122	Jamsay	j aː	j aː - -	412
+123	Togo_Kan	j aː t ũ	j aː t ũ	412
+124	Toro_Tegu	j a	j a - -	412
+125	Mombo	s o j	s o j	414
+126	Yorno_So	s ɔ j	s ɔ j	414
+127	Ben_Tey	k i m dʒ ɛ	k i m dʒ ɛ	430
+128	Nanga	k ɛ m dʒ i	k ɛ m dʒ i	430
+129	Jamsay	k a m ɲ a	k a m ɲ a	431
+130	Yorno_So	k ɛ m ɲ ɛ	k ɛ m ɲ ɛ	431
+131	Togo_Kan	k u m u ɲ u	k u m u ɲ - u	435
+132	Tommo_So	k u m u n dʒ o	k u m u n dʒ o	435
+133	Jamsay	n ɛ j̃	n ɛ j̃	448
+134	Perge_Tegu	n ɛ m	n ɛ m	448
+135	Togo_Kan	n ɛ	n ɛ -	448
+136	Toro_Tegu	n e ŋ	n e ŋ	448
+137	Tebul_Ure	dʒ e n dʒ e	dʒ e n dʒ e	450
+138	Yanda_Dom	dʒ e n dʒ u	dʒ e n dʒ u	450
+139	Tommo_So	i l i j e	i l i j e	451
+140	Yorno_So	i lː iː	i lː - - iː	451
+141	Toro_Tegu	d u n u	d u n u	468
+142	Yanda_Dom	d o n u	d o n u	468
+143	Bankan_Tey	dʒ e s u	dʒ e s u	482
+144	Jamsay	dʒ e dʒ u	dʒ e dʒ u	482
+145	Toro_Tegu	dʒ e s u	dʒ e s u	482
+146	Bunoge	w e n a m a	w e n a m a	484
+147	Penange	w e n a m a	w e n a m a	484
+148	Tebul_Ure	g o	g o	487
+149	Tiranige_Diga	g õː	g õː	487
+150	Mombo	t a dʒ u	t a dʒ u	525
+151	Penange	t a dʒ i	t a dʒ i	525
+152	Najamba	t a b uː	t a b uː	527
+153	Tommo_So	t a b u	t a b u	527
+154	Najamba	o n dʒ uː	o n dʒ uː	548
+155	Tiranige_Diga	u n dʒ i	u n dʒ i	548
+156	Bankan_Tey	s u m ɔ	s u m ɔ	563
+157	Ben_Tey	s ũ	s ũ - -	563
+158	Nanga	s u m o	s u m o	563
+159	Perge_Tegu	s u w̃ o	s u w̃ o	563
+160	Jamsay	j i n e	j i n e	567
+161	Togo_Kan	ɲ i n e	ɲ i n e	567
+162	Tommo_So	n i nː ɛ	n i nː ɛ	567
+163	Yorno_So	n i n ɛ	n i n ɛ	567
+164	Mombo	n e n d e l e	n e n d e l e	568
+165	Penange	n e n d i l e	n e n d i l e	568
+166	Tebul_Ure	n i n d u g o	n i n d u g o	568
+167	Yanda_Dom	n i n d u g o	n i n d u g o	568
+168	Mombo	n e n d e l e	n e n d e l e	569
+169	Penange	n e n d i l	n e n d i l -	569
+170	Tebul_Ure	n i n d i	n i n d i - -	569
+171	Yanda_Dom	n i n d u g u	n i n d u g u	569
+172	Najamba	s u n dʒ u	s u n dʒ u	570
+173	Tiranige_Diga	s u n dʒ u	s u n dʒ u	570
+174	Najamba	s u n dʒ i	s u n dʒ i	571
+175	Tiranige_Diga	s u n dʒ o	s u n dʒ o	571
+176	Togo_Kan	ɲ i n i	ɲ i n i	572
+177	Tommo_So	n i nː u	n i nː u	572
+178	Yorno_So	n i n u	n i n u	572
+179	Bankan_Tey	u s i r̃ iː	u s i r̃ iː	594
+180	Ben_Tey	u s u n iː	u s u n iː	594
+181	Nanga	u s i r i	u s i r i	594
+182	Jamsay	s aː m a	s aː m a	596
+183	Togo_Kan	s ɔ m u	s ɔ m u	596
+184	Mombo	g e n i	g e n i	597
+185	Penange	g eː n i	g eː n i	597
+186	Tebul_Ure	i d i l u	i d i l u	600
+187	Tiranige_Diga	i dʒ i l i	i dʒ i l i	600
+188	Tommo_So	dʒ oː l u	- dʒ oː l u	600
+189	Bankan_Tey	m a	m a -	613
+190	Jamsay	m aː	m aː -	613
+191	Perge_Tegu	m aː	m aː -	613
+192	Toro_Tegu	m a j̃	m a j̃	613
+193	Bunoge	s i m i	s i m i	615
+194	Penange	s i m ɛ	s i m ɛ	615
+195	Najamba	ɔ n dʒ ɛ	ɔ n dʒ ɛ	616
+196	Tebul_Ure	ɔ n d u	ɔ n d u	616
+197	Tiranige_Diga	u n dʒ o	u n dʒ o	616
+198	Togo_Kan	u dʒ ɔ	u dʒ ɔ	618
+199	Tommo_So	u d ɔ	u d ɔ	618
+200	Yorno_So	u dʒ ɔ	u dʒ ɔ	618
+201	Nanga	k u w o	k u w o	634
+202	Tiranige_Diga	s u w o	s u w o	634
+203	Bunoge	d i ŋ g e	d i ŋ g e	651
+204	Mombo	d i ŋ g e	d i ŋ g e	651
+205	Penange	d i ŋ g e	d i ŋ g e	651
+206	Perge_Tegu	b i j̃ ɛ	b i j̃ ɛ	652
+207	Togo_Kan	b i j ɛ	b i j ɛ	652
+208	Toro_Tegu	b i w	b i w -	652
+209	Bunoge	s ɔː w ɛ	s ɔː w ɛ	668
+210	Penange	s ɔ g ɛ	s ɔ g ɛ	668
+211	Najamba	d ɔ n ɛ	d ɔ n ɛ	670
+212	Tiranige_Diga	d ɔ n ɔ	d ɔ n ɔ	670
+213	Bankan_Tey	ɲ a n	ɲ a n -	684
+214	Ben_Tey	ɲ a r̃ i	ɲ a r̃ i	684
+215	Bunoge	ɲ aː ŋ i	ɲ aː ŋ i	684
+216	Nanga	ɲ aː r̃ i	ɲ aː r̃ i	684
+217	Najamba	j a n d i	j a n d i	687
+218	Tiranige_Diga	j aː n d o	j aː n d o	687
+219	Yanda_Dom	j a n d u	j a n d u	687
+220	Bankan_Tey	m	m -	701
+221	Ben_Tey	m	m -	701
+222	Bunoge	m ɛ	m ɛ	701
+223	Bankan_Tey	z a r a	z a r a	742
+224	Ben_Tey	dʒ a r a	dʒ a r a	742
+225	Nanga	dʒ a r a	dʒ a r a	742
+226	Yanda_Dom	z aː	z aː - -	742
+227	Bunoge	j a b e	j a b e	743
+228	Penange	j a j e	j a j e	743
+229	Tiranige_Diga	j a j o	j a j o	743
+230	Perge_Tegu	w o s o	w o s o	768
+231	Yorno_So	w o dʒ o	w o dʒ o	768
+232	Bankan_Tey	m	m	785
+233	Ben_Tey	m	m	785
+234	Ben_Tey	n i	n i	786
+235	Jamsay	n i	n i	786
+236	Perge_Tegu	n i	n i	786
+237	Ben_Tey	n i w̃ ɛ	n i w̃ ɛ	787
+238	Jamsay	n i w̃ e	n i w̃ e	787
+239	Perge_Tegu	n i w̃ e	n i w̃ e	787
+240	Toro_Tegu	n i w̃ a	n i w̃ a	787
+241	Bankan_Tey	k e n d e	k e n d e	827
+242	Nanga	k eː n d e	k eː n d e	827
+243	Bankan_Tey	j	j -	828
+244	Penange	j e	j e	828
+245	Ben_Tey	tʃ e l eː	tʃ e l eː	829
+246	Perge_Tegu	k e l e	k e l e	829
+247	Jamsay	m o	m o	832
+248	Mombo	m o	m o	832
+249	Mombo	t e g a	t e g a	833
+250	Tommo_So	t u g u	t u g u	833
+251	Bunoge	b ɛ m b ɔ	b ɛ m b ɔ	853
+252	Tiranige_Diga	b e m b e	b e m b e	853
+253	Tommo_So	g e ɲː u	g e ɲː u	858
+254	Yanda_Dom	dʒ e ɲ u	dʒ e ɲ u	858
+255	Bankan_Tey	ɛ z ɛ	ɛ z ɛ	870
+256	Toro_Tegu	ɛ̃ s a	ɛ̃ s a	870
+257	Bankan_Tey	m	m	871
+258	Ben_Tey	m	m	871
+259	Bunoge	s iː dʒ a	s iː dʒ a	873
+260	Mombo	s i dʒ a	s i dʒ a	873
+261	Tiranige_Diga	s i dʒ a	s i dʒ a	873
+262	Najamba	k o k o	k o k o	874
+263	Togo_Kan	k o g o	k o g o	874
+264	Penange	k oː	k oː	891
+265	Toro_Tegu	k u	k u	891
+266	Yanda_Dom	k o	k o	891
+267	Tommo_So	p a t r ɔ	p a t r ɔ	892
+268	Yanda_Dom	b a d u	b a d - u	892
+269	Bankan_Tey	j i	j i	909
+270	Ben_Tey	j i	j i	909
+271	Nanga	j iː	j iː	909
+272	Bankan_Tey	m	m	910
+273	Ben_Tey	m	m	910
+274	Bunoge	b e	b e	911
+275	Tiranige_Diga	b eː	b eː	911
+276	Mombo	w eː	w eː	913
+277	Penange	w eː	w eː	913
+278	Perge_Tegu	ĩː	ĩː	915
+279	Togo_Kan	ĩ	ĩ	915
+280	Tommo_So	iː	iː	915
+281	Yorno_So	iː	iː	915
+282	Bankan_Tey	ɔ m b ɔ	ɔ m b ɔ	928
+283	Ben_Tey	o m b o	o m b o	928
+284	Nanga	ɔː m b ɔ	ɔː m b ɔ	928
+285	Bankan_Tey	j	j	929
+286	Ben_Tey	j	j	929
+287	Tommo_So	b ɛː	b ɛː - -	936
+288	Yanda_Dom	b i j a	b i j a	936
+289	Yorno_So	b i	b i - -	936
+290	Ben_Tey	j a r	j a r	951
+291	Nanga	j a r	j a r	951
+292	Perge_Tegu	j a r	j a r	951
+293	Mombo	a l e	a l e	954
+294	Penange	a l e	a l e	954
+295	Perge_Tegu	k uː	k uː	958
+296	Togo_Kan	g ɔ	g ɔ	958
+297	Tebul_Ure	a r̃ a	- a r̃ a	959
+298	Yanda_Dom	b a r a	b a r a	959
+299	Tommo_So	m ɔ	m ɔ	963
+300	Yorno_So	m ɔ	m ɔ	963
+301	Mombo	k e l o	k e l o	980
+302	Togo_Kan	k e l u	k e l u	980
+303	Najamba	j e g e	j e g e	981
+304	Tommo_So	j e g e	j e g e	981
+305	Najamba	l e	l e	982
+306	Tommo_So	l u	l u	982
+307	Bunoge	g e	g e	1001
+308	Mombo	g e	g e	1001
+309	Tiranige_Diga	g o	g o	1001
+310	Jamsay	w e	w e	1027
+311	Perge_Tegu	w e	w e	1027
+312	Najamba	m a m i l i	m a m i l i	1029
+313	Tebul_Ure	m iː l iː	m - - iː l iː	1029
+314	Togo_Kan	k i g i	k i g i	1033
+315	Tommo_So	k i g i	k i g i	1033
+316	Yorno_So	k i g i	k i g i	1033
+317	Bunoge	k ɔː n d e	k ɔː n d e	1053
+318	Mombo	k ɔː n d i	k ɔː n d i	1053
+319	Penange	k ɔː n d e	k ɔː n d e	1053
+320	Tiranige_Diga	k ɔː n i	k ɔː n i	1057
+321	Togo_Kan	k ɔ n u	k ɔ n u	1057
+322	Tommo_So	k ɛ ɲː ɛ	k ɛ ɲː ɛ	1057
+323	Yanda_Dom	tʃ e ɲ e	tʃ e ɲ e	1057
+324	Bankan_Tey	l u w o	l u w o	1071
+325	Nanga	l u g o	l u g o	1071
+326	Bunoge	p eː	p eː - -	1109
+327	Tommo_So	p i j e	p i j e	1109
+328	Yorno_So	p iː	p iː - -	1109
+329	Mombo	w ɛː	w ɛː	1111
+330	Penange	wː ɛː	wː ɛː	1111
+331	Ben_Tey	n iː	n iː	1126
+332	Jamsay	n iː	n iː	1126
+333	Nanga	n iː	n iː	1126
+334	Perge_Tegu	n iː	n iː	1126
+335	Jamsay	o m n o	o m n o	1129
+336	Perge_Tegu	o m d o	o m d o	1129
+337	Mombo	e l	e l	1130
+338	Yanda_Dom	e l	e l	1130
+339	Tommo_So	w oː b u	w oː b u	1137
+340	Yorno_So	w o b u	w o b u	1137
+341	Jamsay	n u w̃ o	n u w̃ o	1153
+342	Perge_Tegu	n u w̃ o	n u w̃ o	1153
+343	Tommo_So	j i m ɛ	j i m ɛ	1156
+344	Yorno_So	j i w̃ ɛ	j i w̃ ɛ	1156
+345	Bankan_Tey	g a z i	g a z i	1169
+346	Toro_Tegu	g a s u	g a s u	1169
+347	Jamsay	dʒ ãː	dʒ ãː	1171
+348	Togo_Kan	dʒ aː	dʒ aː	1171
+349	Bankan_Tey	ɔː r ɔ	- ɔː r ɔ	1184
+350	Ben_Tey	ɔː r ɔ	- ɔː r ɔ	1184
+351	Tebul_Ure	d ɔ r ɔ	d ɔ r ɔ	1184
+352	Bankan_Tey	n	n	1185
+353	Najamba	n	n	1185
+354	Tommo_So	dʒ i m	dʒ i m	1192
+355	Yanda_Dom	tʃ i ŋ	tʃ i ŋ	1192
+356	Yorno_So	dʒ i m	dʒ i m	1192
+357	Bankan_Tey	k e r i	k e r i	1204
+358	Ben_Tey	k e r i	k e r i	1204
+359	Nanga	k e r i	k e r i	1204
+360	Tebul_Ure	g e r iː	g e r iː	1204
+361	Bunoge	g a m b a	g a m b a	1206
+362	Tommo_So	k a b i	k a - b i	1206
+363	Yanda_Dom	g a m b u	g a m b u	1206
+364	Bunoge	g e	g e	1207
+365	Mombo	g e	g e	1207
+366	Penange	g e	g e	1207
+367	Jamsay	g a m a	g a m a	1208
+368	Perge_Tegu	g a m	g a m -	1208
+369	Togo_Kan	g a m i	g a m i	1208
+370	Yorno_So	g a m a	g a m a	1208
+371	Jamsay	r̃ a	r̃ a	1209
+372	Yorno_So	l a	l a	1209
+373	Tommo_So	l ɛ	l ɛ	1216
+374	Yanda_Dom	l ɛ	l ɛ	1216
+375	Bankan_Tey	n̩ dʒ e r u	n̩ dʒ e r u	1235
+376	Nanga	n ɛ r̃ i	n - ɛ r̃ i	1235
+377	Bankan_Tey	m	m	1236
+378	Ben_Tey	m	m	1236
+379	Najamba	ŋ̍ gʷ ɛː	ŋ̍ gʷ ɛː	1239
+380	Penange	ŋ k ɛ	ŋ k ɛ	1239
+381	Bankan_Tey	m	m	1255
+382	Ben_Tey	m	m	1255
+383	Bunoge	k o l o m u	k o l o m u	1257
+384	Mombo	k ɔ n j ɔ	k ɔ n - j ɔ	1257
+385	Penange	k o l o	k o l - - o	1257
+386	Tiranige_Diga	k ɔ l ɔ ŋ ɔ	k ɔ l ɔ ŋ ɔ	1257
+387	Jamsay	tʃ ɛ w ɛ	tʃ ɛ w ɛ	1276
+388	Togo_Kan	k ɛ w ɛ	k ɛ w ɛ	1276
+389	Bankan_Tey	t u r u s u	t u r u s u	1292
+390	Toro_Tegu	t u s u	t u - - s u	1292
+391	Bankan_Tey	m	m	1293
+392	Toro_Tegu	m	m	1293
+393	Ben_Tey	g ɔ̃ː m	g ɔ̃ː m -	1294
+394	Togo_Kan	g u m o	g u m o	1294
+395	Bunoge	s aː m b a	s aː m b a	1297
+396	Nanga	dʒ aː m b a	dʒ aː m b a	1297
+397	Jamsay	l e m	l e m -	1337
+398	Togo_Kan	l e w e	l e w e	1337
+399	Bankan_Tey	k ɔ	- k - - ɔ	1373
+400	Ben_Tey	k u	- k - - u	1373
+401	Najamba	ŋ g o	ŋ g - - o	1373
+402	Toro_Tegu	k u s o	- k u s o	1373
+403	Bankan_Tey	j	j	1375
+404	Ben_Tey	j	j	1375
+405	Bunoge	k u l ɛ ŋ	k u l ɛ ŋ	1376
+406	Najamba	k u l ɛ	k u l ɛ -	1376
+407	Bunoge	k u l ɛ	k u l ɛ	1377
+408	Najamba	k u l ɛ	k u l ɛ	1377
+409	Mombo	k u n d a l e	k u n d a l e	1378
+410	Penange	k u n d a l e	k u n d a l e	1378
+411	Najamba	kʷ ɛ	kʷ ɛ	1417
+412	Nanga	k ɔː	k ɔː	1417
+413	Yorno_So	k aː	k aː	1417
+414	Bunoge	p o l e	p o l e	1433
+415	Mombo	p o l e	p o l e	1433
+416	Penange	p o l e	p o l e	1433
+417	Tiranige_Diga	p o l	p o l -	1433
+418	Bunoge	ŋ g e	ŋ g e	1434
+419	Najamba	ŋ g o	ŋ g o	1434
+420	Tiranige_Diga	ŋ g e	ŋ g e	1434
+421	Bankan_Tey	j	j	1453
+422	Ben_Tey	j	j	1453
+423	Najamba	s aː g iː	s aː g iː	1455
+424	Yanda_Dom	s aː g e	s aː g e	1455
+425	Tebul_Ure	g a	g a	1456
+426	Tommo_So	g a	g a	1456
+427	Yorno_So	g a	g a	1456
+428	Bankan_Tey	t o w	t o w -	1475
+429	Ben_Tey	t ɔ w	t ɔ w -	1475
+430	Nanga	t ɔ ŋ ɔ	t ɔ ŋ ɔ	1475
+431	Mombo	k o l o	k o l o	1476
+432	Penange	k u l u	k u l u	1476
+433	Perge_Tegu	t ɔ g u	t ɔ g u	1479
+434	Tebul_Ure	t ɔ g u	t ɔ g u	1479
+435	Togo_Kan	t ɔ g u	t ɔ g u	1479
+436	Bankan_Tey	g oː m	g oː m	1500
+437	Ben_Tey	g oː m	g oː m	1500
+438	Bunoge	n i g e	n i g e	1501
+439	Mombo	n i g e	n i g e	1501
+440	Penange	n i g e	n i g e	1501
+441	Tiranige_Diga	n i g e	n i g e	1501
+442	Jamsay	d u n	d u n -	1502
+443	Perge_Tegu	d u ŋ	d u ŋ -	1502
+444	Togo_Kan	d u ŋ u	d u ŋ u	1502
+445	Yorno_So	d u ŋ u	d u ŋ u	1502
+446	Jamsay	d a ŋ a	d a ŋ a	1503
+447	Perge_Tegu	d a ŋ a	d a ŋ a	1503
+448	Tebul_Ure	g u n	g u n	1508
+449	Toro_Tegu	g ɔ ŋ	g ɔ ŋ	1508
+450	Togo_Kan	n aː	n aː	1510
+451	Yorno_So	n a	n a	1510
+452	Bunoge	s ɛ l i	s ɛ l i	1526
+453	Mombo	s a l a	s a l a	1526
+454	Perge_Tegu	p eː r e	p eː r e	1530
+455	Toro_Tegu	p e r e	p e r e	1530
+456	Tommo_So	i s e	i s e	1533
+457	Yanda_Dom	i z ɛ	i z ɛ	1533
+458	Tommo_So	j oː	j oː	1544
+459	Yorno_So	j oː	j oː	1544
+460	Jamsay	p a r̃ a	p a r̃ a	1580
+461	Togo_Kan	b a r̃ a	b a r̃ a	1580
+462	Yorno_So	p a l a	p a l a	1580
+463	Nanga	n ɔː	n ɔː	1581
+464	Toro_Tegu	ŋ	ŋ -	1581
+465	Mombo	j ɛ g ɛ	j ɛ g ɛ	1613
+466	Nanga	j ɛ g ɛ	j ɛ g ɛ	1613
+467	Bankan_Tey	ɔ w̃ m	ɔ w̃ m	1644
+468	Ben_Tey	ɔ w	ɔ w -	1644
+469	Perge_Tegu	ɔ w	ɔ w -	1644
+470	Mombo	n aː g a	n aː g a	1647
+471	Penange	nʷ aː g a	nʷ aː g a	1647
+472	Ben_Tey	d u g u	d u g u	1667
+473	Yorno_So	d u g u	d u g u	1667
+474	Jamsay	d e m e r e	d e m - e r e	1669
+475	Nanga	d e m b i r e	d e m b i r e	1669
+476	Perge_Tegu	d e m b e r e	d e m b e r e	1669
+477	Togo_Kan	d e m e r e	d e m - e r e	1669
+478	Mombo	b a lː a	b a - - lː a	1670
+479	Penange	b a g a l a	b a g a l a	1670
+480	Bunoge	s i w o	s i w o	1684
+481	Mombo	s i w o	s i w o	1684
+482	Togo_Kan	s i w e	s i w e	1684
+483	Toro_Tegu	s i w o	s i w o	1684
+484	Jamsay	d eː	d eː	1704
+485	Togo_Kan	d e	d e	1704
+486	Yanda_Dom	d eː	d eː	1704
+487	Ben_Tey	uː j i	uː j i	1722
+488	Nanga	uː j i	uː j i	1722
+489	Bunoge	d i w ɛ	d i w ɛ	1723
+490	Mombo	n iː w ɛ	n iː w ɛ	1723
+491	Penange	n iː g ɛ	n iː g ɛ	1723
+492	Jamsay	l ɛː	l ɛː	1724
+493	Perge_Tegu	l ɛː	l ɛː	1724
+494	Yorno_So	l ɛː	l ɛː	1724
+495	Najamba	i b i	i b i	1726
+496	Yanda_Dom	i b i	i b i	1726
+497	Najamba	j ɛ	j ɛ	1727
+498	Tiranige_Diga	j o	j o	1727
+499	Tommo_So	j ɛ	j ɛ	1727
+500	Yanda_Dom	j ɛ	j ɛ	1727
+501	Tebul_Ure	iː	iː	1729
+502	Togo_Kan	iː	iː	1729
+503	Najamba	dʒ aː ŋ i	dʒ aː ŋ i	1749
+504	Yanda_Dom	z aː n i	z aː n i	1749
+505	Bankan_Tey	n aː	n aː	1787
+506	Ben_Tey	n aː	n aː	1787
+507	Mombo	n ɛː	n ɛː	1787
+508	Penange	n ɛː	n ɛː	1787
+509	Jamsay	ĩː	ĩː	1790
+510	Togo_Kan	ĩ	ĩ	1790
+511	Nanga	l a	l a	1792
+512	Toro_Tegu	l ɔ	l ɔ	1792
+513	Tommo_So	j	j	1795
+514	Yorno_So	j	j	1795
+515	Bunoge	g e n i	g e n i	1824
+516	Mombo	g e n i	g e n i	1824
+517	Penange	g e n i	g e n i	1824
+518	Jamsay	n u w̃ o	n u w̃ o	1825
+519	Perge_Tegu	n u w̃ o	n u w̃ o	1825
+520	Toro_Tegu	n u w̃ ɔ	n u w̃ ɔ	1825
+521	Bankan_Tey	m	m	1863
+522	Ben_Tey	m	m	1863
+523	Bunoge	k ɔ g u l ɛ	k ɔ g u l ɛ	1864
+524	Mombo	k ɔ g u l ɛ	k ɔ g u l ɛ	1864
+525	Penange	k ɔ g u l ɛ	k ɔ g u l ɛ	1864
+526	Togo_Kan	k ɔ g ɔ r ɔ	k ɔ g ɔ r ɔ	1864
+527	Najamba	p u n ɛ	p u n ɛ	1899
+528	Tiranige_Diga	p u n i	p u n i	1899
+529	Yanda_Dom	p u n	p u n -	1899
+530	Yorno_So	p u j	p u j -	1899
+531	Togo_Kan	p i j e	p i j e	1901
+532	Tommo_So	p u j o	p u j o	1901
+533	Bankan_Tey	dʒ e	dʒ e -	1916
+534	Jamsay	dʒ ɛ	dʒ ɛ -	1916
+535	Yanda_Dom	dʒ e n	dʒ e n	1916
+536	Bankan_Tey	m	m	1918
+537	Ben_Tey	m	m	1918
+538	Jamsay	m	m	1918
+539	Bunoge	n i	n i	1922
+540	Jamsay	ɲ uː	ɲ uː	1922
+541	Togo_Kan	ɲ uː	ɲ uː	1922
+542	Mombo	g ɛː n ɛ	g ɛː n ɛ	1923
+543	Najamba	g ɔ ŋ ɛ	g ɔ ŋ ɛ	1923
+544	Penange	g iː n a	g iː n a	1923
+545	Tebul_Ure	g e n e	g e n e	1923
+546	Bunoge	p i lː e	p i lː e	1943
+547	Penange	p i l	p i l -	1943
+548	Mombo	tʃ i r e	tʃ i r e	1944
+549	Tebul_Ure	tʃ i lː iː	tʃ i lː iː	1944
+550	Toro_Tegu	tʃ i r u	tʃ i r u	1944
+551	Najamba	p i r i	p i r i	1945
+552	Tiranige_Diga	p i r i	p i r i	1945
+553	Ben_Tey	j u g u r ɔ	j u g u r ɔ	1969
+554	Perge_Tegu	j ɔ g ɔ r ɔ	j ɔ g ɔ r ɔ	1969
+555	Togo_Kan	j u g ɔ r ɔ	j u g ɔ r ɔ	1969
+556	Yorno_So	j u g ɔ r ɔ	j u g ɔ r ɔ	1969
+557	Jamsay	p u t ɔ	- - p u t ɔ	1971
+558	Najamba	b u dʒ ɛ	- - b u dʒ ɛ	1971
+559	Perge_Tegu	p u t ɔ	- - p u t ɔ	1971
+560	Tommo_So	j u b u d ɔ	j u b u d ɔ	1971
+561	Bankan_Tey	m̩ b u n d o	m̩ b u n d o	1988
+562	Bunoge	p u n d e	- p u n d e	1988
+563	Mombo	p u n d e	- p u n d e	1988
+564	Penange	p u n d u	- p u n d u	1988
+565	Najamba	m ɛ n d ɛ	m ɛ n d ɛ	1990
+566	Nanga	m ɛ n d i	m ɛ n d i	1990
+567	Tebul_Ure	m ɛ n d i	m ɛ n d i	1990
+568	Bankan_Tey	ŋ̍ g uː r e	ŋ̍ g uː r e	2006
+569	Najamba	ŋ g o	ŋ g - - o	2006
+570	Tebul_Ure	ŋ g ɛ	ŋ g - - ɛ	2006
+571	Bankan_Tey	j	j	2007
+572	Ben_Tey	j̃	j̃	2007
+573	Bankan_Tey	n̩ d ɔ s ɔː	n̩ d ɔ s ɔː	2026
+574	Ben_Tey	l ɔ s ɔː	- l ɔ s ɔː	2026
+575	Nanga	l ɔ s ɔ	- l ɔ s ɔ	2026
+576	Bunoge	s e	s e - -	2027
+577	Mombo	s iː	s iː - -	2027
+578	Penange	s i g e	s i g e	2027
+579	Jamsay	k ɔː	k ɔː	2028
+580	Najamba	g o	g o	2028
+581	Najamba	n aː	n aː	2029
+582	Yanda_Dom	n aː	n aː	2029
+583	Perge_Tegu	k u w ɔ	k u w ɔ	2030
+584	Togo_Kan	k u w ɔ	k u w ɔ	2030
+585	Toro_Tegu	k u w ɔ	k u w ɔ	2030
+586	Yorno_So	k u b ɔ	k u b ɔ	2030
+587	Bunoge	g e n d e	g e n d e	2046
+588	Mombo	g i n d o	g i n d o	2046
+589	Najamba	g e n d e	g e n d e	2046
+590	Penange	g e n d o	g e n d o	2046
+591	Mombo	i dː ɛ	i - dː ɛ	2067
+592	Penange	i l d ɛ	i l d ɛ	2067
+593	Tiranige_Diga	i d i	i - d i	2067
+594	Yanda_Dom	i d ɛ	i - d ɛ	2067
+595	Mombo	k ɛː dʒ ɔ	k ɛː dʒ ɔ -	2109
+596	Najamba	k ɛː dʒ ɛ j	k ɛː dʒ ɛ j	2109
+597	Penange	k ɛ dʒ ɔ	k ɛ dʒ ɔ -	2109
+598	Tebul_Ure	k ɛ d ɛ	k ɛ d ɛ -	2109
+599	Tiranige_Diga	tʃ ɛː dʒ ɔ	tʃ ɛː dʒ ɔ	2110
+600	Yanda_Dom	tʃ ɛ z ɔ	tʃ ɛ z ɔ	2110
+601	Bankan_Tey	m	m	2125
+602	Ben_Tey	m	m	2125
+603	Ben_Tey	t i j a	t i j a	2126
+604	Nanga	t i j a	t i j a	2126
+605	Bunoge	n o l o	n o l o	2127
+606	Mombo	n o l o	n o l o	2127
+607	Najamba	n a l e	n a l e	2127
+608	Penange	n o l o	n o l o	2127
+609	Tebul_Ure	a n g e	a n g e	2130
+610	Yorno_So	a n g e	a n g e	2130
+611	Tiranige_Diga	s a	s a	2148
+612	Toro_Tegu	z u	z u	2148
+613	Bunoge	t a b e	t a b e	2180
+614	Penange	t a b e	t a b e	2180
+615	Jamsay	oː	oː	2181
+616	Perge_Tegu	oː	oː	2181
+617	Togo_Kan	o	o	2181
+618	Tommo_So	o b o	o b o	2182
+619	Yorno_So	o b o	o b o	2182
+620	Bunoge	g eː n d e	g eː n d e	2215
+621	Mombo	a n d e	- a n d e	2215
+622	Penange	a n d e	- a n d e	2215
+623	Najamba	i n	i n	2217
+624	Tiranige_Diga	u n	u n	2217
+625	Yanda_Dom	u n	u n	2217
+626	Mombo	d i g ɛ	d i g ɛ	2267
+627	Penange	d i g ɛ	d i g ɛ	2267
+628	Najamba	i l ɛ	- i l ɛ	2268
+629	Tebul_Ure	i l ɛ	- i l ɛ	2268
+630	Tiranige_Diga	e l e	- e l e	2268
+631	Yanda_Dom	ʔ ə l ɛ	ʔ ə l ɛ	2268
+632	Bankan_Tey	b ɛ r u	b ɛ r u	2283
+633	Ben_Tey	b ɛ r i	b ɛ r i	2283
+634	Jamsay	b ɛ r u	b ɛ r u	2283
+635	Nanga	b ɛ r i	b ɛ r i	2283
+636	Bankan_Tey	m	m	2284
+637	Ben_Tey	m	m	2284
+638	Mombo	u n a	u n a	2286
+639	Penange	u n a	u n a	2286
+640	Tiranige_Diga	u n a	u n a	2286
+641	Najamba	i n e	- i n e	2287
+642	Tommo_So	ɛ n ɛ	- ɛ n ɛ	2287
+643	Yanda_Dom	ʔ ə n ɛ	ʔ ə n ɛ	2287
+644	Ben_Tey	dʒ i ŋ dʒ ɛ	dʒ i ŋ dʒ ɛ	2303
+645	Najamba	dʒ e n dʒ a	dʒ e n dʒ a	2303
+646	Nanga	d ɛ n dʒ ɛ	d ɛ n dʒ ɛ	2303
+647	Bunoge	ʔ a m a n a	ʔ a m a n a	2304
+648	Mombo	a m a n a	- a m a n a	2304
+649	Penange	a m a n a	- a m a n a	2304
+650	Bankan_Tey	m	m -	2335
+651	Tiranige_Diga	m ɔː	m ɔː	2335
+652	Bunoge	p ɔː l ɔ	p ɔː l ɔ	2336
+653	Mombo	p ɔ l ɔ	p ɔ l ɔ	2336
+654	Penange	p ɔː l ɔ	p ɔː l ɔ	2336
+655	Tebul_Ure	s ɛ	s - - ɛ	2338
+656	Togo_Kan	s ɛ̃	s - - ɛ̃	2338
+657	Tommo_So	s i ɛ	s i - ɛ	2338
+658	Yanda_Dom	s i j ɛ	s i j ɛ	2338
+659	Bunoge	t o r i	t o r i	2353
+660	Penange	t o r i	t o r i	2353
+661	Jamsay	t i r ɛ	t i r ɛ	2354
+662	Perge_Tegu	t i r ɛ	t i r ɛ	2354
+663	Tommo_So	t i r ɛ	t i r ɛ	2354
+664	Yorno_So	t i r ɛ	t i r ɛ	2354
+665	Jamsay	a n	a n	2355
+666	Perge_Tegu	a n	a n	2355
+667	Tommo_So	a n	a n	2355
+668	Bankan_Tey	b e r u	b e r u	2372
+669	Mombo	b e l e	b e l e	2372
+670	Nanga	b e r i	b e r i	2372
+671	Tiranige_Diga	b e l	b e l -	2372
+672	Bunoge	k ɔ dʒ i	k ɔ dʒ i	2373
+673	Penange	k ɔ dʒ i	k ɔ dʒ i	2373
+674	Jamsay	ɔ j ɔ	ɔ j ɔ	2374
+675	Perge_Tegu	ɔ j ɔ	ɔ j ɔ	2374
+676	Mombo	ŋ g e	ŋ g e	2375
+677	Najamba	ŋ g o	ŋ g o	2375
+678	Tiranige_Diga	ŋ g e	ŋ g e	2375
+679	Togo_Kan	g u r u	g u r u	2379
+680	Tommo_So	k e r u	k e r u	2379
+681	Bankan_Tey	m	m	2393
+682	Ben_Tey	m	m	2393
+683	Jamsay	j e r i	j e r i	2395
+684	Togo_Kan	j e r ĩ	j e r ĩ	2395
+685	Yorno_So	j e r	j e r -	2395
+686	Najamba	b e m b aː	b e m b aː	2399
+687	Penange	b iː m b a	b iː m b a	2399
+688	Tiranige_Diga	b iː m a	b iː m - a	2399
+689	Bankan_Tey	k u j a	k u j a	2419
+690	Ben_Tey	k u j ɔ	k u j ɔ	2419
+691	Nanga	k i j a	k i j a	2419
+692	Bankan_Tey	n aː	n aː	2441
+693	Ben_Tey	n aː	n aː	2441
+694	Nanga	n aː	n aː	2441
+695	Penange	nʷ ɛː	nʷ ɛː	2441
+696	Mombo	d ɛ	d ɛ	2459
+697	Penange	d ɛ	d ɛ	2459
+698	Yanda_Dom	d ɔ	d ɔ	2459
+699	Najamba	g u b ɛ	g u b ɛ	2460
+700	Tebul_Ure	g u b u	g u b u	2460
+701	Tiranige_Diga	g u w ɔ	g u w ɔ	2460
+702	Togo_Kan	dʒ e r e	dʒ e r e	2461
+703	Tommo_So	dʒ e l e	dʒ e l e	2461
+704	Yorno_So	dʒ e l e	dʒ e l e	2461
+705	Jamsay	d a r̃ a	d a r̃ a	2477
+706	Yanda_Dom	d a r̃ a	d a r̃ a	2477
+707	Bunoge	d e	d e	2497
+708	Mombo	d e	d e	2497
+709	Tiranige_Diga	d o	d o	2497
+710	Perge_Tegu	ɛ g ɛ	ɛ g ɛ	2500
+711	Tommo_So	ɛ g ɛ	ɛ g ɛ	2500
+712	Toro_Tegu	ɛ g u	ɛ g u	2500
+713	Yorno_So	ɛ g ɛ	ɛ g ɛ	2500
+714	Bankan_Tey	m	m	2515
+715	Tommo_So	m	m	2515
+716	Mombo	d ɔ ŋ g a	d ɔ ŋ g a	2517
+717	Togo_Kan	d o g u	d o - g u	2517
+718	Tommo_So	t u g o	t u - g o	2517
+719	Ben_Tey	b a ŋ g i	b a ŋ g i	2550
+720	Tebul_Ure	b a ŋ g i	b a ŋ g i	2550
+721	Perge_Tegu	s u g u	s u g u	2558
+722	Toro_Tegu	s u t u	s u t u	2558
+723	Tommo_So	n d a	n d a	2561
+724	Yanda_Dom	n d ɛ	n d ɛ	2561
+725	Bunoge	k i b a	k i b a	2580
+726	Penange	k i b a	k i b a	2580
+727	Mombo	p e ŋ g e	p e ŋ g e	2581
+728	Tebul_Ure	d a ŋ g aː	d a ŋ g aː	2581
+729	Tiranige_Diga	d eː ŋ g e	d eː ŋ g e	2581
+730	Perge_Tegu	d ɛ̃ː	d ɛ̃ː	2585
+731	Togo_Kan	d i	d i	2585
+732	Bankan_Tey	j e j	j e j -	2598
+733	Ben_Tey	j e j	j e j -	2598
+734	Tommo_So	iː j e	- iː j e	2598
+735	Yorno_So	j ɛĩ	j ɛĩ - -	2598
+736	Bunoge	ʔ i g e	ʔ i g e	2599
+737	Mombo	i g e	- i g e	2599
+738	Penange	i g e	- i g e	2599
+739	Tiranige_Diga	iː g e	- iː g e	2599
+740	Bankan_Tey	k i j a	k i j a	2617
+741	Ben_Tey	tʃ i j a	tʃ i j a	2617
+742	Nanga	k i r a	k i r a	2617
+743	Jamsay	tʃ i r ɛ	tʃ i r ɛ	2619
+744	Tebul_Ure	tʃ i l a	tʃ i l a	2619
+745	Toro_Tegu	tʃ i r a	tʃ i r a	2619
+746	Yanda_Dom	tʃ e l a	tʃ e l a	2619
+747	Mombo	s o ɲ o	s o ɲ - o	2637
+748	Penange	s o n dʒ o	s o n dʒ o	2637
+749	Tiranige_Diga	s o ɲ o	s o ɲ - o	2637
+750	Mombo	n i	n i	2638
+751	Nanga	ŋ	ŋ -	2638
+752	Tiranige_Diga	n i	n i	2638
+753	Bankan_Tey	u r o	u r o	2665
+754	Ben_Tey	u r o	u r o	2665
+755	Bunoge	t aː l u	t aː l u	2669
+756	Mombo	d uː l u	d uː l u	2669
+757	Tebul_Ure	u l u	- u l u	2669
+758	Perge_Tegu	i r e	- i r e	2674
+759	Tommo_So	g i n ɛ	g i n ɛ	2674
+760	Yorno_So	g ɛ r̃ ɛ	g ɛ r̃ ɛ	2674
+761	Tommo_So	t i j ɛ	t i j ɛ	2676
+762	Yanda_Dom	t i j a	t i j a	2676
+763	Bankan_Tey	ɔ w̃	ɔ w̃	2696
+764	Perge_Tegu	ɔ w	ɔ w	2696
+765	Jamsay	ɔ g u	ɔ g u	2698
+766	Nanga	ɔ g i	ɔ g i	2698
+767	Tommo_So	ɔ g u	ɔ g u	2698
+768	Mombo	n aː g a	n aː g a	2699
+769	Penange	nʷ aː g a	nʷ aː g a	2699
+770	Togo_Kan	n uː	n uː	2704
+771	Yorno_So	n ɔː	n ɔː	2704
+772	Jamsay	s u ŋ	- - s u ŋ	2714
+773	Najamba	k ɛː s u m	k ɛː s u m	2714
+774	Toro_Tegu	z a ŋ	- - z a ŋ	2714
+775	Yorno_So	s u m	- - s u m	2714
+776	Bankan_Tey	o s u	o s u	2734
+777	Togo_Kan	s uː	- s uː	2734
+778	Bankan_Tey	ɔ ŋ g ɔ r ɔ	ɔ ŋ g ɔ r ɔ	2754
+779	Ben_Tey	ɔ ŋ g ɔ r ɔ	ɔ ŋ g ɔ r ɔ	2754
+780	Tebul_Ure	ɔ n g ɔ	ɔ n g - - ɔ	2754
+781	Bunoge	b a l a	b a l a	2756
+782	Mombo	w a l a	w a l a	2756
+783	Penange	w a l a	w a l a	2756
+784	Tiranige_Diga	b a n a	b a n a	2756
+785	Najamba	n ɔ g ɔː	n ɔ g ɔː	2758
+786	Nanga	l ɔ g ɔ	l ɔ g ɔ	2758
+787	Bankan_Tey	b a r m i n a	b a r m i n a	2773
+788	Ben_Tey	b a r m ɛ	b a r m - - ɛ	2773
+789	Nanga	b a r m i	b a r m i - -	2773
+790	Tebul_Ure	b a r m i	b a r m i - -	2773
+791	Bunoge	b a r m i	b a r - m i	2775
+792	Mombo	b a r i m i	b a r i m i	2775
+793	Penange	b a r m i	b a r - m i	2775
+794	Tiranige_Diga	b a r i m i	b a r i m i	2775
+795	Jamsay	ŋ o	ŋ - o	2777
+796	Tommo_So	n d o	n d o	2777
+797	Perge_Tegu	b a w̃ u r̃ u	b a w̃ u r̃ u	2779
+798	Togo_Kan	b a w̃ u	b a w̃ - - u	2779
+799	Tommo_So	b a n u	b a n - - u	2779
+800	Bunoge	d u b ɛ	d u b ɛ	2799
+801	Mombo	d u b e	d u b e	2799
+802	Penange	d u b ɛ	d u b ɛ	2799
+803	Najamba	i n o	i n o	2800
+804	Perge_Tegu	iː n ɛ	iː n ɛ	2800
+805	Tommo_So	i n ɛ	i n ɛ	2800
+806	Bunoge	ŋ aː ŋ aː	ŋ aː ŋ aː	2819
+807	Perge_Tegu	a ŋ u	- a ŋ u	2819
+808	Tiranige_Diga	a n a	- a n a	2819
+809	Jamsay	ɛ w̃ ɛ	ɛ w̃ ɛ	2820
+810	Togo_Kan	ɛ w̃ ɛ	ɛ w̃ ɛ	2820
+811	Najamba	dʒ a	dʒ a	2822
+812	Tommo_So	d uː	d uː	2822
+813	Najamba	g aː	- g aː	2824
+814	Penange	a g a	a g a	2824
+815	Toro_Tegu	k a	- k a	2824
+816	Mombo	l e	l e	2843
+817	Penange	l ɛ	l ɛ	2843
+818	Najamba	g e	g e	2844
+819	Tebul_Ure	g ɔ	g ɔ	2844
+820	Bankan_Tey	dʒ ɛ	dʒ ɛ	2862
+821	Tebul_Ure	dʒ ɛ	dʒ ɛ	2862
+822	Yanda_Dom	dʒ ɛ	dʒ ɛ	2862
+823	Ben_Tey	dʒ i j ɛ	dʒ i j ɛ	2863
+824	Najamba	dʒ i j ɛ	dʒ i j ɛ	2863
+825	Nanga	dʒ i j ɛ	dʒ i j ɛ	2863
+826	Tiranige_Diga	dʒ ɛ j ɔ	dʒ ɛ j ɔ	2863
+827	Jamsay	w ɔː	w ɔː -	2865
+828	Perge_Tegu	w ɔː	w ɔː -	2865
+829	Toro_Tegu	w ɔ w	w ɔ w	2865
+830	Mombo	g j ɛː	g - j ɛː	2866
+831	Penange	g i j ɛ	g i j ɛ	2866
+832	Togo_Kan	d a r̃ a	d a r̃ a	2867
+833	Tommo_So	d a a	d a - a	2867
+834	Yorno_So	d aː	d aː - -	2867
+835	Jamsay	n ɛ ŋ ɛ	n ɛ ŋ - - ɛ	2881
+836	Togo_Kan	n e ŋ e r e	n e ŋ e r e	2881
+837	Toro_Tegu	n i ŋ o	n i ŋ - - o	2881
+838	Tommo_So	j o ŋ o l o	j o ŋ o l o	2888
+839	Yorno_So	j u ŋ o l o	j u ŋ o l o	2888
+840	Jamsay	s i r u	s i r u	2926
+841	Perge_Tegu	s i r u	s i r u	2926
+842	Mombo	t a l a	t a l a	2927
+843	Tiranige_Diga	t a n a	t a n a	2927
+844	Jamsay	t i r u	t i r u	2942
+845	Togo_Kan	t i r i	t i r i	2942
+846	Toro_Tegu	t i r u	t i r u	2942
+847	Bankan_Tey	dʒ ɛ n d ɛː	dʒ ɛ n d ɛː	2976
+848	Ben_Tey	dʒ ɛ l ɛː	dʒ ɛ - l ɛː	2976
+849	Bankan_Tey	d u w a	d u w a	2994
+850	Ben_Tey	d u w ɔ	d u w ɔ	2994
+851	Perge_Tegu	t i w ɛ	t i w ɛ	2994
+852	Jamsay	d a ɣ a	d a ɣ a	2997
+853	Togo_Kan	d a g a	d a g a	2997
+854	Yorno_So	d a g a	d a g a	2997
+855	Najamba	d ɔ g ɛ	d ɔ g ɛ	2999
+856	Nanga	d ɔ g ɔ	d ɔ g ɔ	2999
+857	Tebul_Ure	d o g ɔ	d o g ɔ	2999
+858	Yanda_Dom	d ɔ g ɔ	d ɔ g ɔ	2999
+859	Tommo_So	p a d a	p a d a	3001
+860	Toro_Tegu	p a s u	p a s u	3001
+861	Bankan_Tey	b a n d a j	b a n d a j	3011
+862	Ben_Tey	b a n a j̃	b a n - a j̃	3011
+863	Jamsay	b a n a	b a n - a -	3011
+864	Perge_Tegu	b a l a	b a l - a -	3011
+865	Bunoge	g a	g a	3013
+866	Penange	g a	g a	3013
+867	Mombo	n aː g a	n aː g a	3014
+868	Penange	nʷ aː	nʷ aː - -	3014
+869	Nanga	b a r i j ɛ	b a r i j ɛ	3016
+870	Toro_Tegu	b a r̃ i	b a r̃ i - -	3016
+871	Bunoge	d ɛ l ɛ	d ɛ l ɛ	3032
+872	Mombo	n ɛ l ɛ	n ɛ l ɛ	3032
+873	Tiranige_Diga	n ɛ l ɔ	n ɛ l ɔ	3032
+874	Jamsay	i ɲ e	i ɲ - e	3049
+875	Perge_Tegu	i n dʒ e	i n dʒ e	3049
+876	Tiranige_Diga	j o	j o	3050
+877	Yanda_Dom	j o	j o	3050
+878	Bankan_Tey	z ɛ	z ɛ	3069
+879	Toro_Tegu	s o	s o	3069
+880	Ben_Tey	a j i	a j i	3070
+881	Nanga	a j i	a j i	3070
+882	Bunoge	d u g ɛ	d u g ɛ	3071
+883	Tiranige_Diga	t ɔ g ɔ	t ɔ g ɔ	3071
+884	Yanda_Dom	t o g o	t o g o	3071
+885	Jamsay	dʒ ɛ ɲ ɛ	dʒ ɛ ɲ ɛ	3072
+886	Tommo_So	dʒ e ɲː e	dʒ e ɲː e	3072
+887	Yorno_So	g e ɲ ɛ	g e ɲ ɛ	3072
+888	Bunoge	j a w	j a w	3089
+889	Mombo	j a w	j a w	3089
+890	Penange	j a w	j a w	3089
+891	Bunoge	j a w	j a w	3090
+892	Mombo	j a w	j a w	3090
+893	Penange	j a w	j a w	3090
+894	Jamsay	ɲ ɛ n	ɲ ɛ n	3091
+895	Yanda_Dom	ɛ n	- ɛ n	3091
+896	Najamba	t e ŋ g i	t e ŋ g i -	3114
+897	Penange	t e ŋ g e ŋ	t e ŋ g e ŋ	3114
+898	Tiranige_Diga	t i ŋ g o	t i ŋ g o -	3114
+899	Penange	k a n i	k a n i	3115
+900	Tommo_So	a n u	- a n u	3115
+901	Perge_Tegu	k u w ɔ	k u w ɔ	3116
+902	Togo_Kan	k u w ɔ	k u w ɔ	3116
+903	Bankan_Tey	m	m	3133
+904	Ben_Tey	m	m	3133
+905	Bunoge	n a m b a l a	n a m b a l a	3135
+906	Penange	b a l a	- - - b a l a	3135
+907	Bankan_Tey	t i n i	t i n i	3157
+908	Ben_Tey	t i n i	t i n i	3157
+909	Jamsay	j a ŋ a	j a ŋ a	3159
+910	Perge_Tegu	j ɛ l ɛ	j ɛ l ɛ	3159
+911	Tommo_So	j ɛ	j ɛ - -	3159
+912	Yorno_So	j ɛ n ɛ	j ɛ n ɛ	3159
+913	Najamba	t a r	t a r -	3161
+914	Tiranige_Diga	dʒ aː l o	dʒ aː l o	3161
+915	Bankan_Tey	z ɔ r ɔ	z ɔ r ɔ	3176
+916	Ben_Tey	dʒ ɔ r ɔ	dʒ ɔ r ɔ	3176
+917	Nanga	dʒ ɔ r ɔ	dʒ ɔ r ɔ	3176
+918	Tebul_Ure	z ɔː	z ɔː - -	3176
+919	Jamsay	l u g u r u	l u g u r u	3178
+920	Perge_Tegu	l u g u	l u g - - u	3178
+921	Mombo	j ɔ l ɛ	j ɔ l ɛ	3179
+922	Tiranige_Diga	j ɔ l ɔ	j ɔ l ɔ	3179
+923	Najamba	d u n d ɛ	d u n d ɛ	3180
+924	Penange	d u n d ɛ	d u n d ɛ	3180
+925	Togo_Kan	d ɛ n	d ɛ n -	3182
+926	Tommo_So	d ɛ nː ɛ	d ɛ nː ɛ	3182
+927	Yorno_So	d ɛ n ɛ	d ɛ n ɛ	3182
+928	Bankan_Tey	t oː r̃ u	t oː r̃ u	3194
+929	Toro_Tegu	t o r̃ u	t o r̃ u	3194
+930	Bankan_Tey	m	m	3195
+931	Ben_Tey	m	m	3195
+932	Jamsay	k a r u m	k a r u m	3199
+933	Nanga	k ɔ r ɔ ŋ	k ɔ r ɔ ŋ	3199
+934	Perge_Tegu	k ɔ r ɔ m	k ɔ r ɔ m	3199
+935	Tebul_Ure	k ɔ r ɔ ŋ	k ɔ r ɔ ŋ	3199
+936	Nanga	k ɛ n d ɛ	k ɛ n d ɛ	3221
+937	Tommo_So	k i n d ɛ	k i n d ɛ	3221
+938	Bunoge	d i l i m a	d i l i m a	3254
+939	Mombo	d u l u m a	d u l u m a	3254
+940	Penange	d a l m a	d a l - m a	3254
+941	Tiranige_Diga	d u m a	d u - - m a	3254
+942	Penange	j o g o	j o g o	3258
+943	Tiranige_Diga	j o g e	j o g e	3258
+944	Bankan_Tey	a r̃ a	a r̃ a	3283
+945	Nanga	a r̃ a	a r̃ a	3283
+946	Tebul_Ure	a r̃ a	a r̃ a	3283
+947	Togo_Kan	a r̃ a	a r̃ a	3283
+948	Jamsay	a n	a n	3285
+949	Yanda_Dom	a n	a n	3285
+950	Mombo	w a l a	w a l a	3286
+951	Penange	w a l a	w a l a	3286
+952	Tebul_Ure	ɛ b ɛ	ɛ b ɛ	3303
+953	Tommo_So	i b ɛ	i b ɛ	3303
+954	Yorno_So	i b ɛ	i b ɛ	3303
+955	Bankan_Tey	n ɔː n iː	n ɔː n - iː	3318
+956	Najamba	n o n d iː	n o n d iː	3318
+957	Nanga	n ɔ n d i	n ɔ n d i	3318
+958	Tiranige_Diga	n oː n d i	n oː n d i	3318
+959	Ben_Tey	b uː s a	b uː s a -	3319
+960	Jamsay	b u s a m	b u s a m	3319
+961	Mombo	b u z e	b u z e -	3319
+962	Perge_Tegu	b u s a m	b u s a m	3319
+963	Ben_Tey	m	m	3320
+964	Yanda_Dom	m	m	3320
+965	Penange	n uː	n uː	3322
+966	Tebul_Ure	n ɔː	n ɔː	3322
+967	Togo_Kan	b ɔː n ɔ	b ɔː n - ɔ	3325
+968	Tommo_So	b ɔ n d u	b ɔ n d u	3325
+969	Yanda_Dom	b ɔ n d u	b ɔ n d u	3325
+970	Yorno_So	b ɔ n ɔ	b ɔ n - ɔ	3325
+971	Bunoge	b iː ŋ g e	b iː ŋ g e	3340
+972	Penange	b iː ŋ g o	b iː ŋ g o	3340
+973	Tiranige_Diga	b iː ŋ g o	b iː ŋ g o	3340
+974	Perge_Tegu	s u g ɔ	s u g ɔ	3342
+975	Togo_Kan	s u g ɔ	s u g ɔ	3342
+976	Yorno_So	s u g ɔ	s u g ɔ	3342
+977	Tebul_Ure	n i ŋ g e	n i ŋ g e	3343
+978	Yanda_Dom	n i ŋ	n i ŋ - -	3343
+979	Bankan_Tey	ɲ ɛ j̃	ɲ ɛ j̃	3356
+980	Ben_Tey	ɲ ɛ j̃	ɲ ɛ j̃	3356
+981	Bunoge	p a n a ŋ g e	p a n a ŋ g e	3357
+982	Tiranige_Diga	ɲ aː ŋ g e	- - ɲ aː ŋ g e	3357
+983	Jamsay	ɲ aː	ɲ aː	3358
+984	Mombo	ɲ aː	ɲ aː	3358
+985	Nanga	ɲ aː	ɲ aː	3358
+986	Penange	ɲ aː	ɲ aː	3358
+987	Perge_Tegu	dʒ aː	dʒ aː	3360
+988	Tommo_So	dʒ aː	dʒ aː	3360
+989	Yorno_So	dʒ aː	dʒ aː	3360
+990	Tebul_Ure	z a	z a	3361
+991	Yanda_Dom	z a	z a	3361
+992	Jamsay	n ɔ w̃ ɔ	n ɔ w̃ ɔ	3373
+993	Togo_Kan	n ɔ w̃ ɔ	n ɔ w̃ ɔ	3373
+994	Bankan_Tey	a j aː	a j aː	3389
+995	Ben_Tey	a j aː	a j aː	3389
+996	Toro_Tegu	a j̃ a	a j̃ a	3389
+997	Mombo	dʒ o ŋ g u	dʒ o ŋ g u	3391
+998	Najamba	d a g uː	d a - g uː	3391
+999	Perge_Tegu	l o j	l o j	3395
+1000	Togo_Kan	l o	l o -	3395
+1001	Yanda_Dom	ɔ j̃	- ɔ j̃	3395
+1002	Yorno_So	l oː	l oː -	3395
+1003	Bunoge	ŋ g e	ŋ g e	3406
+1004	Penange	ŋ g e	ŋ g e	3406
+1005	Tiranige_Diga	ŋ g e	ŋ g e	3406
+1006	Bunoge	s eː	s eː	3426
+1007	Mombo	s eː	s eː	3426
+1008	Bunoge	ŋ g e	ŋ g e	3427
+1009	Mombo	ŋ g e	ŋ g e	3427
+1010	Najamba	ŋ g o	ŋ g o	3427
+1011	Tiranige_Diga	g e	- g e	3427
+1012	Jamsay	ɲ uː	ɲ uː	3428
+1013	Togo_Kan	ɲ uː	ɲ uː	3428
+1014	Bankan_Tey	k ɛ r ɛ j	k ɛ r ɛ j	3446
+1015	Ben_Tey	tʃ ɛ r ɛ j	tʃ ɛ r ɛ j	3446
+1016	Nanga	k ɛː r ɛ	k ɛː r ɛ -	3446
+1017	Bunoge	j aː	j aː - -	3465
+1018	Najamba	s aː g e	s aː g e	3465
+1019	Tebul_Ure	sʷ aː	sʷ aː - -	3465
+1020	Yanda_Dom	sʷ aː	sʷ aː - -	3465
+1021	Jamsay	ɛː	ɛː	3467
+1022	Perge_Tegu	ɛː	ɛː	3467
+1023	Tommo_So	iː j ɛ	iː j ɛ	3470
+1024	Yorno_So	j eː	- j eː	3470
+1025	Bunoge	m i n dʒ i l i	m i n dʒ i l i	3483
+1026	Penange	m i n dʒ i l i	m i n dʒ i l i	3483
+1027	Bankan_Tey	o m	o m	3514
+1028	Ben_Tey	o m	o m	3514
+1029	Mombo	sʷ aː	sʷ aː	3518
+1030	Penange	sʷ aː	sʷ aː	3518
+1031	Najamba	o eː	o - eː	3519
+1032	Tebul_Ure	o e	o - e	3519
+1033	Yanda_Dom	o j e	o j e	3519
+1034	Perge_Tegu	o j	o j	3522
+1035	Toro_Tegu	e j̃	e j̃	3522
+1036	Bankan_Tey	m b uː	m b - - uː	3532
+1037	Tebul_Ure	m̩ b u g ɔ	m̩ b u g ɔ	3532
+1038	Ben_Tey	m oː	- m oː	3533
+1039	Tiranige_Diga	ɔ m ɔ	ɔ m ɔ	3533
+1040	Jamsay	k aː	k aː	3535
+1041	Perge_Tegu	k aː	k aː	3535
+1042	Togo_Kan	k ã	k ã	3535
+1043	Toro_Tegu	k a	k a	3535
+1044	Jamsay	b o n	b o n - -	3551
+1045	Tebul_Ure	b o n g o	b o n g o	3551
+1046	Togo_Kan	b ɔ̃	b ɔ̃ - - -	3551
+1047	Tommo_So	b o j	b o - j -	3551
+1048	Yorno_So	b o j	b o - j -	3551
+1049	Najamba	i n	i n	3552
+1050	Yanda_Dom	i n	i n	3552
+1051	Bankan_Tey	w o	w o	3569
+1052	Ben_Tey	w	w -	3569
+1053	Najamba	d u m i	d u m i	3573
+1054	Penange	dʒ a m a	dʒ a m a	3573
+1055	Mombo	p a r u	p a r u	3590
+1056	Penange	p a r o	p a r o	3590
+1057	Najamba	m ɔː	m ɔː	3591
+1058	Tiranige_Diga	m ɔː	m ɔː	3591
+1059	Tebul_Ure	kʷ aː	kʷ aː	3592
+1060	Yorno_So	k u	k u	3592
+1061	Bankan_Tey	ɲ a n	ɲ a n -	3621
+1062	Ben_Tey	ɲ a r̃ u	ɲ a r̃ u	3621
+1063	Jamsay	d aː ɣ a	d aː ɣ a	3622
+1064	Mombo	d oː	d oː - -	3622
+1065	Penange	d o g o	d o g o	3622
+1066	Togo_Kan	d aː g a	d aː g a	3622
+1067	Nanga	d ɛː n d ɛ	d ɛː n d ɛ	3624
+1068	Tebul_Ure	d ɛ n d ɛ	d ɛ n d ɛ	3624
+1069	Yanda_Dom	d e n d aː	d e n d aː	3624
+1070	Perge_Tegu	d ɛː g ɛ	d ɛː g ɛ	3625
+1071	Yorno_So	d i g ɛ	d i g ɛ	3625
+1072	Tommo_So	j a ŋ a	j a ŋ a	3627
+1073	Toro_Tegu	j̃ aː ŋ a	j̃ aː ŋ a	3627
+1074	Bankan_Tey	t eː s u	t eː s u	3637
+1075	Ben_Tey	t eː s i	t eː s i	3637
+1076	Nanga	t eː s iː	t eː s iː	3637
+1077	Bankan_Tey	m	m	3638
+1078	Ben_Tey	m	m	3638
+1079	Jamsay	l aː r u w a	l aː r u w a	3640
+1080	Perge_Tegu	l aː rʷ a	l aː rʷ - - a	3640
+1081	Tebul_Ure	g a r a	g a r - - a	3640
+1082	Toro_Tegu	l aː r a	l aː r - - a	3640
+1083	Bankan_Tey	d i m o	d i m o	3658
+1084	Mombo	d i m o	d i m o	3658
+1085	Tebul_Ure	d i m ɛ	d i m ɛ	3658
+1086	Yanda_Dom	d i m ɛ	d i m ɛ	3658
+1087	Bankan_Tey	m	m	3659
+1088	Ben_Tey	m	m	3659
+1089	Jamsay	ɔ ɣ ɔ	ɔ ɣ ɔ	3663
+1090	Perge_Tegu	ɔ g ɔ	ɔ g ɔ	3663
+1091	Najamba	n o	n o	3665
+1092	Tommo_So	n ɔ	n ɔ	3665
+1093	Najamba	n a l a	n a l a	3666
+1094	Tiranige_Diga	ɔː l a	- ɔː l a	3666
+1095	Tommo_So	ɔ l ɔ	- ɔ l ɔ	3666
+1096	Tebul_Ure	ɲ i	ɲ i	3670
+1097	Toro_Tegu	n i	n i	3670
+1098	Bankan_Tey	tʃ i r̃ e	tʃ i r̃ e	3683
+1099	Ben_Tey	tʃ i r̃ i	tʃ i r̃ i	3683
+1100	Jamsay	tʃ i r̃ e	tʃ i r̃ e	3683
+1101	Tebul_Ure	tʃ i n e	tʃ i n e	3683
+1102	Toro_Tegu	tʃ i r̃ o	tʃ i r̃ o	3683
+1103	Nanga	k i r̃ e	k i r̃ e	3685
+1104	Perge_Tegu	k i r̃ e	k i r̃ e	3685
+1105	Togo_Kan	k i r̃ i	k i r̃ i	3685
+1106	Jamsay	k aː n a	k aː n a	3704
+1107	Togo_Kan	k aː n a	k aː n a	3704
+1108	Yorno_So	k a n aː	k a n aː	3704
+1109	Najamba	s a ŋ	s a ŋ	3706
+1110	Perge_Tegu	n i ŋ	n i ŋ	3706
+1111	Tebul_Ure	n a n	n a n	3706
+1112	Toro_Tegu	n i ŋ	n i ŋ	3706
+1113	Tommo_So	n i m ɛ m	n i m ɛ m	3710
+1114	Yanda_Dom	n i m ɛ m	n i m ɛ m	3710
+1115	Jamsay	w a	w a	3721
+1116	Perge_Tegu	w a	w a	3721
+1117	Bankan_Tey	m	m	3752
+1118	Ben_Tey	m	m	3752
+1119	Bunoge	k ɛ m n ɔ	k ɛ m n ɔ	3754
+1120	Mombo	k aː n u	k aː - n u	3754
+1121	Penange	k aː m n ɔ	k aː m n ɔ	3754
+1122	Bankan_Tey	t u m a	t u m a	3772
+1123	Ben_Tey	t u w̃ ɔ	t u w̃ ɔ	3772
+1124	Nanga	t u m a	t u m a	3772
+1125	Tiranige_Diga	t o m a	t o m a	3772
+1126	Yanda_Dom	t u m a	t u m a	3772
+1127	Mombo	t aː ŋ g u	t aː ŋ g u	3776
+1128	Penange	t aː ŋ g a	t aː ŋ g a	3776
+1129	Bankan_Tey	g a w	g a w	3790
+1130	Nanga	g a	g a -	3790
+1131	Perge_Tegu	g a w	g a w	3790
+1132	Yanda_Dom	g a w	g a w	3790
+1133	Yorno_So	g a w	g a w	3790
+1134	Jamsay	dʒ ɔ w̃ ɔ	dʒ ɔ w̃ ɔ	3792
+1135	Togo_Kan	dʒ ɔ w ɔ	dʒ ɔ w ɔ	3792
+1136	Najamba	g a b u	g a b u	3795
+1137	Tiranige_Diga	g a w	g a w -	3795
+1138	Bankan_Tey	p iː r̃ i	p iː r̃ i	3807
+1139	Mombo	b ãː	b ãː - -	3807
+1140	Nanga	p iː	p iː - -	3807
+1141	Yanda_Dom	p i l	p i l -	3807
+1142	Jamsay	r̃ e	r̃ e	3813
+1143	Nanga	r̃ i	r̃ i	3813
+1144	Perge_Tegu	r e	r e	3813
+1145	Togo_Kan	r̃ i	r̃ i	3813
+1146	Bankan_Tey	n a r̃ i j̃ ɛ	n a r̃ i j̃ ɛ	3839
+1147	Nanga	n a r̃ i j̃ ɛ	n a r̃ i j̃ ɛ	3839
+1148	Bankan_Tey	m	m -	3840
+1149	Ben_Tey	m	m -	3840
+1150	Penange	m ɛ	m ɛ	3840
+1151	Ben_Tey	l aː w a	l aː w a	3841
+1152	Jamsay	l aː w a	l aː w a	3841
+1153	Perge_Tegu	l aː w a	l aː w a	3841
+1154	Ben_Tey	g u	g u	3842
+1155	Perge_Tegu	g u	g u	3842
+1156	Tebul_Ure	a b ɛ	a b - - ɛ	3851
+1157	Tommo_So	a b i j ɛ	a b i j ɛ	3851
+1158	Yanda_Dom	ɔ b i j ɛ	ɔ b i j ɛ	3851
+1159	Yorno_So	a b ɛː	a b - - ɛː	3851
+1160	Tommo_So	n ɛ	- n ɛ	3853
+1161	Yanda_Dom	e n e	e n e	3853
+1162	Jamsay	i n e n	i n e n -	3906
+1163	Nanga	i n e n	i n e n -	3906
+1164	Perge_Tegu	i n e r̃ u	i n e r̃ u	3906
+1165	Penange	n t a	n t a	3908
+1166	Tiranige_Diga	n d aː	n d aː	3908
+1167	Tommo_So	n̩ d ɛ	n̩ d ɛ	3908
+1168	Bankan_Tey	t a n d a	t a n d a	3921
+1169	Ben_Tey	t a l a	t a - l a	3921
+1170	Bankan_Tey	j	j	3922
+1171	Ben_Tey	j	j	3922
+1172	Bunoge	d ɔː b e	d ɔː b e	3923
+1173	Penange	d ɔː w eː	d ɔː w eː	3923
+1174	Jamsay	m a t ĩː	m a t ĩː	3924
+1175	Perge_Tegu	m o t ĩː	m o t ĩː	3924
+1176	Yanda_Dom	k u n j e	k u n j e	3935
+1177	Yorno_So	k u j iː	k u - j iː	3935
+1178	Bankan_Tey	a r i j e	a r i j e	3957
+1179	Najamba	a l i j a	a l i j a	3957
+1180	Tiranige_Diga	a l i j a	a l i j a	3957
+1181	Bankan_Tey	m	m	3958
+1182	Ben_Tey	m	m	3958
+1183	Jamsay	s u r̃ o	- s u r̃ o	3979
+1184	Perge_Tegu	u s u r̃ u	u s u r̃ u	3979
+1185	Bankan_Tey	ɔ r̃ ɔ	ɔ r̃ ɔ	4007
+1186	Ben_Tey	ɔ r̃ ɔ	ɔ r̃ ɔ	4007
+1187	Bunoge	k ɛ	k ɛ - - -	4008
+1188	Mombo	g eː	g eː - - -	4008
+1189	Najamba	k e ŋ g e	k e ŋ g e	4008
+1190	Penange	g e ŋ	g e ŋ - -	4008
+1191	Perge_Tegu	d ɛ̃ː	d ɛ̃ː - -	4011
+1192	Togo_Kan	d e ŋ u	d e ŋ u	4011
+1193	Toro_Tegu	d e ŋ	d e ŋ -	4011
+1194	Yorno_So	d ɛ j̃	d ɛ j̃ -	4011
+1195	Ben_Tey	dʒ u w ɔ	dʒ u w ɔ	4025
+1196	Nanga	dʒ u w a	dʒ u w a	4025
+1197	Tiranige_Diga	j u w a	j u w a	4025
+1198	Togo_Kan	dʒ u w ɔ	dʒ u w ɔ	4025
+1199	Mombo	g i b a	g i b a	4026
+1200	Najamba	g i b a	g i b a	4026
+1201	Bankan_Tey	s a z a	s a - z a	4037
+1202	Ben_Tey	s a n dʒ a	s a n dʒ a	4037
+1203	Tiranige_Diga	s a n dʒ a	s a n dʒ a	4037
+1204	Tommo_So	s a n dʒ a	s a n dʒ a	4037
+1205	Bunoge	k oː g e	k oː g e	4038
+1206	Mombo	k oː g e	k oː g e	4038
+1207	Bankan_Tey	b a s a	b a s a	4052
+1208	Nanga	b a s a	b a s a	4052
+1209	Perge_Tegu	b a s a	b a s a	4052
+1210	Tebul_Ure	b a d a	b a d a	4052
+1211	Togo_Kan	b a dʒ a	b a dʒ a	4052
+1212	Bunoge	g i m b ɛ	g i m b ɛ	4053
+1213	Mombo	g i m b ɛ	g i m b ɛ	4053
+1214	Najamba	dʒ u m b ɛ	dʒ u m b ɛ	4053
+1215	Tiranige_Diga	i m b ɛ	- i m b ɛ	4053
+1216	Tommo_So	b i n dʒ e	b i n dʒ e	4054
+1217	Yorno_So	b i ɲ ɛ	b i ɲ - ɛ	4054
+1218	Bankan_Tey	b o n d u	b o n d u	4099
+1219	Ben_Tey	b o l u	b o - l u	4099
+1220	Nanga	b o n d i	b o n d i	4099
+1221	Mombo	k u m a ŋ g a	k u m a ŋ g a	4102
+1222	Penange	k u m aː ŋ g a	k u m aː ŋ g a	4102
+1223	Bankan_Tey	k e s u	k e s u	4117
+1224	Ben_Tey	tʃ e s u	tʃ e s u	4117
+1225	Nanga	k eː s i	k eː s i	4117
+1226	Bankan_Tey	g i m b e r e	g i m b e r e	4151
+1227	Nanga	g o m b o r o	g o m b o r o	4151
+1228	Ben_Tey	k uː	k uː	4154
+1229	Tebul_Ure	gʷ ãː	gʷ ãː	4154
+1230	Ben_Tey	tʃ i r̃ ɛ j̃	tʃ i - r̃ ɛ j̃	4155
+1231	Jamsay	tʃ i r̃ e	tʃ i - r̃ e -	4155
+1232	Toro_Tegu	dʒ i m r o	dʒ i m r o -	4155
+1233	Jamsay	g ɔ ŋ ɔ	g ɔ ŋ ɔ	4158
+1234	Perge_Tegu	g ɔ w̃ ɔ	g ɔ w̃ ɔ	4158
+1235	Togo_Kan	g ɔ ŋ ɔ	g ɔ ŋ ɔ	4158
+1236	Najamba	p ɛ l ɛ	p ɛ l ɛ	4160
+1237	Tiranige_Diga	ɛː l ɛ	- ɛː l ɛ	4160
+1238	Najamba	ŋ g o	ŋ g o	4161
+1239	Tiranige_Diga	ŋ g e	ŋ g e	4161
+1240	Penange	s ɛ j̃	s ɛ j̃	4162
+1241	Tiranige_Diga	s e	s e -	4162
+1242	Tebul_Ure	tʃ i n aː	tʃ i n aː	4163
+1243	Tommo_So	t a nː aː	t a nː aː	4163
+1244	Yanda_Dom	dʒ e ɲ u	dʒ e ɲ u	4163
+1245	Najamba	ɲ ɛ ŋ g o	ɲ ɛ ŋ g o	4187
+1246	Tebul_Ure	ɲ ɛ ŋ g ɛ	ɲ ɛ ŋ g ɛ	4187
+1247	Najamba	ɔ n d ɔ	- ɔ n d - - ɔ	4205
+1248	Penange	ɔ n d ɔ	- ɔ n d - - ɔ	4205
+1249	Tebul_Ure	g o n d o	g o n d - - o	4205
+1250	Yanda_Dom	g o n d o l o	g o n d o l o	4205
+1251	Bankan_Tey	k uː	k uː	4220
+1252	Jamsay	k ũː	k ũː	4220
+1253	Perge_Tegu	k uː	k uː	4220
+1254	Togo_Kan	k ũ	k ũ	4220
+1255	Toro_Tegu	k u	k u	4220
+1256	Najamba	d e b i	d e b i	4223
+1257	Yanda_Dom	d ɛ b u	d ɛ b u	4223
+1258	Jamsay	b ɔ r ɔ	b ɔ r ɔ	4242
+1259	Togo_Kan	b ɔ r ɔ	b ɔ r ɔ	4242
+1260	Bankan_Tey	k aː s u	k aː s u	4277
+1261	Toro_Tegu	g ãː s u	g ãː s u	4277
+1262	Mombo	j a g a r a	j a g a r a	4280
+1263	Najamba	j a g a dʒ a	j a g a dʒ a	4280
+1264	Tiranige_Diga	j a g a r a	j a g a r a	4280
+1265	Tommo_So	j a g a r u	j a g a r u	4280
+1266	Ben_Tey	j ɔ ɣ ɔ	j ɔ ɣ ɔ	4294
+1267	Nanga	j ɔ g ɔ	j ɔ g ɔ	4294
+1268	Tiranige_Diga	j o	j o - -	4294
+1269	Mombo	d u g u	d u g u	4296
+1270	Penange	d u g u	d u g u	4296
+1271	Tiranige_Diga	d uː r u	d uː r u	4296
+1272	Mombo	r e	r e	4297
+1273	Penange	r e	r e	4297
+1274	Bankan_Tey	m	m -	4314
+1275	Ben_Tey	m	m -	4314
+1276	Togo_Kan	m ɛː	m ɛː	4314
+1277	Bankan_Tey	s u m b a j	s u m b a j	4332
+1278	Ben_Tey	s u m o j	s u m - o j	4332
+1279	Toro_Tegu	s u m e j	s u m - e j	4332
+1280	Bunoge	s oː n dʒ a	s oː - n dʒ a	4335
+1281	Mombo	s o j n d a	s o j n d a	4335
+1282	Penange	s o j n d a	s o j n d a	4335
+1283	Jamsay	s i	s i	4336
+1284	Perge_Tegu	s u	s u	4336
+1285	Yorno_So	s u	s u	4336
+1286	Tebul_Ure	m ɔ	- m ɔ	4340
+1287	Tommo_So	u m ɔ	u m ɔ	4340
+1288	Mombo	d a m i	d a m i	4363
+1289	Najamba	d a m	d a m -	4363
+1290	Penange	d a m	d a m -	4363
+1291	Tiranige_Diga	d a m	d a m -	4363
+1292	Yanda_Dom	d a m	d a m -	4363
+1293	Nanga	t i ŋ i	t i ŋ i	4364
+1294	Togo_Kan	t i ŋ ɛ	t i ŋ ɛ	4364
+1295	Ben_Tey	tʃ ɛː	tʃ ɛː	4380
+1296	Tommo_So	d ɛ	d ɛ	4380
+1297	Jamsay	k i	k i - -	4383
+1298	Nanga	k ɛː	k ɛː - -	4383
+1299	Perge_Tegu	k ɛː	k ɛː - -	4383
+1300	Togo_Kan	k o	k o - -	4383
+1301	Tommo_So	k ɛ b ɛ	k ɛ b ɛ	4383
+1302	Jamsay	k o w	k o w	4384
+1303	Togo_Kan	k oː	k oː -	4384
+1304	Toro_Tegu	k o w	k o w	4384
+1305	Tebul_Ure	tʃ ɛ b d ɛ	tʃ ɛ b d ɛ	4389
+1306	Yanda_Dom	tʃ ɛ b z ɛ	tʃ ɛ b z ɛ	4389
+1307	Toro_Tegu	w ɔ	w ɔ	4409
+1308	Yanda_Dom	w ɔ	w ɔ	4409
+1309	Bankan_Tey	t i j ɛ	t i j ɛ	4421
+1310	Ben_Tey	t i j ɛ	t i j ɛ	4421
+1311	Bunoge	s oː l e	s oː l e	4422
+1312	Mombo	s oː l e	s oː l e	4422
+1313	Bankan_Tey	t i	t i -	4440
+1314	Jamsay	t iː	t iː -	4440
+1315	Perge_Tegu	t iː	t iː -	4440
+1316	Tebul_Ure	t i	t i -	4440
+1317	Toro_Tegu	t i w	t i w	4440
+1318	Ben_Tey	b aː r i	b aː r i	4441
+1319	Jamsay	b aː r a	b aː r a	4441
+1320	Nanga	b aː r i	b aː r i	4441
+1321	Togo_Kan	b aː r i	b aː r i	4441
+1322	Bunoge	t iː w ɛ	t iː w ɛ	4442
+1323	Najamba	t i j ɛ	t i j ɛ	4442
+1324	Tiranige_Diga	t i j ɛ	t i j ɛ	4442
+1325	Tommo_So	t u j o	t u j o	4442
+1326	Yorno_So	t u j	t u j -	4442
+1327	Mombo	ɲ a ŋ g u	ɲ a ŋ g u	4443
+1328	Penange	ɲ a g u	ɲ a - g u	4443
+1329	Mombo	r e	r e	4444
+1330	Penange	r e	r e	4444
+1331	Bankan_Tey	j̃	j̃	4461
+1332	Ben_Tey	j̃	j̃	4461
+1333	Mombo	s ɔː l i	s ɔː l i	4462
+1334	Penange	s ɔː l i	s ɔː l i	4462
+1335	Bankan_Tey	k o	k o	4479
+1336	Bunoge	k eː	k eː	4479
+1337	Nanga	k oː	k oː	4479
+1338	Penange	kʷ eː	kʷ eː	4479
+1339	Tiranige_Diga	k oː	k oː	4479
+1340	Ben_Tey	k u j o	k u j o	4480
+1341	Mombo	k u j e	k u j e	4480
+1342	Togo_Kan	t ũ	- t ũ	4485
+1343	Toro_Tegu	a t u	a t u	4485
+1344	Bankan_Tey	ɛ r u m	ɛ r u m	4498
+1345	Jamsay	e r u	e r u -	4498
+1346	Nanga	ɛ r i	ɛ r i -	4498
+1347	Perge_Tegu	e r u	e r u -	4498
+1348	Bunoge	d ɛ n dʒ i	d ɛ n dʒ i	4501
+1349	Tiranige_Diga	n iː n dʒ i	n iː n dʒ i	4501
+1350	Penange	n s ĩː	n s ĩː	4506
+1351	Yanda_Dom	s ĩː	- s ĩː	4506
+1352	Najamba	p ɛ g ɛ	p ɛ - g ɛ	4522
+1353	Nanga	p ɛ r g ɛ	p ɛ r g ɛ	4522
+1354	Jamsay	b ɛː	b ɛː	4536
+1355	Perge_Tegu	b ɛː	b ɛː	4536
+1356	Togo_Kan	b ɛː	b ɛː	4536
+1357	Tommo_So	b ɔ d ɔ	b ɔ d ɔ	4539
+1358	Toro_Tegu	b ɔ s u	b ɔ s u	4539
+1359	Yorno_So	b ɔ dʒ ɔ	b ɔ dʒ ɔ	4539
+1360	Bunoge	t u m b u	t u m b u	4571
+1361	Tommo_So	d u m b u	d u m b u	4571
+1362	Yanda_Dom	d u m b u	d u m b u	4571
+1363	Mombo	d u ŋ g u	d u ŋ g u - -	4572
+1364	Penange	d u ŋ g u r i	d u ŋ g u r i	4572
+1365	Nanga	d e ŋ i	d e ŋ i	4575
+1366	Tiranige_Diga	d e ŋ i	d e ŋ i	4575
+1367	Ben_Tey	g oi	g oi	4610
+1368	Nanga	g o	g o	4610
+1369	Mombo	nʷ ɛː	nʷ ɛː	4630
+1370	Penange	n ɔː	n ɔː	4630
+1371	Tiranige_Diga	n ɔː	n ɔː	4630
+1372	Yorno_So	n ɛː	n ɛː	4630
+1373	Bankan_Tey	ei	ei	4647
+1374	Yorno_So	ɛː	ɛː	4647
+1375	Ben_Tey	e w	e w	4649
+1376	Nanga	e w	e w	4649
+1377	Jamsay	d i ŋ e	d i ŋ e	4651
+1378	Perge_Tegu	d e n	d e n -	4651
+1379	Togo_Kan	d ɛ ŋ	d ɛ ŋ -	4651
+1380	Tommo_So	d a nː i	d a nː i	4651
+1381	Toro_Tegu	d i ŋ	d i ŋ -	4651
+1382	Najamba	o b i	o b i	4655
+1383	Yanda_Dom	o b i	o b i	4655
+1384	Tebul_Ure	iː	iː	4659
+1385	Togo_Kan	iː	iː	4659
+1386	Bunoge	gʷ i	gʷ i	4695
+1387	Tiranige_Diga	gʷ iː	gʷ iː	4695
+1388	Bankan_Tey	j a r iː	j a r iː	4711
+1389	Ben_Tey	j a r iː	j a r iː	4711
+1390	Jamsay	j a r u	j a r u	4711
+1391	Nanga	j a r i	j a r i	4711
+1392	Perge_Tegu	j a r	j a r -	4711
+1393	Jamsay	m a n a	- m a n a	4713
+1394	Mombo	a m a n a	a m a n a	4713
+1395	Penange	a m a n a	a m a n a	4713
+1396	Mombo	k oː l o	k oː l o	4714
+1397	Penange	k oː l o	k oː l o	4714
+1398	Togo_Kan	a r a	a r a	4720
+1399	Tommo_So	a l a	a l a	4720
+1400	Toro_Tegu	a l	a l -	4720
+1401	Yorno_So	a l	a l -	4720
+1402	Togo_Kan	k a r a	k a r a	4721
+1403	Tommo_So	k a l a	k a l a	4721
+1404	Yanda_Dom	g a l a	g a l a	4721
+1405	Yorno_So	g a l a	g a l a	4721
+1406	Bankan_Tey	m	m	4739
+1407	Ben_Tey	m	m	4739
+1408	Tommo_So	j e	j e	4764
+1409	Yorno_So	j eː	j eː	4764
+1410	Bankan_Tey	s a s i j i	s a s i j i	4778
+1411	Ben_Tey	s a s i r i	s a s i r i	4778
+1412	Nanga	t a s a	t a s - - a	4778
+1413	Perge_Tegu	s a s a	s a s - - a	4778
+1414	Yanda_Dom	s aː z i	s aː z - - i	4778
+1415	Perge_Tegu	r a	r a	4783
+1416	Toro_Tegu	r u	r u	4783
+1417	Ben_Tey	d a w	d a w -	4801
+1418	Perge_Tegu	d a g a	d a g a	4801
+1419	Tommo_So	d a g i	d a g i	4801
+1420	Najamba	p a l ɛː	p a l ɛː	4804
+1421	Yanda_Dom	b e l e	b e l e	4804
+1422	Penange	j e	j e	4807
+1423	Toro_Tegu	j	j -	4807
+1424	Togo_Kan	u dʒ u	u dʒ u	4811
+1425	Yorno_So	u dʒ i	u dʒ i	4811
+1426	Bankan_Tey	k u	k u	4821
+1427	Ben_Tey	k u	k u	4821
+1428	Jamsay	k i	k i	4821
+1429	Perge_Tegu	k u	k u	4821
+1430	Togo_Kan	k u	k u	4821
+1431	Bankan_Tey	o r u	o r u -	4843
+1432	Ben_Tey	o r u	o r u -	4843
+1433	Nanga	o r i	o r i -	4843
+1434	Perge_Tegu	o r u m	o r u m	4843
+1435	Bankan_Tey	m	m	4844
+1436	Ben_Tey	m	m	4844
+1437	Bunoge	b o r a lː a	b o r a lː a	4845
+1438	Tiranige_Diga	b u r a d a	b u r a d a	4845
+1439	Mombo	ɔ n ɔ n ɔ	ɔ - - n ɔ n ɔ	4848
+1440	Najamba	o n a n ɛː	o - - n a n ɛː	4848
+1441	Penange	ɔ n a n a	ɔ - - n a n a	4848
+1442	Togo_Kan	ɔ r̃ ɔ n ɔ n ɔ	ɔ r̃ ɔ n ɔ n ɔ	4848
+1443	Tebul_Ure	ɔ r̃ ɔ n ɛː	ɔ r̃ ɔ n ɛː	4850
+1444	Tommo_So	ɔ r ɔ j	ɔ r ɔ j -	4850
+1445	Yorno_So	ɔ r ɔ j	ɔ r ɔ j -	4850
+1446	Bankan_Tey	a w a	a w a	4864
+1447	Ben_Tey	a w a	a w a	4864
+1448	Bankan_Tey	m	m	4865
+1449	Ben_Tey	m	m	4865
+1450	Jamsay	l uː r o	l uː r o	4867
+1451	Togo_Kan	l uː r o	l uː r o	4867
+1452	Mombo	n o m o n dʒ i	n o m o n dʒ i	4868
+1453	Tiranige_Diga	n o m o n	n o m o n - -	4868
+1454	Nanga	b u m b a	b u m b a	4872
+1455	Perge_Tegu	b u m b ɔ	b u m b ɔ	4872
+1456	Toro_Tegu	ɛ r a	ɛ r a	4893
+1457	Yanda_Dom	ɛ r̃ ɛ	ɛ r̃ ɛ	4893
+1458	Mombo	n ɔː	n ɔː	4905
+1459	Penange	n ɔː	n ɔː	4905
+1460	Tiranige_Diga	nʷ ɛː	nʷ ɛː	4905
+1461	Yorno_So	n ɛː	n ɛː	4905
+1462	Jamsay	s a r u	s a r u	4922
+1463	Toro_Tegu	s a r u	s a r u	4922
+1464	Yorno_So	s a r u	s a r u	4922
+1465	Tebul_Ure	w a r a	w a r a	4925
+1466	Yanda_Dom	w a d a	w a d a	4925
+1467	Bankan_Tey	ɔ j̃ ɔ	ɔ j̃ ɔ	4941
+1468	Ben_Tey	ɔ j̃ ɔ	ɔ j̃ ɔ	4941
+1469	Najamba	ɔ j ɛ	ɔ j ɛ	4941
+1470	Nanga	ɔ j̃ ɔ	ɔ j̃ ɔ	4941
+1471	Yanda_Dom	ɔ j̃ ɔ	ɔ j̃ ɔ	4941
+1472	Bunoge	k a n i	k a n i	4943
+1473	Tiranige_Diga	k ɔː n i	k ɔː n i	4943
+1474	Tommo_So	k ɛ ɲː ɛ	k ɛ ɲː ɛ	4943
+1475	Tebul_Ure	ɔ j̃	ɔ j̃	4947
+1476	Toro_Tegu	ɔ j̃	ɔ j̃	4947
+1477	Bankan_Tey	m	m	4961
+1478	Ben_Tey	m	m	4961
+1479	Ben_Tey	s u s u	s u - s u	4981
+1480	Yanda_Dom	s u m z u	s u m z u	4981
+1481	Ben_Tey	n iː	n iː	4982
+1482	Perge_Tegu	n iː	n iː	4982
+1483	Bunoge	s ɛː	s ɛː	4985
+1484	Mombo	sʷ ɛː	sʷ ɛː	4985
+1485	Najamba	sʷ ɛ	sʷ ɛ	4985
+1486	Penange	sʷ ɛː	sʷ ɛː	4985
+1487	Jamsay	j ɔ r ɔː n iː	j ɔ r ɔː n iː	4986
+1488	Perge_Tegu	j ɔ r ɔ	j ɔ r ɔ - -	4986
+1489	Tebul_Ure	j o	j o - - - -	4986
+1490	Tommo_So	j u l ɔ	j u l ɔ - -	4986
+1491	Bankan_Tey	d a j̃	d a j̃	5017
+1492	Najamba	d a j	d a j	5017
+1493	Mombo	ɔ n d ɔ	ɔ n d ɔ	5018
+1494	Penange	ɔ n d ɔ	ɔ n d ɔ	5018
+1495	Nanga	ɛː	ɛː	5020
+1496	Perge_Tegu	ɛ	ɛ	5020
+1497	Tiranige_Diga	t eː n i	t eː n i	5023
+1498	Tommo_So	t e nː e	t e nː e	5023
+1499	Yorno_So	t e n ɛ	t e n ɛ	5023
+1500	Bankan_Tey	k ɔː r ɔ j	k ɔː r ɔ j	5035
+1501	Tiranige_Diga	k ɔ l ɔ w̃	k ɔ l ɔ w̃	5035
+1502	Ben_Tey	t o r o	t o r o	5036
+1503	Jamsay	t o r o	t o r o	5036
+1504	Perge_Tegu	t o r o	t o r o	5036
+1505	Togo_Kan	t o r o	t o r o	5036
+1506	Bunoge	g u l ɛ	g u l ɛ -	5038
+1507	Mombo	k ɔ l ɛ	k ɔ l ɛ -	5038
+1508	Nanga	k ɔ r ɔ	k ɔ r ɔ -	5038
+1509	Penange	g ɔ l ɔ	g ɔ l ɔ -	5038
+1510	Tiranige_Diga	k ɔ l ɔ ŋ	k ɔ l ɔ ŋ	5038
+1511	Tebul_Ure	t o n d oː	t o n d - - oː	5043
+1512	Tommo_So	t o n d o l o	t o n d o l o	5043
+1513	Yanda_Dom	t o n d o l o	t o n d o l o	5043
+1514	Yorno_So	t o n o l o	t o n - o l o	5043
+1515	Tommo_So	y	y	5044
+1516	Yorno_So	y	y	5044
+1517	Bunoge	k a m g a	k a m g a	5060
+1518	Tiranige_Diga	k a m	k a m - -	5060
+1519	Bankan_Tey	p i r e	p i r e -	5078
+1520	Tebul_Ure	p i r i m	p i r i m	5078
+1521	Togo_Kan	p u r o	p u r o -	5078
+1522	Tommo_So	b o r o	b o r o -	5078
+1523	Bunoge	p i n i	p i n - i	5082
+1524	Mombo	p i n d i	p i n d i	5082
+1525	Tiranige_Diga	p i dʒ i	p i - dʒ i	5082
+1526	Toro_Tegu	b e t e	b e t e -	5088
+1527	Yanda_Dom	p i d i m	p i d i m	5088
+1528	Bankan_Tey	b ɛ n d i	b ɛ n d i	5106
+1529	Penange	b u n d e	b u n d e	5106
+1530	Tommo_So	b ɛ n d ɛ	b ɛ n d ɛ	5106
+1531	Jamsay	l a ɣ a	l a ɣ a	5109
+1532	Perge_Tegu	l a g a	l a g a	5109
+1533	Togo_Kan	l a g a	l a g a	5109
+1534	Yorno_So	l a g a	l a g a	5109
+1535	Bankan_Tey	ɔ z i	ɔ z i	5124
+1536	Toro_Tegu	ɔ̃ s u	ɔ̃ s u	5124
+1537	Bankan_Tey	u s u	u s u	5141
+1538	Ben_Tey	u s u	u s u	5141
+1539	Nanga	u s i	u s i	5141
+1540	Jamsay	n i	n i	5143
+1541	Perge_Tegu	n i	n i	5143
+1542	Togo_Kan	n u	n u	5143
+1543	Jamsay	n iː	n iː	5144
+1544	Perge_Tegu	n iː	n iː	5144
+1545	Najamba	u dʒ u ŋ g o	u dʒ u ŋ g o	5146
+1546	Tebul_Ure	u d u g o	u d u - g o	5146
+1547	Tommo_So	n a m	n a m	5151
+1548	Yorno_So	n a m	n a m	5151
+1549	Bankan_Tey	m	m	5198
+1550	Ben_Tey	m	m	5198
+1551	Bunoge	d e n dʒ i	d e n dʒ i	5199
+1552	Tiranige_Diga	n iː n dʒ i	n iː n dʒ i	5199
+1553	Bankan_Tey	k a ŋ	k a ŋ	5219
+1554	Penange	k a n	k a n	5219
+1555	Tiranige_Diga	k a n	k a n	5219
+1556	Jamsay	j aː	j aː -	5226
+1557	Tommo_So	j a a	j a a	5226
+1558	Mombo	b u n dʒ õ	b u n dʒ õ	5228
+1559	Najamba	b a n d i	b a n d i	5228
+1560	Nanga	b ɛ n d i	b ɛ n d i	5228
+1561	Perge_Tegu	b ɛ n	b ɛ n - -	5228
+1562	Togo_Kan	b ɛ n	b ɛ n - -	5228
+1563	Mombo	a n d e	- a n d e	5229
+1564	Najamba	b a n d e	b a n d e	5229
+1565	Tebul_Ure	i n dʒ e	- i n dʒ e	5229
+1566	Yanda_Dom	i n dʒ u	- i n dʒ u	5229
+1567	Yorno_So	b a n	b a n - -	5229
+1568	Penange	ɲ iː n i	ɲ iː n i	5231
+1569	Tiranige_Diga	j iː n i	j iː n i	5231
+1570	Perge_Tegu	b ɛ n ɛ	b ɛ n ɛ	5232
+1571	Togo_Kan	b ɛ n ɛ	b ɛ n ɛ	5232
+1572	Yorno_So	b o n iː	b o n iː	5232
+1573	Tebul_Ure	m u g o	m u g o	5233
+1574	Tommo_So	m u g o	m u g o	5233
+1575	Toro_Tegu	m u g u	m u g u	5233
+1576	Yanda_Dom	b u g o	b u g o	5233
+1577	Bankan_Tey	t e	t e - -	5272
+1578	Ben_Tey	t e g e	t e g e	5272
+1579	Jamsay	t e g u	t e g u	5272
+1580	Perge_Tegu	t e g u	t e g u	5272
+1581	Toro_Tegu	t e g u	t e g u	5272
+1582	Najamba	d a m	d a m -	5277
+1583	Tiranige_Diga	d a m u	d a m u	5277
+1584	Yanda_Dom	d a m	d a m -	5277
+1585	Nanga	t i ŋ a	t i ŋ a	5278
+1586	Togo_Kan	t i ŋ ɛ	t i ŋ ɛ	5278
+1587	Nanga	t i ŋ i	t i ŋ i	5279
+1588	Togo_Kan	t i ŋ ɛ	t i ŋ ɛ	5279
+1589	Tommo_So	s ɔː	s ɔː	5286
+1590	Yorno_So	s ɔː	s ɔː	5286
+1591	Tommo_So	s ɔː	s ɔː	5287
+1592	Yorno_So	s ɔː	s ɔː	5287
+1593	Najamba	p i j ɛ l i	p i j ɛ l i	5303
+1594	Tiranige_Diga	p i j ɔ l u	p i j ɔ l u	5303
+1595	Yanda_Dom	p i j ɛ l	p i j ɛ l -	5303
+1596	Ben_Tey	t oː s u	t oː s u	5319
+1597	Nanga	t oː s i	t oː s i	5319
+1598	Perge_Tegu	t oː s u	t oː s u	5319
+1599	Togo_Kan	t o dʒ u	t o dʒ u	5319
+1600	Toro_Tegu	t õː s u	t õː s u	5319
+1601	Bunoge	p ɔ n d ɛ	p ɔ n d ɛ	5320
+1602	Mombo	p o dʒ e	p o - dʒ e	5320
+1603	Penange	p ɔ n t ɛ	p ɔ n t ɛ	5320
+1604	Bunoge	s e	s e - -	5321
+1605	Mombo	s iː	s iː - -	5321
+1606	Tiranige_Diga	s e g e	s e g e	5321
+1607	Bankan_Tey	k ɔ n	k ɔ n - -	5357
+1608	Ben_Tey	k ɔ̃ː	k ɔ̃ː - - -	5357
+1609	Najamba	k o ŋ g o	k o ŋ g o	5357
+1610	Nanga	k ɔ	k ɔ - - -	5357
+1611	Bunoge	w ɛː	w ɛː	5358
+1612	Tiranige_Diga	w ɛː	w ɛː	5358
+1613	Jamsay	tʃ ɛː	tʃ ɛː	5359
+1614	Tebul_Ure	tʃ ɛ	tʃ ɛ	5359
+1615	Mombo	j ɛː	j ɛː	5360
+1616	Penange	j ɛː	j ɛː	5360
+1617	Perge_Tegu	k iː	k iː - -	5361
+1618	Tommo_So	k i d ɛ	k i d ɛ	5361
+1619	Yanda_Dom	k i	k i - -	5361
+1620	Yorno_So	k i dʒ ɛ	k i dʒ ɛ	5361
+1621	Ben_Tey	m aː n i	m aː n - - i	5375
+1622	Jamsay	m aː n a	m aː n - - a	5375
+1623	Perge_Tegu	m aː l a	m aː l - - a	5375
+1624	Togo_Kan	m a n u g u	m a n u g u	5375
+1625	Yanda_Dom	m aː n ɛ	m aː n - - ɛ	5375
+1626	Najamba	k a dʒ a b i	k a dʒ a b i	5380
+1627	Tommo_So	a d u b a	- a d u b a	5380
+1628	Nanga	m aː n d i	m aː n d i	5381
+1629	Tebul_Ure	m aː n d i	m aː n d i	5381
+1630	Bankan_Tey	d o r o	d o r o	5390
+1631	Jamsay	d u d oː	d u d oː	5390
+1632	Nanga	d u r o	d u r o	5390
+1633	Perge_Tegu	d o d oː	d o d oː	5390
+1634	Bunoge	dʒ u	dʒ u -	5391
+1635	Mombo	dʒ õː	dʒ õː -	5391
+1636	Najamba	d iː	d iː -	5391
+1637	Penange	dʒ o m	dʒ o m	5391
+1638	Tebul_Ure	d oː	d oː -	5391
+1639	Togo_Kan	dʒ i j e	dʒ i j e	5393
+1640	Tommo_So	g i j e	g i j e	5393
+1641	Yanda_Dom	z i j e	z i j e	5393
+1642	Bankan_Tey	ɔ s ɔ	ɔ s ɔ	5423
+1643	Ben_Tey	ɔ s ɔ	ɔ s ɔ	5423
+1644	Tebul_Ure	ɔ d ɔ	ɔ d ɔ	5423
+1645	Tommo_So	ɔ d ɔ	ɔ d ɔ	5423
+1646	Toro_Tegu	oː s u	oː s u	5423
+1647	Bankan_Tey	k ɔ r ɔ	k ɔ r ɔ	5424
+1648	Ben_Tey	g ɔ r ɔ	g ɔ r ɔ	5424
+1649	Nanga	k ɔ r ɔ	k ɔ r ɔ	5424
+1650	Tiranige_Diga	ɔ l ɔ	- ɔ l ɔ	5424
+1651	Tommo_So	k ɔ l ɔ	k ɔ l ɔ	5424
+1652	Jamsay	j ɔ ɣ ɔ	j ɔ ɣ ɔ	5425
+1653	Perge_Tegu	j ɔ g ɔ	j ɔ g ɔ	5425
+1654	Yanda_Dom	j ɔ g ɔ	j ɔ g ɔ	5425
+1655	Yorno_So	j ɔ g ɔ	j ɔ g ɔ	5425
+1656	Ben_Tey	p ɔ t ɔ	p ɔ t ɔ	5448
+1657	Perge_Tegu	p ɔ t ɔ	p ɔ t ɔ	5448
+1658	Tiranige_Diga	p ɔ r ɔ	p ɔ r ɔ	5448
+1659	Jamsay	k a m a	k a m a	5450
+1660	Togo_Kan	k a m a	k a m a	5450
+1661	Yorno_So	k a m a	k a m a	5450
+1662	Bankan_Tey	m ɔː	m ɔː	5464
+1663	Nanga	m ɔː	m ɔː	5464
+1664	Ben_Tey	m uː j̃ i	m uː j̃ i	5465
+1665	Jamsay	m u ŋ o	m u ŋ o	5465
+1666	Perge_Tegu	m u j̃ o	m u j̃ o	5465
+1667	Togo_Kan	m u ŋ o	m u ŋ o	5465
+1668	Yorno_So	m u j̃	m u j̃ -	5465
+1669	Mombo	d u g ɛ	d u g ɛ	5467
+1670	Penange	d u g ɔ	d u g ɔ	5467
+1671	Tebul_Ure	d i g ɛ	d i g ɛ	5467
+1672	Toro_Tegu	d i g u	d i g u	5467
+1673	Tommo_So	d i n ɛ	d i n ɛ	5468
+1674	Yanda_Dom	d i ŋ ɛ	d i ŋ ɛ	5468
+1675	Bankan_Tey	ɛ j̃	ɛ j̃	5479
+1676	Ben_Tey	ɛ j̃	ɛ j̃	5479
+1677	Tebul_Ure	ɛ j̃	ɛ j̃	5479
+1678	Bunoge	ʔ o g a	ʔ o g a	5480
+1679	Penange	o g a	- o g a	5480
+1680	Tiranige_Diga	aː g a	- aː g a	5480
+1681	Jamsay	j o g o	j o g o	5481
+1682	Mombo	ɔ g ɔ	- ɔ g ɔ	5481
+1683	Togo_Kan	j o g o	j o g o	5481
+1684	Tommo_So	j o g o	j o g o	5481
+1685	Yorno_So	j o g o	j o g o	5481
+1686	Najamba	ɛ ŋ g u	ɛ ŋ g u	5482
+1687	Perge_Tegu	u ŋ g u	u ŋ g u	5482
+1688	Bankan_Tey	k a m b o	k a m b o	5496
+1689	Toro_Tegu	k a m	k a m - -	5496
+1690	Ben_Tey	ɛ w	ɛ w	5497
+1691	Jamsay	ɛ w	ɛ w	5497
+1692	Perge_Tegu	ɛ w	ɛ w	5497
+1693	Yanda_Dom	ɛ w	ɛ w	5497
+1694	Yorno_So	ɛ w	ɛ w	5497
+1695	Bunoge	k a b a l a	k a b a l a	5498
+1696	Mombo	k a b a	k a b - - a	5498
+1697	Penange	k a b a l a	k a b a l a	5498
+1698	Perge_Tegu	l ɛ l ɛ	l ɛ l ɛ	5516
+1699	Toro_Tegu	l e l a	l e l a	5516
+1700	Yanda_Dom	i n	i n	5535
+1701	Yorno_So	ɛ n	ɛ n	5535
+1702	Bunoge	n a r e	n a r e	5550
+1703	Penange	n a r e	n a r e	5550
+1704	Najamba	d o ŋ g i	d o ŋ g i	5551
+1705	Toro_Tegu	d o g u	d o - g u	5551
+1706	Ben_Tey	g u s u	g u s u -	5568
+1707	Toro_Tegu	k u s e j	k u s e j	5568
+1708	Bunoge	p aː n d e	p aː n d e	5569
+1709	Najamba	p i n d iː	p i n d iː	5569
+1710	Penange	p aː n d o	p aː n d o	5569
+1711	Tiranige_Diga	p aː n d e	p aː n d e	5569
+1712	Jamsay	dʒ ɛ n ɛ ŋ ɛ	dʒ ɛ n ɛ ŋ - ɛ	5570
+1713	Perge_Tegu	dʒ ɛ n i ŋ g ɛ	dʒ ɛ n i ŋ g ɛ	5570
+1714	Tebul_Ure	t a m b a r a	t a m b a r a	5573
+1715	Tommo_So	t a m b a l a	t a m b a l a	5573
+1716	Togo_Kan	p ɛ r̃ ɛ	p ɛ r̃ ɛ	5574
+1717	Yorno_So	p ɛ r̃ ɛ	p ɛ r̃ ɛ	5574
+1718	Mombo	p u r u g e	p u r u g e	5587
+1719	Penange	p u r g u	p u r - g u	5587
+1720	Bunoge	t i l i ŋ g e	t i - l i ŋ g e	5606
+1721	Mombo	t i n i ŋ g ɔ	t i n - i ŋ g ɔ	5606
+1722	Penange	t i n d i g ɔ	t i n d i - g ɔ	5606
+1723	Tiranige_Diga	t i l ŋ g ɔ	t i - l - ŋ g ɔ	5606
+1724	Mombo	p ɛː n ɛː ŋ g a	p ɛː n ɛː ŋ g a	5624
+1725	Tiranige_Diga	p ɛ n ɛ ŋ g a	p ɛ n ɛ ŋ g a	5624
+1726	Tommo_So	p ɛː n eː	p ɛː n eː	5626
+1727	Yanda_Dom	p ɔː n ɔː	p ɔː n ɔː	5626
+1728	Bunoge	d eː g a	d eː - g a	5640
+1729	Mombo	n ɛː ŋ g a	n ɛː ŋ g a	5640
+1730	Penange	n e g a	n e - g a	5640
+1731	Tiranige_Diga	n iː ŋ g a	n iː ŋ g a	5640
+1732	Jamsay	l ɛ j	l ɛ j	5641
+1733	Perge_Tegu	l e j	l e j	5641
+1734	Togo_Kan	l ɔ j	l ɔ j	5641
+1735	Toro_Tegu	l e j	l e j	5641
+1736	Yorno_So	l ɛ j	l ɛ j	5641
+1737	Tommo_So	n eː	n eː	5645
+1738	Yanda_Dom	n ɔː	n ɔː	5645
+1739	Bankan_Tey	ɔ z uː	ɔ - z uː	5655
+1740	Ben_Tey	o m dʒ u	o m dʒ u	5655
+1741	Yanda_Dom	o m z u	o m z u	5655
+1742	Jamsay	s u r̃ ɔ	- s u r̃ ɔ	5657
+1743	Perge_Tegu	u s u r̃ u	u s u r̃ u	5657
+1744	Nanga	k ɛ n dʒ i	k ɛ n dʒ i	5675
+1745	Tebul_Ure	ɛ n d ɛ	- ɛ n d ɛ	5675
+1746	Tommo_So	b o n d o	b o n d o	5678
+1747	Yorno_So	b o n ɔ	b o n - ɔ	5678
+1748	Bankan_Tey	i s oː	i s oː	5690
+1749	Ben_Tey	i s eː	i s eː	5690
+1750	Nanga	i s e	i s e	5690
+1751	Jamsay	a n a	a n a	5692
+1752	Perge_Tegu	a l a	a l a	5692
+1753	Togo_Kan	a n a	a n a	5692
+1754	Toro_Tegu	a l a	a l a	5692
+1755	Yorno_So	a n a	a n a	5692
+1756	Mombo	d u g u	d u g u	5693
+1757	Penange	d u g u	d u g u	5693
+1758	Tebul_Ure	d a m b a	d a m b a	5695
+1759	Tommo_So	d a mː a	d a mː - a	5695
+1760	Yanda_Dom	d a m a	d a m - a	5695
+1761	Bankan_Tey	t oː	- t oː	5707
+1762	Nanga	n̩ d o	n̩ d o	5707
+1763	Ben_Tey	u r o	u r o	5708
+1764	Tebul_Ure	u l o	u l o	5708
+1765	Toro_Tegu	i l o	i l o	5708
+1766	Bunoge	p i ŋ g i	p i ŋ g i	5710
+1767	Tiranige_Diga	p i g i	p i - g i	5710
+1768	Mombo	t u n d u	t u n d u	5712
+1769	Nanga	t u n d i	t u n d i	5712
+1770	Perge_Tegu	d iː n dʒ i	d iː n dʒ i	5712
+1771	Penange	k ɛ r ɔ	k ɛ r ɔ	5715
+1772	Perge_Tegu	i r e	- i r e	5715
+1773	Togo_Kan	g i r̃ i	g i r̃ i	5715
+1774	Tommo_So	g i n ɛ	g i n ɛ	5715
+1775	Yorno_So	g ɛ r̃ ɛ	g ɛ r̃ ɛ	5715
+1776	Mombo	m iː	m iː	5735
+1777	Penange	m iː	m iː	5735
+1778	Tiranige_Diga	m iː	m iː	5735
+1779	Tebul_Ure	i n dʒ e	i n dʒ e	5738
+1780	Yanda_Dom	i n dʒ u	i n dʒ u	5738
+1781	Togo_Kan	d iː	d iː	5739
+1782	Tommo_So	d iː	d iː	5739
+1783	Yorno_So	d iː	d iː	5739
+1784	Bankan_Tey	z uː	z uː - -	5769
+1785	Tebul_Ure	z u g o	z u g o	5769
+1786	Yanda_Dom	z u w o	z u w o	5769
+1787	Bankan_Tey	ɔ r u	ɔ r u	5790
+1788	Ben_Tey	ɔ r u	ɔ r u	5790
+1789	Perge_Tegu	ɔ r u	ɔ r u	5790
+1790	Togo_Kan	ɔ r u	ɔ r u	5790
+1791	Jamsay	t ɛ m	t ɛ m	5792
+1792	Tommo_So	d ɛ	d ɛ -	5792
+1793	Mombo	ɛ m b ɛ	- ɛ m b ɛ -	5793
+1794	Najamba	t e m b oː	t e m b oː -	5793
+1795	Nanga	t ɛ m b i j	t ɛ m b i j	5793
+1796	Penange	ɛ m b ɛ	- ɛ m b ɛ -	5793
+1797	Tiranige_Diga	s o m b e	s o m b e -	5793
+1798	Nanga	j ɛ	j ɛ	5794
+1799	Tommo_So	j aː	j aː	5794
+1800	Yanda_Dom	ɔ l	ɔ l	5798
+1801	Yorno_So	ɔ l	ɔ l	5798
+1802	Jamsay	ɲ ɛ	ɲ ɛ	5831
+1803	Togo_Kan	ɲ ɛ	ɲ ɛ	5831
+1804	Bankan_Tey	o s o s oː	o s o s oː	5846
+1805	Ben_Tey	oː s o	oː s - - o	5846
+1806	Jamsay	oː ɲ o	oː ɲ - o	5847
+1807	Perge_Tegu	oː n dʒ o	oː n dʒ o	5847
+1808	Togo_Kan	oː ɲ o	oː ɲ - o	5847
+1809	Yorno_So	o ɲ ɔ	o ɲ - ɔ	5847
+1810	Mombo	j a l e	j a l e	5848
+1811	Penange	j a l e	j a l e	5848
+1812	Ben_Tey	g a m dʒ a	g a m dʒ a	5864
+1813	Jamsay	g a m ɲ u	g a m ɲ u	5864
+1814	Perge_Tegu	g a m dʒ a	g a m dʒ a	5864
+1815	Bunoge	g u b a	g u b a	5865
+1816	Penange	g u b a	g u b a	5865
+1817	Bunoge	j ɔ	j ɔ	5888
+1818	Mombo	j ɔː	j ɔː	5888
+1819	Najamba	j ɛː	j ɛː	5888
+1820	Penange	j ɔ̀:	j ɔ̀:	5888
+1821	Yanda_Dom	j ɛ	j ɛ	5888
+1822	Jamsay	ɲ ɛ n	ɲ ɛ n	5889
+1823	Nanga	ŋ	ŋ - -	5889
+1824	Togo_Kan	ɲ ɛ	ɲ ɛ -	5889
+1825	Bunoge	t eː ŋ g e	t eː ŋ g e	5906
+1826	Najamba	t eː ŋ g o	t eː ŋ g o	5906
+1827	Penange	t eː ŋ g e	t eː ŋ g e	5906
+1828	Tiranige_Diga	t eː ŋ g e	t eː ŋ g e	5906
+1829	Bunoge	w a l e	w a l e	5923
+1830	Mombo	w a l e	w a l e	5923
+1831	Tiranige_Diga	w a l e	w a l e	5923
+1832	Jamsay	ɛː r u	ɛː r u	5939
+1833	Nanga	ɛː r i	ɛː r i	5939
+1834	Perge_Tegu	ɛː r u	ɛː r u	5939
+1835	Togo_Kan	a d u r̃ u	a - d u r̃ u	5940
+1836	Yorno_So	a n d u r̃ ɔ	a n d u r̃ ɔ	5940
+1837	Bankan_Tey	j a	j a	5955
+1838	Tebul_Ure	j aː	j aː	5955
+1839	Toro_Tegu	j̃ a	j̃ a	5955
+1840	Bankan_Tey	p e m b i	p e m b i	5956
+1841	Nanga	p e m b i	p e m b i	5956
+1842	Mombo	g i b i	g i b i	5961
+1843	Najamba	g i b u	g i b u	5961
+1844	Penange	i b i	- i b i	5961
+1845	Nanga	j u r	j u r	5962
+1846	Perge_Tegu	j u r	j u r	5962
+1847	Tebul_Ure	z i b e	z i b e	5963
+1848	Tommo_So	dʒ i b u	dʒ i b u	5963
+1849	Yanda_Dom	z i b e	z i b e	5963
+1850	Yorno_So	dʒ i b u	dʒ i b u	5963
+1851	Yanda_Dom	s ɔ ŋ	s ɔ ŋ	5969
+1852	Yorno_So	s ɔ j	s ɔ j	5969
+1853	Bunoge	w a j a	w a j a	5983
+1854	Mombo	w a j a	w a j a	5983
+1855	Penange	w a j a	w a j a	5983
+1856	Bankan_Tey	n ɔ r̃ ɔ	n ɔ r̃ ɔ -	6005
+1857	Ben_Tey	n ɔ r̃ ɔ j̃	n ɔ r̃ ɔ j̃	6005
+1858	Bunoge	p u n a	p u n a	6007
+1859	Mombo	p u n a	p u n a	6007
+1860	Penange	p u n a	p u n a	6007
+1861	Tiranige_Diga	p u n a	p u n a	6007
+1862	Yanda_Dom	p u r̃ a	p u r̃ a	6007
+1863	Jamsay	j ɔ r ɔ	j ɔ r ɔ	6008
+1864	Togo_Kan	j ɔ r ɔ	j ɔ r ɔ	6008
+1865	Tommo_So	ɔː l ɔ	- ɔː l ɔ	6008
+1866	Yorno_So	j u l ɔ	j u l ɔ	6008

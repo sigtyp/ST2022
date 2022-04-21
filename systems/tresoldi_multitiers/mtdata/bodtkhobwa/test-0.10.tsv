@@ -1,0 +1,5889 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	Duhumbi	g a	g a	1-1
+2	Jerigaon	g uː	g uː	1-1
+3	Khispi	g a	g a	1-1
+4	Khoina	g uː	g uː	1-1
+5	Khoitam	g uː	g uː	1-1
+6	Rahung	g uː	g uː	1-1
+7	Rupa	g uː	g uː	1-1
+8	Shergaon	g uː	g uː	1-1
+9	Duhumbi	g a	g a	1-2
+10	Jerigaon	g uː	g uː	1-2
+11	Khispi	g a	g a	1-2
+12	Khoina	g uː	g uː	1-2
+13	Khoitam	g uː	g uː	1-2
+14	Rahung	g uː	g uː	1-2
+15	Rupa	g uː	g uː	1-2
+16	Shergaon	g uː	g uː	1-2
+17	Duhumbi	g a	g a	1-3
+18	Jerigaon	g uː	g uː	1-3
+19	Khispi	g a	g a	1-3
+20	Khoina	g uː	g uː	1-3
+21	Khoitam	g uː	g uː	1-3
+22	Rahung	g uː	g uː	1-3
+23	Rupa	g uː	g uː	1-3
+24	Shergaon	g uː	g uː	1-3
+25	Duhumbi	g a	g a	1-4
+26	Jerigaon	g uː	g uː	1-4
+27	Khispi	g a	g a	1-4
+28	Khoina	g uː	g uː	1-4
+29	Khoitam	g uː	g uː	1-4
+30	Rahung	g uː	g uː	1-4
+31	Rupa	g uː	g uː	1-4
+32	Shergaon	g uː	g uː	1-4
+33	Duhumbi	g a	g a	1-5
+34	Jerigaon	g uː	g uː	1-5
+35	Khispi	g a	g a	1-5
+36	Khoina	g uː	g uː	1-5
+37	Khoitam	g uː	g uː	1-5
+38	Rahung	g uː	g uː	1-5
+39	Rupa	g uː	g uː	1-5
+40	Shergaon	g uː	g uː	1-5
+41	Duhumbi	g a	g a	1-6
+42	Jerigaon	g uː	g uː	1-6
+43	Khispi	g a	g a	1-6
+44	Khoina	g uː	g uː	1-6
+45	Khoitam	g uː	g uː	1-6
+46	Rahung	g uː	g uː	1-6
+47	Rupa	g uː	g uː	1-6
+48	Shergaon	g uː	g uː	1-6
+49	Duhumbi	g a	g a	1-7
+50	Jerigaon	g uː	g uː	1-7
+51	Khispi	g a	g a	1-7
+52	Khoina	g uː	g uː	1-7
+53	Khoitam	g uː	g uː	1-7
+54	Rahung	g uː	g uː	1-7
+55	Rupa	g uː	g uː	1-7
+56	Shergaon	g uː	g uː	1-7
+57	Duhumbi	g a	g a	1-8
+58	Jerigaon	g uː	g uː	1-8
+59	Khispi	g a	g a	1-8
+60	Khoina	g uː	g uː	1-8
+61	Khoitam	g uː	g uː	1-8
+62	Rahung	g uː	g uː	1-8
+63	Rupa	g uː	g uː	1-8
+64	Shergaon	g uː	g uː	1-8
+65	Duhumbi	tʰ eˀ	tʰ eˀ -	4-1
+66	Jerigaon	tʰ i k	tʰ i k	4-1
+67	Khispi	tʰ e	tʰ e -	4-1
+68	Khoina	tʰ i k	tʰ i k	4-1
+69	Khoitam	tʰ ɛ k	tʰ ɛ k	4-1
+70	Rahung	tʰ ɛ k	tʰ ɛ k	4-1
+71	Rupa	tʰ i k	tʰ i k	4-1
+72	Shergaon	tʰ i k	tʰ i k	4-1
+73	Duhumbi	tʰ eˀ	tʰ eˀ -	4-2
+74	Jerigaon	tʰ i k	tʰ i k	4-2
+75	Khispi	tʰ e	tʰ e -	4-2
+76	Khoina	tʰ i k	tʰ i k	4-2
+77	Khoitam	tʰ ɛ k	tʰ ɛ k	4-2
+78	Rahung	tʰ ɛ k	tʰ ɛ k	4-2
+79	Rupa	tʰ i k	tʰ i k	4-2
+80	Shergaon	tʰ i k	tʰ i k	4-2
+81	Duhumbi	tʰ eˀ	tʰ eˀ -	4-3
+82	Jerigaon	tʰ i k	tʰ i k	4-3
+83	Khispi	tʰ e	tʰ e -	4-3
+84	Khoina	tʰ i k	tʰ i k	4-3
+85	Khoitam	tʰ ɛ k	tʰ ɛ k	4-3
+86	Rahung	tʰ ɛ k	tʰ ɛ k	4-3
+87	Rupa	tʰ i k	tʰ i k	4-3
+88	Shergaon	tʰ i k	tʰ i k	4-3
+89	Duhumbi	tʰ eˀ	tʰ eˀ -	4-4
+90	Jerigaon	tʰ i k	tʰ i k	4-4
+91	Khispi	tʰ e	tʰ e -	4-4
+92	Khoina	tʰ i k	tʰ i k	4-4
+93	Khoitam	tʰ ɛ k	tʰ ɛ k	4-4
+94	Rahung	tʰ ɛ k	tʰ ɛ k	4-4
+95	Rupa	tʰ i k	tʰ i k	4-4
+96	Shergaon	tʰ i k	tʰ i k	4-4
+97	Duhumbi	tʰ eˀ	tʰ eˀ -	4-5
+98	Jerigaon	tʰ i k	tʰ i k	4-5
+99	Khispi	tʰ e	tʰ e -	4-5
+100	Khoina	tʰ i k	tʰ i k	4-5
+101	Khoitam	tʰ ɛ k	tʰ ɛ k	4-5
+102	Rahung	tʰ ɛ k	tʰ ɛ k	4-5
+103	Rupa	tʰ i k	tʰ i k	4-5
+104	Shergaon	tʰ i k	tʰ i k	4-5
+105	Duhumbi	tʰ eˀ	tʰ eˀ -	4-6
+106	Jerigaon	tʰ i k	tʰ i k	4-6
+107	Khispi	tʰ e	tʰ e -	4-6
+108	Khoina	tʰ i k	tʰ i k	4-6
+109	Khoitam	tʰ ɛ k	tʰ ɛ k	4-6
+110	Rahung	tʰ ɛ k	tʰ ɛ k	4-6
+111	Rupa	tʰ i k	tʰ i k	4-6
+112	Shergaon	tʰ i k	tʰ i k	4-6
+113	Duhumbi	tʰ eˀ	tʰ eˀ -	4-7
+114	Jerigaon	tʰ i k	tʰ i k	4-7
+115	Khispi	tʰ e	tʰ e -	4-7
+116	Khoina	tʰ i k	tʰ i k	4-7
+117	Khoitam	tʰ ɛ k	tʰ ɛ k	4-7
+118	Rahung	tʰ ɛ k	tʰ ɛ k	4-7
+119	Rupa	tʰ i k	tʰ i k	4-7
+120	Shergaon	tʰ i k	tʰ i k	4-7
+121	Duhumbi	tʰ eˀ	tʰ eˀ -	4-8
+122	Jerigaon	tʰ i k	tʰ i k	4-8
+123	Khispi	tʰ e	tʰ e -	4-8
+124	Khoina	tʰ i k	tʰ i k	4-8
+125	Khoitam	tʰ ɛ k	tʰ ɛ k	4-8
+126	Rahung	tʰ ɛ k	tʰ ɛ k	4-8
+127	Rupa	tʰ i k	tʰ i k	4-8
+128	Shergaon	tʰ i k	tʰ i k	4-8
+129	Duhumbi	n a	n a	5-1
+130	Jerigaon	n a	n a	5-1
+131	Khispi	n a	n a	5-1
+132	Khoina	n a	n a	5-1
+133	Khoitam	n a	n a	5-1
+134	Rahung	n a	n a	5-1
+135	Rupa	n aː	n aː	5-1
+136	Shergaon	n aː	n aː	5-1
+137	Duhumbi	n a	n a	5-2
+138	Jerigaon	n a	n a	5-2
+139	Khispi	n a	n a	5-2
+140	Khoina	n a	n a	5-2
+141	Khoitam	n a	n a	5-2
+142	Rahung	n a	n a	5-2
+143	Rupa	n aː	n aː	5-2
+144	Shergaon	n aː	n aː	5-2
+145	Duhumbi	n a	n a	5-3
+146	Jerigaon	n a	n a	5-3
+147	Khispi	n a	n a	5-3
+148	Khoina	n a	n a	5-3
+149	Khoitam	n a	n a	5-3
+150	Rahung	n a	n a	5-3
+151	Rupa	n aː	n aː	5-3
+152	Shergaon	n aː	n aː	5-3
+153	Duhumbi	n a	n a	5-4
+154	Jerigaon	n a	n a	5-4
+155	Khispi	n a	n a	5-4
+156	Khoina	n a	n a	5-4
+157	Khoitam	n a	n a	5-4
+158	Rahung	n a	n a	5-4
+159	Rupa	n aː	n aː	5-4
+160	Shergaon	n aː	n aː	5-4
+161	Duhumbi	n a	n a	5-5
+162	Jerigaon	n a	n a	5-5
+163	Khispi	n a	n a	5-5
+164	Khoina	n a	n a	5-5
+165	Khoitam	n a	n a	5-5
+166	Rahung	n a	n a	5-5
+167	Rupa	n aː	n aː	5-5
+168	Shergaon	n aː	n aː	5-5
+169	Duhumbi	n a	n a	5-6
+170	Jerigaon	n a	n a	5-6
+171	Khispi	n a	n a	5-6
+172	Khoina	n a	n a	5-6
+173	Khoitam	n a	n a	5-6
+174	Rahung	n a	n a	5-6
+175	Rupa	n aː	n aː	5-6
+176	Shergaon	n aː	n aː	5-6
+177	Duhumbi	n a	n a	5-7
+178	Jerigaon	n a	n a	5-7
+179	Khispi	n a	n a	5-7
+180	Khoina	n a	n a	5-7
+181	Khoitam	n a	n a	5-7
+182	Rahung	n a	n a	5-7
+183	Rupa	n aː	n aː	5-7
+184	Shergaon	n aː	n aː	5-7
+185	Duhumbi	n a	n a	5-8
+186	Jerigaon	n a	n a	5-8
+187	Khispi	n a	n a	5-8
+188	Khoina	n a	n a	5-8
+189	Khoitam	n a	n a	5-8
+190	Rahung	n a	n a	5-8
+191	Rupa	n aː	n aː	5-8
+192	Shergaon	n aː	n aː	5-8
+193	Duhumbi	n a ŋ	n a ŋ	6-1
+194	Jerigaon	n a ŋ	n a ŋ	6-1
+195	Khispi	n a ŋ	n a ŋ	6-1
+196	Khoina	n a ŋ	n a ŋ	6-1
+197	Khoitam	n a ŋ	n a ŋ	6-1
+198	Rahung	n a ŋ	n a ŋ	6-1
+199	Rupa	n a ŋ	n a ŋ	6-1
+200	Shergaon	n a ŋ	n a ŋ	6-1
+201	Duhumbi	n a ŋ	n a ŋ	6-2
+202	Jerigaon	n a ŋ	n a ŋ	6-2
+203	Khispi	n a ŋ	n a ŋ	6-2
+204	Khoina	n a ŋ	n a ŋ	6-2
+205	Khoitam	n a ŋ	n a ŋ	6-2
+206	Rahung	n a ŋ	n a ŋ	6-2
+207	Rupa	n a ŋ	n a ŋ	6-2
+208	Shergaon	n a ŋ	n a ŋ	6-2
+209	Duhumbi	n a ŋ	n a ŋ	6-3
+210	Jerigaon	n a ŋ	n a ŋ	6-3
+211	Khispi	n a ŋ	n a ŋ	6-3
+212	Khoina	n a ŋ	n a ŋ	6-3
+213	Khoitam	n a ŋ	n a ŋ	6-3
+214	Rahung	n a ŋ	n a ŋ	6-3
+215	Rupa	n a ŋ	n a ŋ	6-3
+216	Shergaon	n a ŋ	n a ŋ	6-3
+217	Duhumbi	n a ŋ	n a ŋ	6-4
+218	Jerigaon	n a ŋ	n a ŋ	6-4
+219	Khispi	n a ŋ	n a ŋ	6-4
+220	Khoina	n a ŋ	n a ŋ	6-4
+221	Khoitam	n a ŋ	n a ŋ	6-4
+222	Rahung	n a ŋ	n a ŋ	6-4
+223	Rupa	n a ŋ	n a ŋ	6-4
+224	Shergaon	n a ŋ	n a ŋ	6-4
+225	Duhumbi	n a ŋ	n a ŋ	6-5
+226	Jerigaon	n a ŋ	n a ŋ	6-5
+227	Khispi	n a ŋ	n a ŋ	6-5
+228	Khoina	n a ŋ	n a ŋ	6-5
+229	Khoitam	n a ŋ	n a ŋ	6-5
+230	Rahung	n a ŋ	n a ŋ	6-5
+231	Rupa	n a ŋ	n a ŋ	6-5
+232	Shergaon	n a ŋ	n a ŋ	6-5
+233	Duhumbi	n a ŋ	n a ŋ	6-6
+234	Jerigaon	n a ŋ	n a ŋ	6-6
+235	Khispi	n a ŋ	n a ŋ	6-6
+236	Khoina	n a ŋ	n a ŋ	6-6
+237	Khoitam	n a ŋ	n a ŋ	6-6
+238	Rahung	n a ŋ	n a ŋ	6-6
+239	Rupa	n a ŋ	n a ŋ	6-6
+240	Shergaon	n a ŋ	n a ŋ	6-6
+241	Duhumbi	n a ŋ	n a ŋ	6-7
+242	Jerigaon	n a ŋ	n a ŋ	6-7
+243	Khispi	n a ŋ	n a ŋ	6-7
+244	Khoina	n a ŋ	n a ŋ	6-7
+245	Khoitam	n a ŋ	n a ŋ	6-7
+246	Rahung	n a ŋ	n a ŋ	6-7
+247	Rupa	n a ŋ	n a ŋ	6-7
+248	Shergaon	n a ŋ	n a ŋ	6-7
+249	Duhumbi	n a ŋ	n a ŋ	6-8
+250	Jerigaon	n a ŋ	n a ŋ	6-8
+251	Khispi	n a ŋ	n a ŋ	6-8
+252	Khoina	n a ŋ	n a ŋ	6-8
+253	Khoitam	n a ŋ	n a ŋ	6-8
+254	Rahung	n a ŋ	n a ŋ	6-8
+255	Rupa	n a ŋ	n a ŋ	6-8
+256	Shergaon	n a ŋ	n a ŋ	6-8
+257	Duhumbi	b i	b i	15-1
+258	Jerigaon	dʑ i	dʑ i	15-1
+259	Khispi	b i	b i	15-1
+260	Khoina	ʥ i	ʥ i	15-1
+261	Khoitam	dʑ i	dʑ i	15-1
+262	Rahung	dʑ i	dʑ i	15-1
+263	Rupa	dʑ i	dʑ i	15-1
+264	Shergaon	dʑ i	dʑ i	15-1
+265	Duhumbi	b i	b i	15-2
+266	Jerigaon	dʑ i	dʑ i	15-2
+267	Khispi	b i	b i	15-2
+268	Khoina	ʥ i	ʥ i	15-2
+269	Khoitam	dʑ i	dʑ i	15-2
+270	Rahung	dʑ i	dʑ i	15-2
+271	Rupa	dʑ i	dʑ i	15-2
+272	Shergaon	dʑ i	dʑ i	15-2
+273	Duhumbi	b i	b i	15-3
+274	Jerigaon	dʑ i	dʑ i	15-3
+275	Khispi	b i	b i	15-3
+276	Khoina	ʥ i	ʥ i	15-3
+277	Khoitam	dʑ i	dʑ i	15-3
+278	Rahung	dʑ i	dʑ i	15-3
+279	Rupa	dʑ i	dʑ i	15-3
+280	Shergaon	dʑ i	dʑ i	15-3
+281	Duhumbi	b i	b i	15-4
+282	Jerigaon	dʑ i	dʑ i	15-4
+283	Khispi	b i	b i	15-4
+284	Khoina	ʥ i	ʥ i	15-4
+285	Khoitam	dʑ i	dʑ i	15-4
+286	Rahung	dʑ i	dʑ i	15-4
+287	Rupa	dʑ i	dʑ i	15-4
+288	Shergaon	dʑ i	dʑ i	15-4
+289	Duhumbi	b i	b i	15-5
+290	Jerigaon	dʑ i	dʑ i	15-5
+291	Khispi	b i	b i	15-5
+292	Khoina	ʥ i	ʥ i	15-5
+293	Khoitam	dʑ i	dʑ i	15-5
+294	Rahung	dʑ i	dʑ i	15-5
+295	Rupa	dʑ i	dʑ i	15-5
+296	Shergaon	dʑ i	dʑ i	15-5
+297	Duhumbi	b i	b i	15-6
+298	Jerigaon	dʑ i	dʑ i	15-6
+299	Khispi	b i	b i	15-6
+300	Khoina	ʥ i	ʥ i	15-6
+301	Khoitam	dʑ i	dʑ i	15-6
+302	Rahung	dʑ i	dʑ i	15-6
+303	Rupa	dʑ i	dʑ i	15-6
+304	Shergaon	dʑ i	dʑ i	15-6
+305	Duhumbi	b i	b i	15-7
+306	Jerigaon	dʑ i	dʑ i	15-7
+307	Khispi	b i	b i	15-7
+308	Khoina	ʥ i	ʥ i	15-7
+309	Khoitam	dʑ i	dʑ i	15-7
+310	Rahung	dʑ i	dʑ i	15-7
+311	Rupa	dʑ i	dʑ i	15-7
+312	Shergaon	dʑ i	dʑ i	15-7
+313	Duhumbi	b i	b i	15-8
+314	Jerigaon	dʑ i	dʑ i	15-8
+315	Khispi	b i	b i	15-8
+316	Khoina	ʥ i	ʥ i	15-8
+317	Khoitam	dʑ i	dʑ i	15-8
+318	Rahung	dʑ i	dʑ i	15-8
+319	Rupa	dʑ i	dʑ i	15-8
+320	Shergaon	dʑ i	dʑ i	15-8
+321	Duhumbi	l ɔˀ	l ɔˀ	55-1
+322	Jerigaon	l ɔ	l ɔ	55-1
+323	Khispi	l ɔ	l ɔ	55-1
+324	Khoina	l ɔ	l ɔ	55-1
+325	Khoitam	l ɔ	l ɔ	55-1
+326	Rahung	r ɔ	r ɔ	55-1
+327	Rupa	l ɔ	l ɔ	55-1
+328	Shergaon	l ɔ	l ɔ	55-1
+329	Duhumbi	l ɔˀ	l ɔˀ	55-2
+330	Jerigaon	l ɔ	l ɔ	55-2
+331	Khispi	l ɔ	l ɔ	55-2
+332	Khoina	l ɔ	l ɔ	55-2
+333	Khoitam	l ɔ	l ɔ	55-2
+334	Rahung	r ɔ	r ɔ	55-2
+335	Rupa	l ɔ	l ɔ	55-2
+336	Shergaon	l ɔ	l ɔ	55-2
+337	Duhumbi	l ɔˀ	l ɔˀ	55-3
+338	Jerigaon	l ɔ	l ɔ	55-3
+339	Khispi	l ɔ	l ɔ	55-3
+340	Khoina	l ɔ	l ɔ	55-3
+341	Khoitam	l ɔ	l ɔ	55-3
+342	Rahung	r ɔ	r ɔ	55-3
+343	Rupa	l ɔ	l ɔ	55-3
+344	Shergaon	l ɔ	l ɔ	55-3
+345	Duhumbi	l ɔˀ	l ɔˀ	55-4
+346	Jerigaon	l ɔ	l ɔ	55-4
+347	Khispi	l ɔ	l ɔ	55-4
+348	Khoina	l ɔ	l ɔ	55-4
+349	Khoitam	l ɔ	l ɔ	55-4
+350	Rahung	r ɔ	r ɔ	55-4
+351	Rupa	l ɔ	l ɔ	55-4
+352	Shergaon	l ɔ	l ɔ	55-4
+353	Duhumbi	l ɔˀ	l ɔˀ	55-5
+354	Jerigaon	l ɔ	l ɔ	55-5
+355	Khispi	l ɔ	l ɔ	55-5
+356	Khoina	l ɔ	l ɔ	55-5
+357	Khoitam	l ɔ	l ɔ	55-5
+358	Rahung	r ɔ	r ɔ	55-5
+359	Rupa	l ɔ	l ɔ	55-5
+360	Shergaon	l ɔ	l ɔ	55-5
+361	Duhumbi	l ɔˀ	l ɔˀ	55-6
+362	Jerigaon	l ɔ	l ɔ	55-6
+363	Khispi	l ɔ	l ɔ	55-6
+364	Khoina	l ɔ	l ɔ	55-6
+365	Khoitam	l ɔ	l ɔ	55-6
+366	Rahung	r ɔ	r ɔ	55-6
+367	Rupa	l ɔ	l ɔ	55-6
+368	Shergaon	l ɔ	l ɔ	55-6
+369	Duhumbi	l ɔˀ	l ɔˀ	55-7
+370	Jerigaon	l ɔ	l ɔ	55-7
+371	Khispi	l ɔ	l ɔ	55-7
+372	Khoina	l ɔ	l ɔ	55-7
+373	Khoitam	l ɔ	l ɔ	55-7
+374	Rahung	r ɔ	r ɔ	55-7
+375	Rupa	l ɔ	l ɔ	55-7
+376	Shergaon	l ɔ	l ɔ	55-7
+377	Duhumbi	l ɔˀ	l ɔˀ	55-8
+378	Jerigaon	l ɔ	l ɔ	55-8
+379	Khispi	l ɔ	l ɔ	55-8
+380	Khoina	l ɔ	l ɔ	55-8
+381	Khoitam	l ɔ	l ɔ	55-8
+382	Rahung	r ɔ	r ɔ	55-8
+383	Rupa	l ɔ	l ɔ	55-8
+384	Shergaon	l ɔ	l ɔ	55-8
+385	Duhumbi	u	u	56-1
+386	Jerigaon	a	a	56-1
+387	Khispi	u	u	56-1
+388	Khoina	a	a	56-1
+389	Khoitam	a	a	56-1
+390	Rahung	a	a	56-1
+391	Rupa	a	a	56-1
+392	Shergaon	a	a	56-1
+393	Duhumbi	u	u	56-2
+394	Jerigaon	a	a	56-2
+395	Khispi	u	u	56-2
+396	Khoina	a	a	56-2
+397	Khoitam	a	a	56-2
+398	Rahung	a	a	56-2
+399	Rupa	a	a	56-2
+400	Shergaon	a	a	56-2
+401	Duhumbi	u	u	56-3
+402	Jerigaon	a	a	56-3
+403	Khispi	u	u	56-3
+404	Khoina	a	a	56-3
+405	Khoitam	a	a	56-3
+406	Rahung	a	a	56-3
+407	Rupa	a	a	56-3
+408	Shergaon	a	a	56-3
+409	Duhumbi	u	u	56-4
+410	Jerigaon	a	a	56-4
+411	Khispi	u	u	56-4
+412	Khoina	a	a	56-4
+413	Khoitam	a	a	56-4
+414	Rahung	a	a	56-4
+415	Rupa	a	a	56-4
+416	Shergaon	a	a	56-4
+417	Duhumbi	u	u	56-5
+418	Jerigaon	a	a	56-5
+419	Khispi	u	u	56-5
+420	Khoina	a	a	56-5
+421	Khoitam	a	a	56-5
+422	Rahung	a	a	56-5
+423	Rupa	a	a	56-5
+424	Shergaon	a	a	56-5
+425	Duhumbi	u	u	56-6
+426	Jerigaon	a	a	56-6
+427	Khispi	u	u	56-6
+428	Khoina	a	a	56-6
+429	Khoitam	a	a	56-6
+430	Rahung	a	a	56-6
+431	Rupa	a	a	56-6
+432	Shergaon	a	a	56-6
+433	Duhumbi	u	u	56-7
+434	Jerigaon	a	a	56-7
+435	Khispi	u	u	56-7
+436	Khoina	a	a	56-7
+437	Khoitam	a	a	56-7
+438	Rahung	a	a	56-7
+439	Rupa	a	a	56-7
+440	Shergaon	a	a	56-7
+441	Duhumbi	u	u	56-8
+442	Jerigaon	a	a	56-8
+443	Khispi	u	u	56-8
+444	Khoina	a	a	56-8
+445	Khoitam	a	a	56-8
+446	Rahung	a	a	56-8
+447	Rupa	a	a	56-8
+448	Shergaon	a	a	56-8
+449	Duhumbi	s i	s i	60-1
+450	Jerigaon	s ɛː	s ɛː	60-1
+451	Khispi	s i	s i	60-1
+452	Khoina	s aː	s aː	60-1
+453	Khoitam	s ɛ	s ɛ	60-1
+454	Rahung	s ɛˀ	s ɛˀ	60-1
+455	Rupa	s aː	s aː	60-1
+456	Shergaon	s aː	s aː	60-1
+457	Duhumbi	s i	s i	60-2
+458	Jerigaon	s ɛː	s ɛː	60-2
+459	Khispi	s i	s i	60-2
+460	Khoina	s aː	s aː	60-2
+461	Khoitam	s ɛ	s ɛ	60-2
+462	Rahung	s ɛˀ	s ɛˀ	60-2
+463	Rupa	s aː	s aː	60-2
+464	Shergaon	s aː	s aː	60-2
+465	Duhumbi	s i	s i	60-3
+466	Jerigaon	s ɛː	s ɛː	60-3
+467	Khispi	s i	s i	60-3
+468	Khoina	s aː	s aː	60-3
+469	Khoitam	s ɛ	s ɛ	60-3
+470	Rahung	s ɛˀ	s ɛˀ	60-3
+471	Rupa	s aː	s aː	60-3
+472	Shergaon	s aː	s aː	60-3
+473	Duhumbi	s i	s i	60-4
+474	Jerigaon	s ɛː	s ɛː	60-4
+475	Khispi	s i	s i	60-4
+476	Khoina	s aː	s aː	60-4
+477	Khoitam	s ɛ	s ɛ	60-4
+478	Rahung	s ɛˀ	s ɛˀ	60-4
+479	Rupa	s aː	s aː	60-4
+480	Shergaon	s aː	s aː	60-4
+481	Duhumbi	s i	s i	60-5
+482	Jerigaon	s ɛː	s ɛː	60-5
+483	Khispi	s i	s i	60-5
+484	Khoina	s aː	s aː	60-5
+485	Khoitam	s ɛ	s ɛ	60-5
+486	Rahung	s ɛˀ	s ɛˀ	60-5
+487	Rupa	s aː	s aː	60-5
+488	Shergaon	s aː	s aː	60-5
+489	Duhumbi	s i	s i	60-6
+490	Jerigaon	s ɛː	s ɛː	60-6
+491	Khispi	s i	s i	60-6
+492	Khoina	s aː	s aː	60-6
+493	Khoitam	s ɛ	s ɛ	60-6
+494	Rahung	s ɛˀ	s ɛˀ	60-6
+495	Rupa	s aː	s aː	60-6
+496	Shergaon	s aː	s aː	60-6
+497	Duhumbi	s i	s i	60-7
+498	Jerigaon	s ɛː	s ɛː	60-7
+499	Khispi	s i	s i	60-7
+500	Khoina	s aː	s aː	60-7
+501	Khoitam	s ɛ	s ɛ	60-7
+502	Rahung	s ɛˀ	s ɛˀ	60-7
+503	Rupa	s aː	s aː	60-7
+504	Shergaon	s aː	s aː	60-7
+505	Duhumbi	s i	s i	60-8
+506	Jerigaon	s ɛː	s ɛː	60-8
+507	Khispi	s i	s i	60-8
+508	Khoina	s aː	s aː	60-8
+509	Khoitam	s ɛ	s ɛ	60-8
+510	Rahung	s ɛˀ	s ɛˀ	60-8
+511	Rupa	s aː	s aː	60-8
+512	Shergaon	s aː	s aː	60-8
+513	Duhumbi	kʰ u ŋ	kʰ u ŋ	61-1
+514	Jerigaon	kʰ y ŋ	kʰ y ŋ	61-1
+515	Khispi	kʰ u ŋ	kʰ u ŋ	61-1
+516	Khoina	kʰ y ŋ	kʰ y ŋ	61-1
+517	Khoitam	kʰ y ŋ	kʰ y ŋ	61-1
+518	Rahung	kʰ y ŋ	kʰ y ŋ	61-1
+519	Rupa	kʰ y ŋ	kʰ y ŋ	61-1
+520	Shergaon	kʰ u ŋ	kʰ u ŋ	61-1
+521	Duhumbi	kʰ u ŋ	kʰ u ŋ	61-2
+522	Jerigaon	kʰ y ŋ	kʰ y ŋ	61-2
+523	Khispi	kʰ u ŋ	kʰ u ŋ	61-2
+524	Khoina	kʰ y ŋ	kʰ y ŋ	61-2
+525	Khoitam	kʰ y ŋ	kʰ y ŋ	61-2
+526	Rahung	kʰ y ŋ	kʰ y ŋ	61-2
+527	Rupa	kʰ y ŋ	kʰ y ŋ	61-2
+528	Shergaon	kʰ u ŋ	kʰ u ŋ	61-2
+529	Duhumbi	kʰ u ŋ	kʰ u ŋ	61-3
+530	Jerigaon	kʰ y ŋ	kʰ y ŋ	61-3
+531	Khispi	kʰ u ŋ	kʰ u ŋ	61-3
+532	Khoina	kʰ y ŋ	kʰ y ŋ	61-3
+533	Khoitam	kʰ y ŋ	kʰ y ŋ	61-3
+534	Rahung	kʰ y ŋ	kʰ y ŋ	61-3
+535	Rupa	kʰ y ŋ	kʰ y ŋ	61-3
+536	Shergaon	kʰ u ŋ	kʰ u ŋ	61-3
+537	Duhumbi	kʰ u ŋ	kʰ u ŋ	61-4
+538	Jerigaon	kʰ y ŋ	kʰ y ŋ	61-4
+539	Khispi	kʰ u ŋ	kʰ u ŋ	61-4
+540	Khoina	kʰ y ŋ	kʰ y ŋ	61-4
+541	Khoitam	kʰ y ŋ	kʰ y ŋ	61-4
+542	Rahung	kʰ y ŋ	kʰ y ŋ	61-4
+543	Rupa	kʰ y ŋ	kʰ y ŋ	61-4
+544	Shergaon	kʰ u ŋ	kʰ u ŋ	61-4
+545	Duhumbi	kʰ u ŋ	kʰ u ŋ	61-5
+546	Jerigaon	kʰ y ŋ	kʰ y ŋ	61-5
+547	Khispi	kʰ u ŋ	kʰ u ŋ	61-5
+548	Khoina	kʰ y ŋ	kʰ y ŋ	61-5
+549	Khoitam	kʰ y ŋ	kʰ y ŋ	61-5
+550	Rahung	kʰ y ŋ	kʰ y ŋ	61-5
+551	Rupa	kʰ y ŋ	kʰ y ŋ	61-5
+552	Shergaon	kʰ u ŋ	kʰ u ŋ	61-5
+553	Duhumbi	kʰ u ŋ	kʰ u ŋ	61-6
+554	Jerigaon	kʰ y ŋ	kʰ y ŋ	61-6
+555	Khispi	kʰ u ŋ	kʰ u ŋ	61-6
+556	Khoina	kʰ y ŋ	kʰ y ŋ	61-6
+557	Khoitam	kʰ y ŋ	kʰ y ŋ	61-6
+558	Rahung	kʰ y ŋ	kʰ y ŋ	61-6
+559	Rupa	kʰ y ŋ	kʰ y ŋ	61-6
+560	Shergaon	kʰ u ŋ	kʰ u ŋ	61-6
+561	Duhumbi	kʰ u ŋ	kʰ u ŋ	61-7
+562	Jerigaon	kʰ y ŋ	kʰ y ŋ	61-7
+563	Khispi	kʰ u ŋ	kʰ u ŋ	61-7
+564	Khoina	kʰ y ŋ	kʰ y ŋ	61-7
+565	Khoitam	kʰ y ŋ	kʰ y ŋ	61-7
+566	Rahung	kʰ y ŋ	kʰ y ŋ	61-7
+567	Rupa	kʰ y ŋ	kʰ y ŋ	61-7
+568	Shergaon	kʰ u ŋ	kʰ u ŋ	61-7
+569	Duhumbi	kʰ u ŋ	kʰ u ŋ	61-8
+570	Jerigaon	kʰ y ŋ	kʰ y ŋ	61-8
+571	Khispi	kʰ u ŋ	kʰ u ŋ	61-8
+572	Khoina	kʰ y ŋ	kʰ y ŋ	61-8
+573	Khoitam	kʰ y ŋ	kʰ y ŋ	61-8
+574	Rahung	kʰ y ŋ	kʰ y ŋ	61-8
+575	Rupa	kʰ y ŋ	kʰ y ŋ	61-8
+576	Shergaon	kʰ u ŋ	kʰ u ŋ	61-8
+577	Duhumbi	tɕʰ ɔ k	tɕʰ ɔ k	80-1
+578	Jerigaon	dʑ ɔ k	dʑ ɔ k	80-1
+579	Khispi	tɕʰ ɔ k	tɕʰ ɔ k	80-1
+580	Khoina	ɖʐ ɔ k	ɖʐ ɔ k	80-1
+581	Khoitam	dʑ ɔ k	dʑ ɔ k	80-1
+582	Rahung	dʑ ɔ k	dʑ ɔ k	80-1
+583	Rupa	ʥ ɔ k	ʥ ɔ k	80-1
+584	Shergaon	dʑ ɔ k	dʑ ɔ k	80-1
+585	Duhumbi	tɕʰ ɔ k	tɕʰ ɔ k	80-2
+586	Jerigaon	dʑ ɔ k	dʑ ɔ k	80-2
+587	Khispi	tɕʰ ɔ k	tɕʰ ɔ k	80-2
+588	Khoina	ɖʐ ɔ k	ɖʐ ɔ k	80-2
+589	Khoitam	dʑ ɔ k	dʑ ɔ k	80-2
+590	Rahung	dʑ ɔ k	dʑ ɔ k	80-2
+591	Rupa	ʥ ɔ k	ʥ ɔ k	80-2
+592	Shergaon	dʑ ɔ k	dʑ ɔ k	80-2
+593	Duhumbi	tɕʰ ɔ k	tɕʰ ɔ k	80-3
+594	Jerigaon	dʑ ɔ k	dʑ ɔ k	80-3
+595	Khispi	tɕʰ ɔ k	tɕʰ ɔ k	80-3
+596	Khoina	ɖʐ ɔ k	ɖʐ ɔ k	80-3
+597	Khoitam	dʑ ɔ k	dʑ ɔ k	80-3
+598	Rahung	dʑ ɔ k	dʑ ɔ k	80-3
+599	Rupa	ʥ ɔ k	ʥ ɔ k	80-3
+600	Shergaon	dʑ ɔ k	dʑ ɔ k	80-3
+601	Duhumbi	tɕʰ ɔ k	tɕʰ ɔ k	80-4
+602	Jerigaon	dʑ ɔ k	dʑ ɔ k	80-4
+603	Khispi	tɕʰ ɔ k	tɕʰ ɔ k	80-4
+604	Khoina	ɖʐ ɔ k	ɖʐ ɔ k	80-4
+605	Khoitam	dʑ ɔ k	dʑ ɔ k	80-4
+606	Rahung	dʑ ɔ k	dʑ ɔ k	80-4
+607	Rupa	ʥ ɔ k	ʥ ɔ k	80-4
+608	Shergaon	dʑ ɔ k	dʑ ɔ k	80-4
+609	Duhumbi	tɕʰ ɔ k	tɕʰ ɔ k	80-5
+610	Jerigaon	dʑ ɔ k	dʑ ɔ k	80-5
+611	Khispi	tɕʰ ɔ k	tɕʰ ɔ k	80-5
+612	Khoina	ɖʐ ɔ k	ɖʐ ɔ k	80-5
+613	Khoitam	dʑ ɔ k	dʑ ɔ k	80-5
+614	Rahung	dʑ ɔ k	dʑ ɔ k	80-5
+615	Rupa	ʥ ɔ k	ʥ ɔ k	80-5
+616	Shergaon	dʑ ɔ k	dʑ ɔ k	80-5
+617	Duhumbi	tɕʰ ɔ k	tɕʰ ɔ k	80-6
+618	Jerigaon	dʑ ɔ k	dʑ ɔ k	80-6
+619	Khispi	tɕʰ ɔ k	tɕʰ ɔ k	80-6
+620	Khoina	ɖʐ ɔ k	ɖʐ ɔ k	80-6
+621	Khoitam	dʑ ɔ k	dʑ ɔ k	80-6
+622	Rahung	dʑ ɔ k	dʑ ɔ k	80-6
+623	Rupa	ʥ ɔ k	ʥ ɔ k	80-6
+624	Shergaon	dʑ ɔ k	dʑ ɔ k	80-6
+625	Duhumbi	tɕʰ ɔ k	tɕʰ ɔ k	80-7
+626	Jerigaon	dʑ ɔ k	dʑ ɔ k	80-7
+627	Khispi	tɕʰ ɔ k	tɕʰ ɔ k	80-7
+628	Khoina	ɖʐ ɔ k	ɖʐ ɔ k	80-7
+629	Khoitam	dʑ ɔ k	dʑ ɔ k	80-7
+630	Rahung	dʑ ɔ k	dʑ ɔ k	80-7
+631	Rupa	ʥ ɔ k	ʥ ɔ k	80-7
+632	Shergaon	dʑ ɔ k	dʑ ɔ k	80-7
+633	Duhumbi	tɕʰ ɔ k	tɕʰ ɔ k	80-8
+634	Jerigaon	dʑ ɔ k	dʑ ɔ k	80-8
+635	Khispi	tɕʰ ɔ k	tɕʰ ɔ k	80-8
+636	Khoina	ɖʐ ɔ k	ɖʐ ɔ k	80-8
+637	Khoitam	dʑ ɔ k	dʑ ɔ k	80-8
+638	Rahung	dʑ ɔ k	dʑ ɔ k	80-8
+639	Rupa	ʥ ɔ k	ʥ ɔ k	80-8
+640	Shergaon	dʑ ɔ k	dʑ ɔ k	80-8
+641	Duhumbi	pʰ aˀ	pʰ - aˀ	86-1
+642	Jerigaon	pʰ l u	pʰ l u	86-1
+643	Khispi	pʰ a	pʰ - a	86-1
+644	Khoina	pʰ l u	pʰ l u	86-1
+645	Khoitam	pʰ l u	pʰ l u	86-1
+646	Rahung	pʰ r u	pʰ r u	86-1
+647	Rupa	pʰ l u	pʰ l u	86-1
+648	Shergaon	p l u	p l u	86-1
+649	Duhumbi	pʰ aˀ	pʰ - aˀ	86-2
+650	Jerigaon	pʰ l u	pʰ l u	86-2
+651	Khispi	pʰ a	pʰ - a	86-2
+652	Khoina	pʰ l u	pʰ l u	86-2
+653	Khoitam	pʰ l u	pʰ l u	86-2
+654	Rahung	pʰ r u	pʰ r u	86-2
+655	Rupa	pʰ l u	pʰ l u	86-2
+656	Shergaon	p l u	p l u	86-2
+657	Duhumbi	pʰ aˀ	pʰ - aˀ	86-3
+658	Jerigaon	pʰ l u	pʰ l u	86-3
+659	Khispi	pʰ a	pʰ - a	86-3
+660	Khoina	pʰ l u	pʰ l u	86-3
+661	Khoitam	pʰ l u	pʰ l u	86-3
+662	Rahung	pʰ r u	pʰ r u	86-3
+663	Rupa	pʰ l u	pʰ l u	86-3
+664	Shergaon	p l u	p l u	86-3
+665	Duhumbi	pʰ aˀ	pʰ - aˀ	86-4
+666	Jerigaon	pʰ l u	pʰ l u	86-4
+667	Khispi	pʰ a	pʰ - a	86-4
+668	Khoina	pʰ l u	pʰ l u	86-4
+669	Khoitam	pʰ l u	pʰ l u	86-4
+670	Rahung	pʰ r u	pʰ r u	86-4
+671	Rupa	pʰ l u	pʰ l u	86-4
+672	Shergaon	p l u	p l u	86-4
+673	Duhumbi	pʰ aˀ	pʰ - aˀ	86-5
+674	Jerigaon	pʰ l u	pʰ l u	86-5
+675	Khispi	pʰ a	pʰ - a	86-5
+676	Khoina	pʰ l u	pʰ l u	86-5
+677	Khoitam	pʰ l u	pʰ l u	86-5
+678	Rahung	pʰ r u	pʰ r u	86-5
+679	Rupa	pʰ l u	pʰ l u	86-5
+680	Shergaon	p l u	p l u	86-5
+681	Duhumbi	pʰ aˀ	pʰ - aˀ	86-6
+682	Jerigaon	pʰ l u	pʰ l u	86-6
+683	Khispi	pʰ a	pʰ - a	86-6
+684	Khoina	pʰ l u	pʰ l u	86-6
+685	Khoitam	pʰ l u	pʰ l u	86-6
+686	Rahung	pʰ r u	pʰ r u	86-6
+687	Rupa	pʰ l u	pʰ l u	86-6
+688	Shergaon	p l u	p l u	86-6
+689	Duhumbi	pʰ aˀ	pʰ - aˀ	86-7
+690	Jerigaon	pʰ l u	pʰ l u	86-7
+691	Khispi	pʰ a	pʰ - a	86-7
+692	Khoina	pʰ l u	pʰ l u	86-7
+693	Khoitam	pʰ l u	pʰ l u	86-7
+694	Rahung	pʰ r u	pʰ r u	86-7
+695	Rupa	pʰ l u	pʰ l u	86-7
+696	Shergaon	p l u	p l u	86-7
+697	Duhumbi	pʰ aˀ	pʰ - aˀ	86-8
+698	Jerigaon	pʰ l u	pʰ l u	86-8
+699	Khispi	pʰ a	pʰ - a	86-8
+700	Khoina	pʰ l u	pʰ l u	86-8
+701	Khoitam	pʰ l u	pʰ l u	86-8
+702	Rahung	pʰ r u	pʰ r u	86-8
+703	Rupa	pʰ l u	pʰ l u	86-8
+704	Shergaon	p l u	p l u	86-8
+705	Duhumbi	tɕʰ u	tɕʰ u	87-1
+706	Jerigaon	tɕʰ ɐ	tɕʰ ɐ	87-1
+707	Khispi	tɕʰ u	tɕʰ u	87-1
+708	Khoina	dʑ ɐ	dʑ ɐ	87-1
+709	Khoitam	tɕʰ a	tɕʰ a	87-1
+710	Rahung	tɕʰ a	tɕʰ a	87-1
+711	Rupa	tɕʰ a	tɕʰ a	87-1
+712	Shergaon	tɕʰ a	tɕʰ a	87-1
+713	Duhumbi	tɕʰ u	tɕʰ u	87-2
+714	Jerigaon	tɕʰ ɐ	tɕʰ ɐ	87-2
+715	Khispi	tɕʰ u	tɕʰ u	87-2
+716	Khoina	dʑ ɐ	dʑ ɐ	87-2
+717	Khoitam	tɕʰ a	tɕʰ a	87-2
+718	Rahung	tɕʰ a	tɕʰ a	87-2
+719	Rupa	tɕʰ a	tɕʰ a	87-2
+720	Shergaon	tɕʰ a	tɕʰ a	87-2
+721	Duhumbi	tɕʰ u	tɕʰ u	87-3
+722	Jerigaon	tɕʰ ɐ	tɕʰ ɐ	87-3
+723	Khispi	tɕʰ u	tɕʰ u	87-3
+724	Khoina	dʑ ɐ	dʑ ɐ	87-3
+725	Khoitam	tɕʰ a	tɕʰ a	87-3
+726	Rahung	tɕʰ a	tɕʰ a	87-3
+727	Rupa	tɕʰ a	tɕʰ a	87-3
+728	Shergaon	tɕʰ a	tɕʰ a	87-3
+729	Duhumbi	tɕʰ u	tɕʰ u	87-4
+730	Jerigaon	tɕʰ ɐ	tɕʰ ɐ	87-4
+731	Khispi	tɕʰ u	tɕʰ u	87-4
+732	Khoina	dʑ ɐ	dʑ ɐ	87-4
+733	Khoitam	tɕʰ a	tɕʰ a	87-4
+734	Rahung	tɕʰ a	tɕʰ a	87-4
+735	Rupa	tɕʰ a	tɕʰ a	87-4
+736	Shergaon	tɕʰ a	tɕʰ a	87-4
+737	Duhumbi	tɕʰ u	tɕʰ u	87-5
+738	Jerigaon	tɕʰ ɐ	tɕʰ ɐ	87-5
+739	Khispi	tɕʰ u	tɕʰ u	87-5
+740	Khoina	dʑ ɐ	dʑ ɐ	87-5
+741	Khoitam	tɕʰ a	tɕʰ a	87-5
+742	Rahung	tɕʰ a	tɕʰ a	87-5
+743	Rupa	tɕʰ a	tɕʰ a	87-5
+744	Shergaon	tɕʰ a	tɕʰ a	87-5
+745	Duhumbi	tɕʰ u	tɕʰ u	87-6
+746	Jerigaon	tɕʰ ɐ	tɕʰ ɐ	87-6
+747	Khispi	tɕʰ u	tɕʰ u	87-6
+748	Khoina	dʑ ɐ	dʑ ɐ	87-6
+749	Khoitam	tɕʰ a	tɕʰ a	87-6
+750	Rahung	tɕʰ a	tɕʰ a	87-6
+751	Rupa	tɕʰ a	tɕʰ a	87-6
+752	Shergaon	tɕʰ a	tɕʰ a	87-6
+753	Duhumbi	tɕʰ u	tɕʰ u	87-7
+754	Jerigaon	tɕʰ ɐ	tɕʰ ɐ	87-7
+755	Khispi	tɕʰ u	tɕʰ u	87-7
+756	Khoina	dʑ ɐ	dʑ ɐ	87-7
+757	Khoitam	tɕʰ a	tɕʰ a	87-7
+758	Rahung	tɕʰ a	tɕʰ a	87-7
+759	Rupa	tɕʰ a	tɕʰ a	87-7
+760	Shergaon	tɕʰ a	tɕʰ a	87-7
+761	Duhumbi	tɕʰ u	tɕʰ u	87-8
+762	Jerigaon	tɕʰ ɐ	tɕʰ ɐ	87-8
+763	Khispi	tɕʰ u	tɕʰ u	87-8
+764	Khoina	dʑ ɐ	dʑ ɐ	87-8
+765	Khoitam	tɕʰ a	tɕʰ a	87-8
+766	Rahung	tɕʰ a	tɕʰ a	87-8
+767	Rupa	tɕʰ a	tɕʰ a	87-8
+768	Shergaon	tɕʰ a	tɕʰ a	87-8
+769	Duhumbi	pʰ a	pʰ - a	92-1
+770	Jerigaon	pʰ l uˀ	pʰ l uˀ	92-1
+771	Khispi	pʰ a	pʰ - a	92-1
+772	Khoina	pʰ l uˀ	pʰ l uˀ	92-1
+773	Khoitam	pʰ l uˀ	pʰ l uˀ	92-1
+774	Rahung	pʰ ɹ uˀ	pʰ ɹ uˀ	92-1
+775	Rupa	pʰ l uˀ	pʰ l uˀ	92-1
+776	Shergaon	pʰ l uˀ	pʰ l uˀ	92-1
+777	Duhumbi	pʰ a	pʰ - a	92-2
+778	Jerigaon	pʰ l uˀ	pʰ l uˀ	92-2
+779	Khispi	pʰ a	pʰ - a	92-2
+780	Khoina	pʰ l uˀ	pʰ l uˀ	92-2
+781	Khoitam	pʰ l uˀ	pʰ l uˀ	92-2
+782	Rahung	pʰ ɹ uˀ	pʰ ɹ uˀ	92-2
+783	Rupa	pʰ l uˀ	pʰ l uˀ	92-2
+784	Shergaon	pʰ l uˀ	pʰ l uˀ	92-2
+785	Duhumbi	pʰ a	pʰ - a	92-3
+786	Jerigaon	pʰ l uˀ	pʰ l uˀ	92-3
+787	Khispi	pʰ a	pʰ - a	92-3
+788	Khoina	pʰ l uˀ	pʰ l uˀ	92-3
+789	Khoitam	pʰ l uˀ	pʰ l uˀ	92-3
+790	Rahung	pʰ ɹ uˀ	pʰ ɹ uˀ	92-3
+791	Rupa	pʰ l uˀ	pʰ l uˀ	92-3
+792	Shergaon	pʰ l uˀ	pʰ l uˀ	92-3
+793	Duhumbi	pʰ a	pʰ - a	92-4
+794	Jerigaon	pʰ l uˀ	pʰ l uˀ	92-4
+795	Khispi	pʰ a	pʰ - a	92-4
+796	Khoina	pʰ l uˀ	pʰ l uˀ	92-4
+797	Khoitam	pʰ l uˀ	pʰ l uˀ	92-4
+798	Rahung	pʰ ɹ uˀ	pʰ ɹ uˀ	92-4
+799	Rupa	pʰ l uˀ	pʰ l uˀ	92-4
+800	Shergaon	pʰ l uˀ	pʰ l uˀ	92-4
+801	Duhumbi	pʰ a	pʰ - a	92-5
+802	Jerigaon	pʰ l uˀ	pʰ l uˀ	92-5
+803	Khispi	pʰ a	pʰ - a	92-5
+804	Khoina	pʰ l uˀ	pʰ l uˀ	92-5
+805	Khoitam	pʰ l uˀ	pʰ l uˀ	92-5
+806	Rahung	pʰ ɹ uˀ	pʰ ɹ uˀ	92-5
+807	Rupa	pʰ l uˀ	pʰ l uˀ	92-5
+808	Shergaon	pʰ l uˀ	pʰ l uˀ	92-5
+809	Duhumbi	pʰ a	pʰ - a	92-6
+810	Jerigaon	pʰ l uˀ	pʰ l uˀ	92-6
+811	Khispi	pʰ a	pʰ - a	92-6
+812	Khoina	pʰ l uˀ	pʰ l uˀ	92-6
+813	Khoitam	pʰ l uˀ	pʰ l uˀ	92-6
+814	Rahung	pʰ ɹ uˀ	pʰ ɹ uˀ	92-6
+815	Rupa	pʰ l uˀ	pʰ l uˀ	92-6
+816	Shergaon	pʰ l uˀ	pʰ l uˀ	92-6
+817	Duhumbi	pʰ a	pʰ - a	92-7
+818	Jerigaon	pʰ l uˀ	pʰ l uˀ	92-7
+819	Khispi	pʰ a	pʰ - a	92-7
+820	Khoina	pʰ l uˀ	pʰ l uˀ	92-7
+821	Khoitam	pʰ l uˀ	pʰ l uˀ	92-7
+822	Rahung	pʰ ɹ uˀ	pʰ ɹ uˀ	92-7
+823	Rupa	pʰ l uˀ	pʰ l uˀ	92-7
+824	Shergaon	pʰ l uˀ	pʰ l uˀ	92-7
+825	Duhumbi	pʰ a	pʰ - a	92-8
+826	Jerigaon	pʰ l uˀ	pʰ l uˀ	92-8
+827	Khispi	pʰ a	pʰ - a	92-8
+828	Khoina	pʰ l uˀ	pʰ l uˀ	92-8
+829	Khoitam	pʰ l uˀ	pʰ l uˀ	92-8
+830	Rahung	pʰ ɹ uˀ	pʰ ɹ uˀ	92-8
+831	Rupa	pʰ l uˀ	pʰ l uˀ	92-8
+832	Shergaon	pʰ l uˀ	pʰ l uˀ	92-8
+833	Duhumbi	m ɛi	m ɛi	102-1
+834	Jerigaon	m ɛˀ	m ɛˀ	102-1
+835	Khispi	m ei	m ei	102-1
+836	Khoina	m aː	m aː	102-1
+837	Khoitam	m ɛˀ	m ɛˀ	102-1
+838	Rahung	m ɛˀ	m ɛˀ	102-1
+839	Rupa	m aˀ	m aˀ	102-1
+840	Shergaon	m a	m a	102-1
+841	Duhumbi	m ɛi	m ɛi	102-2
+842	Jerigaon	m ɛˀ	m ɛˀ	102-2
+843	Khispi	m ei	m ei	102-2
+844	Khoina	m aː	m aː	102-2
+845	Khoitam	m ɛˀ	m ɛˀ	102-2
+846	Rahung	m ɛˀ	m ɛˀ	102-2
+847	Rupa	m aˀ	m aˀ	102-2
+848	Shergaon	m a	m a	102-2
+849	Duhumbi	m ɛi	m ɛi	102-3
+850	Jerigaon	m ɛˀ	m ɛˀ	102-3
+851	Khispi	m ei	m ei	102-3
+852	Khoina	m aː	m aː	102-3
+853	Khoitam	m ɛˀ	m ɛˀ	102-3
+854	Rahung	m ɛˀ	m ɛˀ	102-3
+855	Rupa	m aˀ	m aˀ	102-3
+856	Shergaon	m a	m a	102-3
+857	Duhumbi	m ɛi	m ɛi	102-4
+858	Jerigaon	m ɛˀ	m ɛˀ	102-4
+859	Khispi	m ei	m ei	102-4
+860	Khoina	m aː	m aː	102-4
+861	Khoitam	m ɛˀ	m ɛˀ	102-4
+862	Rahung	m ɛˀ	m ɛˀ	102-4
+863	Rupa	m aˀ	m aˀ	102-4
+864	Shergaon	m a	m a	102-4
+865	Duhumbi	m ɛi	m ɛi	102-5
+866	Jerigaon	m ɛˀ	m ɛˀ	102-5
+867	Khispi	m ei	m ei	102-5
+868	Khoina	m aː	m aː	102-5
+869	Khoitam	m ɛˀ	m ɛˀ	102-5
+870	Rahung	m ɛˀ	m ɛˀ	102-5
+871	Rupa	m aˀ	m aˀ	102-5
+872	Shergaon	m a	m a	102-5
+873	Duhumbi	m ɛi	m ɛi	102-6
+874	Jerigaon	m ɛˀ	m ɛˀ	102-6
+875	Khispi	m ei	m ei	102-6
+876	Khoina	m aː	m aː	102-6
+877	Khoitam	m ɛˀ	m ɛˀ	102-6
+878	Rahung	m ɛˀ	m ɛˀ	102-6
+879	Rupa	m aˀ	m aˀ	102-6
+880	Shergaon	m a	m a	102-6
+881	Duhumbi	m ɛi	m ɛi	102-7
+882	Jerigaon	m ɛˀ	m ɛˀ	102-7
+883	Khispi	m ei	m ei	102-7
+884	Khoina	m aː	m aː	102-7
+885	Khoitam	m ɛˀ	m ɛˀ	102-7
+886	Rahung	m ɛˀ	m ɛˀ	102-7
+887	Rupa	m aˀ	m aˀ	102-7
+888	Shergaon	m a	m a	102-7
+889	Duhumbi	m ɛi	m ɛi	102-8
+890	Jerigaon	m ɛˀ	m ɛˀ	102-8
+891	Khispi	m ei	m ei	102-8
+892	Khoina	m aː	m aː	102-8
+893	Khoitam	m ɛˀ	m ɛˀ	102-8
+894	Rahung	m ɛˀ	m ɛˀ	102-8
+895	Rupa	m aˀ	m aˀ	102-8
+896	Shergaon	m a	m a	102-8
+897	Duhumbi	pʰ ɔ k	pʰ ɔ k	106-1
+898	Jerigaon	pʰ u k	pʰ u k	106-1
+899	Khispi	pʰ ɔ k	pʰ ɔ k	106-1
+900	Khoina	pʰ u k	pʰ u k	106-1
+901	Khoitam	pʰ u k	pʰ u k	106-1
+902	Rahung	pʰ u k	pʰ u k	106-1
+903	Rupa	pʰ u k	pʰ u k	106-1
+904	Shergaon	pʰ u k	pʰ u k	106-1
+905	Duhumbi	pʰ ɔ k	pʰ ɔ k	106-2
+906	Jerigaon	pʰ u k	pʰ u k	106-2
+907	Khispi	pʰ ɔ k	pʰ ɔ k	106-2
+908	Khoina	pʰ u k	pʰ u k	106-2
+909	Khoitam	pʰ u k	pʰ u k	106-2
+910	Rahung	pʰ u k	pʰ u k	106-2
+911	Rupa	pʰ u k	pʰ u k	106-2
+912	Shergaon	pʰ u k	pʰ u k	106-2
+913	Duhumbi	pʰ ɔ k	pʰ ɔ k	106-3
+914	Jerigaon	pʰ u k	pʰ u k	106-3
+915	Khispi	pʰ ɔ k	pʰ ɔ k	106-3
+916	Khoina	pʰ u k	pʰ u k	106-3
+917	Khoitam	pʰ u k	pʰ u k	106-3
+918	Rahung	pʰ u k	pʰ u k	106-3
+919	Rupa	pʰ u k	pʰ u k	106-3
+920	Shergaon	pʰ u k	pʰ u k	106-3
+921	Duhumbi	pʰ ɔ k	pʰ ɔ k	106-4
+922	Jerigaon	pʰ u k	pʰ u k	106-4
+923	Khispi	pʰ ɔ k	pʰ ɔ k	106-4
+924	Khoina	pʰ u k	pʰ u k	106-4
+925	Khoitam	pʰ u k	pʰ u k	106-4
+926	Rahung	pʰ u k	pʰ u k	106-4
+927	Rupa	pʰ u k	pʰ u k	106-4
+928	Shergaon	pʰ u k	pʰ u k	106-4
+929	Duhumbi	pʰ ɔ k	pʰ ɔ k	106-5
+930	Jerigaon	pʰ u k	pʰ u k	106-5
+931	Khispi	pʰ ɔ k	pʰ ɔ k	106-5
+932	Khoina	pʰ u k	pʰ u k	106-5
+933	Khoitam	pʰ u k	pʰ u k	106-5
+934	Rahung	pʰ u k	pʰ u k	106-5
+935	Rupa	pʰ u k	pʰ u k	106-5
+936	Shergaon	pʰ u k	pʰ u k	106-5
+937	Duhumbi	pʰ ɔ k	pʰ ɔ k	106-6
+938	Jerigaon	pʰ u k	pʰ u k	106-6
+939	Khispi	pʰ ɔ k	pʰ ɔ k	106-6
+940	Khoina	pʰ u k	pʰ u k	106-6
+941	Khoitam	pʰ u k	pʰ u k	106-6
+942	Rahung	pʰ u k	pʰ u k	106-6
+943	Rupa	pʰ u k	pʰ u k	106-6
+944	Shergaon	pʰ u k	pʰ u k	106-6
+945	Duhumbi	pʰ ɔ k	pʰ ɔ k	106-7
+946	Jerigaon	pʰ u k	pʰ u k	106-7
+947	Khispi	pʰ ɔ k	pʰ ɔ k	106-7
+948	Khoina	pʰ u k	pʰ u k	106-7
+949	Khoitam	pʰ u k	pʰ u k	106-7
+950	Rahung	pʰ u k	pʰ u k	106-7
+951	Rupa	pʰ u k	pʰ u k	106-7
+952	Shergaon	pʰ u k	pʰ u k	106-7
+953	Duhumbi	pʰ ɔ k	pʰ ɔ k	106-8
+954	Jerigaon	pʰ u k	pʰ u k	106-8
+955	Khispi	pʰ ɔ k	pʰ ɔ k	106-8
+956	Khoina	pʰ u k	pʰ u k	106-8
+957	Khoitam	pʰ u k	pʰ u k	106-8
+958	Rahung	pʰ u k	pʰ u k	106-8
+959	Rupa	pʰ u k	pʰ u k	106-8
+960	Shergaon	pʰ u k	pʰ u k	106-8
+961	Duhumbi	l a	- l a	107-1
+962	Jerigaon	f l ɐ	f l ɐ	107-1
+963	Khispi	l a	- l a	107-1
+964	Khoina	pʰ l ɐ	pʰ l ɐ	107-1
+965	Khoitam	pʰ l ɔː	pʰ l ɔː	107-1
+966	Rahung	pʰ l ɔː	pʰ l ɔː	107-1
+967	Rupa	pʰ l ɔː	pʰ l ɔː	107-1
+968	Shergaon	pʰ l ɔː	pʰ l ɔː	107-1
+969	Duhumbi	l a	- l a	107-2
+970	Jerigaon	f l ɐ	f l ɐ	107-2
+971	Khispi	l a	- l a	107-2
+972	Khoina	pʰ l ɐ	pʰ l ɐ	107-2
+973	Khoitam	pʰ l ɔː	pʰ l ɔː	107-2
+974	Rahung	pʰ l ɔː	pʰ l ɔː	107-2
+975	Rupa	pʰ l ɔː	pʰ l ɔː	107-2
+976	Shergaon	pʰ l ɔː	pʰ l ɔː	107-2
+977	Duhumbi	l a	- l a	107-3
+978	Jerigaon	f l ɐ	f l ɐ	107-3
+979	Khispi	l a	- l a	107-3
+980	Khoina	pʰ l ɐ	pʰ l ɐ	107-3
+981	Khoitam	pʰ l ɔː	pʰ l ɔː	107-3
+982	Rahung	pʰ l ɔː	pʰ l ɔː	107-3
+983	Rupa	pʰ l ɔː	pʰ l ɔː	107-3
+984	Shergaon	pʰ l ɔː	pʰ l ɔː	107-3
+985	Duhumbi	l a	- l a	107-4
+986	Jerigaon	f l ɐ	f l ɐ	107-4
+987	Khispi	l a	- l a	107-4
+988	Khoina	pʰ l ɐ	pʰ l ɐ	107-4
+989	Khoitam	pʰ l ɔː	pʰ l ɔː	107-4
+990	Rahung	pʰ l ɔː	pʰ l ɔː	107-4
+991	Rupa	pʰ l ɔː	pʰ l ɔː	107-4
+992	Shergaon	pʰ l ɔː	pʰ l ɔː	107-4
+993	Duhumbi	l a	- l a	107-5
+994	Jerigaon	f l ɐ	f l ɐ	107-5
+995	Khispi	l a	- l a	107-5
+996	Khoina	pʰ l ɐ	pʰ l ɐ	107-5
+997	Khoitam	pʰ l ɔː	pʰ l ɔː	107-5
+998	Rahung	pʰ l ɔː	pʰ l ɔː	107-5
+999	Rupa	pʰ l ɔː	pʰ l ɔː	107-5
+1000	Shergaon	pʰ l ɔː	pʰ l ɔː	107-5
+1001	Duhumbi	l a	- l a	107-6
+1002	Jerigaon	f l ɐ	f l ɐ	107-6
+1003	Khispi	l a	- l a	107-6
+1004	Khoina	pʰ l ɐ	pʰ l ɐ	107-6
+1005	Khoitam	pʰ l ɔː	pʰ l ɔː	107-6
+1006	Rahung	pʰ l ɔː	pʰ l ɔː	107-6
+1007	Rupa	pʰ l ɔː	pʰ l ɔː	107-6
+1008	Shergaon	pʰ l ɔː	pʰ l ɔː	107-6
+1009	Duhumbi	l a	- l a	107-7
+1010	Jerigaon	f l ɐ	f l ɐ	107-7
+1011	Khispi	l a	- l a	107-7
+1012	Khoina	pʰ l ɐ	pʰ l ɐ	107-7
+1013	Khoitam	pʰ l ɔː	pʰ l ɔː	107-7
+1014	Rahung	pʰ l ɔː	pʰ l ɔː	107-7
+1015	Rupa	pʰ l ɔː	pʰ l ɔː	107-7
+1016	Shergaon	pʰ l ɔː	pʰ l ɔː	107-7
+1017	Duhumbi	l a	- l a	107-8
+1018	Jerigaon	f l ɐ	f l ɐ	107-8
+1019	Khispi	l a	- l a	107-8
+1020	Khoina	pʰ l ɐ	pʰ l ɐ	107-8
+1021	Khoitam	pʰ l ɔː	pʰ l ɔː	107-8
+1022	Rahung	pʰ l ɔː	pʰ l ɔː	107-8
+1023	Rupa	pʰ l ɔː	pʰ l ɔː	107-8
+1024	Shergaon	pʰ l ɔː	pʰ l ɔː	107-8
+1025	Duhumbi	d ɔu	d ɔu	108-1
+1026	Jerigaon	d u	d u	108-1
+1027	Khispi	d au	d au	108-1
+1028	Khoina	d ə	d ə	108-1
+1029	Khoitam	d u	d u	108-1
+1030	Rahung	d a	d a	108-1
+1031	Rupa	d ə	d ə	108-1
+1032	Shergaon	d ə	d ə	108-1
+1033	Duhumbi	d ɔu	d ɔu	108-2
+1034	Jerigaon	d u	d u	108-2
+1035	Khispi	d au	d au	108-2
+1036	Khoina	d ə	d ə	108-2
+1037	Khoitam	d u	d u	108-2
+1038	Rahung	d a	d a	108-2
+1039	Rupa	d ə	d ə	108-2
+1040	Shergaon	d ə	d ə	108-2
+1041	Duhumbi	d ɔu	d ɔu	108-3
+1042	Jerigaon	d u	d u	108-3
+1043	Khispi	d au	d au	108-3
+1044	Khoina	d ə	d ə	108-3
+1045	Khoitam	d u	d u	108-3
+1046	Rahung	d a	d a	108-3
+1047	Rupa	d ə	d ə	108-3
+1048	Shergaon	d ə	d ə	108-3
+1049	Duhumbi	d ɔu	d ɔu	108-4
+1050	Jerigaon	d u	d u	108-4
+1051	Khispi	d au	d au	108-4
+1052	Khoina	d ə	d ə	108-4
+1053	Khoitam	d u	d u	108-4
+1054	Rahung	d a	d a	108-4
+1055	Rupa	d ə	d ə	108-4
+1056	Shergaon	d ə	d ə	108-4
+1057	Duhumbi	d ɔu	d ɔu	108-5
+1058	Jerigaon	d u	d u	108-5
+1059	Khispi	d au	d au	108-5
+1060	Khoina	d ə	d ə	108-5
+1061	Khoitam	d u	d u	108-5
+1062	Rahung	d a	d a	108-5
+1063	Rupa	d ə	d ə	108-5
+1064	Shergaon	d ə	d ə	108-5
+1065	Duhumbi	d ɔu	d ɔu	108-6
+1066	Jerigaon	d u	d u	108-6
+1067	Khispi	d au	d au	108-6
+1068	Khoina	d ə	d ə	108-6
+1069	Khoitam	d u	d u	108-6
+1070	Rahung	d a	d a	108-6
+1071	Rupa	d ə	d ə	108-6
+1072	Shergaon	d ə	d ə	108-6
+1073	Duhumbi	d ɔu	d ɔu	108-7
+1074	Jerigaon	d u	d u	108-7
+1075	Khispi	d au	d au	108-7
+1076	Khoina	d ə	d ə	108-7
+1077	Khoitam	d u	d u	108-7
+1078	Rahung	d a	d a	108-7
+1079	Rupa	d ə	d ə	108-7
+1080	Shergaon	d ə	d ə	108-7
+1081	Duhumbi	d ɔu	d ɔu	108-8
+1082	Jerigaon	d u	d u	108-8
+1083	Khispi	d au	d au	108-8
+1084	Khoina	d ə	d ə	108-8
+1085	Khoitam	d u	d u	108-8
+1086	Rahung	d a	d a	108-8
+1087	Rupa	d ə	d ə	108-8
+1088	Shergaon	d ə	d ə	108-8
+1089	Duhumbi	pʰ o p	pʰ o p	112-1
+1090	Jerigaon	pʰ ɔ ŋ	pʰ ɔ ŋ	112-1
+1091	Khispi	pʰ o	pʰ o -	112-1
+1092	Khoina	pʰ ɔ ŋ	pʰ ɔ ŋ	112-1
+1093	Khoitam	pʰ ɔ m	pʰ ɔ m	112-1
+1094	Rahung	pʰ a m	pʰ a m	112-1
+1095	Rupa	pʰ a m	pʰ a m	112-1
+1096	Shergaon	pʰ a m	pʰ a m	112-1
+1097	Duhumbi	pʰ o p	pʰ o p	112-2
+1098	Jerigaon	pʰ ɔ ŋ	pʰ ɔ ŋ	112-2
+1099	Khispi	pʰ o	pʰ o -	112-2
+1100	Khoina	pʰ ɔ ŋ	pʰ ɔ ŋ	112-2
+1101	Khoitam	pʰ ɔ m	pʰ ɔ m	112-2
+1102	Rahung	pʰ a m	pʰ a m	112-2
+1103	Rupa	pʰ a m	pʰ a m	112-2
+1104	Shergaon	pʰ a m	pʰ a m	112-2
+1105	Duhumbi	pʰ o p	pʰ o p	112-3
+1106	Jerigaon	pʰ ɔ ŋ	pʰ ɔ ŋ	112-3
+1107	Khispi	pʰ o	pʰ o -	112-3
+1108	Khoina	pʰ ɔ ŋ	pʰ ɔ ŋ	112-3
+1109	Khoitam	pʰ ɔ m	pʰ ɔ m	112-3
+1110	Rahung	pʰ a m	pʰ a m	112-3
+1111	Rupa	pʰ a m	pʰ a m	112-3
+1112	Shergaon	pʰ a m	pʰ a m	112-3
+1113	Duhumbi	pʰ o p	pʰ o p	112-4
+1114	Jerigaon	pʰ ɔ ŋ	pʰ ɔ ŋ	112-4
+1115	Khispi	pʰ o	pʰ o -	112-4
+1116	Khoina	pʰ ɔ ŋ	pʰ ɔ ŋ	112-4
+1117	Khoitam	pʰ ɔ m	pʰ ɔ m	112-4
+1118	Rahung	pʰ a m	pʰ a m	112-4
+1119	Rupa	pʰ a m	pʰ a m	112-4
+1120	Shergaon	pʰ a m	pʰ a m	112-4
+1121	Duhumbi	pʰ o p	pʰ o p	112-5
+1122	Jerigaon	pʰ ɔ ŋ	pʰ ɔ ŋ	112-5
+1123	Khispi	pʰ o	pʰ o -	112-5
+1124	Khoina	pʰ ɔ ŋ	pʰ ɔ ŋ	112-5
+1125	Khoitam	pʰ ɔ m	pʰ ɔ m	112-5
+1126	Rahung	pʰ a m	pʰ a m	112-5
+1127	Rupa	pʰ a m	pʰ a m	112-5
+1128	Shergaon	pʰ a m	pʰ a m	112-5
+1129	Duhumbi	pʰ o p	pʰ o p	112-6
+1130	Jerigaon	pʰ ɔ ŋ	pʰ ɔ ŋ	112-6
+1131	Khispi	pʰ o	pʰ o -	112-6
+1132	Khoina	pʰ ɔ ŋ	pʰ ɔ ŋ	112-6
+1133	Khoitam	pʰ ɔ m	pʰ ɔ m	112-6
+1134	Rahung	pʰ a m	pʰ a m	112-6
+1135	Rupa	pʰ a m	pʰ a m	112-6
+1136	Shergaon	pʰ a m	pʰ a m	112-6
+1137	Duhumbi	pʰ o p	pʰ o p	112-7
+1138	Jerigaon	pʰ ɔ ŋ	pʰ ɔ ŋ	112-7
+1139	Khispi	pʰ o	pʰ o -	112-7
+1140	Khoina	pʰ ɔ ŋ	pʰ ɔ ŋ	112-7
+1141	Khoitam	pʰ ɔ m	pʰ ɔ m	112-7
+1142	Rahung	pʰ a m	pʰ a m	112-7
+1143	Rupa	pʰ a m	pʰ a m	112-7
+1144	Shergaon	pʰ a m	pʰ a m	112-7
+1145	Duhumbi	pʰ o p	pʰ o p	112-8
+1146	Jerigaon	pʰ ɔ ŋ	pʰ ɔ ŋ	112-8
+1147	Khispi	pʰ o	pʰ o -	112-8
+1148	Khoina	pʰ ɔ ŋ	pʰ ɔ ŋ	112-8
+1149	Khoitam	pʰ ɔ m	pʰ ɔ m	112-8
+1150	Rahung	pʰ a m	pʰ a m	112-8
+1151	Rupa	pʰ a m	pʰ a m	112-8
+1152	Shergaon	pʰ a m	pʰ a m	112-8
+1153	Duhumbi	tʰ ɔ m	tʰ ɔ m	114-1
+1154	Jerigaon	tʰ u ŋ	tʰ u ŋ	114-1
+1155	Khispi	tʰ ɔ m	tʰ ɔ m	114-1
+1156	Khoina	tʰ u ŋ	tʰ u ŋ	114-1
+1157	Khoitam	t u ŋ	t u ŋ	114-1
+1158	Rahung	t u ŋ	t u ŋ	114-1
+1159	Rupa	t u ŋ	t u ŋ	114-1
+1160	Shergaon	t u ŋ	t u ŋ	114-1
+1161	Duhumbi	tʰ ɔ m	tʰ ɔ m	114-2
+1162	Jerigaon	tʰ u ŋ	tʰ u ŋ	114-2
+1163	Khispi	tʰ ɔ m	tʰ ɔ m	114-2
+1164	Khoina	tʰ u ŋ	tʰ u ŋ	114-2
+1165	Khoitam	t u ŋ	t u ŋ	114-2
+1166	Rahung	t u ŋ	t u ŋ	114-2
+1167	Rupa	t u ŋ	t u ŋ	114-2
+1168	Shergaon	t u ŋ	t u ŋ	114-2
+1169	Duhumbi	tʰ ɔ m	tʰ ɔ m	114-3
+1170	Jerigaon	tʰ u ŋ	tʰ u ŋ	114-3
+1171	Khispi	tʰ ɔ m	tʰ ɔ m	114-3
+1172	Khoina	tʰ u ŋ	tʰ u ŋ	114-3
+1173	Khoitam	t u ŋ	t u ŋ	114-3
+1174	Rahung	t u ŋ	t u ŋ	114-3
+1175	Rupa	t u ŋ	t u ŋ	114-3
+1176	Shergaon	t u ŋ	t u ŋ	114-3
+1177	Duhumbi	tʰ ɔ m	tʰ ɔ m	114-4
+1178	Jerigaon	tʰ u ŋ	tʰ u ŋ	114-4
+1179	Khispi	tʰ ɔ m	tʰ ɔ m	114-4
+1180	Khoina	tʰ u ŋ	tʰ u ŋ	114-4
+1181	Khoitam	t u ŋ	t u ŋ	114-4
+1182	Rahung	t u ŋ	t u ŋ	114-4
+1183	Rupa	t u ŋ	t u ŋ	114-4
+1184	Shergaon	t u ŋ	t u ŋ	114-4
+1185	Duhumbi	tʰ ɔ m	tʰ ɔ m	114-5
+1186	Jerigaon	tʰ u ŋ	tʰ u ŋ	114-5
+1187	Khispi	tʰ ɔ m	tʰ ɔ m	114-5
+1188	Khoina	tʰ u ŋ	tʰ u ŋ	114-5
+1189	Khoitam	t u ŋ	t u ŋ	114-5
+1190	Rahung	t u ŋ	t u ŋ	114-5
+1191	Rupa	t u ŋ	t u ŋ	114-5
+1192	Shergaon	t u ŋ	t u ŋ	114-5
+1193	Duhumbi	tʰ ɔ m	tʰ ɔ m	114-6
+1194	Jerigaon	tʰ u ŋ	tʰ u ŋ	114-6
+1195	Khispi	tʰ ɔ m	tʰ ɔ m	114-6
+1196	Khoina	tʰ u ŋ	tʰ u ŋ	114-6
+1197	Khoitam	t u ŋ	t u ŋ	114-6
+1198	Rahung	t u ŋ	t u ŋ	114-6
+1199	Rupa	t u ŋ	t u ŋ	114-6
+1200	Shergaon	t u ŋ	t u ŋ	114-6
+1201	Duhumbi	tʰ ɔ m	tʰ ɔ m	114-7
+1202	Jerigaon	tʰ u ŋ	tʰ u ŋ	114-7
+1203	Khispi	tʰ ɔ m	tʰ ɔ m	114-7
+1204	Khoina	tʰ u ŋ	tʰ u ŋ	114-7
+1205	Khoitam	t u ŋ	t u ŋ	114-7
+1206	Rahung	t u ŋ	t u ŋ	114-7
+1207	Rupa	t u ŋ	t u ŋ	114-7
+1208	Shergaon	t u ŋ	t u ŋ	114-7
+1209	Duhumbi	tʰ ɔ m	tʰ ɔ m	114-8
+1210	Jerigaon	tʰ u ŋ	tʰ u ŋ	114-8
+1211	Khispi	tʰ ɔ m	tʰ ɔ m	114-8
+1212	Khoina	tʰ u ŋ	tʰ u ŋ	114-8
+1213	Khoitam	t u ŋ	t u ŋ	114-8
+1214	Rahung	t u ŋ	t u ŋ	114-8
+1215	Rupa	t u ŋ	t u ŋ	114-8
+1216	Shergaon	t u ŋ	t u ŋ	114-8
+1217	Duhumbi	ɕ a	ɕ a	115-1
+1218	Jerigaon	s	s -	115-1
+1219	Khispi	ɕ a	ɕ a	115-1
+1220	Khoina	ɕ	ɕ -	115-1
+1221	Khoitam	s	s -	115-1
+1222	Rahung	s	s -	115-1
+1223	Rupa	s	s -	115-1
+1224	Shergaon	s	s -	115-1
+1225	Duhumbi	ɕ a	ɕ a	115-2
+1226	Jerigaon	s	s -	115-2
+1227	Khispi	ɕ a	ɕ a	115-2
+1228	Khoina	ɕ	ɕ -	115-2
+1229	Khoitam	s	s -	115-2
+1230	Rahung	s	s -	115-2
+1231	Rupa	s	s -	115-2
+1232	Shergaon	s	s -	115-2
+1233	Duhumbi	ɕ a	ɕ a	115-3
+1234	Jerigaon	s	s -	115-3
+1235	Khispi	ɕ a	ɕ a	115-3
+1236	Khoina	ɕ	ɕ -	115-3
+1237	Khoitam	s	s -	115-3
+1238	Rahung	s	s -	115-3
+1239	Rupa	s	s -	115-3
+1240	Shergaon	s	s -	115-3
+1241	Duhumbi	ɕ a	ɕ a	115-4
+1242	Jerigaon	s	s -	115-4
+1243	Khispi	ɕ a	ɕ a	115-4
+1244	Khoina	ɕ	ɕ -	115-4
+1245	Khoitam	s	s -	115-4
+1246	Rahung	s	s -	115-4
+1247	Rupa	s	s -	115-4
+1248	Shergaon	s	s -	115-4
+1249	Duhumbi	ɕ a	ɕ a	115-5
+1250	Jerigaon	s	s -	115-5
+1251	Khispi	ɕ a	ɕ a	115-5
+1252	Khoina	ɕ	ɕ -	115-5
+1253	Khoitam	s	s -	115-5
+1254	Rahung	s	s -	115-5
+1255	Rupa	s	s -	115-5
+1256	Shergaon	s	s -	115-5
+1257	Duhumbi	ɕ a	ɕ a	115-6
+1258	Jerigaon	s	s -	115-6
+1259	Khispi	ɕ a	ɕ a	115-6
+1260	Khoina	ɕ	ɕ -	115-6
+1261	Khoitam	s	s -	115-6
+1262	Rahung	s	s -	115-6
+1263	Rupa	s	s -	115-6
+1264	Shergaon	s	s -	115-6
+1265	Duhumbi	ɕ a	ɕ a	115-7
+1266	Jerigaon	s	s -	115-7
+1267	Khispi	ɕ a	ɕ a	115-7
+1268	Khoina	ɕ	ɕ -	115-7
+1269	Khoitam	s	s -	115-7
+1270	Rahung	s	s -	115-7
+1271	Rupa	s	s -	115-7
+1272	Shergaon	s	s -	115-7
+1273	Duhumbi	ɕ a	ɕ a	115-8
+1274	Jerigaon	s	s -	115-8
+1275	Khispi	ɕ a	ɕ a	115-8
+1276	Khoina	ɕ	ɕ -	115-8
+1277	Khoitam	s	s -	115-8
+1278	Rahung	s	s -	115-8
+1279	Rupa	s	s -	115-8
+1280	Shergaon	s	s -	115-8
+1281	Duhumbi	b u	b u	117-1
+1282	Jerigaon	b yː	b yː	117-1
+1283	Khispi	b u	b u	117-1
+1284	Khoina	b yː	b yː	117-1
+1285	Khoitam	b yː	b yː	117-1
+1286	Rahung	b yː	b yː	117-1
+1287	Rupa	b yː	b yː	117-1
+1288	Shergaon	b iː	b iː	117-1
+1289	Duhumbi	b u	b u	117-2
+1290	Jerigaon	b yː	b yː	117-2
+1291	Khispi	b u	b u	117-2
+1292	Khoina	b yː	b yː	117-2
+1293	Khoitam	b yː	b yː	117-2
+1294	Rahung	b yː	b yː	117-2
+1295	Rupa	b yː	b yː	117-2
+1296	Shergaon	b iː	b iː	117-2
+1297	Duhumbi	b u	b u	117-3
+1298	Jerigaon	b yː	b yː	117-3
+1299	Khispi	b u	b u	117-3
+1300	Khoina	b yː	b yː	117-3
+1301	Khoitam	b yː	b yː	117-3
+1302	Rahung	b yː	b yː	117-3
+1303	Rupa	b yː	b yː	117-3
+1304	Shergaon	b iː	b iː	117-3
+1305	Duhumbi	b u	b u	117-4
+1306	Jerigaon	b yː	b yː	117-4
+1307	Khispi	b u	b u	117-4
+1308	Khoina	b yː	b yː	117-4
+1309	Khoitam	b yː	b yː	117-4
+1310	Rahung	b yː	b yː	117-4
+1311	Rupa	b yː	b yː	117-4
+1312	Shergaon	b iː	b iː	117-4
+1313	Duhumbi	b u	b u	117-5
+1314	Jerigaon	b yː	b yː	117-5
+1315	Khispi	b u	b u	117-5
+1316	Khoina	b yː	b yː	117-5
+1317	Khoitam	b yː	b yː	117-5
+1318	Rahung	b yː	b yː	117-5
+1319	Rupa	b yː	b yː	117-5
+1320	Shergaon	b iː	b iː	117-5
+1321	Duhumbi	b u	b u	117-6
+1322	Jerigaon	b yː	b yː	117-6
+1323	Khispi	b u	b u	117-6
+1324	Khoina	b yː	b yː	117-6
+1325	Khoitam	b yː	b yː	117-6
+1326	Rahung	b yː	b yː	117-6
+1327	Rupa	b yː	b yː	117-6
+1328	Shergaon	b iː	b iː	117-6
+1329	Duhumbi	b u	b u	117-7
+1330	Jerigaon	b yː	b yː	117-7
+1331	Khispi	b u	b u	117-7
+1332	Khoina	b yː	b yː	117-7
+1333	Khoitam	b yː	b yː	117-7
+1334	Rahung	b yː	b yː	117-7
+1335	Rupa	b yː	b yː	117-7
+1336	Shergaon	b iː	b iː	117-7
+1337	Duhumbi	b u	b u	117-8
+1338	Jerigaon	b yː	b yː	117-8
+1339	Khispi	b u	b u	117-8
+1340	Khoina	b yː	b yː	117-8
+1341	Khoitam	b yː	b yː	117-8
+1342	Rahung	b yː	b yː	117-8
+1343	Rupa	b yː	b yː	117-8
+1344	Shergaon	b iː	b iː	117-8
+1345	Duhumbi	t a	t a	120-1
+1346	Jerigaon	d u	d u	120-1
+1347	Khispi	t a	t a	120-1
+1348	Khoina	d u	d u	120-1
+1349	Khoitam	d u	d u	120-1
+1350	Rahung	d u	d u	120-1
+1351	Rupa	d u	d u	120-1
+1352	Shergaon	d u	d u	120-1
+1353	Duhumbi	t a	t a	120-2
+1354	Jerigaon	d u	d u	120-2
+1355	Khispi	t a	t a	120-2
+1356	Khoina	d u	d u	120-2
+1357	Khoitam	d u	d u	120-2
+1358	Rahung	d u	d u	120-2
+1359	Rupa	d u	d u	120-2
+1360	Shergaon	d u	d u	120-2
+1361	Duhumbi	t a	t a	120-3
+1362	Jerigaon	d u	d u	120-3
+1363	Khispi	t a	t a	120-3
+1364	Khoina	d u	d u	120-3
+1365	Khoitam	d u	d u	120-3
+1366	Rahung	d u	d u	120-3
+1367	Rupa	d u	d u	120-3
+1368	Shergaon	d u	d u	120-3
+1369	Duhumbi	t a	t a	120-4
+1370	Jerigaon	d u	d u	120-4
+1371	Khispi	t a	t a	120-4
+1372	Khoina	d u	d u	120-4
+1373	Khoitam	d u	d u	120-4
+1374	Rahung	d u	d u	120-4
+1375	Rupa	d u	d u	120-4
+1376	Shergaon	d u	d u	120-4
+1377	Duhumbi	t a	t a	120-5
+1378	Jerigaon	d u	d u	120-5
+1379	Khispi	t a	t a	120-5
+1380	Khoina	d u	d u	120-5
+1381	Khoitam	d u	d u	120-5
+1382	Rahung	d u	d u	120-5
+1383	Rupa	d u	d u	120-5
+1384	Shergaon	d u	d u	120-5
+1385	Duhumbi	t a	t a	120-6
+1386	Jerigaon	d u	d u	120-6
+1387	Khispi	t a	t a	120-6
+1388	Khoina	d u	d u	120-6
+1389	Khoitam	d u	d u	120-6
+1390	Rahung	d u	d u	120-6
+1391	Rupa	d u	d u	120-6
+1392	Shergaon	d u	d u	120-6
+1393	Duhumbi	t a	t a	120-7
+1394	Jerigaon	d u	d u	120-7
+1395	Khispi	t a	t a	120-7
+1396	Khoina	d u	d u	120-7
+1397	Khoitam	d u	d u	120-7
+1398	Rahung	d u	d u	120-7
+1399	Rupa	d u	d u	120-7
+1400	Shergaon	d u	d u	120-7
+1401	Duhumbi	t a	t a	120-8
+1402	Jerigaon	d u	d u	120-8
+1403	Khispi	t a	t a	120-8
+1404	Khoina	d u	d u	120-8
+1405	Khoitam	d u	d u	120-8
+1406	Rahung	d u	d u	120-8
+1407	Rupa	d u	d u	120-8
+1408	Shergaon	d u	d u	120-8
+1409	Duhumbi	a	a	124-1
+1410	Jerigaon	a	a	124-1
+1411	Khispi	a	a	124-1
+1412	Khoina	a	a	124-1
+1413	Khoitam	a	a	124-1
+1414	Rahung	ə	ə	124-1
+1415	Rupa	a	a	124-1
+1416	Shergaon	a	a	124-1
+1417	Duhumbi	a	a	124-2
+1418	Jerigaon	a	a	124-2
+1419	Khispi	a	a	124-2
+1420	Khoina	a	a	124-2
+1421	Khoitam	a	a	124-2
+1422	Rahung	ə	ə	124-2
+1423	Rupa	a	a	124-2
+1424	Shergaon	a	a	124-2
+1425	Duhumbi	a	a	124-3
+1426	Jerigaon	a	a	124-3
+1427	Khispi	a	a	124-3
+1428	Khoina	a	a	124-3
+1429	Khoitam	a	a	124-3
+1430	Rahung	ə	ə	124-3
+1431	Rupa	a	a	124-3
+1432	Shergaon	a	a	124-3
+1433	Duhumbi	a	a	124-4
+1434	Jerigaon	a	a	124-4
+1435	Khispi	a	a	124-4
+1436	Khoina	a	a	124-4
+1437	Khoitam	a	a	124-4
+1438	Rahung	ə	ə	124-4
+1439	Rupa	a	a	124-4
+1440	Shergaon	a	a	124-4
+1441	Duhumbi	a	a	124-5
+1442	Jerigaon	a	a	124-5
+1443	Khispi	a	a	124-5
+1444	Khoina	a	a	124-5
+1445	Khoitam	a	a	124-5
+1446	Rahung	ə	ə	124-5
+1447	Rupa	a	a	124-5
+1448	Shergaon	a	a	124-5
+1449	Duhumbi	a	a	124-6
+1450	Jerigaon	a	a	124-6
+1451	Khispi	a	a	124-6
+1452	Khoina	a	a	124-6
+1453	Khoitam	a	a	124-6
+1454	Rahung	ə	ə	124-6
+1455	Rupa	a	a	124-6
+1456	Shergaon	a	a	124-6
+1457	Duhumbi	a	a	124-7
+1458	Jerigaon	a	a	124-7
+1459	Khispi	a	a	124-7
+1460	Khoina	a	a	124-7
+1461	Khoitam	a	a	124-7
+1462	Rahung	ə	ə	124-7
+1463	Rupa	a	a	124-7
+1464	Shergaon	a	a	124-7
+1465	Duhumbi	a	a	124-8
+1466	Jerigaon	a	a	124-8
+1467	Khispi	a	a	124-8
+1468	Khoina	a	a	124-8
+1469	Khoitam	a	a	124-8
+1470	Rahung	ə	ə	124-8
+1471	Rupa	a	a	124-8
+1472	Shergaon	a	a	124-8
+1473	Duhumbi	tʰ ɔ k	tʰ ɔ k	125-1
+1474	Jerigaon	tʰ ɔ k	tʰ ɔ k	125-1
+1475	Khispi	tʰ ɔ k	tʰ ɔ k	125-1
+1476	Khoina	tʰ ɔ k	tʰ ɔ k	125-1
+1477	Khoitam	tʰ ɔ k	tʰ ɔ k	125-1
+1478	Rahung	tʰ ɔ k	tʰ ɔ k	125-1
+1479	Rupa	tʰ ɔ k	tʰ ɔ k	125-1
+1480	Shergaon	tʰ ɔ k	tʰ ɔ k	125-1
+1481	Duhumbi	tʰ ɔ k	tʰ ɔ k	125-2
+1482	Jerigaon	tʰ ɔ k	tʰ ɔ k	125-2
+1483	Khispi	tʰ ɔ k	tʰ ɔ k	125-2
+1484	Khoina	tʰ ɔ k	tʰ ɔ k	125-2
+1485	Khoitam	tʰ ɔ k	tʰ ɔ k	125-2
+1486	Rahung	tʰ ɔ k	tʰ ɔ k	125-2
+1487	Rupa	tʰ ɔ k	tʰ ɔ k	125-2
+1488	Shergaon	tʰ ɔ k	tʰ ɔ k	125-2
+1489	Duhumbi	tʰ ɔ k	tʰ ɔ k	125-3
+1490	Jerigaon	tʰ ɔ k	tʰ ɔ k	125-3
+1491	Khispi	tʰ ɔ k	tʰ ɔ k	125-3
+1492	Khoina	tʰ ɔ k	tʰ ɔ k	125-3
+1493	Khoitam	tʰ ɔ k	tʰ ɔ k	125-3
+1494	Rahung	tʰ ɔ k	tʰ ɔ k	125-3
+1495	Rupa	tʰ ɔ k	tʰ ɔ k	125-3
+1496	Shergaon	tʰ ɔ k	tʰ ɔ k	125-3
+1497	Duhumbi	tʰ ɔ k	tʰ ɔ k	125-4
+1498	Jerigaon	tʰ ɔ k	tʰ ɔ k	125-4
+1499	Khispi	tʰ ɔ k	tʰ ɔ k	125-4
+1500	Khoina	tʰ ɔ k	tʰ ɔ k	125-4
+1501	Khoitam	tʰ ɔ k	tʰ ɔ k	125-4
+1502	Rahung	tʰ ɔ k	tʰ ɔ k	125-4
+1503	Rupa	tʰ ɔ k	tʰ ɔ k	125-4
+1504	Shergaon	tʰ ɔ k	tʰ ɔ k	125-4
+1505	Duhumbi	tʰ ɔ k	tʰ ɔ k	125-5
+1506	Jerigaon	tʰ ɔ k	tʰ ɔ k	125-5
+1507	Khispi	tʰ ɔ k	tʰ ɔ k	125-5
+1508	Khoina	tʰ ɔ k	tʰ ɔ k	125-5
+1509	Khoitam	tʰ ɔ k	tʰ ɔ k	125-5
+1510	Rahung	tʰ ɔ k	tʰ ɔ k	125-5
+1511	Rupa	tʰ ɔ k	tʰ ɔ k	125-5
+1512	Shergaon	tʰ ɔ k	tʰ ɔ k	125-5
+1513	Duhumbi	tʰ ɔ k	tʰ ɔ k	125-6
+1514	Jerigaon	tʰ ɔ k	tʰ ɔ k	125-6
+1515	Khispi	tʰ ɔ k	tʰ ɔ k	125-6
+1516	Khoina	tʰ ɔ k	tʰ ɔ k	125-6
+1517	Khoitam	tʰ ɔ k	tʰ ɔ k	125-6
+1518	Rahung	tʰ ɔ k	tʰ ɔ k	125-6
+1519	Rupa	tʰ ɔ k	tʰ ɔ k	125-6
+1520	Shergaon	tʰ ɔ k	tʰ ɔ k	125-6
+1521	Duhumbi	tʰ ɔ k	tʰ ɔ k	125-7
+1522	Jerigaon	tʰ ɔ k	tʰ ɔ k	125-7
+1523	Khispi	tʰ ɔ k	tʰ ɔ k	125-7
+1524	Khoina	tʰ ɔ k	tʰ ɔ k	125-7
+1525	Khoitam	tʰ ɔ k	tʰ ɔ k	125-7
+1526	Rahung	tʰ ɔ k	tʰ ɔ k	125-7
+1527	Rupa	tʰ ɔ k	tʰ ɔ k	125-7
+1528	Shergaon	tʰ ɔ k	tʰ ɔ k	125-7
+1529	Duhumbi	tʰ ɔ k	tʰ ɔ k	125-8
+1530	Jerigaon	tʰ ɔ k	tʰ ɔ k	125-8
+1531	Khispi	tʰ ɔ k	tʰ ɔ k	125-8
+1532	Khoina	tʰ ɔ k	tʰ ɔ k	125-8
+1533	Khoitam	tʰ ɔ k	tʰ ɔ k	125-8
+1534	Rahung	tʰ ɔ k	tʰ ɔ k	125-8
+1535	Rupa	tʰ ɔ k	tʰ ɔ k	125-8
+1536	Shergaon	tʰ ɔ k	tʰ ɔ k	125-8
+1537	Duhumbi	l i ŋ	l i ŋ	131-1
+1538	Jerigaon	r ĩː	r ĩː -	131-1
+1539	Khispi	n i ŋ	n i ŋ	131-1
+1540	Khoina	r ĩː	r ĩː -	131-1
+1541	Khoitam	r i ŋ	r i ŋ	131-1
+1542	Rahung	r i ŋ	r i ŋ	131-1
+1543	Rupa	r i ŋ	r i ŋ	131-1
+1544	Shergaon	r i ŋ	r i ŋ	131-1
+1545	Duhumbi	l i ŋ	l i ŋ	131-2
+1546	Jerigaon	r ĩː	r ĩː -	131-2
+1547	Khispi	n i ŋ	n i ŋ	131-2
+1548	Khoina	r ĩː	r ĩː -	131-2
+1549	Khoitam	r i ŋ	r i ŋ	131-2
+1550	Rahung	r i ŋ	r i ŋ	131-2
+1551	Rupa	r i ŋ	r i ŋ	131-2
+1552	Shergaon	r i ŋ	r i ŋ	131-2
+1553	Duhumbi	l i ŋ	l i ŋ	131-3
+1554	Jerigaon	r ĩː	r ĩː -	131-3
+1555	Khispi	n i ŋ	n i ŋ	131-3
+1556	Khoina	r ĩː	r ĩː -	131-3
+1557	Khoitam	r i ŋ	r i ŋ	131-3
+1558	Rahung	r i ŋ	r i ŋ	131-3
+1559	Rupa	r i ŋ	r i ŋ	131-3
+1560	Shergaon	r i ŋ	r i ŋ	131-3
+1561	Duhumbi	l i ŋ	l i ŋ	131-4
+1562	Jerigaon	r ĩː	r ĩː -	131-4
+1563	Khispi	n i ŋ	n i ŋ	131-4
+1564	Khoina	r ĩː	r ĩː -	131-4
+1565	Khoitam	r i ŋ	r i ŋ	131-4
+1566	Rahung	r i ŋ	r i ŋ	131-4
+1567	Rupa	r i ŋ	r i ŋ	131-4
+1568	Shergaon	r i ŋ	r i ŋ	131-4
+1569	Duhumbi	l i ŋ	l i ŋ	131-5
+1570	Jerigaon	r ĩː	r ĩː -	131-5
+1571	Khispi	n i ŋ	n i ŋ	131-5
+1572	Khoina	r ĩː	r ĩː -	131-5
+1573	Khoitam	r i ŋ	r i ŋ	131-5
+1574	Rahung	r i ŋ	r i ŋ	131-5
+1575	Rupa	r i ŋ	r i ŋ	131-5
+1576	Shergaon	r i ŋ	r i ŋ	131-5
+1577	Duhumbi	l i ŋ	l i ŋ	131-6
+1578	Jerigaon	r ĩː	r ĩː -	131-6
+1579	Khispi	n i ŋ	n i ŋ	131-6
+1580	Khoina	r ĩː	r ĩː -	131-6
+1581	Khoitam	r i ŋ	r i ŋ	131-6
+1582	Rahung	r i ŋ	r i ŋ	131-6
+1583	Rupa	r i ŋ	r i ŋ	131-6
+1584	Shergaon	r i ŋ	r i ŋ	131-6
+1585	Duhumbi	l i ŋ	l i ŋ	131-7
+1586	Jerigaon	r ĩː	r ĩː -	131-7
+1587	Khispi	n i ŋ	n i ŋ	131-7
+1588	Khoina	r ĩː	r ĩː -	131-7
+1589	Khoitam	r i ŋ	r i ŋ	131-7
+1590	Rahung	r i ŋ	r i ŋ	131-7
+1591	Rupa	r i ŋ	r i ŋ	131-7
+1592	Shergaon	r i ŋ	r i ŋ	131-7
+1593	Duhumbi	l i ŋ	l i ŋ	131-8
+1594	Jerigaon	r ĩː	r ĩː -	131-8
+1595	Khispi	n i ŋ	n i ŋ	131-8
+1596	Khoina	r ĩː	r ĩː -	131-8
+1597	Khoitam	r i ŋ	r i ŋ	131-8
+1598	Rahung	r i ŋ	r i ŋ	131-8
+1599	Rupa	r i ŋ	r i ŋ	131-8
+1600	Shergaon	r i ŋ	r i ŋ	131-8
+1601	Duhumbi	h i	h i	132-1
+1602	Jerigaon	s ə	s ə	132-1
+1603	Khispi	h i	h i	132-1
+1604	Khoina	s ə	s ə	132-1
+1605	Khoitam	s ə	s ə	132-1
+1606	Rahung	s ə	s ə	132-1
+1607	Rupa	s ə	s ə	132-1
+1608	Shergaon	s ə	s ə	132-1
+1609	Duhumbi	h i	h i	132-2
+1610	Jerigaon	s ə	s ə	132-2
+1611	Khispi	h i	h i	132-2
+1612	Khoina	s ə	s ə	132-2
+1613	Khoitam	s ə	s ə	132-2
+1614	Rahung	s ə	s ə	132-2
+1615	Rupa	s ə	s ə	132-2
+1616	Shergaon	s ə	s ə	132-2
+1617	Duhumbi	h i	h i	132-3
+1618	Jerigaon	s ə	s ə	132-3
+1619	Khispi	h i	h i	132-3
+1620	Khoina	s ə	s ə	132-3
+1621	Khoitam	s ə	s ə	132-3
+1622	Rahung	s ə	s ə	132-3
+1623	Rupa	s ə	s ə	132-3
+1624	Shergaon	s ə	s ə	132-3
+1625	Duhumbi	h i	h i	132-4
+1626	Jerigaon	s ə	s ə	132-4
+1627	Khispi	h i	h i	132-4
+1628	Khoina	s ə	s ə	132-4
+1629	Khoitam	s ə	s ə	132-4
+1630	Rahung	s ə	s ə	132-4
+1631	Rupa	s ə	s ə	132-4
+1632	Shergaon	s ə	s ə	132-4
+1633	Duhumbi	h i	h i	132-5
+1634	Jerigaon	s ə	s ə	132-5
+1635	Khispi	h i	h i	132-5
+1636	Khoina	s ə	s ə	132-5
+1637	Khoitam	s ə	s ə	132-5
+1638	Rahung	s ə	s ə	132-5
+1639	Rupa	s ə	s ə	132-5
+1640	Shergaon	s ə	s ə	132-5
+1641	Duhumbi	h i	h i	132-6
+1642	Jerigaon	s ə	s ə	132-6
+1643	Khispi	h i	h i	132-6
+1644	Khoina	s ə	s ə	132-6
+1645	Khoitam	s ə	s ə	132-6
+1646	Rahung	s ə	s ə	132-6
+1647	Rupa	s ə	s ə	132-6
+1648	Shergaon	s ə	s ə	132-6
+1649	Duhumbi	h i	h i	132-7
+1650	Jerigaon	s ə	s ə	132-7
+1651	Khispi	h i	h i	132-7
+1652	Khoina	s ə	s ə	132-7
+1653	Khoitam	s ə	s ə	132-7
+1654	Rahung	s ə	s ə	132-7
+1655	Rupa	s ə	s ə	132-7
+1656	Shergaon	s ə	s ə	132-7
+1657	Duhumbi	h i	h i	132-8
+1658	Jerigaon	s ə	s ə	132-8
+1659	Khispi	h i	h i	132-8
+1660	Khoina	s ə	s ə	132-8
+1661	Khoitam	s ə	s ə	132-8
+1662	Rahung	s ə	s ə	132-8
+1663	Rupa	s ə	s ə	132-8
+1664	Shergaon	s ə	s ə	132-8
+1665	Duhumbi	kʰ a k	kʰ a k	134-1
+1666	Jerigaon	kʰ ɐ k	kʰ ɐ k	134-1
+1667	Khispi	kʰ a k	kʰ a k	134-1
+1668	Khoina	kʰ ɐ k	kʰ ɐ k	134-1
+1669	Khoitam	kʰ a k	kʰ a k	134-1
+1670	Rahung	kʰ a k	kʰ a k	134-1
+1671	Rupa	kʰ a k	kʰ a k	134-1
+1672	Shergaon	kʰ a k	kʰ a k	134-1
+1673	Duhumbi	kʰ a k	kʰ a k	134-2
+1674	Jerigaon	kʰ ɐ k	kʰ ɐ k	134-2
+1675	Khispi	kʰ a k	kʰ a k	134-2
+1676	Khoina	kʰ ɐ k	kʰ ɐ k	134-2
+1677	Khoitam	kʰ a k	kʰ a k	134-2
+1678	Rahung	kʰ a k	kʰ a k	134-2
+1679	Rupa	kʰ a k	kʰ a k	134-2
+1680	Shergaon	kʰ a k	kʰ a k	134-2
+1681	Duhumbi	kʰ a k	kʰ a k	134-3
+1682	Jerigaon	kʰ ɐ k	kʰ ɐ k	134-3
+1683	Khispi	kʰ a k	kʰ a k	134-3
+1684	Khoina	kʰ ɐ k	kʰ ɐ k	134-3
+1685	Khoitam	kʰ a k	kʰ a k	134-3
+1686	Rahung	kʰ a k	kʰ a k	134-3
+1687	Rupa	kʰ a k	kʰ a k	134-3
+1688	Shergaon	kʰ a k	kʰ a k	134-3
+1689	Duhumbi	kʰ a k	kʰ a k	134-4
+1690	Jerigaon	kʰ ɐ k	kʰ ɐ k	134-4
+1691	Khispi	kʰ a k	kʰ a k	134-4
+1692	Khoina	kʰ ɐ k	kʰ ɐ k	134-4
+1693	Khoitam	kʰ a k	kʰ a k	134-4
+1694	Rahung	kʰ a k	kʰ a k	134-4
+1695	Rupa	kʰ a k	kʰ a k	134-4
+1696	Shergaon	kʰ a k	kʰ a k	134-4
+1697	Duhumbi	kʰ a k	kʰ a k	134-5
+1698	Jerigaon	kʰ ɐ k	kʰ ɐ k	134-5
+1699	Khispi	kʰ a k	kʰ a k	134-5
+1700	Khoina	kʰ ɐ k	kʰ ɐ k	134-5
+1701	Khoitam	kʰ a k	kʰ a k	134-5
+1702	Rahung	kʰ a k	kʰ a k	134-5
+1703	Rupa	kʰ a k	kʰ a k	134-5
+1704	Shergaon	kʰ a k	kʰ a k	134-5
+1705	Duhumbi	kʰ a k	kʰ a k	134-6
+1706	Jerigaon	kʰ ɐ k	kʰ ɐ k	134-6
+1707	Khispi	kʰ a k	kʰ a k	134-6
+1708	Khoina	kʰ ɐ k	kʰ ɐ k	134-6
+1709	Khoitam	kʰ a k	kʰ a k	134-6
+1710	Rahung	kʰ a k	kʰ a k	134-6
+1711	Rupa	kʰ a k	kʰ a k	134-6
+1712	Shergaon	kʰ a k	kʰ a k	134-6
+1713	Duhumbi	kʰ a k	kʰ a k	134-7
+1714	Jerigaon	kʰ ɐ k	kʰ ɐ k	134-7
+1715	Khispi	kʰ a k	kʰ a k	134-7
+1716	Khoina	kʰ ɐ k	kʰ ɐ k	134-7
+1717	Khoitam	kʰ a k	kʰ a k	134-7
+1718	Rahung	kʰ a k	kʰ a k	134-7
+1719	Rupa	kʰ a k	kʰ a k	134-7
+1720	Shergaon	kʰ a k	kʰ a k	134-7
+1721	Duhumbi	kʰ a k	kʰ a k	134-8
+1722	Jerigaon	kʰ ɐ k	kʰ ɐ k	134-8
+1723	Khispi	kʰ a k	kʰ a k	134-8
+1724	Khoina	kʰ ɐ k	kʰ ɐ k	134-8
+1725	Khoitam	kʰ a k	kʰ a k	134-8
+1726	Rahung	kʰ a k	kʰ a k	134-8
+1727	Rupa	kʰ a k	kʰ a k	134-8
+1728	Shergaon	kʰ a k	kʰ a k	134-8
+1729	Duhumbi	d a	d a	135-1
+1730	Jerigaon	d ə	d ə	135-1
+1731	Khispi	d a	d a	135-1
+1732	Khoina	d ə	d ə	135-1
+1733	Khoitam	d ə	d ə	135-1
+1734	Rahung	d ə	d ə	135-1
+1735	Rupa	d ə	d ə	135-1
+1736	Shergaon	d i	d i	135-1
+1737	Duhumbi	d a	d a	135-2
+1738	Jerigaon	d ə	d ə	135-2
+1739	Khispi	d a	d a	135-2
+1740	Khoina	d ə	d ə	135-2
+1741	Khoitam	d ə	d ə	135-2
+1742	Rahung	d ə	d ə	135-2
+1743	Rupa	d ə	d ə	135-2
+1744	Shergaon	d i	d i	135-2
+1745	Duhumbi	d a	d a	135-3
+1746	Jerigaon	d ə	d ə	135-3
+1747	Khispi	d a	d a	135-3
+1748	Khoina	d ə	d ə	135-3
+1749	Khoitam	d ə	d ə	135-3
+1750	Rahung	d ə	d ə	135-3
+1751	Rupa	d ə	d ə	135-3
+1752	Shergaon	d i	d i	135-3
+1753	Duhumbi	d a	d a	135-4
+1754	Jerigaon	d ə	d ə	135-4
+1755	Khispi	d a	d a	135-4
+1756	Khoina	d ə	d ə	135-4
+1757	Khoitam	d ə	d ə	135-4
+1758	Rahung	d ə	d ə	135-4
+1759	Rupa	d ə	d ə	135-4
+1760	Shergaon	d i	d i	135-4
+1761	Duhumbi	d a	d a	135-5
+1762	Jerigaon	d ə	d ə	135-5
+1763	Khispi	d a	d a	135-5
+1764	Khoina	d ə	d ə	135-5
+1765	Khoitam	d ə	d ə	135-5
+1766	Rahung	d ə	d ə	135-5
+1767	Rupa	d ə	d ə	135-5
+1768	Shergaon	d i	d i	135-5
+1769	Duhumbi	d a	d a	135-6
+1770	Jerigaon	d ə	d ə	135-6
+1771	Khispi	d a	d a	135-6
+1772	Khoina	d ə	d ə	135-6
+1773	Khoitam	d ə	d ə	135-6
+1774	Rahung	d ə	d ə	135-6
+1775	Rupa	d ə	d ə	135-6
+1776	Shergaon	d i	d i	135-6
+1777	Duhumbi	d a	d a	135-7
+1778	Jerigaon	d ə	d ə	135-7
+1779	Khispi	d a	d a	135-7
+1780	Khoina	d ə	d ə	135-7
+1781	Khoitam	d ə	d ə	135-7
+1782	Rahung	d ə	d ə	135-7
+1783	Rupa	d ə	d ə	135-7
+1784	Shergaon	d i	d i	135-7
+1785	Duhumbi	d a	d a	135-8
+1786	Jerigaon	d ə	d ə	135-8
+1787	Khispi	d a	d a	135-8
+1788	Khoina	d ə	d ə	135-8
+1789	Khoitam	d ə	d ə	135-8
+1790	Rahung	d ə	d ə	135-8
+1791	Rupa	d ə	d ə	135-8
+1792	Shergaon	d i	d i	135-8
+1793	Duhumbi	b u	b u	136-1
+1794	Jerigaon	m ə	m ə	136-1
+1795	Khispi	b u	b u	136-1
+1796	Khoina	b u	b u	136-1
+1797	Khoitam	pʰ ə	pʰ ə	136-1
+1798	Rahung	m ə	m ə	136-1
+1799	Rupa	m ə	m ə	136-1
+1800	Shergaon	m ə	m ə	136-1
+1801	Duhumbi	b u	b u	136-2
+1802	Jerigaon	m ə	m ə	136-2
+1803	Khispi	b u	b u	136-2
+1804	Khoina	b u	b u	136-2
+1805	Khoitam	pʰ ə	pʰ ə	136-2
+1806	Rahung	m ə	m ə	136-2
+1807	Rupa	m ə	m ə	136-2
+1808	Shergaon	m ə	m ə	136-2
+1809	Duhumbi	b u	b u	136-3
+1810	Jerigaon	m ə	m ə	136-3
+1811	Khispi	b u	b u	136-3
+1812	Khoina	b u	b u	136-3
+1813	Khoitam	pʰ ə	pʰ ə	136-3
+1814	Rahung	m ə	m ə	136-3
+1815	Rupa	m ə	m ə	136-3
+1816	Shergaon	m ə	m ə	136-3
+1817	Duhumbi	b u	b u	136-4
+1818	Jerigaon	m ə	m ə	136-4
+1819	Khispi	b u	b u	136-4
+1820	Khoina	b u	b u	136-4
+1821	Khoitam	pʰ ə	pʰ ə	136-4
+1822	Rahung	m ə	m ə	136-4
+1823	Rupa	m ə	m ə	136-4
+1824	Shergaon	m ə	m ə	136-4
+1825	Duhumbi	b u	b u	136-5
+1826	Jerigaon	m ə	m ə	136-5
+1827	Khispi	b u	b u	136-5
+1828	Khoina	b u	b u	136-5
+1829	Khoitam	pʰ ə	pʰ ə	136-5
+1830	Rahung	m ə	m ə	136-5
+1831	Rupa	m ə	m ə	136-5
+1832	Shergaon	m ə	m ə	136-5
+1833	Duhumbi	b u	b u	136-6
+1834	Jerigaon	m ə	m ə	136-6
+1835	Khispi	b u	b u	136-6
+1836	Khoina	b u	b u	136-6
+1837	Khoitam	pʰ ə	pʰ ə	136-6
+1838	Rahung	m ə	m ə	136-6
+1839	Rupa	m ə	m ə	136-6
+1840	Shergaon	m ə	m ə	136-6
+1841	Duhumbi	b u	b u	136-7
+1842	Jerigaon	m ə	m ə	136-7
+1843	Khispi	b u	b u	136-7
+1844	Khoina	b u	b u	136-7
+1845	Khoitam	pʰ ə	pʰ ə	136-7
+1846	Rahung	m ə	m ə	136-7
+1847	Rupa	m ə	m ə	136-7
+1848	Shergaon	m ə	m ə	136-7
+1849	Duhumbi	b u	b u	136-8
+1850	Jerigaon	m ə	m ə	136-8
+1851	Khispi	b u	b u	136-8
+1852	Khoina	b u	b u	136-8
+1853	Khoitam	pʰ ə	pʰ ə	136-8
+1854	Rahung	m ə	m ə	136-8
+1855	Rupa	m ə	m ə	136-8
+1856	Shergaon	m ə	m ə	136-8
+1857	Duhumbi	ɔ	ɔ	137-1
+1858	Jerigaon	a	a	137-1
+1859	Khispi	ɔ	ɔ	137-1
+1860	Khoina	a	a	137-1
+1861	Khoitam	a	a	137-1
+1862	Rahung	a	a	137-1
+1863	Rupa	a	a	137-1
+1864	Shergaon	a	a	137-1
+1865	Duhumbi	ɔ	ɔ	137-2
+1866	Jerigaon	a	a	137-2
+1867	Khispi	ɔ	ɔ	137-2
+1868	Khoina	a	a	137-2
+1869	Khoitam	a	a	137-2
+1870	Rahung	a	a	137-2
+1871	Rupa	a	a	137-2
+1872	Shergaon	a	a	137-2
+1873	Duhumbi	ɔ	ɔ	137-3
+1874	Jerigaon	a	a	137-3
+1875	Khispi	ɔ	ɔ	137-3
+1876	Khoina	a	a	137-3
+1877	Khoitam	a	a	137-3
+1878	Rahung	a	a	137-3
+1879	Rupa	a	a	137-3
+1880	Shergaon	a	a	137-3
+1881	Duhumbi	ɔ	ɔ	137-4
+1882	Jerigaon	a	a	137-4
+1883	Khispi	ɔ	ɔ	137-4
+1884	Khoina	a	a	137-4
+1885	Khoitam	a	a	137-4
+1886	Rahung	a	a	137-4
+1887	Rupa	a	a	137-4
+1888	Shergaon	a	a	137-4
+1889	Duhumbi	ɔ	ɔ	137-5
+1890	Jerigaon	a	a	137-5
+1891	Khispi	ɔ	ɔ	137-5
+1892	Khoina	a	a	137-5
+1893	Khoitam	a	a	137-5
+1894	Rahung	a	a	137-5
+1895	Rupa	a	a	137-5
+1896	Shergaon	a	a	137-5
+1897	Duhumbi	ɔ	ɔ	137-6
+1898	Jerigaon	a	a	137-6
+1899	Khispi	ɔ	ɔ	137-6
+1900	Khoina	a	a	137-6
+1901	Khoitam	a	a	137-6
+1902	Rahung	a	a	137-6
+1903	Rupa	a	a	137-6
+1904	Shergaon	a	a	137-6
+1905	Duhumbi	ɔ	ɔ	137-7
+1906	Jerigaon	a	a	137-7
+1907	Khispi	ɔ	ɔ	137-7
+1908	Khoina	a	a	137-7
+1909	Khoitam	a	a	137-7
+1910	Rahung	a	a	137-7
+1911	Rupa	a	a	137-7
+1912	Shergaon	a	a	137-7
+1913	Duhumbi	ɔ	ɔ	137-8
+1914	Jerigaon	a	a	137-8
+1915	Khispi	ɔ	ɔ	137-8
+1916	Khoina	a	a	137-8
+1917	Khoitam	a	a	137-8
+1918	Rahung	a	a	137-8
+1919	Rupa	a	a	137-8
+1920	Shergaon	a	a	137-8
+1921	Duhumbi	d ɔ k	d ɔ k	138-1
+1922	Jerigaon	d ɔ k	d ɔ k	138-1
+1923	Khispi	d ɔ k	d ɔ k	138-1
+1924	Khoina	d ɔ k	d ɔ k	138-1
+1925	Khoitam	d ɔ k	d ɔ k	138-1
+1926	Rahung	d ɔ k	d ɔ k	138-1
+1927	Rupa	d ɔ k	d ɔ k	138-1
+1928	Shergaon	d ɔ k	d ɔ k	138-1
+1929	Duhumbi	d ɔ k	d ɔ k	138-2
+1930	Jerigaon	d ɔ k	d ɔ k	138-2
+1931	Khispi	d ɔ k	d ɔ k	138-2
+1932	Khoina	d ɔ k	d ɔ k	138-2
+1933	Khoitam	d ɔ k	d ɔ k	138-2
+1934	Rahung	d ɔ k	d ɔ k	138-2
+1935	Rupa	d ɔ k	d ɔ k	138-2
+1936	Shergaon	d ɔ k	d ɔ k	138-2
+1937	Duhumbi	d ɔ k	d ɔ k	138-3
+1938	Jerigaon	d ɔ k	d ɔ k	138-3
+1939	Khispi	d ɔ k	d ɔ k	138-3
+1940	Khoina	d ɔ k	d ɔ k	138-3
+1941	Khoitam	d ɔ k	d ɔ k	138-3
+1942	Rahung	d ɔ k	d ɔ k	138-3
+1943	Rupa	d ɔ k	d ɔ k	138-3
+1944	Shergaon	d ɔ k	d ɔ k	138-3
+1945	Duhumbi	d ɔ k	d ɔ k	138-4
+1946	Jerigaon	d ɔ k	d ɔ k	138-4
+1947	Khispi	d ɔ k	d ɔ k	138-4
+1948	Khoina	d ɔ k	d ɔ k	138-4
+1949	Khoitam	d ɔ k	d ɔ k	138-4
+1950	Rahung	d ɔ k	d ɔ k	138-4
+1951	Rupa	d ɔ k	d ɔ k	138-4
+1952	Shergaon	d ɔ k	d ɔ k	138-4
+1953	Duhumbi	d ɔ k	d ɔ k	138-5
+1954	Jerigaon	d ɔ k	d ɔ k	138-5
+1955	Khispi	d ɔ k	d ɔ k	138-5
+1956	Khoina	d ɔ k	d ɔ k	138-5
+1957	Khoitam	d ɔ k	d ɔ k	138-5
+1958	Rahung	d ɔ k	d ɔ k	138-5
+1959	Rupa	d ɔ k	d ɔ k	138-5
+1960	Shergaon	d ɔ k	d ɔ k	138-5
+1961	Duhumbi	d ɔ k	d ɔ k	138-6
+1962	Jerigaon	d ɔ k	d ɔ k	138-6
+1963	Khispi	d ɔ k	d ɔ k	138-6
+1964	Khoina	d ɔ k	d ɔ k	138-6
+1965	Khoitam	d ɔ k	d ɔ k	138-6
+1966	Rahung	d ɔ k	d ɔ k	138-6
+1967	Rupa	d ɔ k	d ɔ k	138-6
+1968	Shergaon	d ɔ k	d ɔ k	138-6
+1969	Duhumbi	d ɔ k	d ɔ k	138-7
+1970	Jerigaon	d ɔ k	d ɔ k	138-7
+1971	Khispi	d ɔ k	d ɔ k	138-7
+1972	Khoina	d ɔ k	d ɔ k	138-7
+1973	Khoitam	d ɔ k	d ɔ k	138-7
+1974	Rahung	d ɔ k	d ɔ k	138-7
+1975	Rupa	d ɔ k	d ɔ k	138-7
+1976	Shergaon	d ɔ k	d ɔ k	138-7
+1977	Duhumbi	d ɔ k	d ɔ k	138-8
+1978	Jerigaon	d ɔ k	d ɔ k	138-8
+1979	Khispi	d ɔ k	d ɔ k	138-8
+1980	Khoina	d ɔ k	d ɔ k	138-8
+1981	Khoitam	d ɔ k	d ɔ k	138-8
+1982	Rahung	d ɔ k	d ɔ k	138-8
+1983	Rupa	d ɔ k	d ɔ k	138-8
+1984	Shergaon	d ɔ k	d ɔ k	138-8
+1985	Duhumbi	h w a	h w a	140-1
+1986	Jerigaon	h uː	h - uː	140-1
+1987	Khispi	h w a	h w a	140-1
+1988	Khoina	f uː	f - uː	140-1
+1989	Khoitam	h uː	h - uː	140-1
+1990	Rahung	h uː	h - uː	140-1
+1991	Rupa	h uː	h - uː	140-1
+1992	Shergaon	h uː	h - uː	140-1
+1993	Duhumbi	h w a	h w a	140-2
+1994	Jerigaon	h uː	h - uː	140-2
+1995	Khispi	h w a	h w a	140-2
+1996	Khoina	f uː	f - uː	140-2
+1997	Khoitam	h uː	h - uː	140-2
+1998	Rahung	h uː	h - uː	140-2
+1999	Rupa	h uː	h - uː	140-2
+2000	Shergaon	h uː	h - uː	140-2
+2001	Duhumbi	h w a	h w a	140-3
+2002	Jerigaon	h uː	h - uː	140-3
+2003	Khispi	h w a	h w a	140-3
+2004	Khoina	f uː	f - uː	140-3
+2005	Khoitam	h uː	h - uː	140-3
+2006	Rahung	h uː	h - uː	140-3
+2007	Rupa	h uː	h - uː	140-3
+2008	Shergaon	h uː	h - uː	140-3
+2009	Duhumbi	h w a	h w a	140-4
+2010	Jerigaon	h uː	h - uː	140-4
+2011	Khispi	h w a	h w a	140-4
+2012	Khoina	f uː	f - uː	140-4
+2013	Khoitam	h uː	h - uː	140-4
+2014	Rahung	h uː	h - uː	140-4
+2015	Rupa	h uː	h - uː	140-4
+2016	Shergaon	h uː	h - uː	140-4
+2017	Duhumbi	h w a	h w a	140-5
+2018	Jerigaon	h uː	h - uː	140-5
+2019	Khispi	h w a	h w a	140-5
+2020	Khoina	f uː	f - uː	140-5
+2021	Khoitam	h uː	h - uː	140-5
+2022	Rahung	h uː	h - uː	140-5
+2023	Rupa	h uː	h - uː	140-5
+2024	Shergaon	h uː	h - uː	140-5
+2025	Duhumbi	h w a	h w a	140-6
+2026	Jerigaon	h uː	h - uː	140-6
+2027	Khispi	h w a	h w a	140-6
+2028	Khoina	f uː	f - uː	140-6
+2029	Khoitam	h uː	h - uː	140-6
+2030	Rahung	h uː	h - uː	140-6
+2031	Rupa	h uː	h - uː	140-6
+2032	Shergaon	h uː	h - uː	140-6
+2033	Duhumbi	h w a	h w a	140-7
+2034	Jerigaon	h uː	h - uː	140-7
+2035	Khispi	h w a	h w a	140-7
+2036	Khoina	f uː	f - uː	140-7
+2037	Khoitam	h uː	h - uː	140-7
+2038	Rahung	h uː	h - uː	140-7
+2039	Rupa	h uː	h - uː	140-7
+2040	Shergaon	h uː	h - uː	140-7
+2041	Duhumbi	h w a	h w a	140-8
+2042	Jerigaon	h uː	h - uː	140-8
+2043	Khispi	h w a	h w a	140-8
+2044	Khoina	f uː	f - uː	140-8
+2045	Khoitam	h uː	h - uː	140-8
+2046	Rahung	h uː	h - uː	140-8
+2047	Rupa	h uː	h - uː	140-8
+2048	Shergaon	h uː	h - uː	140-8
+2049	Duhumbi	tɕʰ a k	tɕʰ a k	143-1
+2050	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	143-1
+2051	Khispi	tɕʰ a k	tɕʰ a k	143-1
+2052	Khoina	tɕʰ ɐ k	tɕʰ ɐ k	143-1
+2053	Khoitam	tɕʰ a k	tɕʰ a k	143-1
+2054	Rahung	tɕʰ a k	tɕʰ a k	143-1
+2055	Rupa	ʨʰ a k	ʨʰ a k	143-1
+2056	Shergaon	tɕʰ a k	tɕʰ a k	143-1
+2057	Duhumbi	tɕʰ a k	tɕʰ a k	143-2
+2058	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	143-2
+2059	Khispi	tɕʰ a k	tɕʰ a k	143-2
+2060	Khoina	tɕʰ ɐ k	tɕʰ ɐ k	143-2
+2061	Khoitam	tɕʰ a k	tɕʰ a k	143-2
+2062	Rahung	tɕʰ a k	tɕʰ a k	143-2
+2063	Rupa	ʨʰ a k	ʨʰ a k	143-2
+2064	Shergaon	tɕʰ a k	tɕʰ a k	143-2
+2065	Duhumbi	tɕʰ a k	tɕʰ a k	143-3
+2066	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	143-3
+2067	Khispi	tɕʰ a k	tɕʰ a k	143-3
+2068	Khoina	tɕʰ ɐ k	tɕʰ ɐ k	143-3
+2069	Khoitam	tɕʰ a k	tɕʰ a k	143-3
+2070	Rahung	tɕʰ a k	tɕʰ a k	143-3
+2071	Rupa	ʨʰ a k	ʨʰ a k	143-3
+2072	Shergaon	tɕʰ a k	tɕʰ a k	143-3
+2073	Duhumbi	tɕʰ a k	tɕʰ a k	143-4
+2074	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	143-4
+2075	Khispi	tɕʰ a k	tɕʰ a k	143-4
+2076	Khoina	tɕʰ ɐ k	tɕʰ ɐ k	143-4
+2077	Khoitam	tɕʰ a k	tɕʰ a k	143-4
+2078	Rahung	tɕʰ a k	tɕʰ a k	143-4
+2079	Rupa	ʨʰ a k	ʨʰ a k	143-4
+2080	Shergaon	tɕʰ a k	tɕʰ a k	143-4
+2081	Duhumbi	tɕʰ a k	tɕʰ a k	143-5
+2082	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	143-5
+2083	Khispi	tɕʰ a k	tɕʰ a k	143-5
+2084	Khoina	tɕʰ ɐ k	tɕʰ ɐ k	143-5
+2085	Khoitam	tɕʰ a k	tɕʰ a k	143-5
+2086	Rahung	tɕʰ a k	tɕʰ a k	143-5
+2087	Rupa	ʨʰ a k	ʨʰ a k	143-5
+2088	Shergaon	tɕʰ a k	tɕʰ a k	143-5
+2089	Duhumbi	tɕʰ a k	tɕʰ a k	143-6
+2090	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	143-6
+2091	Khispi	tɕʰ a k	tɕʰ a k	143-6
+2092	Khoina	tɕʰ ɐ k	tɕʰ ɐ k	143-6
+2093	Khoitam	tɕʰ a k	tɕʰ a k	143-6
+2094	Rahung	tɕʰ a k	tɕʰ a k	143-6
+2095	Rupa	ʨʰ a k	ʨʰ a k	143-6
+2096	Shergaon	tɕʰ a k	tɕʰ a k	143-6
+2097	Duhumbi	tɕʰ a k	tɕʰ a k	143-7
+2098	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	143-7
+2099	Khispi	tɕʰ a k	tɕʰ a k	143-7
+2100	Khoina	tɕʰ ɐ k	tɕʰ ɐ k	143-7
+2101	Khoitam	tɕʰ a k	tɕʰ a k	143-7
+2102	Rahung	tɕʰ a k	tɕʰ a k	143-7
+2103	Rupa	ʨʰ a k	ʨʰ a k	143-7
+2104	Shergaon	tɕʰ a k	tɕʰ a k	143-7
+2105	Duhumbi	tɕʰ a k	tɕʰ a k	143-8
+2106	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	143-8
+2107	Khispi	tɕʰ a k	tɕʰ a k	143-8
+2108	Khoina	tɕʰ ɐ k	tɕʰ ɐ k	143-8
+2109	Khoitam	tɕʰ a k	tɕʰ a k	143-8
+2110	Rahung	tɕʰ a k	tɕʰ a k	143-8
+2111	Rupa	ʨʰ a k	ʨʰ a k	143-8
+2112	Shergaon	tɕʰ a k	tɕʰ a k	143-8
+2113	Duhumbi	tɕʰ a m	tɕʰ a m	145-1
+2114	Jerigaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-1
+2115	Khispi	tɕʰ a m	tɕʰ a m	145-1
+2116	Khoina	ʈʂʰ ũː	ʈʂʰ ũː -	145-1
+2117	Khoitam	tɕʰ ũː	tɕʰ ũː -	145-1
+2118	Rahung	tɕʰ ũː	tɕʰ ũː -	145-1
+2119	Rupa	tɕʰ ũː	tɕʰ ũː -	145-1
+2120	Shergaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-1
+2121	Duhumbi	tɕʰ a m	tɕʰ a m	145-2
+2122	Jerigaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-2
+2123	Khispi	tɕʰ a m	tɕʰ a m	145-2
+2124	Khoina	ʈʂʰ ũː	ʈʂʰ ũː -	145-2
+2125	Khoitam	tɕʰ ũː	tɕʰ ũː -	145-2
+2126	Rahung	tɕʰ ũː	tɕʰ ũː -	145-2
+2127	Rupa	tɕʰ ũː	tɕʰ ũː -	145-2
+2128	Shergaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-2
+2129	Duhumbi	tɕʰ a m	tɕʰ a m	145-3
+2130	Jerigaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-3
+2131	Khispi	tɕʰ a m	tɕʰ a m	145-3
+2132	Khoina	ʈʂʰ ũː	ʈʂʰ ũː -	145-3
+2133	Khoitam	tɕʰ ũː	tɕʰ ũː -	145-3
+2134	Rahung	tɕʰ ũː	tɕʰ ũː -	145-3
+2135	Rupa	tɕʰ ũː	tɕʰ ũː -	145-3
+2136	Shergaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-3
+2137	Duhumbi	tɕʰ a m	tɕʰ a m	145-4
+2138	Jerigaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-4
+2139	Khispi	tɕʰ a m	tɕʰ a m	145-4
+2140	Khoina	ʈʂʰ ũː	ʈʂʰ ũː -	145-4
+2141	Khoitam	tɕʰ ũː	tɕʰ ũː -	145-4
+2142	Rahung	tɕʰ ũː	tɕʰ ũː -	145-4
+2143	Rupa	tɕʰ ũː	tɕʰ ũː -	145-4
+2144	Shergaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-4
+2145	Duhumbi	tɕʰ a m	tɕʰ a m	145-5
+2146	Jerigaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-5
+2147	Khispi	tɕʰ a m	tɕʰ a m	145-5
+2148	Khoina	ʈʂʰ ũː	ʈʂʰ ũː -	145-5
+2149	Khoitam	tɕʰ ũː	tɕʰ ũː -	145-5
+2150	Rahung	tɕʰ ũː	tɕʰ ũː -	145-5
+2151	Rupa	tɕʰ ũː	tɕʰ ũː -	145-5
+2152	Shergaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-5
+2153	Duhumbi	tɕʰ a m	tɕʰ a m	145-6
+2154	Jerigaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-6
+2155	Khispi	tɕʰ a m	tɕʰ a m	145-6
+2156	Khoina	ʈʂʰ ũː	ʈʂʰ ũː -	145-6
+2157	Khoitam	tɕʰ ũː	tɕʰ ũː -	145-6
+2158	Rahung	tɕʰ ũː	tɕʰ ũː -	145-6
+2159	Rupa	tɕʰ ũː	tɕʰ ũː -	145-6
+2160	Shergaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-6
+2161	Duhumbi	tɕʰ a m	tɕʰ a m	145-7
+2162	Jerigaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-7
+2163	Khispi	tɕʰ a m	tɕʰ a m	145-7
+2164	Khoina	ʈʂʰ ũː	ʈʂʰ ũː -	145-7
+2165	Khoitam	tɕʰ ũː	tɕʰ ũː -	145-7
+2166	Rahung	tɕʰ ũː	tɕʰ ũː -	145-7
+2167	Rupa	tɕʰ ũː	tɕʰ ũː -	145-7
+2168	Shergaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-7
+2169	Duhumbi	tɕʰ a m	tɕʰ a m	145-8
+2170	Jerigaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-8
+2171	Khispi	tɕʰ a m	tɕʰ a m	145-8
+2172	Khoina	ʈʂʰ ũː	ʈʂʰ ũː -	145-8
+2173	Khoitam	tɕʰ ũː	tɕʰ ũː -	145-8
+2174	Rahung	tɕʰ ũː	tɕʰ ũː -	145-8
+2175	Rupa	tɕʰ ũː	tɕʰ ũː -	145-8
+2176	Shergaon	tɕʰ ɔ̃ː	tɕʰ ɔ̃ː -	145-8
+2177	Duhumbi	kʰ i p	kʰ i p	146-1
+2178	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	146-1
+2179	Khispi	kʰ i p	kʰ i p	146-1
+2180	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	146-1
+2181	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	146-1
+2182	Rahung	tɕʰ eˀ	tɕʰ eˀ -	146-1
+2183	Rupa	kʰ eˀ	kʰ eˀ -	146-1
+2184	Shergaon	kʰ eː	kʰ eː -	146-1
+2185	Duhumbi	kʰ i p	kʰ i p	146-2
+2186	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	146-2
+2187	Khispi	kʰ i p	kʰ i p	146-2
+2188	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	146-2
+2189	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	146-2
+2190	Rahung	tɕʰ eˀ	tɕʰ eˀ -	146-2
+2191	Rupa	kʰ eˀ	kʰ eˀ -	146-2
+2192	Shergaon	kʰ eː	kʰ eː -	146-2
+2193	Duhumbi	kʰ i p	kʰ i p	146-3
+2194	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	146-3
+2195	Khispi	kʰ i p	kʰ i p	146-3
+2196	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	146-3
+2197	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	146-3
+2198	Rahung	tɕʰ eˀ	tɕʰ eˀ -	146-3
+2199	Rupa	kʰ eˀ	kʰ eˀ -	146-3
+2200	Shergaon	kʰ eː	kʰ eː -	146-3
+2201	Duhumbi	kʰ i p	kʰ i p	146-4
+2202	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	146-4
+2203	Khispi	kʰ i p	kʰ i p	146-4
+2204	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	146-4
+2205	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	146-4
+2206	Rahung	tɕʰ eˀ	tɕʰ eˀ -	146-4
+2207	Rupa	kʰ eˀ	kʰ eˀ -	146-4
+2208	Shergaon	kʰ eː	kʰ eː -	146-4
+2209	Duhumbi	kʰ i p	kʰ i p	146-5
+2210	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	146-5
+2211	Khispi	kʰ i p	kʰ i p	146-5
+2212	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	146-5
+2213	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	146-5
+2214	Rahung	tɕʰ eˀ	tɕʰ eˀ -	146-5
+2215	Rupa	kʰ eˀ	kʰ eˀ -	146-5
+2216	Shergaon	kʰ eː	kʰ eː -	146-5
+2217	Duhumbi	kʰ i p	kʰ i p	146-6
+2218	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	146-6
+2219	Khispi	kʰ i p	kʰ i p	146-6
+2220	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	146-6
+2221	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	146-6
+2222	Rahung	tɕʰ eˀ	tɕʰ eˀ -	146-6
+2223	Rupa	kʰ eˀ	kʰ eˀ -	146-6
+2224	Shergaon	kʰ eː	kʰ eː -	146-6
+2225	Duhumbi	kʰ i p	kʰ i p	146-7
+2226	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	146-7
+2227	Khispi	kʰ i p	kʰ i p	146-7
+2228	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	146-7
+2229	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	146-7
+2230	Rahung	tɕʰ eˀ	tɕʰ eˀ -	146-7
+2231	Rupa	kʰ eˀ	kʰ eˀ -	146-7
+2232	Shergaon	kʰ eː	kʰ eː -	146-7
+2233	Duhumbi	kʰ i p	kʰ i p	146-8
+2234	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	146-8
+2235	Khispi	kʰ i p	kʰ i p	146-8
+2236	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	146-8
+2237	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	146-8
+2238	Rahung	tɕʰ eˀ	tɕʰ eˀ -	146-8
+2239	Rupa	kʰ eˀ	kʰ eˀ -	146-8
+2240	Shergaon	kʰ eː	kʰ eː -	146-8
+2241	Duhumbi	h ɔi	h ɔi	147-1
+2242	Jerigaon	h ɛː	h ɛː	147-1
+2243	Khispi	h ui	h ui	147-1
+2244	Khoina	x aː	x aː	147-1
+2245	Khoitam	h ɛː	h ɛː	147-1
+2246	Rahung	h ɛː	h ɛː	147-1
+2247	Rupa	h aː	h aː	147-1
+2248	Shergaon	h aː	h aː	147-1
+2249	Duhumbi	h ɔi	h ɔi	147-2
+2250	Jerigaon	h ɛː	h ɛː	147-2
+2251	Khispi	h ui	h ui	147-2
+2252	Khoina	x aː	x aː	147-2
+2253	Khoitam	h ɛː	h ɛː	147-2
+2254	Rahung	h ɛː	h ɛː	147-2
+2255	Rupa	h aː	h aː	147-2
+2256	Shergaon	h aː	h aː	147-2
+2257	Duhumbi	h ɔi	h ɔi	147-3
+2258	Jerigaon	h ɛː	h ɛː	147-3
+2259	Khispi	h ui	h ui	147-3
+2260	Khoina	x aː	x aː	147-3
+2261	Khoitam	h ɛː	h ɛː	147-3
+2262	Rahung	h ɛː	h ɛː	147-3
+2263	Rupa	h aː	h aː	147-3
+2264	Shergaon	h aː	h aː	147-3
+2265	Duhumbi	h ɔi	h ɔi	147-4
+2266	Jerigaon	h ɛː	h ɛː	147-4
+2267	Khispi	h ui	h ui	147-4
+2268	Khoina	x aː	x aː	147-4
+2269	Khoitam	h ɛː	h ɛː	147-4
+2270	Rahung	h ɛː	h ɛː	147-4
+2271	Rupa	h aː	h aː	147-4
+2272	Shergaon	h aː	h aː	147-4
+2273	Duhumbi	h ɔi	h ɔi	147-5
+2274	Jerigaon	h ɛː	h ɛː	147-5
+2275	Khispi	h ui	h ui	147-5
+2276	Khoina	x aː	x aː	147-5
+2277	Khoitam	h ɛː	h ɛː	147-5
+2278	Rahung	h ɛː	h ɛː	147-5
+2279	Rupa	h aː	h aː	147-5
+2280	Shergaon	h aː	h aː	147-5
+2281	Duhumbi	h ɔi	h ɔi	147-6
+2282	Jerigaon	h ɛː	h ɛː	147-6
+2283	Khispi	h ui	h ui	147-6
+2284	Khoina	x aː	x aː	147-6
+2285	Khoitam	h ɛː	h ɛː	147-6
+2286	Rahung	h ɛː	h ɛː	147-6
+2287	Rupa	h aː	h aː	147-6
+2288	Shergaon	h aː	h aː	147-6
+2289	Duhumbi	h ɔi	h ɔi	147-7
+2290	Jerigaon	h ɛː	h ɛː	147-7
+2291	Khispi	h ui	h ui	147-7
+2292	Khoina	x aː	x aː	147-7
+2293	Khoitam	h ɛː	h ɛː	147-7
+2294	Rahung	h ɛː	h ɛː	147-7
+2295	Rupa	h aː	h aː	147-7
+2296	Shergaon	h aː	h aː	147-7
+2297	Duhumbi	h ɔi	h ɔi	147-8
+2298	Jerigaon	h ɛː	h ɛː	147-8
+2299	Khispi	h ui	h ui	147-8
+2300	Khoina	x aː	x aː	147-8
+2301	Khoitam	h ɛː	h ɛː	147-8
+2302	Rahung	h ɛː	h ɛː	147-8
+2303	Rupa	h aː	h aː	147-8
+2304	Shergaon	h aː	h aː	147-8
+2305	Duhumbi	h u t	h u t	149-1
+2306	Jerigaon	w i k	w i k	149-1
+2307	Khispi	h u t	h u t	149-1
+2308	Khoina	w i k	w i k	149-1
+2309	Khoitam	m i k	m i k	149-1
+2310	Rahung	m i k	m i k	149-1
+2311	Rupa	m i k	m i k	149-1
+2312	Shergaon	m i t	m i t	149-1
+2313	Duhumbi	h u t	h u t	149-2
+2314	Jerigaon	w i k	w i k	149-2
+2315	Khispi	h u t	h u t	149-2
+2316	Khoina	w i k	w i k	149-2
+2317	Khoitam	m i k	m i k	149-2
+2318	Rahung	m i k	m i k	149-2
+2319	Rupa	m i k	m i k	149-2
+2320	Shergaon	m i t	m i t	149-2
+2321	Duhumbi	h u t	h u t	149-3
+2322	Jerigaon	w i k	w i k	149-3
+2323	Khispi	h u t	h u t	149-3
+2324	Khoina	w i k	w i k	149-3
+2325	Khoitam	m i k	m i k	149-3
+2326	Rahung	m i k	m i k	149-3
+2327	Rupa	m i k	m i k	149-3
+2328	Shergaon	m i t	m i t	149-3
+2329	Duhumbi	h u t	h u t	149-4
+2330	Jerigaon	w i k	w i k	149-4
+2331	Khispi	h u t	h u t	149-4
+2332	Khoina	w i k	w i k	149-4
+2333	Khoitam	m i k	m i k	149-4
+2334	Rahung	m i k	m i k	149-4
+2335	Rupa	m i k	m i k	149-4
+2336	Shergaon	m i t	m i t	149-4
+2337	Duhumbi	h u t	h u t	149-5
+2338	Jerigaon	w i k	w i k	149-5
+2339	Khispi	h u t	h u t	149-5
+2340	Khoina	w i k	w i k	149-5
+2341	Khoitam	m i k	m i k	149-5
+2342	Rahung	m i k	m i k	149-5
+2343	Rupa	m i k	m i k	149-5
+2344	Shergaon	m i t	m i t	149-5
+2345	Duhumbi	h u t	h u t	149-6
+2346	Jerigaon	w i k	w i k	149-6
+2347	Khispi	h u t	h u t	149-6
+2348	Khoina	w i k	w i k	149-6
+2349	Khoitam	m i k	m i k	149-6
+2350	Rahung	m i k	m i k	149-6
+2351	Rupa	m i k	m i k	149-6
+2352	Shergaon	m i t	m i t	149-6
+2353	Duhumbi	h u t	h u t	149-7
+2354	Jerigaon	w i k	w i k	149-7
+2355	Khispi	h u t	h u t	149-7
+2356	Khoina	w i k	w i k	149-7
+2357	Khoitam	m i k	m i k	149-7
+2358	Rahung	m i k	m i k	149-7
+2359	Rupa	m i k	m i k	149-7
+2360	Shergaon	m i t	m i t	149-7
+2361	Duhumbi	h u t	h u t	149-8
+2362	Jerigaon	w i k	w i k	149-8
+2363	Khispi	h u t	h u t	149-8
+2364	Khoina	w i k	w i k	149-8
+2365	Khoitam	m i k	m i k	149-8
+2366	Rahung	m i k	m i k	149-8
+2367	Rupa	m i k	m i k	149-8
+2368	Shergaon	m i t	m i t	149-8
+2369	Duhumbi	kʰ ɛ n	kʰ ɛ n	152-1
+2370	Jerigaon	ɛ n	- ɛ n	152-1
+2371	Khispi	kʰ ɛ n	kʰ ɛ n	152-1
+2372	Khoina	ʈʂʰ ɛ n	ʈʂʰ ɛ n	152-1
+2373	Khoitam	kʰ a n	kʰ a n	152-1
+2374	Rahung	kʰ a n	kʰ a n	152-1
+2375	Rupa	k a n	k a n	152-1
+2376	Shergaon	k a n	k a n	152-1
+2377	Duhumbi	kʰ ɛ n	kʰ ɛ n	152-2
+2378	Jerigaon	ɛ n	- ɛ n	152-2
+2379	Khispi	kʰ ɛ n	kʰ ɛ n	152-2
+2380	Khoina	ʈʂʰ ɛ n	ʈʂʰ ɛ n	152-2
+2381	Khoitam	kʰ a n	kʰ a n	152-2
+2382	Rahung	kʰ a n	kʰ a n	152-2
+2383	Rupa	k a n	k a n	152-2
+2384	Shergaon	k a n	k a n	152-2
+2385	Duhumbi	kʰ ɛ n	kʰ ɛ n	152-3
+2386	Jerigaon	ɛ n	- ɛ n	152-3
+2387	Khispi	kʰ ɛ n	kʰ ɛ n	152-3
+2388	Khoina	ʈʂʰ ɛ n	ʈʂʰ ɛ n	152-3
+2389	Khoitam	kʰ a n	kʰ a n	152-3
+2390	Rahung	kʰ a n	kʰ a n	152-3
+2391	Rupa	k a n	k a n	152-3
+2392	Shergaon	k a n	k a n	152-3
+2393	Duhumbi	kʰ ɛ n	kʰ ɛ n	152-4
+2394	Jerigaon	ɛ n	- ɛ n	152-4
+2395	Khispi	kʰ ɛ n	kʰ ɛ n	152-4
+2396	Khoina	ʈʂʰ ɛ n	ʈʂʰ ɛ n	152-4
+2397	Khoitam	kʰ a n	kʰ a n	152-4
+2398	Rahung	kʰ a n	kʰ a n	152-4
+2399	Rupa	k a n	k a n	152-4
+2400	Shergaon	k a n	k a n	152-4
+2401	Duhumbi	kʰ ɛ n	kʰ ɛ n	152-5
+2402	Jerigaon	ɛ n	- ɛ n	152-5
+2403	Khispi	kʰ ɛ n	kʰ ɛ n	152-5
+2404	Khoina	ʈʂʰ ɛ n	ʈʂʰ ɛ n	152-5
+2405	Khoitam	kʰ a n	kʰ a n	152-5
+2406	Rahung	kʰ a n	kʰ a n	152-5
+2407	Rupa	k a n	k a n	152-5
+2408	Shergaon	k a n	k a n	152-5
+2409	Duhumbi	kʰ ɛ n	kʰ ɛ n	152-6
+2410	Jerigaon	ɛ n	- ɛ n	152-6
+2411	Khispi	kʰ ɛ n	kʰ ɛ n	152-6
+2412	Khoina	ʈʂʰ ɛ n	ʈʂʰ ɛ n	152-6
+2413	Khoitam	kʰ a n	kʰ a n	152-6
+2414	Rahung	kʰ a n	kʰ a n	152-6
+2415	Rupa	k a n	k a n	152-6
+2416	Shergaon	k a n	k a n	152-6
+2417	Duhumbi	kʰ ɛ n	kʰ ɛ n	152-7
+2418	Jerigaon	ɛ n	- ɛ n	152-7
+2419	Khispi	kʰ ɛ n	kʰ ɛ n	152-7
+2420	Khoina	ʈʂʰ ɛ n	ʈʂʰ ɛ n	152-7
+2421	Khoitam	kʰ a n	kʰ a n	152-7
+2422	Rahung	kʰ a n	kʰ a n	152-7
+2423	Rupa	k a n	k a n	152-7
+2424	Shergaon	k a n	k a n	152-7
+2425	Duhumbi	kʰ ɛ n	kʰ ɛ n	152-8
+2426	Jerigaon	ɛ n	- ɛ n	152-8
+2427	Khispi	kʰ ɛ n	kʰ ɛ n	152-8
+2428	Khoina	ʈʂʰ ɛ n	ʈʂʰ ɛ n	152-8
+2429	Khoitam	kʰ a n	kʰ a n	152-8
+2430	Rahung	kʰ a n	kʰ a n	152-8
+2431	Rupa	k a n	k a n	152-8
+2432	Shergaon	k a n	k a n	152-8
+2433	Duhumbi	ɕ a	ɕ a	153-1
+2434	Jerigaon	s	s -	153-1
+2435	Khispi	ɕ a	ɕ a	153-1
+2436	Khoina	ʂ	ʂ -	153-1
+2437	Khoitam	s	s -	153-1
+2438	Rahung	s	s -	153-1
+2439	Rupa	s	s -	153-1
+2440	Shergaon	s	s -	153-1
+2441	Duhumbi	ɕ a	ɕ a	153-2
+2442	Jerigaon	s	s -	153-2
+2443	Khispi	ɕ a	ɕ a	153-2
+2444	Khoina	ʂ	ʂ -	153-2
+2445	Khoitam	s	s -	153-2
+2446	Rahung	s	s -	153-2
+2447	Rupa	s	s -	153-2
+2448	Shergaon	s	s -	153-2
+2449	Duhumbi	ɕ a	ɕ a	153-3
+2450	Jerigaon	s	s -	153-3
+2451	Khispi	ɕ a	ɕ a	153-3
+2452	Khoina	ʂ	ʂ -	153-3
+2453	Khoitam	s	s -	153-3
+2454	Rahung	s	s -	153-3
+2455	Rupa	s	s -	153-3
+2456	Shergaon	s	s -	153-3
+2457	Duhumbi	ɕ a	ɕ a	153-4
+2458	Jerigaon	s	s -	153-4
+2459	Khispi	ɕ a	ɕ a	153-4
+2460	Khoina	ʂ	ʂ -	153-4
+2461	Khoitam	s	s -	153-4
+2462	Rahung	s	s -	153-4
+2463	Rupa	s	s -	153-4
+2464	Shergaon	s	s -	153-4
+2465	Duhumbi	ɕ a	ɕ a	153-5
+2466	Jerigaon	s	s -	153-5
+2467	Khispi	ɕ a	ɕ a	153-5
+2468	Khoina	ʂ	ʂ -	153-5
+2469	Khoitam	s	s -	153-5
+2470	Rahung	s	s -	153-5
+2471	Rupa	s	s -	153-5
+2472	Shergaon	s	s -	153-5
+2473	Duhumbi	ɕ a	ɕ a	153-6
+2474	Jerigaon	s	s -	153-6
+2475	Khispi	ɕ a	ɕ a	153-6
+2476	Khoina	ʂ	ʂ -	153-6
+2477	Khoitam	s	s -	153-6
+2478	Rahung	s	s -	153-6
+2479	Rupa	s	s -	153-6
+2480	Shergaon	s	s -	153-6
+2481	Duhumbi	ɕ a	ɕ a	153-7
+2482	Jerigaon	s	s -	153-7
+2483	Khispi	ɕ a	ɕ a	153-7
+2484	Khoina	ʂ	ʂ -	153-7
+2485	Khoitam	s	s -	153-7
+2486	Rahung	s	s -	153-7
+2487	Rupa	s	s -	153-7
+2488	Shergaon	s	s -	153-7
+2489	Duhumbi	ɕ a	ɕ a	153-8
+2490	Jerigaon	s	s -	153-8
+2491	Khispi	ɕ a	ɕ a	153-8
+2492	Khoina	ʂ	ʂ -	153-8
+2493	Khoitam	s	s -	153-8
+2494	Rahung	s	s -	153-8
+2495	Rupa	s	s -	153-8
+2496	Shergaon	s	s -	153-8
+2497	Duhumbi	kʰ u s	kʰ u s	158-1
+2498	Jerigaon	h i k	h i k	158-1
+2499	Khispi	kʰ u s	kʰ u s	158-1
+2500	Khoina	x y k	x y k	158-1
+2501	Khoitam	k i k	k i k	158-1
+2502	Rahung	k i k	k i k	158-1
+2503	Rupa	k i k	k i k	158-1
+2504	Shergaon	k i t	k i t	158-1
+2505	Duhumbi	kʰ u s	kʰ u s	158-2
+2506	Jerigaon	h i k	h i k	158-2
+2507	Khispi	kʰ u s	kʰ u s	158-2
+2508	Khoina	x y k	x y k	158-2
+2509	Khoitam	k i k	k i k	158-2
+2510	Rahung	k i k	k i k	158-2
+2511	Rupa	k i k	k i k	158-2
+2512	Shergaon	k i t	k i t	158-2
+2513	Duhumbi	kʰ u s	kʰ u s	158-3
+2514	Jerigaon	h i k	h i k	158-3
+2515	Khispi	kʰ u s	kʰ u s	158-3
+2516	Khoina	x y k	x y k	158-3
+2517	Khoitam	k i k	k i k	158-3
+2518	Rahung	k i k	k i k	158-3
+2519	Rupa	k i k	k i k	158-3
+2520	Shergaon	k i t	k i t	158-3
+2521	Duhumbi	kʰ u s	kʰ u s	158-4
+2522	Jerigaon	h i k	h i k	158-4
+2523	Khispi	kʰ u s	kʰ u s	158-4
+2524	Khoina	x y k	x y k	158-4
+2525	Khoitam	k i k	k i k	158-4
+2526	Rahung	k i k	k i k	158-4
+2527	Rupa	k i k	k i k	158-4
+2528	Shergaon	k i t	k i t	158-4
+2529	Duhumbi	kʰ u s	kʰ u s	158-5
+2530	Jerigaon	h i k	h i k	158-5
+2531	Khispi	kʰ u s	kʰ u s	158-5
+2532	Khoina	x y k	x y k	158-5
+2533	Khoitam	k i k	k i k	158-5
+2534	Rahung	k i k	k i k	158-5
+2535	Rupa	k i k	k i k	158-5
+2536	Shergaon	k i t	k i t	158-5
+2537	Duhumbi	kʰ u s	kʰ u s	158-6
+2538	Jerigaon	h i k	h i k	158-6
+2539	Khispi	kʰ u s	kʰ u s	158-6
+2540	Khoina	x y k	x y k	158-6
+2541	Khoitam	k i k	k i k	158-6
+2542	Rahung	k i k	k i k	158-6
+2543	Rupa	k i k	k i k	158-6
+2544	Shergaon	k i t	k i t	158-6
+2545	Duhumbi	kʰ u s	kʰ u s	158-7
+2546	Jerigaon	h i k	h i k	158-7
+2547	Khispi	kʰ u s	kʰ u s	158-7
+2548	Khoina	x y k	x y k	158-7
+2549	Khoitam	k i k	k i k	158-7
+2550	Rahung	k i k	k i k	158-7
+2551	Rupa	k i k	k i k	158-7
+2552	Shergaon	k i t	k i t	158-7
+2553	Duhumbi	kʰ u s	kʰ u s	158-8
+2554	Jerigaon	h i k	h i k	158-8
+2555	Khispi	kʰ u s	kʰ u s	158-8
+2556	Khoina	x y k	x y k	158-8
+2557	Khoitam	k i k	k i k	158-8
+2558	Rahung	k i k	k i k	158-8
+2559	Rupa	k i k	k i k	158-8
+2560	Shergaon	k i t	k i t	158-8
+2561	Duhumbi	l i	l i	163-1
+2562	Jerigaon	l i	l i	163-1
+2563	Khispi	l i	l i	163-1
+2564	Khoina	l i	l i	163-1
+2565	Khoitam	r i	r i	163-1
+2566	Rahung	r i	r i	163-1
+2567	Rupa	l i	l i	163-1
+2568	Shergaon	l i	l i	163-1
+2569	Duhumbi	l i	l i	163-2
+2570	Jerigaon	l i	l i	163-2
+2571	Khispi	l i	l i	163-2
+2572	Khoina	l i	l i	163-2
+2573	Khoitam	r i	r i	163-2
+2574	Rahung	r i	r i	163-2
+2575	Rupa	l i	l i	163-2
+2576	Shergaon	l i	l i	163-2
+2577	Duhumbi	l i	l i	163-3
+2578	Jerigaon	l i	l i	163-3
+2579	Khispi	l i	l i	163-3
+2580	Khoina	l i	l i	163-3
+2581	Khoitam	r i	r i	163-3
+2582	Rahung	r i	r i	163-3
+2583	Rupa	l i	l i	163-3
+2584	Shergaon	l i	l i	163-3
+2585	Duhumbi	l i	l i	163-4
+2586	Jerigaon	l i	l i	163-4
+2587	Khispi	l i	l i	163-4
+2588	Khoina	l i	l i	163-4
+2589	Khoitam	r i	r i	163-4
+2590	Rahung	r i	r i	163-4
+2591	Rupa	l i	l i	163-4
+2592	Shergaon	l i	l i	163-4
+2593	Duhumbi	l i	l i	163-5
+2594	Jerigaon	l i	l i	163-5
+2595	Khispi	l i	l i	163-5
+2596	Khoina	l i	l i	163-5
+2597	Khoitam	r i	r i	163-5
+2598	Rahung	r i	r i	163-5
+2599	Rupa	l i	l i	163-5
+2600	Shergaon	l i	l i	163-5
+2601	Duhumbi	l i	l i	163-6
+2602	Jerigaon	l i	l i	163-6
+2603	Khispi	l i	l i	163-6
+2604	Khoina	l i	l i	163-6
+2605	Khoitam	r i	r i	163-6
+2606	Rahung	r i	r i	163-6
+2607	Rupa	l i	l i	163-6
+2608	Shergaon	l i	l i	163-6
+2609	Duhumbi	l i	l i	163-7
+2610	Jerigaon	l i	l i	163-7
+2611	Khispi	l i	l i	163-7
+2612	Khoina	l i	l i	163-7
+2613	Khoitam	r i	r i	163-7
+2614	Rahung	r i	r i	163-7
+2615	Rupa	l i	l i	163-7
+2616	Shergaon	l i	l i	163-7
+2617	Duhumbi	l i	l i	163-8
+2618	Jerigaon	l i	l i	163-8
+2619	Khispi	l i	l i	163-8
+2620	Khoina	l i	l i	163-8
+2621	Khoitam	r i	r i	163-8
+2622	Rahung	r i	r i	163-8
+2623	Rupa	l i	l i	163-8
+2624	Shergaon	l i	l i	163-8
+2625	Duhumbi	ɲ u	ɲ u	164-1
+2626	Jerigaon	n yː	n yː	164-1
+2627	Khispi	ɲ u	ɲ u	164-1
+2628	Khoina	n yː	n yː	164-1
+2629	Khoitam	n yː	n yː	164-1
+2630	Rahung	n yː	n yː	164-1
+2631	Rupa	ɲ yː	ɲ yː	164-1
+2632	Shergaon	ɲ iː	ɲ iː	164-1
+2633	Duhumbi	ɲ u	ɲ u	164-2
+2634	Jerigaon	n yː	n yː	164-2
+2635	Khispi	ɲ u	ɲ u	164-2
+2636	Khoina	n yː	n yː	164-2
+2637	Khoitam	n yː	n yː	164-2
+2638	Rahung	n yː	n yː	164-2
+2639	Rupa	ɲ yː	ɲ yː	164-2
+2640	Shergaon	ɲ iː	ɲ iː	164-2
+2641	Duhumbi	ɲ u	ɲ u	164-3
+2642	Jerigaon	n yː	n yː	164-3
+2643	Khispi	ɲ u	ɲ u	164-3
+2644	Khoina	n yː	n yː	164-3
+2645	Khoitam	n yː	n yː	164-3
+2646	Rahung	n yː	n yː	164-3
+2647	Rupa	ɲ yː	ɲ yː	164-3
+2648	Shergaon	ɲ iː	ɲ iː	164-3
+2649	Duhumbi	ɲ u	ɲ u	164-4
+2650	Jerigaon	n yː	n yː	164-4
+2651	Khispi	ɲ u	ɲ u	164-4
+2652	Khoina	n yː	n yː	164-4
+2653	Khoitam	n yː	n yː	164-4
+2654	Rahung	n yː	n yː	164-4
+2655	Rupa	ɲ yː	ɲ yː	164-4
+2656	Shergaon	ɲ iː	ɲ iː	164-4
+2657	Duhumbi	ɲ u	ɲ u	164-5
+2658	Jerigaon	n yː	n yː	164-5
+2659	Khispi	ɲ u	ɲ u	164-5
+2660	Khoina	n yː	n yː	164-5
+2661	Khoitam	n yː	n yː	164-5
+2662	Rahung	n yː	n yː	164-5
+2663	Rupa	ɲ yː	ɲ yː	164-5
+2664	Shergaon	ɲ iː	ɲ iː	164-5
+2665	Duhumbi	ɲ u	ɲ u	164-6
+2666	Jerigaon	n yː	n yː	164-6
+2667	Khispi	ɲ u	ɲ u	164-6
+2668	Khoina	n yː	n yː	164-6
+2669	Khoitam	n yː	n yː	164-6
+2670	Rahung	n yː	n yː	164-6
+2671	Rupa	ɲ yː	ɲ yː	164-6
+2672	Shergaon	ɲ iː	ɲ iː	164-6
+2673	Duhumbi	ɲ u	ɲ u	164-7
+2674	Jerigaon	n yː	n yː	164-7
+2675	Khispi	ɲ u	ɲ u	164-7
+2676	Khoina	n yː	n yː	164-7
+2677	Khoitam	n yː	n yː	164-7
+2678	Rahung	n yː	n yː	164-7
+2679	Rupa	ɲ yː	ɲ yː	164-7
+2680	Shergaon	ɲ iː	ɲ iː	164-7
+2681	Duhumbi	ɲ u	ɲ u	164-8
+2682	Jerigaon	n yː	n yː	164-8
+2683	Khispi	ɲ u	ɲ u	164-8
+2684	Khoina	n yː	n yː	164-8
+2685	Khoitam	n yː	n yː	164-8
+2686	Rahung	n yː	n yː	164-8
+2687	Rupa	ɲ yː	ɲ yː	164-8
+2688	Shergaon	ɲ iː	ɲ iː	164-8
+2689	Duhumbi	pʰ a ŋ	pʰ a ŋ	167-1
+2690	Jerigaon	pʰ a ŋ	pʰ a ŋ	167-1
+2691	Khispi	pʰ a	pʰ a -	167-1
+2692	Khoina	pʰ a ŋ	pʰ a ŋ	167-1
+2693	Khoitam	pʰ a ŋ	pʰ a ŋ	167-1
+2694	Rahung	pʰ a ŋ	pʰ a ŋ	167-1
+2695	Rupa	pʰ a ŋ	pʰ a ŋ	167-1
+2696	Shergaon	pʰ a ŋ	pʰ a ŋ	167-1
+2697	Duhumbi	pʰ a ŋ	pʰ a ŋ	167-2
+2698	Jerigaon	pʰ a ŋ	pʰ a ŋ	167-2
+2699	Khispi	pʰ a	pʰ a -	167-2
+2700	Khoina	pʰ a ŋ	pʰ a ŋ	167-2
+2701	Khoitam	pʰ a ŋ	pʰ a ŋ	167-2
+2702	Rahung	pʰ a ŋ	pʰ a ŋ	167-2
+2703	Rupa	pʰ a ŋ	pʰ a ŋ	167-2
+2704	Shergaon	pʰ a ŋ	pʰ a ŋ	167-2
+2705	Duhumbi	pʰ a ŋ	pʰ a ŋ	167-3
+2706	Jerigaon	pʰ a ŋ	pʰ a ŋ	167-3
+2707	Khispi	pʰ a	pʰ a -	167-3
+2708	Khoina	pʰ a ŋ	pʰ a ŋ	167-3
+2709	Khoitam	pʰ a ŋ	pʰ a ŋ	167-3
+2710	Rahung	pʰ a ŋ	pʰ a ŋ	167-3
+2711	Rupa	pʰ a ŋ	pʰ a ŋ	167-3
+2712	Shergaon	pʰ a ŋ	pʰ a ŋ	167-3
+2713	Duhumbi	pʰ a ŋ	pʰ a ŋ	167-4
+2714	Jerigaon	pʰ a ŋ	pʰ a ŋ	167-4
+2715	Khispi	pʰ a	pʰ a -	167-4
+2716	Khoina	pʰ a ŋ	pʰ a ŋ	167-4
+2717	Khoitam	pʰ a ŋ	pʰ a ŋ	167-4
+2718	Rahung	pʰ a ŋ	pʰ a ŋ	167-4
+2719	Rupa	pʰ a ŋ	pʰ a ŋ	167-4
+2720	Shergaon	pʰ a ŋ	pʰ a ŋ	167-4
+2721	Duhumbi	pʰ a ŋ	pʰ a ŋ	167-5
+2722	Jerigaon	pʰ a ŋ	pʰ a ŋ	167-5
+2723	Khispi	pʰ a	pʰ a -	167-5
+2724	Khoina	pʰ a ŋ	pʰ a ŋ	167-5
+2725	Khoitam	pʰ a ŋ	pʰ a ŋ	167-5
+2726	Rahung	pʰ a ŋ	pʰ a ŋ	167-5
+2727	Rupa	pʰ a ŋ	pʰ a ŋ	167-5
+2728	Shergaon	pʰ a ŋ	pʰ a ŋ	167-5
+2729	Duhumbi	pʰ a ŋ	pʰ a ŋ	167-6
+2730	Jerigaon	pʰ a ŋ	pʰ a ŋ	167-6
+2731	Khispi	pʰ a	pʰ a -	167-6
+2732	Khoina	pʰ a ŋ	pʰ a ŋ	167-6
+2733	Khoitam	pʰ a ŋ	pʰ a ŋ	167-6
+2734	Rahung	pʰ a ŋ	pʰ a ŋ	167-6
+2735	Rupa	pʰ a ŋ	pʰ a ŋ	167-6
+2736	Shergaon	pʰ a ŋ	pʰ a ŋ	167-6
+2737	Duhumbi	pʰ a ŋ	pʰ a ŋ	167-7
+2738	Jerigaon	pʰ a ŋ	pʰ a ŋ	167-7
+2739	Khispi	pʰ a	pʰ a -	167-7
+2740	Khoina	pʰ a ŋ	pʰ a ŋ	167-7
+2741	Khoitam	pʰ a ŋ	pʰ a ŋ	167-7
+2742	Rahung	pʰ a ŋ	pʰ a ŋ	167-7
+2743	Rupa	pʰ a ŋ	pʰ a ŋ	167-7
+2744	Shergaon	pʰ a ŋ	pʰ a ŋ	167-7
+2745	Duhumbi	pʰ a ŋ	pʰ a ŋ	167-8
+2746	Jerigaon	pʰ a ŋ	pʰ a ŋ	167-8
+2747	Khispi	pʰ a	pʰ a -	167-8
+2748	Khoina	pʰ a ŋ	pʰ a ŋ	167-8
+2749	Khoitam	pʰ a ŋ	pʰ a ŋ	167-8
+2750	Rahung	pʰ a ŋ	pʰ a ŋ	167-8
+2751	Rupa	pʰ a ŋ	pʰ a ŋ	167-8
+2752	Shergaon	pʰ a ŋ	pʰ a ŋ	167-8
+2753	Duhumbi	ɲ u ŋ	ɲ u ŋ	171-1
+2754	Jerigaon	n y ŋ	n y ŋ	171-1
+2755	Khispi	ɲ u ŋ	ɲ u ŋ	171-1
+2756	Khoina	n y ŋ	n y ŋ	171-1
+2757	Khoitam	n y ŋ	n y ŋ	171-1
+2758	Rahung	n y ŋ	n y ŋ	171-1
+2759	Rupa	ɲ y ŋ	ɲ y ŋ	171-1
+2760	Shergaon	ɲ u ŋ	ɲ u ŋ	171-1
+2761	Duhumbi	ɲ u ŋ	ɲ u ŋ	171-2
+2762	Jerigaon	n y ŋ	n y ŋ	171-2
+2763	Khispi	ɲ u ŋ	ɲ u ŋ	171-2
+2764	Khoina	n y ŋ	n y ŋ	171-2
+2765	Khoitam	n y ŋ	n y ŋ	171-2
+2766	Rahung	n y ŋ	n y ŋ	171-2
+2767	Rupa	ɲ y ŋ	ɲ y ŋ	171-2
+2768	Shergaon	ɲ u ŋ	ɲ u ŋ	171-2
+2769	Duhumbi	ɲ u ŋ	ɲ u ŋ	171-3
+2770	Jerigaon	n y ŋ	n y ŋ	171-3
+2771	Khispi	ɲ u ŋ	ɲ u ŋ	171-3
+2772	Khoina	n y ŋ	n y ŋ	171-3
+2773	Khoitam	n y ŋ	n y ŋ	171-3
+2774	Rahung	n y ŋ	n y ŋ	171-3
+2775	Rupa	ɲ y ŋ	ɲ y ŋ	171-3
+2776	Shergaon	ɲ u ŋ	ɲ u ŋ	171-3
+2777	Duhumbi	ɲ u ŋ	ɲ u ŋ	171-4
+2778	Jerigaon	n y ŋ	n y ŋ	171-4
+2779	Khispi	ɲ u ŋ	ɲ u ŋ	171-4
+2780	Khoina	n y ŋ	n y ŋ	171-4
+2781	Khoitam	n y ŋ	n y ŋ	171-4
+2782	Rahung	n y ŋ	n y ŋ	171-4
+2783	Rupa	ɲ y ŋ	ɲ y ŋ	171-4
+2784	Shergaon	ɲ u ŋ	ɲ u ŋ	171-4
+2785	Duhumbi	ɲ u ŋ	ɲ u ŋ	171-5
+2786	Jerigaon	n y ŋ	n y ŋ	171-5
+2787	Khispi	ɲ u ŋ	ɲ u ŋ	171-5
+2788	Khoina	n y ŋ	n y ŋ	171-5
+2789	Khoitam	n y ŋ	n y ŋ	171-5
+2790	Rahung	n y ŋ	n y ŋ	171-5
+2791	Rupa	ɲ y ŋ	ɲ y ŋ	171-5
+2792	Shergaon	ɲ u ŋ	ɲ u ŋ	171-5
+2793	Duhumbi	ɲ u ŋ	ɲ u ŋ	171-6
+2794	Jerigaon	n y ŋ	n y ŋ	171-6
+2795	Khispi	ɲ u ŋ	ɲ u ŋ	171-6
+2796	Khoina	n y ŋ	n y ŋ	171-6
+2797	Khoitam	n y ŋ	n y ŋ	171-6
+2798	Rahung	n y ŋ	n y ŋ	171-6
+2799	Rupa	ɲ y ŋ	ɲ y ŋ	171-6
+2800	Shergaon	ɲ u ŋ	ɲ u ŋ	171-6
+2801	Duhumbi	ɲ u ŋ	ɲ u ŋ	171-7
+2802	Jerigaon	n y ŋ	n y ŋ	171-7
+2803	Khispi	ɲ u ŋ	ɲ u ŋ	171-7
+2804	Khoina	n y ŋ	n y ŋ	171-7
+2805	Khoitam	n y ŋ	n y ŋ	171-7
+2806	Rahung	n y ŋ	n y ŋ	171-7
+2807	Rupa	ɲ y ŋ	ɲ y ŋ	171-7
+2808	Shergaon	ɲ u ŋ	ɲ u ŋ	171-7
+2809	Duhumbi	ɲ u ŋ	ɲ u ŋ	171-8
+2810	Jerigaon	n y ŋ	n y ŋ	171-8
+2811	Khispi	ɲ u ŋ	ɲ u ŋ	171-8
+2812	Khoina	n y ŋ	n y ŋ	171-8
+2813	Khoitam	n y ŋ	n y ŋ	171-8
+2814	Rahung	n y ŋ	n y ŋ	171-8
+2815	Rupa	ɲ y ŋ	ɲ y ŋ	171-8
+2816	Shergaon	ɲ u ŋ	ɲ u ŋ	171-8
+2817	Duhumbi	b u k	b u k	172-1
+2818	Jerigaon	b y k	b y k	172-1
+2819	Khispi	b u k	b u k	172-1
+2820	Khoina	b y k	b y k	172-1
+2821	Khoitam	b y k	b y k	172-1
+2822	Rahung	b y k	b y k	172-1
+2823	Rupa	b y k	b y k	172-1
+2824	Shergaon	b u k	b u k	172-1
+2825	Duhumbi	b u k	b u k	172-2
+2826	Jerigaon	b y k	b y k	172-2
+2827	Khispi	b u k	b u k	172-2
+2828	Khoina	b y k	b y k	172-2
+2829	Khoitam	b y k	b y k	172-2
+2830	Rahung	b y k	b y k	172-2
+2831	Rupa	b y k	b y k	172-2
+2832	Shergaon	b u k	b u k	172-2
+2833	Duhumbi	b u k	b u k	172-3
+2834	Jerigaon	b y k	b y k	172-3
+2835	Khispi	b u k	b u k	172-3
+2836	Khoina	b y k	b y k	172-3
+2837	Khoitam	b y k	b y k	172-3
+2838	Rahung	b y k	b y k	172-3
+2839	Rupa	b y k	b y k	172-3
+2840	Shergaon	b u k	b u k	172-3
+2841	Duhumbi	b u k	b u k	172-4
+2842	Jerigaon	b y k	b y k	172-4
+2843	Khispi	b u k	b u k	172-4
+2844	Khoina	b y k	b y k	172-4
+2845	Khoitam	b y k	b y k	172-4
+2846	Rahung	b y k	b y k	172-4
+2847	Rupa	b y k	b y k	172-4
+2848	Shergaon	b u k	b u k	172-4
+2849	Duhumbi	b u k	b u k	172-5
+2850	Jerigaon	b y k	b y k	172-5
+2851	Khispi	b u k	b u k	172-5
+2852	Khoina	b y k	b y k	172-5
+2853	Khoitam	b y k	b y k	172-5
+2854	Rahung	b y k	b y k	172-5
+2855	Rupa	b y k	b y k	172-5
+2856	Shergaon	b u k	b u k	172-5
+2857	Duhumbi	b u k	b u k	172-6
+2858	Jerigaon	b y k	b y k	172-6
+2859	Khispi	b u k	b u k	172-6
+2860	Khoina	b y k	b y k	172-6
+2861	Khoitam	b y k	b y k	172-6
+2862	Rahung	b y k	b y k	172-6
+2863	Rupa	b y k	b y k	172-6
+2864	Shergaon	b u k	b u k	172-6
+2865	Duhumbi	b u k	b u k	172-7
+2866	Jerigaon	b y k	b y k	172-7
+2867	Khispi	b u k	b u k	172-7
+2868	Khoina	b y k	b y k	172-7
+2869	Khoitam	b y k	b y k	172-7
+2870	Rahung	b y k	b y k	172-7
+2871	Rupa	b y k	b y k	172-7
+2872	Shergaon	b u k	b u k	172-7
+2873	Duhumbi	b u k	b u k	172-8
+2874	Jerigaon	b y k	b y k	172-8
+2875	Khispi	b u k	b u k	172-8
+2876	Khoina	b y k	b y k	172-8
+2877	Khoitam	b y k	b y k	172-8
+2878	Rahung	b y k	b y k	172-8
+2879	Rupa	b y k	b y k	172-8
+2880	Shergaon	b u k	b u k	172-8
+2881	Duhumbi	tʰ ɔ n	tʰ ɔ n	173-1
+2882	Jerigaon	tʰ øː	tʰ øː -	173-1
+2883	Khispi	tʰ ɔ n	tʰ ɔ n	173-1
+2884	Khoina	tʰ øː	tʰ øː -	173-1
+2885	Khoitam	tʰ ĩː	tʰ ĩː -	173-1
+2886	Rahung	tʰ yː	tʰ yː -	173-1
+2887	Rupa	tʰ øː	tʰ øː -	173-1
+2888	Shergaon	t oː	t oː -	173-1
+2889	Duhumbi	tʰ ɔ n	tʰ ɔ n	173-2
+2890	Jerigaon	tʰ øː	tʰ øː -	173-2
+2891	Khispi	tʰ ɔ n	tʰ ɔ n	173-2
+2892	Khoina	tʰ øː	tʰ øː -	173-2
+2893	Khoitam	tʰ ĩː	tʰ ĩː -	173-2
+2894	Rahung	tʰ yː	tʰ yː -	173-2
+2895	Rupa	tʰ øː	tʰ øː -	173-2
+2896	Shergaon	t oː	t oː -	173-2
+2897	Duhumbi	tʰ ɔ n	tʰ ɔ n	173-3
+2898	Jerigaon	tʰ øː	tʰ øː -	173-3
+2899	Khispi	tʰ ɔ n	tʰ ɔ n	173-3
+2900	Khoina	tʰ øː	tʰ øː -	173-3
+2901	Khoitam	tʰ ĩː	tʰ ĩː -	173-3
+2902	Rahung	tʰ yː	tʰ yː -	173-3
+2903	Rupa	tʰ øː	tʰ øː -	173-3
+2904	Shergaon	t oː	t oː -	173-3
+2905	Duhumbi	tʰ ɔ n	tʰ ɔ n	173-4
+2906	Jerigaon	tʰ øː	tʰ øː -	173-4
+2907	Khispi	tʰ ɔ n	tʰ ɔ n	173-4
+2908	Khoina	tʰ øː	tʰ øː -	173-4
+2909	Khoitam	tʰ ĩː	tʰ ĩː -	173-4
+2910	Rahung	tʰ yː	tʰ yː -	173-4
+2911	Rupa	tʰ øː	tʰ øː -	173-4
+2912	Shergaon	t oː	t oː -	173-4
+2913	Duhumbi	tʰ ɔ n	tʰ ɔ n	173-5
+2914	Jerigaon	tʰ øː	tʰ øː -	173-5
+2915	Khispi	tʰ ɔ n	tʰ ɔ n	173-5
+2916	Khoina	tʰ øː	tʰ øː -	173-5
+2917	Khoitam	tʰ ĩː	tʰ ĩː -	173-5
+2918	Rahung	tʰ yː	tʰ yː -	173-5
+2919	Rupa	tʰ øː	tʰ øː -	173-5
+2920	Shergaon	t oː	t oː -	173-5
+2921	Duhumbi	tʰ ɔ n	tʰ ɔ n	173-6
+2922	Jerigaon	tʰ øː	tʰ øː -	173-6
+2923	Khispi	tʰ ɔ n	tʰ ɔ n	173-6
+2924	Khoina	tʰ øː	tʰ øː -	173-6
+2925	Khoitam	tʰ ĩː	tʰ ĩː -	173-6
+2926	Rahung	tʰ yː	tʰ yː -	173-6
+2927	Rupa	tʰ øː	tʰ øː -	173-6
+2928	Shergaon	t oː	t oː -	173-6
+2929	Duhumbi	tʰ ɔ n	tʰ ɔ n	173-7
+2930	Jerigaon	tʰ øː	tʰ øː -	173-7
+2931	Khispi	tʰ ɔ n	tʰ ɔ n	173-7
+2932	Khoina	tʰ øː	tʰ øː -	173-7
+2933	Khoitam	tʰ ĩː	tʰ ĩː -	173-7
+2934	Rahung	tʰ yː	tʰ yː -	173-7
+2935	Rupa	tʰ øː	tʰ øː -	173-7
+2936	Shergaon	t oː	t oː -	173-7
+2937	Duhumbi	tʰ ɔ n	tʰ ɔ n	173-8
+2938	Jerigaon	tʰ øː	tʰ øː -	173-8
+2939	Khispi	tʰ ɔ n	tʰ ɔ n	173-8
+2940	Khoina	tʰ øː	tʰ øː -	173-8
+2941	Khoitam	tʰ ĩː	tʰ ĩː -	173-8
+2942	Rahung	tʰ yː	tʰ yː -	173-8
+2943	Rupa	tʰ øː	tʰ øː -	173-8
+2944	Shergaon	t oː	t oː -	173-8
+2945	Duhumbi	l ɛi	l ɛi	183-1
+2946	Jerigaon	r ɛː	r ɛː	183-1
+2947	Khispi	l ei	l ei	183-1
+2948	Khoina	r aː	r aː	183-1
+2949	Khoitam	r ɛː	r ɛː	183-1
+2950	Rahung	r ɛː	r ɛː	183-1
+2951	Rupa	r aː	r aː	183-1
+2952	Shergaon	r aː	r aː	183-1
+2953	Duhumbi	l ɛi	l ɛi	183-2
+2954	Jerigaon	r ɛː	r ɛː	183-2
+2955	Khispi	l ei	l ei	183-2
+2956	Khoina	r aː	r aː	183-2
+2957	Khoitam	r ɛː	r ɛː	183-2
+2958	Rahung	r ɛː	r ɛː	183-2
+2959	Rupa	r aː	r aː	183-2
+2960	Shergaon	r aː	r aː	183-2
+2961	Duhumbi	l ɛi	l ɛi	183-3
+2962	Jerigaon	r ɛː	r ɛː	183-3
+2963	Khispi	l ei	l ei	183-3
+2964	Khoina	r aː	r aː	183-3
+2965	Khoitam	r ɛː	r ɛː	183-3
+2966	Rahung	r ɛː	r ɛː	183-3
+2967	Rupa	r aː	r aː	183-3
+2968	Shergaon	r aː	r aː	183-3
+2969	Duhumbi	l ɛi	l ɛi	183-4
+2970	Jerigaon	r ɛː	r ɛː	183-4
+2971	Khispi	l ei	l ei	183-4
+2972	Khoina	r aː	r aː	183-4
+2973	Khoitam	r ɛː	r ɛː	183-4
+2974	Rahung	r ɛː	r ɛː	183-4
+2975	Rupa	r aː	r aː	183-4
+2976	Shergaon	r aː	r aː	183-4
+2977	Duhumbi	l ɛi	l ɛi	183-5
+2978	Jerigaon	r ɛː	r ɛː	183-5
+2979	Khispi	l ei	l ei	183-5
+2980	Khoina	r aː	r aː	183-5
+2981	Khoitam	r ɛː	r ɛː	183-5
+2982	Rahung	r ɛː	r ɛː	183-5
+2983	Rupa	r aː	r aː	183-5
+2984	Shergaon	r aː	r aː	183-5
+2985	Duhumbi	l ɛi	l ɛi	183-6
+2986	Jerigaon	r ɛː	r ɛː	183-6
+2987	Khispi	l ei	l ei	183-6
+2988	Khoina	r aː	r aː	183-6
+2989	Khoitam	r ɛː	r ɛː	183-6
+2990	Rahung	r ɛː	r ɛː	183-6
+2991	Rupa	r aː	r aː	183-6
+2992	Shergaon	r aː	r aː	183-6
+2993	Duhumbi	l ɛi	l ɛi	183-7
+2994	Jerigaon	r ɛː	r ɛː	183-7
+2995	Khispi	l ei	l ei	183-7
+2996	Khoina	r aː	r aː	183-7
+2997	Khoitam	r ɛː	r ɛː	183-7
+2998	Rahung	r ɛː	r ɛː	183-7
+2999	Rupa	r aː	r aː	183-7
+3000	Shergaon	r aː	r aː	183-7
+3001	Duhumbi	l ɛi	l ɛi	183-8
+3002	Jerigaon	r ɛː	r ɛː	183-8
+3003	Khispi	l ei	l ei	183-8
+3004	Khoina	r aː	r aː	183-8
+3005	Khoitam	r ɛː	r ɛː	183-8
+3006	Rahung	r ɛː	r ɛː	183-8
+3007	Rupa	r aː	r aː	183-8
+3008	Shergaon	r aː	r aː	183-8
+3009	Duhumbi	m a	m a	185-1
+3010	Jerigaon	m uː	m uː	185-1
+3011	Khispi	m a	m a	185-1
+3012	Khoina	m	m -	185-1
+3013	Khoitam	m	m -	185-1
+3014	Rahung	m uː	m uː	185-1
+3015	Rupa	m uː	m uː	185-1
+3016	Shergaon	m uː	m uː	185-1
+3017	Duhumbi	m a	m a	185-2
+3018	Jerigaon	m uː	m uː	185-2
+3019	Khispi	m a	m a	185-2
+3020	Khoina	m	m -	185-2
+3021	Khoitam	m	m -	185-2
+3022	Rahung	m uː	m uː	185-2
+3023	Rupa	m uː	m uː	185-2
+3024	Shergaon	m uː	m uː	185-2
+3025	Duhumbi	m a	m a	185-3
+3026	Jerigaon	m uː	m uː	185-3
+3027	Khispi	m a	m a	185-3
+3028	Khoina	m	m -	185-3
+3029	Khoitam	m	m -	185-3
+3030	Rahung	m uː	m uː	185-3
+3031	Rupa	m uː	m uː	185-3
+3032	Shergaon	m uː	m uː	185-3
+3033	Duhumbi	m a	m a	185-4
+3034	Jerigaon	m uː	m uː	185-4
+3035	Khispi	m a	m a	185-4
+3036	Khoina	m	m -	185-4
+3037	Khoitam	m	m -	185-4
+3038	Rahung	m uː	m uː	185-4
+3039	Rupa	m uː	m uː	185-4
+3040	Shergaon	m uː	m uː	185-4
+3041	Duhumbi	m a	m a	185-5
+3042	Jerigaon	m uː	m uː	185-5
+3043	Khispi	m a	m a	185-5
+3044	Khoina	m	m -	185-5
+3045	Khoitam	m	m -	185-5
+3046	Rahung	m uː	m uː	185-5
+3047	Rupa	m uː	m uː	185-5
+3048	Shergaon	m uː	m uː	185-5
+3049	Duhumbi	m a	m a	185-6
+3050	Jerigaon	m uː	m uː	185-6
+3051	Khispi	m a	m a	185-6
+3052	Khoina	m	m -	185-6
+3053	Khoitam	m	m -	185-6
+3054	Rahung	m uː	m uː	185-6
+3055	Rupa	m uː	m uː	185-6
+3056	Shergaon	m uː	m uː	185-6
+3057	Duhumbi	m a	m a	185-7
+3058	Jerigaon	m uː	m uː	185-7
+3059	Khispi	m a	m a	185-7
+3060	Khoina	m	m -	185-7
+3061	Khoitam	m	m -	185-7
+3062	Rahung	m uː	m uː	185-7
+3063	Rupa	m uː	m uː	185-7
+3064	Shergaon	m uː	m uː	185-7
+3065	Duhumbi	m a	m a	185-8
+3066	Jerigaon	m uː	m uː	185-8
+3067	Khispi	m a	m a	185-8
+3068	Khoina	m	m -	185-8
+3069	Khoitam	m	m -	185-8
+3070	Rahung	m uː	m uː	185-8
+3071	Rupa	m uː	m uː	185-8
+3072	Shergaon	m uː	m uː	185-8
+3073	Duhumbi	g u n	g u n	188-1
+3074	Jerigaon	kʰ	kʰ - -	188-1
+3075	Khispi	g u n	g u n	188-1
+3076	Khoina	g ə	g ə -	188-1
+3077	Khoitam	kʰ i ŋ	kʰ i ŋ	188-1
+3078	Rahung	kʰ a n	kʰ a n	188-1
+3079	Rupa	g ə	g ə -	188-1
+3080	Shergaon	g ə	g ə -	188-1
+3081	Duhumbi	g u n	g u n	188-2
+3082	Jerigaon	kʰ	kʰ - -	188-2
+3083	Khispi	g u n	g u n	188-2
+3084	Khoina	g ə	g ə -	188-2
+3085	Khoitam	kʰ i ŋ	kʰ i ŋ	188-2
+3086	Rahung	kʰ a n	kʰ a n	188-2
+3087	Rupa	g ə	g ə -	188-2
+3088	Shergaon	g ə	g ə -	188-2
+3089	Duhumbi	g u n	g u n	188-3
+3090	Jerigaon	kʰ	kʰ - -	188-3
+3091	Khispi	g u n	g u n	188-3
+3092	Khoina	g ə	g ə -	188-3
+3093	Khoitam	kʰ i ŋ	kʰ i ŋ	188-3
+3094	Rahung	kʰ a n	kʰ a n	188-3
+3095	Rupa	g ə	g ə -	188-3
+3096	Shergaon	g ə	g ə -	188-3
+3097	Duhumbi	g u n	g u n	188-4
+3098	Jerigaon	kʰ	kʰ - -	188-4
+3099	Khispi	g u n	g u n	188-4
+3100	Khoina	g ə	g ə -	188-4
+3101	Khoitam	kʰ i ŋ	kʰ i ŋ	188-4
+3102	Rahung	kʰ a n	kʰ a n	188-4
+3103	Rupa	g ə	g ə -	188-4
+3104	Shergaon	g ə	g ə -	188-4
+3105	Duhumbi	g u n	g u n	188-5
+3106	Jerigaon	kʰ	kʰ - -	188-5
+3107	Khispi	g u n	g u n	188-5
+3108	Khoina	g ə	g ə -	188-5
+3109	Khoitam	kʰ i ŋ	kʰ i ŋ	188-5
+3110	Rahung	kʰ a n	kʰ a n	188-5
+3111	Rupa	g ə	g ə -	188-5
+3112	Shergaon	g ə	g ə -	188-5
+3113	Duhumbi	g u n	g u n	188-6
+3114	Jerigaon	kʰ	kʰ - -	188-6
+3115	Khispi	g u n	g u n	188-6
+3116	Khoina	g ə	g ə -	188-6
+3117	Khoitam	kʰ i ŋ	kʰ i ŋ	188-6
+3118	Rahung	kʰ a n	kʰ a n	188-6
+3119	Rupa	g ə	g ə -	188-6
+3120	Shergaon	g ə	g ə -	188-6
+3121	Duhumbi	g u n	g u n	188-7
+3122	Jerigaon	kʰ	kʰ - -	188-7
+3123	Khispi	g u n	g u n	188-7
+3124	Khoina	g ə	g ə -	188-7
+3125	Khoitam	kʰ i ŋ	kʰ i ŋ	188-7
+3126	Rahung	kʰ a n	kʰ a n	188-7
+3127	Rupa	g ə	g ə -	188-7
+3128	Shergaon	g ə	g ə -	188-7
+3129	Duhumbi	g u n	g u n	188-8
+3130	Jerigaon	kʰ	kʰ - -	188-8
+3131	Khispi	g u n	g u n	188-8
+3132	Khoina	g ə	g ə -	188-8
+3133	Khoitam	kʰ i ŋ	kʰ i ŋ	188-8
+3134	Rahung	kʰ a n	kʰ a n	188-8
+3135	Rupa	g ə	g ə -	188-8
+3136	Shergaon	g ə	g ə -	188-8
+3137	Duhumbi	ts u n	ts u n	189-1
+3138	Jerigaon	tɕ i ŋ	tɕ i ŋ	189-1
+3139	Khispi	ts u n	ts u n	189-1
+3140	Khoina	ts i ŋ	ts i ŋ	189-1
+3141	Khoitam	tɕ i ŋ	tɕ i ŋ	189-1
+3142	Rahung	tɕ i ŋ	tɕ i ŋ	189-1
+3143	Rupa	ts i n	ts i n	189-1
+3144	Shergaon	tɕ i n	tɕ i n	189-1
+3145	Duhumbi	ts u n	ts u n	189-2
+3146	Jerigaon	tɕ i ŋ	tɕ i ŋ	189-2
+3147	Khispi	ts u n	ts u n	189-2
+3148	Khoina	ts i ŋ	ts i ŋ	189-2
+3149	Khoitam	tɕ i ŋ	tɕ i ŋ	189-2
+3150	Rahung	tɕ i ŋ	tɕ i ŋ	189-2
+3151	Rupa	ts i n	ts i n	189-2
+3152	Shergaon	tɕ i n	tɕ i n	189-2
+3153	Duhumbi	ts u n	ts u n	189-3
+3154	Jerigaon	tɕ i ŋ	tɕ i ŋ	189-3
+3155	Khispi	ts u n	ts u n	189-3
+3156	Khoina	ts i ŋ	ts i ŋ	189-3
+3157	Khoitam	tɕ i ŋ	tɕ i ŋ	189-3
+3158	Rahung	tɕ i ŋ	tɕ i ŋ	189-3
+3159	Rupa	ts i n	ts i n	189-3
+3160	Shergaon	tɕ i n	tɕ i n	189-3
+3161	Duhumbi	ts u n	ts u n	189-4
+3162	Jerigaon	tɕ i ŋ	tɕ i ŋ	189-4
+3163	Khispi	ts u n	ts u n	189-4
+3164	Khoina	ts i ŋ	ts i ŋ	189-4
+3165	Khoitam	tɕ i ŋ	tɕ i ŋ	189-4
+3166	Rahung	tɕ i ŋ	tɕ i ŋ	189-4
+3167	Rupa	ts i n	ts i n	189-4
+3168	Shergaon	tɕ i n	tɕ i n	189-4
+3169	Duhumbi	ts u n	ts u n	189-5
+3170	Jerigaon	tɕ i ŋ	tɕ i ŋ	189-5
+3171	Khispi	ts u n	ts u n	189-5
+3172	Khoina	ts i ŋ	ts i ŋ	189-5
+3173	Khoitam	tɕ i ŋ	tɕ i ŋ	189-5
+3174	Rahung	tɕ i ŋ	tɕ i ŋ	189-5
+3175	Rupa	ts i n	ts i n	189-5
+3176	Shergaon	tɕ i n	tɕ i n	189-5
+3177	Duhumbi	ts u n	ts u n	189-6
+3178	Jerigaon	tɕ i ŋ	tɕ i ŋ	189-6
+3179	Khispi	ts u n	ts u n	189-6
+3180	Khoina	ts i ŋ	ts i ŋ	189-6
+3181	Khoitam	tɕ i ŋ	tɕ i ŋ	189-6
+3182	Rahung	tɕ i ŋ	tɕ i ŋ	189-6
+3183	Rupa	ts i n	ts i n	189-6
+3184	Shergaon	tɕ i n	tɕ i n	189-6
+3185	Duhumbi	ts u n	ts u n	189-7
+3186	Jerigaon	tɕ i ŋ	tɕ i ŋ	189-7
+3187	Khispi	ts u n	ts u n	189-7
+3188	Khoina	ts i ŋ	ts i ŋ	189-7
+3189	Khoitam	tɕ i ŋ	tɕ i ŋ	189-7
+3190	Rahung	tɕ i ŋ	tɕ i ŋ	189-7
+3191	Rupa	ts i n	ts i n	189-7
+3192	Shergaon	tɕ i n	tɕ i n	189-7
+3193	Duhumbi	ts u n	ts u n	189-8
+3194	Jerigaon	tɕ i ŋ	tɕ i ŋ	189-8
+3195	Khispi	ts u n	ts u n	189-8
+3196	Khoina	ts i ŋ	ts i ŋ	189-8
+3197	Khoitam	tɕ i ŋ	tɕ i ŋ	189-8
+3198	Rahung	tɕ i ŋ	tɕ i ŋ	189-8
+3199	Rupa	ts i n	ts i n	189-8
+3200	Shergaon	tɕ i n	tɕ i n	189-8
+3201	Duhumbi	h ai	h ai	193-1
+3202	Jerigaon	h ɛ	h ɛ	193-1
+3203	Khispi	h ai	h ai	193-1
+3204	Khoina	h a	h a	193-1
+3205	Khoitam	h ɛ	h ɛ	193-1
+3206	Rahung	h ɛ	h ɛ	193-1
+3207	Rupa	h a	h a	193-1
+3208	Shergaon	h a	h a	193-1
+3209	Duhumbi	h ai	h ai	193-2
+3210	Jerigaon	h ɛ	h ɛ	193-2
+3211	Khispi	h ai	h ai	193-2
+3212	Khoina	h a	h a	193-2
+3213	Khoitam	h ɛ	h ɛ	193-2
+3214	Rahung	h ɛ	h ɛ	193-2
+3215	Rupa	h a	h a	193-2
+3216	Shergaon	h a	h a	193-2
+3217	Duhumbi	h ai	h ai	193-3
+3218	Jerigaon	h ɛ	h ɛ	193-3
+3219	Khispi	h ai	h ai	193-3
+3220	Khoina	h a	h a	193-3
+3221	Khoitam	h ɛ	h ɛ	193-3
+3222	Rahung	h ɛ	h ɛ	193-3
+3223	Rupa	h a	h a	193-3
+3224	Shergaon	h a	h a	193-3
+3225	Duhumbi	h ai	h ai	193-4
+3226	Jerigaon	h ɛ	h ɛ	193-4
+3227	Khispi	h ai	h ai	193-4
+3228	Khoina	h a	h a	193-4
+3229	Khoitam	h ɛ	h ɛ	193-4
+3230	Rahung	h ɛ	h ɛ	193-4
+3231	Rupa	h a	h a	193-4
+3232	Shergaon	h a	h a	193-4
+3233	Duhumbi	h ai	h ai	193-5
+3234	Jerigaon	h ɛ	h ɛ	193-5
+3235	Khispi	h ai	h ai	193-5
+3236	Khoina	h a	h a	193-5
+3237	Khoitam	h ɛ	h ɛ	193-5
+3238	Rahung	h ɛ	h ɛ	193-5
+3239	Rupa	h a	h a	193-5
+3240	Shergaon	h a	h a	193-5
+3241	Duhumbi	h ai	h ai	193-6
+3242	Jerigaon	h ɛ	h ɛ	193-6
+3243	Khispi	h ai	h ai	193-6
+3244	Khoina	h a	h a	193-6
+3245	Khoitam	h ɛ	h ɛ	193-6
+3246	Rahung	h ɛ	h ɛ	193-6
+3247	Rupa	h a	h a	193-6
+3248	Shergaon	h a	h a	193-6
+3249	Duhumbi	h ai	h ai	193-7
+3250	Jerigaon	h ɛ	h ɛ	193-7
+3251	Khispi	h ai	h ai	193-7
+3252	Khoina	h a	h a	193-7
+3253	Khoitam	h ɛ	h ɛ	193-7
+3254	Rahung	h ɛ	h ɛ	193-7
+3255	Rupa	h a	h a	193-7
+3256	Shergaon	h a	h a	193-7
+3257	Duhumbi	h ai	h ai	193-8
+3258	Jerigaon	h ɛ	h ɛ	193-8
+3259	Khispi	h ai	h ai	193-8
+3260	Khoina	h a	h a	193-8
+3261	Khoitam	h ɛ	h ɛ	193-8
+3262	Rahung	h ɛ	h ɛ	193-8
+3263	Rupa	h a	h a	193-8
+3264	Shergaon	h a	h a	193-8
+3265	Duhumbi	m a ɹ	m a ɹ	196-1
+3266	Jerigaon	m ɐ̃ː	m ɐ̃ː -	196-1
+3267	Khispi	m a l	m a l	196-1
+3268	Khoina	m ɐ̃ː	m ɐ̃ː -	196-1
+3269	Khoitam	m ɔ̃ː	m ɔ̃ː -	196-1
+3270	Rahung	m ɔ̃ː	m ɔ̃ː -	196-1
+3271	Rupa	m ɔ̃ː	m ɔ̃ː -	196-1
+3272	Shergaon	m ɔ̃ː	m ɔ̃ː -	196-1
+3273	Duhumbi	m a ɹ	m a ɹ	196-2
+3274	Jerigaon	m ɐ̃ː	m ɐ̃ː -	196-2
+3275	Khispi	m a l	m a l	196-2
+3276	Khoina	m ɐ̃ː	m ɐ̃ː -	196-2
+3277	Khoitam	m ɔ̃ː	m ɔ̃ː -	196-2
+3278	Rahung	m ɔ̃ː	m ɔ̃ː -	196-2
+3279	Rupa	m ɔ̃ː	m ɔ̃ː -	196-2
+3280	Shergaon	m ɔ̃ː	m ɔ̃ː -	196-2
+3281	Duhumbi	m a ɹ	m a ɹ	196-3
+3282	Jerigaon	m ɐ̃ː	m ɐ̃ː -	196-3
+3283	Khispi	m a l	m a l	196-3
+3284	Khoina	m ɐ̃ː	m ɐ̃ː -	196-3
+3285	Khoitam	m ɔ̃ː	m ɔ̃ː -	196-3
+3286	Rahung	m ɔ̃ː	m ɔ̃ː -	196-3
+3287	Rupa	m ɔ̃ː	m ɔ̃ː -	196-3
+3288	Shergaon	m ɔ̃ː	m ɔ̃ː -	196-3
+3289	Duhumbi	m a ɹ	m a ɹ	196-4
+3290	Jerigaon	m ɐ̃ː	m ɐ̃ː -	196-4
+3291	Khispi	m a l	m a l	196-4
+3292	Khoina	m ɐ̃ː	m ɐ̃ː -	196-4
+3293	Khoitam	m ɔ̃ː	m ɔ̃ː -	196-4
+3294	Rahung	m ɔ̃ː	m ɔ̃ː -	196-4
+3295	Rupa	m ɔ̃ː	m ɔ̃ː -	196-4
+3296	Shergaon	m ɔ̃ː	m ɔ̃ː -	196-4
+3297	Duhumbi	m a ɹ	m a ɹ	196-5
+3298	Jerigaon	m ɐ̃ː	m ɐ̃ː -	196-5
+3299	Khispi	m a l	m a l	196-5
+3300	Khoina	m ɐ̃ː	m ɐ̃ː -	196-5
+3301	Khoitam	m ɔ̃ː	m ɔ̃ː -	196-5
+3302	Rahung	m ɔ̃ː	m ɔ̃ː -	196-5
+3303	Rupa	m ɔ̃ː	m ɔ̃ː -	196-5
+3304	Shergaon	m ɔ̃ː	m ɔ̃ː -	196-5
+3305	Duhumbi	m a ɹ	m a ɹ	196-6
+3306	Jerigaon	m ɐ̃ː	m ɐ̃ː -	196-6
+3307	Khispi	m a l	m a l	196-6
+3308	Khoina	m ɐ̃ː	m ɐ̃ː -	196-6
+3309	Khoitam	m ɔ̃ː	m ɔ̃ː -	196-6
+3310	Rahung	m ɔ̃ː	m ɔ̃ː -	196-6
+3311	Rupa	m ɔ̃ː	m ɔ̃ː -	196-6
+3312	Shergaon	m ɔ̃ː	m ɔ̃ː -	196-6
+3313	Duhumbi	m a ɹ	m a ɹ	196-7
+3314	Jerigaon	m ɐ̃ː	m ɐ̃ː -	196-7
+3315	Khispi	m a l	m a l	196-7
+3316	Khoina	m ɐ̃ː	m ɐ̃ː -	196-7
+3317	Khoitam	m ɔ̃ː	m ɔ̃ː -	196-7
+3318	Rahung	m ɔ̃ː	m ɔ̃ː -	196-7
+3319	Rupa	m ɔ̃ː	m ɔ̃ː -	196-7
+3320	Shergaon	m ɔ̃ː	m ɔ̃ː -	196-7
+3321	Duhumbi	m a ɹ	m a ɹ	196-8
+3322	Jerigaon	m ɐ̃ː	m ɐ̃ː -	196-8
+3323	Khispi	m a l	m a l	196-8
+3324	Khoina	m ɐ̃ː	m ɐ̃ː -	196-8
+3325	Khoitam	m ɔ̃ː	m ɔ̃ː -	196-8
+3326	Rahung	m ɔ̃ː	m ɔ̃ː -	196-8
+3327	Rupa	m ɔ̃ː	m ɔ̃ː -	196-8
+3328	Shergaon	m ɔ̃ː	m ɔ̃ː -	196-8
+3329	Duhumbi	ɕ ɛi	ɕ ɛi	199-1
+3330	Jerigaon	tɕʰ aː	tɕʰ aː	199-1
+3331	Khispi	ɕ ei	ɕ ei	199-1
+3332	Khoina	tsʰ aː	tsʰ aː	199-1
+3333	Khoitam	tɕʰ ɛː	tɕʰ ɛː	199-1
+3334	Rahung	tɕʰ ɛː	tɕʰ ɛː	199-1
+3335	Rupa	tɕʰ aː	tɕʰ aː	199-1
+3336	Shergaon	tɕʰ aː	tɕʰ aː	199-1
+3337	Duhumbi	ɕ ɛi	ɕ ɛi	199-2
+3338	Jerigaon	tɕʰ aː	tɕʰ aː	199-2
+3339	Khispi	ɕ ei	ɕ ei	199-2
+3340	Khoina	tsʰ aː	tsʰ aː	199-2
+3341	Khoitam	tɕʰ ɛː	tɕʰ ɛː	199-2
+3342	Rahung	tɕʰ ɛː	tɕʰ ɛː	199-2
+3343	Rupa	tɕʰ aː	tɕʰ aː	199-2
+3344	Shergaon	tɕʰ aː	tɕʰ aː	199-2
+3345	Duhumbi	ɕ ɛi	ɕ ɛi	199-3
+3346	Jerigaon	tɕʰ aː	tɕʰ aː	199-3
+3347	Khispi	ɕ ei	ɕ ei	199-3
+3348	Khoina	tsʰ aː	tsʰ aː	199-3
+3349	Khoitam	tɕʰ ɛː	tɕʰ ɛː	199-3
+3350	Rahung	tɕʰ ɛː	tɕʰ ɛː	199-3
+3351	Rupa	tɕʰ aː	tɕʰ aː	199-3
+3352	Shergaon	tɕʰ aː	tɕʰ aː	199-3
+3353	Duhumbi	ɕ ɛi	ɕ ɛi	199-4
+3354	Jerigaon	tɕʰ aː	tɕʰ aː	199-4
+3355	Khispi	ɕ ei	ɕ ei	199-4
+3356	Khoina	tsʰ aː	tsʰ aː	199-4
+3357	Khoitam	tɕʰ ɛː	tɕʰ ɛː	199-4
+3358	Rahung	tɕʰ ɛː	tɕʰ ɛː	199-4
+3359	Rupa	tɕʰ aː	tɕʰ aː	199-4
+3360	Shergaon	tɕʰ aː	tɕʰ aː	199-4
+3361	Duhumbi	ɕ ɛi	ɕ ɛi	199-5
+3362	Jerigaon	tɕʰ aː	tɕʰ aː	199-5
+3363	Khispi	ɕ ei	ɕ ei	199-5
+3364	Khoina	tsʰ aː	tsʰ aː	199-5
+3365	Khoitam	tɕʰ ɛː	tɕʰ ɛː	199-5
+3366	Rahung	tɕʰ ɛː	tɕʰ ɛː	199-5
+3367	Rupa	tɕʰ aː	tɕʰ aː	199-5
+3368	Shergaon	tɕʰ aː	tɕʰ aː	199-5
+3369	Duhumbi	ɕ ɛi	ɕ ɛi	199-6
+3370	Jerigaon	tɕʰ aː	tɕʰ aː	199-6
+3371	Khispi	ɕ ei	ɕ ei	199-6
+3372	Khoina	tsʰ aː	tsʰ aː	199-6
+3373	Khoitam	tɕʰ ɛː	tɕʰ ɛː	199-6
+3374	Rahung	tɕʰ ɛː	tɕʰ ɛː	199-6
+3375	Rupa	tɕʰ aː	tɕʰ aː	199-6
+3376	Shergaon	tɕʰ aː	tɕʰ aː	199-6
+3377	Duhumbi	ɕ ɛi	ɕ ɛi	199-7
+3378	Jerigaon	tɕʰ aː	tɕʰ aː	199-7
+3379	Khispi	ɕ ei	ɕ ei	199-7
+3380	Khoina	tsʰ aː	tsʰ aː	199-7
+3381	Khoitam	tɕʰ ɛː	tɕʰ ɛː	199-7
+3382	Rahung	tɕʰ ɛː	tɕʰ ɛː	199-7
+3383	Rupa	tɕʰ aː	tɕʰ aː	199-7
+3384	Shergaon	tɕʰ aː	tɕʰ aː	199-7
+3385	Duhumbi	ɕ ɛi	ɕ ɛi	199-8
+3386	Jerigaon	tɕʰ aː	tɕʰ aː	199-8
+3387	Khispi	ɕ ei	ɕ ei	199-8
+3388	Khoina	tsʰ aː	tsʰ aː	199-8
+3389	Khoitam	tɕʰ ɛː	tɕʰ ɛː	199-8
+3390	Rahung	tɕʰ ɛː	tɕʰ ɛː	199-8
+3391	Rupa	tɕʰ aː	tɕʰ aː	199-8
+3392	Shergaon	tɕʰ aː	tɕʰ aː	199-8
+3393	Duhumbi	kʰ a ɹ	kʰ a ɹ	200-1
+3394	Jerigaon	kʰ ɛ n	kʰ ɛ n	200-1
+3395	Khispi	kʰ a l	kʰ a l	200-1
+3396	Khoina	kʰ ɛ n	kʰ ɛ n	200-1
+3397	Khoitam	kʰ a n	kʰ a n	200-1
+3398	Rahung	kʰ a n	kʰ a n	200-1
+3399	Rupa	kʰ a n	kʰ a n	200-1
+3400	Shergaon	kʰ a n	kʰ a n	200-1
+3401	Duhumbi	kʰ a ɹ	kʰ a ɹ	200-2
+3402	Jerigaon	kʰ ɛ n	kʰ ɛ n	200-2
+3403	Khispi	kʰ a l	kʰ a l	200-2
+3404	Khoina	kʰ ɛ n	kʰ ɛ n	200-2
+3405	Khoitam	kʰ a n	kʰ a n	200-2
+3406	Rahung	kʰ a n	kʰ a n	200-2
+3407	Rupa	kʰ a n	kʰ a n	200-2
+3408	Shergaon	kʰ a n	kʰ a n	200-2
+3409	Duhumbi	kʰ a ɹ	kʰ a ɹ	200-3
+3410	Jerigaon	kʰ ɛ n	kʰ ɛ n	200-3
+3411	Khispi	kʰ a l	kʰ a l	200-3
+3412	Khoina	kʰ ɛ n	kʰ ɛ n	200-3
+3413	Khoitam	kʰ a n	kʰ a n	200-3
+3414	Rahung	kʰ a n	kʰ a n	200-3
+3415	Rupa	kʰ a n	kʰ a n	200-3
+3416	Shergaon	kʰ a n	kʰ a n	200-3
+3417	Duhumbi	kʰ a ɹ	kʰ a ɹ	200-4
+3418	Jerigaon	kʰ ɛ n	kʰ ɛ n	200-4
+3419	Khispi	kʰ a l	kʰ a l	200-4
+3420	Khoina	kʰ ɛ n	kʰ ɛ n	200-4
+3421	Khoitam	kʰ a n	kʰ a n	200-4
+3422	Rahung	kʰ a n	kʰ a n	200-4
+3423	Rupa	kʰ a n	kʰ a n	200-4
+3424	Shergaon	kʰ a n	kʰ a n	200-4
+3425	Duhumbi	kʰ a ɹ	kʰ a ɹ	200-5
+3426	Jerigaon	kʰ ɛ n	kʰ ɛ n	200-5
+3427	Khispi	kʰ a l	kʰ a l	200-5
+3428	Khoina	kʰ ɛ n	kʰ ɛ n	200-5
+3429	Khoitam	kʰ a n	kʰ a n	200-5
+3430	Rahung	kʰ a n	kʰ a n	200-5
+3431	Rupa	kʰ a n	kʰ a n	200-5
+3432	Shergaon	kʰ a n	kʰ a n	200-5
+3433	Duhumbi	kʰ a ɹ	kʰ a ɹ	200-6
+3434	Jerigaon	kʰ ɛ n	kʰ ɛ n	200-6
+3435	Khispi	kʰ a l	kʰ a l	200-6
+3436	Khoina	kʰ ɛ n	kʰ ɛ n	200-6
+3437	Khoitam	kʰ a n	kʰ a n	200-6
+3438	Rahung	kʰ a n	kʰ a n	200-6
+3439	Rupa	kʰ a n	kʰ a n	200-6
+3440	Shergaon	kʰ a n	kʰ a n	200-6
+3441	Duhumbi	kʰ a ɹ	kʰ a ɹ	200-7
+3442	Jerigaon	kʰ ɛ n	kʰ ɛ n	200-7
+3443	Khispi	kʰ a l	kʰ a l	200-7
+3444	Khoina	kʰ ɛ n	kʰ ɛ n	200-7
+3445	Khoitam	kʰ a n	kʰ a n	200-7
+3446	Rahung	kʰ a n	kʰ a n	200-7
+3447	Rupa	kʰ a n	kʰ a n	200-7
+3448	Shergaon	kʰ a n	kʰ a n	200-7
+3449	Duhumbi	kʰ a ɹ	kʰ a ɹ	200-8
+3450	Jerigaon	kʰ ɛ n	kʰ ɛ n	200-8
+3451	Khispi	kʰ a l	kʰ a l	200-8
+3452	Khoina	kʰ ɛ n	kʰ ɛ n	200-8
+3453	Khoitam	kʰ a n	kʰ a n	200-8
+3454	Rahung	kʰ a n	kʰ a n	200-8
+3455	Rupa	kʰ a n	kʰ a n	200-8
+3456	Shergaon	kʰ a n	kʰ a n	200-8
+3457	Duhumbi	kʰ i	kʰ i	201-1
+3458	Jerigaon	tɕʰ i	tɕʰ i	201-1
+3459	Khispi	kʰ i	kʰ i	201-1
+3460	Khoina	tɕʰ i	tɕʰ i	201-1
+3461	Khoitam	tɕʰ i	tɕʰ i	201-1
+3462	Rahung	tɕʰ i	tɕʰ i	201-1
+3463	Rupa	kʰ i	kʰ i	201-1
+3464	Shergaon	kʰ i	kʰ i	201-1
+3465	Duhumbi	kʰ i	kʰ i	201-2
+3466	Jerigaon	tɕʰ i	tɕʰ i	201-2
+3467	Khispi	kʰ i	kʰ i	201-2
+3468	Khoina	tɕʰ i	tɕʰ i	201-2
+3469	Khoitam	tɕʰ i	tɕʰ i	201-2
+3470	Rahung	tɕʰ i	tɕʰ i	201-2
+3471	Rupa	kʰ i	kʰ i	201-2
+3472	Shergaon	kʰ i	kʰ i	201-2
+3473	Duhumbi	kʰ i	kʰ i	201-3
+3474	Jerigaon	tɕʰ i	tɕʰ i	201-3
+3475	Khispi	kʰ i	kʰ i	201-3
+3476	Khoina	tɕʰ i	tɕʰ i	201-3
+3477	Khoitam	tɕʰ i	tɕʰ i	201-3
+3478	Rahung	tɕʰ i	tɕʰ i	201-3
+3479	Rupa	kʰ i	kʰ i	201-3
+3480	Shergaon	kʰ i	kʰ i	201-3
+3481	Duhumbi	kʰ i	kʰ i	201-4
+3482	Jerigaon	tɕʰ i	tɕʰ i	201-4
+3483	Khispi	kʰ i	kʰ i	201-4
+3484	Khoina	tɕʰ i	tɕʰ i	201-4
+3485	Khoitam	tɕʰ i	tɕʰ i	201-4
+3486	Rahung	tɕʰ i	tɕʰ i	201-4
+3487	Rupa	kʰ i	kʰ i	201-4
+3488	Shergaon	kʰ i	kʰ i	201-4
+3489	Duhumbi	kʰ i	kʰ i	201-5
+3490	Jerigaon	tɕʰ i	tɕʰ i	201-5
+3491	Khispi	kʰ i	kʰ i	201-5
+3492	Khoina	tɕʰ i	tɕʰ i	201-5
+3493	Khoitam	tɕʰ i	tɕʰ i	201-5
+3494	Rahung	tɕʰ i	tɕʰ i	201-5
+3495	Rupa	kʰ i	kʰ i	201-5
+3496	Shergaon	kʰ i	kʰ i	201-5
+3497	Duhumbi	kʰ i	kʰ i	201-6
+3498	Jerigaon	tɕʰ i	tɕʰ i	201-6
+3499	Khispi	kʰ i	kʰ i	201-6
+3500	Khoina	tɕʰ i	tɕʰ i	201-6
+3501	Khoitam	tɕʰ i	tɕʰ i	201-6
+3502	Rahung	tɕʰ i	tɕʰ i	201-6
+3503	Rupa	kʰ i	kʰ i	201-6
+3504	Shergaon	kʰ i	kʰ i	201-6
+3505	Duhumbi	kʰ i	kʰ i	201-7
+3506	Jerigaon	tɕʰ i	tɕʰ i	201-7
+3507	Khispi	kʰ i	kʰ i	201-7
+3508	Khoina	tɕʰ i	tɕʰ i	201-7
+3509	Khoitam	tɕʰ i	tɕʰ i	201-7
+3510	Rahung	tɕʰ i	tɕʰ i	201-7
+3511	Rupa	kʰ i	kʰ i	201-7
+3512	Shergaon	kʰ i	kʰ i	201-7
+3513	Duhumbi	kʰ i	kʰ i	201-8
+3514	Jerigaon	tɕʰ i	tɕʰ i	201-8
+3515	Khispi	kʰ i	kʰ i	201-8
+3516	Khoina	tɕʰ i	tɕʰ i	201-8
+3517	Khoitam	tɕʰ i	tɕʰ i	201-8
+3518	Rahung	tɕʰ i	tɕʰ i	201-8
+3519	Rupa	kʰ i	kʰ i	201-8
+3520	Shergaon	kʰ i	kʰ i	201-8
+3521	Duhumbi	kʰ ɔ	kʰ ɔ -	202-1
+3522	Jerigaon	kʰ	kʰ - -	202-1
+3523	Khispi	kʰ ɔ	kʰ ɔ -	202-1
+3524	Khoina	g ə	g ə -	202-1
+3525	Khoitam	kʰ	kʰ - -	202-1
+3526	Rahung	kʰ a n	kʰ a n	202-1
+3527	Rupa	g ə	g ə -	202-1
+3528	Shergaon	kʰ	kʰ - -	202-1
+3529	Duhumbi	kʰ ɔ	kʰ ɔ -	202-2
+3530	Jerigaon	kʰ	kʰ - -	202-2
+3531	Khispi	kʰ ɔ	kʰ ɔ -	202-2
+3532	Khoina	g ə	g ə -	202-2
+3533	Khoitam	kʰ	kʰ - -	202-2
+3534	Rahung	kʰ a n	kʰ a n	202-2
+3535	Rupa	g ə	g ə -	202-2
+3536	Shergaon	kʰ	kʰ - -	202-2
+3537	Duhumbi	kʰ ɔ	kʰ ɔ -	202-3
+3538	Jerigaon	kʰ	kʰ - -	202-3
+3539	Khispi	kʰ ɔ	kʰ ɔ -	202-3
+3540	Khoina	g ə	g ə -	202-3
+3541	Khoitam	kʰ	kʰ - -	202-3
+3542	Rahung	kʰ a n	kʰ a n	202-3
+3543	Rupa	g ə	g ə -	202-3
+3544	Shergaon	kʰ	kʰ - -	202-3
+3545	Duhumbi	kʰ ɔ	kʰ ɔ -	202-4
+3546	Jerigaon	kʰ	kʰ - -	202-4
+3547	Khispi	kʰ ɔ	kʰ ɔ -	202-4
+3548	Khoina	g ə	g ə -	202-4
+3549	Khoitam	kʰ	kʰ - -	202-4
+3550	Rahung	kʰ a n	kʰ a n	202-4
+3551	Rupa	g ə	g ə -	202-4
+3552	Shergaon	kʰ	kʰ - -	202-4
+3553	Duhumbi	kʰ ɔ	kʰ ɔ -	202-5
+3554	Jerigaon	kʰ	kʰ - -	202-5
+3555	Khispi	kʰ ɔ	kʰ ɔ -	202-5
+3556	Khoina	g ə	g ə -	202-5
+3557	Khoitam	kʰ	kʰ - -	202-5
+3558	Rahung	kʰ a n	kʰ a n	202-5
+3559	Rupa	g ə	g ə -	202-5
+3560	Shergaon	kʰ	kʰ - -	202-5
+3561	Duhumbi	kʰ ɔ	kʰ ɔ -	202-6
+3562	Jerigaon	kʰ	kʰ - -	202-6
+3563	Khispi	kʰ ɔ	kʰ ɔ -	202-6
+3564	Khoina	g ə	g ə -	202-6
+3565	Khoitam	kʰ	kʰ - -	202-6
+3566	Rahung	kʰ a n	kʰ a n	202-6
+3567	Rupa	g ə	g ə -	202-6
+3568	Shergaon	kʰ	kʰ - -	202-6
+3569	Duhumbi	kʰ ɔ	kʰ ɔ -	202-7
+3570	Jerigaon	kʰ	kʰ - -	202-7
+3571	Khispi	kʰ ɔ	kʰ ɔ -	202-7
+3572	Khoina	g ə	g ə -	202-7
+3573	Khoitam	kʰ	kʰ - -	202-7
+3574	Rahung	kʰ a n	kʰ a n	202-7
+3575	Rupa	g ə	g ə -	202-7
+3576	Shergaon	kʰ	kʰ - -	202-7
+3577	Duhumbi	kʰ ɔ	kʰ ɔ -	202-8
+3578	Jerigaon	kʰ	kʰ - -	202-8
+3579	Khispi	kʰ ɔ	kʰ ɔ -	202-8
+3580	Khoina	g ə	g ə -	202-8
+3581	Khoitam	kʰ	kʰ - -	202-8
+3582	Rahung	kʰ a n	kʰ a n	202-8
+3583	Rupa	g ə	g ə -	202-8
+3584	Shergaon	kʰ	kʰ - -	202-8
+3585	Duhumbi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-1
+3586	Jerigaon	tʰ u ŋ	tʰ u ŋ	203-1
+3587	Khispi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-1
+3588	Khoina	tʰ u ŋ	tʰ u ŋ	203-1
+3589	Khoitam	tʰ u ŋ	tʰ u ŋ	203-1
+3590	Rahung	tʰ u ŋ	tʰ u ŋ	203-1
+3591	Rupa	tʰ u ŋ	tʰ u ŋ	203-1
+3592	Shergaon	tʰ u ŋ	tʰ u ŋ	203-1
+3593	Duhumbi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-2
+3594	Jerigaon	tʰ u ŋ	tʰ u ŋ	203-2
+3595	Khispi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-2
+3596	Khoina	tʰ u ŋ	tʰ u ŋ	203-2
+3597	Khoitam	tʰ u ŋ	tʰ u ŋ	203-2
+3598	Rahung	tʰ u ŋ	tʰ u ŋ	203-2
+3599	Rupa	tʰ u ŋ	tʰ u ŋ	203-2
+3600	Shergaon	tʰ u ŋ	tʰ u ŋ	203-2
+3601	Duhumbi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-3
+3602	Jerigaon	tʰ u ŋ	tʰ u ŋ	203-3
+3603	Khispi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-3
+3604	Khoina	tʰ u ŋ	tʰ u ŋ	203-3
+3605	Khoitam	tʰ u ŋ	tʰ u ŋ	203-3
+3606	Rahung	tʰ u ŋ	tʰ u ŋ	203-3
+3607	Rupa	tʰ u ŋ	tʰ u ŋ	203-3
+3608	Shergaon	tʰ u ŋ	tʰ u ŋ	203-3
+3609	Duhumbi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-4
+3610	Jerigaon	tʰ u ŋ	tʰ u ŋ	203-4
+3611	Khispi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-4
+3612	Khoina	tʰ u ŋ	tʰ u ŋ	203-4
+3613	Khoitam	tʰ u ŋ	tʰ u ŋ	203-4
+3614	Rahung	tʰ u ŋ	tʰ u ŋ	203-4
+3615	Rupa	tʰ u ŋ	tʰ u ŋ	203-4
+3616	Shergaon	tʰ u ŋ	tʰ u ŋ	203-4
+3617	Duhumbi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-5
+3618	Jerigaon	tʰ u ŋ	tʰ u ŋ	203-5
+3619	Khispi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-5
+3620	Khoina	tʰ u ŋ	tʰ u ŋ	203-5
+3621	Khoitam	tʰ u ŋ	tʰ u ŋ	203-5
+3622	Rahung	tʰ u ŋ	tʰ u ŋ	203-5
+3623	Rupa	tʰ u ŋ	tʰ u ŋ	203-5
+3624	Shergaon	tʰ u ŋ	tʰ u ŋ	203-5
+3625	Duhumbi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-6
+3626	Jerigaon	tʰ u ŋ	tʰ u ŋ	203-6
+3627	Khispi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-6
+3628	Khoina	tʰ u ŋ	tʰ u ŋ	203-6
+3629	Khoitam	tʰ u ŋ	tʰ u ŋ	203-6
+3630	Rahung	tʰ u ŋ	tʰ u ŋ	203-6
+3631	Rupa	tʰ u ŋ	tʰ u ŋ	203-6
+3632	Shergaon	tʰ u ŋ	tʰ u ŋ	203-6
+3633	Duhumbi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-7
+3634	Jerigaon	tʰ u ŋ	tʰ u ŋ	203-7
+3635	Khispi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-7
+3636	Khoina	tʰ u ŋ	tʰ u ŋ	203-7
+3637	Khoitam	tʰ u ŋ	tʰ u ŋ	203-7
+3638	Rahung	tʰ u ŋ	tʰ u ŋ	203-7
+3639	Rupa	tʰ u ŋ	tʰ u ŋ	203-7
+3640	Shergaon	tʰ u ŋ	tʰ u ŋ	203-7
+3641	Duhumbi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-8
+3642	Jerigaon	tʰ u ŋ	tʰ u ŋ	203-8
+3643	Khispi	tʰ ɔ ŋ	tʰ ɔ ŋ	203-8
+3644	Khoina	tʰ u ŋ	tʰ u ŋ	203-8
+3645	Khoitam	tʰ u ŋ	tʰ u ŋ	203-8
+3646	Rahung	tʰ u ŋ	tʰ u ŋ	203-8
+3647	Rupa	tʰ u ŋ	tʰ u ŋ	203-8
+3648	Shergaon	tʰ u ŋ	tʰ u ŋ	203-8
+3649	Duhumbi	b u	b u	204-1
+3650	Jerigaon	b yː	b yː	204-1
+3651	Khispi	b u	b u	204-1
+3652	Khoina	b yː	b yː	204-1
+3653	Khoitam	b yː	b yː	204-1
+3654	Rahung	b yː	b yː	204-1
+3655	Rupa	b yː	b yː	204-1
+3656	Shergaon	b iː	b iː	204-1
+3657	Duhumbi	b u	b u	204-2
+3658	Jerigaon	b yː	b yː	204-2
+3659	Khispi	b u	b u	204-2
+3660	Khoina	b yː	b yː	204-2
+3661	Khoitam	b yː	b yː	204-2
+3662	Rahung	b yː	b yː	204-2
+3663	Rupa	b yː	b yː	204-2
+3664	Shergaon	b iː	b iː	204-2
+3665	Duhumbi	b u	b u	204-3
+3666	Jerigaon	b yː	b yː	204-3
+3667	Khispi	b u	b u	204-3
+3668	Khoina	b yː	b yː	204-3
+3669	Khoitam	b yː	b yː	204-3
+3670	Rahung	b yː	b yː	204-3
+3671	Rupa	b yː	b yː	204-3
+3672	Shergaon	b iː	b iː	204-3
+3673	Duhumbi	b u	b u	204-4
+3674	Jerigaon	b yː	b yː	204-4
+3675	Khispi	b u	b u	204-4
+3676	Khoina	b yː	b yː	204-4
+3677	Khoitam	b yː	b yː	204-4
+3678	Rahung	b yː	b yː	204-4
+3679	Rupa	b yː	b yː	204-4
+3680	Shergaon	b iː	b iː	204-4
+3681	Duhumbi	b u	b u	204-5
+3682	Jerigaon	b yː	b yː	204-5
+3683	Khispi	b u	b u	204-5
+3684	Khoina	b yː	b yː	204-5
+3685	Khoitam	b yː	b yː	204-5
+3686	Rahung	b yː	b yː	204-5
+3687	Rupa	b yː	b yː	204-5
+3688	Shergaon	b iː	b iː	204-5
+3689	Duhumbi	b u	b u	204-6
+3690	Jerigaon	b yː	b yː	204-6
+3691	Khispi	b u	b u	204-6
+3692	Khoina	b yː	b yː	204-6
+3693	Khoitam	b yː	b yː	204-6
+3694	Rahung	b yː	b yː	204-6
+3695	Rupa	b yː	b yː	204-6
+3696	Shergaon	b iː	b iː	204-6
+3697	Duhumbi	b u	b u	204-7
+3698	Jerigaon	b yː	b yː	204-7
+3699	Khispi	b u	b u	204-7
+3700	Khoina	b yː	b yː	204-7
+3701	Khoitam	b yː	b yː	204-7
+3702	Rahung	b yː	b yː	204-7
+3703	Rupa	b yː	b yː	204-7
+3704	Shergaon	b iː	b iː	204-7
+3705	Duhumbi	b u	b u	204-8
+3706	Jerigaon	b yː	b yː	204-8
+3707	Khispi	b u	b u	204-8
+3708	Khoina	b yː	b yː	204-8
+3709	Khoitam	b yː	b yː	204-8
+3710	Rahung	b yː	b yː	204-8
+3711	Rupa	b yː	b yː	204-8
+3712	Shergaon	b iː	b iː	204-8
+3713	Duhumbi	ɲ a ŋ	ɲ a ŋ	206-1
+3714	Jerigaon	n a m	n a m	206-1
+3715	Khispi	ɲ a ŋ	ɲ a ŋ	206-1
+3716	Khoina	n a m	n a m	206-1
+3717	Khoitam	n a m	n a m	206-1
+3718	Rahung	n a m	n a m	206-1
+3719	Rupa	ɲ a m	ɲ a m	206-1
+3720	Shergaon	ɲ a m	ɲ a m	206-1
+3721	Duhumbi	ɲ a ŋ	ɲ a ŋ	206-2
+3722	Jerigaon	n a m	n a m	206-2
+3723	Khispi	ɲ a ŋ	ɲ a ŋ	206-2
+3724	Khoina	n a m	n a m	206-2
+3725	Khoitam	n a m	n a m	206-2
+3726	Rahung	n a m	n a m	206-2
+3727	Rupa	ɲ a m	ɲ a m	206-2
+3728	Shergaon	ɲ a m	ɲ a m	206-2
+3729	Duhumbi	ɲ a ŋ	ɲ a ŋ	206-3
+3730	Jerigaon	n a m	n a m	206-3
+3731	Khispi	ɲ a ŋ	ɲ a ŋ	206-3
+3732	Khoina	n a m	n a m	206-3
+3733	Khoitam	n a m	n a m	206-3
+3734	Rahung	n a m	n a m	206-3
+3735	Rupa	ɲ a m	ɲ a m	206-3
+3736	Shergaon	ɲ a m	ɲ a m	206-3
+3737	Duhumbi	ɲ a ŋ	ɲ a ŋ	206-4
+3738	Jerigaon	n a m	n a m	206-4
+3739	Khispi	ɲ a ŋ	ɲ a ŋ	206-4
+3740	Khoina	n a m	n a m	206-4
+3741	Khoitam	n a m	n a m	206-4
+3742	Rahung	n a m	n a m	206-4
+3743	Rupa	ɲ a m	ɲ a m	206-4
+3744	Shergaon	ɲ a m	ɲ a m	206-4
+3745	Duhumbi	ɲ a ŋ	ɲ a ŋ	206-5
+3746	Jerigaon	n a m	n a m	206-5
+3747	Khispi	ɲ a ŋ	ɲ a ŋ	206-5
+3748	Khoina	n a m	n a m	206-5
+3749	Khoitam	n a m	n a m	206-5
+3750	Rahung	n a m	n a m	206-5
+3751	Rupa	ɲ a m	ɲ a m	206-5
+3752	Shergaon	ɲ a m	ɲ a m	206-5
+3753	Duhumbi	ɲ a ŋ	ɲ a ŋ	206-6
+3754	Jerigaon	n a m	n a m	206-6
+3755	Khispi	ɲ a ŋ	ɲ a ŋ	206-6
+3756	Khoina	n a m	n a m	206-6
+3757	Khoitam	n a m	n a m	206-6
+3758	Rahung	n a m	n a m	206-6
+3759	Rupa	ɲ a m	ɲ a m	206-6
+3760	Shergaon	ɲ a m	ɲ a m	206-6
+3761	Duhumbi	ɲ a ŋ	ɲ a ŋ	206-7
+3762	Jerigaon	n a m	n a m	206-7
+3763	Khispi	ɲ a ŋ	ɲ a ŋ	206-7
+3764	Khoina	n a m	n a m	206-7
+3765	Khoitam	n a m	n a m	206-7
+3766	Rahung	n a m	n a m	206-7
+3767	Rupa	ɲ a m	ɲ a m	206-7
+3768	Shergaon	ɲ a m	ɲ a m	206-7
+3769	Duhumbi	ɲ a ŋ	ɲ a ŋ	206-8
+3770	Jerigaon	n a m	n a m	206-8
+3771	Khispi	ɲ a ŋ	ɲ a ŋ	206-8
+3772	Khoina	n a m	n a m	206-8
+3773	Khoitam	n a m	n a m	206-8
+3774	Rahung	n a m	n a m	206-8
+3775	Rupa	ɲ a m	ɲ a m	206-8
+3776	Shergaon	ɲ a m	ɲ a m	206-8
+3777	Duhumbi	kʰ i p	kʰ i p	209-1
+3778	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	209-1
+3779	Khispi	kʰ i p	kʰ i p	209-1
+3780	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	209-1
+3781	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	209-1
+3782	Rahung	tɕʰ eˀ	tɕʰ eˀ -	209-1
+3783	Rupa	kʰ eˀ	kʰ eˀ -	209-1
+3784	Shergaon	kʰ eː	kʰ eː -	209-1
+3785	Duhumbi	kʰ i p	kʰ i p	209-2
+3786	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	209-2
+3787	Khispi	kʰ i p	kʰ i p	209-2
+3788	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	209-2
+3789	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	209-2
+3790	Rahung	tɕʰ eˀ	tɕʰ eˀ -	209-2
+3791	Rupa	kʰ eˀ	kʰ eˀ -	209-2
+3792	Shergaon	kʰ eː	kʰ eː -	209-2
+3793	Duhumbi	kʰ i p	kʰ i p	209-3
+3794	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	209-3
+3795	Khispi	kʰ i p	kʰ i p	209-3
+3796	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	209-3
+3797	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	209-3
+3798	Rahung	tɕʰ eˀ	tɕʰ eˀ -	209-3
+3799	Rupa	kʰ eˀ	kʰ eˀ -	209-3
+3800	Shergaon	kʰ eː	kʰ eː -	209-3
+3801	Duhumbi	kʰ i p	kʰ i p	209-4
+3802	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	209-4
+3803	Khispi	kʰ i p	kʰ i p	209-4
+3804	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	209-4
+3805	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	209-4
+3806	Rahung	tɕʰ eˀ	tɕʰ eˀ -	209-4
+3807	Rupa	kʰ eˀ	kʰ eˀ -	209-4
+3808	Shergaon	kʰ eː	kʰ eː -	209-4
+3809	Duhumbi	kʰ i p	kʰ i p	209-5
+3810	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	209-5
+3811	Khispi	kʰ i p	kʰ i p	209-5
+3812	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	209-5
+3813	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	209-5
+3814	Rahung	tɕʰ eˀ	tɕʰ eˀ -	209-5
+3815	Rupa	kʰ eˀ	kʰ eˀ -	209-5
+3816	Shergaon	kʰ eː	kʰ eː -	209-5
+3817	Duhumbi	kʰ i p	kʰ i p	209-6
+3818	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	209-6
+3819	Khispi	kʰ i p	kʰ i p	209-6
+3820	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	209-6
+3821	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	209-6
+3822	Rahung	tɕʰ eˀ	tɕʰ eˀ -	209-6
+3823	Rupa	kʰ eˀ	kʰ eˀ -	209-6
+3824	Shergaon	kʰ eː	kʰ eː -	209-6
+3825	Duhumbi	kʰ i p	kʰ i p	209-7
+3826	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	209-7
+3827	Khispi	kʰ i p	kʰ i p	209-7
+3828	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	209-7
+3829	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	209-7
+3830	Rahung	tɕʰ eˀ	tɕʰ eˀ -	209-7
+3831	Rupa	kʰ eˀ	kʰ eˀ -	209-7
+3832	Shergaon	kʰ eː	kʰ eː -	209-7
+3833	Duhumbi	kʰ i p	kʰ i p	209-8
+3834	Jerigaon	tɕʰ eˀ	tɕʰ eˀ -	209-8
+3835	Khispi	kʰ i p	kʰ i p	209-8
+3836	Khoina	ʈʂʰ eˀ	ʈʂʰ eˀ -	209-8
+3837	Khoitam	tɕʰ eˀ	tɕʰ eˀ -	209-8
+3838	Rahung	tɕʰ eˀ	tɕʰ eˀ -	209-8
+3839	Rupa	kʰ eˀ	kʰ eˀ -	209-8
+3840	Shergaon	kʰ eː	kʰ eː -	209-8
+3841	Duhumbi	k i	k i	218-1
+3842	Jerigaon	tɕʰ ɛː	tɕʰ ɛː	218-1
+3843	Khispi	kʰ i	kʰ i	218-1
+3844	Khoina	tɕʰ aː	tɕʰ aː	218-1
+3845	Khoitam	tɕʰ ɛː	tɕʰ ɛː	218-1
+3846	Rahung	tɕʰ ɛː	tɕʰ ɛː	218-1
+3847	Rupa	ʨʰ aː	ʨʰ aː	218-1
+3848	Shergaon	tɕʰ aː	tɕʰ aː	218-1
+3849	Duhumbi	k i	k i	218-2
+3850	Jerigaon	tɕʰ ɛː	tɕʰ ɛː	218-2
+3851	Khispi	kʰ i	kʰ i	218-2
+3852	Khoina	tɕʰ aː	tɕʰ aː	218-2
+3853	Khoitam	tɕʰ ɛː	tɕʰ ɛː	218-2
+3854	Rahung	tɕʰ ɛː	tɕʰ ɛː	218-2
+3855	Rupa	ʨʰ aː	ʨʰ aː	218-2
+3856	Shergaon	tɕʰ aː	tɕʰ aː	218-2
+3857	Duhumbi	k i	k i	218-3
+3858	Jerigaon	tɕʰ ɛː	tɕʰ ɛː	218-3
+3859	Khispi	kʰ i	kʰ i	218-3
+3860	Khoina	tɕʰ aː	tɕʰ aː	218-3
+3861	Khoitam	tɕʰ ɛː	tɕʰ ɛː	218-3
+3862	Rahung	tɕʰ ɛː	tɕʰ ɛː	218-3
+3863	Rupa	ʨʰ aː	ʨʰ aː	218-3
+3864	Shergaon	tɕʰ aː	tɕʰ aː	218-3
+3865	Duhumbi	k i	k i	218-4
+3866	Jerigaon	tɕʰ ɛː	tɕʰ ɛː	218-4
+3867	Khispi	kʰ i	kʰ i	218-4
+3868	Khoina	tɕʰ aː	tɕʰ aː	218-4
+3869	Khoitam	tɕʰ ɛː	tɕʰ ɛː	218-4
+3870	Rahung	tɕʰ ɛː	tɕʰ ɛː	218-4
+3871	Rupa	ʨʰ aː	ʨʰ aː	218-4
+3872	Shergaon	tɕʰ aː	tɕʰ aː	218-4
+3873	Duhumbi	k i	k i	218-5
+3874	Jerigaon	tɕʰ ɛː	tɕʰ ɛː	218-5
+3875	Khispi	kʰ i	kʰ i	218-5
+3876	Khoina	tɕʰ aː	tɕʰ aː	218-5
+3877	Khoitam	tɕʰ ɛː	tɕʰ ɛː	218-5
+3878	Rahung	tɕʰ ɛː	tɕʰ ɛː	218-5
+3879	Rupa	ʨʰ aː	ʨʰ aː	218-5
+3880	Shergaon	tɕʰ aː	tɕʰ aː	218-5
+3881	Duhumbi	k i	k i	218-6
+3882	Jerigaon	tɕʰ ɛː	tɕʰ ɛː	218-6
+3883	Khispi	kʰ i	kʰ i	218-6
+3884	Khoina	tɕʰ aː	tɕʰ aː	218-6
+3885	Khoitam	tɕʰ ɛː	tɕʰ ɛː	218-6
+3886	Rahung	tɕʰ ɛː	tɕʰ ɛː	218-6
+3887	Rupa	ʨʰ aː	ʨʰ aː	218-6
+3888	Shergaon	tɕʰ aː	tɕʰ aː	218-6
+3889	Duhumbi	k i	k i	218-7
+3890	Jerigaon	tɕʰ ɛː	tɕʰ ɛː	218-7
+3891	Khispi	kʰ i	kʰ i	218-7
+3892	Khoina	tɕʰ aː	tɕʰ aː	218-7
+3893	Khoitam	tɕʰ ɛː	tɕʰ ɛː	218-7
+3894	Rahung	tɕʰ ɛː	tɕʰ ɛː	218-7
+3895	Rupa	ʨʰ aː	ʨʰ aː	218-7
+3896	Shergaon	tɕʰ aː	tɕʰ aː	218-7
+3897	Duhumbi	k i	k i	218-8
+3898	Jerigaon	tɕʰ ɛː	tɕʰ ɛː	218-8
+3899	Khispi	kʰ i	kʰ i	218-8
+3900	Khoina	tɕʰ aː	tɕʰ aː	218-8
+3901	Khoitam	tɕʰ ɛː	tɕʰ ɛː	218-8
+3902	Rahung	tɕʰ ɛː	tɕʰ ɛː	218-8
+3903	Rupa	ʨʰ aː	ʨʰ aː	218-8
+3904	Shergaon	tɕʰ aː	tɕʰ aː	218-8
+3905	Duhumbi	h ɔː	h - ɔː	219-1
+3906	Jerigaon	pʰ	- pʰ -	219-1
+3907	Khispi	h w a	h w a	219-1
+3908	Khoina	b ə	- b ə	219-1
+3909	Khoitam	pʰ	- pʰ -	219-1
+3910	Rahung	pʰ	- pʰ -	219-1
+3911	Rupa	b ə	- b ə	219-1
+3912	Shergaon	pʰ	- pʰ -	219-1
+3913	Duhumbi	h ɔː	h - ɔː	219-2
+3914	Jerigaon	pʰ	- pʰ -	219-2
+3915	Khispi	h w a	h w a	219-2
+3916	Khoina	b ə	- b ə	219-2
+3917	Khoitam	pʰ	- pʰ -	219-2
+3918	Rahung	pʰ	- pʰ -	219-2
+3919	Rupa	b ə	- b ə	219-2
+3920	Shergaon	pʰ	- pʰ -	219-2
+3921	Duhumbi	h ɔː	h - ɔː	219-3
+3922	Jerigaon	pʰ	- pʰ -	219-3
+3923	Khispi	h w a	h w a	219-3
+3924	Khoina	b ə	- b ə	219-3
+3925	Khoitam	pʰ	- pʰ -	219-3
+3926	Rahung	pʰ	- pʰ -	219-3
+3927	Rupa	b ə	- b ə	219-3
+3928	Shergaon	pʰ	- pʰ -	219-3
+3929	Duhumbi	h ɔː	h - ɔː	219-4
+3930	Jerigaon	pʰ	- pʰ -	219-4
+3931	Khispi	h w a	h w a	219-4
+3932	Khoina	b ə	- b ə	219-4
+3933	Khoitam	pʰ	- pʰ -	219-4
+3934	Rahung	pʰ	- pʰ -	219-4
+3935	Rupa	b ə	- b ə	219-4
+3936	Shergaon	pʰ	- pʰ -	219-4
+3937	Duhumbi	h ɔː	h - ɔː	219-5
+3938	Jerigaon	pʰ	- pʰ -	219-5
+3939	Khispi	h w a	h w a	219-5
+3940	Khoina	b ə	- b ə	219-5
+3941	Khoitam	pʰ	- pʰ -	219-5
+3942	Rahung	pʰ	- pʰ -	219-5
+3943	Rupa	b ə	- b ə	219-5
+3944	Shergaon	pʰ	- pʰ -	219-5
+3945	Duhumbi	h ɔː	h - ɔː	219-6
+3946	Jerigaon	pʰ	- pʰ -	219-6
+3947	Khispi	h w a	h w a	219-6
+3948	Khoina	b ə	- b ə	219-6
+3949	Khoitam	pʰ	- pʰ -	219-6
+3950	Rahung	pʰ	- pʰ -	219-6
+3951	Rupa	b ə	- b ə	219-6
+3952	Shergaon	pʰ	- pʰ -	219-6
+3953	Duhumbi	h ɔː	h - ɔː	219-7
+3954	Jerigaon	pʰ	- pʰ -	219-7
+3955	Khispi	h w a	h w a	219-7
+3956	Khoina	b ə	- b ə	219-7
+3957	Khoitam	pʰ	- pʰ -	219-7
+3958	Rahung	pʰ	- pʰ -	219-7
+3959	Rupa	b ə	- b ə	219-7
+3960	Shergaon	pʰ	- pʰ -	219-7
+3961	Duhumbi	h ɔː	h - ɔː	219-8
+3962	Jerigaon	pʰ	- pʰ -	219-8
+3963	Khispi	h w a	h w a	219-8
+3964	Khoina	b ə	- b ə	219-8
+3965	Khoitam	pʰ	- pʰ -	219-8
+3966	Rahung	pʰ	- pʰ -	219-8
+3967	Rupa	b ə	- b ə	219-8
+3968	Shergaon	pʰ	- pʰ -	219-8
+3969	Duhumbi	m a ŋ	m a ŋ	224-1
+3970	Jerigaon	m ɔ̃ː	m ɔ̃ː -	224-1
+3971	Khispi	m a ŋ	m a ŋ	224-1
+3972	Khoina	m ɔ̃ː	m ɔ̃ː -	224-1
+3973	Khoitam	m ũː	m ũː -	224-1
+3974	Rahung	m ɔ ŋ	m ɔ ŋ	224-1
+3975	Rupa	m ɔ ŋ	m ɔ ŋ	224-1
+3976	Shergaon	m ɔ ŋ	m ɔ ŋ	224-1
+3977	Duhumbi	m a ŋ	m a ŋ	224-2
+3978	Jerigaon	m ɔ̃ː	m ɔ̃ː -	224-2
+3979	Khispi	m a ŋ	m a ŋ	224-2
+3980	Khoina	m ɔ̃ː	m ɔ̃ː -	224-2
+3981	Khoitam	m ũː	m ũː -	224-2
+3982	Rahung	m ɔ ŋ	m ɔ ŋ	224-2
+3983	Rupa	m ɔ ŋ	m ɔ ŋ	224-2
+3984	Shergaon	m ɔ ŋ	m ɔ ŋ	224-2
+3985	Duhumbi	m a ŋ	m a ŋ	224-3
+3986	Jerigaon	m ɔ̃ː	m ɔ̃ː -	224-3
+3987	Khispi	m a ŋ	m a ŋ	224-3
+3988	Khoina	m ɔ̃ː	m ɔ̃ː -	224-3
+3989	Khoitam	m ũː	m ũː -	224-3
+3990	Rahung	m ɔ ŋ	m ɔ ŋ	224-3
+3991	Rupa	m ɔ ŋ	m ɔ ŋ	224-3
+3992	Shergaon	m ɔ ŋ	m ɔ ŋ	224-3
+3993	Duhumbi	m a ŋ	m a ŋ	224-4
+3994	Jerigaon	m ɔ̃ː	m ɔ̃ː -	224-4
+3995	Khispi	m a ŋ	m a ŋ	224-4
+3996	Khoina	m ɔ̃ː	m ɔ̃ː -	224-4
+3997	Khoitam	m ũː	m ũː -	224-4
+3998	Rahung	m ɔ ŋ	m ɔ ŋ	224-4
+3999	Rupa	m ɔ ŋ	m ɔ ŋ	224-4
+4000	Shergaon	m ɔ ŋ	m ɔ ŋ	224-4
+4001	Duhumbi	m a ŋ	m a ŋ	224-5
+4002	Jerigaon	m ɔ̃ː	m ɔ̃ː -	224-5
+4003	Khispi	m a ŋ	m a ŋ	224-5
+4004	Khoina	m ɔ̃ː	m ɔ̃ː -	224-5
+4005	Khoitam	m ũː	m ũː -	224-5
+4006	Rahung	m ɔ ŋ	m ɔ ŋ	224-5
+4007	Rupa	m ɔ ŋ	m ɔ ŋ	224-5
+4008	Shergaon	m ɔ ŋ	m ɔ ŋ	224-5
+4009	Duhumbi	m a ŋ	m a ŋ	224-6
+4010	Jerigaon	m ɔ̃ː	m ɔ̃ː -	224-6
+4011	Khispi	m a ŋ	m a ŋ	224-6
+4012	Khoina	m ɔ̃ː	m ɔ̃ː -	224-6
+4013	Khoitam	m ũː	m ũː -	224-6
+4014	Rahung	m ɔ ŋ	m ɔ ŋ	224-6
+4015	Rupa	m ɔ ŋ	m ɔ ŋ	224-6
+4016	Shergaon	m ɔ ŋ	m ɔ ŋ	224-6
+4017	Duhumbi	m a ŋ	m a ŋ	224-7
+4018	Jerigaon	m ɔ̃ː	m ɔ̃ː -	224-7
+4019	Khispi	m a ŋ	m a ŋ	224-7
+4020	Khoina	m ɔ̃ː	m ɔ̃ː -	224-7
+4021	Khoitam	m ũː	m ũː -	224-7
+4022	Rahung	m ɔ ŋ	m ɔ ŋ	224-7
+4023	Rupa	m ɔ ŋ	m ɔ ŋ	224-7
+4024	Shergaon	m ɔ ŋ	m ɔ ŋ	224-7
+4025	Duhumbi	m a ŋ	m a ŋ	224-8
+4026	Jerigaon	m ɔ̃ː	m ɔ̃ː -	224-8
+4027	Khispi	m a ŋ	m a ŋ	224-8
+4028	Khoina	m ɔ̃ː	m ɔ̃ː -	224-8
+4029	Khoitam	m ũː	m ũː -	224-8
+4030	Rahung	m ɔ ŋ	m ɔ ŋ	224-8
+4031	Rupa	m ɔ ŋ	m ɔ ŋ	224-8
+4032	Shergaon	m ɔ ŋ	m ɔ ŋ	224-8
+4033	Duhumbi	ɕ a k	ɕ a k	240-1
+4034	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	240-1
+4035	Khispi	ɕ a k	ɕ a k	240-1
+4036	Khoina	tsʰ ɐ k	tsʰ ɐ k	240-1
+4037	Khoitam	tɕʰ a k	tɕʰ a k	240-1
+4038	Rahung	tɕʰ a k	tɕʰ a k	240-1
+4039	Rupa	ʨʰ a k	ʨʰ a k	240-1
+4040	Shergaon	tɕʰ a k	tɕʰ a k	240-1
+4041	Duhumbi	ɕ a k	ɕ a k	240-2
+4042	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	240-2
+4043	Khispi	ɕ a k	ɕ a k	240-2
+4044	Khoina	tsʰ ɐ k	tsʰ ɐ k	240-2
+4045	Khoitam	tɕʰ a k	tɕʰ a k	240-2
+4046	Rahung	tɕʰ a k	tɕʰ a k	240-2
+4047	Rupa	ʨʰ a k	ʨʰ a k	240-2
+4048	Shergaon	tɕʰ a k	tɕʰ a k	240-2
+4049	Duhumbi	ɕ a k	ɕ a k	240-3
+4050	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	240-3
+4051	Khispi	ɕ a k	ɕ a k	240-3
+4052	Khoina	tsʰ ɐ k	tsʰ ɐ k	240-3
+4053	Khoitam	tɕʰ a k	tɕʰ a k	240-3
+4054	Rahung	tɕʰ a k	tɕʰ a k	240-3
+4055	Rupa	ʨʰ a k	ʨʰ a k	240-3
+4056	Shergaon	tɕʰ a k	tɕʰ a k	240-3
+4057	Duhumbi	ɕ a k	ɕ a k	240-4
+4058	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	240-4
+4059	Khispi	ɕ a k	ɕ a k	240-4
+4060	Khoina	tsʰ ɐ k	tsʰ ɐ k	240-4
+4061	Khoitam	tɕʰ a k	tɕʰ a k	240-4
+4062	Rahung	tɕʰ a k	tɕʰ a k	240-4
+4063	Rupa	ʨʰ a k	ʨʰ a k	240-4
+4064	Shergaon	tɕʰ a k	tɕʰ a k	240-4
+4065	Duhumbi	ɕ a k	ɕ a k	240-5
+4066	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	240-5
+4067	Khispi	ɕ a k	ɕ a k	240-5
+4068	Khoina	tsʰ ɐ k	tsʰ ɐ k	240-5
+4069	Khoitam	tɕʰ a k	tɕʰ a k	240-5
+4070	Rahung	tɕʰ a k	tɕʰ a k	240-5
+4071	Rupa	ʨʰ a k	ʨʰ a k	240-5
+4072	Shergaon	tɕʰ a k	tɕʰ a k	240-5
+4073	Duhumbi	ɕ a k	ɕ a k	240-6
+4074	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	240-6
+4075	Khispi	ɕ a k	ɕ a k	240-6
+4076	Khoina	tsʰ ɐ k	tsʰ ɐ k	240-6
+4077	Khoitam	tɕʰ a k	tɕʰ a k	240-6
+4078	Rahung	tɕʰ a k	tɕʰ a k	240-6
+4079	Rupa	ʨʰ a k	ʨʰ a k	240-6
+4080	Shergaon	tɕʰ a k	tɕʰ a k	240-6
+4081	Duhumbi	ɕ a k	ɕ a k	240-7
+4082	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	240-7
+4083	Khispi	ɕ a k	ɕ a k	240-7
+4084	Khoina	tsʰ ɐ k	tsʰ ɐ k	240-7
+4085	Khoitam	tɕʰ a k	tɕʰ a k	240-7
+4086	Rahung	tɕʰ a k	tɕʰ a k	240-7
+4087	Rupa	ʨʰ a k	ʨʰ a k	240-7
+4088	Shergaon	tɕʰ a k	tɕʰ a k	240-7
+4089	Duhumbi	ɕ a k	ɕ a k	240-8
+4090	Jerigaon	tɕʰ ɐ k	tɕʰ ɐ k	240-8
+4091	Khispi	ɕ a k	ɕ a k	240-8
+4092	Khoina	tsʰ ɐ k	tsʰ ɐ k	240-8
+4093	Khoitam	tɕʰ a k	tɕʰ a k	240-8
+4094	Rahung	tɕʰ a k	tɕʰ a k	240-8
+4095	Rupa	ʨʰ a k	ʨʰ a k	240-8
+4096	Shergaon	tɕʰ a k	tɕʰ a k	240-8
+4097	Duhumbi	w a t	w a t	244-1
+4098	Jerigaon	j ɐˀ	j ɐˀ -	244-1
+4099	Khispi	w a t	w a t	244-1
+4100	Khoina	j ɐˀ	j ɐˀ -	244-1
+4101	Khoitam	j ɔˀ	j ɔˀ -	244-1
+4102	Rahung	j ɔˀ	j ɔˀ -	244-1
+4103	Rupa	j ɔˀ	j ɔˀ -	244-1
+4104	Shergaon	j ɔ	j ɔ -	244-1
+4105	Duhumbi	w a t	w a t	244-2
+4106	Jerigaon	j ɐˀ	j ɐˀ -	244-2
+4107	Khispi	w a t	w a t	244-2
+4108	Khoina	j ɐˀ	j ɐˀ -	244-2
+4109	Khoitam	j ɔˀ	j ɔˀ -	244-2
+4110	Rahung	j ɔˀ	j ɔˀ -	244-2
+4111	Rupa	j ɔˀ	j ɔˀ -	244-2
+4112	Shergaon	j ɔ	j ɔ -	244-2
+4113	Duhumbi	w a t	w a t	244-3
+4114	Jerigaon	j ɐˀ	j ɐˀ -	244-3
+4115	Khispi	w a t	w a t	244-3
+4116	Khoina	j ɐˀ	j ɐˀ -	244-3
+4117	Khoitam	j ɔˀ	j ɔˀ -	244-3
+4118	Rahung	j ɔˀ	j ɔˀ -	244-3
+4119	Rupa	j ɔˀ	j ɔˀ -	244-3
+4120	Shergaon	j ɔ	j ɔ -	244-3
+4121	Duhumbi	w a t	w a t	244-4
+4122	Jerigaon	j ɐˀ	j ɐˀ -	244-4
+4123	Khispi	w a t	w a t	244-4
+4124	Khoina	j ɐˀ	j ɐˀ -	244-4
+4125	Khoitam	j ɔˀ	j ɔˀ -	244-4
+4126	Rahung	j ɔˀ	j ɔˀ -	244-4
+4127	Rupa	j ɔˀ	j ɔˀ -	244-4
+4128	Shergaon	j ɔ	j ɔ -	244-4
+4129	Duhumbi	w a t	w a t	244-5
+4130	Jerigaon	j ɐˀ	j ɐˀ -	244-5
+4131	Khispi	w a t	w a t	244-5
+4132	Khoina	j ɐˀ	j ɐˀ -	244-5
+4133	Khoitam	j ɔˀ	j ɔˀ -	244-5
+4134	Rahung	j ɔˀ	j ɔˀ -	244-5
+4135	Rupa	j ɔˀ	j ɔˀ -	244-5
+4136	Shergaon	j ɔ	j ɔ -	244-5
+4137	Duhumbi	w a t	w a t	244-6
+4138	Jerigaon	j ɐˀ	j ɐˀ -	244-6
+4139	Khispi	w a t	w a t	244-6
+4140	Khoina	j ɐˀ	j ɐˀ -	244-6
+4141	Khoitam	j ɔˀ	j ɔˀ -	244-6
+4142	Rahung	j ɔˀ	j ɔˀ -	244-6
+4143	Rupa	j ɔˀ	j ɔˀ -	244-6
+4144	Shergaon	j ɔ	j ɔ -	244-6
+4145	Duhumbi	w a t	w a t	244-7
+4146	Jerigaon	j ɐˀ	j ɐˀ -	244-7
+4147	Khispi	w a t	w a t	244-7
+4148	Khoina	j ɐˀ	j ɐˀ -	244-7
+4149	Khoitam	j ɔˀ	j ɔˀ -	244-7
+4150	Rahung	j ɔˀ	j ɔˀ -	244-7
+4151	Rupa	j ɔˀ	j ɔˀ -	244-7
+4152	Shergaon	j ɔ	j ɔ -	244-7
+4153	Duhumbi	w a t	w a t	244-8
+4154	Jerigaon	j ɐˀ	j ɐˀ -	244-8
+4155	Khispi	w a t	w a t	244-8
+4156	Khoina	j ɐˀ	j ɐˀ -	244-8
+4157	Khoitam	j ɔˀ	j ɔˀ -	244-8
+4158	Rahung	j ɔˀ	j ɔˀ -	244-8
+4159	Rupa	j ɔˀ	j ɔˀ -	244-8
+4160	Shergaon	j ɔ	j ɔ -	244-8
+4161	Duhumbi	t a s	t a s	255-1
+4162	Jerigaon	n ɐ̃	n ɐ̃ -	255-1
+4163	Khispi	t a s	t a s	255-1
+4164	Khoina	n ɐ̃	n ɐ̃ -	255-1
+4165	Khoitam	n ɔ̃	n ɔ̃ -	255-1
+4166	Rahung	n ɔ̃	n ɔ̃ -	255-1
+4167	Rupa	n ɔ̃	n ɔ̃ -	255-1
+4168	Shergaon	n ɔ̃	n ɔ̃ -	255-1
+4169	Duhumbi	t a s	t a s	255-2
+4170	Jerigaon	n ɐ̃	n ɐ̃ -	255-2
+4171	Khispi	t a s	t a s	255-2
+4172	Khoina	n ɐ̃	n ɐ̃ -	255-2
+4173	Khoitam	n ɔ̃	n ɔ̃ -	255-2
+4174	Rahung	n ɔ̃	n ɔ̃ -	255-2
+4175	Rupa	n ɔ̃	n ɔ̃ -	255-2
+4176	Shergaon	n ɔ̃	n ɔ̃ -	255-2
+4177	Duhumbi	t a s	t a s	255-3
+4178	Jerigaon	n ɐ̃	n ɐ̃ -	255-3
+4179	Khispi	t a s	t a s	255-3
+4180	Khoina	n ɐ̃	n ɐ̃ -	255-3
+4181	Khoitam	n ɔ̃	n ɔ̃ -	255-3
+4182	Rahung	n ɔ̃	n ɔ̃ -	255-3
+4183	Rupa	n ɔ̃	n ɔ̃ -	255-3
+4184	Shergaon	n ɔ̃	n ɔ̃ -	255-3
+4185	Duhumbi	t a s	t a s	255-4
+4186	Jerigaon	n ɐ̃	n ɐ̃ -	255-4
+4187	Khispi	t a s	t a s	255-4
+4188	Khoina	n ɐ̃	n ɐ̃ -	255-4
+4189	Khoitam	n ɔ̃	n ɔ̃ -	255-4
+4190	Rahung	n ɔ̃	n ɔ̃ -	255-4
+4191	Rupa	n ɔ̃	n ɔ̃ -	255-4
+4192	Shergaon	n ɔ̃	n ɔ̃ -	255-4
+4193	Duhumbi	t a s	t a s	255-5
+4194	Jerigaon	n ɐ̃	n ɐ̃ -	255-5
+4195	Khispi	t a s	t a s	255-5
+4196	Khoina	n ɐ̃	n ɐ̃ -	255-5
+4197	Khoitam	n ɔ̃	n ɔ̃ -	255-5
+4198	Rahung	n ɔ̃	n ɔ̃ -	255-5
+4199	Rupa	n ɔ̃	n ɔ̃ -	255-5
+4200	Shergaon	n ɔ̃	n ɔ̃ -	255-5
+4201	Duhumbi	t a s	t a s	255-6
+4202	Jerigaon	n ɐ̃	n ɐ̃ -	255-6
+4203	Khispi	t a s	t a s	255-6
+4204	Khoina	n ɐ̃	n ɐ̃ -	255-6
+4205	Khoitam	n ɔ̃	n ɔ̃ -	255-6
+4206	Rahung	n ɔ̃	n ɔ̃ -	255-6
+4207	Rupa	n ɔ̃	n ɔ̃ -	255-6
+4208	Shergaon	n ɔ̃	n ɔ̃ -	255-6
+4209	Duhumbi	t a s	t a s	255-7
+4210	Jerigaon	n ɐ̃	n ɐ̃ -	255-7
+4211	Khispi	t a s	t a s	255-7
+4212	Khoina	n ɐ̃	n ɐ̃ -	255-7
+4213	Khoitam	n ɔ̃	n ɔ̃ -	255-7
+4214	Rahung	n ɔ̃	n ɔ̃ -	255-7
+4215	Rupa	n ɔ̃	n ɔ̃ -	255-7
+4216	Shergaon	n ɔ̃	n ɔ̃ -	255-7
+4217	Duhumbi	t a s	t a s	255-8
+4218	Jerigaon	n ɐ̃	n ɐ̃ -	255-8
+4219	Khispi	t a s	t a s	255-8
+4220	Khoina	n ɐ̃	n ɐ̃ -	255-8
+4221	Khoitam	n ɔ̃	n ɔ̃ -	255-8
+4222	Rahung	n ɔ̃	n ɔ̃ -	255-8
+4223	Rupa	n ɔ̃	n ɔ̃ -	255-8
+4224	Shergaon	n ɔ̃	n ɔ̃ -	255-8
+4225	Duhumbi	b eˀ	b eˀ	260-1
+4226	Jerigaon	b ɛˀ	b ɛˀ	260-1
+4227	Khispi	b e	b e	260-1
+4228	Khoina	b ɛˀ	b ɛˀ	260-1
+4229	Khoitam	b ɛˀ	b ɛˀ	260-1
+4230	Rahung	b ɛˀ	b ɛˀ	260-1
+4231	Rupa	b a	b a	260-1
+4232	Shergaon	b a	b a	260-1
+4233	Duhumbi	b eˀ	b eˀ	260-2
+4234	Jerigaon	b ɛˀ	b ɛˀ	260-2
+4235	Khispi	b e	b e	260-2
+4236	Khoina	b ɛˀ	b ɛˀ	260-2
+4237	Khoitam	b ɛˀ	b ɛˀ	260-2
+4238	Rahung	b ɛˀ	b ɛˀ	260-2
+4239	Rupa	b a	b a	260-2
+4240	Shergaon	b a	b a	260-2
+4241	Duhumbi	b eˀ	b eˀ	260-3
+4242	Jerigaon	b ɛˀ	b ɛˀ	260-3
+4243	Khispi	b e	b e	260-3
+4244	Khoina	b ɛˀ	b ɛˀ	260-3
+4245	Khoitam	b ɛˀ	b ɛˀ	260-3
+4246	Rahung	b ɛˀ	b ɛˀ	260-3
+4247	Rupa	b a	b a	260-3
+4248	Shergaon	b a	b a	260-3
+4249	Duhumbi	b eˀ	b eˀ	260-4
+4250	Jerigaon	b ɛˀ	b ɛˀ	260-4
+4251	Khispi	b e	b e	260-4
+4252	Khoina	b ɛˀ	b ɛˀ	260-4
+4253	Khoitam	b ɛˀ	b ɛˀ	260-4
+4254	Rahung	b ɛˀ	b ɛˀ	260-4
+4255	Rupa	b a	b a	260-4
+4256	Shergaon	b a	b a	260-4
+4257	Duhumbi	b eˀ	b eˀ	260-5
+4258	Jerigaon	b ɛˀ	b ɛˀ	260-5
+4259	Khispi	b e	b e	260-5
+4260	Khoina	b ɛˀ	b ɛˀ	260-5
+4261	Khoitam	b ɛˀ	b ɛˀ	260-5
+4262	Rahung	b ɛˀ	b ɛˀ	260-5
+4263	Rupa	b a	b a	260-5
+4264	Shergaon	b a	b a	260-5
+4265	Duhumbi	b eˀ	b eˀ	260-6
+4266	Jerigaon	b ɛˀ	b ɛˀ	260-6
+4267	Khispi	b e	b e	260-6
+4268	Khoina	b ɛˀ	b ɛˀ	260-6
+4269	Khoitam	b ɛˀ	b ɛˀ	260-6
+4270	Rahung	b ɛˀ	b ɛˀ	260-6
+4271	Rupa	b a	b a	260-6
+4272	Shergaon	b a	b a	260-6
+4273	Duhumbi	b eˀ	b eˀ	260-7
+4274	Jerigaon	b ɛˀ	b ɛˀ	260-7
+4275	Khispi	b e	b e	260-7
+4276	Khoina	b ɛˀ	b ɛˀ	260-7
+4277	Khoitam	b ɛˀ	b ɛˀ	260-7
+4278	Rahung	b ɛˀ	b ɛˀ	260-7
+4279	Rupa	b a	b a	260-7
+4280	Shergaon	b a	b a	260-7
+4281	Duhumbi	b eˀ	b eˀ	260-8
+4282	Jerigaon	b ɛˀ	b ɛˀ	260-8
+4283	Khispi	b e	b e	260-8
+4284	Khoina	b ɛˀ	b ɛˀ	260-8
+4285	Khoitam	b ɛˀ	b ɛˀ	260-8
+4286	Rahung	b ɛˀ	b ɛˀ	260-8
+4287	Rupa	b a	b a	260-8
+4288	Shergaon	b a	b a	260-8
+4289	Duhumbi	r ɔː	r ɔː	263-1
+4290	Jerigaon	r ɔː	r ɔː	263-1
+4291	Khispi	l ɔː	l ɔː	263-1
+4292	Khoina	r ɔː	r ɔː	263-1
+4293	Khoitam	r ɔː	r ɔː	263-1
+4294	Rahung	r oː	r oː	263-1
+4295	Rupa	r au	r au	263-1
+4296	Shergaon	r au	r au	263-1
+4297	Duhumbi	r ɔː	r ɔː	263-2
+4298	Jerigaon	r ɔː	r ɔː	263-2
+4299	Khispi	l ɔː	l ɔː	263-2
+4300	Khoina	r ɔː	r ɔː	263-2
+4301	Khoitam	r ɔː	r ɔː	263-2
+4302	Rahung	r oː	r oː	263-2
+4303	Rupa	r au	r au	263-2
+4304	Shergaon	r au	r au	263-2
+4305	Duhumbi	r ɔː	r ɔː	263-3
+4306	Jerigaon	r ɔː	r ɔː	263-3
+4307	Khispi	l ɔː	l ɔː	263-3
+4308	Khoina	r ɔː	r ɔː	263-3
+4309	Khoitam	r ɔː	r ɔː	263-3
+4310	Rahung	r oː	r oː	263-3
+4311	Rupa	r au	r au	263-3
+4312	Shergaon	r au	r au	263-3
+4313	Duhumbi	r ɔː	r ɔː	263-4
+4314	Jerigaon	r ɔː	r ɔː	263-4
+4315	Khispi	l ɔː	l ɔː	263-4
+4316	Khoina	r ɔː	r ɔː	263-4
+4317	Khoitam	r ɔː	r ɔː	263-4
+4318	Rahung	r oː	r oː	263-4
+4319	Rupa	r au	r au	263-4
+4320	Shergaon	r au	r au	263-4
+4321	Duhumbi	r ɔː	r ɔː	263-5
+4322	Jerigaon	r ɔː	r ɔː	263-5
+4323	Khispi	l ɔː	l ɔː	263-5
+4324	Khoina	r ɔː	r ɔː	263-5
+4325	Khoitam	r ɔː	r ɔː	263-5
+4326	Rahung	r oː	r oː	263-5
+4327	Rupa	r au	r au	263-5
+4328	Shergaon	r au	r au	263-5
+4329	Duhumbi	r ɔː	r ɔː	263-6
+4330	Jerigaon	r ɔː	r ɔː	263-6
+4331	Khispi	l ɔː	l ɔː	263-6
+4332	Khoina	r ɔː	r ɔː	263-6
+4333	Khoitam	r ɔː	r ɔː	263-6
+4334	Rahung	r oː	r oː	263-6
+4335	Rupa	r au	r au	263-6
+4336	Shergaon	r au	r au	263-6
+4337	Duhumbi	r ɔː	r ɔː	263-7
+4338	Jerigaon	r ɔː	r ɔː	263-7
+4339	Khispi	l ɔː	l ɔː	263-7
+4340	Khoina	r ɔː	r ɔː	263-7
+4341	Khoitam	r ɔː	r ɔː	263-7
+4342	Rahung	r oː	r oː	263-7
+4343	Rupa	r au	r au	263-7
+4344	Shergaon	r au	r au	263-7
+4345	Duhumbi	r ɔː	r ɔː	263-8
+4346	Jerigaon	r ɔː	r ɔː	263-8
+4347	Khispi	l ɔː	l ɔː	263-8
+4348	Khoina	r ɔː	r ɔː	263-8
+4349	Khoitam	r ɔː	r ɔː	263-8
+4350	Rahung	r oː	r oː	263-8
+4351	Rupa	r au	r au	263-8
+4352	Shergaon	r au	r au	263-8
+4353	Duhumbi	g ɹ a ŋ	g ɹ a ŋ	269-1
+4354	Jerigaon	dʑ ɛ k	dʑ - ɛ k	269-1
+4355	Khispi	g a ŋ	g - a ŋ	269-1
+4356	Khoina	ɖʐ ai k	ɖʐ - ai k	269-1
+4357	Khoitam	dʑ ɛ k	dʑ - ɛ k	269-1
+4358	Rahung	dʑ ɛ k	dʑ - ɛ k	269-1
+4359	Rupa	g ɛ k	g - ɛ k	269-1
+4360	Shergaon	g ɛ k	g - ɛ k	269-1
+4361	Duhumbi	g ɹ a ŋ	g ɹ a ŋ	269-2
+4362	Jerigaon	dʑ ɛ k	dʑ - ɛ k	269-2
+4363	Khispi	g a ŋ	g - a ŋ	269-2
+4364	Khoina	ɖʐ ai k	ɖʐ - ai k	269-2
+4365	Khoitam	dʑ ɛ k	dʑ - ɛ k	269-2
+4366	Rahung	dʑ ɛ k	dʑ - ɛ k	269-2
+4367	Rupa	g ɛ k	g - ɛ k	269-2
+4368	Shergaon	g ɛ k	g - ɛ k	269-2
+4369	Duhumbi	g ɹ a ŋ	g ɹ a ŋ	269-3
+4370	Jerigaon	dʑ ɛ k	dʑ - ɛ k	269-3
+4371	Khispi	g a ŋ	g - a ŋ	269-3
+4372	Khoina	ɖʐ ai k	ɖʐ - ai k	269-3
+4373	Khoitam	dʑ ɛ k	dʑ - ɛ k	269-3
+4374	Rahung	dʑ ɛ k	dʑ - ɛ k	269-3
+4375	Rupa	g ɛ k	g - ɛ k	269-3
+4376	Shergaon	g ɛ k	g - ɛ k	269-3
+4377	Duhumbi	g ɹ a ŋ	g ɹ a ŋ	269-4
+4378	Jerigaon	dʑ ɛ k	dʑ - ɛ k	269-4
+4379	Khispi	g a ŋ	g - a ŋ	269-4
+4380	Khoina	ɖʐ ai k	ɖʐ - ai k	269-4
+4381	Khoitam	dʑ ɛ k	dʑ - ɛ k	269-4
+4382	Rahung	dʑ ɛ k	dʑ - ɛ k	269-4
+4383	Rupa	g ɛ k	g - ɛ k	269-4
+4384	Shergaon	g ɛ k	g - ɛ k	269-4
+4385	Duhumbi	g ɹ a ŋ	g ɹ a ŋ	269-5
+4386	Jerigaon	dʑ ɛ k	dʑ - ɛ k	269-5
+4387	Khispi	g a ŋ	g - a ŋ	269-5
+4388	Khoina	ɖʐ ai k	ɖʐ - ai k	269-5
+4389	Khoitam	dʑ ɛ k	dʑ - ɛ k	269-5
+4390	Rahung	dʑ ɛ k	dʑ - ɛ k	269-5
+4391	Rupa	g ɛ k	g - ɛ k	269-5
+4392	Shergaon	g ɛ k	g - ɛ k	269-5
+4393	Duhumbi	g ɹ a ŋ	g ɹ a ŋ	269-6
+4394	Jerigaon	dʑ ɛ k	dʑ - ɛ k	269-6
+4395	Khispi	g a ŋ	g - a ŋ	269-6
+4396	Khoina	ɖʐ ai k	ɖʐ - ai k	269-6
+4397	Khoitam	dʑ ɛ k	dʑ - ɛ k	269-6
+4398	Rahung	dʑ ɛ k	dʑ - ɛ k	269-6
+4399	Rupa	g ɛ k	g - ɛ k	269-6
+4400	Shergaon	g ɛ k	g - ɛ k	269-6
+4401	Duhumbi	g ɹ a ŋ	g ɹ a ŋ	269-7
+4402	Jerigaon	dʑ ɛ k	dʑ - ɛ k	269-7
+4403	Khispi	g a ŋ	g - a ŋ	269-7
+4404	Khoina	ɖʐ ai k	ɖʐ - ai k	269-7
+4405	Khoitam	dʑ ɛ k	dʑ - ɛ k	269-7
+4406	Rahung	dʑ ɛ k	dʑ - ɛ k	269-7
+4407	Rupa	g ɛ k	g - ɛ k	269-7
+4408	Shergaon	g ɛ k	g - ɛ k	269-7
+4409	Duhumbi	g ɹ a ŋ	g ɹ a ŋ	269-8
+4410	Jerigaon	dʑ ɛ k	dʑ - ɛ k	269-8
+4411	Khispi	g a ŋ	g - a ŋ	269-8
+4412	Khoina	ɖʐ ai k	ɖʐ - ai k	269-8
+4413	Khoitam	dʑ ɛ k	dʑ - ɛ k	269-8
+4414	Rahung	dʑ ɛ k	dʑ - ɛ k	269-8
+4415	Rupa	g ɛ k	g - ɛ k	269-8
+4416	Shergaon	g ɛ k	g - ɛ k	269-8
+4417	Duhumbi	tʰ a k	tʰ a k	271-1
+4418	Jerigaon	tʰ ɐ k	tʰ ɐ k	271-1
+4419	Khispi	tʰ a k	tʰ a k	271-1
+4420	Khoina	tʰ ɐ k	tʰ ɐ k	271-1
+4421	Khoitam	tʰ a k	tʰ a k	271-1
+4422	Rahung	tʰ a k	tʰ a k	271-1
+4423	Rupa	tʰ a k	tʰ a k	271-1
+4424	Shergaon	tʰ a k	tʰ a k	271-1
+4425	Duhumbi	tʰ a k	tʰ a k	271-2
+4426	Jerigaon	tʰ ɐ k	tʰ ɐ k	271-2
+4427	Khispi	tʰ a k	tʰ a k	271-2
+4428	Khoina	tʰ ɐ k	tʰ ɐ k	271-2
+4429	Khoitam	tʰ a k	tʰ a k	271-2
+4430	Rahung	tʰ a k	tʰ a k	271-2
+4431	Rupa	tʰ a k	tʰ a k	271-2
+4432	Shergaon	tʰ a k	tʰ a k	271-2
+4433	Duhumbi	tʰ a k	tʰ a k	271-3
+4434	Jerigaon	tʰ ɐ k	tʰ ɐ k	271-3
+4435	Khispi	tʰ a k	tʰ a k	271-3
+4436	Khoina	tʰ ɐ k	tʰ ɐ k	271-3
+4437	Khoitam	tʰ a k	tʰ a k	271-3
+4438	Rahung	tʰ a k	tʰ a k	271-3
+4439	Rupa	tʰ a k	tʰ a k	271-3
+4440	Shergaon	tʰ a k	tʰ a k	271-3
+4441	Duhumbi	tʰ a k	tʰ a k	271-4
+4442	Jerigaon	tʰ ɐ k	tʰ ɐ k	271-4
+4443	Khispi	tʰ a k	tʰ a k	271-4
+4444	Khoina	tʰ ɐ k	tʰ ɐ k	271-4
+4445	Khoitam	tʰ a k	tʰ a k	271-4
+4446	Rahung	tʰ a k	tʰ a k	271-4
+4447	Rupa	tʰ a k	tʰ a k	271-4
+4448	Shergaon	tʰ a k	tʰ a k	271-4
+4449	Duhumbi	tʰ a k	tʰ a k	271-5
+4450	Jerigaon	tʰ ɐ k	tʰ ɐ k	271-5
+4451	Khispi	tʰ a k	tʰ a k	271-5
+4452	Khoina	tʰ ɐ k	tʰ ɐ k	271-5
+4453	Khoitam	tʰ a k	tʰ a k	271-5
+4454	Rahung	tʰ a k	tʰ a k	271-5
+4455	Rupa	tʰ a k	tʰ a k	271-5
+4456	Shergaon	tʰ a k	tʰ a k	271-5
+4457	Duhumbi	tʰ a k	tʰ a k	271-6
+4458	Jerigaon	tʰ ɐ k	tʰ ɐ k	271-6
+4459	Khispi	tʰ a k	tʰ a k	271-6
+4460	Khoina	tʰ ɐ k	tʰ ɐ k	271-6
+4461	Khoitam	tʰ a k	tʰ a k	271-6
+4462	Rahung	tʰ a k	tʰ a k	271-6
+4463	Rupa	tʰ a k	tʰ a k	271-6
+4464	Shergaon	tʰ a k	tʰ a k	271-6
+4465	Duhumbi	tʰ a k	tʰ a k	271-7
+4466	Jerigaon	tʰ ɐ k	tʰ ɐ k	271-7
+4467	Khispi	tʰ a k	tʰ a k	271-7
+4468	Khoina	tʰ ɐ k	tʰ ɐ k	271-7
+4469	Khoitam	tʰ a k	tʰ a k	271-7
+4470	Rahung	tʰ a k	tʰ a k	271-7
+4471	Rupa	tʰ a k	tʰ a k	271-7
+4472	Shergaon	tʰ a k	tʰ a k	271-7
+4473	Duhumbi	tʰ a k	tʰ a k	271-8
+4474	Jerigaon	tʰ ɐ k	tʰ ɐ k	271-8
+4475	Khispi	tʰ a k	tʰ a k	271-8
+4476	Khoina	tʰ ɐ k	tʰ ɐ k	271-8
+4477	Khoitam	tʰ a k	tʰ a k	271-8
+4478	Rahung	tʰ a k	tʰ a k	271-8
+4479	Rupa	tʰ a k	tʰ a k	271-8
+4480	Shergaon	tʰ a k	tʰ a k	271-8
+4481	Duhumbi	m ɛ m	m ɛ m	277-1
+4482	Jerigaon	m a	m a -	277-1
+4483	Khispi	m ɛ m	m ɛ m	277-1
+4484	Khoina	m a	m a -	277-1
+4485	Khoitam	m a	m a -	277-1
+4486	Rahung	m a	m a -	277-1
+4487	Rupa	m ə	m ə -	277-1
+4488	Shergaon	m ə	m ə -	277-1
+4489	Duhumbi	m ɛ m	m ɛ m	277-2
+4490	Jerigaon	m a	m a -	277-2
+4491	Khispi	m ɛ m	m ɛ m	277-2
+4492	Khoina	m a	m a -	277-2
+4493	Khoitam	m a	m a -	277-2
+4494	Rahung	m a	m a -	277-2
+4495	Rupa	m ə	m ə -	277-2
+4496	Shergaon	m ə	m ə -	277-2
+4497	Duhumbi	m ɛ m	m ɛ m	277-3
+4498	Jerigaon	m a	m a -	277-3
+4499	Khispi	m ɛ m	m ɛ m	277-3
+4500	Khoina	m a	m a -	277-3
+4501	Khoitam	m a	m a -	277-3
+4502	Rahung	m a	m a -	277-3
+4503	Rupa	m ə	m ə -	277-3
+4504	Shergaon	m ə	m ə -	277-3
+4505	Duhumbi	m ɛ m	m ɛ m	277-4
+4506	Jerigaon	m a	m a -	277-4
+4507	Khispi	m ɛ m	m ɛ m	277-4
+4508	Khoina	m a	m a -	277-4
+4509	Khoitam	m a	m a -	277-4
+4510	Rahung	m a	m a -	277-4
+4511	Rupa	m ə	m ə -	277-4
+4512	Shergaon	m ə	m ə -	277-4
+4513	Duhumbi	m ɛ m	m ɛ m	277-5
+4514	Jerigaon	m a	m a -	277-5
+4515	Khispi	m ɛ m	m ɛ m	277-5
+4516	Khoina	m a	m a -	277-5
+4517	Khoitam	m a	m a -	277-5
+4518	Rahung	m a	m a -	277-5
+4519	Rupa	m ə	m ə -	277-5
+4520	Shergaon	m ə	m ə -	277-5
+4521	Duhumbi	m ɛ m	m ɛ m	277-6
+4522	Jerigaon	m a	m a -	277-6
+4523	Khispi	m ɛ m	m ɛ m	277-6
+4524	Khoina	m a	m a -	277-6
+4525	Khoitam	m a	m a -	277-6
+4526	Rahung	m a	m a -	277-6
+4527	Rupa	m ə	m ə -	277-6
+4528	Shergaon	m ə	m ə -	277-6
+4529	Duhumbi	m ɛ m	m ɛ m	277-7
+4530	Jerigaon	m a	m a -	277-7
+4531	Khispi	m ɛ m	m ɛ m	277-7
+4532	Khoina	m a	m a -	277-7
+4533	Khoitam	m a	m a -	277-7
+4534	Rahung	m a	m a -	277-7
+4535	Rupa	m ə	m ə -	277-7
+4536	Shergaon	m ə	m ə -	277-7
+4537	Duhumbi	m ɛ m	m ɛ m	277-8
+4538	Jerigaon	m a	m a -	277-8
+4539	Khispi	m ɛ m	m ɛ m	277-8
+4540	Khoina	m a	m a -	277-8
+4541	Khoitam	m a	m a -	277-8
+4542	Rahung	m a	m a -	277-8
+4543	Rupa	m ə	m ə -	277-8
+4544	Shergaon	m ə	m ə -	277-8
+4545	Duhumbi	pʰ ɔ ŋ	pʰ ɔ ŋ	278-1
+4546	Jerigaon	b u ŋ	b u ŋ	278-1
+4547	Khispi	b ɔ ŋ	b ɔ ŋ	278-1
+4548	Khoina	b u ŋ	b u ŋ	278-1
+4549	Khoitam	b u ŋ	b u ŋ	278-1
+4550	Rahung	b u ŋ	b u ŋ	278-1
+4551	Rupa	b u ŋ	b u ŋ	278-1
+4552	Shergaon	b u ŋ	b u ŋ	278-1
+4553	Duhumbi	pʰ ɔ ŋ	pʰ ɔ ŋ	278-2
+4554	Jerigaon	b u ŋ	b u ŋ	278-2
+4555	Khispi	b ɔ ŋ	b ɔ ŋ	278-2
+4556	Khoina	b u ŋ	b u ŋ	278-2
+4557	Khoitam	b u ŋ	b u ŋ	278-2
+4558	Rahung	b u ŋ	b u ŋ	278-2
+4559	Rupa	b u ŋ	b u ŋ	278-2
+4560	Shergaon	b u ŋ	b u ŋ	278-2
+4561	Duhumbi	pʰ ɔ ŋ	pʰ ɔ ŋ	278-3
+4562	Jerigaon	b u ŋ	b u ŋ	278-3
+4563	Khispi	b ɔ ŋ	b ɔ ŋ	278-3
+4564	Khoina	b u ŋ	b u ŋ	278-3
+4565	Khoitam	b u ŋ	b u ŋ	278-3
+4566	Rahung	b u ŋ	b u ŋ	278-3
+4567	Rupa	b u ŋ	b u ŋ	278-3
+4568	Shergaon	b u ŋ	b u ŋ	278-3
+4569	Duhumbi	pʰ ɔ ŋ	pʰ ɔ ŋ	278-4
+4570	Jerigaon	b u ŋ	b u ŋ	278-4
+4571	Khispi	b ɔ ŋ	b ɔ ŋ	278-4
+4572	Khoina	b u ŋ	b u ŋ	278-4
+4573	Khoitam	b u ŋ	b u ŋ	278-4
+4574	Rahung	b u ŋ	b u ŋ	278-4
+4575	Rupa	b u ŋ	b u ŋ	278-4
+4576	Shergaon	b u ŋ	b u ŋ	278-4
+4577	Duhumbi	pʰ ɔ ŋ	pʰ ɔ ŋ	278-5
+4578	Jerigaon	b u ŋ	b u ŋ	278-5
+4579	Khispi	b ɔ ŋ	b ɔ ŋ	278-5
+4580	Khoina	b u ŋ	b u ŋ	278-5
+4581	Khoitam	b u ŋ	b u ŋ	278-5
+4582	Rahung	b u ŋ	b u ŋ	278-5
+4583	Rupa	b u ŋ	b u ŋ	278-5
+4584	Shergaon	b u ŋ	b u ŋ	278-5
+4585	Duhumbi	pʰ ɔ ŋ	pʰ ɔ ŋ	278-6
+4586	Jerigaon	b u ŋ	b u ŋ	278-6
+4587	Khispi	b ɔ ŋ	b ɔ ŋ	278-6
+4588	Khoina	b u ŋ	b u ŋ	278-6
+4589	Khoitam	b u ŋ	b u ŋ	278-6
+4590	Rahung	b u ŋ	b u ŋ	278-6
+4591	Rupa	b u ŋ	b u ŋ	278-6
+4592	Shergaon	b u ŋ	b u ŋ	278-6
+4593	Duhumbi	pʰ ɔ ŋ	pʰ ɔ ŋ	278-7
+4594	Jerigaon	b u ŋ	b u ŋ	278-7
+4595	Khispi	b ɔ ŋ	b ɔ ŋ	278-7
+4596	Khoina	b u ŋ	b u ŋ	278-7
+4597	Khoitam	b u ŋ	b u ŋ	278-7
+4598	Rahung	b u ŋ	b u ŋ	278-7
+4599	Rupa	b u ŋ	b u ŋ	278-7
+4600	Shergaon	b u ŋ	b u ŋ	278-7
+4601	Duhumbi	pʰ ɔ ŋ	pʰ ɔ ŋ	278-8
+4602	Jerigaon	b u ŋ	b u ŋ	278-8
+4603	Khispi	b ɔ ŋ	b ɔ ŋ	278-8
+4604	Khoina	b u ŋ	b u ŋ	278-8
+4605	Khoitam	b u ŋ	b u ŋ	278-8
+4606	Rahung	b u ŋ	b u ŋ	278-8
+4607	Rupa	b u ŋ	b u ŋ	278-8
+4608	Shergaon	b u ŋ	b u ŋ	278-8
+4609	Duhumbi	m u	m u	284-1
+4610	Jerigaon	m yː	m yː	284-1
+4611	Khispi	m u	m u	284-1
+4612	Khoina	m yː	m yː	284-1
+4613	Khoitam	m yː	m yː	284-1
+4614	Rahung	m yː	m yː	284-1
+4615	Rupa	m yː	m yː	284-1
+4616	Shergaon	m iː	m iː	284-1
+4617	Duhumbi	m u	m u	284-2
+4618	Jerigaon	m yː	m yː	284-2
+4619	Khispi	m u	m u	284-2
+4620	Khoina	m yː	m yː	284-2
+4621	Khoitam	m yː	m yː	284-2
+4622	Rahung	m yː	m yː	284-2
+4623	Rupa	m yː	m yː	284-2
+4624	Shergaon	m iː	m iː	284-2
+4625	Duhumbi	m u	m u	284-3
+4626	Jerigaon	m yː	m yː	284-3
+4627	Khispi	m u	m u	284-3
+4628	Khoina	m yː	m yː	284-3
+4629	Khoitam	m yː	m yː	284-3
+4630	Rahung	m yː	m yː	284-3
+4631	Rupa	m yː	m yː	284-3
+4632	Shergaon	m iː	m iː	284-3
+4633	Duhumbi	m u	m u	284-4
+4634	Jerigaon	m yː	m yː	284-4
+4635	Khispi	m u	m u	284-4
+4636	Khoina	m yː	m yː	284-4
+4637	Khoitam	m yː	m yː	284-4
+4638	Rahung	m yː	m yː	284-4
+4639	Rupa	m yː	m yː	284-4
+4640	Shergaon	m iː	m iː	284-4
+4641	Duhumbi	m u	m u	284-5
+4642	Jerigaon	m yː	m yː	284-5
+4643	Khispi	m u	m u	284-5
+4644	Khoina	m yː	m yː	284-5
+4645	Khoitam	m yː	m yː	284-5
+4646	Rahung	m yː	m yː	284-5
+4647	Rupa	m yː	m yː	284-5
+4648	Shergaon	m iː	m iː	284-5
+4649	Duhumbi	m u	m u	284-6
+4650	Jerigaon	m yː	m yː	284-6
+4651	Khispi	m u	m u	284-6
+4652	Khoina	m yː	m yː	284-6
+4653	Khoitam	m yː	m yː	284-6
+4654	Rahung	m yː	m yː	284-6
+4655	Rupa	m yː	m yː	284-6
+4656	Shergaon	m iː	m iː	284-6
+4657	Duhumbi	m u	m u	284-7
+4658	Jerigaon	m yː	m yː	284-7
+4659	Khispi	m u	m u	284-7
+4660	Khoina	m yː	m yː	284-7
+4661	Khoitam	m yː	m yː	284-7
+4662	Rahung	m yː	m yː	284-7
+4663	Rupa	m yː	m yː	284-7
+4664	Shergaon	m iː	m iː	284-7
+4665	Duhumbi	m u	m u	284-8
+4666	Jerigaon	m yː	m yː	284-8
+4667	Khispi	m u	m u	284-8
+4668	Khoina	m yː	m yː	284-8
+4669	Khoitam	m yː	m yː	284-8
+4670	Rahung	m yː	m yː	284-8
+4671	Rupa	m yː	m yː	284-8
+4672	Shergaon	m iː	m iː	284-8
+4673	Duhumbi	k iˀ	k iˀ -	289-1
+4674	Jerigaon	tɕ i k	tɕ i k	289-1
+4675	Khispi	k i	k i -	289-1
+4676	Khoina	tɕ i k	tɕ i k	289-1
+4677	Khoitam	tɕ i k	tɕ i k	289-1
+4678	Rahung	tɕ i k	tɕ i k	289-1
+4679	Rupa	k i t	k i t	289-1
+4680	Shergaon	kʰ i t	kʰ i t	289-1
+4681	Duhumbi	k iˀ	k iˀ -	289-2
+4682	Jerigaon	tɕ i k	tɕ i k	289-2
+4683	Khispi	k i	k i -	289-2
+4684	Khoina	tɕ i k	tɕ i k	289-2
+4685	Khoitam	tɕ i k	tɕ i k	289-2
+4686	Rahung	tɕ i k	tɕ i k	289-2
+4687	Rupa	k i t	k i t	289-2
+4688	Shergaon	kʰ i t	kʰ i t	289-2
+4689	Duhumbi	k iˀ	k iˀ -	289-3
+4690	Jerigaon	tɕ i k	tɕ i k	289-3
+4691	Khispi	k i	k i -	289-3
+4692	Khoina	tɕ i k	tɕ i k	289-3
+4693	Khoitam	tɕ i k	tɕ i k	289-3
+4694	Rahung	tɕ i k	tɕ i k	289-3
+4695	Rupa	k i t	k i t	289-3
+4696	Shergaon	kʰ i t	kʰ i t	289-3
+4697	Duhumbi	k iˀ	k iˀ -	289-4
+4698	Jerigaon	tɕ i k	tɕ i k	289-4
+4699	Khispi	k i	k i -	289-4
+4700	Khoina	tɕ i k	tɕ i k	289-4
+4701	Khoitam	tɕ i k	tɕ i k	289-4
+4702	Rahung	tɕ i k	tɕ i k	289-4
+4703	Rupa	k i t	k i t	289-4
+4704	Shergaon	kʰ i t	kʰ i t	289-4
+4705	Duhumbi	k iˀ	k iˀ -	289-5
+4706	Jerigaon	tɕ i k	tɕ i k	289-5
+4707	Khispi	k i	k i -	289-5
+4708	Khoina	tɕ i k	tɕ i k	289-5
+4709	Khoitam	tɕ i k	tɕ i k	289-5
+4710	Rahung	tɕ i k	tɕ i k	289-5
+4711	Rupa	k i t	k i t	289-5
+4712	Shergaon	kʰ i t	kʰ i t	289-5
+4713	Duhumbi	k iˀ	k iˀ -	289-6
+4714	Jerigaon	tɕ i k	tɕ i k	289-6
+4715	Khispi	k i	k i -	289-6
+4716	Khoina	tɕ i k	tɕ i k	289-6
+4717	Khoitam	tɕ i k	tɕ i k	289-6
+4718	Rahung	tɕ i k	tɕ i k	289-6
+4719	Rupa	k i t	k i t	289-6
+4720	Shergaon	kʰ i t	kʰ i t	289-6
+4721	Duhumbi	k iˀ	k iˀ -	289-7
+4722	Jerigaon	tɕ i k	tɕ i k	289-7
+4723	Khispi	k i	k i -	289-7
+4724	Khoina	tɕ i k	tɕ i k	289-7
+4725	Khoitam	tɕ i k	tɕ i k	289-7
+4726	Rahung	tɕ i k	tɕ i k	289-7
+4727	Rupa	k i t	k i t	289-7
+4728	Shergaon	kʰ i t	kʰ i t	289-7
+4729	Duhumbi	k iˀ	k iˀ -	289-8
+4730	Jerigaon	tɕ i k	tɕ i k	289-8
+4731	Khispi	k i	k i -	289-8
+4732	Khoina	tɕ i k	tɕ i k	289-8
+4733	Khoitam	tɕ i k	tɕ i k	289-8
+4734	Rahung	tɕ i k	tɕ i k	289-8
+4735	Rupa	k i t	k i t	289-8
+4736	Shergaon	kʰ i t	kʰ i t	289-8
+4737	Duhumbi	l ɔu	l ɔu -	290-1
+4738	Jerigaon	l ɛ n	l ɛ n	290-1
+4739	Khispi	l ɔu	l ɔu -	290-1
+4740	Khoina	l ə	l ə -	290-1
+4741	Khoitam	l i ŋ	l i ŋ	290-1
+4742	Rahung	n i n	n i n	290-1
+4743	Rupa	l i ŋ	l i ŋ	290-1
+4744	Shergaon	l i ŋ	l i ŋ	290-1
+4745	Duhumbi	l ɔu	l ɔu -	290-2
+4746	Jerigaon	l ɛ n	l ɛ n	290-2
+4747	Khispi	l ɔu	l ɔu -	290-2
+4748	Khoina	l ə	l ə -	290-2
+4749	Khoitam	l i ŋ	l i ŋ	290-2
+4750	Rahung	n i n	n i n	290-2
+4751	Rupa	l i ŋ	l i ŋ	290-2
+4752	Shergaon	l i ŋ	l i ŋ	290-2
+4753	Duhumbi	l ɔu	l ɔu -	290-3
+4754	Jerigaon	l ɛ n	l ɛ n	290-3
+4755	Khispi	l ɔu	l ɔu -	290-3
+4756	Khoina	l ə	l ə -	290-3
+4757	Khoitam	l i ŋ	l i ŋ	290-3
+4758	Rahung	n i n	n i n	290-3
+4759	Rupa	l i ŋ	l i ŋ	290-3
+4760	Shergaon	l i ŋ	l i ŋ	290-3
+4761	Duhumbi	l ɔu	l ɔu -	290-4
+4762	Jerigaon	l ɛ n	l ɛ n	290-4
+4763	Khispi	l ɔu	l ɔu -	290-4
+4764	Khoina	l ə	l ə -	290-4
+4765	Khoitam	l i ŋ	l i ŋ	290-4
+4766	Rahung	n i n	n i n	290-4
+4767	Rupa	l i ŋ	l i ŋ	290-4
+4768	Shergaon	l i ŋ	l i ŋ	290-4
+4769	Duhumbi	l ɔu	l ɔu -	290-5
+4770	Jerigaon	l ɛ n	l ɛ n	290-5
+4771	Khispi	l ɔu	l ɔu -	290-5
+4772	Khoina	l ə	l ə -	290-5
+4773	Khoitam	l i ŋ	l i ŋ	290-5
+4774	Rahung	n i n	n i n	290-5
+4775	Rupa	l i ŋ	l i ŋ	290-5
+4776	Shergaon	l i ŋ	l i ŋ	290-5
+4777	Duhumbi	l ɔu	l ɔu -	290-6
+4778	Jerigaon	l ɛ n	l ɛ n	290-6
+4779	Khispi	l ɔu	l ɔu -	290-6
+4780	Khoina	l ə	l ə -	290-6
+4781	Khoitam	l i ŋ	l i ŋ	290-6
+4782	Rahung	n i n	n i n	290-6
+4783	Rupa	l i ŋ	l i ŋ	290-6
+4784	Shergaon	l i ŋ	l i ŋ	290-6
+4785	Duhumbi	l ɔu	l ɔu -	290-7
+4786	Jerigaon	l ɛ n	l ɛ n	290-7
+4787	Khispi	l ɔu	l ɔu -	290-7
+4788	Khoina	l ə	l ə -	290-7
+4789	Khoitam	l i ŋ	l i ŋ	290-7
+4790	Rahung	n i n	n i n	290-7
+4791	Rupa	l i ŋ	l i ŋ	290-7
+4792	Shergaon	l i ŋ	l i ŋ	290-7
+4793	Duhumbi	l ɔu	l ɔu -	290-8
+4794	Jerigaon	l ɛ n	l ɛ n	290-8
+4795	Khispi	l ɔu	l ɔu -	290-8
+4796	Khoina	l ə	l ə -	290-8
+4797	Khoitam	l i ŋ	l i ŋ	290-8
+4798	Rahung	n i n	n i n	290-8
+4799	Rupa	l i ŋ	l i ŋ	290-8
+4800	Shergaon	l i ŋ	l i ŋ	290-8
+4801	Duhumbi	n i	n i	296-1
+4802	Jerigaon	h i	h i	296-1
+4803	Khispi	n i	n i	296-1
+4804	Khoina	r i	r i	296-1
+4805	Khoitam	n iː	n iː	296-1
+4806	Rahung	n ə	n ə	296-1
+4807	Rupa	n i	n i	296-1
+4808	Shergaon	n i	n i	296-1
+4809	Duhumbi	n i	n i	296-2
+4810	Jerigaon	h i	h i	296-2
+4811	Khispi	n i	n i	296-2
+4812	Khoina	r i	r i	296-2
+4813	Khoitam	n iː	n iː	296-2
+4814	Rahung	n ə	n ə	296-2
+4815	Rupa	n i	n i	296-2
+4816	Shergaon	n i	n i	296-2
+4817	Duhumbi	n i	n i	296-3
+4818	Jerigaon	h i	h i	296-3
+4819	Khispi	n i	n i	296-3
+4820	Khoina	r i	r i	296-3
+4821	Khoitam	n iː	n iː	296-3
+4822	Rahung	n ə	n ə	296-3
+4823	Rupa	n i	n i	296-3
+4824	Shergaon	n i	n i	296-3
+4825	Duhumbi	n i	n i	296-4
+4826	Jerigaon	h i	h i	296-4
+4827	Khispi	n i	n i	296-4
+4828	Khoina	r i	r i	296-4
+4829	Khoitam	n iː	n iː	296-4
+4830	Rahung	n ə	n ə	296-4
+4831	Rupa	n i	n i	296-4
+4832	Shergaon	n i	n i	296-4
+4833	Duhumbi	n i	n i	296-5
+4834	Jerigaon	h i	h i	296-5
+4835	Khispi	n i	n i	296-5
+4836	Khoina	r i	r i	296-5
+4837	Khoitam	n iː	n iː	296-5
+4838	Rahung	n ə	n ə	296-5
+4839	Rupa	n i	n i	296-5
+4840	Shergaon	n i	n i	296-5
+4841	Duhumbi	n i	n i	296-6
+4842	Jerigaon	h i	h i	296-6
+4843	Khispi	n i	n i	296-6
+4844	Khoina	r i	r i	296-6
+4845	Khoitam	n iː	n iː	296-6
+4846	Rahung	n ə	n ə	296-6
+4847	Rupa	n i	n i	296-6
+4848	Shergaon	n i	n i	296-6
+4849	Duhumbi	n i	n i	296-7
+4850	Jerigaon	h i	h i	296-7
+4851	Khispi	n i	n i	296-7
+4852	Khoina	r i	r i	296-7
+4853	Khoitam	n iː	n iː	296-7
+4854	Rahung	n ə	n ə	296-7
+4855	Rupa	n i	n i	296-7
+4856	Shergaon	n i	n i	296-7
+4857	Duhumbi	n i	n i	296-8
+4858	Jerigaon	h i	h i	296-8
+4859	Khispi	n i	n i	296-8
+4860	Khoina	r i	r i	296-8
+4861	Khoitam	n iː	n iː	296-8
+4862	Rahung	n ə	n ə	296-8
+4863	Rupa	n i	n i	296-8
+4864	Shergaon	n i	n i	296-8
+4865	Duhumbi	ɕ i	ɕ i	310-1
+4866	Jerigaon	s iː	s iː	310-1
+4867	Khispi	ɕ i	ɕ i	310-1
+4868	Khoina	ʂ	ʂ -	310-1
+4869	Khoitam	s	s -	310-1
+4870	Rahung	s	s -	310-1
+4871	Rupa	s	s -	310-1
+4872	Shergaon	s ə	s ə	310-1
+4873	Duhumbi	ɕ i	ɕ i	310-2
+4874	Jerigaon	s iː	s iː	310-2
+4875	Khispi	ɕ i	ɕ i	310-2
+4876	Khoina	ʂ	ʂ -	310-2
+4877	Khoitam	s	s -	310-2
+4878	Rahung	s	s -	310-2
+4879	Rupa	s	s -	310-2
+4880	Shergaon	s ə	s ə	310-2
+4881	Duhumbi	ɕ i	ɕ i	310-3
+4882	Jerigaon	s iː	s iː	310-3
+4883	Khispi	ɕ i	ɕ i	310-3
+4884	Khoina	ʂ	ʂ -	310-3
+4885	Khoitam	s	s -	310-3
+4886	Rahung	s	s -	310-3
+4887	Rupa	s	s -	310-3
+4888	Shergaon	s ə	s ə	310-3
+4889	Duhumbi	ɕ i	ɕ i	310-4
+4890	Jerigaon	s iː	s iː	310-4
+4891	Khispi	ɕ i	ɕ i	310-4
+4892	Khoina	ʂ	ʂ -	310-4
+4893	Khoitam	s	s -	310-4
+4894	Rahung	s	s -	310-4
+4895	Rupa	s	s -	310-4
+4896	Shergaon	s ə	s ə	310-4
+4897	Duhumbi	ɕ i	ɕ i	310-5
+4898	Jerigaon	s iː	s iː	310-5
+4899	Khispi	ɕ i	ɕ i	310-5
+4900	Khoina	ʂ	ʂ -	310-5
+4901	Khoitam	s	s -	310-5
+4902	Rahung	s	s -	310-5
+4903	Rupa	s	s -	310-5
+4904	Shergaon	s ə	s ə	310-5
+4905	Duhumbi	ɕ i	ɕ i	310-6
+4906	Jerigaon	s iː	s iː	310-6
+4907	Khispi	ɕ i	ɕ i	310-6
+4908	Khoina	ʂ	ʂ -	310-6
+4909	Khoitam	s	s -	310-6
+4910	Rahung	s	s -	310-6
+4911	Rupa	s	s -	310-6
+4912	Shergaon	s ə	s ə	310-6
+4913	Duhumbi	ɕ i	ɕ i	310-7
+4914	Jerigaon	s iː	s iː	310-7
+4915	Khispi	ɕ i	ɕ i	310-7
+4916	Khoina	ʂ	ʂ -	310-7
+4917	Khoitam	s	s -	310-7
+4918	Rahung	s	s -	310-7
+4919	Rupa	s	s -	310-7
+4920	Shergaon	s ə	s ə	310-7
+4921	Duhumbi	ɕ i	ɕ i	310-8
+4922	Jerigaon	s iː	s iː	310-8
+4923	Khispi	ɕ i	ɕ i	310-8
+4924	Khoina	ʂ	ʂ -	310-8
+4925	Khoitam	s	s -	310-8
+4926	Rahung	s	s -	310-8
+4927	Rupa	s	s -	310-8
+4928	Shergaon	s ə	s ə	310-8
+4929	Duhumbi	i	i	319-1
+4930	Jerigaon	iː	iː	319-1
+4931	Khispi	i	i	319-1
+4932	Khoina	iː	iː	319-1
+4933	Khoitam	iː	iː	319-1
+4934	Rahung	iː	iː	319-1
+4935	Rupa	iː	iː	319-1
+4936	Shergaon	iː	iː	319-1
+4937	Duhumbi	i	i	319-2
+4938	Jerigaon	iː	iː	319-2
+4939	Khispi	i	i	319-2
+4940	Khoina	iː	iː	319-2
+4941	Khoitam	iː	iː	319-2
+4942	Rahung	iː	iː	319-2
+4943	Rupa	iː	iː	319-2
+4944	Shergaon	iː	iː	319-2
+4945	Duhumbi	i	i	319-3
+4946	Jerigaon	iː	iː	319-3
+4947	Khispi	i	i	319-3
+4948	Khoina	iː	iː	319-3
+4949	Khoitam	iː	iː	319-3
+4950	Rahung	iː	iː	319-3
+4951	Rupa	iː	iː	319-3
+4952	Shergaon	iː	iː	319-3
+4953	Duhumbi	i	i	319-4
+4954	Jerigaon	iː	iː	319-4
+4955	Khispi	i	i	319-4
+4956	Khoina	iː	iː	319-4
+4957	Khoitam	iː	iː	319-4
+4958	Rahung	iː	iː	319-4
+4959	Rupa	iː	iː	319-4
+4960	Shergaon	iː	iː	319-4
+4961	Duhumbi	i	i	319-5
+4962	Jerigaon	iː	iː	319-5
+4963	Khispi	i	i	319-5
+4964	Khoina	iː	iː	319-5
+4965	Khoitam	iː	iː	319-5
+4966	Rahung	iː	iː	319-5
+4967	Rupa	iː	iː	319-5
+4968	Shergaon	iː	iː	319-5
+4969	Duhumbi	i	i	319-6
+4970	Jerigaon	iː	iː	319-6
+4971	Khispi	i	i	319-6
+4972	Khoina	iː	iː	319-6
+4973	Khoitam	iː	iː	319-6
+4974	Rahung	iː	iː	319-6
+4975	Rupa	iː	iː	319-6
+4976	Shergaon	iː	iː	319-6
+4977	Duhumbi	i	i	319-7
+4978	Jerigaon	iː	iː	319-7
+4979	Khispi	i	i	319-7
+4980	Khoina	iː	iː	319-7
+4981	Khoitam	iː	iː	319-7
+4982	Rahung	iː	iː	319-7
+4983	Rupa	iː	iː	319-7
+4984	Shergaon	iː	iː	319-7
+4985	Duhumbi	i	i	319-8
+4986	Jerigaon	iː	iː	319-8
+4987	Khispi	i	i	319-8
+4988	Khoina	iː	iː	319-8
+4989	Khoitam	iː	iː	319-8
+4990	Rahung	iː	iː	319-8
+4991	Rupa	iː	iː	319-8
+4992	Shergaon	iː	iː	319-8
+4993	Duhumbi	l e	l e	325-1
+4994	Jerigaon	r ɛ	r ɛ	325-1
+4995	Khispi	l i	l i	325-1
+4996	Khoina	r a	r a	325-1
+4997	Khoitam	r ɛ	r ɛ	325-1
+4998	Rahung	r ɛ	r ɛ	325-1
+4999	Rupa	r a	r a	325-1
+5000	Shergaon	r a	r a	325-1
+5001	Duhumbi	l e	l e	325-2
+5002	Jerigaon	r ɛ	r ɛ	325-2
+5003	Khispi	l i	l i	325-2
+5004	Khoina	r a	r a	325-2
+5005	Khoitam	r ɛ	r ɛ	325-2
+5006	Rahung	r ɛ	r ɛ	325-2
+5007	Rupa	r a	r a	325-2
+5008	Shergaon	r a	r a	325-2
+5009	Duhumbi	l e	l e	325-3
+5010	Jerigaon	r ɛ	r ɛ	325-3
+5011	Khispi	l i	l i	325-3
+5012	Khoina	r a	r a	325-3
+5013	Khoitam	r ɛ	r ɛ	325-3
+5014	Rahung	r ɛ	r ɛ	325-3
+5015	Rupa	r a	r a	325-3
+5016	Shergaon	r a	r a	325-3
+5017	Duhumbi	l e	l e	325-4
+5018	Jerigaon	r ɛ	r ɛ	325-4
+5019	Khispi	l i	l i	325-4
+5020	Khoina	r a	r a	325-4
+5021	Khoitam	r ɛ	r ɛ	325-4
+5022	Rahung	r ɛ	r ɛ	325-4
+5023	Rupa	r a	r a	325-4
+5024	Shergaon	r a	r a	325-4
+5025	Duhumbi	l e	l e	325-5
+5026	Jerigaon	r ɛ	r ɛ	325-5
+5027	Khispi	l i	l i	325-5
+5028	Khoina	r a	r a	325-5
+5029	Khoitam	r ɛ	r ɛ	325-5
+5030	Rahung	r ɛ	r ɛ	325-5
+5031	Rupa	r a	r a	325-5
+5032	Shergaon	r a	r a	325-5
+5033	Duhumbi	l e	l e	325-6
+5034	Jerigaon	r ɛ	r ɛ	325-6
+5035	Khispi	l i	l i	325-6
+5036	Khoina	r a	r a	325-6
+5037	Khoitam	r ɛ	r ɛ	325-6
+5038	Rahung	r ɛ	r ɛ	325-6
+5039	Rupa	r a	r a	325-6
+5040	Shergaon	r a	r a	325-6
+5041	Duhumbi	l e	l e	325-7
+5042	Jerigaon	r ɛ	r ɛ	325-7
+5043	Khispi	l i	l i	325-7
+5044	Khoina	r a	r a	325-7
+5045	Khoitam	r ɛ	r ɛ	325-7
+5046	Rahung	r ɛ	r ɛ	325-7
+5047	Rupa	r a	r a	325-7
+5048	Shergaon	r a	r a	325-7
+5049	Duhumbi	l e	l e	325-8
+5050	Jerigaon	r ɛ	r ɛ	325-8
+5051	Khispi	l i	l i	325-8
+5052	Khoina	r a	r a	325-8
+5053	Khoitam	r ɛ	r ɛ	325-8
+5054	Rahung	r ɛ	r ɛ	325-8
+5055	Rupa	r a	r a	325-8
+5056	Shergaon	r a	r a	325-8
+5057	Duhumbi	tʰ i	tʰ i	327-1
+5058	Jerigaon	tʰ ɛː	tʰ ɛː	327-1
+5059	Khispi	tʰ i	tʰ i	327-1
+5060	Khoina	tʰ aː	tʰ aː	327-1
+5061	Khoitam	tʰ ɛː	tʰ ɛː	327-1
+5062	Rahung	tʰ ɛː	tʰ ɛː	327-1
+5063	Rupa	tʰ aː	tʰ aː	327-1
+5064	Shergaon	tʰ aː	tʰ aː	327-1
+5065	Duhumbi	tʰ i	tʰ i	327-2
+5066	Jerigaon	tʰ ɛː	tʰ ɛː	327-2
+5067	Khispi	tʰ i	tʰ i	327-2
+5068	Khoina	tʰ aː	tʰ aː	327-2
+5069	Khoitam	tʰ ɛː	tʰ ɛː	327-2
+5070	Rahung	tʰ ɛː	tʰ ɛː	327-2
+5071	Rupa	tʰ aː	tʰ aː	327-2
+5072	Shergaon	tʰ aː	tʰ aː	327-2
+5073	Duhumbi	tʰ i	tʰ i	327-3
+5074	Jerigaon	tʰ ɛː	tʰ ɛː	327-3
+5075	Khispi	tʰ i	tʰ i	327-3
+5076	Khoina	tʰ aː	tʰ aː	327-3
+5077	Khoitam	tʰ ɛː	tʰ ɛː	327-3
+5078	Rahung	tʰ ɛː	tʰ ɛː	327-3
+5079	Rupa	tʰ aː	tʰ aː	327-3
+5080	Shergaon	tʰ aː	tʰ aː	327-3
+5081	Duhumbi	tʰ i	tʰ i	327-4
+5082	Jerigaon	tʰ ɛː	tʰ ɛː	327-4
+5083	Khispi	tʰ i	tʰ i	327-4
+5084	Khoina	tʰ aː	tʰ aː	327-4
+5085	Khoitam	tʰ ɛː	tʰ ɛː	327-4
+5086	Rahung	tʰ ɛː	tʰ ɛː	327-4
+5087	Rupa	tʰ aː	tʰ aː	327-4
+5088	Shergaon	tʰ aː	tʰ aː	327-4
+5089	Duhumbi	tʰ i	tʰ i	327-5
+5090	Jerigaon	tʰ ɛː	tʰ ɛː	327-5
+5091	Khispi	tʰ i	tʰ i	327-5
+5092	Khoina	tʰ aː	tʰ aː	327-5
+5093	Khoitam	tʰ ɛː	tʰ ɛː	327-5
+5094	Rahung	tʰ ɛː	tʰ ɛː	327-5
+5095	Rupa	tʰ aː	tʰ aː	327-5
+5096	Shergaon	tʰ aː	tʰ aː	327-5
+5097	Duhumbi	tʰ i	tʰ i	327-6
+5098	Jerigaon	tʰ ɛː	tʰ ɛː	327-6
+5099	Khispi	tʰ i	tʰ i	327-6
+5100	Khoina	tʰ aː	tʰ aː	327-6
+5101	Khoitam	tʰ ɛː	tʰ ɛː	327-6
+5102	Rahung	tʰ ɛː	tʰ ɛː	327-6
+5103	Rupa	tʰ aː	tʰ aː	327-6
+5104	Shergaon	tʰ aː	tʰ aː	327-6
+5105	Duhumbi	tʰ i	tʰ i	327-7
+5106	Jerigaon	tʰ ɛː	tʰ ɛː	327-7
+5107	Khispi	tʰ i	tʰ i	327-7
+5108	Khoina	tʰ aː	tʰ aː	327-7
+5109	Khoitam	tʰ ɛː	tʰ ɛː	327-7
+5110	Rahung	tʰ ɛː	tʰ ɛː	327-7
+5111	Rupa	tʰ aː	tʰ aː	327-7
+5112	Shergaon	tʰ aː	tʰ aː	327-7
+5113	Duhumbi	tʰ i	tʰ i	327-8
+5114	Jerigaon	tʰ ɛː	tʰ ɛː	327-8
+5115	Khispi	tʰ i	tʰ i	327-8
+5116	Khoina	tʰ aː	tʰ aː	327-8
+5117	Khoitam	tʰ ɛː	tʰ ɛː	327-8
+5118	Rahung	tʰ ɛː	tʰ ɛː	327-8
+5119	Rupa	tʰ aː	tʰ aː	327-8
+5120	Shergaon	tʰ aː	tʰ aː	327-8
+5121	Duhumbi	k ɔː	k ɔː	331-1
+5122	Jerigaon	k ɔː	k ɔː	331-1
+5123	Khispi	k u	k u	331-1
+5124	Khoina	k ɔː	k ɔː	331-1
+5125	Khoitam	k ɔː	k ɔː	331-1
+5126	Rahung	k oː	k oː	331-1
+5127	Rupa	k au	k au	331-1
+5128	Shergaon	k au	k au	331-1
+5129	Duhumbi	k ɔː	k ɔː	331-2
+5130	Jerigaon	k ɔː	k ɔː	331-2
+5131	Khispi	k u	k u	331-2
+5132	Khoina	k ɔː	k ɔː	331-2
+5133	Khoitam	k ɔː	k ɔː	331-2
+5134	Rahung	k oː	k oː	331-2
+5135	Rupa	k au	k au	331-2
+5136	Shergaon	k au	k au	331-2
+5137	Duhumbi	k ɔː	k ɔː	331-3
+5138	Jerigaon	k ɔː	k ɔː	331-3
+5139	Khispi	k u	k u	331-3
+5140	Khoina	k ɔː	k ɔː	331-3
+5141	Khoitam	k ɔː	k ɔː	331-3
+5142	Rahung	k oː	k oː	331-3
+5143	Rupa	k au	k au	331-3
+5144	Shergaon	k au	k au	331-3
+5145	Duhumbi	k ɔː	k ɔː	331-4
+5146	Jerigaon	k ɔː	k ɔː	331-4
+5147	Khispi	k u	k u	331-4
+5148	Khoina	k ɔː	k ɔː	331-4
+5149	Khoitam	k ɔː	k ɔː	331-4
+5150	Rahung	k oː	k oː	331-4
+5151	Rupa	k au	k au	331-4
+5152	Shergaon	k au	k au	331-4
+5153	Duhumbi	k ɔː	k ɔː	331-5
+5154	Jerigaon	k ɔː	k ɔː	331-5
+5155	Khispi	k u	k u	331-5
+5156	Khoina	k ɔː	k ɔː	331-5
+5157	Khoitam	k ɔː	k ɔː	331-5
+5158	Rahung	k oː	k oː	331-5
+5159	Rupa	k au	k au	331-5
+5160	Shergaon	k au	k au	331-5
+5161	Duhumbi	k ɔː	k ɔː	331-6
+5162	Jerigaon	k ɔː	k ɔː	331-6
+5163	Khispi	k u	k u	331-6
+5164	Khoina	k ɔː	k ɔː	331-6
+5165	Khoitam	k ɔː	k ɔː	331-6
+5166	Rahung	k oː	k oː	331-6
+5167	Rupa	k au	k au	331-6
+5168	Shergaon	k au	k au	331-6
+5169	Duhumbi	k ɔː	k ɔː	331-7
+5170	Jerigaon	k ɔː	k ɔː	331-7
+5171	Khispi	k u	k u	331-7
+5172	Khoina	k ɔː	k ɔː	331-7
+5173	Khoitam	k ɔː	k ɔː	331-7
+5174	Rahung	k oː	k oː	331-7
+5175	Rupa	k au	k au	331-7
+5176	Shergaon	k au	k au	331-7
+5177	Duhumbi	k ɔː	k ɔː	331-8
+5178	Jerigaon	k ɔː	k ɔː	331-8
+5179	Khispi	k u	k u	331-8
+5180	Khoina	k ɔː	k ɔː	331-8
+5181	Khoitam	k ɔː	k ɔː	331-8
+5182	Rahung	k oː	k oː	331-8
+5183	Rupa	k au	k au	331-8
+5184	Shergaon	k au	k au	331-8
+5185	Duhumbi	b j ɛ ŋ	b j ɛ ŋ	337-1
+5186	Jerigaon	b ɛ n	b - ɛ n	337-1
+5187	Khispi	b ɛ ŋ	b - ɛ ŋ	337-1
+5188	Khoina	b ɛ n	b - ɛ n	337-1
+5189	Khoitam	b a n	b - a n	337-1
+5190	Rahung	b a n	b - a n	337-1
+5191	Rupa	b a n	b - a n	337-1
+5192	Shergaon	b a n	b - a n	337-1
+5193	Duhumbi	b j ɛ ŋ	b j ɛ ŋ	337-2
+5194	Jerigaon	b ɛ n	b - ɛ n	337-2
+5195	Khispi	b ɛ ŋ	b - ɛ ŋ	337-2
+5196	Khoina	b ɛ n	b - ɛ n	337-2
+5197	Khoitam	b a n	b - a n	337-2
+5198	Rahung	b a n	b - a n	337-2
+5199	Rupa	b a n	b - a n	337-2
+5200	Shergaon	b a n	b - a n	337-2
+5201	Duhumbi	b j ɛ ŋ	b j ɛ ŋ	337-3
+5202	Jerigaon	b ɛ n	b - ɛ n	337-3
+5203	Khispi	b ɛ ŋ	b - ɛ ŋ	337-3
+5204	Khoina	b ɛ n	b - ɛ n	337-3
+5205	Khoitam	b a n	b - a n	337-3
+5206	Rahung	b a n	b - a n	337-3
+5207	Rupa	b a n	b - a n	337-3
+5208	Shergaon	b a n	b - a n	337-3
+5209	Duhumbi	b j ɛ ŋ	b j ɛ ŋ	337-4
+5210	Jerigaon	b ɛ n	b - ɛ n	337-4
+5211	Khispi	b ɛ ŋ	b - ɛ ŋ	337-4
+5212	Khoina	b ɛ n	b - ɛ n	337-4
+5213	Khoitam	b a n	b - a n	337-4
+5214	Rahung	b a n	b - a n	337-4
+5215	Rupa	b a n	b - a n	337-4
+5216	Shergaon	b a n	b - a n	337-4
+5217	Duhumbi	b j ɛ ŋ	b j ɛ ŋ	337-5
+5218	Jerigaon	b ɛ n	b - ɛ n	337-5
+5219	Khispi	b ɛ ŋ	b - ɛ ŋ	337-5
+5220	Khoina	b ɛ n	b - ɛ n	337-5
+5221	Khoitam	b a n	b - a n	337-5
+5222	Rahung	b a n	b - a n	337-5
+5223	Rupa	b a n	b - a n	337-5
+5224	Shergaon	b a n	b - a n	337-5
+5225	Duhumbi	b j ɛ ŋ	b j ɛ ŋ	337-6
+5226	Jerigaon	b ɛ n	b - ɛ n	337-6
+5227	Khispi	b ɛ ŋ	b - ɛ ŋ	337-6
+5228	Khoina	b ɛ n	b - ɛ n	337-6
+5229	Khoitam	b a n	b - a n	337-6
+5230	Rahung	b a n	b - a n	337-6
+5231	Rupa	b a n	b - a n	337-6
+5232	Shergaon	b a n	b - a n	337-6
+5233	Duhumbi	b j ɛ ŋ	b j ɛ ŋ	337-7
+5234	Jerigaon	b ɛ n	b - ɛ n	337-7
+5235	Khispi	b ɛ ŋ	b - ɛ ŋ	337-7
+5236	Khoina	b ɛ n	b - ɛ n	337-7
+5237	Khoitam	b a n	b - a n	337-7
+5238	Rahung	b a n	b - a n	337-7
+5239	Rupa	b a n	b - a n	337-7
+5240	Shergaon	b a n	b - a n	337-7
+5241	Duhumbi	b j ɛ ŋ	b j ɛ ŋ	337-8
+5242	Jerigaon	b ɛ n	b - ɛ n	337-8
+5243	Khispi	b ɛ ŋ	b - ɛ ŋ	337-8
+5244	Khoina	b ɛ n	b - ɛ n	337-8
+5245	Khoitam	b a n	b - a n	337-8
+5246	Rahung	b a n	b - a n	337-8
+5247	Rupa	b a n	b - a n	337-8
+5248	Shergaon	b a n	b - a n	337-8
+5249	Duhumbi	ɲ i ŋ	ɲ i ŋ	338-1
+5250	Jerigaon	l i ŋ	l i ŋ	338-1
+5251	Khispi	ɲ i ŋ	ɲ i ŋ	338-1
+5252	Khoina	l y ŋ	l y ŋ	338-1
+5253	Khoitam	l i ŋ	l i ŋ	338-1
+5254	Rahung	l i ŋ	l i ŋ	338-1
+5255	Rupa	l i ŋ	l i ŋ	338-1
+5256	Shergaon	i ŋ	- i ŋ	338-1
+5257	Duhumbi	ɲ i ŋ	ɲ i ŋ	338-2
+5258	Jerigaon	l i ŋ	l i ŋ	338-2
+5259	Khispi	ɲ i ŋ	ɲ i ŋ	338-2
+5260	Khoina	l y ŋ	l y ŋ	338-2
+5261	Khoitam	l i ŋ	l i ŋ	338-2
+5262	Rahung	l i ŋ	l i ŋ	338-2
+5263	Rupa	l i ŋ	l i ŋ	338-2
+5264	Shergaon	i ŋ	- i ŋ	338-2
+5265	Duhumbi	ɲ i ŋ	ɲ i ŋ	338-3
+5266	Jerigaon	l i ŋ	l i ŋ	338-3
+5267	Khispi	ɲ i ŋ	ɲ i ŋ	338-3
+5268	Khoina	l y ŋ	l y ŋ	338-3
+5269	Khoitam	l i ŋ	l i ŋ	338-3
+5270	Rahung	l i ŋ	l i ŋ	338-3
+5271	Rupa	l i ŋ	l i ŋ	338-3
+5272	Shergaon	i ŋ	- i ŋ	338-3
+5273	Duhumbi	ɲ i ŋ	ɲ i ŋ	338-4
+5274	Jerigaon	l i ŋ	l i ŋ	338-4
+5275	Khispi	ɲ i ŋ	ɲ i ŋ	338-4
+5276	Khoina	l y ŋ	l y ŋ	338-4
+5277	Khoitam	l i ŋ	l i ŋ	338-4
+5278	Rahung	l i ŋ	l i ŋ	338-4
+5279	Rupa	l i ŋ	l i ŋ	338-4
+5280	Shergaon	i ŋ	- i ŋ	338-4
+5281	Duhumbi	ɲ i ŋ	ɲ i ŋ	338-5
+5282	Jerigaon	l i ŋ	l i ŋ	338-5
+5283	Khispi	ɲ i ŋ	ɲ i ŋ	338-5
+5284	Khoina	l y ŋ	l y ŋ	338-5
+5285	Khoitam	l i ŋ	l i ŋ	338-5
+5286	Rahung	l i ŋ	l i ŋ	338-5
+5287	Rupa	l i ŋ	l i ŋ	338-5
+5288	Shergaon	i ŋ	- i ŋ	338-5
+5289	Duhumbi	ɲ i ŋ	ɲ i ŋ	338-6
+5290	Jerigaon	l i ŋ	l i ŋ	338-6
+5291	Khispi	ɲ i ŋ	ɲ i ŋ	338-6
+5292	Khoina	l y ŋ	l y ŋ	338-6
+5293	Khoitam	l i ŋ	l i ŋ	338-6
+5294	Rahung	l i ŋ	l i ŋ	338-6
+5295	Rupa	l i ŋ	l i ŋ	338-6
+5296	Shergaon	i ŋ	- i ŋ	338-6
+5297	Duhumbi	ɲ i ŋ	ɲ i ŋ	338-7
+5298	Jerigaon	l i ŋ	l i ŋ	338-7
+5299	Khispi	ɲ i ŋ	ɲ i ŋ	338-7
+5300	Khoina	l y ŋ	l y ŋ	338-7
+5301	Khoitam	l i ŋ	l i ŋ	338-7
+5302	Rahung	l i ŋ	l i ŋ	338-7
+5303	Rupa	l i ŋ	l i ŋ	338-7
+5304	Shergaon	i ŋ	- i ŋ	338-7
+5305	Duhumbi	ɲ i ŋ	ɲ i ŋ	338-8
+5306	Jerigaon	l i ŋ	l i ŋ	338-8
+5307	Khispi	ɲ i ŋ	ɲ i ŋ	338-8
+5308	Khoina	l y ŋ	l y ŋ	338-8
+5309	Khoitam	l i ŋ	l i ŋ	338-8
+5310	Rahung	l i ŋ	l i ŋ	338-8
+5311	Rupa	l i ŋ	l i ŋ	338-8
+5312	Shergaon	i ŋ	- i ŋ	338-8
+5313	Duhumbi	a ɹ	a ɹ	339-1
+5314	Jerigaon	ɐ̃ː	ɐ̃ː -	339-1
+5315	Khispi	a l	a l	339-1
+5316	Khoina	ɐ̃ː	ɐ̃ː -	339-1
+5317	Khoitam	ɔ̃ː	ɔ̃ː -	339-1
+5318	Rahung	ɔ̃ː	ɔ̃ː -	339-1
+5319	Rupa	ɔ̃ː	ɔ̃ː -	339-1
+5320	Shergaon	ɔ̃ː	ɔ̃ː -	339-1
+5321	Duhumbi	a ɹ	a ɹ	339-2
+5322	Jerigaon	ɐ̃ː	ɐ̃ː -	339-2
+5323	Khispi	a l	a l	339-2
+5324	Khoina	ɐ̃ː	ɐ̃ː -	339-2
+5325	Khoitam	ɔ̃ː	ɔ̃ː -	339-2
+5326	Rahung	ɔ̃ː	ɔ̃ː -	339-2
+5327	Rupa	ɔ̃ː	ɔ̃ː -	339-2
+5328	Shergaon	ɔ̃ː	ɔ̃ː -	339-2
+5329	Duhumbi	a ɹ	a ɹ	339-3
+5330	Jerigaon	ɐ̃ː	ɐ̃ː -	339-3
+5331	Khispi	a l	a l	339-3
+5332	Khoina	ɐ̃ː	ɐ̃ː -	339-3
+5333	Khoitam	ɔ̃ː	ɔ̃ː -	339-3
+5334	Rahung	ɔ̃ː	ɔ̃ː -	339-3
+5335	Rupa	ɔ̃ː	ɔ̃ː -	339-3
+5336	Shergaon	ɔ̃ː	ɔ̃ː -	339-3
+5337	Duhumbi	a ɹ	a ɹ	339-4
+5338	Jerigaon	ɐ̃ː	ɐ̃ː -	339-4
+5339	Khispi	a l	a l	339-4
+5340	Khoina	ɐ̃ː	ɐ̃ː -	339-4
+5341	Khoitam	ɔ̃ː	ɔ̃ː -	339-4
+5342	Rahung	ɔ̃ː	ɔ̃ː -	339-4
+5343	Rupa	ɔ̃ː	ɔ̃ː -	339-4
+5344	Shergaon	ɔ̃ː	ɔ̃ː -	339-4
+5345	Duhumbi	a ɹ	a ɹ	339-5
+5346	Jerigaon	ɐ̃ː	ɐ̃ː -	339-5
+5347	Khispi	a l	a l	339-5
+5348	Khoina	ɐ̃ː	ɐ̃ː -	339-5
+5349	Khoitam	ɔ̃ː	ɔ̃ː -	339-5
+5350	Rahung	ɔ̃ː	ɔ̃ː -	339-5
+5351	Rupa	ɔ̃ː	ɔ̃ː -	339-5
+5352	Shergaon	ɔ̃ː	ɔ̃ː -	339-5
+5353	Duhumbi	a ɹ	a ɹ	339-6
+5354	Jerigaon	ɐ̃ː	ɐ̃ː -	339-6
+5355	Khispi	a l	a l	339-6
+5356	Khoina	ɐ̃ː	ɐ̃ː -	339-6
+5357	Khoitam	ɔ̃ː	ɔ̃ː -	339-6
+5358	Rahung	ɔ̃ː	ɔ̃ː -	339-6
+5359	Rupa	ɔ̃ː	ɔ̃ː -	339-6
+5360	Shergaon	ɔ̃ː	ɔ̃ː -	339-6
+5361	Duhumbi	a ɹ	a ɹ	339-7
+5362	Jerigaon	ɐ̃ː	ɐ̃ː -	339-7
+5363	Khispi	a l	a l	339-7
+5364	Khoina	ɐ̃ː	ɐ̃ː -	339-7
+5365	Khoitam	ɔ̃ː	ɔ̃ː -	339-7
+5366	Rahung	ɔ̃ː	ɔ̃ː -	339-7
+5367	Rupa	ɔ̃ː	ɔ̃ː -	339-7
+5368	Shergaon	ɔ̃ː	ɔ̃ː -	339-7
+5369	Duhumbi	a ɹ	a ɹ	339-8
+5370	Jerigaon	ɐ̃ː	ɐ̃ː -	339-8
+5371	Khispi	a l	a l	339-8
+5372	Khoina	ɐ̃ː	ɐ̃ː -	339-8
+5373	Khoitam	ɔ̃ː	ɔ̃ː -	339-8
+5374	Rahung	ɔ̃ː	ɔ̃ː -	339-8
+5375	Rupa	ɔ̃ː	ɔ̃ː -	339-8
+5376	Shergaon	ɔ̃ː	ɔ̃ː -	339-8
+5377	Duhumbi	tʰ u ŋ	tʰ u ŋ	349-1
+5378	Jerigaon	tʰ y ŋ	tʰ y ŋ	349-1
+5379	Khispi	tʰ u ŋ	tʰ u ŋ	349-1
+5380	Khoina	tʰ y ŋ	tʰ y ŋ	349-1
+5381	Khoitam	tʰ y ŋ	tʰ y ŋ	349-1
+5382	Rahung	tʰ y ŋ	tʰ y ŋ	349-1
+5383	Rupa	tʰ y ŋ	tʰ y ŋ	349-1
+5384	Shergaon	tʰ u ŋ	tʰ u ŋ	349-1
+5385	Duhumbi	tʰ u ŋ	tʰ u ŋ	349-2
+5386	Jerigaon	tʰ y ŋ	tʰ y ŋ	349-2
+5387	Khispi	tʰ u ŋ	tʰ u ŋ	349-2
+5388	Khoina	tʰ y ŋ	tʰ y ŋ	349-2
+5389	Khoitam	tʰ y ŋ	tʰ y ŋ	349-2
+5390	Rahung	tʰ y ŋ	tʰ y ŋ	349-2
+5391	Rupa	tʰ y ŋ	tʰ y ŋ	349-2
+5392	Shergaon	tʰ u ŋ	tʰ u ŋ	349-2
+5393	Duhumbi	tʰ u ŋ	tʰ u ŋ	349-3
+5394	Jerigaon	tʰ y ŋ	tʰ y ŋ	349-3
+5395	Khispi	tʰ u ŋ	tʰ u ŋ	349-3
+5396	Khoina	tʰ y ŋ	tʰ y ŋ	349-3
+5397	Khoitam	tʰ y ŋ	tʰ y ŋ	349-3
+5398	Rahung	tʰ y ŋ	tʰ y ŋ	349-3
+5399	Rupa	tʰ y ŋ	tʰ y ŋ	349-3
+5400	Shergaon	tʰ u ŋ	tʰ u ŋ	349-3
+5401	Duhumbi	tʰ u ŋ	tʰ u ŋ	349-4
+5402	Jerigaon	tʰ y ŋ	tʰ y ŋ	349-4
+5403	Khispi	tʰ u ŋ	tʰ u ŋ	349-4
+5404	Khoina	tʰ y ŋ	tʰ y ŋ	349-4
+5405	Khoitam	tʰ y ŋ	tʰ y ŋ	349-4
+5406	Rahung	tʰ y ŋ	tʰ y ŋ	349-4
+5407	Rupa	tʰ y ŋ	tʰ y ŋ	349-4
+5408	Shergaon	tʰ u ŋ	tʰ u ŋ	349-4
+5409	Duhumbi	tʰ u ŋ	tʰ u ŋ	349-5
+5410	Jerigaon	tʰ y ŋ	tʰ y ŋ	349-5
+5411	Khispi	tʰ u ŋ	tʰ u ŋ	349-5
+5412	Khoina	tʰ y ŋ	tʰ y ŋ	349-5
+5413	Khoitam	tʰ y ŋ	tʰ y ŋ	349-5
+5414	Rahung	tʰ y ŋ	tʰ y ŋ	349-5
+5415	Rupa	tʰ y ŋ	tʰ y ŋ	349-5
+5416	Shergaon	tʰ u ŋ	tʰ u ŋ	349-5
+5417	Duhumbi	tʰ u ŋ	tʰ u ŋ	349-6
+5418	Jerigaon	tʰ y ŋ	tʰ y ŋ	349-6
+5419	Khispi	tʰ u ŋ	tʰ u ŋ	349-6
+5420	Khoina	tʰ y ŋ	tʰ y ŋ	349-6
+5421	Khoitam	tʰ y ŋ	tʰ y ŋ	349-6
+5422	Rahung	tʰ y ŋ	tʰ y ŋ	349-6
+5423	Rupa	tʰ y ŋ	tʰ y ŋ	349-6
+5424	Shergaon	tʰ u ŋ	tʰ u ŋ	349-6
+5425	Duhumbi	tʰ u ŋ	tʰ u ŋ	349-7
+5426	Jerigaon	tʰ y ŋ	tʰ y ŋ	349-7
+5427	Khispi	tʰ u ŋ	tʰ u ŋ	349-7
+5428	Khoina	tʰ y ŋ	tʰ y ŋ	349-7
+5429	Khoitam	tʰ y ŋ	tʰ y ŋ	349-7
+5430	Rahung	tʰ y ŋ	tʰ y ŋ	349-7
+5431	Rupa	tʰ y ŋ	tʰ y ŋ	349-7
+5432	Shergaon	tʰ u ŋ	tʰ u ŋ	349-7
+5433	Duhumbi	tʰ u ŋ	tʰ u ŋ	349-8
+5434	Jerigaon	tʰ y ŋ	tʰ y ŋ	349-8
+5435	Khispi	tʰ u ŋ	tʰ u ŋ	349-8
+5436	Khoina	tʰ y ŋ	tʰ y ŋ	349-8
+5437	Khoitam	tʰ y ŋ	tʰ y ŋ	349-8
+5438	Rahung	tʰ y ŋ	tʰ y ŋ	349-8
+5439	Rupa	tʰ y ŋ	tʰ y ŋ	349-8
+5440	Shergaon	tʰ u ŋ	tʰ u ŋ	349-8
+5441	Duhumbi	kʰ u	kʰ u	350-1
+5442	Jerigaon	kʰ	kʰ -	350-1
+5443	Khispi	kʰ u	kʰ u	350-1
+5444	Khoina	g a	g a	350-1
+5445	Khoitam	kʰ	kʰ -	350-1
+5446	Rahung	kʰ	kʰ -	350-1
+5447	Rupa	g ə	g ə	350-1
+5448	Shergaon	kʰ ə	kʰ ə	350-1
+5449	Duhumbi	kʰ u	kʰ u	350-2
+5450	Jerigaon	kʰ	kʰ -	350-2
+5451	Khispi	kʰ u	kʰ u	350-2
+5452	Khoina	g a	g a	350-2
+5453	Khoitam	kʰ	kʰ -	350-2
+5454	Rahung	kʰ	kʰ -	350-2
+5455	Rupa	g ə	g ə	350-2
+5456	Shergaon	kʰ ə	kʰ ə	350-2
+5457	Duhumbi	kʰ u	kʰ u	350-3
+5458	Jerigaon	kʰ	kʰ -	350-3
+5459	Khispi	kʰ u	kʰ u	350-3
+5460	Khoina	g a	g a	350-3
+5461	Khoitam	kʰ	kʰ -	350-3
+5462	Rahung	kʰ	kʰ -	350-3
+5463	Rupa	g ə	g ə	350-3
+5464	Shergaon	kʰ ə	kʰ ə	350-3
+5465	Duhumbi	kʰ u	kʰ u	350-4
+5466	Jerigaon	kʰ	kʰ -	350-4
+5467	Khispi	kʰ u	kʰ u	350-4
+5468	Khoina	g a	g a	350-4
+5469	Khoitam	kʰ	kʰ -	350-4
+5470	Rahung	kʰ	kʰ -	350-4
+5471	Rupa	g ə	g ə	350-4
+5472	Shergaon	kʰ ə	kʰ ə	350-4
+5473	Duhumbi	kʰ u	kʰ u	350-5
+5474	Jerigaon	kʰ	kʰ -	350-5
+5475	Khispi	kʰ u	kʰ u	350-5
+5476	Khoina	g a	g a	350-5
+5477	Khoitam	kʰ	kʰ -	350-5
+5478	Rahung	kʰ	kʰ -	350-5
+5479	Rupa	g ə	g ə	350-5
+5480	Shergaon	kʰ ə	kʰ ə	350-5
+5481	Duhumbi	kʰ u	kʰ u	350-6
+5482	Jerigaon	kʰ	kʰ -	350-6
+5483	Khispi	kʰ u	kʰ u	350-6
+5484	Khoina	g a	g a	350-6
+5485	Khoitam	kʰ	kʰ -	350-6
+5486	Rahung	kʰ	kʰ -	350-6
+5487	Rupa	g ə	g ə	350-6
+5488	Shergaon	kʰ ə	kʰ ə	350-6
+5489	Duhumbi	kʰ u	kʰ u	350-7
+5490	Jerigaon	kʰ	kʰ -	350-7
+5491	Khispi	kʰ u	kʰ u	350-7
+5492	Khoina	g a	g a	350-7
+5493	Khoitam	kʰ	kʰ -	350-7
+5494	Rahung	kʰ	kʰ -	350-7
+5495	Rupa	g ə	g ə	350-7
+5496	Shergaon	kʰ ə	kʰ ə	350-7
+5497	Duhumbi	kʰ u	kʰ u	350-8
+5498	Jerigaon	kʰ	kʰ -	350-8
+5499	Khispi	kʰ u	kʰ u	350-8
+5500	Khoina	g a	g a	350-8
+5501	Khoitam	kʰ	kʰ -	350-8
+5502	Rahung	kʰ	kʰ -	350-8
+5503	Rupa	g ə	g ə	350-8
+5504	Shergaon	kʰ ə	kʰ ə	350-8
+5505	Duhumbi	ɔ	ɔ	355-1
+5506	Jerigaon	a	a	355-1
+5507	Khispi	ɔ	ɔ	355-1
+5508	Khoina	a	a	355-1
+5509	Khoitam	a	a	355-1
+5510	Rahung	a	a	355-1
+5511	Rupa	a	a	355-1
+5512	Shergaon	a	a	355-1
+5513	Duhumbi	ɔ	ɔ	355-2
+5514	Jerigaon	a	a	355-2
+5515	Khispi	ɔ	ɔ	355-2
+5516	Khoina	a	a	355-2
+5517	Khoitam	a	a	355-2
+5518	Rahung	a	a	355-2
+5519	Rupa	a	a	355-2
+5520	Shergaon	a	a	355-2
+5521	Duhumbi	ɔ	ɔ	355-3
+5522	Jerigaon	a	a	355-3
+5523	Khispi	ɔ	ɔ	355-3
+5524	Khoina	a	a	355-3
+5525	Khoitam	a	a	355-3
+5526	Rahung	a	a	355-3
+5527	Rupa	a	a	355-3
+5528	Shergaon	a	a	355-3
+5529	Duhumbi	ɔ	ɔ	355-4
+5530	Jerigaon	a	a	355-4
+5531	Khispi	ɔ	ɔ	355-4
+5532	Khoina	a	a	355-4
+5533	Khoitam	a	a	355-4
+5534	Rahung	a	a	355-4
+5535	Rupa	a	a	355-4
+5536	Shergaon	a	a	355-4
+5537	Duhumbi	ɔ	ɔ	355-5
+5538	Jerigaon	a	a	355-5
+5539	Khispi	ɔ	ɔ	355-5
+5540	Khoina	a	a	355-5
+5541	Khoitam	a	a	355-5
+5542	Rahung	a	a	355-5
+5543	Rupa	a	a	355-5
+5544	Shergaon	a	a	355-5
+5545	Duhumbi	ɔ	ɔ	355-6
+5546	Jerigaon	a	a	355-6
+5547	Khispi	ɔ	ɔ	355-6
+5548	Khoina	a	a	355-6
+5549	Khoitam	a	a	355-6
+5550	Rahung	a	a	355-6
+5551	Rupa	a	a	355-6
+5552	Shergaon	a	a	355-6
+5553	Duhumbi	ɔ	ɔ	355-7
+5554	Jerigaon	a	a	355-7
+5555	Khispi	ɔ	ɔ	355-7
+5556	Khoina	a	a	355-7
+5557	Khoitam	a	a	355-7
+5558	Rahung	a	a	355-7
+5559	Rupa	a	a	355-7
+5560	Shergaon	a	a	355-7
+5561	Duhumbi	ɔ	ɔ	355-8
+5562	Jerigaon	a	a	355-8
+5563	Khispi	ɔ	ɔ	355-8
+5564	Khoina	a	a	355-8
+5565	Khoitam	a	a	355-8
+5566	Rahung	a	a	355-8
+5567	Rupa	a	a	355-8
+5568	Shergaon	a	a	355-8
+5569	Duhumbi	tɕʰ a	tɕʰ a	357-1
+5570	Jerigaon	tɕʰ u	tɕʰ u	357-1
+5571	Khispi	tɕʰ a	tɕʰ a	357-1
+5572	Khoina	tsʰ u	tsʰ u	357-1
+5573	Khoitam	tɕʰ u	tɕʰ u	357-1
+5574	Rahung	tɕʰ u	tɕʰ u	357-1
+5575	Rupa	ʨʰ u	ʨʰ u	357-1
+5576	Shergaon	tɕʰ u	tɕʰ u	357-1
+5577	Duhumbi	tɕʰ a	tɕʰ a	357-2
+5578	Jerigaon	tɕʰ u	tɕʰ u	357-2
+5579	Khispi	tɕʰ a	tɕʰ a	357-2
+5580	Khoina	tsʰ u	tsʰ u	357-2
+5581	Khoitam	tɕʰ u	tɕʰ u	357-2
+5582	Rahung	tɕʰ u	tɕʰ u	357-2
+5583	Rupa	ʨʰ u	ʨʰ u	357-2
+5584	Shergaon	tɕʰ u	tɕʰ u	357-2
+5585	Duhumbi	tɕʰ a	tɕʰ a	357-3
+5586	Jerigaon	tɕʰ u	tɕʰ u	357-3
+5587	Khispi	tɕʰ a	tɕʰ a	357-3
+5588	Khoina	tsʰ u	tsʰ u	357-3
+5589	Khoitam	tɕʰ u	tɕʰ u	357-3
+5590	Rahung	tɕʰ u	tɕʰ u	357-3
+5591	Rupa	ʨʰ u	ʨʰ u	357-3
+5592	Shergaon	tɕʰ u	tɕʰ u	357-3
+5593	Duhumbi	tɕʰ a	tɕʰ a	357-4
+5594	Jerigaon	tɕʰ u	tɕʰ u	357-4
+5595	Khispi	tɕʰ a	tɕʰ a	357-4
+5596	Khoina	tsʰ u	tsʰ u	357-4
+5597	Khoitam	tɕʰ u	tɕʰ u	357-4
+5598	Rahung	tɕʰ u	tɕʰ u	357-4
+5599	Rupa	ʨʰ u	ʨʰ u	357-4
+5600	Shergaon	tɕʰ u	tɕʰ u	357-4
+5601	Duhumbi	tɕʰ a	tɕʰ a	357-5
+5602	Jerigaon	tɕʰ u	tɕʰ u	357-5
+5603	Khispi	tɕʰ a	tɕʰ a	357-5
+5604	Khoina	tsʰ u	tsʰ u	357-5
+5605	Khoitam	tɕʰ u	tɕʰ u	357-5
+5606	Rahung	tɕʰ u	tɕʰ u	357-5
+5607	Rupa	ʨʰ u	ʨʰ u	357-5
+5608	Shergaon	tɕʰ u	tɕʰ u	357-5
+5609	Duhumbi	tɕʰ a	tɕʰ a	357-6
+5610	Jerigaon	tɕʰ u	tɕʰ u	357-6
+5611	Khispi	tɕʰ a	tɕʰ a	357-6
+5612	Khoina	tsʰ u	tsʰ u	357-6
+5613	Khoitam	tɕʰ u	tɕʰ u	357-6
+5614	Rahung	tɕʰ u	tɕʰ u	357-6
+5615	Rupa	ʨʰ u	ʨʰ u	357-6
+5616	Shergaon	tɕʰ u	tɕʰ u	357-6
+5617	Duhumbi	tɕʰ a	tɕʰ a	357-7
+5618	Jerigaon	tɕʰ u	tɕʰ u	357-7
+5619	Khispi	tɕʰ a	tɕʰ a	357-7
+5620	Khoina	tsʰ u	tsʰ u	357-7
+5621	Khoitam	tɕʰ u	tɕʰ u	357-7
+5622	Rahung	tɕʰ u	tɕʰ u	357-7
+5623	Rupa	ʨʰ u	ʨʰ u	357-7
+5624	Shergaon	tɕʰ u	tɕʰ u	357-7
+5625	Duhumbi	tɕʰ a	tɕʰ a	357-8
+5626	Jerigaon	tɕʰ u	tɕʰ u	357-8
+5627	Khispi	tɕʰ a	tɕʰ a	357-8
+5628	Khoina	tsʰ u	tsʰ u	357-8
+5629	Khoitam	tɕʰ u	tɕʰ u	357-8
+5630	Rahung	tɕʰ u	tɕʰ u	357-8
+5631	Rupa	ʨʰ u	ʨʰ u	357-8
+5632	Shergaon	tɕʰ u	tɕʰ u	357-8
+5633	Duhumbi	tʰ ɔu	tʰ ɔu	361-1
+5634	Jerigaon	tʰ ɔː	tʰ ɔː	361-1
+5635	Khispi	tʰ u	tʰ u	361-1
+5636	Khoina	tʰ ɔː	tʰ ɔː	361-1
+5637	Khoitam	tʰ oː	tʰ oː	361-1
+5638	Rahung	tʰ oː	tʰ oː	361-1
+5639	Rupa	tʰ oː	tʰ oː	361-1
+5640	Shergaon	tʰ oː	tʰ oː	361-1
+5641	Duhumbi	tʰ ɔu	tʰ ɔu	361-2
+5642	Jerigaon	tʰ ɔː	tʰ ɔː	361-2
+5643	Khispi	tʰ u	tʰ u	361-2
+5644	Khoina	tʰ ɔː	tʰ ɔː	361-2
+5645	Khoitam	tʰ oː	tʰ oː	361-2
+5646	Rahung	tʰ oː	tʰ oː	361-2
+5647	Rupa	tʰ oː	tʰ oː	361-2
+5648	Shergaon	tʰ oː	tʰ oː	361-2
+5649	Duhumbi	tʰ ɔu	tʰ ɔu	361-3
+5650	Jerigaon	tʰ ɔː	tʰ ɔː	361-3
+5651	Khispi	tʰ u	tʰ u	361-3
+5652	Khoina	tʰ ɔː	tʰ ɔː	361-3
+5653	Khoitam	tʰ oː	tʰ oː	361-3
+5654	Rahung	tʰ oː	tʰ oː	361-3
+5655	Rupa	tʰ oː	tʰ oː	361-3
+5656	Shergaon	tʰ oː	tʰ oː	361-3
+5657	Duhumbi	tʰ ɔu	tʰ ɔu	361-4
+5658	Jerigaon	tʰ ɔː	tʰ ɔː	361-4
+5659	Khispi	tʰ u	tʰ u	361-4
+5660	Khoina	tʰ ɔː	tʰ ɔː	361-4
+5661	Khoitam	tʰ oː	tʰ oː	361-4
+5662	Rahung	tʰ oː	tʰ oː	361-4
+5663	Rupa	tʰ oː	tʰ oː	361-4
+5664	Shergaon	tʰ oː	tʰ oː	361-4
+5665	Duhumbi	tʰ ɔu	tʰ ɔu	361-5
+5666	Jerigaon	tʰ ɔː	tʰ ɔː	361-5
+5667	Khispi	tʰ u	tʰ u	361-5
+5668	Khoina	tʰ ɔː	tʰ ɔː	361-5
+5669	Khoitam	tʰ oː	tʰ oː	361-5
+5670	Rahung	tʰ oː	tʰ oː	361-5
+5671	Rupa	tʰ oː	tʰ oː	361-5
+5672	Shergaon	tʰ oː	tʰ oː	361-5
+5673	Duhumbi	tʰ ɔu	tʰ ɔu	361-6
+5674	Jerigaon	tʰ ɔː	tʰ ɔː	361-6
+5675	Khispi	tʰ u	tʰ u	361-6
+5676	Khoina	tʰ ɔː	tʰ ɔː	361-6
+5677	Khoitam	tʰ oː	tʰ oː	361-6
+5678	Rahung	tʰ oː	tʰ oː	361-6
+5679	Rupa	tʰ oː	tʰ oː	361-6
+5680	Shergaon	tʰ oː	tʰ oː	361-6
+5681	Duhumbi	tʰ ɔu	tʰ ɔu	361-7
+5682	Jerigaon	tʰ ɔː	tʰ ɔː	361-7
+5683	Khispi	tʰ u	tʰ u	361-7
+5684	Khoina	tʰ ɔː	tʰ ɔː	361-7
+5685	Khoitam	tʰ oː	tʰ oː	361-7
+5686	Rahung	tʰ oː	tʰ oː	361-7
+5687	Rupa	tʰ oː	tʰ oː	361-7
+5688	Shergaon	tʰ oː	tʰ oː	361-7
+5689	Duhumbi	tʰ ɔu	tʰ ɔu	361-8
+5690	Jerigaon	tʰ ɔː	tʰ ɔː	361-8
+5691	Khispi	tʰ u	tʰ u	361-8
+5692	Khoina	tʰ ɔː	tʰ ɔː	361-8
+5693	Khoitam	tʰ oː	tʰ oː	361-8
+5694	Rahung	tʰ oː	tʰ oː	361-8
+5695	Rupa	tʰ oː	tʰ oː	361-8
+5696	Shergaon	tʰ oː	tʰ oː	361-8
+5697	Duhumbi	b a n	b a n	363-1
+5698	Jerigaon	m ə	m ə -	363-1
+5699	Khispi	b a n	b a n	363-1
+5700	Khoina	m a	m a -	363-1
+5701	Khoitam	m ə	m ə -	363-1
+5702	Rahung	pʰ	pʰ - -	363-1
+5703	Rupa	m a n	m a n	363-1
+5704	Shergaon	b a n	b a n	363-1
+5705	Duhumbi	b a n	b a n	363-2
+5706	Jerigaon	m ə	m ə -	363-2
+5707	Khispi	b a n	b a n	363-2
+5708	Khoina	m a	m a -	363-2
+5709	Khoitam	m ə	m ə -	363-2
+5710	Rahung	pʰ	pʰ - -	363-2
+5711	Rupa	m a n	m a n	363-2
+5712	Shergaon	b a n	b a n	363-2
+5713	Duhumbi	b a n	b a n	363-3
+5714	Jerigaon	m ə	m ə -	363-3
+5715	Khispi	b a n	b a n	363-3
+5716	Khoina	m a	m a -	363-3
+5717	Khoitam	m ə	m ə -	363-3
+5718	Rahung	pʰ	pʰ - -	363-3
+5719	Rupa	m a n	m a n	363-3
+5720	Shergaon	b a n	b a n	363-3
+5721	Duhumbi	b a n	b a n	363-4
+5722	Jerigaon	m ə	m ə -	363-4
+5723	Khispi	b a n	b a n	363-4
+5724	Khoina	m a	m a -	363-4
+5725	Khoitam	m ə	m ə -	363-4
+5726	Rahung	pʰ	pʰ - -	363-4
+5727	Rupa	m a n	m a n	363-4
+5728	Shergaon	b a n	b a n	363-4
+5729	Duhumbi	b a n	b a n	363-5
+5730	Jerigaon	m ə	m ə -	363-5
+5731	Khispi	b a n	b a n	363-5
+5732	Khoina	m a	m a -	363-5
+5733	Khoitam	m ə	m ə -	363-5
+5734	Rahung	pʰ	pʰ - -	363-5
+5735	Rupa	m a n	m a n	363-5
+5736	Shergaon	b a n	b a n	363-5
+5737	Duhumbi	b a n	b a n	363-6
+5738	Jerigaon	m ə	m ə -	363-6
+5739	Khispi	b a n	b a n	363-6
+5740	Khoina	m a	m a -	363-6
+5741	Khoitam	m ə	m ə -	363-6
+5742	Rahung	pʰ	pʰ - -	363-6
+5743	Rupa	m a n	m a n	363-6
+5744	Shergaon	b a n	b a n	363-6
+5745	Duhumbi	b a n	b a n	363-7
+5746	Jerigaon	m ə	m ə -	363-7
+5747	Khispi	b a n	b a n	363-7
+5748	Khoina	m a	m a -	363-7
+5749	Khoitam	m ə	m ə -	363-7
+5750	Rahung	pʰ	pʰ - -	363-7
+5751	Rupa	m a n	m a n	363-7
+5752	Shergaon	b a n	b a n	363-7
+5753	Duhumbi	b a n	b a n	363-8
+5754	Jerigaon	m ə	m ə -	363-8
+5755	Khispi	b a n	b a n	363-8
+5756	Khoina	m a	m a -	363-8
+5757	Khoitam	m ə	m ə -	363-8
+5758	Rahung	pʰ	pʰ - -	363-8
+5759	Rupa	m a n	m a n	363-8
+5760	Shergaon	b a n	b a n	363-8
+5761	Duhumbi	s a ɹ	s a ɹ	365-1
+5762	Jerigaon	s a ɹ	s a ɹ	365-1
+5763	Khispi	s a ɹ	s a ɹ	365-1
+5764	Khoina	s a ɹ	s a ɹ	365-1
+5765	Khoitam	s a ɹ	s a ɹ	365-1
+5766	Rahung	s a ɹ	s a ɹ	365-1
+5767	Rupa	s a ɹ	s a ɹ	365-1
+5768	Shergaon	s a ɹ	s a ɹ	365-1
+5769	Duhumbi	s a ɹ	s a ɹ	365-2
+5770	Jerigaon	s a ɹ	s a ɹ	365-2
+5771	Khispi	s a ɹ	s a ɹ	365-2
+5772	Khoina	s a ɹ	s a ɹ	365-2
+5773	Khoitam	s a ɹ	s a ɹ	365-2
+5774	Rahung	s a ɹ	s a ɹ	365-2
+5775	Rupa	s a ɹ	s a ɹ	365-2
+5776	Shergaon	s a ɹ	s a ɹ	365-2
+5777	Duhumbi	s a ɹ	s a ɹ	365-3
+5778	Jerigaon	s a ɹ	s a ɹ	365-3
+5779	Khispi	s a ɹ	s a ɹ	365-3
+5780	Khoina	s a ɹ	s a ɹ	365-3
+5781	Khoitam	s a ɹ	s a ɹ	365-3
+5782	Rahung	s a ɹ	s a ɹ	365-3
+5783	Rupa	s a ɹ	s a ɹ	365-3
+5784	Shergaon	s a ɹ	s a ɹ	365-3
+5785	Duhumbi	s a ɹ	s a ɹ	365-4
+5786	Jerigaon	s a ɹ	s a ɹ	365-4
+5787	Khispi	s a ɹ	s a ɹ	365-4
+5788	Khoina	s a ɹ	s a ɹ	365-4
+5789	Khoitam	s a ɹ	s a ɹ	365-4
+5790	Rahung	s a ɹ	s a ɹ	365-4
+5791	Rupa	s a ɹ	s a ɹ	365-4
+5792	Shergaon	s a ɹ	s a ɹ	365-4
+5793	Duhumbi	s a ɹ	s a ɹ	365-5
+5794	Jerigaon	s a ɹ	s a ɹ	365-5
+5795	Khispi	s a ɹ	s a ɹ	365-5
+5796	Khoina	s a ɹ	s a ɹ	365-5
+5797	Khoitam	s a ɹ	s a ɹ	365-5
+5798	Rahung	s a ɹ	s a ɹ	365-5
+5799	Rupa	s a ɹ	s a ɹ	365-5
+5800	Shergaon	s a ɹ	s a ɹ	365-5
+5801	Duhumbi	s a ɹ	s a ɹ	365-6
+5802	Jerigaon	s a ɹ	s a ɹ	365-6
+5803	Khispi	s a ɹ	s a ɹ	365-6
+5804	Khoina	s a ɹ	s a ɹ	365-6
+5805	Khoitam	s a ɹ	s a ɹ	365-6
+5806	Rahung	s a ɹ	s a ɹ	365-6
+5807	Rupa	s a ɹ	s a ɹ	365-6
+5808	Shergaon	s a ɹ	s a ɹ	365-6
+5809	Duhumbi	s a ɹ	s a ɹ	365-7
+5810	Jerigaon	s a ɹ	s a ɹ	365-7
+5811	Khispi	s a ɹ	s a ɹ	365-7
+5812	Khoina	s a ɹ	s a ɹ	365-7
+5813	Khoitam	s a ɹ	s a ɹ	365-7
+5814	Rahung	s a ɹ	s a ɹ	365-7
+5815	Rupa	s a ɹ	s a ɹ	365-7
+5816	Shergaon	s a ɹ	s a ɹ	365-7
+5817	Duhumbi	s a ɹ	s a ɹ	365-8
+5818	Jerigaon	s a ɹ	s a ɹ	365-8
+5819	Khispi	s a ɹ	s a ɹ	365-8
+5820	Khoina	s a ɹ	s a ɹ	365-8
+5821	Khoitam	s a ɹ	s a ɹ	365-8
+5822	Rahung	s a ɹ	s a ɹ	365-8
+5823	Rupa	s a ɹ	s a ɹ	365-8
+5824	Shergaon	s a ɹ	s a ɹ	365-8
+5825	Duhumbi	u	u	797-1
+5826	Jerigaon	a	a	797-1
+5827	Khispi	u	u	797-1
+5828	Khoina	a	a	797-1
+5829	Khoitam	a	a	797-1
+5830	Rahung	a	a	797-1
+5831	Rupa	a	a	797-1
+5832	Shergaon	a	a	797-1
+5833	Duhumbi	u	u	797-2
+5834	Jerigaon	a	a	797-2
+5835	Khispi	u	u	797-2
+5836	Khoina	a	a	797-2
+5837	Khoitam	a	a	797-2
+5838	Rahung	a	a	797-2
+5839	Rupa	a	a	797-2
+5840	Shergaon	a	a	797-2
+5841	Duhumbi	u	u	797-3
+5842	Jerigaon	a	a	797-3
+5843	Khispi	u	u	797-3
+5844	Khoina	a	a	797-3
+5845	Khoitam	a	a	797-3
+5846	Rahung	a	a	797-3
+5847	Rupa	a	a	797-3
+5848	Shergaon	a	a	797-3
+5849	Duhumbi	u	u	797-4
+5850	Jerigaon	a	a	797-4
+5851	Khispi	u	u	797-4
+5852	Khoina	a	a	797-4
+5853	Khoitam	a	a	797-4
+5854	Rahung	a	a	797-4
+5855	Rupa	a	a	797-4
+5856	Shergaon	a	a	797-4
+5857	Duhumbi	u	u	797-5
+5858	Jerigaon	a	a	797-5
+5859	Khispi	u	u	797-5
+5860	Khoina	a	a	797-5
+5861	Khoitam	a	a	797-5
+5862	Rahung	a	a	797-5
+5863	Rupa	a	a	797-5
+5864	Shergaon	a	a	797-5
+5865	Duhumbi	u	u	797-6
+5866	Jerigaon	a	a	797-6
+5867	Khispi	u	u	797-6
+5868	Khoina	a	a	797-6
+5869	Khoitam	a	a	797-6
+5870	Rahung	a	a	797-6
+5871	Rupa	a	a	797-6
+5872	Shergaon	a	a	797-6
+5873	Duhumbi	u	u	797-7
+5874	Jerigaon	a	a	797-7
+5875	Khispi	u	u	797-7
+5876	Khoina	a	a	797-7
+5877	Khoitam	a	a	797-7
+5878	Rahung	a	a	797-7
+5879	Rupa	a	a	797-7
+5880	Shergaon	a	a	797-7
+5881	Duhumbi	u	u	797-8
+5882	Jerigaon	a	a	797-8
+5883	Khispi	u	u	797-8
+5884	Khoina	a	a	797-8
+5885	Khoitam	a	a	797-8
+5886	Rahung	a	a	797-8
+5887	Rupa	a	a	797-8
+5888	Shergaon	a	a	797-8

@@ -1,0 +1,973 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	ClassicalNahuatl	m o tʃ i + n	m o tʃ i + n	1-1
+2	JalupaNahuat	m u tʃ i	m u tʃ i - -	1-1
+3	MecayapanNahuat	n o tʃ i	n o tʃ i - -	1-1
+4	NorthPueblaNahuatl	n o tʃ i + n	n o tʃ i + n	1-1
+5	PajapanNahuat	n o tʃ i	n o tʃ i - -	1-1
+6	Pipil	m u tʃ i	m u tʃ i - -	1-1
+7	Pochutec	n o tʃ o	n o tʃ o - -	1-1
+8	ProtoAztecan	m o tʃ ɨ + m	m o tʃ ɨ + m	1-1
+9	TetelcingoNahuatl	n o tʃ iː	n o tʃ iː - -	1-1
+10	ClassicalNahuatl	m o tʃ i + n	m o tʃ i + n	1-2
+11	JalupaNahuat	m u tʃ i	m u tʃ i - -	1-2
+12	MecayapanNahuat	n o tʃ i	n o tʃ i - -	1-2
+13	NorthPueblaNahuatl	n o tʃ i + n	n o tʃ i + n	1-2
+14	PajapanNahuat	n o tʃ i	n o tʃ i - -	1-2
+15	Pipil	m u tʃ i	m u tʃ i - -	1-2
+16	Pochutec	n o tʃ o	n o tʃ o - -	1-2
+17	ProtoAztecan	m o tʃ ɨ + m	m o tʃ ɨ + m	1-2
+18	TetelcingoNahuatl	n o tʃ iː	n o tʃ iː - -	1-2
+19	ClassicalNahuatl	m o tʃ i + n	m o tʃ i + n	1-3
+20	JalupaNahuat	m u tʃ i	m u tʃ i - -	1-3
+21	MecayapanNahuat	n o tʃ i	n o tʃ i - -	1-3
+22	NorthPueblaNahuatl	n o tʃ i + n	n o tʃ i + n	1-3
+23	PajapanNahuat	n o tʃ i	n o tʃ i - -	1-3
+24	Pipil	m u tʃ i	m u tʃ i - -	1-3
+25	Pochutec	n o tʃ o	n o tʃ o - -	1-3
+26	ProtoAztecan	m o tʃ ɨ + m	m o tʃ ɨ + m	1-3
+27	TetelcingoNahuatl	n o tʃ iː	n o tʃ iː - -	1-3
+28	ClassicalNahuatl	m o tʃ i + n	m o tʃ i + n	1-4
+29	JalupaNahuat	m u tʃ i	m u tʃ i - -	1-4
+30	MecayapanNahuat	n o tʃ i	n o tʃ i - -	1-4
+31	NorthPueblaNahuatl	n o tʃ i + n	n o tʃ i + n	1-4
+32	PajapanNahuat	n o tʃ i	n o tʃ i - -	1-4
+33	Pipil	m u tʃ i	m u tʃ i - -	1-4
+34	Pochutec	n o tʃ o	n o tʃ o - -	1-4
+35	ProtoAztecan	m o tʃ ɨ + m	m o tʃ ɨ + m	1-4
+36	TetelcingoNahuatl	n o tʃ iː	n o tʃ iː - -	1-4
+37	ClassicalNahuatl	m o tʃ i + n	m o tʃ i + n	1-5
+38	JalupaNahuat	m u tʃ i	m u tʃ i - -	1-5
+39	MecayapanNahuat	n o tʃ i	n o tʃ i - -	1-5
+40	NorthPueblaNahuatl	n o tʃ i + n	n o tʃ i + n	1-5
+41	PajapanNahuat	n o tʃ i	n o tʃ i - -	1-5
+42	Pipil	m u tʃ i	m u tʃ i - -	1-5
+43	Pochutec	n o tʃ o	n o tʃ o - -	1-5
+44	ProtoAztecan	m o tʃ ɨ + m	m o tʃ ɨ + m	1-5
+45	TetelcingoNahuatl	n o tʃ iː	n o tʃ iː - -	1-5
+46	ClassicalNahuatl	m o tʃ i + n	m o tʃ i + n	1-6
+47	JalupaNahuat	m u tʃ i	m u tʃ i - -	1-6
+48	MecayapanNahuat	n o tʃ i	n o tʃ i - -	1-6
+49	NorthPueblaNahuatl	n o tʃ i + n	n o tʃ i + n	1-6
+50	PajapanNahuat	n o tʃ i	n o tʃ i - -	1-6
+51	Pipil	m u tʃ i	m u tʃ i - -	1-6
+52	Pochutec	n o tʃ o	n o tʃ o - -	1-6
+53	ProtoAztecan	m o tʃ ɨ + m	m o tʃ ɨ + m	1-6
+54	TetelcingoNahuatl	n o tʃ iː	n o tʃ iː - -	1-6
+55	ClassicalNahuatl	m o tʃ i + n	m o tʃ i + n	1-7
+56	JalupaNahuat	m u tʃ i	m u tʃ i - -	1-7
+57	MecayapanNahuat	n o tʃ i	n o tʃ i - -	1-7
+58	NorthPueblaNahuatl	n o tʃ i + n	n o tʃ i + n	1-7
+59	PajapanNahuat	n o tʃ i	n o tʃ i - -	1-7
+60	Pipil	m u tʃ i	m u tʃ i - -	1-7
+61	Pochutec	n o tʃ o	n o tʃ o - -	1-7
+62	ProtoAztecan	m o tʃ ɨ + m	m o tʃ ɨ + m	1-7
+63	TetelcingoNahuatl	n o tʃ iː	n o tʃ iː - -	1-7
+64	ClassicalNahuatl	m o tʃ i + n	m o tʃ i + n	1-8
+65	JalupaNahuat	m u tʃ i	m u tʃ i - -	1-8
+66	MecayapanNahuat	n o tʃ i	n o tʃ i - -	1-8
+67	NorthPueblaNahuatl	n o tʃ i + n	n o tʃ i + n	1-8
+68	PajapanNahuat	n o tʃ i	n o tʃ i - -	1-8
+69	Pipil	m u tʃ i	m u tʃ i - -	1-8
+70	Pochutec	n o tʃ o	n o tʃ o - -	1-8
+71	ProtoAztecan	m o tʃ ɨ + m	m o tʃ ɨ + m	1-8
+72	TetelcingoNahuatl	n o tʃ iː	n o tʃ iː - -	1-8
+73	ClassicalNahuatl	m o tʃ i + n	m o tʃ i + n	1-9
+74	JalupaNahuat	m u tʃ i	m u tʃ i - -	1-9
+75	MecayapanNahuat	n o tʃ i	n o tʃ i - -	1-9
+76	NorthPueblaNahuatl	n o tʃ i + n	n o tʃ i + n	1-9
+77	PajapanNahuat	n o tʃ i	n o tʃ i - -	1-9
+78	Pipil	m u tʃ i	m u tʃ i - -	1-9
+79	Pochutec	n o tʃ o	n o tʃ o - -	1-9
+80	ProtoAztecan	m o tʃ ɨ + m	m o tʃ ɨ + m	1-9
+81	TetelcingoNahuatl	n o tʃ iː	n o tʃ iː - -	1-9
+82	ClassicalNahuatl	n e x + tɬ i	- - - - - - n e x + tɬ i	2-1
+83	JalupaNahuat	k o + n e x + t i	- - k - o + n e x + t i	2-1
+84	MecayapanNahuat	k w a + n eː x	- - k w a + n eː x - - -	2-1
+85	NorthPueblaNahuatl	tɬ e k o + n e x + tɬ i	tɬ e k - o + n e x + tɬ i	2-1
+86	PajapanNahuat	b a + n eː x	- - - b a + n eː x - - -	2-1
+87	Pipil	n e x + t i	- - - - - - n e x + t i	2-1
+88	Pochutec	n o x + t	- - - - - - n o x + t -	2-1
+89	ProtoAztecan	n ɨ x + tɬ ɨ	- - - - - - n ɨ x + tɬ ɨ	2-1
+90	TetelcingoNahuatl	tɬ a k o + n e x + tɬ iː	tɬ a k - o + n e x + tɬ iː	2-1
+91	ClassicalNahuatl	n e x + tɬ i	- - - - - - n e x + tɬ i	2-2
+92	JalupaNahuat	k o + n e x + t i	- - k - o + n e x + t i	2-2
+93	MecayapanNahuat	k w a + n eː x	- - k w a + n eː x - - -	2-2
+94	NorthPueblaNahuatl	tɬ e k o + n e x + tɬ i	tɬ e k - o + n e x + tɬ i	2-2
+95	PajapanNahuat	b a + n eː x	- - - b a + n eː x - - -	2-2
+96	Pipil	n e x + t i	- - - - - - n e x + t i	2-2
+97	Pochutec	n o x + t	- - - - - - n o x + t -	2-2
+98	ProtoAztecan	n ɨ x + tɬ ɨ	- - - - - - n ɨ x + tɬ ɨ	2-2
+99	TetelcingoNahuatl	tɬ a k o + n e x + tɬ iː	tɬ a k - o + n e x + tɬ iː	2-2
+100	ClassicalNahuatl	n e x + tɬ i	- - - - - - n e x + tɬ i	2-3
+101	JalupaNahuat	k o + n e x + t i	- - k - o + n e x + t i	2-3
+102	MecayapanNahuat	k w a + n eː x	- - k w a + n eː x - - -	2-3
+103	NorthPueblaNahuatl	tɬ e k o + n e x + tɬ i	tɬ e k - o + n e x + tɬ i	2-3
+104	PajapanNahuat	b a + n eː x	- - - b a + n eː x - - -	2-3
+105	Pipil	n e x + t i	- - - - - - n e x + t i	2-3
+106	Pochutec	n o x + t	- - - - - - n o x + t -	2-3
+107	ProtoAztecan	n ɨ x + tɬ ɨ	- - - - - - n ɨ x + tɬ ɨ	2-3
+108	TetelcingoNahuatl	tɬ a k o + n e x + tɬ iː	tɬ a k - o + n e x + tɬ iː	2-3
+109	ClassicalNahuatl	n e x + tɬ i	- - - - - - n e x + tɬ i	2-4
+110	JalupaNahuat	k o + n e x + t i	- - k - o + n e x + t i	2-4
+111	MecayapanNahuat	k w a + n eː x	- - k w a + n eː x - - -	2-4
+112	NorthPueblaNahuatl	tɬ e k o + n e x + tɬ i	tɬ e k - o + n e x + tɬ i	2-4
+113	PajapanNahuat	b a + n eː x	- - - b a + n eː x - - -	2-4
+114	Pipil	n e x + t i	- - - - - - n e x + t i	2-4
+115	Pochutec	n o x + t	- - - - - - n o x + t -	2-4
+116	ProtoAztecan	n ɨ x + tɬ ɨ	- - - - - - n ɨ x + tɬ ɨ	2-4
+117	TetelcingoNahuatl	tɬ a k o + n e x + tɬ iː	tɬ a k - o + n e x + tɬ iː	2-4
+118	ClassicalNahuatl	n e x + tɬ i	- - - - - - n e x + tɬ i	2-5
+119	JalupaNahuat	k o + n e x + t i	- - k - o + n e x + t i	2-5
+120	MecayapanNahuat	k w a + n eː x	- - k w a + n eː x - - -	2-5
+121	NorthPueblaNahuatl	tɬ e k o + n e x + tɬ i	tɬ e k - o + n e x + tɬ i	2-5
+122	PajapanNahuat	b a + n eː x	- - - b a + n eː x - - -	2-5
+123	Pipil	n e x + t i	- - - - - - n e x + t i	2-5
+124	Pochutec	n o x + t	- - - - - - n o x + t -	2-5
+125	ProtoAztecan	n ɨ x + tɬ ɨ	- - - - - - n ɨ x + tɬ ɨ	2-5
+126	TetelcingoNahuatl	tɬ a k o + n e x + tɬ iː	tɬ a k - o + n e x + tɬ iː	2-5
+127	ClassicalNahuatl	n e x + tɬ i	- - - - - - n e x + tɬ i	2-6
+128	JalupaNahuat	k o + n e x + t i	- - k - o + n e x + t i	2-6
+129	MecayapanNahuat	k w a + n eː x	- - k w a + n eː x - - -	2-6
+130	NorthPueblaNahuatl	tɬ e k o + n e x + tɬ i	tɬ e k - o + n e x + tɬ i	2-6
+131	PajapanNahuat	b a + n eː x	- - - b a + n eː x - - -	2-6
+132	Pipil	n e x + t i	- - - - - - n e x + t i	2-6
+133	Pochutec	n o x + t	- - - - - - n o x + t -	2-6
+134	ProtoAztecan	n ɨ x + tɬ ɨ	- - - - - - n ɨ x + tɬ ɨ	2-6
+135	TetelcingoNahuatl	tɬ a k o + n e x + tɬ iː	tɬ a k - o + n e x + tɬ iː	2-6
+136	ClassicalNahuatl	n e x + tɬ i	- - - - - - n e x + tɬ i	2-7
+137	JalupaNahuat	k o + n e x + t i	- - k - o + n e x + t i	2-7
+138	MecayapanNahuat	k w a + n eː x	- - k w a + n eː x - - -	2-7
+139	NorthPueblaNahuatl	tɬ e k o + n e x + tɬ i	tɬ e k - o + n e x + tɬ i	2-7
+140	PajapanNahuat	b a + n eː x	- - - b a + n eː x - - -	2-7
+141	Pipil	n e x + t i	- - - - - - n e x + t i	2-7
+142	Pochutec	n o x + t	- - - - - - n o x + t -	2-7
+143	ProtoAztecan	n ɨ x + tɬ ɨ	- - - - - - n ɨ x + tɬ ɨ	2-7
+144	TetelcingoNahuatl	tɬ a k o + n e x + tɬ iː	tɬ a k - o + n e x + tɬ iː	2-7
+145	ClassicalNahuatl	n e x + tɬ i	- - - - - - n e x + tɬ i	2-8
+146	JalupaNahuat	k o + n e x + t i	- - k - o + n e x + t i	2-8
+147	MecayapanNahuat	k w a + n eː x	- - k w a + n eː x - - -	2-8
+148	NorthPueblaNahuatl	tɬ e k o + n e x + tɬ i	tɬ e k - o + n e x + tɬ i	2-8
+149	PajapanNahuat	b a + n eː x	- - - b a + n eː x - - -	2-8
+150	Pipil	n e x + t i	- - - - - - n e x + t i	2-8
+151	Pochutec	n o x + t	- - - - - - n o x + t -	2-8
+152	ProtoAztecan	n ɨ x + tɬ ɨ	- - - - - - n ɨ x + tɬ ɨ	2-8
+153	TetelcingoNahuatl	tɬ a k o + n e x + tɬ iː	tɬ a k - o + n e x + tɬ iː	2-8
+154	ClassicalNahuatl	n e x + tɬ i	- - - - - - n e x + tɬ i	2-9
+155	JalupaNahuat	k o + n e x + t i	- - k - o + n e x + t i	2-9
+156	MecayapanNahuat	k w a + n eː x	- - k w a + n eː x - - -	2-9
+157	NorthPueblaNahuatl	tɬ e k o + n e x + tɬ i	tɬ e k - o + n e x + tɬ i	2-9
+158	PajapanNahuat	b a + n eː x	- - - b a + n eː x - - -	2-9
+159	Pipil	n e x + t i	- - - - - - n e x + t i	2-9
+160	Pochutec	n o x + t	- - - - - - n o x + t -	2-9
+161	ProtoAztecan	n ɨ x + tɬ ɨ	- - - - - - n ɨ x + tɬ ɨ	2-9
+162	TetelcingoNahuatl	tɬ a k o + n e x + tɬ iː	tɬ a k - o + n e x + tɬ iː	2-9
+163	ClassicalNahuatl	w eː	w eː - - - - -	8-1
+164	JalupaNahuat	w e j	w e - - j - -	8-1
+165	MecayapanNahuat	w e j i	w e - - j i -	8-1
+166	NorthPueblaNahuatl	w e j i	w e - - j i -	8-1
+167	PajapanNahuat	w eː j	w eː - - j - -	8-1
+168	Pipil	w eː j	w eː - - j - -	8-1
+169	Pochutec	h u h i o m	h u h i - o m	8-1
+170	ProtoAztecan	w e h e j	w e h e j - -	8-1
+171	TetelcingoNahuatl	b i e j iː	b i - e j iː -	8-1
+172	ClassicalNahuatl	w eː	w eː - - - - -	8-2
+173	JalupaNahuat	w e j	w e - - j - -	8-2
+174	MecayapanNahuat	w e j i	w e - - j i -	8-2
+175	NorthPueblaNahuatl	w e j i	w e - - j i -	8-2
+176	PajapanNahuat	w eː j	w eː - - j - -	8-2
+177	Pipil	w eː j	w eː - - j - -	8-2
+178	Pochutec	h u h i o m	h u h i - o m	8-2
+179	ProtoAztecan	w e h e j	w e h e j - -	8-2
+180	TetelcingoNahuatl	b i e j iː	b i - e j iː -	8-2
+181	ClassicalNahuatl	w eː	w eː - - - - -	8-3
+182	JalupaNahuat	w e j	w e - - j - -	8-3
+183	MecayapanNahuat	w e j i	w e - - j i -	8-3
+184	NorthPueblaNahuatl	w e j i	w e - - j i -	8-3
+185	PajapanNahuat	w eː j	w eː - - j - -	8-3
+186	Pipil	w eː j	w eː - - j - -	8-3
+187	Pochutec	h u h i o m	h u h i - o m	8-3
+188	ProtoAztecan	w e h e j	w e h e j - -	8-3
+189	TetelcingoNahuatl	b i e j iː	b i - e j iː -	8-3
+190	ClassicalNahuatl	w eː	w eː - - - - -	8-4
+191	JalupaNahuat	w e j	w e - - j - -	8-4
+192	MecayapanNahuat	w e j i	w e - - j i -	8-4
+193	NorthPueblaNahuatl	w e j i	w e - - j i -	8-4
+194	PajapanNahuat	w eː j	w eː - - j - -	8-4
+195	Pipil	w eː j	w eː - - j - -	8-4
+196	Pochutec	h u h i o m	h u h i - o m	8-4
+197	ProtoAztecan	w e h e j	w e h e j - -	8-4
+198	TetelcingoNahuatl	b i e j iː	b i - e j iː -	8-4
+199	ClassicalNahuatl	w eː	w eː - - - - -	8-5
+200	JalupaNahuat	w e j	w e - - j - -	8-5
+201	MecayapanNahuat	w e j i	w e - - j i -	8-5
+202	NorthPueblaNahuatl	w e j i	w e - - j i -	8-5
+203	PajapanNahuat	w eː j	w eː - - j - -	8-5
+204	Pipil	w eː j	w eː - - j - -	8-5
+205	Pochutec	h u h i o m	h u h i - o m	8-5
+206	ProtoAztecan	w e h e j	w e h e j - -	8-5
+207	TetelcingoNahuatl	b i e j iː	b i - e j iː -	8-5
+208	ClassicalNahuatl	w eː	w eː - - - - -	8-6
+209	JalupaNahuat	w e j	w e - - j - -	8-6
+210	MecayapanNahuat	w e j i	w e - - j i -	8-6
+211	NorthPueblaNahuatl	w e j i	w e - - j i -	8-6
+212	PajapanNahuat	w eː j	w eː - - j - -	8-6
+213	Pipil	w eː j	w eː - - j - -	8-6
+214	Pochutec	h u h i o m	h u h i - o m	8-6
+215	ProtoAztecan	w e h e j	w e h e j - -	8-6
+216	TetelcingoNahuatl	b i e j iː	b i - e j iː -	8-6
+217	ClassicalNahuatl	w eː	w eː - - - - -	8-7
+218	JalupaNahuat	w e j	w e - - j - -	8-7
+219	MecayapanNahuat	w e j i	w e - - j i -	8-7
+220	NorthPueblaNahuatl	w e j i	w e - - j i -	8-7
+221	PajapanNahuat	w eː j	w eː - - j - -	8-7
+222	Pipil	w eː j	w eː - - j - -	8-7
+223	Pochutec	h u h i o m	h u h i - o m	8-7
+224	ProtoAztecan	w e h e j	w e h e j - -	8-7
+225	TetelcingoNahuatl	b i e j iː	b i - e j iː -	8-7
+226	ClassicalNahuatl	w eː	w eː - - - - -	8-8
+227	JalupaNahuat	w e j	w e - - j - -	8-8
+228	MecayapanNahuat	w e j i	w e - - j i -	8-8
+229	NorthPueblaNahuatl	w e j i	w e - - j i -	8-8
+230	PajapanNahuat	w eː j	w eː - - j - -	8-8
+231	Pipil	w eː j	w eː - - j - -	8-8
+232	Pochutec	h u h i o m	h u h i - o m	8-8
+233	ProtoAztecan	w e h e j	w e h e j - -	8-8
+234	TetelcingoNahuatl	b i e j iː	b i - e j iː -	8-8
+235	ClassicalNahuatl	w eː	w eː - - - - -	8-9
+236	JalupaNahuat	w e j	w e - - j - -	8-9
+237	MecayapanNahuat	w e j i	w e - - j i -	8-9
+238	NorthPueblaNahuatl	w e j i	w e - - j i -	8-9
+239	PajapanNahuat	w eː j	w eː - - j - -	8-9
+240	Pipil	w eː j	w eː - - j - -	8-9
+241	Pochutec	h u h i o m	h u h i - o m	8-9
+242	ProtoAztecan	w e h e j	w e h e j - -	8-9
+243	TetelcingoNahuatl	b i e j iː	b i - e j iː -	8-9
+244	ClassicalNahuatl	e s + tɬ i	- e s + tɬ i	16-1
+245	JalupaNahuat	e s + t i	- e s + t i	16-1
+246	MecayapanNahuat	e s + t i	- e s + t i	16-1
+247	NorthPueblaNahuatl	j e s + tɬ i	j e s + tɬ i	16-1
+248	PajapanNahuat	e s + t i	- e s + t i	16-1
+249	Pipil	e s + t i	- e s + t i	16-1
+250	Pochutec	e s + t	- e s + t -	16-1
+251	ProtoAztecan	ɨ s + tɬ ɨ	- ɨ s + tɬ ɨ	16-1
+252	TetelcingoNahuatl	j e s + tɬ iː	j e s + tɬ iː	16-1
+253	ClassicalNahuatl	e s + tɬ i	- e s + tɬ i	16-2
+254	JalupaNahuat	e s + t i	- e s + t i	16-2
+255	MecayapanNahuat	e s + t i	- e s + t i	16-2
+256	NorthPueblaNahuatl	j e s + tɬ i	j e s + tɬ i	16-2
+257	PajapanNahuat	e s + t i	- e s + t i	16-2
+258	Pipil	e s + t i	- e s + t i	16-2
+259	Pochutec	e s + t	- e s + t -	16-2
+260	ProtoAztecan	ɨ s + tɬ ɨ	- ɨ s + tɬ ɨ	16-2
+261	TetelcingoNahuatl	j e s + tɬ iː	j e s + tɬ iː	16-2
+262	ClassicalNahuatl	e s + tɬ i	- e s + tɬ i	16-3
+263	JalupaNahuat	e s + t i	- e s + t i	16-3
+264	MecayapanNahuat	e s + t i	- e s + t i	16-3
+265	NorthPueblaNahuatl	j e s + tɬ i	j e s + tɬ i	16-3
+266	PajapanNahuat	e s + t i	- e s + t i	16-3
+267	Pipil	e s + t i	- e s + t i	16-3
+268	Pochutec	e s + t	- e s + t -	16-3
+269	ProtoAztecan	ɨ s + tɬ ɨ	- ɨ s + tɬ ɨ	16-3
+270	TetelcingoNahuatl	j e s + tɬ iː	j e s + tɬ iː	16-3
+271	ClassicalNahuatl	e s + tɬ i	- e s + tɬ i	16-4
+272	JalupaNahuat	e s + t i	- e s + t i	16-4
+273	MecayapanNahuat	e s + t i	- e s + t i	16-4
+274	NorthPueblaNahuatl	j e s + tɬ i	j e s + tɬ i	16-4
+275	PajapanNahuat	e s + t i	- e s + t i	16-4
+276	Pipil	e s + t i	- e s + t i	16-4
+277	Pochutec	e s + t	- e s + t -	16-4
+278	ProtoAztecan	ɨ s + tɬ ɨ	- ɨ s + tɬ ɨ	16-4
+279	TetelcingoNahuatl	j e s + tɬ iː	j e s + tɬ iː	16-4
+280	ClassicalNahuatl	e s + tɬ i	- e s + tɬ i	16-5
+281	JalupaNahuat	e s + t i	- e s + t i	16-5
+282	MecayapanNahuat	e s + t i	- e s + t i	16-5
+283	NorthPueblaNahuatl	j e s + tɬ i	j e s + tɬ i	16-5
+284	PajapanNahuat	e s + t i	- e s + t i	16-5
+285	Pipil	e s + t i	- e s + t i	16-5
+286	Pochutec	e s + t	- e s + t -	16-5
+287	ProtoAztecan	ɨ s + tɬ ɨ	- ɨ s + tɬ ɨ	16-5
+288	TetelcingoNahuatl	j e s + tɬ iː	j e s + tɬ iː	16-5
+289	ClassicalNahuatl	e s + tɬ i	- e s + tɬ i	16-6
+290	JalupaNahuat	e s + t i	- e s + t i	16-6
+291	MecayapanNahuat	e s + t i	- e s + t i	16-6
+292	NorthPueblaNahuatl	j e s + tɬ i	j e s + tɬ i	16-6
+293	PajapanNahuat	e s + t i	- e s + t i	16-6
+294	Pipil	e s + t i	- e s + t i	16-6
+295	Pochutec	e s + t	- e s + t -	16-6
+296	ProtoAztecan	ɨ s + tɬ ɨ	- ɨ s + tɬ ɨ	16-6
+297	TetelcingoNahuatl	j e s + tɬ iː	j e s + tɬ iː	16-6
+298	ClassicalNahuatl	e s + tɬ i	- e s + tɬ i	16-7
+299	JalupaNahuat	e s + t i	- e s + t i	16-7
+300	MecayapanNahuat	e s + t i	- e s + t i	16-7
+301	NorthPueblaNahuatl	j e s + tɬ i	j e s + tɬ i	16-7
+302	PajapanNahuat	e s + t i	- e s + t i	16-7
+303	Pipil	e s + t i	- e s + t i	16-7
+304	Pochutec	e s + t	- e s + t -	16-7
+305	ProtoAztecan	ɨ s + tɬ ɨ	- ɨ s + tɬ ɨ	16-7
+306	TetelcingoNahuatl	j e s + tɬ iː	j e s + tɬ iː	16-7
+307	ClassicalNahuatl	e s + tɬ i	- e s + tɬ i	16-8
+308	JalupaNahuat	e s + t i	- e s + t i	16-8
+309	MecayapanNahuat	e s + t i	- e s + t i	16-8
+310	NorthPueblaNahuatl	j e s + tɬ i	j e s + tɬ i	16-8
+311	PajapanNahuat	e s + t i	- e s + t i	16-8
+312	Pipil	e s + t i	- e s + t i	16-8
+313	Pochutec	e s + t	- e s + t -	16-8
+314	ProtoAztecan	ɨ s + tɬ ɨ	- ɨ s + tɬ ɨ	16-8
+315	TetelcingoNahuatl	j e s + tɬ iː	j e s + tɬ iː	16-8
+316	ClassicalNahuatl	e s + tɬ i	- e s + tɬ i	16-9
+317	JalupaNahuat	e s + t i	- e s + t i	16-9
+318	MecayapanNahuat	e s + t i	- e s + t i	16-9
+319	NorthPueblaNahuatl	j e s + tɬ i	j e s + tɬ i	16-9
+320	PajapanNahuat	e s + t i	- e s + t i	16-9
+321	Pipil	e s + t i	- e s + t i	16-9
+322	Pochutec	e s + t	- e s + t -	16-9
+323	ProtoAztecan	ɨ s + tɬ ɨ	- ɨ s + tɬ ɨ	16-9
+324	TetelcingoNahuatl	j e s + tɬ iː	j e s + tɬ iː	16-9
+325	ClassicalNahuatl	i s t e + tɬ	i s t e + tɬ	24-1
+326	JalupaNahuat	i s t i	i s t i - -	24-1
+327	MecayapanNahuat	i s t i	i s t i - -	24-1
+328	NorthPueblaNahuatl	i s t + n	i s t - + n	24-1
+329	PajapanNahuat	i s t i	i s t i - -	24-1
+330	Pipil	i s t i + t	i s t i + t	24-1
+331	Pochutec	o x + t	o x - - + t	24-1
+332	ProtoAztecan	ɨ s t ɨ	ɨ s t ɨ - -	24-1
+333	TetelcingoNahuatl	i s t e	i s t e - -	24-1
+334	ClassicalNahuatl	i s t e + tɬ	i s t e + tɬ	24-2
+335	JalupaNahuat	i s t i	i s t i - -	24-2
+336	MecayapanNahuat	i s t i	i s t i - -	24-2
+337	NorthPueblaNahuatl	i s t + n	i s t - + n	24-2
+338	PajapanNahuat	i s t i	i s t i - -	24-2
+339	Pipil	i s t i + t	i s t i + t	24-2
+340	Pochutec	o x + t	o x - - + t	24-2
+341	ProtoAztecan	ɨ s t ɨ	ɨ s t ɨ - -	24-2
+342	TetelcingoNahuatl	i s t e	i s t e - -	24-2
+343	ClassicalNahuatl	i s t e + tɬ	i s t e + tɬ	24-3
+344	JalupaNahuat	i s t i	i s t i - -	24-3
+345	MecayapanNahuat	i s t i	i s t i - -	24-3
+346	NorthPueblaNahuatl	i s t + n	i s t - + n	24-3
+347	PajapanNahuat	i s t i	i s t i - -	24-3
+348	Pipil	i s t i + t	i s t i + t	24-3
+349	Pochutec	o x + t	o x - - + t	24-3
+350	ProtoAztecan	ɨ s t ɨ	ɨ s t ɨ - -	24-3
+351	TetelcingoNahuatl	i s t e	i s t e - -	24-3
+352	ClassicalNahuatl	i s t e + tɬ	i s t e + tɬ	24-4
+353	JalupaNahuat	i s t i	i s t i - -	24-4
+354	MecayapanNahuat	i s t i	i s t i - -	24-4
+355	NorthPueblaNahuatl	i s t + n	i s t - + n	24-4
+356	PajapanNahuat	i s t i	i s t i - -	24-4
+357	Pipil	i s t i + t	i s t i + t	24-4
+358	Pochutec	o x + t	o x - - + t	24-4
+359	ProtoAztecan	ɨ s t ɨ	ɨ s t ɨ - -	24-4
+360	TetelcingoNahuatl	i s t e	i s t e - -	24-4
+361	ClassicalNahuatl	i s t e + tɬ	i s t e + tɬ	24-5
+362	JalupaNahuat	i s t i	i s t i - -	24-5
+363	MecayapanNahuat	i s t i	i s t i - -	24-5
+364	NorthPueblaNahuatl	i s t + n	i s t - + n	24-5
+365	PajapanNahuat	i s t i	i s t i - -	24-5
+366	Pipil	i s t i + t	i s t i + t	24-5
+367	Pochutec	o x + t	o x - - + t	24-5
+368	ProtoAztecan	ɨ s t ɨ	ɨ s t ɨ - -	24-5
+369	TetelcingoNahuatl	i s t e	i s t e - -	24-5
+370	ClassicalNahuatl	i s t e + tɬ	i s t e + tɬ	24-6
+371	JalupaNahuat	i s t i	i s t i - -	24-6
+372	MecayapanNahuat	i s t i	i s t i - -	24-6
+373	NorthPueblaNahuatl	i s t + n	i s t - + n	24-6
+374	PajapanNahuat	i s t i	i s t i - -	24-6
+375	Pipil	i s t i + t	i s t i + t	24-6
+376	Pochutec	o x + t	o x - - + t	24-6
+377	ProtoAztecan	ɨ s t ɨ	ɨ s t ɨ - -	24-6
+378	TetelcingoNahuatl	i s t e	i s t e - -	24-6
+379	ClassicalNahuatl	i s t e + tɬ	i s t e + tɬ	24-7
+380	JalupaNahuat	i s t i	i s t i - -	24-7
+381	MecayapanNahuat	i s t i	i s t i - -	24-7
+382	NorthPueblaNahuatl	i s t + n	i s t - + n	24-7
+383	PajapanNahuat	i s t i	i s t i - -	24-7
+384	Pipil	i s t i + t	i s t i + t	24-7
+385	Pochutec	o x + t	o x - - + t	24-7
+386	ProtoAztecan	ɨ s t ɨ	ɨ s t ɨ - -	24-7
+387	TetelcingoNahuatl	i s t e	i s t e - -	24-7
+388	ClassicalNahuatl	i s t e + tɬ	i s t e + tɬ	24-8
+389	JalupaNahuat	i s t i	i s t i - -	24-8
+390	MecayapanNahuat	i s t i	i s t i - -	24-8
+391	NorthPueblaNahuatl	i s t + n	i s t - + n	24-8
+392	PajapanNahuat	i s t i	i s t i - -	24-8
+393	Pipil	i s t i + t	i s t i + t	24-8
+394	Pochutec	o x + t	o x - - + t	24-8
+395	ProtoAztecan	ɨ s t ɨ	ɨ s t ɨ - -	24-8
+396	TetelcingoNahuatl	i s t e	i s t e - -	24-8
+397	ClassicalNahuatl	i s t e + tɬ	i s t e + tɬ	24-9
+398	JalupaNahuat	i s t i	i s t i - -	24-9
+399	MecayapanNahuat	i s t i	i s t i - -	24-9
+400	NorthPueblaNahuatl	i s t + n	i s t - + n	24-9
+401	PajapanNahuat	i s t i	i s t i - -	24-9
+402	Pipil	i s t i + t	i s t i + t	24-9
+403	Pochutec	o x + t	o x - - + t	24-9
+404	ProtoAztecan	ɨ s t ɨ	ɨ s t ɨ - -	24-9
+405	TetelcingoNahuatl	i s t e	i s t e - -	24-9
+406	ClassicalNahuatl	m i k	m i k -	32-1
+407	JalupaNahuat	m i k i	m i k i	32-1
+408	MecayapanNahuat	m i k i	m i k i	32-1
+409	NorthPueblaNahuatl	m i k i	m i k i	32-1
+410	PajapanNahuat	m i g i	m i g i	32-1
+411	Pipil	m i k i	m i k i	32-1
+412	Pochutec	m o k	m o k -	32-1
+413	ProtoAztecan	m ɨ k i	m ɨ k i	32-1
+414	TetelcingoNahuatl	m iː k iː	m iː k iː	32-1
+415	ClassicalNahuatl	m i k	m i k -	32-2
+416	JalupaNahuat	m i k i	m i k i	32-2
+417	MecayapanNahuat	m i k i	m i k i	32-2
+418	NorthPueblaNahuatl	m i k i	m i k i	32-2
+419	PajapanNahuat	m i g i	m i g i	32-2
+420	Pipil	m i k i	m i k i	32-2
+421	Pochutec	m o k	m o k -	32-2
+422	ProtoAztecan	m ɨ k i	m ɨ k i	32-2
+423	TetelcingoNahuatl	m iː k iː	m iː k iː	32-2
+424	ClassicalNahuatl	m i k	m i k -	32-3
+425	JalupaNahuat	m i k i	m i k i	32-3
+426	MecayapanNahuat	m i k i	m i k i	32-3
+427	NorthPueblaNahuatl	m i k i	m i k i	32-3
+428	PajapanNahuat	m i g i	m i g i	32-3
+429	Pipil	m i k i	m i k i	32-3
+430	Pochutec	m o k	m o k -	32-3
+431	ProtoAztecan	m ɨ k i	m ɨ k i	32-3
+432	TetelcingoNahuatl	m iː k iː	m iː k iː	32-3
+433	ClassicalNahuatl	m i k	m i k -	32-4
+434	JalupaNahuat	m i k i	m i k i	32-4
+435	MecayapanNahuat	m i k i	m i k i	32-4
+436	NorthPueblaNahuatl	m i k i	m i k i	32-4
+437	PajapanNahuat	m i g i	m i g i	32-4
+438	Pipil	m i k i	m i k i	32-4
+439	Pochutec	m o k	m o k -	32-4
+440	ProtoAztecan	m ɨ k i	m ɨ k i	32-4
+441	TetelcingoNahuatl	m iː k iː	m iː k iː	32-4
+442	ClassicalNahuatl	m i k	m i k -	32-5
+443	JalupaNahuat	m i k i	m i k i	32-5
+444	MecayapanNahuat	m i k i	m i k i	32-5
+445	NorthPueblaNahuatl	m i k i	m i k i	32-5
+446	PajapanNahuat	m i g i	m i g i	32-5
+447	Pipil	m i k i	m i k i	32-5
+448	Pochutec	m o k	m o k -	32-5
+449	ProtoAztecan	m ɨ k i	m ɨ k i	32-5
+450	TetelcingoNahuatl	m iː k iː	m iː k iː	32-5
+451	ClassicalNahuatl	m i k	m i k -	32-6
+452	JalupaNahuat	m i k i	m i k i	32-6
+453	MecayapanNahuat	m i k i	m i k i	32-6
+454	NorthPueblaNahuatl	m i k i	m i k i	32-6
+455	PajapanNahuat	m i g i	m i g i	32-6
+456	Pipil	m i k i	m i k i	32-6
+457	Pochutec	m o k	m o k -	32-6
+458	ProtoAztecan	m ɨ k i	m ɨ k i	32-6
+459	TetelcingoNahuatl	m iː k iː	m iː k iː	32-6
+460	ClassicalNahuatl	m i k	m i k -	32-7
+461	JalupaNahuat	m i k i	m i k i	32-7
+462	MecayapanNahuat	m i k i	m i k i	32-7
+463	NorthPueblaNahuatl	m i k i	m i k i	32-7
+464	PajapanNahuat	m i g i	m i g i	32-7
+465	Pipil	m i k i	m i k i	32-7
+466	Pochutec	m o k	m o k -	32-7
+467	ProtoAztecan	m ɨ k i	m ɨ k i	32-7
+468	TetelcingoNahuatl	m iː k iː	m iː k iː	32-7
+469	ClassicalNahuatl	m i k	m i k -	32-8
+470	JalupaNahuat	m i k i	m i k i	32-8
+471	MecayapanNahuat	m i k i	m i k i	32-8
+472	NorthPueblaNahuatl	m i k i	m i k i	32-8
+473	PajapanNahuat	m i g i	m i g i	32-8
+474	Pipil	m i k i	m i k i	32-8
+475	Pochutec	m o k	m o k -	32-8
+476	ProtoAztecan	m ɨ k i	m ɨ k i	32-8
+477	TetelcingoNahuatl	m iː k iː	m iː k iː	32-8
+478	ClassicalNahuatl	m i k	m i k -	32-9
+479	JalupaNahuat	m i k i	m i k i	32-9
+480	MecayapanNahuat	m i k i	m i k i	32-9
+481	NorthPueblaNahuatl	m i k i	m i k i	32-9
+482	PajapanNahuat	m i g i	m i g i	32-9
+483	Pipil	m i k i	m i k i	32-9
+484	Pochutec	m o k	m o k -	32-9
+485	ProtoAztecan	m ɨ k i	m ɨ k i	32-9
+486	TetelcingoNahuatl	m iː k iː	m iː k iː	32-9
+487	ClassicalNahuatl	o n + iː	- - o n + iː - -	51-1
+488	JalupaNahuat	x i + k	- x i - + k - -	51-1
+489	MecayapanNahuat	o n + i + a	- - o n + i + a	51-1
+490	NorthPueblaNahuatl	o n + i	- - o n + i - -	51-1
+491	PajapanNahuat	o n + i	- - o n + i - -	51-1
+492	Pipil	u n + i	- - u n + i - -	51-1
+493	Pochutec	t e m + i	- t e m + i - -	51-1
+494	ProtoAztecan	i h i	i h i - - - - -	51-1
+495	TetelcingoNahuatl	o n + i	- - o n + i - -	51-1
+496	ClassicalNahuatl	o n + iː	- - o n + iː - -	51-2
+497	JalupaNahuat	x i + k	- x i - + k - -	51-2
+498	MecayapanNahuat	o n + i + a	- - o n + i + a	51-2
+499	NorthPueblaNahuatl	o n + i	- - o n + i - -	51-2
+500	PajapanNahuat	o n + i	- - o n + i - -	51-2
+501	Pipil	u n + i	- - u n + i - -	51-2
+502	Pochutec	t e m + i	- t e m + i - -	51-2
+503	ProtoAztecan	i h i	i h i - - - - -	51-2
+504	TetelcingoNahuatl	o n + i	- - o n + i - -	51-2
+505	ClassicalNahuatl	o n + iː	- - o n + iː - -	51-3
+506	JalupaNahuat	x i + k	- x i - + k - -	51-3
+507	MecayapanNahuat	o n + i + a	- - o n + i + a	51-3
+508	NorthPueblaNahuatl	o n + i	- - o n + i - -	51-3
+509	PajapanNahuat	o n + i	- - o n + i - -	51-3
+510	Pipil	u n + i	- - u n + i - -	51-3
+511	Pochutec	t e m + i	- t e m + i - -	51-3
+512	ProtoAztecan	i h i	i h i - - - - -	51-3
+513	TetelcingoNahuatl	o n + i	- - o n + i - -	51-3
+514	ClassicalNahuatl	o n + iː	- - o n + iː - -	51-4
+515	JalupaNahuat	x i + k	- x i - + k - -	51-4
+516	MecayapanNahuat	o n + i + a	- - o n + i + a	51-4
+517	NorthPueblaNahuatl	o n + i	- - o n + i - -	51-4
+518	PajapanNahuat	o n + i	- - o n + i - -	51-4
+519	Pipil	u n + i	- - u n + i - -	51-4
+520	Pochutec	t e m + i	- t e m + i - -	51-4
+521	ProtoAztecan	i h i	i h i - - - - -	51-4
+522	TetelcingoNahuatl	o n + i	- - o n + i - -	51-4
+523	ClassicalNahuatl	o n + iː	- - o n + iː - -	51-5
+524	JalupaNahuat	x i + k	- x i - + k - -	51-5
+525	MecayapanNahuat	o n + i + a	- - o n + i + a	51-5
+526	NorthPueblaNahuatl	o n + i	- - o n + i - -	51-5
+527	PajapanNahuat	o n + i	- - o n + i - -	51-5
+528	Pipil	u n + i	- - u n + i - -	51-5
+529	Pochutec	t e m + i	- t e m + i - -	51-5
+530	ProtoAztecan	i h i	i h i - - - - -	51-5
+531	TetelcingoNahuatl	o n + i	- - o n + i - -	51-5
+532	ClassicalNahuatl	o n + iː	- - o n + iː - -	51-6
+533	JalupaNahuat	x i + k	- x i - + k - -	51-6
+534	MecayapanNahuat	o n + i + a	- - o n + i + a	51-6
+535	NorthPueblaNahuatl	o n + i	- - o n + i - -	51-6
+536	PajapanNahuat	o n + i	- - o n + i - -	51-6
+537	Pipil	u n + i	- - u n + i - -	51-6
+538	Pochutec	t e m + i	- t e m + i - -	51-6
+539	ProtoAztecan	i h i	i h i - - - - -	51-6
+540	TetelcingoNahuatl	o n + i	- - o n + i - -	51-6
+541	ClassicalNahuatl	o n + iː	- - o n + iː - -	51-7
+542	JalupaNahuat	x i + k	- x i - + k - -	51-7
+543	MecayapanNahuat	o n + i + a	- - o n + i + a	51-7
+544	NorthPueblaNahuatl	o n + i	- - o n + i - -	51-7
+545	PajapanNahuat	o n + i	- - o n + i - -	51-7
+546	Pipil	u n + i	- - u n + i - -	51-7
+547	Pochutec	t e m + i	- t e m + i - -	51-7
+548	ProtoAztecan	i h i	i h i - - - - -	51-7
+549	TetelcingoNahuatl	o n + i	- - o n + i - -	51-7
+550	ClassicalNahuatl	o n + iː	- - o n + iː - -	51-8
+551	JalupaNahuat	x i + k	- x i - + k - -	51-8
+552	MecayapanNahuat	o n + i + a	- - o n + i + a	51-8
+553	NorthPueblaNahuatl	o n + i	- - o n + i - -	51-8
+554	PajapanNahuat	o n + i	- - o n + i - -	51-8
+555	Pipil	u n + i	- - u n + i - -	51-8
+556	Pochutec	t e m + i	- t e m + i - -	51-8
+557	ProtoAztecan	i h i	i h i - - - - -	51-8
+558	TetelcingoNahuatl	o n + i	- - o n + i - -	51-8
+559	ClassicalNahuatl	o n + iː	- - o n + iː - -	51-9
+560	JalupaNahuat	x i + k	- x i - + k - -	51-9
+561	MecayapanNahuat	o n + i + a	- - o n + i + a	51-9
+562	NorthPueblaNahuatl	o n + i	- - o n + i - -	51-9
+563	PajapanNahuat	o n + i	- - o n + i - -	51-9
+564	Pipil	u n + i	- - u n + i - -	51-9
+565	Pochutec	t e m + i	- t e m + i - -	51-9
+566	ProtoAztecan	i h i	i h i - - - - -	51-9
+567	TetelcingoNahuatl	o n + i	- - o n + i - -	51-9
+568	ClassicalNahuatl	w aː k + k i	w aː k + k i -	52-1
+569	JalupaNahuat	w a k + t u k	w a k + t u k	52-1
+570	MecayapanNahuat	w aː k + t o ʔ	w aː k + t o ʔ	52-1
+571	NorthPueblaNahuatl	w a h + k i	w a h + k i -	52-1
+572	PajapanNahuat	w aː k + t o k	w aː k + t o k	52-1
+573	Pipil	w aː k + t u k	w aː k + t u k	52-1
+574	Pochutec	w a k	w a k - - - -	52-1
+575	ProtoAztecan	w aː k	w aː k - - - -	52-1
+576	TetelcingoNahuatl	w a h + k iː	w a h + k iː -	52-1
+577	ClassicalNahuatl	w aː k + k i	w aː k + k i -	52-2
+578	JalupaNahuat	w a k + t u k	w a k + t u k	52-2
+579	MecayapanNahuat	w aː k + t o ʔ	w aː k + t o ʔ	52-2
+580	NorthPueblaNahuatl	w a h + k i	w a h + k i -	52-2
+581	PajapanNahuat	w aː k + t o k	w aː k + t o k	52-2
+582	Pipil	w aː k + t u k	w aː k + t u k	52-2
+583	Pochutec	w a k	w a k - - - -	52-2
+584	ProtoAztecan	w aː k	w aː k - - - -	52-2
+585	TetelcingoNahuatl	w a h + k iː	w a h + k iː -	52-2
+586	ClassicalNahuatl	w aː k + k i	w aː k + k i -	52-3
+587	JalupaNahuat	w a k + t u k	w a k + t u k	52-3
+588	MecayapanNahuat	w aː k + t o ʔ	w aː k + t o ʔ	52-3
+589	NorthPueblaNahuatl	w a h + k i	w a h + k i -	52-3
+590	PajapanNahuat	w aː k + t o k	w aː k + t o k	52-3
+591	Pipil	w aː k + t u k	w aː k + t u k	52-3
+592	Pochutec	w a k	w a k - - - -	52-3
+593	ProtoAztecan	w aː k	w aː k - - - -	52-3
+594	TetelcingoNahuatl	w a h + k iː	w a h + k iː -	52-3
+595	ClassicalNahuatl	w aː k + k i	w aː k + k i -	52-4
+596	JalupaNahuat	w a k + t u k	w a k + t u k	52-4
+597	MecayapanNahuat	w aː k + t o ʔ	w aː k + t o ʔ	52-4
+598	NorthPueblaNahuatl	w a h + k i	w a h + k i -	52-4
+599	PajapanNahuat	w aː k + t o k	w aː k + t o k	52-4
+600	Pipil	w aː k + t u k	w aː k + t u k	52-4
+601	Pochutec	w a k	w a k - - - -	52-4
+602	ProtoAztecan	w aː k	w aː k - - - -	52-4
+603	TetelcingoNahuatl	w a h + k iː	w a h + k iː -	52-4
+604	ClassicalNahuatl	w aː k + k i	w aː k + k i -	52-5
+605	JalupaNahuat	w a k + t u k	w a k + t u k	52-5
+606	MecayapanNahuat	w aː k + t o ʔ	w aː k + t o ʔ	52-5
+607	NorthPueblaNahuatl	w a h + k i	w a h + k i -	52-5
+608	PajapanNahuat	w aː k + t o k	w aː k + t o k	52-5
+609	Pipil	w aː k + t u k	w aː k + t u k	52-5
+610	Pochutec	w a k	w a k - - - -	52-5
+611	ProtoAztecan	w aː k	w aː k - - - -	52-5
+612	TetelcingoNahuatl	w a h + k iː	w a h + k iː -	52-5
+613	ClassicalNahuatl	w aː k + k i	w aː k + k i -	52-6
+614	JalupaNahuat	w a k + t u k	w a k + t u k	52-6
+615	MecayapanNahuat	w aː k + t o ʔ	w aː k + t o ʔ	52-6
+616	NorthPueblaNahuatl	w a h + k i	w a h + k i -	52-6
+617	PajapanNahuat	w aː k + t o k	w aː k + t o k	52-6
+618	Pipil	w aː k + t u k	w aː k + t u k	52-6
+619	Pochutec	w a k	w a k - - - -	52-6
+620	ProtoAztecan	w aː k	w aː k - - - -	52-6
+621	TetelcingoNahuatl	w a h + k iː	w a h + k iː -	52-6
+622	ClassicalNahuatl	w aː k + k i	w aː k + k i -	52-7
+623	JalupaNahuat	w a k + t u k	w a k + t u k	52-7
+624	MecayapanNahuat	w aː k + t o ʔ	w aː k + t o ʔ	52-7
+625	NorthPueblaNahuatl	w a h + k i	w a h + k i -	52-7
+626	PajapanNahuat	w aː k + t o k	w aː k + t o k	52-7
+627	Pipil	w aː k + t u k	w aː k + t u k	52-7
+628	Pochutec	w a k	w a k - - - -	52-7
+629	ProtoAztecan	w aː k	w aː k - - - -	52-7
+630	TetelcingoNahuatl	w a h + k iː	w a h + k iː -	52-7
+631	ClassicalNahuatl	w aː k + k i	w aː k + k i -	52-8
+632	JalupaNahuat	w a k + t u k	w a k + t u k	52-8
+633	MecayapanNahuat	w aː k + t o ʔ	w aː k + t o ʔ	52-8
+634	NorthPueblaNahuatl	w a h + k i	w a h + k i -	52-8
+635	PajapanNahuat	w aː k + t o k	w aː k + t o k	52-8
+636	Pipil	w aː k + t u k	w aː k + t u k	52-8
+637	Pochutec	w a k	w a k - - - -	52-8
+638	ProtoAztecan	w aː k	w aː k - - - -	52-8
+639	TetelcingoNahuatl	w a h + k iː	w a h + k iː -	52-8
+640	ClassicalNahuatl	w aː k + k i	w aː k + k i -	52-9
+641	JalupaNahuat	w a k + t u k	w a k + t u k	52-9
+642	MecayapanNahuat	w aː k + t o ʔ	w aː k + t o ʔ	52-9
+643	NorthPueblaNahuatl	w a h + k i	w a h + k i -	52-9
+644	PajapanNahuat	w aː k + t o k	w aː k + t o k	52-9
+645	Pipil	w aː k + t u k	w aː k + t u k	52-9
+646	Pochutec	w a k	w a k - - - -	52-9
+647	ProtoAztecan	w aː k	w aː k - - - -	52-9
+648	TetelcingoNahuatl	w a h + k iː	w a h + k iː -	52-9
+649	ClassicalNahuatl	n a k a s + tɬ i	n a k a s + tɬ i	53-1
+650	JalupaNahuat	n a k a s	n a k a s - - -	53-1
+651	MecayapanNahuat	n a k a s	n a k a s - - -	53-1
+652	NorthPueblaNahuatl	n a k a s	n a k a s - - -	53-1
+653	PajapanNahuat	n a g a s	n a g a s - - -	53-1
+654	Pipil	n a k a s	n a k a s - - -	53-1
+655	Pochutec	n e k e s + t	n e k e s + t -	53-1
+656	ProtoAztecan	n a k a s + tɬ ɨ	n a k a s + tɬ ɨ	53-1
+657	TetelcingoNahuatl	n a k a s	n a k a s - - -	53-1
+658	ClassicalNahuatl	n a k a s + tɬ i	n a k a s + tɬ i	53-2
+659	JalupaNahuat	n a k a s	n a k a s - - -	53-2
+660	MecayapanNahuat	n a k a s	n a k a s - - -	53-2
+661	NorthPueblaNahuatl	n a k a s	n a k a s - - -	53-2
+662	PajapanNahuat	n a g a s	n a g a s - - -	53-2
+663	Pipil	n a k a s	n a k a s - - -	53-2
+664	Pochutec	n e k e s + t	n e k e s + t -	53-2
+665	ProtoAztecan	n a k a s + tɬ ɨ	n a k a s + tɬ ɨ	53-2
+666	TetelcingoNahuatl	n a k a s	n a k a s - - -	53-2
+667	ClassicalNahuatl	n a k a s + tɬ i	n a k a s + tɬ i	53-3
+668	JalupaNahuat	n a k a s	n a k a s - - -	53-3
+669	MecayapanNahuat	n a k a s	n a k a s - - -	53-3
+670	NorthPueblaNahuatl	n a k a s	n a k a s - - -	53-3
+671	PajapanNahuat	n a g a s	n a g a s - - -	53-3
+672	Pipil	n a k a s	n a k a s - - -	53-3
+673	Pochutec	n e k e s + t	n e k e s + t -	53-3
+674	ProtoAztecan	n a k a s + tɬ ɨ	n a k a s + tɬ ɨ	53-3
+675	TetelcingoNahuatl	n a k a s	n a k a s - - -	53-3
+676	ClassicalNahuatl	n a k a s + tɬ i	n a k a s + tɬ i	53-4
+677	JalupaNahuat	n a k a s	n a k a s - - -	53-4
+678	MecayapanNahuat	n a k a s	n a k a s - - -	53-4
+679	NorthPueblaNahuatl	n a k a s	n a k a s - - -	53-4
+680	PajapanNahuat	n a g a s	n a g a s - - -	53-4
+681	Pipil	n a k a s	n a k a s - - -	53-4
+682	Pochutec	n e k e s + t	n e k e s + t -	53-4
+683	ProtoAztecan	n a k a s + tɬ ɨ	n a k a s + tɬ ɨ	53-4
+684	TetelcingoNahuatl	n a k a s	n a k a s - - -	53-4
+685	ClassicalNahuatl	n a k a s + tɬ i	n a k a s + tɬ i	53-5
+686	JalupaNahuat	n a k a s	n a k a s - - -	53-5
+687	MecayapanNahuat	n a k a s	n a k a s - - -	53-5
+688	NorthPueblaNahuatl	n a k a s	n a k a s - - -	53-5
+689	PajapanNahuat	n a g a s	n a g a s - - -	53-5
+690	Pipil	n a k a s	n a k a s - - -	53-5
+691	Pochutec	n e k e s + t	n e k e s + t -	53-5
+692	ProtoAztecan	n a k a s + tɬ ɨ	n a k a s + tɬ ɨ	53-5
+693	TetelcingoNahuatl	n a k a s	n a k a s - - -	53-5
+694	ClassicalNahuatl	n a k a s + tɬ i	n a k a s + tɬ i	53-6
+695	JalupaNahuat	n a k a s	n a k a s - - -	53-6
+696	MecayapanNahuat	n a k a s	n a k a s - - -	53-6
+697	NorthPueblaNahuatl	n a k a s	n a k a s - - -	53-6
+698	PajapanNahuat	n a g a s	n a g a s - - -	53-6
+699	Pipil	n a k a s	n a k a s - - -	53-6
+700	Pochutec	n e k e s + t	n e k e s + t -	53-6
+701	ProtoAztecan	n a k a s + tɬ ɨ	n a k a s + tɬ ɨ	53-6
+702	TetelcingoNahuatl	n a k a s	n a k a s - - -	53-6
+703	ClassicalNahuatl	n a k a s + tɬ i	n a k a s + tɬ i	53-7
+704	JalupaNahuat	n a k a s	n a k a s - - -	53-7
+705	MecayapanNahuat	n a k a s	n a k a s - - -	53-7
+706	NorthPueblaNahuatl	n a k a s	n a k a s - - -	53-7
+707	PajapanNahuat	n a g a s	n a g a s - - -	53-7
+708	Pipil	n a k a s	n a k a s - - -	53-7
+709	Pochutec	n e k e s + t	n e k e s + t -	53-7
+710	ProtoAztecan	n a k a s + tɬ ɨ	n a k a s + tɬ ɨ	53-7
+711	TetelcingoNahuatl	n a k a s	n a k a s - - -	53-7
+712	ClassicalNahuatl	n a k a s + tɬ i	n a k a s + tɬ i	53-8
+713	JalupaNahuat	n a k a s	n a k a s - - -	53-8
+714	MecayapanNahuat	n a k a s	n a k a s - - -	53-8
+715	NorthPueblaNahuatl	n a k a s	n a k a s - - -	53-8
+716	PajapanNahuat	n a g a s	n a g a s - - -	53-8
+717	Pipil	n a k a s	n a k a s - - -	53-8
+718	Pochutec	n e k e s + t	n e k e s + t -	53-8
+719	ProtoAztecan	n a k a s + tɬ ɨ	n a k a s + tɬ ɨ	53-8
+720	TetelcingoNahuatl	n a k a s	n a k a s - - -	53-8
+721	ClassicalNahuatl	n a k a s + tɬ i	n a k a s + tɬ i	53-9
+722	JalupaNahuat	n a k a s	n a k a s - - -	53-9
+723	MecayapanNahuat	n a k a s	n a k a s - - -	53-9
+724	NorthPueblaNahuatl	n a k a s	n a k a s - - -	53-9
+725	PajapanNahuat	n a g a s	n a g a s - - -	53-9
+726	Pipil	n a k a s	n a k a s - - -	53-9
+727	Pochutec	n e k e s + t	n e k e s + t -	53-9
+728	ProtoAztecan	n a k a s + tɬ ɨ	n a k a s + tɬ ɨ	53-9
+729	TetelcingoNahuatl	n a k a s	n a k a s - - -	53-9
+730	ClassicalNahuatl	tɬ aː l + l i	tɬ aː - l - + l i	54-1
+731	JalupaNahuat	t a h l i	t a h l i - - -	54-1
+732	MecayapanNahuat	t aː h l i	t aː h l i - - -	54-1
+733	NorthPueblaNahuatl	tɬ a l i	tɬ a - l i - - -	54-1
+734	PajapanNahuat	t aː h l i	t aː h l i - - -	54-1
+735	Pipil	t aː l	t aː - l - - - -	54-1
+736	Pochutec	t a l	t a - l - - - -	54-1
+737	ProtoAztecan	tɬ aː l + l ɨ	tɬ aː - l - + l ɨ	54-1
+738	TetelcingoNahuatl	tɬ ø l iː	tɬ ø - l iː - - -	54-1
+739	ClassicalNahuatl	tɬ aː l + l i	tɬ aː - l - + l i	54-2
+740	JalupaNahuat	t a h l i	t a h l i - - -	54-2
+741	MecayapanNahuat	t aː h l i	t aː h l i - - -	54-2
+742	NorthPueblaNahuatl	tɬ a l i	tɬ a - l i - - -	54-2
+743	PajapanNahuat	t aː h l i	t aː h l i - - -	54-2
+744	Pipil	t aː l	t aː - l - - - -	54-2
+745	Pochutec	t a l	t a - l - - - -	54-2
+746	ProtoAztecan	tɬ aː l + l ɨ	tɬ aː - l - + l ɨ	54-2
+747	TetelcingoNahuatl	tɬ ø l iː	tɬ ø - l iː - - -	54-2
+748	ClassicalNahuatl	tɬ aː l + l i	tɬ aː - l - + l i	54-3
+749	JalupaNahuat	t a h l i	t a h l i - - -	54-3
+750	MecayapanNahuat	t aː h l i	t aː h l i - - -	54-3
+751	NorthPueblaNahuatl	tɬ a l i	tɬ a - l i - - -	54-3
+752	PajapanNahuat	t aː h l i	t aː h l i - - -	54-3
+753	Pipil	t aː l	t aː - l - - - -	54-3
+754	Pochutec	t a l	t a - l - - - -	54-3
+755	ProtoAztecan	tɬ aː l + l ɨ	tɬ aː - l - + l ɨ	54-3
+756	TetelcingoNahuatl	tɬ ø l iː	tɬ ø - l iː - - -	54-3
+757	ClassicalNahuatl	tɬ aː l + l i	tɬ aː - l - + l i	54-4
+758	JalupaNahuat	t a h l i	t a h l i - - -	54-4
+759	MecayapanNahuat	t aː h l i	t aː h l i - - -	54-4
+760	NorthPueblaNahuatl	tɬ a l i	tɬ a - l i - - -	54-4
+761	PajapanNahuat	t aː h l i	t aː h l i - - -	54-4
+762	Pipil	t aː l	t aː - l - - - -	54-4
+763	Pochutec	t a l	t a - l - - - -	54-4
+764	ProtoAztecan	tɬ aː l + l ɨ	tɬ aː - l - + l ɨ	54-4
+765	TetelcingoNahuatl	tɬ ø l iː	tɬ ø - l iː - - -	54-4
+766	ClassicalNahuatl	tɬ aː l + l i	tɬ aː - l - + l i	54-5
+767	JalupaNahuat	t a h l i	t a h l i - - -	54-5
+768	MecayapanNahuat	t aː h l i	t aː h l i - - -	54-5
+769	NorthPueblaNahuatl	tɬ a l i	tɬ a - l i - - -	54-5
+770	PajapanNahuat	t aː h l i	t aː h l i - - -	54-5
+771	Pipil	t aː l	t aː - l - - - -	54-5
+772	Pochutec	t a l	t a - l - - - -	54-5
+773	ProtoAztecan	tɬ aː l + l ɨ	tɬ aː - l - + l ɨ	54-5
+774	TetelcingoNahuatl	tɬ ø l iː	tɬ ø - l iː - - -	54-5
+775	ClassicalNahuatl	tɬ aː l + l i	tɬ aː - l - + l i	54-6
+776	JalupaNahuat	t a h l i	t a h l i - - -	54-6
+777	MecayapanNahuat	t aː h l i	t aː h l i - - -	54-6
+778	NorthPueblaNahuatl	tɬ a l i	tɬ a - l i - - -	54-6
+779	PajapanNahuat	t aː h l i	t aː h l i - - -	54-6
+780	Pipil	t aː l	t aː - l - - - -	54-6
+781	Pochutec	t a l	t a - l - - - -	54-6
+782	ProtoAztecan	tɬ aː l + l ɨ	tɬ aː - l - + l ɨ	54-6
+783	TetelcingoNahuatl	tɬ ø l iː	tɬ ø - l iː - - -	54-6
+784	ClassicalNahuatl	tɬ aː l + l i	tɬ aː - l - + l i	54-7
+785	JalupaNahuat	t a h l i	t a h l i - - -	54-7
+786	MecayapanNahuat	t aː h l i	t aː h l i - - -	54-7
+787	NorthPueblaNahuatl	tɬ a l i	tɬ a - l i - - -	54-7
+788	PajapanNahuat	t aː h l i	t aː h l i - - -	54-7
+789	Pipil	t aː l	t aː - l - - - -	54-7
+790	Pochutec	t a l	t a - l - - - -	54-7
+791	ProtoAztecan	tɬ aː l + l ɨ	tɬ aː - l - + l ɨ	54-7
+792	TetelcingoNahuatl	tɬ ø l iː	tɬ ø - l iː - - -	54-7
+793	ClassicalNahuatl	tɬ aː l + l i	tɬ aː - l - + l i	54-8
+794	JalupaNahuat	t a h l i	t a h l i - - -	54-8
+795	MecayapanNahuat	t aː h l i	t aː h l i - - -	54-8
+796	NorthPueblaNahuatl	tɬ a l i	tɬ a - l i - - -	54-8
+797	PajapanNahuat	t aː h l i	t aː h l i - - -	54-8
+798	Pipil	t aː l	t aː - l - - - -	54-8
+799	Pochutec	t a l	t a - l - - - -	54-8
+800	ProtoAztecan	tɬ aː l + l ɨ	tɬ aː - l - + l ɨ	54-8
+801	TetelcingoNahuatl	tɬ ø l iː	tɬ ø - l iː - - -	54-8
+802	ClassicalNahuatl	tɬ aː l + l i	tɬ aː - l - + l i	54-9
+803	JalupaNahuat	t a h l i	t a h l i - - -	54-9
+804	MecayapanNahuat	t aː h l i	t aː h l i - - -	54-9
+805	NorthPueblaNahuatl	tɬ a l i	tɬ a - l i - - -	54-9
+806	PajapanNahuat	t aː h l i	t aː h l i - - -	54-9
+807	Pipil	t aː l	t aː - l - - - -	54-9
+808	Pochutec	t a l	t a - l - - - -	54-9
+809	ProtoAztecan	tɬ aː l + l ɨ	tɬ aː - l - + l ɨ	54-9
+810	TetelcingoNahuatl	tɬ ø l iː	tɬ ø - l iː - - -	54-9
+811	ClassicalNahuatl	k w aː	k w aː - - -	55-1
+812	JalupaNahuat	b w aː	b w aː - - -	55-1
+813	MecayapanNahuat	k w a	k w a - - -	55-1
+814	NorthPueblaNahuatl	k w a	k w a - - -	55-1
+815	PajapanNahuat	b aː	b - aː - - -	55-1
+816	Pipil	k w a	k w a - - -	55-1
+817	Pochutec	k w a	k w a - - -	55-1
+818	ProtoAztecan	k w a + h aː	k w a + h aː	55-1
+819	TetelcingoNahuatl	k w a	k w a - - -	55-1
+820	ClassicalNahuatl	k w aː	k w aː - - -	55-2
+821	JalupaNahuat	b w aː	b w aː - - -	55-2
+822	MecayapanNahuat	k w a	k w a - - -	55-2
+823	NorthPueblaNahuatl	k w a	k w a - - -	55-2
+824	PajapanNahuat	b aː	b - aː - - -	55-2
+825	Pipil	k w a	k w a - - -	55-2
+826	Pochutec	k w a	k w a - - -	55-2
+827	ProtoAztecan	k w a + h aː	k w a + h aː	55-2
+828	TetelcingoNahuatl	k w a	k w a - - -	55-2
+829	ClassicalNahuatl	k w aː	k w aː - - -	55-3
+830	JalupaNahuat	b w aː	b w aː - - -	55-3
+831	MecayapanNahuat	k w a	k w a - - -	55-3
+832	NorthPueblaNahuatl	k w a	k w a - - -	55-3
+833	PajapanNahuat	b aː	b - aː - - -	55-3
+834	Pipil	k w a	k w a - - -	55-3
+835	Pochutec	k w a	k w a - - -	55-3
+836	ProtoAztecan	k w a + h aː	k w a + h aː	55-3
+837	TetelcingoNahuatl	k w a	k w a - - -	55-3
+838	ClassicalNahuatl	k w aː	k w aː - - -	55-4
+839	JalupaNahuat	b w aː	b w aː - - -	55-4
+840	MecayapanNahuat	k w a	k w a - - -	55-4
+841	NorthPueblaNahuatl	k w a	k w a - - -	55-4
+842	PajapanNahuat	b aː	b - aː - - -	55-4
+843	Pipil	k w a	k w a - - -	55-4
+844	Pochutec	k w a	k w a - - -	55-4
+845	ProtoAztecan	k w a + h aː	k w a + h aː	55-4
+846	TetelcingoNahuatl	k w a	k w a - - -	55-4
+847	ClassicalNahuatl	k w aː	k w aː - - -	55-5
+848	JalupaNahuat	b w aː	b w aː - - -	55-5
+849	MecayapanNahuat	k w a	k w a - - -	55-5
+850	NorthPueblaNahuatl	k w a	k w a - - -	55-5
+851	PajapanNahuat	b aː	b - aː - - -	55-5
+852	Pipil	k w a	k w a - - -	55-5
+853	Pochutec	k w a	k w a - - -	55-5
+854	ProtoAztecan	k w a + h aː	k w a + h aː	55-5
+855	TetelcingoNahuatl	k w a	k w a - - -	55-5
+856	ClassicalNahuatl	k w aː	k w aː - - -	55-6
+857	JalupaNahuat	b w aː	b w aː - - -	55-6
+858	MecayapanNahuat	k w a	k w a - - -	55-6
+859	NorthPueblaNahuatl	k w a	k w a - - -	55-6
+860	PajapanNahuat	b aː	b - aː - - -	55-6
+861	Pipil	k w a	k w a - - -	55-6
+862	Pochutec	k w a	k w a - - -	55-6
+863	ProtoAztecan	k w a + h aː	k w a + h aː	55-6
+864	TetelcingoNahuatl	k w a	k w a - - -	55-6
+865	ClassicalNahuatl	k w aː	k w aː - - -	55-7
+866	JalupaNahuat	b w aː	b w aː - - -	55-7
+867	MecayapanNahuat	k w a	k w a - - -	55-7
+868	NorthPueblaNahuatl	k w a	k w a - - -	55-7
+869	PajapanNahuat	b aː	b - aː - - -	55-7
+870	Pipil	k w a	k w a - - -	55-7
+871	Pochutec	k w a	k w a - - -	55-7
+872	ProtoAztecan	k w a + h aː	k w a + h aː	55-7
+873	TetelcingoNahuatl	k w a	k w a - - -	55-7
+874	ClassicalNahuatl	k w aː	k w aː - - -	55-8
+875	JalupaNahuat	b w aː	b w aː - - -	55-8
+876	MecayapanNahuat	k w a	k w a - - -	55-8
+877	NorthPueblaNahuatl	k w a	k w a - - -	55-8
+878	PajapanNahuat	b aː	b - aː - - -	55-8
+879	Pipil	k w a	k w a - - -	55-8
+880	Pochutec	k w a	k w a - - -	55-8
+881	ProtoAztecan	k w a + h aː	k w a + h aː	55-8
+882	TetelcingoNahuatl	k w a	k w a - - -	55-8
+883	ClassicalNahuatl	k w aː	k w aː - - -	55-9
+884	JalupaNahuat	b w aː	b w aː - - -	55-9
+885	MecayapanNahuat	k w a	k w a - - -	55-9
+886	NorthPueblaNahuatl	k w a	k w a - - -	55-9
+887	PajapanNahuat	b aː	b - aː - - -	55-9
+888	Pipil	k w a	k w a - - -	55-9
+889	Pochutec	k w a	k w a - - -	55-9
+890	ProtoAztecan	k w a + h aː	k w a + h aː	55-9
+891	TetelcingoNahuatl	k w a	k w a - - -	55-9
+892	ClassicalNahuatl	iː x + t e l o l o ʔ	iː x + t e l o l o ʔ - -	60-1
+893	JalupaNahuat	iː x	iː x - - - - - - - - - -	60-1
+894	MecayapanNahuat	iː x	iː x - - - - - - - - - -	60-1
+895	NorthPueblaNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-1
+896	PajapanNahuat	iː x + t o l o l o	iː x + t o l o l o - - -	60-1
+897	Pipil	iː x	iː x - - - - - - - - - -	60-1
+898	Pochutec	i x + t o t o l u + t	i x + t o t o l u - + t	60-1
+899	ProtoAztecan	iː x	iː x - - - - - - - - - -	60-1
+900	TetelcingoNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-1
+901	ClassicalNahuatl	iː x + t e l o l o ʔ	iː x + t e l o l o ʔ - -	60-2
+902	JalupaNahuat	iː x	iː x - - - - - - - - - -	60-2
+903	MecayapanNahuat	iː x	iː x - - - - - - - - - -	60-2
+904	NorthPueblaNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-2
+905	PajapanNahuat	iː x + t o l o l o	iː x + t o l o l o - - -	60-2
+906	Pipil	iː x	iː x - - - - - - - - - -	60-2
+907	Pochutec	i x + t o t o l u + t	i x + t o t o l u - + t	60-2
+908	ProtoAztecan	iː x	iː x - - - - - - - - - -	60-2
+909	TetelcingoNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-2
+910	ClassicalNahuatl	iː x + t e l o l o ʔ	iː x + t e l o l o ʔ - -	60-3
+911	JalupaNahuat	iː x	iː x - - - - - - - - - -	60-3
+912	MecayapanNahuat	iː x	iː x - - - - - - - - - -	60-3
+913	NorthPueblaNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-3
+914	PajapanNahuat	iː x + t o l o l o	iː x + t o l o l o - - -	60-3
+915	Pipil	iː x	iː x - - - - - - - - - -	60-3
+916	Pochutec	i x + t o t o l u + t	i x + t o t o l u - + t	60-3
+917	ProtoAztecan	iː x	iː x - - - - - - - - - -	60-3
+918	TetelcingoNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-3
+919	ClassicalNahuatl	iː x + t e l o l o ʔ	iː x + t e l o l o ʔ - -	60-4
+920	JalupaNahuat	iː x	iː x - - - - - - - - - -	60-4
+921	MecayapanNahuat	iː x	iː x - - - - - - - - - -	60-4
+922	NorthPueblaNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-4
+923	PajapanNahuat	iː x + t o l o l o	iː x + t o l o l o - - -	60-4
+924	Pipil	iː x	iː x - - - - - - - - - -	60-4
+925	Pochutec	i x + t o t o l u + t	i x + t o t o l u - + t	60-4
+926	ProtoAztecan	iː x	iː x - - - - - - - - - -	60-4
+927	TetelcingoNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-4
+928	ClassicalNahuatl	iː x + t e l o l o ʔ	iː x + t e l o l o ʔ - -	60-5
+929	JalupaNahuat	iː x	iː x - - - - - - - - - -	60-5
+930	MecayapanNahuat	iː x	iː x - - - - - - - - - -	60-5
+931	NorthPueblaNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-5
+932	PajapanNahuat	iː x + t o l o l o	iː x + t o l o l o - - -	60-5
+933	Pipil	iː x	iː x - - - - - - - - - -	60-5
+934	Pochutec	i x + t o t o l u + t	i x + t o t o l u - + t	60-5
+935	ProtoAztecan	iː x	iː x - - - - - - - - - -	60-5
+936	TetelcingoNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-5
+937	ClassicalNahuatl	iː x + t e l o l o ʔ	iː x + t e l o l o ʔ - -	60-6
+938	JalupaNahuat	iː x	iː x - - - - - - - - - -	60-6
+939	MecayapanNahuat	iː x	iː x - - - - - - - - - -	60-6
+940	NorthPueblaNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-6
+941	PajapanNahuat	iː x + t o l o l o	iː x + t o l o l o - - -	60-6
+942	Pipil	iː x	iː x - - - - - - - - - -	60-6
+943	Pochutec	i x + t o t o l u + t	i x + t o t o l u - + t	60-6
+944	ProtoAztecan	iː x	iː x - - - - - - - - - -	60-6
+945	TetelcingoNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-6
+946	ClassicalNahuatl	iː x + t e l o l o ʔ	iː x + t e l o l o ʔ - -	60-7
+947	JalupaNahuat	iː x	iː x - - - - - - - - - -	60-7
+948	MecayapanNahuat	iː x	iː x - - - - - - - - - -	60-7
+949	NorthPueblaNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-7
+950	PajapanNahuat	iː x + t o l o l o	iː x + t o l o l o - - -	60-7
+951	Pipil	iː x	iː x - - - - - - - - - -	60-7
+952	Pochutec	i x + t o t o l u + t	i x + t o t o l u - + t	60-7
+953	ProtoAztecan	iː x	iː x - - - - - - - - - -	60-7
+954	TetelcingoNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-7
+955	ClassicalNahuatl	iː x + t e l o l o ʔ	iː x + t e l o l o ʔ - -	60-8
+956	JalupaNahuat	iː x	iː x - - - - - - - - - -	60-8
+957	MecayapanNahuat	iː x	iː x - - - - - - - - - -	60-8
+958	NorthPueblaNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-8
+959	PajapanNahuat	iː x + t o l o l o	iː x + t o l o l o - - -	60-8
+960	Pipil	iː x	iː x - - - - - - - - - -	60-8
+961	Pochutec	i x + t o t o l u + t	i x + t o t o l u - + t	60-8
+962	ProtoAztecan	iː x	iː x - - - - - - - - - -	60-8
+963	TetelcingoNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-8
+964	ClassicalNahuatl	iː x + t e l o l o ʔ	iː x + t e l o l o ʔ - -	60-9
+965	JalupaNahuat	iː x	iː x - - - - - - - - - -	60-9
+966	MecayapanNahuat	iː x	iː x - - - - - - - - - -	60-9
+967	NorthPueblaNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-9
+968	PajapanNahuat	iː x + t o l o l o	iː x + t o l o l o - - -	60-9
+969	Pipil	iː x	iː x - - - - - - - - - -	60-9
+970	Pochutec	i x + t o t o l u + t	i x + t o t o l u - + t	60-9
+971	ProtoAztecan	iː x	iː x - - - - - - - - - -	60-9
+972	TetelcingoNahuatl	i x + t e l o l o	i x + t e l o l o - - -	60-9

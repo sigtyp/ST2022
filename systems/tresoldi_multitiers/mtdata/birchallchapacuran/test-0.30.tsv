@@ -1,0 +1,4025 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	cojubim	w a z a	w a z a -	1-1
+2	kitemoka	w a j a	w a j a -	1-1
+3	more	w a ʒ̟ a	w a ʒ̟ a -	1-1
+4	orowin	w a t a ʔ	w a t a ʔ	1-1
+5	tapakura	w a j a	w a j a -	1-1
+6	tora	w a z a	w a z a -	1-1
+7	urupa	w a t a	w a t a -	1-1
+8	wanyam	w a t a ʔ	w a t a ʔ	1-1
+9	wari	w a t a ʔ	w a t a ʔ	1-1
+10	cojubim	w a z a	w a z a -	1-3
+11	kitemoka	w a j a	w a j a -	1-3
+12	more	w a ʒ̟ a	w a ʒ̟ a -	1-3
+13	orowin	w a t a ʔ	w a t a ʔ	1-3
+14	tapakura	w a j a	w a j a -	1-3
+15	tora	w a z a	w a z a -	1-3
+16	urupa	w a t a	w a t a -	1-3
+17	wanyam	w a t a ʔ	w a t a ʔ	1-3
+18	wari	w a t a ʔ	w a t a ʔ	1-3
+19	cojubim	w a z a	w a z a -	1-4
+20	kitemoka	w a j a	w a j a -	1-4
+21	more	w a ʒ̟ a	w a ʒ̟ a -	1-4
+22	orowin	w a t a ʔ	w a t a ʔ	1-4
+23	tapakura	w a j a	w a j a -	1-4
+24	tora	w a z a	w a z a -	1-4
+25	urupa	w a t a	w a t a -	1-4
+26	wanyam	w a t a ʔ	w a t a ʔ	1-4
+27	wari	w a t a ʔ	w a t a ʔ	1-4
+28	cojubim	w a z a	w a z a -	1-5
+29	kitemoka	w a j a	w a j a -	1-5
+30	more	w a ʒ̟ a	w a ʒ̟ a -	1-5
+31	orowin	w a t a ʔ	w a t a ʔ	1-5
+32	tapakura	w a j a	w a j a -	1-5
+33	tora	w a z a	w a z a -	1-5
+34	urupa	w a t a	w a t a -	1-5
+35	wanyam	w a t a ʔ	w a t a ʔ	1-5
+36	wari	w a t a ʔ	w a t a ʔ	1-5
+37	cojubim	w a z a	w a z a -	1-6
+38	kitemoka	w a j a	w a j a -	1-6
+39	more	w a ʒ̟ a	w a ʒ̟ a -	1-6
+40	orowin	w a t a ʔ	w a t a ʔ	1-6
+41	tapakura	w a j a	w a j a -	1-6
+42	tora	w a z a	w a z a -	1-6
+43	urupa	w a t a	w a t a -	1-6
+44	wanyam	w a t a ʔ	w a t a ʔ	1-6
+45	wari	w a t a ʔ	w a t a ʔ	1-6
+46	cojubim	w a z a	w a z a -	1-7
+47	kitemoka	w a j a	w a j a -	1-7
+48	more	w a ʒ̟ a	w a ʒ̟ a -	1-7
+49	orowin	w a t a ʔ	w a t a ʔ	1-7
+50	tapakura	w a j a	w a j a -	1-7
+51	tora	w a z a	w a z a -	1-7
+52	urupa	w a t a	w a t a -	1-7
+53	wanyam	w a t a ʔ	w a t a ʔ	1-7
+54	wari	w a t a ʔ	w a t a ʔ	1-7
+55	cojubim	w a z a	w a z a -	1-8
+56	kitemoka	w a j a	w a j a -	1-8
+57	more	w a ʒ̟ a	w a ʒ̟ a -	1-8
+58	orowin	w a t a ʔ	w a t a ʔ	1-8
+59	tapakura	w a j a	w a j a -	1-8
+60	tora	w a z a	w a z a -	1-8
+61	urupa	w a t a	w a t a -	1-8
+62	wanyam	w a t a ʔ	w a t a ʔ	1-8
+63	wari	w a t a ʔ	w a t a ʔ	1-8
+64	cojubim	w a z a	w a z a -	1-9
+65	kitemoka	w a j a	w a j a -	1-9
+66	more	w a ʒ̟ a	w a ʒ̟ a -	1-9
+67	orowin	w a t a ʔ	w a t a ʔ	1-9
+68	tapakura	w a j a	w a j a -	1-9
+69	tora	w a z a	w a z a -	1-9
+70	urupa	w a t a	w a t a -	1-9
+71	wanyam	w a t a ʔ	w a t a ʔ	1-9
+72	wari	w a t a ʔ	w a t a ʔ	1-9
+73	cojubim	u m	- - u - m - -	2-1
+74	kitemoka	a h u m	a h u - m - -	2-1
+75	more	m o m r a	- m o - m r a	2-1
+76	orowin	w y m	- w y - m - -	2-1
+77	tapakura	a w i m o	a w i - m - o	2-1
+78	tora	w e b m	- w e b m - -	2-1
+79	urupa	v i m	- v i - m - -	2-1
+80	wanyam	i m	- - i - m - -	2-1
+81	wari	w u m	- w u - m - -	2-1
+82	cojubim	u m	- - u - m - -	2-3
+83	kitemoka	a h u m	a h u - m - -	2-3
+84	more	m o m r a	- m o - m r a	2-3
+85	orowin	w y m	- w y - m - -	2-3
+86	tapakura	a w i m o	a w i - m - o	2-3
+87	tora	w e b m	- w e b m - -	2-3
+88	urupa	v i m	- v i - m - -	2-3
+89	wanyam	i m	- - i - m - -	2-3
+90	wari	w u m	- w u - m - -	2-3
+91	cojubim	u m	- - u - m - -	2-4
+92	kitemoka	a h u m	a h u - m - -	2-4
+93	more	m o m r a	- m o - m r a	2-4
+94	orowin	w y m	- w y - m - -	2-4
+95	tapakura	a w i m o	a w i - m - o	2-4
+96	tora	w e b m	- w e b m - -	2-4
+97	urupa	v i m	- v i - m - -	2-4
+98	wanyam	i m	- - i - m - -	2-4
+99	wari	w u m	- w u - m - -	2-4
+100	cojubim	u m	- - u - m - -	2-5
+101	kitemoka	a h u m	a h u - m - -	2-5
+102	more	m o m r a	- m o - m r a	2-5
+103	orowin	w y m	- w y - m - -	2-5
+104	tapakura	a w i m o	a w i - m - o	2-5
+105	tora	w e b m	- w e b m - -	2-5
+106	urupa	v i m	- v i - m - -	2-5
+107	wanyam	i m	- - i - m - -	2-5
+108	wari	w u m	- w u - m - -	2-5
+109	cojubim	u m	- - u - m - -	2-6
+110	kitemoka	a h u m	a h u - m - -	2-6
+111	more	m o m r a	- m o - m r a	2-6
+112	orowin	w y m	- w y - m - -	2-6
+113	tapakura	a w i m o	a w i - m - o	2-6
+114	tora	w e b m	- w e b m - -	2-6
+115	urupa	v i m	- v i - m - -	2-6
+116	wanyam	i m	- - i - m - -	2-6
+117	wari	w u m	- w u - m - -	2-6
+118	cojubim	u m	- - u - m - -	2-7
+119	kitemoka	a h u m	a h u - m - -	2-7
+120	more	m o m r a	- m o - m r a	2-7
+121	orowin	w y m	- w y - m - -	2-7
+122	tapakura	a w i m o	a w i - m - o	2-7
+123	tora	w e b m	- w e b m - -	2-7
+124	urupa	v i m	- v i - m - -	2-7
+125	wanyam	i m	- - i - m - -	2-7
+126	wari	w u m	- w u - m - -	2-7
+127	cojubim	u m	- - u - m - -	2-8
+128	kitemoka	a h u m	a h u - m - -	2-8
+129	more	m o m r a	- m o - m r a	2-8
+130	orowin	w y m	- w y - m - -	2-8
+131	tapakura	a w i m o	a w i - m - o	2-8
+132	tora	w e b m	- w e b m - -	2-8
+133	urupa	v i m	- v i - m - -	2-8
+134	wanyam	i m	- - i - m - -	2-8
+135	wari	w u m	- w u - m - -	2-8
+136	cojubim	u m	- - u - m - -	2-9
+137	kitemoka	a h u m	a h u - m - -	2-9
+138	more	m o m r a	- m o - m r a	2-9
+139	orowin	w y m	- w y - m - -	2-9
+140	tapakura	a w i m o	a w i - m - o	2-9
+141	tora	w e b m	- w e b m - -	2-9
+142	urupa	v i m	- v i - m - -	2-9
+143	wanyam	i m	- - i - m - -	2-9
+144	wari	w u m	- w u - m - -	2-9
+145	kitemoka	a r i k o	- a r i k - o - -	3-3
+146	more	k o r a r i	k o r a r - i - -	3-3
+147	orowin	w o r i k o	w o r i k - o - -	3-3
+148	tapakura	a r i k a h u	- a r i k - a h u	3-3
+149	tora	w a r i k o	w a r i k - o - -	3-3
+150	urupa	o k a i n	- o k a - - i n -	3-3
+151	wanyam	a r u k w a n	- a r u k w a n -	3-3
+152	wari	w i r i k o	w i r i k - o - -	3-3
+153	kitemoka	a r i k o	- a r i k - o - -	3-4
+154	more	k o r a r i	k o r a r - i - -	3-4
+155	orowin	w o r i k o	w o r i k - o - -	3-4
+156	tapakura	a r i k a h u	- a r i k - a h u	3-4
+157	tora	w a r i k o	w a r i k - o - -	3-4
+158	urupa	o k a i n	- o k a - - i n -	3-4
+159	wanyam	a r u k w a n	- a r u k w a n -	3-4
+160	wari	w i r i k o	w i r i k - o - -	3-4
+161	kitemoka	a r i k o	- a r i k - o - -	3-5
+162	more	k o r a r i	k o r a r - i - -	3-5
+163	orowin	w o r i k o	w o r i k - o - -	3-5
+164	tapakura	a r i k a h u	- a r i k - a h u	3-5
+165	tora	w a r i k o	w a r i k - o - -	3-5
+166	urupa	o k a i n	- o k a - - i n -	3-5
+167	wanyam	a r u k w a n	- a r u k w a n -	3-5
+168	wari	w i r i k o	w i r i k - o - -	3-5
+169	kitemoka	a r i k o	- a r i k - o - -	3-6
+170	more	k o r a r i	k o r a r - i - -	3-6
+171	orowin	w o r i k o	w o r i k - o - -	3-6
+172	tapakura	a r i k a h u	- a r i k - a h u	3-6
+173	tora	w a r i k o	w a r i k - o - -	3-6
+174	urupa	o k a i n	- o k a - - i n -	3-6
+175	wanyam	a r u k w a n	- a r u k w a n -	3-6
+176	wari	w i r i k o	w i r i k - o - -	3-6
+177	kitemoka	a r i k o	- a r i k - o - -	3-7
+178	more	k o r a r i	k o r a r - i - -	3-7
+179	orowin	w o r i k o	w o r i k - o - -	3-7
+180	tapakura	a r i k a h u	- a r i k - a h u	3-7
+181	tora	w a r i k o	w a r i k - o - -	3-7
+182	urupa	o k a i n	- o k a - - i n -	3-7
+183	wanyam	a r u k w a n	- a r u k w a n -	3-7
+184	wari	w i r i k o	w i r i k - o - -	3-7
+185	kitemoka	a r i k o	- a r i k - o - -	3-8
+186	more	k o r a r i	k o r a r - i - -	3-8
+187	orowin	w o r i k o	w o r i k - o - -	3-8
+188	tapakura	a r i k a h u	- a r i k - a h u	3-8
+189	tora	w a r i k o	w a r i k - o - -	3-8
+190	urupa	o k a i n	- o k a - - i n -	3-8
+191	wanyam	a r u k w a n	- a r u k w a n -	3-8
+192	wari	w i r i k o	w i r i k - o - -	3-8
+193	kitemoka	a r i k o	- a r i k - o - -	3-9
+194	more	k o r a r i	k o r a r - i - -	3-9
+195	orowin	w o r i k o	w o r i k - o - -	3-9
+196	tapakura	a r i k a h u	- a r i k - a h u	3-9
+197	tora	w a r i k o	w a r i k - o - -	3-9
+198	urupa	o k a i n	- o k a - - i n -	3-9
+199	wanyam	a r u k w a n	- a r u k w a n -	3-9
+200	wari	w i r i k o	w i r i k - o - -	3-9
+201	kitemoka	w a tʃ e	w a tʃ e - -	4-3
+202	more	w a t i ʔ	w a t i ʔ -	4-3
+203	orowin	w a r i ʔ	w a r i ʔ -	4-3
+204	tapakura	w a j a h u	w a j a h u	4-3
+205	tora	w a z a t i	w a z a t i	4-3
+206	urupa	w a r i	w a r i - -	4-3
+207	wanyam	w a r i	w a r i - -	4-3
+208	wari	w a r i ʔ	w a r i ʔ -	4-3
+209	kitemoka	w a tʃ e	w a tʃ e - -	4-4
+210	more	w a t i ʔ	w a t i ʔ -	4-4
+211	orowin	w a r i ʔ	w a r i ʔ -	4-4
+212	tapakura	w a j a h u	w a j a h u	4-4
+213	tora	w a z a t i	w a z a t i	4-4
+214	urupa	w a r i	w a r i - -	4-4
+215	wanyam	w a r i	w a r i - -	4-4
+216	wari	w a r i ʔ	w a r i ʔ -	4-4
+217	kitemoka	w a tʃ e	w a tʃ e - -	4-5
+218	more	w a t i ʔ	w a t i ʔ -	4-5
+219	orowin	w a r i ʔ	w a r i ʔ -	4-5
+220	tapakura	w a j a h u	w a j a h u	4-5
+221	tora	w a z a t i	w a z a t i	4-5
+222	urupa	w a r i	w a r i - -	4-5
+223	wanyam	w a r i	w a r i - -	4-5
+224	wari	w a r i ʔ	w a r i ʔ -	4-5
+225	kitemoka	w a tʃ e	w a tʃ e - -	4-6
+226	more	w a t i ʔ	w a t i ʔ -	4-6
+227	orowin	w a r i ʔ	w a r i ʔ -	4-6
+228	tapakura	w a j a h u	w a j a h u	4-6
+229	tora	w a z a t i	w a z a t i	4-6
+230	urupa	w a r i	w a r i - -	4-6
+231	wanyam	w a r i	w a r i - -	4-6
+232	wari	w a r i ʔ	w a r i ʔ -	4-6
+233	kitemoka	w a tʃ e	w a tʃ e - -	4-7
+234	more	w a t i ʔ	w a t i ʔ -	4-7
+235	orowin	w a r i ʔ	w a r i ʔ -	4-7
+236	tapakura	w a j a h u	w a j a h u	4-7
+237	tora	w a z a t i	w a z a t i	4-7
+238	urupa	w a r i	w a r i - -	4-7
+239	wanyam	w a r i	w a r i - -	4-7
+240	wari	w a r i ʔ	w a r i ʔ -	4-7
+241	kitemoka	w a tʃ e	w a tʃ e - -	4-8
+242	more	w a t i ʔ	w a t i ʔ -	4-8
+243	orowin	w a r i ʔ	w a r i ʔ -	4-8
+244	tapakura	w a j a h u	w a j a h u	4-8
+245	tora	w a z a t i	w a z a t i	4-8
+246	urupa	w a r i	w a r i - -	4-8
+247	wanyam	w a r i	w a r i - -	4-8
+248	wari	w a r i ʔ	w a r i ʔ -	4-8
+249	kitemoka	w a tʃ e	w a tʃ e - -	4-9
+250	more	w a t i ʔ	w a t i ʔ -	4-9
+251	orowin	w a r i ʔ	w a r i ʔ -	4-9
+252	tapakura	w a j a h u	w a j a h u	4-9
+253	tora	w a z a t i	w a z a t i	4-9
+254	urupa	w a r i	w a r i - -	4-9
+255	wanyam	w a r i	w a r i - -	4-9
+256	wari	w a r i ʔ	w a r i ʔ -	4-9
+257	cojubim	w a z a	w a z a -	1-10
+258	kitemoka	w a j a	w a j a -	1-10
+259	more	w a ʒ̟ a	w a ʒ̟ a -	1-10
+260	orowin	w a t a ʔ	w a t a ʔ	1-10
+261	tapakura	w a j a	w a j a -	1-10
+262	tora	w a z a	w a z a -	1-10
+263	urupa	w a t a	w a t a -	1-10
+264	wanyam	w a t a ʔ	w a t a ʔ	1-10
+265	wari	w a t a ʔ	w a t a ʔ	1-10
+266	cojubim	u m	- - u - m - -	2-10
+267	kitemoka	a h u m	a h u - m - -	2-10
+268	more	m o m r a	- m o - m r a	2-10
+269	orowin	w y m	- w y - m - -	2-10
+270	tapakura	a w i m o	a w i - m - o	2-10
+271	tora	w e b m	- w e b m - -	2-10
+272	urupa	v i m	- v i - m - -	2-10
+273	wanyam	i m	- - i - m - -	2-10
+274	wari	w u m	- w u - m - -	2-10
+275	cojubim	t a n	- - - - t a - n	21-1
+276	more	t a n	- - - - t a - n	21-1
+277	orowin	k a w a s a n	k a w a s a - n	21-1
+278	tapakura	t a n	- - - - t a - n	21-1
+279	tora	k w a t a d n	k - w a t a d n	21-1
+280	wanyam	k a w a tʃ y k	k a w a tʃ y - k	21-1
+281	cojubim	t a n	- - - - t a - n	21-4
+282	more	t a n	- - - - t a - n	21-4
+283	orowin	k a w a s a n	k a w a s a - n	21-4
+284	tapakura	t a n	- - - - t a - n	21-4
+285	tora	k w a t a d n	k - w a t a d n	21-4
+286	wanyam	k a w a tʃ y k	k a w a tʃ y - k	21-4
+287	cojubim	t a n	- - - - t a - n	21-5
+288	more	t a n	- - - - t a - n	21-5
+289	orowin	k a w a s a n	k a w a s a - n	21-5
+290	tapakura	t a n	- - - - t a - n	21-5
+291	tora	k w a t a d n	k - w a t a d n	21-5
+292	wanyam	k a w a tʃ y k	k a w a tʃ y - k	21-5
+293	cojubim	t a n	- - - - t a - n	21-6
+294	more	t a n	- - - - t a - n	21-6
+295	orowin	k a w a s a n	k a w a s a - n	21-6
+296	tapakura	t a n	- - - - t a - n	21-6
+297	tora	k w a t a d n	k - w a t a d n	21-6
+298	wanyam	k a w a tʃ y k	k a w a tʃ y - k	21-6
+299	cojubim	t a n	- - - - t a - n	21-7
+300	more	t a n	- - - - t a - n	21-7
+301	orowin	k a w a s a n	k a w a s a - n	21-7
+302	tapakura	t a n	- - - - t a - n	21-7
+303	tora	k w a t a d n	k - w a t a d n	21-7
+304	wanyam	k a w a tʃ y k	k a w a tʃ y - k	21-7
+305	cojubim	t a n	- - - - t a - n	21-9
+306	more	t a n	- - - - t a - n	21-9
+307	orowin	k a w a s a n	k a w a s a - n	21-9
+308	tapakura	t a n	- - - - t a - n	21-9
+309	tora	k w a t a d n	k - w a t a d n	21-9
+310	wanyam	k a w a tʃ y k	k a w a tʃ y - k	21-9
+311	cojubim	w a k o r a n	w a k o r - - - - a n	24-1
+312	more	p o k o r a n	p o k o r - - - - a n	24-1
+313	tapakura	w a g a r a g a t a n	w a g a r a g a t a n	24-1
+314	tora	k u r a d n	- - k u r a d - - - n	24-1
+315	wanyam	k a r i k a n	- - k a r i k - - a n	24-1
+316	wari	t y k y	- - - - t y k - - y -	24-1
+317	cojubim	w a k o r a n	w a k o r - - - - a n	24-4
+318	more	p o k o r a n	p o k o r - - - - a n	24-4
+319	tapakura	w a g a r a g a t a n	w a g a r a g a t a n	24-4
+320	tora	k u r a d n	- - k u r a d - - - n	24-4
+321	wanyam	k a r i k a n	- - k a r i k - - a n	24-4
+322	wari	t y k y	- - - - t y k - - y -	24-4
+323	cojubim	w a k o r a n	w a k o r - - - - a n	24-6
+324	more	p o k o r a n	p o k o r - - - - a n	24-6
+325	tapakura	w a g a r a g a t a n	w a g a r a g a t a n	24-6
+326	tora	k u r a d n	- - k u r a d - - - n	24-6
+327	wanyam	k a r i k a n	- - k a r i k - - a n	24-6
+328	wari	t y k y	- - - - t y k - - y -	24-6
+329	cojubim	w a k o r a n	w a k o r - - - - a n	24-7
+330	more	p o k o r a n	p o k o r - - - - a n	24-7
+331	tapakura	w a g a r a g a t a n	w a g a r a g a t a n	24-7
+332	tora	k u r a d n	- - k u r a d - - - n	24-7
+333	wanyam	k a r i k a n	- - k a r i k - - a n	24-7
+334	wari	t y k y	- - - - t y k - - y -	24-7
+335	cojubim	w a k o r a n	w a k o r - - - - a n	24-9
+336	more	p o k o r a n	p o k o r - - - - a n	24-9
+337	tapakura	w a g a r a g a t a n	w a g a r a g a t a n	24-9
+338	tora	k u r a d n	- - k u r a d - - - n	24-9
+339	wanyam	k a r i k a n	- - k a r i k - - a n	24-9
+340	wari	t y k y	- - - - t y k - - y -	24-9
+341	kitemoka	a r i k o	- a r i k - o - -	3-10
+342	more	k o r a r i	k o r a r - i - -	3-10
+343	orowin	w o r i k o	w o r i k - o - -	3-10
+344	tapakura	a r i k a h u	- a r i k - a h u	3-10
+345	tora	w a r i k o	w a r i k - o - -	3-10
+346	urupa	o k a i n	- o k a - - i n -	3-10
+347	wanyam	a r u k w a n	- a r u k w a n -	3-10
+348	wari	w i r i k o	w i r i k - o - -	3-10
+349	kitemoka	w a tʃ e	w a tʃ e - -	4-10
+350	more	w a t i ʔ	w a t i ʔ -	4-10
+351	orowin	w a r i ʔ	w a r i ʔ -	4-10
+352	tapakura	w a j a h u	w a j a h u	4-10
+353	tora	w a z a t i	w a z a t i	4-10
+354	urupa	w a r i	w a r i - -	4-10
+355	wanyam	w a r i	w a r i - -	4-10
+356	wari	w a r i ʔ	w a r i ʔ -	4-10
+357	cojubim	u w e ʔ	u w e ʔ	51-1
+358	jaru	u w e	u w e -	51-1
+359	more	u w e ʔ	u w e ʔ	51-1
+360	orowin	y w e	y w e -	51-1
+361	tora	i w i	i w i -	51-1
+362	urupa	i v e	i v e -	51-1
+363	wanyam	e w i ʔ	e w i ʔ	51-1
+364	wari	w e	- w e -	51-1
+365	cojubim	u w e ʔ	u w e ʔ	51-2
+366	jaru	u w e	u w e -	51-2
+367	more	u w e ʔ	u w e ʔ	51-2
+368	orowin	y w e	y w e -	51-2
+369	tora	i w i	i w i -	51-2
+370	urupa	i v e	i v e -	51-2
+371	wanyam	e w i ʔ	e w i ʔ	51-2
+372	wari	w e	- w e -	51-2
+373	cojubim	u w e ʔ	u w e ʔ	51-4
+374	jaru	u w e	u w e -	51-4
+375	more	u w e ʔ	u w e ʔ	51-4
+376	orowin	y w e	y w e -	51-4
+377	tora	i w i	i w i -	51-4
+378	urupa	i v e	i v e -	51-4
+379	wanyam	e w i ʔ	e w i ʔ	51-4
+380	wari	w e	- w e -	51-4
+381	cojubim	u w e ʔ	u w e ʔ	51-5
+382	jaru	u w e	u w e -	51-5
+383	more	u w e ʔ	u w e ʔ	51-5
+384	orowin	y w e	y w e -	51-5
+385	tora	i w i	i w i -	51-5
+386	urupa	i v e	i v e -	51-5
+387	wanyam	e w i ʔ	e w i ʔ	51-5
+388	wari	w e	- w e -	51-5
+389	cojubim	u w e ʔ	u w e ʔ	51-7
+390	jaru	u w e	u w e -	51-7
+391	more	u w e ʔ	u w e ʔ	51-7
+392	orowin	y w e	y w e -	51-7
+393	tora	i w i	i w i -	51-7
+394	urupa	i v e	i v e -	51-7
+395	wanyam	e w i ʔ	e w i ʔ	51-7
+396	wari	w e	- w e -	51-7
+397	cojubim	u w e ʔ	u w e ʔ	51-8
+398	jaru	u w e	u w e -	51-8
+399	more	u w e ʔ	u w e ʔ	51-8
+400	orowin	y w e	y w e -	51-8
+401	tora	i w i	i w i -	51-8
+402	urupa	i v e	i v e -	51-8
+403	wanyam	e w i ʔ	e w i ʔ	51-8
+404	wari	w e	- w e -	51-8
+405	cojubim	u w e ʔ	u w e ʔ	51-9
+406	jaru	u w e	u w e -	51-9
+407	more	u w e ʔ	u w e ʔ	51-9
+408	orowin	y w e	y w e -	51-9
+409	tora	i w i	i w i -	51-9
+410	urupa	i v e	i v e -	51-9
+411	wanyam	e w i ʔ	e w i ʔ	51-9
+412	wari	w e	- w e -	51-9
+413	cojubim	i t e	- i t - e -	52-1
+414	jaru	e t e	- e t - e -	52-1
+415	kitemoka	t a t i a	t a t i a -	52-1
+416	more	i t e	- i t - e -	52-1
+417	orowin	i t e ʔ	- i t - e ʔ	52-1
+418	tapakura	t i a	t i - - a -	52-1
+419	tora	i t e	- i t - e -	52-1
+420	urupa	e t e	- e t - e -	52-1
+421	wanyam	t a t a	t a t - a -	52-1
+422	wari	t e	t e - - - -	52-1
+423	cojubim	i t e	- i t - e -	52-2
+424	jaru	e t e	- e t - e -	52-2
+425	kitemoka	t a t i a	t a t i a -	52-2
+426	more	i t e	- i t - e -	52-2
+427	orowin	i t e ʔ	- i t - e ʔ	52-2
+428	tapakura	t i a	t i - - a -	52-2
+429	tora	i t e	- i t - e -	52-2
+430	urupa	e t e	- e t - e -	52-2
+431	wanyam	t a t a	t a t - a -	52-2
+432	wari	t e	t e - - - -	52-2
+433	cojubim	i t e	- i t - e -	52-3
+434	jaru	e t e	- e t - e -	52-3
+435	kitemoka	t a t i a	t a t i a -	52-3
+436	more	i t e	- i t - e -	52-3
+437	orowin	i t e ʔ	- i t - e ʔ	52-3
+438	tapakura	t i a	t i - - a -	52-3
+439	tora	i t e	- i t - e -	52-3
+440	urupa	e t e	- e t - e -	52-3
+441	wanyam	t a t a	t a t - a -	52-3
+442	wari	t e	t e - - - -	52-3
+443	cojubim	i t e	- i t - e -	52-4
+444	jaru	e t e	- e t - e -	52-4
+445	kitemoka	t a t i a	t a t i a -	52-4
+446	more	i t e	- i t - e -	52-4
+447	orowin	i t e ʔ	- i t - e ʔ	52-4
+448	tapakura	t i a	t i - - a -	52-4
+449	tora	i t e	- i t - e -	52-4
+450	urupa	e t e	- e t - e -	52-4
+451	wanyam	t a t a	t a t - a -	52-4
+452	wari	t e	t e - - - -	52-4
+453	cojubim	i t e	- i t - e -	52-5
+454	jaru	e t e	- e t - e -	52-5
+455	kitemoka	t a t i a	t a t i a -	52-5
+456	more	i t e	- i t - e -	52-5
+457	orowin	i t e ʔ	- i t - e ʔ	52-5
+458	tapakura	t i a	t i - - a -	52-5
+459	tora	i t e	- i t - e -	52-5
+460	urupa	e t e	- e t - e -	52-5
+461	wanyam	t a t a	t a t - a -	52-5
+462	wari	t e	t e - - - -	52-5
+463	cojubim	i t e	- i t - e -	52-6
+464	jaru	e t e	- e t - e -	52-6
+465	kitemoka	t a t i a	t a t i a -	52-6
+466	more	i t e	- i t - e -	52-6
+467	orowin	i t e ʔ	- i t - e ʔ	52-6
+468	tapakura	t i a	t i - - a -	52-6
+469	tora	i t e	- i t - e -	52-6
+470	urupa	e t e	- e t - e -	52-6
+471	wanyam	t a t a	t a t - a -	52-6
+472	wari	t e	t e - - - -	52-6
+473	cojubim	i t e	- i t - e -	52-7
+474	jaru	e t e	- e t - e -	52-7
+475	kitemoka	t a t i a	t a t i a -	52-7
+476	more	i t e	- i t - e -	52-7
+477	orowin	i t e ʔ	- i t - e ʔ	52-7
+478	tapakura	t i a	t i - - a -	52-7
+479	tora	i t e	- i t - e -	52-7
+480	urupa	e t e	- e t - e -	52-7
+481	wanyam	t a t a	t a t - a -	52-7
+482	wari	t e	t e - - - -	52-7
+483	cojubim	i t e	- i t - e -	52-8
+484	jaru	e t e	- e t - e -	52-8
+485	kitemoka	t a t i a	t a t i a -	52-8
+486	more	i t e	- i t - e -	52-8
+487	orowin	i t e ʔ	- i t - e ʔ	52-8
+488	tapakura	t i a	t i - - a -	52-8
+489	tora	i t e	- i t - e -	52-8
+490	urupa	e t e	- e t - e -	52-8
+491	wanyam	t a t a	t a t - a -	52-8
+492	wari	t e	t e - - - -	52-8
+493	cojubim	i t e	- i t - e -	52-9
+494	jaru	e t e	- e t - e -	52-9
+495	kitemoka	t a t i a	t a t i a -	52-9
+496	more	i t e	- i t - e -	52-9
+497	orowin	i t e ʔ	- i t - e ʔ	52-9
+498	tapakura	t i a	t i - - a -	52-9
+499	tora	i t e	- i t - e -	52-9
+500	urupa	e t e	- e t - e -	52-9
+501	wanyam	t a t a	t a t - a -	52-9
+502	wari	t e	t e - - - -	52-9
+503	jaru	i h a m ʔ	i h - - a m ʔ	55-2
+504	kitemoka	i h a m	i h - - a m -	55-2
+505	orowin	i f a m	i f - - a m -	55-2
+506	tapakura	i h u a m	i h - u a m -	55-2
+507	tora	h o a m	- h - o a m -	55-2
+508	urupa	i h a m	i h - - a m -	55-2
+509	wanyam	i h a m	i h - - a m -	55-2
+510	wari	h w a m	- h w a - m -	55-2
+511	jaru	i h a m ʔ	i h - - a m ʔ	55-3
+512	kitemoka	i h a m	i h - - a m -	55-3
+513	orowin	i f a m	i f - - a m -	55-3
+514	tapakura	i h u a m	i h - u a m -	55-3
+515	tora	h o a m	- h - o a m -	55-3
+516	urupa	i h a m	i h - - a m -	55-3
+517	wanyam	i h a m	i h - - a m -	55-3
+518	wari	h w a m	- h w a - m -	55-3
+519	jaru	i h a m ʔ	i h - - a m ʔ	55-5
+520	kitemoka	i h a m	i h - - a m -	55-5
+521	orowin	i f a m	i f - - a m -	55-5
+522	tapakura	i h u a m	i h - u a m -	55-5
+523	tora	h o a m	- h - o a m -	55-5
+524	urupa	i h a m	i h - - a m -	55-5
+525	wanyam	i h a m	i h - - a m -	55-5
+526	wari	h w a m	- h w a - m -	55-5
+527	jaru	i h a m ʔ	i h - - a m ʔ	55-6
+528	kitemoka	i h a m	i h - - a m -	55-6
+529	orowin	i f a m	i f - - a m -	55-6
+530	tapakura	i h u a m	i h - u a m -	55-6
+531	tora	h o a m	- h - o a m -	55-6
+532	urupa	i h a m	i h - - a m -	55-6
+533	wanyam	i h a m	i h - - a m -	55-6
+534	wari	h w a m	- h w a - m -	55-6
+535	jaru	i h a m ʔ	i h - - a m ʔ	55-7
+536	kitemoka	i h a m	i h - - a m -	55-7
+537	orowin	i f a m	i f - - a m -	55-7
+538	tapakura	i h u a m	i h - u a m -	55-7
+539	tora	h o a m	- h - o a m -	55-7
+540	urupa	i h a m	i h - - a m -	55-7
+541	wanyam	i h a m	i h - - a m -	55-7
+542	wari	h w a m	- h w a - m -	55-7
+543	jaru	i h a m ʔ	i h - - a m ʔ	55-8
+544	kitemoka	i h a m	i h - - a m -	55-8
+545	orowin	i f a m	i f - - a m -	55-8
+546	tapakura	i h u a m	i h - u a m -	55-8
+547	tora	h o a m	- h - o a m -	55-8
+548	urupa	i h a m	i h - - a m -	55-8
+549	wanyam	i h a m	i h - - a m -	55-8
+550	wari	h w a m	- h w a - m -	55-8
+551	jaru	i h a m ʔ	i h - - a m ʔ	55-9
+552	kitemoka	i h a m	i h - - a m -	55-9
+553	orowin	i f a m	i f - - a m -	55-9
+554	tapakura	i h u a m	i h - u a m -	55-9
+555	tora	h o a m	- h - o a m -	55-9
+556	urupa	i h a m	i h - - a m -	55-9
+557	wanyam	i h a m	i h - - a m -	55-9
+558	wari	h w a m	- h w a - m -	55-9
+559	cojubim	u m e	- u m e -	56-1
+560	jaru	u m e	- u m e -	56-1
+561	kitemoka	h u m e	h u m e -	56-1
+562	more	u m e	- u m e -	56-1
+563	orowin	y m e	- y m e -	56-1
+564	tapakura	i m e	- i m e -	56-1
+565	tora	u m a	- u m a -	56-1
+566	urupa	u m e	- u m e -	56-1
+567	wanyam	i m e ʔ	- i m e ʔ	56-1
+568	wari	m e	- - m e -	56-1
+569	cojubim	u m e	- u m e -	56-2
+570	jaru	u m e	- u m e -	56-2
+571	kitemoka	h u m e	h u m e -	56-2
+572	more	u m e	- u m e -	56-2
+573	orowin	y m e	- y m e -	56-2
+574	tapakura	i m e	- i m e -	56-2
+575	tora	u m a	- u m a -	56-2
+576	urupa	u m e	- u m e -	56-2
+577	wanyam	i m e ʔ	- i m e ʔ	56-2
+578	wari	m e	- - m e -	56-2
+579	cojubim	u m e	- u m e -	56-3
+580	jaru	u m e	- u m e -	56-3
+581	kitemoka	h u m e	h u m e -	56-3
+582	more	u m e	- u m e -	56-3
+583	orowin	y m e	- y m e -	56-3
+584	tapakura	i m e	- i m e -	56-3
+585	tora	u m a	- u m a -	56-3
+586	urupa	u m e	- u m e -	56-3
+587	wanyam	i m e ʔ	- i m e ʔ	56-3
+588	wari	m e	- - m e -	56-3
+589	cojubim	u m e	- u m e -	56-4
+590	jaru	u m e	- u m e -	56-4
+591	kitemoka	h u m e	h u m e -	56-4
+592	more	u m e	- u m e -	56-4
+593	orowin	y m e	- y m e -	56-4
+594	tapakura	i m e	- i m e -	56-4
+595	tora	u m a	- u m a -	56-4
+596	urupa	u m e	- u m e -	56-4
+597	wanyam	i m e ʔ	- i m e ʔ	56-4
+598	wari	m e	- - m e -	56-4
+599	cojubim	u m e	- u m e -	56-5
+600	jaru	u m e	- u m e -	56-5
+601	kitemoka	h u m e	h u m e -	56-5
+602	more	u m e	- u m e -	56-5
+603	orowin	y m e	- y m e -	56-5
+604	tapakura	i m e	- i m e -	56-5
+605	tora	u m a	- u m a -	56-5
+606	urupa	u m e	- u m e -	56-5
+607	wanyam	i m e ʔ	- i m e ʔ	56-5
+608	wari	m e	- - m e -	56-5
+609	cojubim	u m e	- u m e -	56-6
+610	jaru	u m e	- u m e -	56-6
+611	kitemoka	h u m e	h u m e -	56-6
+612	more	u m e	- u m e -	56-6
+613	orowin	y m e	- y m e -	56-6
+614	tapakura	i m e	- i m e -	56-6
+615	tora	u m a	- u m a -	56-6
+616	urupa	u m e	- u m e -	56-6
+617	wanyam	i m e ʔ	- i m e ʔ	56-6
+618	wari	m e	- - m e -	56-6
+619	cojubim	u m e	- u m e -	56-7
+620	jaru	u m e	- u m e -	56-7
+621	kitemoka	h u m e	h u m e -	56-7
+622	more	u m e	- u m e -	56-7
+623	orowin	y m e	- y m e -	56-7
+624	tapakura	i m e	- i m e -	56-7
+625	tora	u m a	- u m a -	56-7
+626	urupa	u m e	- u m e -	56-7
+627	wanyam	i m e ʔ	- i m e ʔ	56-7
+628	wari	m e	- - m e -	56-7
+629	cojubim	u m e	- u m e -	56-8
+630	jaru	u m e	- u m e -	56-8
+631	kitemoka	h u m e	h u m e -	56-8
+632	more	u m e	- u m e -	56-8
+633	orowin	y m e	- y m e -	56-8
+634	tapakura	i m e	- i m e -	56-8
+635	tora	u m a	- u m a -	56-8
+636	urupa	u m e	- u m e -	56-8
+637	wanyam	i m e ʔ	- i m e ʔ	56-8
+638	wari	m e	- - m e -	56-8
+639	cojubim	u m e	- u m e -	56-9
+640	jaru	u m e	- u m e -	56-9
+641	kitemoka	h u m e	h u m e -	56-9
+642	more	u m e	- u m e -	56-9
+643	orowin	y m e	- y m e -	56-9
+644	tapakura	i m e	- i m e -	56-9
+645	tora	u m a	- u m a -	56-9
+646	urupa	u m e	- u m e -	56-9
+647	wanyam	i m e ʔ	- i m e ʔ	56-9
+648	wari	m e	- - m e -	56-9
+649	cojubim	i w	i w - - -	65-1
+650	kitemoka	a h i h i	a h i h i	65-1
+651	more	i w	i w - - -	65-1
+652	orowin	i w i s i	i w i s i	65-1
+653	tapakura	a w i	a w - - i	65-1
+654	tora	i w	i w - - -	65-1
+655	urupa	i w	i w - - -	65-1
+656	wanyam	i w i	i w - - i	65-1
+657	wari	i w ʔ	i w - ʔ -	65-1
+658	cojubim	i w	i w - - -	65-3
+659	kitemoka	a h i h i	a h i h i	65-3
+660	more	i w	i w - - -	65-3
+661	orowin	i w i s i	i w i s i	65-3
+662	tapakura	a w i	a w - - i	65-3
+663	tora	i w	i w - - -	65-3
+664	urupa	i w	i w - - -	65-3
+665	wanyam	i w i	i w - - i	65-3
+666	wari	i w ʔ	i w - ʔ -	65-3
+667	cojubim	i w	i w - - -	65-4
+668	kitemoka	a h i h i	a h i h i	65-4
+669	more	i w	i w - - -	65-4
+670	orowin	i w i s i	i w i s i	65-4
+671	tapakura	a w i	a w - - i	65-4
+672	tora	i w	i w - - -	65-4
+673	urupa	i w	i w - - -	65-4
+674	wanyam	i w i	i w - - i	65-4
+675	wari	i w ʔ	i w - ʔ -	65-4
+676	cojubim	i w	i w - - -	65-5
+677	kitemoka	a h i h i	a h i h i	65-5
+678	more	i w	i w - - -	65-5
+679	orowin	i w i s i	i w i s i	65-5
+680	tapakura	a w i	a w - - i	65-5
+681	tora	i w	i w - - -	65-5
+682	urupa	i w	i w - - -	65-5
+683	wanyam	i w i	i w - - i	65-5
+684	wari	i w ʔ	i w - ʔ -	65-5
+685	cojubim	i w	i w - - -	65-6
+686	kitemoka	a h i h i	a h i h i	65-6
+687	more	i w	i w - - -	65-6
+688	orowin	i w i s i	i w i s i	65-6
+689	tapakura	a w i	a w - - i	65-6
+690	tora	i w	i w - - -	65-6
+691	urupa	i w	i w - - -	65-6
+692	wanyam	i w i	i w - - i	65-6
+693	wari	i w ʔ	i w - ʔ -	65-6
+694	cojubim	i w	i w - - -	65-7
+695	kitemoka	a h i h i	a h i h i	65-7
+696	more	i w	i w - - -	65-7
+697	orowin	i w i s i	i w i s i	65-7
+698	tapakura	a w i	a w - - i	65-7
+699	tora	i w	i w - - -	65-7
+700	urupa	i w	i w - - -	65-7
+701	wanyam	i w i	i w - - i	65-7
+702	wari	i w ʔ	i w - ʔ -	65-7
+703	cojubim	i w	i w - - -	65-8
+704	kitemoka	a h i h i	a h i h i	65-8
+705	more	i w	i w - - -	65-8
+706	orowin	i w i s i	i w i s i	65-8
+707	tapakura	a w i	a w - - i	65-8
+708	tora	i w	i w - - -	65-8
+709	urupa	i w	i w - - -	65-8
+710	wanyam	i w i	i w - - i	65-8
+711	wari	i w ʔ	i w - ʔ -	65-8
+712	cojubim	i w	i w - - -	65-9
+713	kitemoka	a h i h i	a h i h i	65-9
+714	more	i w	i w - - -	65-9
+715	orowin	i w i s i	i w i s i	65-9
+716	tapakura	a w i	a w - - i	65-9
+717	tora	i w	i w - - -	65-9
+718	urupa	i w	i w - - -	65-9
+719	wanyam	i w i	i w - - i	65-9
+720	wari	i w ʔ	i w - ʔ -	65-9
+721	cojubim	k a r a k a w	k a r a k a - w	66-1
+722	jaru	k r a k a o n	k - r a k a o n	66-1
+723	more	k a r a k a w	k a r a k a - w	66-1
+724	orowin	k a r a k a w	k a r a k a - w	66-1
+725	tora	k a r a k a w	k a r a k a - w	66-1
+726	urupa	k r a k a w	k - r a k a - w	66-1
+727	wanyam	k a r a k a w	k a r a k a - w	66-1
+728	cojubim	k a r a k a w	k a r a k a - w	66-2
+729	jaru	k r a k a o n	k - r a k a o n	66-2
+730	more	k a r a k a w	k a r a k a - w	66-2
+731	orowin	k a r a k a w	k a r a k a - w	66-2
+732	tora	k a r a k a w	k a r a k a - w	66-2
+733	urupa	k r a k a w	k - r a k a - w	66-2
+734	wanyam	k a r a k a w	k a r a k a - w	66-2
+735	cojubim	k a r a k a w	k a r a k a - w	66-4
+736	jaru	k r a k a o n	k - r a k a o n	66-4
+737	more	k a r a k a w	k a r a k a - w	66-4
+738	orowin	k a r a k a w	k a r a k a - w	66-4
+739	tora	k a r a k a w	k a r a k a - w	66-4
+740	urupa	k r a k a w	k - r a k a - w	66-4
+741	wanyam	k a r a k a w	k a r a k a - w	66-4
+742	cojubim	k a r a k a w	k a r a k a - w	66-5
+743	jaru	k r a k a o n	k - r a k a o n	66-5
+744	more	k a r a k a w	k a r a k a - w	66-5
+745	orowin	k a r a k a w	k a r a k a - w	66-5
+746	tora	k a r a k a w	k a r a k a - w	66-5
+747	urupa	k r a k a w	k - r a k a - w	66-5
+748	wanyam	k a r a k a w	k a r a k a - w	66-5
+749	cojubim	k a r a k a w	k a r a k a - w	66-7
+750	jaru	k r a k a o n	k - r a k a o n	66-7
+751	more	k a r a k a w	k a r a k a - w	66-7
+752	orowin	k a r a k a w	k a r a k a - w	66-7
+753	tora	k a r a k a w	k a r a k a - w	66-7
+754	urupa	k r a k a w	k - r a k a - w	66-7
+755	wanyam	k a r a k a w	k a r a k a - w	66-7
+756	cojubim	k a r a k a w	k a r a k a - w	66-8
+757	jaru	k r a k a o n	k - r a k a o n	66-8
+758	more	k a r a k a w	k a r a k a - w	66-8
+759	orowin	k a r a k a w	k a r a k a - w	66-8
+760	tora	k a r a k a w	k a r a k a - w	66-8
+761	urupa	k r a k a w	k - r a k a - w	66-8
+762	wanyam	k a r a k a w	k a r a k a - w	66-8
+763	cojubim	k a r a k a w	k a r a k a - w	66-9
+764	jaru	k r a k a o n	k - r a k a o n	66-9
+765	more	k a r a k a w	k a r a k a - w	66-9
+766	orowin	k a r a k a w	k a r a k a - w	66-9
+767	tora	k a r a k a w	k a r a k a - w	66-9
+768	urupa	k r a k a w	k - r a k a - w	66-9
+769	wanyam	k a r a k a w	k a r a k a - w	66-9
+770	cojubim	p a n a	p a n a	74-1
+771	jaru	p a n a	p a n a	74-1
+772	more	p a n a	p a n a	74-1
+773	orowin	p a n a	p a n a	74-1
+774	tapakura	p a n e	p a n e	74-1
+775	tora	p a n a	p a n a	74-1
+776	urupa	p a n a	p a n a	74-1
+777	wanyam	p a n a	p a n a	74-1
+778	wari	p a n a	p a n a	74-1
+779	cojubim	p a n a	p a n a	74-2
+780	jaru	p a n a	p a n a	74-2
+781	more	p a n a	p a n a	74-2
+782	orowin	p a n a	p a n a	74-2
+783	tapakura	p a n e	p a n e	74-2
+784	tora	p a n a	p a n a	74-2
+785	urupa	p a n a	p a n a	74-2
+786	wanyam	p a n a	p a n a	74-2
+787	wari	p a n a	p a n a	74-2
+788	cojubim	p a n a	p a n a	74-4
+789	jaru	p a n a	p a n a	74-4
+790	more	p a n a	p a n a	74-4
+791	orowin	p a n a	p a n a	74-4
+792	tapakura	p a n e	p a n e	74-4
+793	tora	p a n a	p a n a	74-4
+794	urupa	p a n a	p a n a	74-4
+795	wanyam	p a n a	p a n a	74-4
+796	wari	p a n a	p a n a	74-4
+797	cojubim	p a n a	p a n a	74-5
+798	jaru	p a n a	p a n a	74-5
+799	more	p a n a	p a n a	74-5
+800	orowin	p a n a	p a n a	74-5
+801	tapakura	p a n e	p a n e	74-5
+802	tora	p a n a	p a n a	74-5
+803	urupa	p a n a	p a n a	74-5
+804	wanyam	p a n a	p a n a	74-5
+805	wari	p a n a	p a n a	74-5
+806	cojubim	p a n a	p a n a	74-6
+807	jaru	p a n a	p a n a	74-6
+808	more	p a n a	p a n a	74-6
+809	orowin	p a n a	p a n a	74-6
+810	tapakura	p a n e	p a n e	74-6
+811	tora	p a n a	p a n a	74-6
+812	urupa	p a n a	p a n a	74-6
+813	wanyam	p a n a	p a n a	74-6
+814	wari	p a n a	p a n a	74-6
+815	cojubim	p a n a	p a n a	74-7
+816	jaru	p a n a	p a n a	74-7
+817	more	p a n a	p a n a	74-7
+818	orowin	p a n a	p a n a	74-7
+819	tapakura	p a n e	p a n e	74-7
+820	tora	p a n a	p a n a	74-7
+821	urupa	p a n a	p a n a	74-7
+822	wanyam	p a n a	p a n a	74-7
+823	wari	p a n a	p a n a	74-7
+824	cojubim	p a n a	p a n a	74-8
+825	jaru	p a n a	p a n a	74-8
+826	more	p a n a	p a n a	74-8
+827	orowin	p a n a	p a n a	74-8
+828	tapakura	p a n e	p a n e	74-8
+829	tora	p a n a	p a n a	74-8
+830	urupa	p a n a	p a n a	74-8
+831	wanyam	p a n a	p a n a	74-8
+832	wari	p a n a	p a n a	74-8
+833	cojubim	p a n a	p a n a	74-9
+834	jaru	p a n a	p a n a	74-9
+835	more	p a n a	p a n a	74-9
+836	orowin	p a n a	p a n a	74-9
+837	tapakura	p a n e	p a n e	74-9
+838	tora	p a n a	p a n a	74-9
+839	urupa	p a n a	p a n a	74-9
+840	wanyam	p a n a	p a n a	74-9
+841	wari	p a n a	p a n a	74-9
+842	jaru	t u p a r e s i	t u p a r e s i -	93-2
+843	kitemoka	p a r i tʃ e	- - p a r i tʃ e -	93-2
+844	more	t o p a n	t o p a n - - - -	93-2
+845	orowin	t o p o r i s i	t o p o r i s i -	93-2
+846	tapakura	t u p a r i tʃ i	t u p a r i tʃ i -	93-2
+847	tora	t u p a r a	t u p a r - - a -	93-2
+848	urupa	t u p a r i s i	t u p a r i s i -	93-2
+849	wanyam	t u p a r i ʃ i ʔ	t u p a r i ʃ i ʔ	93-2
+850	wari	t a p a r i tʃ i ʔ	t a p a r i tʃ i ʔ	93-2
+851	jaru	t u p a r e s i	t u p a r e s i -	93-3
+852	kitemoka	p a r i tʃ e	- - p a r i tʃ e -	93-3
+853	more	t o p a n	t o p a n - - - -	93-3
+854	orowin	t o p o r i s i	t o p o r i s i -	93-3
+855	tapakura	t u p a r i tʃ i	t u p a r i tʃ i -	93-3
+856	tora	t u p a r a	t u p a r - - a -	93-3
+857	urupa	t u p a r i s i	t u p a r i s i -	93-3
+858	wanyam	t u p a r i ʃ i ʔ	t u p a r i ʃ i ʔ	93-3
+859	wari	t a p a r i tʃ i ʔ	t a p a r i tʃ i ʔ	93-3
+860	jaru	t u p a r e s i	t u p a r e s i -	93-4
+861	kitemoka	p a r i tʃ e	- - p a r i tʃ e -	93-4
+862	more	t o p a n	t o p a n - - - -	93-4
+863	orowin	t o p o r i s i	t o p o r i s i -	93-4
+864	tapakura	t u p a r i tʃ i	t u p a r i tʃ i -	93-4
+865	tora	t u p a r a	t u p a r - - a -	93-4
+866	urupa	t u p a r i s i	t u p a r i s i -	93-4
+867	wanyam	t u p a r i ʃ i ʔ	t u p a r i ʃ i ʔ	93-4
+868	wari	t a p a r i tʃ i ʔ	t a p a r i tʃ i ʔ	93-4
+869	jaru	t u p a r e s i	t u p a r e s i -	93-5
+870	kitemoka	p a r i tʃ e	- - p a r i tʃ e -	93-5
+871	more	t o p a n	t o p a n - - - -	93-5
+872	orowin	t o p o r i s i	t o p o r i s i -	93-5
+873	tapakura	t u p a r i tʃ i	t u p a r i tʃ i -	93-5
+874	tora	t u p a r a	t u p a r - - a -	93-5
+875	urupa	t u p a r i s i	t u p a r i s i -	93-5
+876	wanyam	t u p a r i ʃ i ʔ	t u p a r i ʃ i ʔ	93-5
+877	wari	t a p a r i tʃ i ʔ	t a p a r i tʃ i ʔ	93-5
+878	jaru	t u p a r e s i	t u p a r e s i -	93-6
+879	kitemoka	p a r i tʃ e	- - p a r i tʃ e -	93-6
+880	more	t o p a n	t o p a n - - - -	93-6
+881	orowin	t o p o r i s i	t o p o r i s i -	93-6
+882	tapakura	t u p a r i tʃ i	t u p a r i tʃ i -	93-6
+883	tora	t u p a r a	t u p a r - - a -	93-6
+884	urupa	t u p a r i s i	t u p a r i s i -	93-6
+885	wanyam	t u p a r i ʃ i ʔ	t u p a r i ʃ i ʔ	93-6
+886	wari	t a p a r i tʃ i ʔ	t a p a r i tʃ i ʔ	93-6
+887	jaru	t u p a r e s i	t u p a r e s i -	93-7
+888	kitemoka	p a r i tʃ e	- - p a r i tʃ e -	93-7
+889	more	t o p a n	t o p a n - - - -	93-7
+890	orowin	t o p o r i s i	t o p o r i s i -	93-7
+891	tapakura	t u p a r i tʃ i	t u p a r i tʃ i -	93-7
+892	tora	t u p a r a	t u p a r - - a -	93-7
+893	urupa	t u p a r i s i	t u p a r i s i -	93-7
+894	wanyam	t u p a r i ʃ i ʔ	t u p a r i ʃ i ʔ	93-7
+895	wari	t a p a r i tʃ i ʔ	t a p a r i tʃ i ʔ	93-7
+896	jaru	t u p a r e s i	t u p a r e s i -	93-8
+897	kitemoka	p a r i tʃ e	- - p a r i tʃ e -	93-8
+898	more	t o p a n	t o p a n - - - -	93-8
+899	orowin	t o p o r i s i	t o p o r i s i -	93-8
+900	tapakura	t u p a r i tʃ i	t u p a r i tʃ i -	93-8
+901	tora	t u p a r a	t u p a r - - a -	93-8
+902	urupa	t u p a r i s i	t u p a r i s i -	93-8
+903	wanyam	t u p a r i ʃ i ʔ	t u p a r i ʃ i ʔ	93-8
+904	wari	t a p a r i tʃ i ʔ	t a p a r i tʃ i ʔ	93-8
+905	jaru	t u p a r e s i	t u p a r e s i -	93-9
+906	kitemoka	p a r i tʃ e	- - p a r i tʃ e -	93-9
+907	more	t o p a n	t o p a n - - - -	93-9
+908	orowin	t o p o r i s i	t o p o r i s i -	93-9
+909	tapakura	t u p a r i tʃ i	t u p a r i tʃ i -	93-9
+910	tora	t u p a r a	t u p a r - - a -	93-9
+911	urupa	t u p a r i s i	t u p a r i s i -	93-9
+912	wanyam	t u p a r i ʃ i ʔ	t u p a r i ʃ i ʔ	93-9
+913	wari	t a p a r i tʃ i ʔ	t a p a r i tʃ i ʔ	93-9
+914	jaru	w i t	- w i t - - -	95-2
+915	kitemoka	a w e i tʃ e	a w e - i tʃ e	95-2
+916	more	w y k	- w y k - - -	95-2
+917	orowin	w i k i s i	- w i k i s i	95-2
+918	tapakura	a w i	a w - - - - i	95-2
+919	tora	w i	- w i - - - -	95-2
+920	urupa	w i k i s i	- w i k i s i	95-2
+921	wanyam	w i k i	- w i k - - i	95-2
+922	wari	k i tʃ i ʔ	- k i tʃ i ʔ -	95-2
+923	jaru	w i t	- w i t - - -	95-3
+924	kitemoka	a w e i tʃ e	a w e - i tʃ e	95-3
+925	more	w y k	- w y k - - -	95-3
+926	orowin	w i k i s i	- w i k i s i	95-3
+927	tapakura	a w i	a w - - - - i	95-3
+928	tora	w i	- w i - - - -	95-3
+929	urupa	w i k i s i	- w i k i s i	95-3
+930	wanyam	w i k i	- w i k - - i	95-3
+931	wari	k i tʃ i ʔ	- k i tʃ i ʔ -	95-3
+932	jaru	w i t	- w i t - - -	95-4
+933	kitemoka	a w e i tʃ e	a w e - i tʃ e	95-4
+934	more	w y k	- w y k - - -	95-4
+935	orowin	w i k i s i	- w i k i s i	95-4
+936	tapakura	a w i	a w - - - - i	95-4
+937	tora	w i	- w i - - - -	95-4
+938	urupa	w i k i s i	- w i k i s i	95-4
+939	wanyam	w i k i	- w i k - - i	95-4
+940	wari	k i tʃ i ʔ	- k i tʃ i ʔ -	95-4
+941	jaru	w i t	- w i t - - -	95-5
+942	kitemoka	a w e i tʃ e	a w e - i tʃ e	95-5
+943	more	w y k	- w y k - - -	95-5
+944	orowin	w i k i s i	- w i k i s i	95-5
+945	tapakura	a w i	a w - - - - i	95-5
+946	tora	w i	- w i - - - -	95-5
+947	urupa	w i k i s i	- w i k i s i	95-5
+948	wanyam	w i k i	- w i k - - i	95-5
+949	wari	k i tʃ i ʔ	- k i tʃ i ʔ -	95-5
+950	jaru	w i t	- w i t - - -	95-6
+951	kitemoka	a w e i tʃ e	a w e - i tʃ e	95-6
+952	more	w y k	- w y k - - -	95-6
+953	orowin	w i k i s i	- w i k i s i	95-6
+954	tapakura	a w i	a w - - - - i	95-6
+955	tora	w i	- w i - - - -	95-6
+956	urupa	w i k i s i	- w i k i s i	95-6
+957	wanyam	w i k i	- w i k - - i	95-6
+958	wari	k i tʃ i ʔ	- k i tʃ i ʔ -	95-6
+959	jaru	w i t	- w i t - - -	95-7
+960	kitemoka	a w e i tʃ e	a w e - i tʃ e	95-7
+961	more	w y k	- w y k - - -	95-7
+962	orowin	w i k i s i	- w i k i s i	95-7
+963	tapakura	a w i	a w - - - - i	95-7
+964	tora	w i	- w i - - - -	95-7
+965	urupa	w i k i s i	- w i k i s i	95-7
+966	wanyam	w i k i	- w i k - - i	95-7
+967	wari	k i tʃ i ʔ	- k i tʃ i ʔ -	95-7
+968	jaru	w i t	- w i t - - -	95-8
+969	kitemoka	a w e i tʃ e	a w e - i tʃ e	95-8
+970	more	w y k	- w y k - - -	95-8
+971	orowin	w i k i s i	- w i k i s i	95-8
+972	tapakura	a w i	a w - - - - i	95-8
+973	tora	w i	- w i - - - -	95-8
+974	urupa	w i k i s i	- w i k i s i	95-8
+975	wanyam	w i k i	- w i k - - i	95-8
+976	wari	k i tʃ i ʔ	- k i tʃ i ʔ -	95-8
+977	jaru	w i t	- w i t - - -	95-9
+978	kitemoka	a w e i tʃ e	a w e - i tʃ e	95-9
+979	more	w y k	- w y k - - -	95-9
+980	orowin	w i k i s i	- w i k i s i	95-9
+981	tapakura	a w i	a w - - - - i	95-9
+982	tora	w i	- w i - - - -	95-9
+983	urupa	w i k i s i	- w i k i s i	95-9
+984	wanyam	w i k i	- w i k - - i	95-9
+985	wari	k i tʃ i ʔ	- k i tʃ i ʔ -	95-9
+986	cojubim	a t	- a - - t - -	96-1
+987	jaru	r a s i	- - r a s i -	96-1
+988	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-1
+989	more	a t	- a - - t - -	96-1
+990	orowin	a r a n	- a r a n - -	96-1
+991	tapakura	a t a t	- a t a t - -	96-1
+992	tora	a t a ʃ i	- a t a ʃ i -	96-1
+993	urupa	a r a s i	- a r a s i -	96-1
+994	wanyam	a r a j	- a r a j - -	96-1
+995	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-1
+996	cojubim	a t	- a - - t - -	96-2
+997	jaru	r a s i	- - r a s i -	96-2
+998	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-2
+999	more	a t	- a - - t - -	96-2
+1000	orowin	a r a n	- a r a n - -	96-2
+1001	tapakura	a t a t	- a t a t - -	96-2
+1002	tora	a t a ʃ i	- a t a ʃ i -	96-2
+1003	urupa	a r a s i	- a r a s i -	96-2
+1004	wanyam	a r a j	- a r a j - -	96-2
+1005	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-2
+1006	cojubim	a t	- a - - t - -	96-3
+1007	jaru	r a s i	- - r a s i -	96-3
+1008	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-3
+1009	more	a t	- a - - t - -	96-3
+1010	orowin	a r a n	- a r a n - -	96-3
+1011	tapakura	a t a t	- a t a t - -	96-3
+1012	tora	a t a ʃ i	- a t a ʃ i -	96-3
+1013	urupa	a r a s i	- a r a s i -	96-3
+1014	wanyam	a r a j	- a r a j - -	96-3
+1015	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-3
+1016	cojubim	a t	- a - - t - -	96-4
+1017	jaru	r a s i	- - r a s i -	96-4
+1018	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-4
+1019	more	a t	- a - - t - -	96-4
+1020	orowin	a r a n	- a r a n - -	96-4
+1021	tapakura	a t a t	- a t a t - -	96-4
+1022	tora	a t a ʃ i	- a t a ʃ i -	96-4
+1023	urupa	a r a s i	- a r a s i -	96-4
+1024	wanyam	a r a j	- a r a j - -	96-4
+1025	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-4
+1026	cojubim	a t	- a - - t - -	96-5
+1027	jaru	r a s i	- - r a s i -	96-5
+1028	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-5
+1029	more	a t	- a - - t - -	96-5
+1030	orowin	a r a n	- a r a n - -	96-5
+1031	tapakura	a t a t	- a t a t - -	96-5
+1032	tora	a t a ʃ i	- a t a ʃ i -	96-5
+1033	urupa	a r a s i	- a r a s i -	96-5
+1034	wanyam	a r a j	- a r a j - -	96-5
+1035	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-5
+1036	cojubim	a t	- a - - t - -	96-6
+1037	jaru	r a s i	- - r a s i -	96-6
+1038	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-6
+1039	more	a t	- a - - t - -	96-6
+1040	orowin	a r a n	- a r a n - -	96-6
+1041	tapakura	a t a t	- a t a t - -	96-6
+1042	tora	a t a ʃ i	- a t a ʃ i -	96-6
+1043	urupa	a r a s i	- a r a s i -	96-6
+1044	wanyam	a r a j	- a r a j - -	96-6
+1045	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-6
+1046	cojubim	a t	- a - - t - -	96-7
+1047	jaru	r a s i	- - r a s i -	96-7
+1048	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-7
+1049	more	a t	- a - - t - -	96-7
+1050	orowin	a r a n	- a r a n - -	96-7
+1051	tapakura	a t a t	- a t a t - -	96-7
+1052	tora	a t a ʃ i	- a t a ʃ i -	96-7
+1053	urupa	a r a s i	- a r a s i -	96-7
+1054	wanyam	a r a j	- a r a j - -	96-7
+1055	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-7
+1056	cojubim	a t	- a - - t - -	96-8
+1057	jaru	r a s i	- - r a s i -	96-8
+1058	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-8
+1059	more	a t	- a - - t - -	96-8
+1060	orowin	a r a n	- a r a n - -	96-8
+1061	tapakura	a t a t	- a t a t - -	96-8
+1062	tora	a t a ʃ i	- a t a ʃ i -	96-8
+1063	urupa	a r a s i	- a r a s i -	96-8
+1064	wanyam	a r a j	- a r a j - -	96-8
+1065	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-8
+1066	cojubim	a t	- a - - t - -	96-9
+1067	jaru	r a s i	- - r a s i -	96-9
+1068	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-9
+1069	more	a t	- a - - t - -	96-9
+1070	orowin	a r a n	- a r a n - -	96-9
+1071	tapakura	a t a t	- a t a t - -	96-9
+1072	tora	a t a ʃ i	- a t a ʃ i -	96-9
+1073	urupa	a r a s i	- a r a s i -	96-9
+1074	wanyam	a r a j	- a r a j - -	96-9
+1075	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-9
+1076	cojubim	m a p u m	m a p - - u m - - -	97-1
+1077	jaru	a h o m i	- a h - - o m i - -	97-1
+1078	more	m a p o m	m a p - - o m - - -	97-1
+1079	orowin	m a f o m a s i	m a f - - o m a s i	97-1
+1080	tapakura	m o m i k u m	m o m i k u m - - -	97-1
+1081	tora	t aː h o n	t aː h - - - - o - n	97-1
+1082	wanyam	w a h u m a j n	w a h - - u m a j n	97-1
+1083	wari	h o m a ɲ	- - h - - o m a - ɲ	97-1
+1084	cojubim	m a p u m	m a p - - u m - - -	97-2
+1085	jaru	a h o m i	- a h - - o m i - -	97-2
+1086	more	m a p o m	m a p - - o m - - -	97-2
+1087	orowin	m a f o m a s i	m a f - - o m a s i	97-2
+1088	tapakura	m o m i k u m	m o m i k u m - - -	97-2
+1089	tora	t aː h o n	t aː h - - - - o - n	97-2
+1090	wanyam	w a h u m a j n	w a h - - u m a j n	97-2
+1091	wari	h o m a ɲ	- - h - - o m a - ɲ	97-2
+1092	cojubim	m a p u m	m a p - - u m - - -	97-4
+1093	jaru	a h o m i	- a h - - o m i - -	97-4
+1094	more	m a p o m	m a p - - o m - - -	97-4
+1095	orowin	m a f o m a s i	m a f - - o m a s i	97-4
+1096	tapakura	m o m i k u m	m o m i k u m - - -	97-4
+1097	tora	t aː h o n	t aː h - - - - o - n	97-4
+1098	wanyam	w a h u m a j n	w a h - - u m a j n	97-4
+1099	wari	h o m a ɲ	- - h - - o m a - ɲ	97-4
+1100	cojubim	m a p u m	m a p - - u m - - -	97-5
+1101	jaru	a h o m i	- a h - - o m i - -	97-5
+1102	more	m a p o m	m a p - - o m - - -	97-5
+1103	orowin	m a f o m a s i	m a f - - o m a s i	97-5
+1104	tapakura	m o m i k u m	m o m i k u m - - -	97-5
+1105	tora	t aː h o n	t aː h - - - - o - n	97-5
+1106	wanyam	w a h u m a j n	w a h - - u m a j n	97-5
+1107	wari	h o m a ɲ	- - h - - o m a - ɲ	97-5
+1108	cojubim	m a p u m	m a p - - u m - - -	97-6
+1109	jaru	a h o m i	- a h - - o m i - -	97-6
+1110	more	m a p o m	m a p - - o m - - -	97-6
+1111	orowin	m a f o m a s i	m a f - - o m a s i	97-6
+1112	tapakura	m o m i k u m	m o m i k u m - - -	97-6
+1113	tora	t aː h o n	t aː h - - - - o - n	97-6
+1114	wanyam	w a h u m a j n	w a h - - u m a j n	97-6
+1115	wari	h o m a ɲ	- - h - - o m a - ɲ	97-6
+1116	cojubim	m a p u m	m a p - - u m - - -	97-7
+1117	jaru	a h o m i	- a h - - o m i - -	97-7
+1118	more	m a p o m	m a p - - o m - - -	97-7
+1119	orowin	m a f o m a s i	m a f - - o m a s i	97-7
+1120	tapakura	m o m i k u m	m o m i k u m - - -	97-7
+1121	tora	t aː h o n	t aː h - - - - o - n	97-7
+1122	wanyam	w a h u m a j n	w a h - - u m a j n	97-7
+1123	wari	h o m a ɲ	- - h - - o m a - ɲ	97-7
+1124	cojubim	m a p u m	m a p - - u m - - -	97-9
+1125	jaru	a h o m i	- a h - - o m i - -	97-9
+1126	more	m a p o m	m a p - - o m - - -	97-9
+1127	orowin	m a f o m a s i	m a f - - o m a s i	97-9
+1128	tapakura	m o m i k u m	m o m i k u m - - -	97-9
+1129	tora	t aː h o n	t aː h - - - - o - n	97-9
+1130	wanyam	w a h u m a j n	w a h - - u m a j n	97-9
+1131	wari	h o m a ɲ	- - h - - o m a - ɲ	97-9
+1132	cojubim	a r i	a r i - - - - - -	99-1
+1133	jaru	r e j e n	- r e j e n - - -	99-1
+1134	kitemoka	t i r a n t i a	- t i r a n t i a	99-1
+1135	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-1
+1136	orowin	a r i k o n	a r i k o n - - -	99-1
+1137	tapakura	a t e r a n t a	a t e r a n t - a	99-1
+1138	tora	a z e r o n	a z e r o n - - -	99-1
+1139	urupa	e r e j e n	e r e j e n - - -	99-1
+1140	wanyam	a r i k o n	a r i k o n - - -	99-1
+1141	wari	a r a j e ɲ	a r a j e ɲ - - -	99-1
+1142	cojubim	a r i	a r i - - - - - -	99-2
+1143	jaru	r e j e n	- r e j e n - - -	99-2
+1144	kitemoka	t i r a n t i a	- t i r a n t i a	99-2
+1145	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-2
+1146	orowin	a r i k o n	a r i k o n - - -	99-2
+1147	tapakura	a t e r a n t a	a t e r a n t - a	99-2
+1148	tora	a z e r o n	a z e r o n - - -	99-2
+1149	urupa	e r e j e n	e r e j e n - - -	99-2
+1150	wanyam	a r i k o n	a r i k o n - - -	99-2
+1151	wari	a r a j e ɲ	a r a j e ɲ - - -	99-2
+1152	cojubim	a r i	a r i - - - - - -	99-3
+1153	jaru	r e j e n	- r e j e n - - -	99-3
+1154	kitemoka	t i r a n t i a	- t i r a n t i a	99-3
+1155	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-3
+1156	orowin	a r i k o n	a r i k o n - - -	99-3
+1157	tapakura	a t e r a n t a	a t e r a n t - a	99-3
+1158	tora	a z e r o n	a z e r o n - - -	99-3
+1159	urupa	e r e j e n	e r e j e n - - -	99-3
+1160	wanyam	a r i k o n	a r i k o n - - -	99-3
+1161	wari	a r a j e ɲ	a r a j e ɲ - - -	99-3
+1162	cojubim	a r i	a r i - - - - - -	99-4
+1163	jaru	r e j e n	- r e j e n - - -	99-4
+1164	kitemoka	t i r a n t i a	- t i r a n t i a	99-4
+1165	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-4
+1166	orowin	a r i k o n	a r i k o n - - -	99-4
+1167	tapakura	a t e r a n t a	a t e r a n t - a	99-4
+1168	tora	a z e r o n	a z e r o n - - -	99-4
+1169	urupa	e r e j e n	e r e j e n - - -	99-4
+1170	wanyam	a r i k o n	a r i k o n - - -	99-4
+1171	wari	a r a j e ɲ	a r a j e ɲ - - -	99-4
+1172	cojubim	a r i	a r i - - - - - -	99-5
+1173	jaru	r e j e n	- r e j e n - - -	99-5
+1174	kitemoka	t i r a n t i a	- t i r a n t i a	99-5
+1175	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-5
+1176	orowin	a r i k o n	a r i k o n - - -	99-5
+1177	tapakura	a t e r a n t a	a t e r a n t - a	99-5
+1178	tora	a z e r o n	a z e r o n - - -	99-5
+1179	urupa	e r e j e n	e r e j e n - - -	99-5
+1180	wanyam	a r i k o n	a r i k o n - - -	99-5
+1181	wari	a r a j e ɲ	a r a j e ɲ - - -	99-5
+1182	cojubim	a r i	a r i - - - - - -	99-6
+1183	jaru	r e j e n	- r e j e n - - -	99-6
+1184	kitemoka	t i r a n t i a	- t i r a n t i a	99-6
+1185	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-6
+1186	orowin	a r i k o n	a r i k o n - - -	99-6
+1187	tapakura	a t e r a n t a	a t e r a n t - a	99-6
+1188	tora	a z e r o n	a z e r o n - - -	99-6
+1189	urupa	e r e j e n	e r e j e n - - -	99-6
+1190	wanyam	a r i k o n	a r i k o n - - -	99-6
+1191	wari	a r a j e ɲ	a r a j e ɲ - - -	99-6
+1192	cojubim	a r i	a r i - - - - - -	99-7
+1193	jaru	r e j e n	- r e j e n - - -	99-7
+1194	kitemoka	t i r a n t i a	- t i r a n t i a	99-7
+1195	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-7
+1196	orowin	a r i k o n	a r i k o n - - -	99-7
+1197	tapakura	a t e r a n t a	a t e r a n t - a	99-7
+1198	tora	a z e r o n	a z e r o n - - -	99-7
+1199	urupa	e r e j e n	e r e j e n - - -	99-7
+1200	wanyam	a r i k o n	a r i k o n - - -	99-7
+1201	wari	a r a j e ɲ	a r a j e ɲ - - -	99-7
+1202	cojubim	a r i	a r i - - - - - -	99-8
+1203	jaru	r e j e n	- r e j e n - - -	99-8
+1204	kitemoka	t i r a n t i a	- t i r a n t i a	99-8
+1205	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-8
+1206	orowin	a r i k o n	a r i k o n - - -	99-8
+1207	tapakura	a t e r a n t a	a t e r a n t - a	99-8
+1208	tora	a z e r o n	a z e r o n - - -	99-8
+1209	urupa	e r e j e n	e r e j e n - - -	99-8
+1210	wanyam	a r i k o n	a r i k o n - - -	99-8
+1211	wari	a r a j e ɲ	a r a j e ɲ - - -	99-8
+1212	cojubim	a r i	a r i - - - - - -	99-9
+1213	jaru	r e j e n	- r e j e n - - -	99-9
+1214	kitemoka	t i r a n t i a	- t i r a n t i a	99-9
+1215	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-9
+1216	orowin	a r i k o n	a r i k o n - - -	99-9
+1217	tapakura	a t e r a n t a	a t e r a n t - a	99-9
+1218	tora	a z e r o n	a z e r o n - - -	99-9
+1219	urupa	e r e j e n	e r e j e n - - -	99-9
+1220	wanyam	a r i k o n	a r i k o n - - -	99-9
+1221	wari	a r a j e ɲ	a r a j e ɲ - - -	99-9
+1222	cojubim	t u n a	t u n - - - - a -	106-1
+1223	jaru	t i n j i	t i n - - - j i -	106-1
+1224	kitemoka	tʃ u m i tʃ e	tʃ u m - - i tʃ e -	106-1
+1225	more	t u n e ɲ	t u n - - - - e ɲ	106-1
+1226	orowin	t y n e s i	t y n - - e s i -	106-1
+1227	tapakura	tʃ u m i tʃ i	tʃ u m - - i tʃ i -	106-1
+1228	tora	t u n i	t u n - - - - i -	106-1
+1229	wanyam	t i n i ʃ i ʔ	t i n - - i ʃ i ʔ	106-1
+1230	wari	t e n e n e tʃ i ʔ	t e n e n e tʃ i ʔ	106-1
+1231	cojubim	t u n a	t u n - - - - a -	106-2
+1232	jaru	t i n j i	t i n - - - j i -	106-2
+1233	kitemoka	tʃ u m i tʃ e	tʃ u m - - i tʃ e -	106-2
+1234	more	t u n e ɲ	t u n - - - - e ɲ	106-2
+1235	orowin	t y n e s i	t y n - - e s i -	106-2
+1236	tapakura	tʃ u m i tʃ i	tʃ u m - - i tʃ i -	106-2
+1237	tora	t u n i	t u n - - - - i -	106-2
+1238	wanyam	t i n i ʃ i ʔ	t i n - - i ʃ i ʔ	106-2
+1239	wari	t e n e n e tʃ i ʔ	t e n e n e tʃ i ʔ	106-2
+1240	cojubim	t u n a	t u n - - - - a -	106-3
+1241	jaru	t i n j i	t i n - - - j i -	106-3
+1242	kitemoka	tʃ u m i tʃ e	tʃ u m - - i tʃ e -	106-3
+1243	more	t u n e ɲ	t u n - - - - e ɲ	106-3
+1244	orowin	t y n e s i	t y n - - e s i -	106-3
+1245	tapakura	tʃ u m i tʃ i	tʃ u m - - i tʃ i -	106-3
+1246	tora	t u n i	t u n - - - - i -	106-3
+1247	wanyam	t i n i ʃ i ʔ	t i n - - i ʃ i ʔ	106-3
+1248	wari	t e n e n e tʃ i ʔ	t e n e n e tʃ i ʔ	106-3
+1249	cojubim	t u n a	t u n - - - - a -	106-4
+1250	jaru	t i n j i	t i n - - - j i -	106-4
+1251	kitemoka	tʃ u m i tʃ e	tʃ u m - - i tʃ e -	106-4
+1252	more	t u n e ɲ	t u n - - - - e ɲ	106-4
+1253	orowin	t y n e s i	t y n - - e s i -	106-4
+1254	tapakura	tʃ u m i tʃ i	tʃ u m - - i tʃ i -	106-4
+1255	tora	t u n i	t u n - - - - i -	106-4
+1256	wanyam	t i n i ʃ i ʔ	t i n - - i ʃ i ʔ	106-4
+1257	wari	t e n e n e tʃ i ʔ	t e n e n e tʃ i ʔ	106-4
+1258	cojubim	t u n a	t u n - - - - a -	106-5
+1259	jaru	t i n j i	t i n - - - j i -	106-5
+1260	kitemoka	tʃ u m i tʃ e	tʃ u m - - i tʃ e -	106-5
+1261	more	t u n e ɲ	t u n - - - - e ɲ	106-5
+1262	orowin	t y n e s i	t y n - - e s i -	106-5
+1263	tapakura	tʃ u m i tʃ i	tʃ u m - - i tʃ i -	106-5
+1264	tora	t u n i	t u n - - - - i -	106-5
+1265	wanyam	t i n i ʃ i ʔ	t i n - - i ʃ i ʔ	106-5
+1266	wari	t e n e n e tʃ i ʔ	t e n e n e tʃ i ʔ	106-5
+1267	cojubim	t u n a	t u n - - - - a -	106-6
+1268	jaru	t i n j i	t i n - - - j i -	106-6
+1269	kitemoka	tʃ u m i tʃ e	tʃ u m - - i tʃ e -	106-6
+1270	more	t u n e ɲ	t u n - - - - e ɲ	106-6
+1271	orowin	t y n e s i	t y n - - e s i -	106-6
+1272	tapakura	tʃ u m i tʃ i	tʃ u m - - i tʃ i -	106-6
+1273	tora	t u n i	t u n - - - - i -	106-6
+1274	wanyam	t i n i ʃ i ʔ	t i n - - i ʃ i ʔ	106-6
+1275	wari	t e n e n e tʃ i ʔ	t e n e n e tʃ i ʔ	106-6
+1276	cojubim	t u n a	t u n - - - - a -	106-7
+1277	jaru	t i n j i	t i n - - - j i -	106-7
+1278	kitemoka	tʃ u m i tʃ e	tʃ u m - - i tʃ e -	106-7
+1279	more	t u n e ɲ	t u n - - - - e ɲ	106-7
+1280	orowin	t y n e s i	t y n - - e s i -	106-7
+1281	tapakura	tʃ u m i tʃ i	tʃ u m - - i tʃ i -	106-7
+1282	tora	t u n i	t u n - - - - i -	106-7
+1283	wanyam	t i n i ʃ i ʔ	t i n - - i ʃ i ʔ	106-7
+1284	wari	t e n e n e tʃ i ʔ	t e n e n e tʃ i ʔ	106-7
+1285	cojubim	t u n a	t u n - - - - a -	106-9
+1286	jaru	t i n j i	t i n - - - j i -	106-9
+1287	kitemoka	tʃ u m i tʃ e	tʃ u m - - i tʃ e -	106-9
+1288	more	t u n e ɲ	t u n - - - - e ɲ	106-9
+1289	orowin	t y n e s i	t y n - - e s i -	106-9
+1290	tapakura	tʃ u m i tʃ i	tʃ u m - - i tʃ i -	106-9
+1291	tora	t u n i	t u n - - - - i -	106-9
+1292	wanyam	t i n i ʃ i ʔ	t i n - - i ʃ i ʔ	106-9
+1293	wari	t e n e n e tʃ i ʔ	t e n e n e tʃ i ʔ	106-9
+1294	cojubim	u p e k	u p - - e k - -	109-1
+1295	kitemoka	p a i tʃ e	- p a - i tʃ e -	109-1
+1296	more	u p w i k	u p w - i k - -	109-1
+1297	orowin	i p i j i s i	i p i j i s i -	109-1
+1298	tapakura	u p a tʃ i	u p - - a tʃ i -	109-1
+1299	tora	u p u j e ʃ i	u p u j e ʃ i -	109-1
+1300	urupa	y p i r i s i	y p i r i s i -	109-1
+1301	wanyam	i p i j i ʃ i ʔ	i p i j i ʃ i ʔ	109-1
+1302	cojubim	u p e k	u p - - e k - -	109-3
+1303	kitemoka	p a i tʃ e	- p a - i tʃ e -	109-3
+1304	more	u p w i k	u p w - i k - -	109-3
+1305	orowin	i p i j i s i	i p i j i s i -	109-3
+1306	tapakura	u p a tʃ i	u p - - a tʃ i -	109-3
+1307	tora	u p u j e ʃ i	u p u j e ʃ i -	109-3
+1308	urupa	y p i r i s i	y p i r i s i -	109-3
+1309	wanyam	i p i j i ʃ i ʔ	i p i j i ʃ i ʔ	109-3
+1310	cojubim	u p e k	u p - - e k - -	109-4
+1311	kitemoka	p a i tʃ e	- p a - i tʃ e -	109-4
+1312	more	u p w i k	u p w - i k - -	109-4
+1313	orowin	i p i j i s i	i p i j i s i -	109-4
+1314	tapakura	u p a tʃ i	u p - - a tʃ i -	109-4
+1315	tora	u p u j e ʃ i	u p u j e ʃ i -	109-4
+1316	urupa	y p i r i s i	y p i r i s i -	109-4
+1317	wanyam	i p i j i ʃ i ʔ	i p i j i ʃ i ʔ	109-4
+1318	cojubim	u p e k	u p - - e k - -	109-5
+1319	kitemoka	p a i tʃ e	- p a - i tʃ e -	109-5
+1320	more	u p w i k	u p w - i k - -	109-5
+1321	orowin	i p i j i s i	i p i j i s i -	109-5
+1322	tapakura	u p a tʃ i	u p - - a tʃ i -	109-5
+1323	tora	u p u j e ʃ i	u p u j e ʃ i -	109-5
+1324	urupa	y p i r i s i	y p i r i s i -	109-5
+1325	wanyam	i p i j i ʃ i ʔ	i p i j i ʃ i ʔ	109-5
+1326	cojubim	u p e k	u p - - e k - -	109-6
+1327	kitemoka	p a i tʃ e	- p a - i tʃ e -	109-6
+1328	more	u p w i k	u p w - i k - -	109-6
+1329	orowin	i p i j i s i	i p i j i s i -	109-6
+1330	tapakura	u p a tʃ i	u p - - a tʃ i -	109-6
+1331	tora	u p u j e ʃ i	u p u j e ʃ i -	109-6
+1332	urupa	y p i r i s i	y p i r i s i -	109-6
+1333	wanyam	i p i j i ʃ i ʔ	i p i j i ʃ i ʔ	109-6
+1334	cojubim	u p e k	u p - - e k - -	109-7
+1335	kitemoka	p a i tʃ e	- p a - i tʃ e -	109-7
+1336	more	u p w i k	u p w - i k - -	109-7
+1337	orowin	i p i j i s i	i p i j i s i -	109-7
+1338	tapakura	u p a tʃ i	u p - - a tʃ i -	109-7
+1339	tora	u p u j e ʃ i	u p u j e ʃ i -	109-7
+1340	urupa	y p i r i s i	y p i r i s i -	109-7
+1341	wanyam	i p i j i ʃ i ʔ	i p i j i ʃ i ʔ	109-7
+1342	cojubim	u p e k	u p - - e k - -	109-8
+1343	kitemoka	p a i tʃ e	- p a - i tʃ e -	109-8
+1344	more	u p w i k	u p w - i k - -	109-8
+1345	orowin	i p i j i s i	i p i j i s i -	109-8
+1346	tapakura	u p a tʃ i	u p - - a tʃ i -	109-8
+1347	tora	u p u j e ʃ i	u p u j e ʃ i -	109-8
+1348	urupa	y p i r i s i	y p i r i s i -	109-8
+1349	wanyam	i p i j i ʃ i ʔ	i p i j i ʃ i ʔ	109-8
+1350	cojubim	u p e k	u p - - e k - -	109-9
+1351	kitemoka	p a i tʃ e	- p a - i tʃ e -	109-9
+1352	more	u p w i k	u p w - i k - -	109-9
+1353	orowin	i p i j i s i	i p i j i s i -	109-9
+1354	tapakura	u p a tʃ i	u p - - a tʃ i -	109-9
+1355	tora	u p u j e ʃ i	u p u j e ʃ i -	109-9
+1356	urupa	y p i r i s i	y p i r i s i -	109-9
+1357	wanyam	i p i j i ʃ i ʔ	i p i j i ʃ i ʔ	109-9
+1358	jaru	t r a i s i	t - - r - a - i s i -	112-2
+1359	kitemoka	t a t i a t a tʃ e	t a - t i a t a tʃ e -	112-2
+1360	orowin	t r a j i s i	t - - r - a j i s i -	112-2
+1361	tapakura	t a i t a t a tʃ i	t a i t - a t a tʃ i -	112-2
+1362	urupa	t r a i s i	t - - r - a - i s i -	112-2
+1363	wanyam	t a r a j i ʃ i ʔ	t a - r - a j i ʃ i ʔ	112-2
+1364	wari	t a r a j i tʃ i ʔ	t a - r - a j i tʃ i ʔ	112-2
+1365	jaru	t r a i s i	t - - r - a - i s i -	112-3
+1366	kitemoka	t a t i a t a tʃ e	t a - t i a t a tʃ e -	112-3
+1367	orowin	t r a j i s i	t - - r - a j i s i -	112-3
+1368	tapakura	t a i t a t a tʃ i	t a i t - a t a tʃ i -	112-3
+1369	urupa	t r a i s i	t - - r - a - i s i -	112-3
+1370	wanyam	t a r a j i ʃ i ʔ	t a - r - a j i ʃ i ʔ	112-3
+1371	wari	t a r a j i tʃ i ʔ	t a - r - a j i tʃ i ʔ	112-3
+1372	jaru	t r a i s i	t - - r - a - i s i -	112-5
+1373	kitemoka	t a t i a t a tʃ e	t a - t i a t a tʃ e -	112-5
+1374	orowin	t r a j i s i	t - - r - a j i s i -	112-5
+1375	tapakura	t a i t a t a tʃ i	t a i t - a t a tʃ i -	112-5
+1376	urupa	t r a i s i	t - - r - a - i s i -	112-5
+1377	wanyam	t a r a j i ʃ i ʔ	t a - r - a j i ʃ i ʔ	112-5
+1378	wari	t a r a j i tʃ i ʔ	t a - r - a j i tʃ i ʔ	112-5
+1379	jaru	t r a i s i	t - - r - a - i s i -	112-6
+1380	kitemoka	t a t i a t a tʃ e	t a - t i a t a tʃ e -	112-6
+1381	orowin	t r a j i s i	t - - r - a j i s i -	112-6
+1382	tapakura	t a i t a t a tʃ i	t a i t - a t a tʃ i -	112-6
+1383	urupa	t r a i s i	t - - r - a - i s i -	112-6
+1384	wanyam	t a r a j i ʃ i ʔ	t a - r - a j i ʃ i ʔ	112-6
+1385	wari	t a r a j i tʃ i ʔ	t a - r - a j i tʃ i ʔ	112-6
+1386	jaru	t r a i s i	t - - r - a - i s i -	112-8
+1387	kitemoka	t a t i a t a tʃ e	t a - t i a t a tʃ e -	112-8
+1388	orowin	t r a j i s i	t - - r - a j i s i -	112-8
+1389	tapakura	t a i t a t a tʃ i	t a i t - a t a tʃ i -	112-8
+1390	urupa	t r a i s i	t - - r - a - i s i -	112-8
+1391	wanyam	t a r a j i ʃ i ʔ	t a - r - a j i ʃ i ʔ	112-8
+1392	wari	t a r a j i tʃ i ʔ	t a - r - a j i tʃ i ʔ	112-8
+1393	jaru	t r a i s i	t - - r - a - i s i -	112-9
+1394	kitemoka	t a t i a t a tʃ e	t a - t i a t a tʃ e -	112-9
+1395	orowin	t r a j i s i	t - - r - a j i s i -	112-9
+1396	tapakura	t a i t a t a tʃ i	t a i t - a t a tʃ i -	112-9
+1397	urupa	t r a i s i	t - - r - a - i s i -	112-9
+1398	wanyam	t a r a j i ʃ i ʔ	t a - r - a j i ʃ i ʔ	112-9
+1399	wari	t a r a j i tʃ i ʔ	t a - r - a j i tʃ i ʔ	112-9
+1400	cojubim	t o k	t o k - - - -	114-1
+1401	jaru	t e k i s i	t e k i s i -	114-1
+1402	kitemoka	k u tʃ i	- - k u tʃ i -	114-1
+1403	more	t o k	t o k - - - -	114-1
+1404	orowin	t o k i s i	t o k i s i -	114-1
+1405	tapakura	t u k u tʃ i	t u k u tʃ i -	114-1
+1406	tora	t o k	t o k - - - -	114-1
+1407	urupa	t u k e s i	t u k e s i -	114-1
+1408	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-1
+1409	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-1
+1410	cojubim	t o k	t o k - - - -	114-2
+1411	jaru	t e k i s i	t e k i s i -	114-2
+1412	kitemoka	k u tʃ i	- - k u tʃ i -	114-2
+1413	more	t o k	t o k - - - -	114-2
+1414	orowin	t o k i s i	t o k i s i -	114-2
+1415	tapakura	t u k u tʃ i	t u k u tʃ i -	114-2
+1416	tora	t o k	t o k - - - -	114-2
+1417	urupa	t u k e s i	t u k e s i -	114-2
+1418	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-2
+1419	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-2
+1420	cojubim	t o k	t o k - - - -	114-3
+1421	jaru	t e k i s i	t e k i s i -	114-3
+1422	kitemoka	k u tʃ i	- - k u tʃ i -	114-3
+1423	more	t o k	t o k - - - -	114-3
+1424	orowin	t o k i s i	t o k i s i -	114-3
+1425	tapakura	t u k u tʃ i	t u k u tʃ i -	114-3
+1426	tora	t o k	t o k - - - -	114-3
+1427	urupa	t u k e s i	t u k e s i -	114-3
+1428	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-3
+1429	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-3
+1430	cojubim	t o k	t o k - - - -	114-4
+1431	jaru	t e k i s i	t e k i s i -	114-4
+1432	kitemoka	k u tʃ i	- - k u tʃ i -	114-4
+1433	more	t o k	t o k - - - -	114-4
+1434	orowin	t o k i s i	t o k i s i -	114-4
+1435	tapakura	t u k u tʃ i	t u k u tʃ i -	114-4
+1436	tora	t o k	t o k - - - -	114-4
+1437	urupa	t u k e s i	t u k e s i -	114-4
+1438	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-4
+1439	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-4
+1440	cojubim	t o k	t o k - - - -	114-5
+1441	jaru	t e k i s i	t e k i s i -	114-5
+1442	kitemoka	k u tʃ i	- - k u tʃ i -	114-5
+1443	more	t o k	t o k - - - -	114-5
+1444	orowin	t o k i s i	t o k i s i -	114-5
+1445	tapakura	t u k u tʃ i	t u k u tʃ i -	114-5
+1446	tora	t o k	t o k - - - -	114-5
+1447	urupa	t u k e s i	t u k e s i -	114-5
+1448	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-5
+1449	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-5
+1450	cojubim	t o k	t o k - - - -	114-6
+1451	jaru	t e k i s i	t e k i s i -	114-6
+1452	kitemoka	k u tʃ i	- - k u tʃ i -	114-6
+1453	more	t o k	t o k - - - -	114-6
+1454	orowin	t o k i s i	t o k i s i -	114-6
+1455	tapakura	t u k u tʃ i	t u k u tʃ i -	114-6
+1456	tora	t o k	t o k - - - -	114-6
+1457	urupa	t u k e s i	t u k e s i -	114-6
+1458	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-6
+1459	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-6
+1460	cojubim	t o k	t o k - - - -	114-7
+1461	jaru	t e k i s i	t e k i s i -	114-7
+1462	kitemoka	k u tʃ i	- - k u tʃ i -	114-7
+1463	more	t o k	t o k - - - -	114-7
+1464	orowin	t o k i s i	t o k i s i -	114-7
+1465	tapakura	t u k u tʃ i	t u k u tʃ i -	114-7
+1466	tora	t o k	t o k - - - -	114-7
+1467	urupa	t u k e s i	t u k e s i -	114-7
+1468	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-7
+1469	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-7
+1470	cojubim	t o k	t o k - - - -	114-8
+1471	jaru	t e k i s i	t e k i s i -	114-8
+1472	kitemoka	k u tʃ i	- - k u tʃ i -	114-8
+1473	more	t o k	t o k - - - -	114-8
+1474	orowin	t o k i s i	t o k i s i -	114-8
+1475	tapakura	t u k u tʃ i	t u k u tʃ i -	114-8
+1476	tora	t o k	t o k - - - -	114-8
+1477	urupa	t u k e s i	t u k e s i -	114-8
+1478	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-8
+1479	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-8
+1480	cojubim	t o k	t o k - - - -	114-9
+1481	jaru	t e k i s i	t e k i s i -	114-9
+1482	kitemoka	k u tʃ i	- - k u tʃ i -	114-9
+1483	more	t o k	t o k - - - -	114-9
+1484	orowin	t o k i s i	t o k i s i -	114-9
+1485	tapakura	t u k u tʃ i	t u k u tʃ i -	114-9
+1486	tora	t o k	t o k - - - -	114-9
+1487	urupa	t u k e s i	t u k e s i -	114-9
+1488	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-9
+1489	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-9
+1490	cojubim	u r	- - u r - - - -	115-1
+1491	jaru	j o l i s i	- j o l i s i -	115-1
+1492	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-1
+1493	more	u ʒ̟	- - u ʒ̟ - - - -	115-1
+1494	orowin	y r y s i	- - y r y s i -	115-1
+1495	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-1
+1496	tora	u j	- - u j - - - -	115-1
+1497	urupa	j u r e s i	- j u r e s i -	115-1
+1498	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-1
+1499	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-1
+1500	cojubim	u r	- - u r - - - -	115-2
+1501	jaru	j o l i s i	- j o l i s i -	115-2
+1502	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-2
+1503	more	u ʒ̟	- - u ʒ̟ - - - -	115-2
+1504	orowin	y r y s i	- - y r y s i -	115-2
+1505	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-2
+1506	tora	u j	- - u j - - - -	115-2
+1507	urupa	j u r e s i	- j u r e s i -	115-2
+1508	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-2
+1509	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-2
+1510	cojubim	u r	- - u r - - - -	115-3
+1511	jaru	j o l i s i	- j o l i s i -	115-3
+1512	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-3
+1513	more	u ʒ̟	- - u ʒ̟ - - - -	115-3
+1514	orowin	y r y s i	- - y r y s i -	115-3
+1515	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-3
+1516	tora	u j	- - u j - - - -	115-3
+1517	urupa	j u r e s i	- j u r e s i -	115-3
+1518	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-3
+1519	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-3
+1520	cojubim	u r	- - u r - - - -	115-4
+1521	jaru	j o l i s i	- j o l i s i -	115-4
+1522	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-4
+1523	more	u ʒ̟	- - u ʒ̟ - - - -	115-4
+1524	orowin	y r y s i	- - y r y s i -	115-4
+1525	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-4
+1526	tora	u j	- - u j - - - -	115-4
+1527	urupa	j u r e s i	- j u r e s i -	115-4
+1528	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-4
+1529	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-4
+1530	cojubim	u r	- - u r - - - -	115-5
+1531	jaru	j o l i s i	- j o l i s i -	115-5
+1532	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-5
+1533	more	u ʒ̟	- - u ʒ̟ - - - -	115-5
+1534	orowin	y r y s i	- - y r y s i -	115-5
+1535	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-5
+1536	tora	u j	- - u j - - - -	115-5
+1537	urupa	j u r e s i	- j u r e s i -	115-5
+1538	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-5
+1539	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-5
+1540	cojubim	u r	- - u r - - - -	115-6
+1541	jaru	j o l i s i	- j o l i s i -	115-6
+1542	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-6
+1543	more	u ʒ̟	- - u ʒ̟ - - - -	115-6
+1544	orowin	y r y s i	- - y r y s i -	115-6
+1545	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-6
+1546	tora	u j	- - u j - - - -	115-6
+1547	urupa	j u r e s i	- j u r e s i -	115-6
+1548	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-6
+1549	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-6
+1550	cojubim	u r	- - u r - - - -	115-7
+1551	jaru	j o l i s i	- j o l i s i -	115-7
+1552	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-7
+1553	more	u ʒ̟	- - u ʒ̟ - - - -	115-7
+1554	orowin	y r y s i	- - y r y s i -	115-7
+1555	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-7
+1556	tora	u j	- - u j - - - -	115-7
+1557	urupa	j u r e s i	- j u r e s i -	115-7
+1558	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-7
+1559	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-7
+1560	cojubim	u r	- - u r - - - -	115-8
+1561	jaru	j o l i s i	- j o l i s i -	115-8
+1562	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-8
+1563	more	u ʒ̟	- - u ʒ̟ - - - -	115-8
+1564	orowin	y r y s i	- - y r y s i -	115-8
+1565	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-8
+1566	tora	u j	- - u j - - - -	115-8
+1567	urupa	j u r e s i	- j u r e s i -	115-8
+1568	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-8
+1569	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-8
+1570	cojubim	u r	- - u r - - - -	115-9
+1571	jaru	j o l i s i	- j o l i s i -	115-9
+1572	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-9
+1573	more	u ʒ̟	- - u ʒ̟ - - - -	115-9
+1574	orowin	y r y s i	- - y r y s i -	115-9
+1575	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-9
+1576	tora	u j	- - u j - - - -	115-9
+1577	urupa	j u r e s i	- j u r e s i -	115-9
+1578	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-9
+1579	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-9
+1580	jaru	t u p a k a s i	t u p a k a s i -	116-2
+1581	more	t o p a k	t o p a k - - - -	116-2
+1582	orowin	t o p a k a s i	t o p a k a s i -	116-2
+1583	tapakura	t u p a k a tʃ i	t u p a k a tʃ i -	116-2
+1584	urupa	t u p a k a s i	t u p a k a s i -	116-2
+1585	wanyam	t o p a k a ʃ i ʔ	t o p a k a ʃ i ʔ	116-2
+1586	wari	t o p a k	t o p a k - - - -	116-2
+1587	jaru	t u p a k a s i	t u p a k a s i -	116-4
+1588	more	t o p a k	t o p a k - - - -	116-4
+1589	orowin	t o p a k a s i	t o p a k a s i -	116-4
+1590	tapakura	t u p a k a tʃ i	t u p a k a tʃ i -	116-4
+1591	urupa	t u p a k a s i	t u p a k a s i -	116-4
+1592	wanyam	t o p a k a ʃ i ʔ	t o p a k a ʃ i ʔ	116-4
+1593	wari	t o p a k	t o p a k - - - -	116-4
+1594	jaru	t u p a k a s i	t u p a k a s i -	116-5
+1595	more	t o p a k	t o p a k - - - -	116-5
+1596	orowin	t o p a k a s i	t o p a k a s i -	116-5
+1597	tapakura	t u p a k a tʃ i	t u p a k a tʃ i -	116-5
+1598	urupa	t u p a k a s i	t u p a k a s i -	116-5
+1599	wanyam	t o p a k a ʃ i ʔ	t o p a k a ʃ i ʔ	116-5
+1600	wari	t o p a k	t o p a k - - - -	116-5
+1601	jaru	t u p a k a s i	t u p a k a s i -	116-6
+1602	more	t o p a k	t o p a k - - - -	116-6
+1603	orowin	t o p a k a s i	t o p a k a s i -	116-6
+1604	tapakura	t u p a k a tʃ i	t u p a k a tʃ i -	116-6
+1605	urupa	t u p a k a s i	t u p a k a s i -	116-6
+1606	wanyam	t o p a k a ʃ i ʔ	t o p a k a ʃ i ʔ	116-6
+1607	wari	t o p a k	t o p a k - - - -	116-6
+1608	jaru	t u p a k a s i	t u p a k a s i -	116-8
+1609	more	t o p a k	t o p a k - - - -	116-8
+1610	orowin	t o p a k a s i	t o p a k a s i -	116-8
+1611	tapakura	t u p a k a tʃ i	t u p a k a tʃ i -	116-8
+1612	urupa	t u p a k a s i	t u p a k a s i -	116-8
+1613	wanyam	t o p a k a ʃ i ʔ	t o p a k a ʃ i ʔ	116-8
+1614	wari	t o p a k	t o p a k - - - -	116-8
+1615	jaru	t u p a k a s i	t u p a k a s i -	116-9
+1616	more	t o p a k	t o p a k - - - -	116-9
+1617	orowin	t o p a k a s i	t o p a k a s i -	116-9
+1618	tapakura	t u p a k a tʃ i	t u p a k a tʃ i -	116-9
+1619	urupa	t u p a k a s i	t u p a k a s i -	116-9
+1620	wanyam	t o p a k a ʃ i ʔ	t o p a k a ʃ i ʔ	116-9
+1621	wari	t o p a k	t o p a k - - - -	116-9
+1622	jaru	i t i s i	- - i t i s i -	119-2
+1623	kitemoka	i j a d i tʃ e	i j a d i tʃ e -	119-2
+1624	more	j a t	- j a t - - - -	119-2
+1625	orowin	i j i t i s i	i j i t i s i -	119-2
+1626	tapakura	j a t i tʃ i	- j a t i tʃ i -	119-2
+1627	tora	j a t i ʃ i	- j a t i ʃ i -	119-2
+1628	urupa	j e t i s i	- j e t i s i -	119-2
+1629	wanyam	i j i t i ʃ i ʔ	i j i t i ʃ i ʔ	119-2
+1630	wari	tʃ i tʃ i ʔ	- tʃ i tʃ i ʔ - -	119-2
+1631	jaru	i t i s i	- - i t i s i -	119-3
+1632	kitemoka	i j a d i tʃ e	i j a d i tʃ e -	119-3
+1633	more	j a t	- j a t - - - -	119-3
+1634	orowin	i j i t i s i	i j i t i s i -	119-3
+1635	tapakura	j a t i tʃ i	- j a t i tʃ i -	119-3
+1636	tora	j a t i ʃ i	- j a t i ʃ i -	119-3
+1637	urupa	j e t i s i	- j e t i s i -	119-3
+1638	wanyam	i j i t i ʃ i ʔ	i j i t i ʃ i ʔ	119-3
+1639	wari	tʃ i tʃ i ʔ	- tʃ i tʃ i ʔ - -	119-3
+1640	jaru	i t i s i	- - i t i s i -	119-4
+1641	kitemoka	i j a d i tʃ e	i j a d i tʃ e -	119-4
+1642	more	j a t	- j a t - - - -	119-4
+1643	orowin	i j i t i s i	i j i t i s i -	119-4
+1644	tapakura	j a t i tʃ i	- j a t i tʃ i -	119-4
+1645	tora	j a t i ʃ i	- j a t i ʃ i -	119-4
+1646	urupa	j e t i s i	- j e t i s i -	119-4
+1647	wanyam	i j i t i ʃ i ʔ	i j i t i ʃ i ʔ	119-4
+1648	wari	tʃ i tʃ i ʔ	- tʃ i tʃ i ʔ - -	119-4
+1649	jaru	i t i s i	- - i t i s i -	119-5
+1650	kitemoka	i j a d i tʃ e	i j a d i tʃ e -	119-5
+1651	more	j a t	- j a t - - - -	119-5
+1652	orowin	i j i t i s i	i j i t i s i -	119-5
+1653	tapakura	j a t i tʃ i	- j a t i tʃ i -	119-5
+1654	tora	j a t i ʃ i	- j a t i ʃ i -	119-5
+1655	urupa	j e t i s i	- j e t i s i -	119-5
+1656	wanyam	i j i t i ʃ i ʔ	i j i t i ʃ i ʔ	119-5
+1657	wari	tʃ i tʃ i ʔ	- tʃ i tʃ i ʔ - -	119-5
+1658	jaru	i t i s i	- - i t i s i -	119-6
+1659	kitemoka	i j a d i tʃ e	i j a d i tʃ e -	119-6
+1660	more	j a t	- j a t - - - -	119-6
+1661	orowin	i j i t i s i	i j i t i s i -	119-6
+1662	tapakura	j a t i tʃ i	- j a t i tʃ i -	119-6
+1663	tora	j a t i ʃ i	- j a t i ʃ i -	119-6
+1664	urupa	j e t i s i	- j e t i s i -	119-6
+1665	wanyam	i j i t i ʃ i ʔ	i j i t i ʃ i ʔ	119-6
+1666	wari	tʃ i tʃ i ʔ	- tʃ i tʃ i ʔ - -	119-6
+1667	jaru	i t i s i	- - i t i s i -	119-7
+1668	kitemoka	i j a d i tʃ e	i j a d i tʃ e -	119-7
+1669	more	j a t	- j a t - - - -	119-7
+1670	orowin	i j i t i s i	i j i t i s i -	119-7
+1671	tapakura	j a t i tʃ i	- j a t i tʃ i -	119-7
+1672	tora	j a t i ʃ i	- j a t i ʃ i -	119-7
+1673	urupa	j e t i s i	- j e t i s i -	119-7
+1674	wanyam	i j i t i ʃ i ʔ	i j i t i ʃ i ʔ	119-7
+1675	wari	tʃ i tʃ i ʔ	- tʃ i tʃ i ʔ - -	119-7
+1676	jaru	i t i s i	- - i t i s i -	119-8
+1677	kitemoka	i j a d i tʃ e	i j a d i tʃ e -	119-8
+1678	more	j a t	- j a t - - - -	119-8
+1679	orowin	i j i t i s i	i j i t i s i -	119-8
+1680	tapakura	j a t i tʃ i	- j a t i tʃ i -	119-8
+1681	tora	j a t i ʃ i	- j a t i ʃ i -	119-8
+1682	urupa	j e t i s i	- j e t i s i -	119-8
+1683	wanyam	i j i t i ʃ i ʔ	i j i t i ʃ i ʔ	119-8
+1684	wari	tʃ i tʃ i ʔ	- tʃ i tʃ i ʔ - -	119-8
+1685	jaru	i t i s i	- - i t i s i -	119-9
+1686	kitemoka	i j a d i tʃ e	i j a d i tʃ e -	119-9
+1687	more	j a t	- j a t - - - -	119-9
+1688	orowin	i j i t i s i	i j i t i s i -	119-9
+1689	tapakura	j a t i tʃ i	- j a t i tʃ i -	119-9
+1690	tora	j a t i ʃ i	- j a t i ʃ i -	119-9
+1691	urupa	j e t i s i	- j e t i s i -	119-9
+1692	wanyam	i j i t i ʃ i ʔ	i j i t i ʃ i ʔ	119-9
+1693	wari	tʃ i tʃ i ʔ	- tʃ i tʃ i ʔ - -	119-9
+1694	cojubim	k a p a j a k	k a p a j a - - - - k	121-1
+1695	jaru	k a p i a k a s i	k a p i - a k a s i -	121-1
+1696	kitemoka	k a p i k a k a tʃ e	k a p i k a k a tʃ e -	121-1
+1697	more	k a p a j a k	k a p a j a - - - - k	121-1
+1698	tora	k a p i a k i ʃ i ʔ	k a p i - a k i ʃ i ʔ	121-1
+1699	urupa	k a p i a k a s i	k a p i - a k a s i -	121-1
+1700	wanyam	k a p i j a k a ʃ i ʔ	k a p i j a k a ʃ i ʔ	121-1
+1701	wari	k a p i j a tʃ i ʔ	k a p i j a tʃ - - i ʔ	121-1
+1702	cojubim	k a p a j a k	k a p a j a - - - - k	121-2
+1703	jaru	k a p i a k a s i	k a p i - a k a s i -	121-2
+1704	kitemoka	k a p i k a k a tʃ e	k a p i k a k a tʃ e -	121-2
+1705	more	k a p a j a k	k a p a j a - - - - k	121-2
+1706	tora	k a p i a k i ʃ i ʔ	k a p i - a k i ʃ i ʔ	121-2
+1707	urupa	k a p i a k a s i	k a p i - a k a s i -	121-2
+1708	wanyam	k a p i j a k a ʃ i ʔ	k a p i j a k a ʃ i ʔ	121-2
+1709	wari	k a p i j a tʃ i ʔ	k a p i j a tʃ - - i ʔ	121-2
+1710	cojubim	k a p a j a k	k a p a j a - - - - k	121-3
+1711	jaru	k a p i a k a s i	k a p i - a k a s i -	121-3
+1712	kitemoka	k a p i k a k a tʃ e	k a p i k a k a tʃ e -	121-3
+1713	more	k a p a j a k	k a p a j a - - - - k	121-3
+1714	tora	k a p i a k i ʃ i ʔ	k a p i - a k i ʃ i ʔ	121-3
+1715	urupa	k a p i a k a s i	k a p i - a k a s i -	121-3
+1716	wanyam	k a p i j a k a ʃ i ʔ	k a p i j a k a ʃ i ʔ	121-3
+1717	wari	k a p i j a tʃ i ʔ	k a p i j a tʃ - - i ʔ	121-3
+1718	cojubim	k a p a j a k	k a p a j a - - - - k	121-4
+1719	jaru	k a p i a k a s i	k a p i - a k a s i -	121-4
+1720	kitemoka	k a p i k a k a tʃ e	k a p i k a k a tʃ e -	121-4
+1721	more	k a p a j a k	k a p a j a - - - - k	121-4
+1722	tora	k a p i a k i ʃ i ʔ	k a p i - a k i ʃ i ʔ	121-4
+1723	urupa	k a p i a k a s i	k a p i - a k a s i -	121-4
+1724	wanyam	k a p i j a k a ʃ i ʔ	k a p i j a k a ʃ i ʔ	121-4
+1725	wari	k a p i j a tʃ i ʔ	k a p i j a tʃ - - i ʔ	121-4
+1726	cojubim	k a p a j a k	k a p a j a - - - - k	121-7
+1727	jaru	k a p i a k a s i	k a p i - a k a s i -	121-7
+1728	kitemoka	k a p i k a k a tʃ e	k a p i k a k a tʃ e -	121-7
+1729	more	k a p a j a k	k a p a j a - - - - k	121-7
+1730	tora	k a p i a k i ʃ i ʔ	k a p i - a k i ʃ i ʔ	121-7
+1731	urupa	k a p i a k a s i	k a p i - a k a s i -	121-7
+1732	wanyam	k a p i j a k a ʃ i ʔ	k a p i j a k a ʃ i ʔ	121-7
+1733	wari	k a p i j a tʃ i ʔ	k a p i j a tʃ - - i ʔ	121-7
+1734	cojubim	k a p a j a k	k a p a j a - - - - k	121-8
+1735	jaru	k a p i a k a s i	k a p i - a k a s i -	121-8
+1736	kitemoka	k a p i k a k a tʃ e	k a p i k a k a tʃ e -	121-8
+1737	more	k a p a j a k	k a p a j a - - - - k	121-8
+1738	tora	k a p i a k i ʃ i ʔ	k a p i - a k i ʃ i ʔ	121-8
+1739	urupa	k a p i a k a s i	k a p i - a k a s i -	121-8
+1740	wanyam	k a p i j a k a ʃ i ʔ	k a p i j a k a ʃ i ʔ	121-8
+1741	wari	k a p i j a tʃ i ʔ	k a p i j a tʃ - - i ʔ	121-8
+1742	cojubim	k a p a j a k	k a p a j a - - - - k	121-9
+1743	jaru	k a p i a k a s i	k a p i - a k a s i -	121-9
+1744	kitemoka	k a p i k a k a tʃ e	k a p i k a k a tʃ e -	121-9
+1745	more	k a p a j a k	k a p a j a - - - - k	121-9
+1746	tora	k a p i a k i ʃ i ʔ	k a p i - a k i ʃ i ʔ	121-9
+1747	urupa	k a p i a k a s i	k a p i - a k a s i -	121-9
+1748	wanyam	k a p i j a k a ʃ i ʔ	k a p i j a k a ʃ i ʔ	121-9
+1749	wari	k a p i j a tʃ i ʔ	k a p i j a tʃ - - i ʔ	121-9
+1750	jaru	k a t i m a s i	k a t i m a s i -	125-2
+1751	kitemoka	k a i m a tʃ e	k a - i m a tʃ e -	125-2
+1752	tapakura	k a i m a tʃ i	k a - i m a tʃ i -	125-2
+1753	tora	k a z i m a	k a z i m - - a -	125-2
+1754	urupa	k a t i m a s i	k a t i m a s i -	125-2
+1755	wanyam	k a t i m a ʃ i ʔ	k a t i m a ʃ i ʔ	125-2
+1756	wari	k a tʃ i m a tʃ i ʔ	k a tʃ i m a tʃ i ʔ	125-2
+1757	jaru	k a t i m a s i	k a t i m a s i -	125-3
+1758	kitemoka	k a i m a tʃ e	k a - i m a tʃ e -	125-3
+1759	tapakura	k a i m a tʃ i	k a - i m a tʃ i -	125-3
+1760	tora	k a z i m a	k a z i m - - a -	125-3
+1761	urupa	k a t i m a s i	k a t i m a s i -	125-3
+1762	wanyam	k a t i m a ʃ i ʔ	k a t i m a ʃ i ʔ	125-3
+1763	wari	k a tʃ i m a tʃ i ʔ	k a tʃ i m a tʃ i ʔ	125-3
+1764	jaru	k a t i m a s i	k a t i m a s i -	125-6
+1765	kitemoka	k a i m a tʃ e	k a - i m a tʃ e -	125-6
+1766	tapakura	k a i m a tʃ i	k a - i m a tʃ i -	125-6
+1767	tora	k a z i m a	k a z i m - - a -	125-6
+1768	urupa	k a t i m a s i	k a t i m a s i -	125-6
+1769	wanyam	k a t i m a ʃ i ʔ	k a t i m a ʃ i ʔ	125-6
+1770	wari	k a tʃ i m a tʃ i ʔ	k a tʃ i m a tʃ i ʔ	125-6
+1771	jaru	k a t i m a s i	k a t i m a s i -	125-7
+1772	kitemoka	k a i m a tʃ e	k a - i m a tʃ e -	125-7
+1773	tapakura	k a i m a tʃ i	k a - i m a tʃ i -	125-7
+1774	tora	k a z i m a	k a z i m - - a -	125-7
+1775	urupa	k a t i m a s i	k a t i m a s i -	125-7
+1776	wanyam	k a t i m a ʃ i ʔ	k a t i m a ʃ i ʔ	125-7
+1777	wari	k a tʃ i m a tʃ i ʔ	k a tʃ i m a tʃ i ʔ	125-7
+1778	jaru	k a t i m a s i	k a t i m a s i -	125-8
+1779	kitemoka	k a i m a tʃ e	k a - i m a tʃ e -	125-8
+1780	tapakura	k a i m a tʃ i	k a - i m a tʃ i -	125-8
+1781	tora	k a z i m a	k a z i m - - a -	125-8
+1782	urupa	k a t i m a s i	k a t i m a s i -	125-8
+1783	wanyam	k a t i m a ʃ i ʔ	k a t i m a ʃ i ʔ	125-8
+1784	wari	k a tʃ i m a tʃ i ʔ	k a tʃ i m a tʃ i ʔ	125-8
+1785	jaru	k a t i m a s i	k a t i m a s i -	125-9
+1786	kitemoka	k a i m a tʃ e	k a - i m a tʃ e -	125-9
+1787	tapakura	k a i m a tʃ i	k a - i m a tʃ i -	125-9
+1788	tora	k a z i m a	k a z i m - - a -	125-9
+1789	urupa	k a t i m a s i	k a t i m a s i -	125-9
+1790	wanyam	k a t i m a ʃ i ʔ	k a t i m a ʃ i ʔ	125-9
+1791	wari	k a tʃ i m a tʃ i ʔ	k a tʃ i m a tʃ i ʔ	125-9
+1792	cojubim	p o k	p o k - - - -	128-1
+1793	jaru	e k i s i	- e k i s i -	128-1
+1794	kitemoka	k o h o tʃ i	k o h o tʃ i -	128-1
+1795	more	p o k	p o k - - - -	128-1
+1796	orowin	f o k i s i	f o k i s i -	128-1
+1797	tapakura	u k u tʃ i	- u k u tʃ i -	128-1
+1798	tora	h o k	h o k - - - -	128-1
+1799	wanyam	h o k i ʃ i ʔ	h o k i ʃ i ʔ	128-1
+1800	wari	k o k o tʃ i ʔ	k o k o tʃ i ʔ	128-1
+1801	cojubim	p o k	p o k - - - -	128-2
+1802	jaru	e k i s i	- e k i s i -	128-2
+1803	kitemoka	k o h o tʃ i	k o h o tʃ i -	128-2
+1804	more	p o k	p o k - - - -	128-2
+1805	orowin	f o k i s i	f o k i s i -	128-2
+1806	tapakura	u k u tʃ i	- u k u tʃ i -	128-2
+1807	tora	h o k	h o k - - - -	128-2
+1808	wanyam	h o k i ʃ i ʔ	h o k i ʃ i ʔ	128-2
+1809	wari	k o k o tʃ i ʔ	k o k o tʃ i ʔ	128-2
+1810	cojubim	p o k	p o k - - - -	128-3
+1811	jaru	e k i s i	- e k i s i -	128-3
+1812	kitemoka	k o h o tʃ i	k o h o tʃ i -	128-3
+1813	more	p o k	p o k - - - -	128-3
+1814	orowin	f o k i s i	f o k i s i -	128-3
+1815	tapakura	u k u tʃ i	- u k u tʃ i -	128-3
+1816	tora	h o k	h o k - - - -	128-3
+1817	wanyam	h o k i ʃ i ʔ	h o k i ʃ i ʔ	128-3
+1818	wari	k o k o tʃ i ʔ	k o k o tʃ i ʔ	128-3
+1819	cojubim	p o k	p o k - - - -	128-4
+1820	jaru	e k i s i	- e k i s i -	128-4
+1821	kitemoka	k o h o tʃ i	k o h o tʃ i -	128-4
+1822	more	p o k	p o k - - - -	128-4
+1823	orowin	f o k i s i	f o k i s i -	128-4
+1824	tapakura	u k u tʃ i	- u k u tʃ i -	128-4
+1825	tora	h o k	h o k - - - -	128-4
+1826	wanyam	h o k i ʃ i ʔ	h o k i ʃ i ʔ	128-4
+1827	wari	k o k o tʃ i ʔ	k o k o tʃ i ʔ	128-4
+1828	cojubim	p o k	p o k - - - -	128-5
+1829	jaru	e k i s i	- e k i s i -	128-5
+1830	kitemoka	k o h o tʃ i	k o h o tʃ i -	128-5
+1831	more	p o k	p o k - - - -	128-5
+1832	orowin	f o k i s i	f o k i s i -	128-5
+1833	tapakura	u k u tʃ i	- u k u tʃ i -	128-5
+1834	tora	h o k	h o k - - - -	128-5
+1835	wanyam	h o k i ʃ i ʔ	h o k i ʃ i ʔ	128-5
+1836	wari	k o k o tʃ i ʔ	k o k o tʃ i ʔ	128-5
+1837	cojubim	p o k	p o k - - - -	128-6
+1838	jaru	e k i s i	- e k i s i -	128-6
+1839	kitemoka	k o h o tʃ i	k o h o tʃ i -	128-6
+1840	more	p o k	p o k - - - -	128-6
+1841	orowin	f o k i s i	f o k i s i -	128-6
+1842	tapakura	u k u tʃ i	- u k u tʃ i -	128-6
+1843	tora	h o k	h o k - - - -	128-6
+1844	wanyam	h o k i ʃ i ʔ	h o k i ʃ i ʔ	128-6
+1845	wari	k o k o tʃ i ʔ	k o k o tʃ i ʔ	128-6
+1846	cojubim	p o k	p o k - - - -	128-7
+1847	jaru	e k i s i	- e k i s i -	128-7
+1848	kitemoka	k o h o tʃ i	k o h o tʃ i -	128-7
+1849	more	p o k	p o k - - - -	128-7
+1850	orowin	f o k i s i	f o k i s i -	128-7
+1851	tapakura	u k u tʃ i	- u k u tʃ i -	128-7
+1852	tora	h o k	h o k - - - -	128-7
+1853	wanyam	h o k i ʃ i ʔ	h o k i ʃ i ʔ	128-7
+1854	wari	k o k o tʃ i ʔ	k o k o tʃ i ʔ	128-7
+1855	cojubim	p o k	p o k - - - -	128-9
+1856	jaru	e k i s i	- e k i s i -	128-9
+1857	kitemoka	k o h o tʃ i	k o h o tʃ i -	128-9
+1858	more	p o k	p o k - - - -	128-9
+1859	orowin	f o k i s i	f o k i s i -	128-9
+1860	tapakura	u k u tʃ i	- u k u tʃ i -	128-9
+1861	tora	h o k	h o k - - - -	128-9
+1862	wanyam	h o k i ʃ i ʔ	h o k i ʃ i ʔ	128-9
+1863	wari	k o k o tʃ i ʔ	k o k o tʃ i ʔ	128-9
+1864	cojubim	t i p a n	- t i p - - a n - -	133-1
+1865	jaru	t i p r a s i	- t i p - r a s i -	133-1
+1866	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-1
+1867	more	t i p a n	- t i p - - a n - -	133-1
+1868	orowin	t i p r a s i	- t i p - r a s i -	133-1
+1869	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-1
+1870	tora	t i p a r a	- t i p - - a r a -	133-1
+1871	urupa	t i p r a s i	- t i p - r a s i -	133-1
+1872	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-1
+1873	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-1
+1874	cojubim	t i p a n	- t i p - - a n - -	133-2
+1875	jaru	t i p r a s i	- t i p - r a s i -	133-2
+1876	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-2
+1877	more	t i p a n	- t i p - - a n - -	133-2
+1878	orowin	t i p r a s i	- t i p - r a s i -	133-2
+1879	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-2
+1880	tora	t i p a r a	- t i p - - a r a -	133-2
+1881	urupa	t i p r a s i	- t i p - r a s i -	133-2
+1882	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-2
+1883	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-2
+1884	cojubim	t i p a n	- t i p - - a n - -	133-3
+1885	jaru	t i p r a s i	- t i p - r a s i -	133-3
+1886	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-3
+1887	more	t i p a n	- t i p - - a n - -	133-3
+1888	orowin	t i p r a s i	- t i p - r a s i -	133-3
+1889	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-3
+1890	tora	t i p a r a	- t i p - - a r a -	133-3
+1891	urupa	t i p r a s i	- t i p - r a s i -	133-3
+1892	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-3
+1893	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-3
+1894	cojubim	t i p a n	- t i p - - a n - -	133-4
+1895	jaru	t i p r a s i	- t i p - r a s i -	133-4
+1896	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-4
+1897	more	t i p a n	- t i p - - a n - -	133-4
+1898	orowin	t i p r a s i	- t i p - r a s i -	133-4
+1899	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-4
+1900	tora	t i p a r a	- t i p - - a r a -	133-4
+1901	urupa	t i p r a s i	- t i p - r a s i -	133-4
+1902	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-4
+1903	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-4
+1904	cojubim	t i p a n	- t i p - - a n - -	133-5
+1905	jaru	t i p r a s i	- t i p - r a s i -	133-5
+1906	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-5
+1907	more	t i p a n	- t i p - - a n - -	133-5
+1908	orowin	t i p r a s i	- t i p - r a s i -	133-5
+1909	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-5
+1910	tora	t i p a r a	- t i p - - a r a -	133-5
+1911	urupa	t i p r a s i	- t i p - r a s i -	133-5
+1912	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-5
+1913	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-5
+1914	cojubim	t i p a n	- t i p - - a n - -	133-6
+1915	jaru	t i p r a s i	- t i p - r a s i -	133-6
+1916	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-6
+1917	more	t i p a n	- t i p - - a n - -	133-6
+1918	orowin	t i p r a s i	- t i p - r a s i -	133-6
+1919	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-6
+1920	tora	t i p a r a	- t i p - - a r a -	133-6
+1921	urupa	t i p r a s i	- t i p - r a s i -	133-6
+1922	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-6
+1923	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-6
+1924	cojubim	t i p a n	- t i p - - a n - -	133-7
+1925	jaru	t i p r a s i	- t i p - r a s i -	133-7
+1926	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-7
+1927	more	t i p a n	- t i p - - a n - -	133-7
+1928	orowin	t i p r a s i	- t i p - r a s i -	133-7
+1929	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-7
+1930	tora	t i p a r a	- t i p - - a r a -	133-7
+1931	urupa	t i p r a s i	- t i p - r a s i -	133-7
+1932	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-7
+1933	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-7
+1934	cojubim	t i p a n	- t i p - - a n - -	133-8
+1935	jaru	t i p r a s i	- t i p - r a s i -	133-8
+1936	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-8
+1937	more	t i p a n	- t i p - - a n - -	133-8
+1938	orowin	t i p r a s i	- t i p - r a s i -	133-8
+1939	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-8
+1940	tora	t i p a r a	- t i p - - a r a -	133-8
+1941	urupa	t i p r a s i	- t i p - r a s i -	133-8
+1942	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-8
+1943	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-8
+1944	cojubim	t i p a n	- t i p - - a n - -	133-9
+1945	jaru	t i p r a s i	- t i p - r a s i -	133-9
+1946	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-9
+1947	more	t i p a n	- t i p - - a n - -	133-9
+1948	orowin	t i p r a s i	- t i p - r a s i -	133-9
+1949	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-9
+1950	tora	t i p a r a	- t i p - - a r a -	133-9
+1951	urupa	t i p r a s i	- t i p - r a s i -	133-9
+1952	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-9
+1953	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-9
+1954	cojubim	n i p a t	n i p a t - - - -	134-1
+1955	kitemoka	i p a t i	- i p a t i - - -	134-1
+1956	more	n i p a t	n i p a t - - - -	134-1
+1957	orowin	n a p a t i n a n	n a p a t i n a n	134-1
+1958	tapakura	h i p a tʃ i	h i p a tʃ i - - -	134-1
+1959	wanyam	n i p a t	n i p a t - - - -	134-1
+1960	wari	t a p a tʃ i	t a p a tʃ i - - -	134-1
+1961	cojubim	n i p a t	n i p a t - - - -	134-3
+1962	kitemoka	i p a t i	- i p a t i - - -	134-3
+1963	more	n i p a t	n i p a t - - - -	134-3
+1964	orowin	n a p a t i n a n	n a p a t i n a n	134-3
+1965	tapakura	h i p a tʃ i	h i p a tʃ i - - -	134-3
+1966	wanyam	n i p a t	n i p a t - - - -	134-3
+1967	wari	t a p a tʃ i	t a p a tʃ i - - -	134-3
+1968	cojubim	n i p a t	n i p a t - - - -	134-4
+1969	kitemoka	i p a t i	- i p a t i - - -	134-4
+1970	more	n i p a t	n i p a t - - - -	134-4
+1971	orowin	n a p a t i n a n	n a p a t i n a n	134-4
+1972	tapakura	h i p a tʃ i	h i p a tʃ i - - -	134-4
+1973	wanyam	n i p a t	n i p a t - - - -	134-4
+1974	wari	t a p a tʃ i	t a p a tʃ i - - -	134-4
+1975	cojubim	n i p a t	n i p a t - - - -	134-5
+1976	kitemoka	i p a t i	- i p a t i - - -	134-5
+1977	more	n i p a t	n i p a t - - - -	134-5
+1978	orowin	n a p a t i n a n	n a p a t i n a n	134-5
+1979	tapakura	h i p a tʃ i	h i p a tʃ i - - -	134-5
+1980	wanyam	n i p a t	n i p a t - - - -	134-5
+1981	wari	t a p a tʃ i	t a p a tʃ i - - -	134-5
+1982	cojubim	n i p a t	n i p a t - - - -	134-6
+1983	kitemoka	i p a t i	- i p a t i - - -	134-6
+1984	more	n i p a t	n i p a t - - - -	134-6
+1985	orowin	n a p a t i n a n	n a p a t i n a n	134-6
+1986	tapakura	h i p a tʃ i	h i p a tʃ i - - -	134-6
+1987	wanyam	n i p a t	n i p a t - - - -	134-6
+1988	wari	t a p a tʃ i	t a p a tʃ i - - -	134-6
+1989	cojubim	n i p a t	n i p a t - - - -	134-9
+1990	kitemoka	i p a t i	- i p a t i - - -	134-9
+1991	more	n i p a t	n i p a t - - - -	134-9
+1992	orowin	n a p a t i n a n	n a p a t i n a n	134-9
+1993	tapakura	h i p a tʃ i	h i p a tʃ i - - -	134-9
+1994	wanyam	n i p a t	n i p a t - - - -	134-9
+1995	wari	t a p a tʃ i	t a p a tʃ i - - -	134-9
+1996	jaru	t o k o t e p a s i	t o k o t e p a s i	135-2
+1997	kitemoka	k i m o tʃ e	k i m - - o tʃ e - -	135-2
+1998	more	t i m	t i m - - - - - - -	135-2
+1999	orowin	k i m i	k i m - - - - i - -	135-2
+2000	tapakura	t e k e m a tʃ e	t e k - - e m a tʃ e	135-2
+2001	tora	t o s i p a	t o - - s i p a - -	135-2
+2002	wanyam	k i m i j e k i n	k i m i j e k i n -	135-2
+2003	jaru	t o k o t e p a s i	t o k o t e p a s i	135-3
+2004	kitemoka	k i m o tʃ e	k i m - - o tʃ e - -	135-3
+2005	more	t i m	t i m - - - - - - -	135-3
+2006	orowin	k i m i	k i m - - - - i - -	135-3
+2007	tapakura	t e k e m a tʃ e	t e k - - e m a tʃ e	135-3
+2008	tora	t o s i p a	t o - - s i p a - -	135-3
+2009	wanyam	k i m i j e k i n	k i m i j e k i n -	135-3
+2010	jaru	t o k o t e p a s i	t o k o t e p a s i	135-4
+2011	kitemoka	k i m o tʃ e	k i m - - o tʃ e - -	135-4
+2012	more	t i m	t i m - - - - - - -	135-4
+2013	orowin	k i m i	k i m - - - - i - -	135-4
+2014	tapakura	t e k e m a tʃ e	t e k - - e m a tʃ e	135-4
+2015	tora	t o s i p a	t o - - s i p a - -	135-4
+2016	wanyam	k i m i j e k i n	k i m i j e k i n -	135-4
+2017	jaru	t o k o t e p a s i	t o k o t e p a s i	135-5
+2018	kitemoka	k i m o tʃ e	k i m - - o tʃ e - -	135-5
+2019	more	t i m	t i m - - - - - - -	135-5
+2020	orowin	k i m i	k i m - - - - i - -	135-5
+2021	tapakura	t e k e m a tʃ e	t e k - - e m a tʃ e	135-5
+2022	tora	t o s i p a	t o - - s i p a - -	135-5
+2023	wanyam	k i m i j e k i n	k i m i j e k i n -	135-5
+2024	jaru	t o k o t e p a s i	t o k o t e p a s i	135-6
+2025	kitemoka	k i m o tʃ e	k i m - - o tʃ e - -	135-6
+2026	more	t i m	t i m - - - - - - -	135-6
+2027	orowin	k i m i	k i m - - - - i - -	135-6
+2028	tapakura	t e k e m a tʃ e	t e k - - e m a tʃ e	135-6
+2029	tora	t o s i p a	t o - - s i p a - -	135-6
+2030	wanyam	k i m i j e k i n	k i m i j e k i n -	135-6
+2031	jaru	t o k o t e p a s i	t o k o t e p a s i	135-7
+2032	kitemoka	k i m o tʃ e	k i m - - o tʃ e - -	135-7
+2033	more	t i m	t i m - - - - - - -	135-7
+2034	orowin	k i m i	k i m - - - - i - -	135-7
+2035	tapakura	t e k e m a tʃ e	t e k - - e m a tʃ e	135-7
+2036	tora	t o s i p a	t o - - s i p a - -	135-7
+2037	wanyam	k i m i j e k i n	k i m i j e k i n -	135-7
+2038	jaru	t o k o t e p a s i	t o k o t e p a s i	135-9
+2039	kitemoka	k i m o tʃ e	k i m - - o tʃ e - -	135-9
+2040	more	t i m	t i m - - - - - - -	135-9
+2041	orowin	k i m i	k i m - - - - i - -	135-9
+2042	tapakura	t e k e m a tʃ e	t e k - - e m a tʃ e	135-9
+2043	tora	t o s i p a	t o - - s i p a - -	135-9
+2044	wanyam	k i m i j e k i n	k i m i j e k i n -	135-9
+2045	cojubim	k i r i m o n ʔ	k i r i m o n - ʔ - -	139-1
+2046	jaru	m e n e s i	- - - - m e n e s i -	139-1
+2047	kitemoka	w a e m e m i tʃ e	w a - e m e m i tʃ e -	139-1
+2048	more	m u k u r i	- - - - m u k u r i -	139-1
+2049	orowin	m o n o s i	- - - - m o n o s i -	139-1
+2050	tapakura	a m u n i tʃ i	- a - - m u n i tʃ i -	139-1
+2051	wari	m o n o tʃ i ʔ	- - - - m o n o tʃ i ʔ	139-1
+2052	cojubim	k i r i m o n ʔ	k i r i m o n - ʔ - -	139-2
+2053	jaru	m e n e s i	- - - - m e n e s i -	139-2
+2054	kitemoka	w a e m e m i tʃ e	w a - e m e m i tʃ e -	139-2
+2055	more	m u k u r i	- - - - m u k u r i -	139-2
+2056	orowin	m o n o s i	- - - - m o n o s i -	139-2
+2057	tapakura	a m u n i tʃ i	- a - - m u n i tʃ i -	139-2
+2058	wari	m o n o tʃ i ʔ	- - - - m o n o tʃ i ʔ	139-2
+2059	cojubim	k i r i m o n ʔ	k i r i m o n - ʔ - -	139-3
+2060	jaru	m e n e s i	- - - - m e n e s i -	139-3
+2061	kitemoka	w a e m e m i tʃ e	w a - e m e m i tʃ e -	139-3
+2062	more	m u k u r i	- - - - m u k u r i -	139-3
+2063	orowin	m o n o s i	- - - - m o n o s i -	139-3
+2064	tapakura	a m u n i tʃ i	- a - - m u n i tʃ i -	139-3
+2065	wari	m o n o tʃ i ʔ	- - - - m o n o tʃ i ʔ	139-3
+2066	cojubim	k i r i m o n ʔ	k i r i m o n - ʔ - -	139-4
+2067	jaru	m e n e s i	- - - - m e n e s i -	139-4
+2068	kitemoka	w a e m e m i tʃ e	w a - e m e m i tʃ e -	139-4
+2069	more	m u k u r i	- - - - m u k u r i -	139-4
+2070	orowin	m o n o s i	- - - - m o n o s i -	139-4
+2071	tapakura	a m u n i tʃ i	- a - - m u n i tʃ i -	139-4
+2072	wari	m o n o tʃ i ʔ	- - - - m o n o tʃ i ʔ	139-4
+2073	cojubim	k i r i m o n ʔ	k i r i m o n - ʔ - -	139-5
+2074	jaru	m e n e s i	- - - - m e n e s i -	139-5
+2075	kitemoka	w a e m e m i tʃ e	w a - e m e m i tʃ e -	139-5
+2076	more	m u k u r i	- - - - m u k u r i -	139-5
+2077	orowin	m o n o s i	- - - - m o n o s i -	139-5
+2078	tapakura	a m u n i tʃ i	- a - - m u n i tʃ i -	139-5
+2079	wari	m o n o tʃ i ʔ	- - - - m o n o tʃ i ʔ	139-5
+2080	cojubim	k i r i m o n ʔ	k i r i m o n - ʔ - -	139-6
+2081	jaru	m e n e s i	- - - - m e n e s i -	139-6
+2082	kitemoka	w a e m e m i tʃ e	w a - e m e m i tʃ e -	139-6
+2083	more	m u k u r i	- - - - m u k u r i -	139-6
+2084	orowin	m o n o s i	- - - - m o n o s i -	139-6
+2085	tapakura	a m u n i tʃ i	- a - - m u n i tʃ i -	139-6
+2086	wari	m o n o tʃ i ʔ	- - - - m o n o tʃ i ʔ	139-6
+2087	cojubim	p a t a m	- p a t a m - - - -	142-1
+2088	jaru	u p r a m a s i	u p - r a m a s i -	142-1
+2089	more	p a t a m	- p a t a m - - - -	142-1
+2090	orowin	o p a r a m a s i	o p a r a m a s i -	142-1
+2091	tora	p a t a m a	- p a t a m a - - -	142-1
+2092	wanyam	u p a r a m a ʃ i ʔ	u p a r a m a ʃ i ʔ	142-1
+2093	wari	p a r a m a tʃ i ʔ	- p a r a m a tʃ i ʔ	142-1
+2094	cojubim	p a t a m	- p a t a m - - - -	142-2
+2095	jaru	u p r a m a s i	u p - r a m a s i -	142-2
+2096	more	p a t a m	- p a t a m - - - -	142-2
+2097	orowin	o p a r a m a s i	o p a r a m a s i -	142-2
+2098	tora	p a t a m a	- p a t a m a - - -	142-2
+2099	wanyam	u p a r a m a ʃ i ʔ	u p a r a m a ʃ i ʔ	142-2
+2100	wari	p a r a m a tʃ i ʔ	- p a r a m a tʃ i ʔ	142-2
+2101	cojubim	p a t a m	- p a t a m - - - -	142-4
+2102	jaru	u p r a m a s i	u p - r a m a s i -	142-4
+2103	more	p a t a m	- p a t a m - - - -	142-4
+2104	orowin	o p a r a m a s i	o p a r a m a s i -	142-4
+2105	tora	p a t a m a	- p a t a m a - - -	142-4
+2106	wanyam	u p a r a m a ʃ i ʔ	u p a r a m a ʃ i ʔ	142-4
+2107	wari	p a r a m a tʃ i ʔ	- p a r a m a tʃ i ʔ	142-4
+2108	cojubim	p a t a m	- p a t a m - - - -	142-5
+2109	jaru	u p r a m a s i	u p - r a m a s i -	142-5
+2110	more	p a t a m	- p a t a m - - - -	142-5
+2111	orowin	o p a r a m a s i	o p a r a m a s i -	142-5
+2112	tora	p a t a m a	- p a t a m a - - -	142-5
+2113	wanyam	u p a r a m a ʃ i ʔ	u p a r a m a ʃ i ʔ	142-5
+2114	wari	p a r a m a tʃ i ʔ	- p a r a m a tʃ i ʔ	142-5
+2115	cojubim	p a t a m	- p a t a m - - - -	142-7
+2116	jaru	u p r a m a s i	u p - r a m a s i -	142-7
+2117	more	p a t a m	- p a t a m - - - -	142-7
+2118	orowin	o p a r a m a s i	o p a r a m a s i -	142-7
+2119	tora	p a t a m a	- p a t a m a - - -	142-7
+2120	wanyam	u p a r a m a ʃ i ʔ	u p a r a m a ʃ i ʔ	142-7
+2121	wari	p a r a m a tʃ i ʔ	- p a r a m a tʃ i ʔ	142-7
+2122	cojubim	p a t a m	- p a t a m - - - -	142-9
+2123	jaru	u p r a m a s i	u p - r a m a s i -	142-9
+2124	more	p a t a m	- p a t a m - - - -	142-9
+2125	orowin	o p a r a m a s i	o p a r a m a s i -	142-9
+2126	tora	p a t a m a	- p a t a m a - - -	142-9
+2127	wanyam	u p a r a m a ʃ i ʔ	u p a r a m a ʃ i ʔ	142-9
+2128	wari	p a r a m a tʃ i ʔ	- p a r a m a tʃ i ʔ	142-9
+2129	cojubim	a t a w	- a t a w - - - -	144-1
+2130	jaru	a r a w a s i	- a r a w a s i -	144-1
+2131	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-1
+2132	more	a t a w	- a t a w - - - -	144-1
+2133	orowin	a r a w a s i	- a r a w a s i -	144-1
+2134	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-1
+2135	tora	w u r i t i m	- - w u r i t i m	144-1
+2136	urupa	e r a w a s i	- e r a w a s i -	144-1
+2137	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-1
+2138	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-1
+2139	cojubim	a t a w	- a t a w - - - -	144-2
+2140	jaru	a r a w a s i	- a r a w a s i -	144-2
+2141	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-2
+2142	more	a t a w	- a t a w - - - -	144-2
+2143	orowin	a r a w a s i	- a r a w a s i -	144-2
+2144	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-2
+2145	tora	w u r i t i m	- - w u r i t i m	144-2
+2146	urupa	e r a w a s i	- e r a w a s i -	144-2
+2147	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-2
+2148	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-2
+2149	cojubim	a t a w	- a t a w - - - -	144-3
+2150	jaru	a r a w a s i	- a r a w a s i -	144-3
+2151	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-3
+2152	more	a t a w	- a t a w - - - -	144-3
+2153	orowin	a r a w a s i	- a r a w a s i -	144-3
+2154	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-3
+2155	tora	w u r i t i m	- - w u r i t i m	144-3
+2156	urupa	e r a w a s i	- e r a w a s i -	144-3
+2157	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-3
+2158	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-3
+2159	cojubim	a t a w	- a t a w - - - -	144-4
+2160	jaru	a r a w a s i	- a r a w a s i -	144-4
+2161	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-4
+2162	more	a t a w	- a t a w - - - -	144-4
+2163	orowin	a r a w a s i	- a r a w a s i -	144-4
+2164	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-4
+2165	tora	w u r i t i m	- - w u r i t i m	144-4
+2166	urupa	e r a w a s i	- e r a w a s i -	144-4
+2167	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-4
+2168	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-4
+2169	cojubim	a t a w	- a t a w - - - -	144-5
+2170	jaru	a r a w a s i	- a r a w a s i -	144-5
+2171	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-5
+2172	more	a t a w	- a t a w - - - -	144-5
+2173	orowin	a r a w a s i	- a r a w a s i -	144-5
+2174	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-5
+2175	tora	w u r i t i m	- - w u r i t i m	144-5
+2176	urupa	e r a w a s i	- e r a w a s i -	144-5
+2177	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-5
+2178	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-5
+2179	cojubim	a t a w	- a t a w - - - -	144-6
+2180	jaru	a r a w a s i	- a r a w a s i -	144-6
+2181	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-6
+2182	more	a t a w	- a t a w - - - -	144-6
+2183	orowin	a r a w a s i	- a r a w a s i -	144-6
+2184	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-6
+2185	tora	w u r i t i m	- - w u r i t i m	144-6
+2186	urupa	e r a w a s i	- e r a w a s i -	144-6
+2187	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-6
+2188	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-6
+2189	cojubim	a t a w	- a t a w - - - -	144-7
+2190	jaru	a r a w a s i	- a r a w a s i -	144-7
+2191	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-7
+2192	more	a t a w	- a t a w - - - -	144-7
+2193	orowin	a r a w a s i	- a r a w a s i -	144-7
+2194	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-7
+2195	tora	w u r i t i m	- - w u r i t i m	144-7
+2196	urupa	e r a w a s i	- e r a w a s i -	144-7
+2197	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-7
+2198	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-7
+2199	cojubim	a t a w	- a t a w - - - -	144-8
+2200	jaru	a r a w a s i	- a r a w a s i -	144-8
+2201	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-8
+2202	more	a t a w	- a t a w - - - -	144-8
+2203	orowin	a r a w a s i	- a r a w a s i -	144-8
+2204	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-8
+2205	tora	w u r i t i m	- - w u r i t i m	144-8
+2206	urupa	e r a w a s i	- e r a w a s i -	144-8
+2207	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-8
+2208	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-8
+2209	cojubim	a t a w	- a t a w - - - -	144-9
+2210	jaru	a r a w a s i	- a r a w a s i -	144-9
+2211	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-9
+2212	more	a t a w	- a t a w - - - -	144-9
+2213	orowin	a r a w a s i	- a r a w a s i -	144-9
+2214	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-9
+2215	tora	w u r i t i m	- - w u r i t i m	144-9
+2216	urupa	e r a w a s i	- e r a w a s i -	144-9
+2217	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-9
+2218	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-9
+2219	cojubim	k a t a t	k a - - t a t - -	145-1
+2220	more	k a t a t	k a - - t a t - -	145-1
+2221	orowin	k a r a t i s i	k a r a t i s i -	145-1
+2222	tora	k a t a s a n	k a - - t a s a n	145-1
+2223	urupa	k a r a t i s i	k a r a t i s i -	145-1
+2224	wanyam	k a r a t i ʃ i ʔ	k a r a t i ʃ i ʔ	145-1
+2225	wari	k a r a tʃ i tʃ i ʔ	k a r a tʃ i tʃ i ʔ	145-1
+2226	cojubim	k a t a t	k a - - t a t - -	145-4
+2227	more	k a t a t	k a - - t a t - -	145-4
+2228	orowin	k a r a t i s i	k a r a t i s i -	145-4
+2229	tora	k a t a s a n	k a - - t a s a n	145-4
+2230	urupa	k a r a t i s i	k a r a t i s i -	145-4
+2231	wanyam	k a r a t i ʃ i ʔ	k a r a t i ʃ i ʔ	145-4
+2232	wari	k a r a tʃ i tʃ i ʔ	k a r a tʃ i tʃ i ʔ	145-4
+2233	cojubim	k a t a t	k a - - t a t - -	145-5
+2234	more	k a t a t	k a - - t a t - -	145-5
+2235	orowin	k a r a t i s i	k a r a t i s i -	145-5
+2236	tora	k a t a s a n	k a - - t a s a n	145-5
+2237	urupa	k a r a t i s i	k a r a t i s i -	145-5
+2238	wanyam	k a r a t i ʃ i ʔ	k a r a t i ʃ i ʔ	145-5
+2239	wari	k a r a tʃ i tʃ i ʔ	k a r a tʃ i tʃ i ʔ	145-5
+2240	cojubim	k a t a t	k a - - t a t - -	145-7
+2241	more	k a t a t	k a - - t a t - -	145-7
+2242	orowin	k a r a t i s i	k a r a t i s i -	145-7
+2243	tora	k a t a s a n	k a - - t a s a n	145-7
+2244	urupa	k a r a t i s i	k a r a t i s i -	145-7
+2245	wanyam	k a r a t i ʃ i ʔ	k a r a t i ʃ i ʔ	145-7
+2246	wari	k a r a tʃ i tʃ i ʔ	k a r a tʃ i tʃ i ʔ	145-7
+2247	cojubim	k a t a t	k a - - t a t - -	145-8
+2248	more	k a t a t	k a - - t a t - -	145-8
+2249	orowin	k a r a t i s i	k a r a t i s i -	145-8
+2250	tora	k a t a s a n	k a - - t a s a n	145-8
+2251	urupa	k a r a t i s i	k a r a t i s i -	145-8
+2252	wanyam	k a r a t i ʃ i ʔ	k a r a t i ʃ i ʔ	145-8
+2253	wari	k a r a tʃ i tʃ i ʔ	k a r a tʃ i tʃ i ʔ	145-8
+2254	cojubim	k a t a t	k a - - t a t - -	145-9
+2255	more	k a t a t	k a - - t a t - -	145-9
+2256	orowin	k a r a t i s i	k a r a t i s i -	145-9
+2257	tora	k a t a s a n	k a - - t a s a n	145-9
+2258	urupa	k a r a t i s i	k a r a t i s i -	145-9
+2259	wanyam	k a r a t i ʃ i ʔ	k a r a t i ʃ i ʔ	145-9
+2260	wari	k a r a tʃ i tʃ i ʔ	k a r a tʃ i tʃ i ʔ	145-9
+2261	cojubim	t o k u	t o k - - u -	147-1
+2262	jaru	t e m i s i	t e m i s i -	147-1
+2263	kitemoka	s i m i tʃ e	s i m i tʃ e -	147-1
+2264	more	t u k u	t u k - - u -	147-1
+2265	orowin	t i m i s i	t i m i s i -	147-1
+2266	tapakura	s i m i tʃ i	s i m i tʃ i -	147-1
+2267	tora	t i m u	t i m - - u -	147-1
+2268	wanyam	t i m i ʃ i ʔ	t i m i ʃ i ʔ	147-1
+2269	wari	tʃ i m i tʃ i ʔ	tʃ i m i tʃ i ʔ	147-1
+2270	cojubim	t o k u	t o k - - u -	147-2
+2271	jaru	t e m i s i	t e m i s i -	147-2
+2272	kitemoka	s i m i tʃ e	s i m i tʃ e -	147-2
+2273	more	t u k u	t u k - - u -	147-2
+2274	orowin	t i m i s i	t i m i s i -	147-2
+2275	tapakura	s i m i tʃ i	s i m i tʃ i -	147-2
+2276	tora	t i m u	t i m - - u -	147-2
+2277	wanyam	t i m i ʃ i ʔ	t i m i ʃ i ʔ	147-2
+2278	wari	tʃ i m i tʃ i ʔ	tʃ i m i tʃ i ʔ	147-2
+2279	cojubim	t o k u	t o k - - u -	147-3
+2280	jaru	t e m i s i	t e m i s i -	147-3
+2281	kitemoka	s i m i tʃ e	s i m i tʃ e -	147-3
+2282	more	t u k u	t u k - - u -	147-3
+2283	orowin	t i m i s i	t i m i s i -	147-3
+2284	tapakura	s i m i tʃ i	s i m i tʃ i -	147-3
+2285	tora	t i m u	t i m - - u -	147-3
+2286	wanyam	t i m i ʃ i ʔ	t i m i ʃ i ʔ	147-3
+2287	wari	tʃ i m i tʃ i ʔ	tʃ i m i tʃ i ʔ	147-3
+2288	cojubim	t o k u	t o k - - u -	147-4
+2289	jaru	t e m i s i	t e m i s i -	147-4
+2290	kitemoka	s i m i tʃ e	s i m i tʃ e -	147-4
+2291	more	t u k u	t u k - - u -	147-4
+2292	orowin	t i m i s i	t i m i s i -	147-4
+2293	tapakura	s i m i tʃ i	s i m i tʃ i -	147-4
+2294	tora	t i m u	t i m - - u -	147-4
+2295	wanyam	t i m i ʃ i ʔ	t i m i ʃ i ʔ	147-4
+2296	wari	tʃ i m i tʃ i ʔ	tʃ i m i tʃ i ʔ	147-4
+2297	cojubim	t o k u	t o k - - u -	147-5
+2298	jaru	t e m i s i	t e m i s i -	147-5
+2299	kitemoka	s i m i tʃ e	s i m i tʃ e -	147-5
+2300	more	t u k u	t u k - - u -	147-5
+2301	orowin	t i m i s i	t i m i s i -	147-5
+2302	tapakura	s i m i tʃ i	s i m i tʃ i -	147-5
+2303	tora	t i m u	t i m - - u -	147-5
+2304	wanyam	t i m i ʃ i ʔ	t i m i ʃ i ʔ	147-5
+2305	wari	tʃ i m i tʃ i ʔ	tʃ i m i tʃ i ʔ	147-5
+2306	cojubim	t o k u	t o k - - u -	147-6
+2307	jaru	t e m i s i	t e m i s i -	147-6
+2308	kitemoka	s i m i tʃ e	s i m i tʃ e -	147-6
+2309	more	t u k u	t u k - - u -	147-6
+2310	orowin	t i m i s i	t i m i s i -	147-6
+2311	tapakura	s i m i tʃ i	s i m i tʃ i -	147-6
+2312	tora	t i m u	t i m - - u -	147-6
+2313	wanyam	t i m i ʃ i ʔ	t i m i ʃ i ʔ	147-6
+2314	wari	tʃ i m i tʃ i ʔ	tʃ i m i tʃ i ʔ	147-6
+2315	cojubim	t o k u	t o k - - u -	147-7
+2316	jaru	t e m i s i	t e m i s i -	147-7
+2317	kitemoka	s i m i tʃ e	s i m i tʃ e -	147-7
+2318	more	t u k u	t u k - - u -	147-7
+2319	orowin	t i m i s i	t i m i s i -	147-7
+2320	tapakura	s i m i tʃ i	s i m i tʃ i -	147-7
+2321	tora	t i m u	t i m - - u -	147-7
+2322	wanyam	t i m i ʃ i ʔ	t i m i ʃ i ʔ	147-7
+2323	wari	tʃ i m i tʃ i ʔ	tʃ i m i tʃ i ʔ	147-7
+2324	cojubim	t o k u	t o k - - u -	147-9
+2325	jaru	t e m i s i	t e m i s i -	147-9
+2326	kitemoka	s i m i tʃ e	s i m i tʃ e -	147-9
+2327	more	t u k u	t u k - - u -	147-9
+2328	orowin	t i m i s i	t i m i s i -	147-9
+2329	tapakura	s i m i tʃ i	s i m i tʃ i -	147-9
+2330	tora	t i m u	t i m - - u -	147-9
+2331	wanyam	t i m i ʃ i ʔ	t i m i ʃ i ʔ	147-9
+2332	wari	tʃ i m i tʃ i ʔ	tʃ i m i tʃ i ʔ	147-9
+2333	cojubim	tʃ a w a n	tʃ - - a w - a n - - - -	148-1
+2334	jaru	t r a w a n a s i	t - r a w - a n a s i -	148-1
+2335	more	s a w a n	s - - a w - a n - - - -	148-1
+2336	orowin	t r a w r i s i	t - r a w r i s - - i -	148-1
+2337	tora	t r a w a n a	t - r a w - a n - - a -	148-1
+2338	wanyam	t a r a w a n e ʃ i ʔ	t a r a w - a n e ʃ i ʔ	148-1
+2339	wari	t a r a w a n a tʃ i ʔ	t a r a w - a n a tʃ i ʔ	148-1
+2340	cojubim	tʃ a w a n	tʃ - - a w - a n - - - -	148-2
+2341	jaru	t r a w a n a s i	t - r a w - a n a s i -	148-2
+2342	more	s a w a n	s - - a w - a n - - - -	148-2
+2343	orowin	t r a w r i s i	t - r a w r i s - - i -	148-2
+2344	tora	t r a w a n a	t - r a w - a n - - a -	148-2
+2345	wanyam	t a r a w a n e ʃ i ʔ	t a r a w - a n e ʃ i ʔ	148-2
+2346	wari	t a r a w a n a tʃ i ʔ	t a r a w - a n a tʃ i ʔ	148-2
+2347	cojubim	tʃ a w a n	tʃ - - a w - a n - - - -	148-4
+2348	jaru	t r a w a n a s i	t - r a w - a n a s i -	148-4
+2349	more	s a w a n	s - - a w - a n - - - -	148-4
+2350	orowin	t r a w r i s i	t - r a w r i s - - i -	148-4
+2351	tora	t r a w a n a	t - r a w - a n - - a -	148-4
+2352	wanyam	t a r a w a n e ʃ i ʔ	t a r a w - a n e ʃ i ʔ	148-4
+2353	wari	t a r a w a n a tʃ i ʔ	t a r a w - a n a tʃ i ʔ	148-4
+2354	cojubim	tʃ a w a n	tʃ - - a w - a n - - - -	148-5
+2355	jaru	t r a w a n a s i	t - r a w - a n a s i -	148-5
+2356	more	s a w a n	s - - a w - a n - - - -	148-5
+2357	orowin	t r a w r i s i	t - r a w r i s - - i -	148-5
+2358	tora	t r a w a n a	t - r a w - a n - - a -	148-5
+2359	wanyam	t a r a w a n e ʃ i ʔ	t a r a w - a n e ʃ i ʔ	148-5
+2360	wari	t a r a w a n a tʃ i ʔ	t a r a w - a n a tʃ i ʔ	148-5
+2361	cojubim	tʃ a w a n	tʃ - - a w - a n - - - -	148-7
+2362	jaru	t r a w a n a s i	t - r a w - a n a s i -	148-7
+2363	more	s a w a n	s - - a w - a n - - - -	148-7
+2364	orowin	t r a w r i s i	t - r a w r i s - - i -	148-7
+2365	tora	t r a w a n a	t - r a w - a n - - a -	148-7
+2366	wanyam	t a r a w a n e ʃ i ʔ	t a r a w - a n e ʃ i ʔ	148-7
+2367	wari	t a r a w a n a tʃ i ʔ	t a r a w - a n a tʃ i ʔ	148-7
+2368	cojubim	tʃ a w a n	tʃ - - a w - a n - - - -	148-9
+2369	jaru	t r a w a n a s i	t - r a w - a n a s i -	148-9
+2370	more	s a w a n	s - - a w - a n - - - -	148-9
+2371	orowin	t r a w r i s i	t - r a w r i s - - i -	148-9
+2372	tora	t r a w a n a	t - r a w - a n - - a -	148-9
+2373	wanyam	t a r a w a n e ʃ i ʔ	t a r a w - a n e ʃ i ʔ	148-9
+2374	wari	t a r a w a n a tʃ i ʔ	t a r a w - a n a tʃ i ʔ	148-9
+2375	cojubim	t o k	t o k - -	149-1
+2376	kitemoka	k o t	- - k o t	149-1
+2377	more	t o k	t o k - -	149-1
+2378	orowin	t o k	t o k - -	149-1
+2379	tora	t u k	t u k - -	149-1
+2380	urupa	t o k	t o k - -	149-1
+2381	wanyam	t u k a	t u k a -	149-1
+2382	wari	t o k	t o k - -	149-1
+2383	cojubim	t o k	t o k - -	149-3
+2384	kitemoka	k o t	- - k o t	149-3
+2385	more	t o k	t o k - -	149-3
+2386	orowin	t o k	t o k - -	149-3
+2387	tora	t u k	t u k - -	149-3
+2388	urupa	t o k	t o k - -	149-3
+2389	wanyam	t u k a	t u k a -	149-3
+2390	wari	t o k	t o k - -	149-3
+2391	cojubim	t o k	t o k - -	149-4
+2392	kitemoka	k o t	- - k o t	149-4
+2393	more	t o k	t o k - -	149-4
+2394	orowin	t o k	t o k - -	149-4
+2395	tora	t u k	t u k - -	149-4
+2396	urupa	t o k	t o k - -	149-4
+2397	wanyam	t u k a	t u k a -	149-4
+2398	wari	t o k	t o k - -	149-4
+2399	cojubim	t o k	t o k - -	149-5
+2400	kitemoka	k o t	- - k o t	149-5
+2401	more	t o k	t o k - -	149-5
+2402	orowin	t o k	t o k - -	149-5
+2403	tora	t u k	t u k - -	149-5
+2404	urupa	t o k	t o k - -	149-5
+2405	wanyam	t u k a	t u k a -	149-5
+2406	wari	t o k	t o k - -	149-5
+2407	cojubim	t o k	t o k - -	149-7
+2408	kitemoka	k o t	- - k o t	149-7
+2409	more	t o k	t o k - -	149-7
+2410	orowin	t o k	t o k - -	149-7
+2411	tora	t u k	t u k - -	149-7
+2412	urupa	t o k	t o k - -	149-7
+2413	wanyam	t u k a	t u k a -	149-7
+2414	wari	t o k	t o k - -	149-7
+2415	cojubim	t o k	t o k - -	149-8
+2416	kitemoka	k o t	- - k o t	149-8
+2417	more	t o k	t o k - -	149-8
+2418	orowin	t o k	t o k - -	149-8
+2419	tora	t u k	t u k - -	149-8
+2420	urupa	t o k	t o k - -	149-8
+2421	wanyam	t u k a	t u k a -	149-8
+2422	wari	t o k	t o k - -	149-8
+2423	cojubim	t o k	t o k - -	149-9
+2424	kitemoka	k o t	- - k o t	149-9
+2425	more	t o k	t o k - -	149-9
+2426	orowin	t o k	t o k - -	149-9
+2427	tora	t u k	t u k - -	149-9
+2428	urupa	t o k	t o k - -	149-9
+2429	wanyam	t u k a	t u k a -	149-9
+2430	wari	t o k	t o k - -	149-9
+2431	cojubim	k a w ʔ	k a w ʔ	150-1
+2432	jaru	k a w	k a w -	150-1
+2433	kitemoka	k a w	k a w -	150-1
+2434	more	k a w	k a w -	150-1
+2435	orowin	k a w	k a w -	150-1
+2436	tapakura	k a w	k a w -	150-1
+2437	tora	k a w	k a w -	150-1
+2438	urupa	k a w	k a w -	150-1
+2439	wanyam	k a w	k a w -	150-1
+2440	wari	k a w	k a w -	150-1
+2441	cojubim	k a w ʔ	k a w ʔ	150-2
+2442	jaru	k a w	k a w -	150-2
+2443	kitemoka	k a w	k a w -	150-2
+2444	more	k a w	k a w -	150-2
+2445	orowin	k a w	k a w -	150-2
+2446	tapakura	k a w	k a w -	150-2
+2447	tora	k a w	k a w -	150-2
+2448	urupa	k a w	k a w -	150-2
+2449	wanyam	k a w	k a w -	150-2
+2450	wari	k a w	k a w -	150-2
+2451	cojubim	k a w ʔ	k a w ʔ	150-3
+2452	jaru	k a w	k a w -	150-3
+2453	kitemoka	k a w	k a w -	150-3
+2454	more	k a w	k a w -	150-3
+2455	orowin	k a w	k a w -	150-3
+2456	tapakura	k a w	k a w -	150-3
+2457	tora	k a w	k a w -	150-3
+2458	urupa	k a w	k a w -	150-3
+2459	wanyam	k a w	k a w -	150-3
+2460	wari	k a w	k a w -	150-3
+2461	cojubim	k a w ʔ	k a w ʔ	150-4
+2462	jaru	k a w	k a w -	150-4
+2463	kitemoka	k a w	k a w -	150-4
+2464	more	k a w	k a w -	150-4
+2465	orowin	k a w	k a w -	150-4
+2466	tapakura	k a w	k a w -	150-4
+2467	tora	k a w	k a w -	150-4
+2468	urupa	k a w	k a w -	150-4
+2469	wanyam	k a w	k a w -	150-4
+2470	wari	k a w	k a w -	150-4
+2471	cojubim	k a w ʔ	k a w ʔ	150-5
+2472	jaru	k a w	k a w -	150-5
+2473	kitemoka	k a w	k a w -	150-5
+2474	more	k a w	k a w -	150-5
+2475	orowin	k a w	k a w -	150-5
+2476	tapakura	k a w	k a w -	150-5
+2477	tora	k a w	k a w -	150-5
+2478	urupa	k a w	k a w -	150-5
+2479	wanyam	k a w	k a w -	150-5
+2480	wari	k a w	k a w -	150-5
+2481	cojubim	k a w ʔ	k a w ʔ	150-6
+2482	jaru	k a w	k a w -	150-6
+2483	kitemoka	k a w	k a w -	150-6
+2484	more	k a w	k a w -	150-6
+2485	orowin	k a w	k a w -	150-6
+2486	tapakura	k a w	k a w -	150-6
+2487	tora	k a w	k a w -	150-6
+2488	urupa	k a w	k a w -	150-6
+2489	wanyam	k a w	k a w -	150-6
+2490	wari	k a w	k a w -	150-6
+2491	cojubim	k a w ʔ	k a w ʔ	150-7
+2492	jaru	k a w	k a w -	150-7
+2493	kitemoka	k a w	k a w -	150-7
+2494	more	k a w	k a w -	150-7
+2495	orowin	k a w	k a w -	150-7
+2496	tapakura	k a w	k a w -	150-7
+2497	tora	k a w	k a w -	150-7
+2498	urupa	k a w	k a w -	150-7
+2499	wanyam	k a w	k a w -	150-7
+2500	wari	k a w	k a w -	150-7
+2501	cojubim	k a w ʔ	k a w ʔ	150-8
+2502	jaru	k a w	k a w -	150-8
+2503	kitemoka	k a w	k a w -	150-8
+2504	more	k a w	k a w -	150-8
+2505	orowin	k a w	k a w -	150-8
+2506	tapakura	k a w	k a w -	150-8
+2507	tora	k a w	k a w -	150-8
+2508	urupa	k a w	k a w -	150-8
+2509	wanyam	k a w	k a w -	150-8
+2510	wari	k a w	k a w -	150-8
+2511	cojubim	k a w ʔ	k a w ʔ	150-9
+2512	jaru	k a w	k a w -	150-9
+2513	kitemoka	k a w	k a w -	150-9
+2514	more	k a w	k a w -	150-9
+2515	orowin	k a w	k a w -	150-9
+2516	tapakura	k a w	k a w -	150-9
+2517	tora	k a w	k a w -	150-9
+2518	urupa	k a w	k a w -	150-9
+2519	wanyam	k a w	k a w -	150-9
+2520	wari	k a w	k a w -	150-9
+2521	cojubim	k i r i k	k i r i k	160-1
+2522	kitemoka	t i r i g	t i r i g	160-1
+2523	more	k i r i k	k i r i k	160-1
+2524	orowin	k i r i k	k i r i k	160-1
+2525	tapakura	k i r i k	k i r i k	160-1
+2526	tora	k r i d	k - r i d	160-1
+2527	wanyam	k i r i k	k i r i k	160-1
+2528	wari	k e r e k	k e r e k	160-1
+2529	cojubim	k i r i k	k i r i k	160-3
+2530	kitemoka	t i r i g	t i r i g	160-3
+2531	more	k i r i k	k i r i k	160-3
+2532	orowin	k i r i k	k i r i k	160-3
+2533	tapakura	k i r i k	k i r i k	160-3
+2534	tora	k r i d	k - r i d	160-3
+2535	wanyam	k i r i k	k i r i k	160-3
+2536	wari	k e r e k	k e r e k	160-3
+2537	cojubim	k i r i k	k i r i k	160-4
+2538	kitemoka	t i r i g	t i r i g	160-4
+2539	more	k i r i k	k i r i k	160-4
+2540	orowin	k i r i k	k i r i k	160-4
+2541	tapakura	k i r i k	k i r i k	160-4
+2542	tora	k r i d	k - r i d	160-4
+2543	wanyam	k i r i k	k i r i k	160-4
+2544	wari	k e r e k	k e r e k	160-4
+2545	cojubim	k i r i k	k i r i k	160-5
+2546	kitemoka	t i r i g	t i r i g	160-5
+2547	more	k i r i k	k i r i k	160-5
+2548	orowin	k i r i k	k i r i k	160-5
+2549	tapakura	k i r i k	k i r i k	160-5
+2550	tora	k r i d	k - r i d	160-5
+2551	wanyam	k i r i k	k i r i k	160-5
+2552	wari	k e r e k	k e r e k	160-5
+2553	cojubim	k i r i k	k i r i k	160-6
+2554	kitemoka	t i r i g	t i r i g	160-6
+2555	more	k i r i k	k i r i k	160-6
+2556	orowin	k i r i k	k i r i k	160-6
+2557	tapakura	k i r i k	k i r i k	160-6
+2558	tora	k r i d	k - r i d	160-6
+2559	wanyam	k i r i k	k i r i k	160-6
+2560	wari	k e r e k	k e r e k	160-6
+2561	cojubim	k i r i k	k i r i k	160-7
+2562	kitemoka	t i r i g	t i r i g	160-7
+2563	more	k i r i k	k i r i k	160-7
+2564	orowin	k i r i k	k i r i k	160-7
+2565	tapakura	k i r i k	k i r i k	160-7
+2566	tora	k r i d	k - r i d	160-7
+2567	wanyam	k i r i k	k i r i k	160-7
+2568	wari	k e r e k	k e r e k	160-7
+2569	cojubim	k i r i k	k i r i k	160-9
+2570	kitemoka	t i r i g	t i r i g	160-9
+2571	more	k i r i k	k i r i k	160-9
+2572	orowin	k i r i k	k i r i k	160-9
+2573	tapakura	k i r i k	k i r i k	160-9
+2574	tora	k r i d	k - r i d	160-9
+2575	wanyam	k i r i k	k i r i k	160-9
+2576	wari	k e r e k	k e r e k	160-9
+2577	cojubim	i n i n ʔ	i - n i - n ʔ	162-1
+2578	jaru	i n j i n	i n j i - n -	162-1
+2579	more	i j i n	i - j i - n -	162-1
+2580	orowin	i j i n	i - j i - n -	162-1
+2581	tora	e j i d n	e - j i d n -	162-1
+2582	wanyam	i n i n	i - n i - n -	162-1
+2583	wari	j i n ʔ	- - j i - n ʔ	162-1
+2584	cojubim	i n i n ʔ	i - n i - n ʔ	162-2
+2585	jaru	i n j i n	i n j i - n -	162-2
+2586	more	i j i n	i - j i - n -	162-2
+2587	orowin	i j i n	i - j i - n -	162-2
+2588	tora	e j i d n	e - j i d n -	162-2
+2589	wanyam	i n i n	i - n i - n -	162-2
+2590	wari	j i n ʔ	- - j i - n ʔ	162-2
+2591	cojubim	i n i n ʔ	i - n i - n ʔ	162-4
+2592	jaru	i n j i n	i n j i - n -	162-4
+2593	more	i j i n	i - j i - n -	162-4
+2594	orowin	i j i n	i - j i - n -	162-4
+2595	tora	e j i d n	e - j i d n -	162-4
+2596	wanyam	i n i n	i - n i - n -	162-4
+2597	wari	j i n ʔ	- - j i - n ʔ	162-4
+2598	cojubim	i n i n ʔ	i - n i - n ʔ	162-5
+2599	jaru	i n j i n	i n j i - n -	162-5
+2600	more	i j i n	i - j i - n -	162-5
+2601	orowin	i j i n	i - j i - n -	162-5
+2602	tora	e j i d n	e - j i d n -	162-5
+2603	wanyam	i n i n	i - n i - n -	162-5
+2604	wari	j i n ʔ	- - j i - n ʔ	162-5
+2605	cojubim	i n i n ʔ	i - n i - n ʔ	162-7
+2606	jaru	i n j i n	i n j i - n -	162-7
+2607	more	i j i n	i - j i - n -	162-7
+2608	orowin	i j i n	i - j i - n -	162-7
+2609	tora	e j i d n	e - j i d n -	162-7
+2610	wanyam	i n i n	i - n i - n -	162-7
+2611	wari	j i n ʔ	- - j i - n ʔ	162-7
+2612	cojubim	i n i n ʔ	i - n i - n ʔ	162-9
+2613	jaru	i n j i n	i n j i - n -	162-9
+2614	more	i j i n	i - j i - n -	162-9
+2615	orowin	i j i n	i - j i - n -	162-9
+2616	tora	e j i d n	e - j i d n -	162-9
+2617	wanyam	i n i n	i - n i - n -	162-9
+2618	wari	j i n ʔ	- - j i - n ʔ	162-9
+2619	cojubim	u p i n	u p i n - - -	163-1
+2620	jaru	u p e j a m ʔ	u p e j a m ʔ	163-1
+2621	more	u p e n	u p e n - - -	163-1
+2622	orowin	y p e n	y p e n - - -	163-1
+2623	tora	u p o ɲ	u p o ɲ - - -	163-1
+2624	urupa	y p e n	y p e n - - -	163-1
+2625	wanyam	i p e n	i p e n - - -	163-1
+2626	wari	p i ʔ	- p i - - - ʔ	163-1
+2627	cojubim	u p i n	u p i n - - -	163-2
+2628	jaru	u p e j a m ʔ	u p e j a m ʔ	163-2
+2629	more	u p e n	u p e n - - -	163-2
+2630	orowin	y p e n	y p e n - - -	163-2
+2631	tora	u p o ɲ	u p o ɲ - - -	163-2
+2632	urupa	y p e n	y p e n - - -	163-2
+2633	wanyam	i p e n	i p e n - - -	163-2
+2634	wari	p i ʔ	- p i - - - ʔ	163-2
+2635	cojubim	u p i n	u p i n - - -	163-4
+2636	jaru	u p e j a m ʔ	u p e j a m ʔ	163-4
+2637	more	u p e n	u p e n - - -	163-4
+2638	orowin	y p e n	y p e n - - -	163-4
+2639	tora	u p o ɲ	u p o ɲ - - -	163-4
+2640	urupa	y p e n	y p e n - - -	163-4
+2641	wanyam	i p e n	i p e n - - -	163-4
+2642	wari	p i ʔ	- p i - - - ʔ	163-4
+2643	cojubim	u p i n	u p i n - - -	163-5
+2644	jaru	u p e j a m ʔ	u p e j a m ʔ	163-5
+2645	more	u p e n	u p e n - - -	163-5
+2646	orowin	y p e n	y p e n - - -	163-5
+2647	tora	u p o ɲ	u p o ɲ - - -	163-5
+2648	urupa	y p e n	y p e n - - -	163-5
+2649	wanyam	i p e n	i p e n - - -	163-5
+2650	wari	p i ʔ	- p i - - - ʔ	163-5
+2651	cojubim	u p i n	u p i n - - -	163-7
+2652	jaru	u p e j a m ʔ	u p e j a m ʔ	163-7
+2653	more	u p e n	u p e n - - -	163-7
+2654	orowin	y p e n	y p e n - - -	163-7
+2655	tora	u p o ɲ	u p o ɲ - - -	163-7
+2656	urupa	y p e n	y p e n - - -	163-7
+2657	wanyam	i p e n	i p e n - - -	163-7
+2658	wari	p i ʔ	- p i - - - ʔ	163-7
+2659	cojubim	u p i n	u p i n - - -	163-8
+2660	jaru	u p e j a m ʔ	u p e j a m ʔ	163-8
+2661	more	u p e n	u p e n - - -	163-8
+2662	orowin	y p e n	y p e n - - -	163-8
+2663	tora	u p o ɲ	u p o ɲ - - -	163-8
+2664	urupa	y p e n	y p e n - - -	163-8
+2665	wanyam	i p e n	i p e n - - -	163-8
+2666	wari	p i ʔ	- p i - - - ʔ	163-8
+2667	cojubim	u p i n	u p i n - - -	163-9
+2668	jaru	u p e j a m ʔ	u p e j a m ʔ	163-9
+2669	more	u p e n	u p e n - - -	163-9
+2670	orowin	y p e n	y p e n - - -	163-9
+2671	tora	u p o ɲ	u p o ɲ - - -	163-9
+2672	urupa	y p e n	y p e n - - -	163-9
+2673	wanyam	i p e n	i p e n - - -	163-9
+2674	wari	p i ʔ	- p i - - - ʔ	163-9
+2675	cojubim	i m i ʔ	i m i ʔ	166-1
+2676	jaru	i m i	i m i -	166-1
+2677	more	i m i	i m i -	166-1
+2678	orowin	i m i ʔ	i m i ʔ	166-1
+2679	tora	i m i	i m i -	166-1
+2680	wanyam	i m i	i m i -	166-1
+2681	wari	m i ʔ	- m i ʔ	166-1
+2682	cojubim	i m i ʔ	i m i ʔ	166-2
+2683	jaru	i m i	i m i -	166-2
+2684	more	i m i	i m i -	166-2
+2685	orowin	i m i ʔ	i m i ʔ	166-2
+2686	tora	i m i	i m i -	166-2
+2687	wanyam	i m i	i m i -	166-2
+2688	wari	m i ʔ	- m i ʔ	166-2
+2689	cojubim	i m i ʔ	i m i ʔ	166-4
+2690	jaru	i m i	i m i -	166-4
+2691	more	i m i	i m i -	166-4
+2692	orowin	i m i ʔ	i m i ʔ	166-4
+2693	tora	i m i	i m i -	166-4
+2694	wanyam	i m i	i m i -	166-4
+2695	wari	m i ʔ	- m i ʔ	166-4
+2696	cojubim	i m i ʔ	i m i ʔ	166-5
+2697	jaru	i m i	i m i -	166-5
+2698	more	i m i	i m i -	166-5
+2699	orowin	i m i ʔ	i m i ʔ	166-5
+2700	tora	i m i	i m i -	166-5
+2701	wanyam	i m i	i m i -	166-5
+2702	wari	m i ʔ	- m i ʔ	166-5
+2703	cojubim	i m i ʔ	i m i ʔ	166-7
+2704	jaru	i m i	i m i -	166-7
+2705	more	i m i	i m i -	166-7
+2706	orowin	i m i ʔ	i m i ʔ	166-7
+2707	tora	i m i	i m i -	166-7
+2708	wanyam	i m i	i m i -	166-7
+2709	wari	m i ʔ	- m i ʔ	166-7
+2710	cojubim	i m i ʔ	i m i ʔ	166-9
+2711	jaru	i m i	i m i -	166-9
+2712	more	i m i	i m i -	166-9
+2713	orowin	i m i ʔ	i m i ʔ	166-9
+2714	tora	i m i	i m i -	166-9
+2715	wanyam	i m i	i m i -	166-9
+2716	wari	m i ʔ	- m i ʔ	166-9
+2717	cojubim	p a ʔ	- - p a ʔ	167-1
+2718	jaru	p a	- - p a -	167-1
+2719	more	p a	- - p a -	167-1
+2720	orowin	p a ʔ	- - p a ʔ	167-1
+2721	tora	p a	- - p a -	167-1
+2722	urupa	t u p a b	t u p a b	167-1
+2723	wanyam	p a	- - p a -	167-1
+2724	wari	p a ʔ	- - p a ʔ	167-1
+2725	cojubim	p a ʔ	- - p a ʔ	167-2
+2726	jaru	p a	- - p a -	167-2
+2727	more	p a	- - p a -	167-2
+2728	orowin	p a ʔ	- - p a ʔ	167-2
+2729	tora	p a	- - p a -	167-2
+2730	urupa	t u p a b	t u p a b	167-2
+2731	wanyam	p a	- - p a -	167-2
+2732	wari	p a ʔ	- - p a ʔ	167-2
+2733	cojubim	p a ʔ	- - p a ʔ	167-4
+2734	jaru	p a	- - p a -	167-4
+2735	more	p a	- - p a -	167-4
+2736	orowin	p a ʔ	- - p a ʔ	167-4
+2737	tora	p a	- - p a -	167-4
+2738	urupa	t u p a b	t u p a b	167-4
+2739	wanyam	p a	- - p a -	167-4
+2740	wari	p a ʔ	- - p a ʔ	167-4
+2741	cojubim	p a ʔ	- - p a ʔ	167-5
+2742	jaru	p a	- - p a -	167-5
+2743	more	p a	- - p a -	167-5
+2744	orowin	p a ʔ	- - p a ʔ	167-5
+2745	tora	p a	- - p a -	167-5
+2746	urupa	t u p a b	t u p a b	167-5
+2747	wanyam	p a	- - p a -	167-5
+2748	wari	p a ʔ	- - p a ʔ	167-5
+2749	cojubim	p a ʔ	- - p a ʔ	167-7
+2750	jaru	p a	- - p a -	167-7
+2751	more	p a	- - p a -	167-7
+2752	orowin	p a ʔ	- - p a ʔ	167-7
+2753	tora	p a	- - p a -	167-7
+2754	urupa	t u p a b	t u p a b	167-7
+2755	wanyam	p a	- - p a -	167-7
+2756	wari	p a ʔ	- - p a ʔ	167-7
+2757	cojubim	p a ʔ	- - p a ʔ	167-8
+2758	jaru	p a	- - p a -	167-8
+2759	more	p a	- - p a -	167-8
+2760	orowin	p a ʔ	- - p a ʔ	167-8
+2761	tora	p a	- - p a -	167-8
+2762	urupa	t u p a b	t u p a b	167-8
+2763	wanyam	p a	- - p a -	167-8
+2764	wari	p a ʔ	- - p a ʔ	167-8
+2765	cojubim	p a ʔ	- - p a ʔ	167-9
+2766	jaru	p a	- - p a -	167-9
+2767	more	p a	- - p a -	167-9
+2768	orowin	p a ʔ	- - p a ʔ	167-9
+2769	tora	p a	- - p a -	167-9
+2770	urupa	t u p a b	t u p a b	167-9
+2771	wanyam	p a	- - p a -	167-9
+2772	wari	p a ʔ	- - p a ʔ	167-9
+2773	cojubim	t a ʔ	t a ʔ - -	179-1
+2774	jaru	t a	t a - - -	179-1
+2775	more	t a	t a - - -	179-1
+2776	orowin	t a	t a - - -	179-1
+2777	tora	t a	t a - - -	179-1
+2778	wanyam	t a k a t	t a k a t	179-1
+2779	wari	t a	t a - - -	179-1
+2780	cojubim	t a ʔ	t a ʔ - -	179-2
+2781	jaru	t a	t a - - -	179-2
+2782	more	t a	t a - - -	179-2
+2783	orowin	t a	t a - - -	179-2
+2784	tora	t a	t a - - -	179-2
+2785	wanyam	t a k a t	t a k a t	179-2
+2786	wari	t a	t a - - -	179-2
+2787	cojubim	t a ʔ	t a ʔ - -	179-4
+2788	jaru	t a	t a - - -	179-4
+2789	more	t a	t a - - -	179-4
+2790	orowin	t a	t a - - -	179-4
+2791	tora	t a	t a - - -	179-4
+2792	wanyam	t a k a t	t a k a t	179-4
+2793	wari	t a	t a - - -	179-4
+2794	cojubim	t a ʔ	t a ʔ - -	179-5
+2795	jaru	t a	t a - - -	179-5
+2796	more	t a	t a - - -	179-5
+2797	orowin	t a	t a - - -	179-5
+2798	tora	t a	t a - - -	179-5
+2799	wanyam	t a k a t	t a k a t	179-5
+2800	wari	t a	t a - - -	179-5
+2801	cojubim	t a ʔ	t a ʔ - -	179-7
+2802	jaru	t a	t a - - -	179-7
+2803	more	t a	t a - - -	179-7
+2804	orowin	t a	t a - - -	179-7
+2805	tora	t a	t a - - -	179-7
+2806	wanyam	t a k a t	t a k a t	179-7
+2807	wari	t a	t a - - -	179-7
+2808	cojubim	t a ʔ	t a ʔ - -	179-9
+2809	jaru	t a	t a - - -	179-9
+2810	more	t a	t a - - -	179-9
+2811	orowin	t a	t a - - -	179-9
+2812	tora	t a	t a - - -	179-9
+2813	wanyam	t a k a t	t a k a t	179-9
+2814	wari	t a	t a - - -	179-9
+2815	cojubim	p e	p - e - -	201-1
+2816	more	p w e	p w e - -	201-1
+2817	orowin	p e	p - e - -	201-1
+2818	tapakura	p e p e	p - e p e	201-1
+2819	tora	p i	p - i - -	201-1
+2820	wanyam	p e	p - e - -	201-1
+2821	wari	p e ʔ	p - e ʔ -	201-1
+2822	cojubim	p e	p - e - -	201-4
+2823	more	p w e	p w e - -	201-4
+2824	orowin	p e	p - e - -	201-4
+2825	tapakura	p e p e	p - e p e	201-4
+2826	tora	p i	p - i - -	201-4
+2827	wanyam	p e	p - e - -	201-4
+2828	wari	p e ʔ	p - e ʔ -	201-4
+2829	cojubim	p e	p - e - -	201-5
+2830	more	p w e	p w e - -	201-5
+2831	orowin	p e	p - e - -	201-5
+2832	tapakura	p e p e	p - e p e	201-5
+2833	tora	p i	p - i - -	201-5
+2834	wanyam	p e	p - e - -	201-5
+2835	wari	p e ʔ	p - e ʔ -	201-5
+2836	cojubim	p e	p - e - -	201-6
+2837	more	p w e	p w e - -	201-6
+2838	orowin	p e	p - e - -	201-6
+2839	tapakura	p e p e	p - e p e	201-6
+2840	tora	p i	p - i - -	201-6
+2841	wanyam	p e	p - e - -	201-6
+2842	wari	p e ʔ	p - e ʔ -	201-6
+2843	cojubim	p e	p - e - -	201-7
+2844	more	p w e	p w e - -	201-7
+2845	orowin	p e	p - e - -	201-7
+2846	tapakura	p e p e	p - e p e	201-7
+2847	tora	p i	p - i - -	201-7
+2848	wanyam	p e	p - e - -	201-7
+2849	wari	p e ʔ	p - e ʔ -	201-7
+2850	cojubim	p e	p - e - -	201-9
+2851	more	p w e	p w e - -	201-9
+2852	orowin	p e	p - e - -	201-9
+2853	tapakura	p e p e	p - e p e	201-9
+2854	tora	p i	p - i - -	201-9
+2855	wanyam	p e	p - e - -	201-9
+2856	wari	p e ʔ	p - e ʔ -	201-9
+2857	cojubim	m i ʔ	m i ʔ	207-1
+2858	kitemoka	m e	m e -	207-1
+2859	more	m i	m i -	207-1
+2860	orowin	m i ʔ	m i ʔ	207-1
+2861	tapakura	m i	m i -	207-1
+2862	tora	m i ʔ	m i ʔ	207-1
+2863	wanyam	m i n	m i n	207-1
+2864	wari	m i ʔ	m i ʔ	207-1
+2865	cojubim	m i ʔ	m i ʔ	207-3
+2866	kitemoka	m e	m e -	207-3
+2867	more	m i	m i -	207-3
+2868	orowin	m i ʔ	m i ʔ	207-3
+2869	tapakura	m i	m i -	207-3
+2870	tora	m i ʔ	m i ʔ	207-3
+2871	wanyam	m i n	m i n	207-3
+2872	wari	m i ʔ	m i ʔ	207-3
+2873	cojubim	m i ʔ	m i ʔ	207-4
+2874	kitemoka	m e	m e -	207-4
+2875	more	m i	m i -	207-4
+2876	orowin	m i ʔ	m i ʔ	207-4
+2877	tapakura	m i	m i -	207-4
+2878	tora	m i ʔ	m i ʔ	207-4
+2879	wanyam	m i n	m i n	207-4
+2880	wari	m i ʔ	m i ʔ	207-4
+2881	cojubim	m i ʔ	m i ʔ	207-5
+2882	kitemoka	m e	m e -	207-5
+2883	more	m i	m i -	207-5
+2884	orowin	m i ʔ	m i ʔ	207-5
+2885	tapakura	m i	m i -	207-5
+2886	tora	m i ʔ	m i ʔ	207-5
+2887	wanyam	m i n	m i n	207-5
+2888	wari	m i ʔ	m i ʔ	207-5
+2889	cojubim	m i ʔ	m i ʔ	207-6
+2890	kitemoka	m e	m e -	207-6
+2891	more	m i	m i -	207-6
+2892	orowin	m i ʔ	m i ʔ	207-6
+2893	tapakura	m i	m i -	207-6
+2894	tora	m i ʔ	m i ʔ	207-6
+2895	wanyam	m i n	m i n	207-6
+2896	wari	m i ʔ	m i ʔ	207-6
+2897	cojubim	m i ʔ	m i ʔ	207-7
+2898	kitemoka	m e	m e -	207-7
+2899	more	m i	m i -	207-7
+2900	orowin	m i ʔ	m i ʔ	207-7
+2901	tapakura	m i	m i -	207-7
+2902	tora	m i ʔ	m i ʔ	207-7
+2903	wanyam	m i n	m i n	207-7
+2904	wari	m i ʔ	m i ʔ	207-7
+2905	cojubim	m i ʔ	m i ʔ	207-9
+2906	kitemoka	m e	m e -	207-9
+2907	more	m i	m i -	207-9
+2908	orowin	m i ʔ	m i ʔ	207-9
+2909	tapakura	m i	m i -	207-9
+2910	tora	m i ʔ	m i ʔ	207-9
+2911	wanyam	m i n	m i n	207-9
+2912	wari	m i ʔ	m i ʔ	207-9
+2913	cojubim	p a n a w o ʔ	p a n a w o ʔ	231-1
+2914	jaru	p a n a u	p a n a - u -	231-1
+2915	kitemoka	p n a t o	p - n a t o -	231-1
+2916	more	p a n a w o ʔ	p a n a w o ʔ	231-1
+2917	tapakura	p a n a t o	p a n a t o -	231-1
+2918	tora	p a n a o	p a n a - o -	231-1
+2919	urupa	p a n a o ʔ	p a n a - o ʔ	231-1
+2920	wanyam	p a n a w o ʔ	p a n a w o ʔ	231-1
+2921	wari	p a n a w o ʔ	p a n a w o ʔ	231-1
+2922	cojubim	p a n a w o ʔ	p a n a w o ʔ	231-2
+2923	jaru	p a n a u	p a n a - u -	231-2
+2924	kitemoka	p n a t o	p - n a t o -	231-2
+2925	more	p a n a w o ʔ	p a n a w o ʔ	231-2
+2926	tapakura	p a n a t o	p a n a t o -	231-2
+2927	tora	p a n a o	p a n a - o -	231-2
+2928	urupa	p a n a o ʔ	p a n a - o ʔ	231-2
+2929	wanyam	p a n a w o ʔ	p a n a w o ʔ	231-2
+2930	wari	p a n a w o ʔ	p a n a w o ʔ	231-2
+2931	cojubim	p a n a w o ʔ	p a n a w o ʔ	231-3
+2932	jaru	p a n a u	p a n a - u -	231-3
+2933	kitemoka	p n a t o	p - n a t o -	231-3
+2934	more	p a n a w o ʔ	p a n a w o ʔ	231-3
+2935	tapakura	p a n a t o	p a n a t o -	231-3
+2936	tora	p a n a o	p a n a - o -	231-3
+2937	urupa	p a n a o ʔ	p a n a - o ʔ	231-3
+2938	wanyam	p a n a w o ʔ	p a n a w o ʔ	231-3
+2939	wari	p a n a w o ʔ	p a n a w o ʔ	231-3
+2940	cojubim	p a n a w o ʔ	p a n a w o ʔ	231-4
+2941	jaru	p a n a u	p a n a - u -	231-4
+2942	kitemoka	p n a t o	p - n a t o -	231-4
+2943	more	p a n a w o ʔ	p a n a w o ʔ	231-4
+2944	tapakura	p a n a t o	p a n a t o -	231-4
+2945	tora	p a n a o	p a n a - o -	231-4
+2946	urupa	p a n a o ʔ	p a n a - o ʔ	231-4
+2947	wanyam	p a n a w o ʔ	p a n a w o ʔ	231-4
+2948	wari	p a n a w o ʔ	p a n a w o ʔ	231-4
+2949	cojubim	p a n a w o ʔ	p a n a w o ʔ	231-6
+2950	jaru	p a n a u	p a n a - u -	231-6
+2951	kitemoka	p n a t o	p - n a t o -	231-6
+2952	more	p a n a w o ʔ	p a n a w o ʔ	231-6
+2953	tapakura	p a n a t o	p a n a t o -	231-6
+2954	tora	p a n a o	p a n a - o -	231-6
+2955	urupa	p a n a o ʔ	p a n a - o ʔ	231-6
+2956	wanyam	p a n a w o ʔ	p a n a w o ʔ	231-6
+2957	wari	p a n a w o ʔ	p a n a w o ʔ	231-6
+2958	cojubim	p a n a w o ʔ	p a n a w o ʔ	231-7
+2959	jaru	p a n a u	p a n a - u -	231-7
+2960	kitemoka	p n a t o	p - n a t o -	231-7
+2961	more	p a n a w o ʔ	p a n a w o ʔ	231-7
+2962	tapakura	p a n a t o	p a n a t o -	231-7
+2963	tora	p a n a o	p a n a - o -	231-7
+2964	urupa	p a n a o ʔ	p a n a - o ʔ	231-7
+2965	wanyam	p a n a w o ʔ	p a n a w o ʔ	231-7
+2966	wari	p a n a w o ʔ	p a n a w o ʔ	231-7
+2967	cojubim	p a n a w o ʔ	p a n a w o ʔ	231-8
+2968	jaru	p a n a u	p a n a - u -	231-8
+2969	kitemoka	p n a t o	p - n a t o -	231-8
+2970	more	p a n a w o ʔ	p a n a w o ʔ	231-8
+2971	tapakura	p a n a t o	p a n a t o -	231-8
+2972	tora	p a n a o	p a n a - o -	231-8
+2973	urupa	p a n a o ʔ	p a n a - o ʔ	231-8
+2974	wanyam	p a n a w o ʔ	p a n a w o ʔ	231-8
+2975	wari	p a n a w o ʔ	p a n a w o ʔ	231-8
+2976	cojubim	p a n a w o ʔ	p a n a w o ʔ	231-9
+2977	jaru	p a n a u	p a n a - u -	231-9
+2978	kitemoka	p n a t o	p - n a t o -	231-9
+2979	more	p a n a w o ʔ	p a n a w o ʔ	231-9
+2980	tapakura	p a n a t o	p a n a t o -	231-9
+2981	tora	p a n a o	p a n a - o -	231-9
+2982	urupa	p a n a o ʔ	p a n a - o ʔ	231-9
+2983	wanyam	p a n a w o ʔ	p a n a w o ʔ	231-9
+2984	wari	p a n a w o ʔ	p a n a w o ʔ	231-9
+2985	cojubim	p i	- - p i - - - - -	232-1
+2986	jaru	u p i u	- u p i - - u - -	232-1
+2987	kitemoka	p i l ʔ a h u	- - p i l ʔ a h u	232-1
+2988	more	p i p i j o	p i p i - j o - -	232-1
+2989	tapakura	w i p i j a o	w i p i - j a - o	232-1
+2990	tora	p i p i j o	p i p i - j o - -	232-1
+2991	urupa	u p i j o	- u p i - j o - -	232-1
+2992	wanyam	u p i j u ʔ	- u p i - j u ʔ -	232-1
+2993	wari	p i j o ʔ	- - p i - j o ʔ -	232-1
+2994	cojubim	p i	- - p i - - - - -	232-2
+2995	jaru	u p i u	- u p i - - u - -	232-2
+2996	kitemoka	p i l ʔ a h u	- - p i l ʔ a h u	232-2
+2997	more	p i p i j o	p i p i - j o - -	232-2
+2998	tapakura	w i p i j a o	w i p i - j a - o	232-2
+2999	tora	p i p i j o	p i p i - j o - -	232-2
+3000	urupa	u p i j o	- u p i - j o - -	232-2
+3001	wanyam	u p i j u ʔ	- u p i - j u ʔ -	232-2
+3002	wari	p i j o ʔ	- - p i - j o ʔ -	232-2
+3003	cojubim	p i	- - p i - - - - -	232-3
+3004	jaru	u p i u	- u p i - - u - -	232-3
+3005	kitemoka	p i l ʔ a h u	- - p i l ʔ a h u	232-3
+3006	more	p i p i j o	p i p i - j o - -	232-3
+3007	tapakura	w i p i j a o	w i p i - j a - o	232-3
+3008	tora	p i p i j o	p i p i - j o - -	232-3
+3009	urupa	u p i j o	- u p i - j o - -	232-3
+3010	wanyam	u p i j u ʔ	- u p i - j u ʔ -	232-3
+3011	wari	p i j o ʔ	- - p i - j o ʔ -	232-3
+3012	cojubim	p i	- - p i - - - - -	232-4
+3013	jaru	u p i u	- u p i - - u - -	232-4
+3014	kitemoka	p i l ʔ a h u	- - p i l ʔ a h u	232-4
+3015	more	p i p i j o	p i p i - j o - -	232-4
+3016	tapakura	w i p i j a o	w i p i - j a - o	232-4
+3017	tora	p i p i j o	p i p i - j o - -	232-4
+3018	urupa	u p i j o	- u p i - j o - -	232-4
+3019	wanyam	u p i j u ʔ	- u p i - j u ʔ -	232-4
+3020	wari	p i j o ʔ	- - p i - j o ʔ -	232-4
+3021	cojubim	p i	- - p i - - - - -	232-6
+3022	jaru	u p i u	- u p i - - u - -	232-6
+3023	kitemoka	p i l ʔ a h u	- - p i l ʔ a h u	232-6
+3024	more	p i p i j o	p i p i - j o - -	232-6
+3025	tapakura	w i p i j a o	w i p i - j a - o	232-6
+3026	tora	p i p i j o	p i p i - j o - -	232-6
+3027	urupa	u p i j o	- u p i - j o - -	232-6
+3028	wanyam	u p i j u ʔ	- u p i - j u ʔ -	232-6
+3029	wari	p i j o ʔ	- - p i - j o ʔ -	232-6
+3030	cojubim	p i	- - p i - - - - -	232-7
+3031	jaru	u p i u	- u p i - - u - -	232-7
+3032	kitemoka	p i l ʔ a h u	- - p i l ʔ a h u	232-7
+3033	more	p i p i j o	p i p i - j o - -	232-7
+3034	tapakura	w i p i j a o	w i p i - j a - o	232-7
+3035	tora	p i p i j o	p i p i - j o - -	232-7
+3036	urupa	u p i j o	- u p i - j o - -	232-7
+3037	wanyam	u p i j u ʔ	- u p i - j u ʔ -	232-7
+3038	wari	p i j o ʔ	- - p i - j o ʔ -	232-7
+3039	cojubim	p i	- - p i - - - - -	232-8
+3040	jaru	u p i u	- u p i - - u - -	232-8
+3041	kitemoka	p i l ʔ a h u	- - p i l ʔ a h u	232-8
+3042	more	p i p i j o	p i p i - j o - -	232-8
+3043	tapakura	w i p i j a o	w i p i - j a - o	232-8
+3044	tora	p i p i j o	p i p i - j o - -	232-8
+3045	urupa	u p i j o	- u p i - j o - -	232-8
+3046	wanyam	u p i j u ʔ	- u p i - j u ʔ -	232-8
+3047	wari	p i j o ʔ	- - p i - j o ʔ -	232-8
+3048	cojubim	p i	- - p i - - - - -	232-9
+3049	jaru	u p i u	- u p i - - u - -	232-9
+3050	kitemoka	p i l ʔ a h u	- - p i l ʔ a h u	232-9
+3051	more	p i p i j o	p i p i - j o - -	232-9
+3052	tapakura	w i p i j a o	w i p i - j a - o	232-9
+3053	tora	p i p i j o	p i p i - j o - -	232-9
+3054	urupa	u p i j o	- u p i - j o - -	232-9
+3055	wanyam	u p i j u ʔ	- u p i - j u ʔ -	232-9
+3056	wari	p i j o ʔ	- - p i - j o ʔ -	232-9
+3057	cojubim	k o m	- k o m	234-1
+3058	jaru	k o	- k o -	234-1
+3059	kitemoka	a k o	a k o -	234-1
+3060	more	k o m	- k o m	234-1
+3061	orowin	k o m	- k o m	234-1
+3062	tapakura	a k u m	a k u m	234-1
+3063	tora	k o m	- k o m	234-1
+3064	urupa	k o m	- k o m	234-1
+3065	wanyam	k o m	- k o m	234-1
+3066	wari	k o m	- k o m	234-1
+3067	cojubim	k o m	- k o m	234-2
+3068	jaru	k o	- k o -	234-2
+3069	kitemoka	a k o	a k o -	234-2
+3070	more	k o m	- k o m	234-2
+3071	orowin	k o m	- k o m	234-2
+3072	tapakura	a k u m	a k u m	234-2
+3073	tora	k o m	- k o m	234-2
+3074	urupa	k o m	- k o m	234-2
+3075	wanyam	k o m	- k o m	234-2
+3076	wari	k o m	- k o m	234-2
+3077	cojubim	k o m	- k o m	234-3
+3078	jaru	k o	- k o -	234-3
+3079	kitemoka	a k o	a k o -	234-3
+3080	more	k o m	- k o m	234-3
+3081	orowin	k o m	- k o m	234-3
+3082	tapakura	a k u m	a k u m	234-3
+3083	tora	k o m	- k o m	234-3
+3084	urupa	k o m	- k o m	234-3
+3085	wanyam	k o m	- k o m	234-3
+3086	wari	k o m	- k o m	234-3
+3087	cojubim	k o m	- k o m	234-4
+3088	jaru	k o	- k o -	234-4
+3089	kitemoka	a k o	a k o -	234-4
+3090	more	k o m	- k o m	234-4
+3091	orowin	k o m	- k o m	234-4
+3092	tapakura	a k u m	a k u m	234-4
+3093	tora	k o m	- k o m	234-4
+3094	urupa	k o m	- k o m	234-4
+3095	wanyam	k o m	- k o m	234-4
+3096	wari	k o m	- k o m	234-4
+3097	cojubim	k o m	- k o m	234-5
+3098	jaru	k o	- k o -	234-5
+3099	kitemoka	a k o	a k o -	234-5
+3100	more	k o m	- k o m	234-5
+3101	orowin	k o m	- k o m	234-5
+3102	tapakura	a k u m	a k u m	234-5
+3103	tora	k o m	- k o m	234-5
+3104	urupa	k o m	- k o m	234-5
+3105	wanyam	k o m	- k o m	234-5
+3106	wari	k o m	- k o m	234-5
+3107	cojubim	k o m	- k o m	234-6
+3108	jaru	k o	- k o -	234-6
+3109	kitemoka	a k o	a k o -	234-6
+3110	more	k o m	- k o m	234-6
+3111	orowin	k o m	- k o m	234-6
+3112	tapakura	a k u m	a k u m	234-6
+3113	tora	k o m	- k o m	234-6
+3114	urupa	k o m	- k o m	234-6
+3115	wanyam	k o m	- k o m	234-6
+3116	wari	k o m	- k o m	234-6
+3117	cojubim	k o m	- k o m	234-7
+3118	jaru	k o	- k o -	234-7
+3119	kitemoka	a k o	a k o -	234-7
+3120	more	k o m	- k o m	234-7
+3121	orowin	k o m	- k o m	234-7
+3122	tapakura	a k u m	a k u m	234-7
+3123	tora	k o m	- k o m	234-7
+3124	urupa	k o m	- k o m	234-7
+3125	wanyam	k o m	- k o m	234-7
+3126	wari	k o m	- k o m	234-7
+3127	cojubim	k o m	- k o m	234-8
+3128	jaru	k o	- k o -	234-8
+3129	kitemoka	a k o	a k o -	234-8
+3130	more	k o m	- k o m	234-8
+3131	orowin	k o m	- k o m	234-8
+3132	tapakura	a k u m	a k u m	234-8
+3133	tora	k o m	- k o m	234-8
+3134	urupa	k o m	- k o m	234-8
+3135	wanyam	k o m	- k o m	234-8
+3136	wari	k o m	- k o m	234-8
+3137	cojubim	k o m	- k o m	234-9
+3138	jaru	k o	- k o -	234-9
+3139	kitemoka	a k o	a k o -	234-9
+3140	more	k o m	- k o m	234-9
+3141	orowin	k o m	- k o m	234-9
+3142	tapakura	a k u m	a k u m	234-9
+3143	tora	k o m	- k o m	234-9
+3144	urupa	k o m	- k o m	234-9
+3145	wanyam	k o m	- k o m	234-9
+3146	wari	k o m	- k o m	234-9
+3147	cojubim	p i k u n	p i k u n -	236-1
+3148	jaru	p a k e n	p a k e n -	236-1
+3149	kitemoka	p i k u i	p i k u - i	236-1
+3150	more	p i k u n	p i k u n -	236-1
+3151	orowin	p e k y n	p e k y n -	236-1
+3152	tapakura	p e k u n	p e k u n -	236-1
+3153	tora	p i k u n	p i k u n -	236-1
+3154	urupa	p a k y n	p a k y n -	236-1
+3155	wanyam	p e k i n	p e k i n -	236-1
+3156	wari	p a k y n	p a k y n -	236-1
+3157	cojubim	p i k u n	p i k u n -	236-2
+3158	jaru	p a k e n	p a k e n -	236-2
+3159	kitemoka	p i k u i	p i k u - i	236-2
+3160	more	p i k u n	p i k u n -	236-2
+3161	orowin	p e k y n	p e k y n -	236-2
+3162	tapakura	p e k u n	p e k u n -	236-2
+3163	tora	p i k u n	p i k u n -	236-2
+3164	urupa	p a k y n	p a k y n -	236-2
+3165	wanyam	p e k i n	p e k i n -	236-2
+3166	wari	p a k y n	p a k y n -	236-2
+3167	cojubim	p i k u n	p i k u n -	236-3
+3168	jaru	p a k e n	p a k e n -	236-3
+3169	kitemoka	p i k u i	p i k u - i	236-3
+3170	more	p i k u n	p i k u n -	236-3
+3171	orowin	p e k y n	p e k y n -	236-3
+3172	tapakura	p e k u n	p e k u n -	236-3
+3173	tora	p i k u n	p i k u n -	236-3
+3174	urupa	p a k y n	p a k y n -	236-3
+3175	wanyam	p e k i n	p e k i n -	236-3
+3176	wari	p a k y n	p a k y n -	236-3
+3177	cojubim	p i k u n	p i k u n -	236-4
+3178	jaru	p a k e n	p a k e n -	236-4
+3179	kitemoka	p i k u i	p i k u - i	236-4
+3180	more	p i k u n	p i k u n -	236-4
+3181	orowin	p e k y n	p e k y n -	236-4
+3182	tapakura	p e k u n	p e k u n -	236-4
+3183	tora	p i k u n	p i k u n -	236-4
+3184	urupa	p a k y n	p a k y n -	236-4
+3185	wanyam	p e k i n	p e k i n -	236-4
+3186	wari	p a k y n	p a k y n -	236-4
+3187	cojubim	p i k u n	p i k u n -	236-5
+3188	jaru	p a k e n	p a k e n -	236-5
+3189	kitemoka	p i k u i	p i k u - i	236-5
+3190	more	p i k u n	p i k u n -	236-5
+3191	orowin	p e k y n	p e k y n -	236-5
+3192	tapakura	p e k u n	p e k u n -	236-5
+3193	tora	p i k u n	p i k u n -	236-5
+3194	urupa	p a k y n	p a k y n -	236-5
+3195	wanyam	p e k i n	p e k i n -	236-5
+3196	wari	p a k y n	p a k y n -	236-5
+3197	cojubim	p i k u n	p i k u n -	236-6
+3198	jaru	p a k e n	p a k e n -	236-6
+3199	kitemoka	p i k u i	p i k u - i	236-6
+3200	more	p i k u n	p i k u n -	236-6
+3201	orowin	p e k y n	p e k y n -	236-6
+3202	tapakura	p e k u n	p e k u n -	236-6
+3203	tora	p i k u n	p i k u n -	236-6
+3204	urupa	p a k y n	p a k y n -	236-6
+3205	wanyam	p e k i n	p e k i n -	236-6
+3206	wari	p a k y n	p a k y n -	236-6
+3207	cojubim	p i k u n	p i k u n -	236-7
+3208	jaru	p a k e n	p a k e n -	236-7
+3209	kitemoka	p i k u i	p i k u - i	236-7
+3210	more	p i k u n	p i k u n -	236-7
+3211	orowin	p e k y n	p e k y n -	236-7
+3212	tapakura	p e k u n	p e k u n -	236-7
+3213	tora	p i k u n	p i k u n -	236-7
+3214	urupa	p a k y n	p a k y n -	236-7
+3215	wanyam	p e k i n	p e k i n -	236-7
+3216	wari	p a k y n	p a k y n -	236-7
+3217	cojubim	p i k u n	p i k u n -	236-8
+3218	jaru	p a k e n	p a k e n -	236-8
+3219	kitemoka	p i k u i	p i k u - i	236-8
+3220	more	p i k u n	p i k u n -	236-8
+3221	orowin	p e k y n	p e k y n -	236-8
+3222	tapakura	p e k u n	p e k u n -	236-8
+3223	tora	p i k u n	p i k u n -	236-8
+3224	urupa	p a k y n	p a k y n -	236-8
+3225	wanyam	p e k i n	p e k i n -	236-8
+3226	wari	p a k y n	p a k y n -	236-8
+3227	cojubim	p i k u n	p i k u n -	236-9
+3228	jaru	p a k e n	p a k e n -	236-9
+3229	kitemoka	p i k u i	p i k u - i	236-9
+3230	more	p i k u n	p i k u n -	236-9
+3231	orowin	p e k y n	p e k y n -	236-9
+3232	tapakura	p e k u n	p e k u n -	236-9
+3233	tora	p i k u n	p i k u n -	236-9
+3234	urupa	p a k y n	p a k y n -	236-9
+3235	wanyam	p e k i n	p e k i n -	236-9
+3236	wari	p a k y n	p a k y n -	236-9
+3237	cojubim	n a m a k a n	n a m a k a n -	239-1
+3238	jaru	m a n a k a n	m a n a k a n -	239-1
+3239	kitemoka	e m a k a n	- e m a k a n -	239-1
+3240	more	n a m a k a n	n a m a k a n -	239-1
+3241	orowin	n a m a k a n	n a m a k a n -	239-1
+3242	tapakura	j a m a k a n	j a m a k a n -	239-1
+3243	urupa	m a n a k a	m a n a k a - -	239-1
+3244	wanyam	n a m a k a n	n a m a k a n -	239-1
+3245	wari	m a k a n ʔ	m a - - k a n ʔ	239-1
+3246	cojubim	n a m a k a n	n a m a k a n -	239-2
+3247	jaru	m a n a k a n	m a n a k a n -	239-2
+3248	kitemoka	e m a k a n	- e m a k a n -	239-2
+3249	more	n a m a k a n	n a m a k a n -	239-2
+3250	orowin	n a m a k a n	n a m a k a n -	239-2
+3251	tapakura	j a m a k a n	j a m a k a n -	239-2
+3252	urupa	m a n a k a	m a n a k a - -	239-2
+3253	wanyam	n a m a k a n	n a m a k a n -	239-2
+3254	wari	m a k a n ʔ	m a - - k a n ʔ	239-2
+3255	cojubim	n a m a k a n	n a m a k a n -	239-3
+3256	jaru	m a n a k a n	m a n a k a n -	239-3
+3257	kitemoka	e m a k a n	- e m a k a n -	239-3
+3258	more	n a m a k a n	n a m a k a n -	239-3
+3259	orowin	n a m a k a n	n a m a k a n -	239-3
+3260	tapakura	j a m a k a n	j a m a k a n -	239-3
+3261	urupa	m a n a k a	m a n a k a - -	239-3
+3262	wanyam	n a m a k a n	n a m a k a n -	239-3
+3263	wari	m a k a n ʔ	m a - - k a n ʔ	239-3
+3264	cojubim	n a m a k a n	n a m a k a n -	239-4
+3265	jaru	m a n a k a n	m a n a k a n -	239-4
+3266	kitemoka	e m a k a n	- e m a k a n -	239-4
+3267	more	n a m a k a n	n a m a k a n -	239-4
+3268	orowin	n a m a k a n	n a m a k a n -	239-4
+3269	tapakura	j a m a k a n	j a m a k a n -	239-4
+3270	urupa	m a n a k a	m a n a k a - -	239-4
+3271	wanyam	n a m a k a n	n a m a k a n -	239-4
+3272	wari	m a k a n ʔ	m a - - k a n ʔ	239-4
+3273	cojubim	n a m a k a n	n a m a k a n -	239-5
+3274	jaru	m a n a k a n	m a n a k a n -	239-5
+3275	kitemoka	e m a k a n	- e m a k a n -	239-5
+3276	more	n a m a k a n	n a m a k a n -	239-5
+3277	orowin	n a m a k a n	n a m a k a n -	239-5
+3278	tapakura	j a m a k a n	j a m a k a n -	239-5
+3279	urupa	m a n a k a	m a n a k a - -	239-5
+3280	wanyam	n a m a k a n	n a m a k a n -	239-5
+3281	wari	m a k a n ʔ	m a - - k a n ʔ	239-5
+3282	cojubim	n a m a k a n	n a m a k a n -	239-6
+3283	jaru	m a n a k a n	m a n a k a n -	239-6
+3284	kitemoka	e m a k a n	- e m a k a n -	239-6
+3285	more	n a m a k a n	n a m a k a n -	239-6
+3286	orowin	n a m a k a n	n a m a k a n -	239-6
+3287	tapakura	j a m a k a n	j a m a k a n -	239-6
+3288	urupa	m a n a k a	m a n a k a - -	239-6
+3289	wanyam	n a m a k a n	n a m a k a n -	239-6
+3290	wari	m a k a n ʔ	m a - - k a n ʔ	239-6
+3291	cojubim	n a m a k a n	n a m a k a n -	239-8
+3292	jaru	m a n a k a n	m a n a k a n -	239-8
+3293	kitemoka	e m a k a n	- e m a k a n -	239-8
+3294	more	n a m a k a n	n a m a k a n -	239-8
+3295	orowin	n a m a k a n	n a m a k a n -	239-8
+3296	tapakura	j a m a k a n	j a m a k a n -	239-8
+3297	urupa	m a n a k a	m a n a k a - -	239-8
+3298	wanyam	n a m a k a n	n a m a k a n -	239-8
+3299	wari	m a k a n ʔ	m a - - k a n ʔ	239-8
+3300	cojubim	n a m a k a n	n a m a k a n -	239-9
+3301	jaru	m a n a k a n	m a n a k a n -	239-9
+3302	kitemoka	e m a k a n	- e m a k a n -	239-9
+3303	more	n a m a k a n	n a m a k a n -	239-9
+3304	orowin	n a m a k a n	n a m a k a n -	239-9
+3305	tapakura	j a m a k a n	j a m a k a n -	239-9
+3306	urupa	m a n a k a	m a n a k a - -	239-9
+3307	wanyam	n a m a k a n	n a m a k a n -	239-9
+3308	wari	m a k a n ʔ	m a - - k a n ʔ	239-9
+3309	cojubim	w a k o r a n	w a k o r - - - - a n	24-10
+3310	more	p o k o r a n	p o k o r - - - - a n	24-10
+3311	tapakura	w a g a r a g a t a n	w a g a r a g a t a n	24-10
+3312	tora	k u r a d n	- - k u r a d - - - n	24-10
+3313	wanyam	k a r i k a n	- - k a r i k - - a n	24-10
+3314	wari	t y k y	- - - - t y k - - y -	24-10
+3315	cojubim	a w i n	- a - - w i n	241-1
+3316	jaru	a w i	- a - - w i -	241-1
+3317	kitemoka	a w e n	- a - - w e n	241-1
+3318	more	a w i n	- a - - w i n	241-1
+3319	orowin	a w i n	- a - - w i n	241-1
+3320	tapakura	a w i n	- a - - w i n	241-1
+3321	tora	a w i n	- a - - w i n	241-1
+3322	urupa	a w i n	- a - - w i n	241-1
+3323	wanyam	a w i n	- a - - w i n	241-1
+3324	wari	n a n a w i n	n a n a w i n	241-1
+3325	cojubim	a w i n	- a - - w i n	241-2
+3326	jaru	a w i	- a - - w i -	241-2
+3327	kitemoka	a w e n	- a - - w e n	241-2
+3328	more	a w i n	- a - - w i n	241-2
+3329	orowin	a w i n	- a - - w i n	241-2
+3330	tapakura	a w i n	- a - - w i n	241-2
+3331	tora	a w i n	- a - - w i n	241-2
+3332	urupa	a w i n	- a - - w i n	241-2
+3333	wanyam	a w i n	- a - - w i n	241-2
+3334	wari	n a n a w i n	n a n a w i n	241-2
+3335	cojubim	a w i n	- a - - w i n	241-3
+3336	jaru	a w i	- a - - w i -	241-3
+3337	kitemoka	a w e n	- a - - w e n	241-3
+3338	more	a w i n	- a - - w i n	241-3
+3339	orowin	a w i n	- a - - w i n	241-3
+3340	tapakura	a w i n	- a - - w i n	241-3
+3341	tora	a w i n	- a - - w i n	241-3
+3342	urupa	a w i n	- a - - w i n	241-3
+3343	wanyam	a w i n	- a - - w i n	241-3
+3344	wari	n a n a w i n	n a n a w i n	241-3
+3345	cojubim	a w i n	- a - - w i n	241-4
+3346	jaru	a w i	- a - - w i -	241-4
+3347	kitemoka	a w e n	- a - - w e n	241-4
+3348	more	a w i n	- a - - w i n	241-4
+3349	orowin	a w i n	- a - - w i n	241-4
+3350	tapakura	a w i n	- a - - w i n	241-4
+3351	tora	a w i n	- a - - w i n	241-4
+3352	urupa	a w i n	- a - - w i n	241-4
+3353	wanyam	a w i n	- a - - w i n	241-4
+3354	wari	n a n a w i n	n a n a w i n	241-4
+3355	cojubim	a w i n	- a - - w i n	241-5
+3356	jaru	a w i	- a - - w i -	241-5
+3357	kitemoka	a w e n	- a - - w e n	241-5
+3358	more	a w i n	- a - - w i n	241-5
+3359	orowin	a w i n	- a - - w i n	241-5
+3360	tapakura	a w i n	- a - - w i n	241-5
+3361	tora	a w i n	- a - - w i n	241-5
+3362	urupa	a w i n	- a - - w i n	241-5
+3363	wanyam	a w i n	- a - - w i n	241-5
+3364	wari	n a n a w i n	n a n a w i n	241-5
+3365	cojubim	a w i n	- a - - w i n	241-6
+3366	jaru	a w i	- a - - w i -	241-6
+3367	kitemoka	a w e n	- a - - w e n	241-6
+3368	more	a w i n	- a - - w i n	241-6
+3369	orowin	a w i n	- a - - w i n	241-6
+3370	tapakura	a w i n	- a - - w i n	241-6
+3371	tora	a w i n	- a - - w i n	241-6
+3372	urupa	a w i n	- a - - w i n	241-6
+3373	wanyam	a w i n	- a - - w i n	241-6
+3374	wari	n a n a w i n	n a n a w i n	241-6
+3375	cojubim	a w i n	- a - - w i n	241-7
+3376	jaru	a w i	- a - - w i -	241-7
+3377	kitemoka	a w e n	- a - - w e n	241-7
+3378	more	a w i n	- a - - w i n	241-7
+3379	orowin	a w i n	- a - - w i n	241-7
+3380	tapakura	a w i n	- a - - w i n	241-7
+3381	tora	a w i n	- a - - w i n	241-7
+3382	urupa	a w i n	- a - - w i n	241-7
+3383	wanyam	a w i n	- a - - w i n	241-7
+3384	wari	n a n a w i n	n a n a w i n	241-7
+3385	cojubim	a w i n	- a - - w i n	241-8
+3386	jaru	a w i	- a - - w i -	241-8
+3387	kitemoka	a w e n	- a - - w e n	241-8
+3388	more	a w i n	- a - - w i n	241-8
+3389	orowin	a w i n	- a - - w i n	241-8
+3390	tapakura	a w i n	- a - - w i n	241-8
+3391	tora	a w i n	- a - - w i n	241-8
+3392	urupa	a w i n	- a - - w i n	241-8
+3393	wanyam	a w i n	- a - - w i n	241-8
+3394	wari	n a n a w i n	n a n a w i n	241-8
+3395	cojubim	a w i n	- a - - w i n	241-9
+3396	jaru	a w i	- a - - w i -	241-9
+3397	kitemoka	a w e n	- a - - w e n	241-9
+3398	more	a w i n	- a - - w i n	241-9
+3399	orowin	a w i n	- a - - w i n	241-9
+3400	tapakura	a w i n	- a - - w i n	241-9
+3401	tora	a w i n	- a - - w i n	241-9
+3402	urupa	a w i n	- a - - w i n	241-9
+3403	wanyam	a w i n	- a - - w i n	241-9
+3404	wari	n a n a w i n	n a n a w i n	241-9
+3405	cojubim	i tʃ e	i tʃ e -	249-1
+3406	jaru	i s e	i s e -	249-1
+3407	kitemoka	i s e	i s e -	249-1
+3408	more	i tʃ e	i tʃ e -	249-1
+3409	orowin	i s e	i s e -	249-1
+3410	tapakura	i s e	i s e -	249-1
+3411	tora	i ʃ e ʔ	i ʃ e ʔ	249-1
+3412	urupa	i s e	i s e -	249-1
+3413	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-1
+3414	wari	tʃ e	- tʃ e -	249-1
+3415	cojubim	i tʃ e	i tʃ e -	249-2
+3416	jaru	i s e	i s e -	249-2
+3417	kitemoka	i s e	i s e -	249-2
+3418	more	i tʃ e	i tʃ e -	249-2
+3419	orowin	i s e	i s e -	249-2
+3420	tapakura	i s e	i s e -	249-2
+3421	tora	i ʃ e ʔ	i ʃ e ʔ	249-2
+3422	urupa	i s e	i s e -	249-2
+3423	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-2
+3424	wari	tʃ e	- tʃ e -	249-2
+3425	cojubim	i tʃ e	i tʃ e -	249-3
+3426	jaru	i s e	i s e -	249-3
+3427	kitemoka	i s e	i s e -	249-3
+3428	more	i tʃ e	i tʃ e -	249-3
+3429	orowin	i s e	i s e -	249-3
+3430	tapakura	i s e	i s e -	249-3
+3431	tora	i ʃ e ʔ	i ʃ e ʔ	249-3
+3432	urupa	i s e	i s e -	249-3
+3433	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-3
+3434	wari	tʃ e	- tʃ e -	249-3
+3435	cojubim	i tʃ e	i tʃ e -	249-4
+3436	jaru	i s e	i s e -	249-4
+3437	kitemoka	i s e	i s e -	249-4
+3438	more	i tʃ e	i tʃ e -	249-4
+3439	orowin	i s e	i s e -	249-4
+3440	tapakura	i s e	i s e -	249-4
+3441	tora	i ʃ e ʔ	i ʃ e ʔ	249-4
+3442	urupa	i s e	i s e -	249-4
+3443	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-4
+3444	wari	tʃ e	- tʃ e -	249-4
+3445	cojubim	i tʃ e	i tʃ e -	249-5
+3446	jaru	i s e	i s e -	249-5
+3447	kitemoka	i s e	i s e -	249-5
+3448	more	i tʃ e	i tʃ e -	249-5
+3449	orowin	i s e	i s e -	249-5
+3450	tapakura	i s e	i s e -	249-5
+3451	tora	i ʃ e ʔ	i ʃ e ʔ	249-5
+3452	urupa	i s e	i s e -	249-5
+3453	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-5
+3454	wari	tʃ e	- tʃ e -	249-5
+3455	cojubim	i tʃ e	i tʃ e -	249-6
+3456	jaru	i s e	i s e -	249-6
+3457	kitemoka	i s e	i s e -	249-6
+3458	more	i tʃ e	i tʃ e -	249-6
+3459	orowin	i s e	i s e -	249-6
+3460	tapakura	i s e	i s e -	249-6
+3461	tora	i ʃ e ʔ	i ʃ e ʔ	249-6
+3462	urupa	i s e	i s e -	249-6
+3463	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-6
+3464	wari	tʃ e	- tʃ e -	249-6
+3465	cojubim	i tʃ e	i tʃ e -	249-7
+3466	jaru	i s e	i s e -	249-7
+3467	kitemoka	i s e	i s e -	249-7
+3468	more	i tʃ e	i tʃ e -	249-7
+3469	orowin	i s e	i s e -	249-7
+3470	tapakura	i s e	i s e -	249-7
+3471	tora	i ʃ e ʔ	i ʃ e ʔ	249-7
+3472	urupa	i s e	i s e -	249-7
+3473	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-7
+3474	wari	tʃ e	- tʃ e -	249-7
+3475	cojubim	i tʃ e	i tʃ e -	249-8
+3476	jaru	i s e	i s e -	249-8
+3477	kitemoka	i s e	i s e -	249-8
+3478	more	i tʃ e	i tʃ e -	249-8
+3479	orowin	i s e	i s e -	249-8
+3480	tapakura	i s e	i s e -	249-8
+3481	tora	i ʃ e ʔ	i ʃ e ʔ	249-8
+3482	urupa	i s e	i s e -	249-8
+3483	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-8
+3484	wari	tʃ e	- tʃ e -	249-8
+3485	cojubim	i tʃ e	i tʃ e -	249-9
+3486	jaru	i s e	i s e -	249-9
+3487	kitemoka	i s e	i s e -	249-9
+3488	more	i tʃ e	i tʃ e -	249-9
+3489	orowin	i s e	i s e -	249-9
+3490	tapakura	i s e	i s e -	249-9
+3491	tora	i ʃ e ʔ	i ʃ e ʔ	249-9
+3492	urupa	i s e	i s e -	249-9
+3493	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-9
+3494	wari	tʃ e	- tʃ e -	249-9
+3495	cojubim	t o w a ʔ	t o w a ʔ	259-1
+3496	jaru	t o a	t o - a -	259-1
+3497	more	t o w a	t o w a -	259-1
+3498	orowin	t o w a ʔ	t o w a ʔ	259-1
+3499	tora	t u a g	t u - a g	259-1
+3500	urupa	t u a	t u - a -	259-1
+3501	wanyam	t o w a	t o w a -	259-1
+3502	wari	t o w o ʔ	t o w o ʔ	259-1
+3503	cojubim	t o w a ʔ	t o w a ʔ	259-2
+3504	jaru	t o a	t o - a -	259-2
+3505	more	t o w a	t o w a -	259-2
+3506	orowin	t o w a ʔ	t o w a ʔ	259-2
+3507	tora	t u a g	t u - a g	259-2
+3508	urupa	t u a	t u - a -	259-2
+3509	wanyam	t o w a	t o w a -	259-2
+3510	wari	t o w o ʔ	t o w o ʔ	259-2
+3511	cojubim	t o w a ʔ	t o w a ʔ	259-4
+3512	jaru	t o a	t o - a -	259-4
+3513	more	t o w a	t o w a -	259-4
+3514	orowin	t o w a ʔ	t o w a ʔ	259-4
+3515	tora	t u a g	t u - a g	259-4
+3516	urupa	t u a	t u - a -	259-4
+3517	wanyam	t o w a	t o w a -	259-4
+3518	wari	t o w o ʔ	t o w o ʔ	259-4
+3519	cojubim	t o w a ʔ	t o w a ʔ	259-5
+3520	jaru	t o a	t o - a -	259-5
+3521	more	t o w a	t o w a -	259-5
+3522	orowin	t o w a ʔ	t o w a ʔ	259-5
+3523	tora	t u a g	t u - a g	259-5
+3524	urupa	t u a	t u - a -	259-5
+3525	wanyam	t o w a	t o w a -	259-5
+3526	wari	t o w o ʔ	t o w o ʔ	259-5
+3527	cojubim	t o w a ʔ	t o w a ʔ	259-7
+3528	jaru	t o a	t o - a -	259-7
+3529	more	t o w a	t o w a -	259-7
+3530	orowin	t o w a ʔ	t o w a ʔ	259-7
+3531	tora	t u a g	t u - a g	259-7
+3532	urupa	t u a	t u - a -	259-7
+3533	wanyam	t o w a	t o w a -	259-7
+3534	wari	t o w o ʔ	t o w o ʔ	259-7
+3535	cojubim	t o w a ʔ	t o w a ʔ	259-8
+3536	jaru	t o a	t o - a -	259-8
+3537	more	t o w a	t o w a -	259-8
+3538	orowin	t o w a ʔ	t o w a ʔ	259-8
+3539	tora	t u a g	t u - a g	259-8
+3540	urupa	t u a	t u - a -	259-8
+3541	wanyam	t o w a	t o w a -	259-8
+3542	wari	t o w o ʔ	t o w o ʔ	259-8
+3543	cojubim	t o w a ʔ	t o w a ʔ	259-9
+3544	jaru	t o a	t o - a -	259-9
+3545	more	t o w a	t o w a -	259-9
+3546	orowin	t o w a ʔ	t o w a ʔ	259-9
+3547	tora	t u a g	t u - a g	259-9
+3548	urupa	t u a	t u - a -	259-9
+3549	wanyam	t o w a	t o w a -	259-9
+3550	wari	t o w o ʔ	t o w o ʔ	259-9
+3551	cojubim	i s i m	- i - s i - m -	266-1
+3552	jaru	e t i m ʔ	- e - t i - m ʔ	266-1
+3553	kitemoka	p a i t i n	p a i t i - n -	266-1
+3554	more	i s i m	- i - s i - m -	266-1
+3555	orowin	i t i m	- i - t i - m -	266-1
+3556	tapakura	p a i t i n	p a i t i - n -	266-1
+3557	tora	i j s i b m	- i j s i b m -	266-1
+3558	wanyam	i t i m	- i - t i - m -	266-1
+3559	wari	tʃ i m	- - - tʃ i - m -	266-1
+3560	cojubim	i s i m	- i - s i - m -	266-2
+3561	jaru	e t i m ʔ	- e - t i - m ʔ	266-2
+3562	kitemoka	p a i t i n	p a i t i - n -	266-2
+3563	more	i s i m	- i - s i - m -	266-2
+3564	orowin	i t i m	- i - t i - m -	266-2
+3565	tapakura	p a i t i n	p a i t i - n -	266-2
+3566	tora	i j s i b m	- i j s i b m -	266-2
+3567	wanyam	i t i m	- i - t i - m -	266-2
+3568	wari	tʃ i m	- - - tʃ i - m -	266-2
+3569	cojubim	i s i m	- i - s i - m -	266-3
+3570	jaru	e t i m ʔ	- e - t i - m ʔ	266-3
+3571	kitemoka	p a i t i n	p a i t i - n -	266-3
+3572	more	i s i m	- i - s i - m -	266-3
+3573	orowin	i t i m	- i - t i - m -	266-3
+3574	tapakura	p a i t i n	p a i t i - n -	266-3
+3575	tora	i j s i b m	- i j s i b m -	266-3
+3576	wanyam	i t i m	- i - t i - m -	266-3
+3577	wari	tʃ i m	- - - tʃ i - m -	266-3
+3578	cojubim	i s i m	- i - s i - m -	266-4
+3579	jaru	e t i m ʔ	- e - t i - m ʔ	266-4
+3580	kitemoka	p a i t i n	p a i t i - n -	266-4
+3581	more	i s i m	- i - s i - m -	266-4
+3582	orowin	i t i m	- i - t i - m -	266-4
+3583	tapakura	p a i t i n	p a i t i - n -	266-4
+3584	tora	i j s i b m	- i j s i b m -	266-4
+3585	wanyam	i t i m	- i - t i - m -	266-4
+3586	wari	tʃ i m	- - - tʃ i - m -	266-4
+3587	cojubim	i s i m	- i - s i - m -	266-5
+3588	jaru	e t i m ʔ	- e - t i - m ʔ	266-5
+3589	kitemoka	p a i t i n	p a i t i - n -	266-5
+3590	more	i s i m	- i - s i - m -	266-5
+3591	orowin	i t i m	- i - t i - m -	266-5
+3592	tapakura	p a i t i n	p a i t i - n -	266-5
+3593	tora	i j s i b m	- i j s i b m -	266-5
+3594	wanyam	i t i m	- i - t i - m -	266-5
+3595	wari	tʃ i m	- - - tʃ i - m -	266-5
+3596	cojubim	i s i m	- i - s i - m -	266-6
+3597	jaru	e t i m ʔ	- e - t i - m ʔ	266-6
+3598	kitemoka	p a i t i n	p a i t i - n -	266-6
+3599	more	i s i m	- i - s i - m -	266-6
+3600	orowin	i t i m	- i - t i - m -	266-6
+3601	tapakura	p a i t i n	p a i t i - n -	266-6
+3602	tora	i j s i b m	- i j s i b m -	266-6
+3603	wanyam	i t i m	- i - t i - m -	266-6
+3604	wari	tʃ i m	- - - tʃ i - m -	266-6
+3605	cojubim	i s i m	- i - s i - m -	266-7
+3606	jaru	e t i m ʔ	- e - t i - m ʔ	266-7
+3607	kitemoka	p a i t i n	p a i t i - n -	266-7
+3608	more	i s i m	- i - s i - m -	266-7
+3609	orowin	i t i m	- i - t i - m -	266-7
+3610	tapakura	p a i t i n	p a i t i - n -	266-7
+3611	tora	i j s i b m	- i j s i b m -	266-7
+3612	wanyam	i t i m	- i - t i - m -	266-7
+3613	wari	tʃ i m	- - - tʃ i - m -	266-7
+3614	cojubim	i s i m	- i - s i - m -	266-9
+3615	jaru	e t i m ʔ	- e - t i - m ʔ	266-9
+3616	kitemoka	p a i t i n	p a i t i - n -	266-9
+3617	more	i s i m	- i - s i - m -	266-9
+3618	orowin	i t i m	- i - t i - m -	266-9
+3619	tapakura	p a i t i n	p a i t i - n -	266-9
+3620	tora	i j s i b m	- i j s i b m -	266-9
+3621	wanyam	i t i m	- i - t i - m -	266-9
+3622	wari	tʃ i m	- - - tʃ i - m -	266-9
+3623	cojubim	u w e ʔ	u w e ʔ	51-10
+3624	jaru	u w e	u w e -	51-10
+3625	more	u w e ʔ	u w e ʔ	51-10
+3626	orowin	y w e	y w e -	51-10
+3627	tora	i w i	i w i -	51-10
+3628	urupa	i v e	i v e -	51-10
+3629	wanyam	e w i ʔ	e w i ʔ	51-10
+3630	wari	w e	- w e -	51-10
+3631	cojubim	i t e	- i t - e -	52-10
+3632	jaru	e t e	- e t - e -	52-10
+3633	kitemoka	t a t i a	t a t i a -	52-10
+3634	more	i t e	- i t - e -	52-10
+3635	orowin	i t e ʔ	- i t - e ʔ	52-10
+3636	tapakura	t i a	t i - - a -	52-10
+3637	tora	i t e	- i t - e -	52-10
+3638	urupa	e t e	- e t - e -	52-10
+3639	wanyam	t a t a	t a t - a -	52-10
+3640	wari	t e	t e - - - -	52-10
+3641	jaru	i h a m ʔ	i h - - a m ʔ	55-10
+3642	kitemoka	i h a m	i h - - a m -	55-10
+3643	orowin	i f a m	i f - - a m -	55-10
+3644	tapakura	i h u a m	i h - u a m -	55-10
+3645	tora	h o a m	- h - o a m -	55-10
+3646	urupa	i h a m	i h - - a m -	55-10
+3647	wanyam	i h a m	i h - - a m -	55-10
+3648	wari	h w a m	- h w a - m -	55-10
+3649	cojubim	u m e	- u m e -	56-10
+3650	jaru	u m e	- u m e -	56-10
+3651	kitemoka	h u m e	h u m e -	56-10
+3652	more	u m e	- u m e -	56-10
+3653	orowin	y m e	- y m e -	56-10
+3654	tapakura	i m e	- i m e -	56-10
+3655	tora	u m a	- u m a -	56-10
+3656	urupa	u m e	- u m e -	56-10
+3657	wanyam	i m e ʔ	- i m e ʔ	56-10
+3658	wari	m e	- - m e -	56-10
+3659	cojubim	i w	i w - - -	65-10
+3660	kitemoka	a h i h i	a h i h i	65-10
+3661	more	i w	i w - - -	65-10
+3662	orowin	i w i s i	i w i s i	65-10
+3663	tapakura	a w i	a w - - i	65-10
+3664	tora	i w	i w - - -	65-10
+3665	urupa	i w	i w - - -	65-10
+3666	wanyam	i w i	i w - - i	65-10
+3667	wari	i w ʔ	i w - ʔ -	65-10
+3668	cojubim	p a n a	p a n a	74-10
+3669	jaru	p a n a	p a n a	74-10
+3670	more	p a n a	p a n a	74-10
+3671	orowin	p a n a	p a n a	74-10
+3672	tapakura	p a n e	p a n e	74-10
+3673	tora	p a n a	p a n a	74-10
+3674	urupa	p a n a	p a n a	74-10
+3675	wanyam	p a n a	p a n a	74-10
+3676	wari	p a n a	p a n a	74-10
+3677	jaru	t u p a r e s i	t u p a r e s i -	93-10
+3678	kitemoka	p a r i tʃ e	- - p a r i tʃ e -	93-10
+3679	more	t o p a n	t o p a n - - - -	93-10
+3680	orowin	t o p o r i s i	t o p o r i s i -	93-10
+3681	tapakura	t u p a r i tʃ i	t u p a r i tʃ i -	93-10
+3682	tora	t u p a r a	t u p a r - - a -	93-10
+3683	urupa	t u p a r i s i	t u p a r i s i -	93-10
+3684	wanyam	t u p a r i ʃ i ʔ	t u p a r i ʃ i ʔ	93-10
+3685	wari	t a p a r i tʃ i ʔ	t a p a r i tʃ i ʔ	93-10
+3686	jaru	w i t	- w i t - - -	95-10
+3687	kitemoka	a w e i tʃ e	a w e - i tʃ e	95-10
+3688	more	w y k	- w y k - - -	95-10
+3689	orowin	w i k i s i	- w i k i s i	95-10
+3690	tapakura	a w i	a w - - - - i	95-10
+3691	tora	w i	- w i - - - -	95-10
+3692	urupa	w i k i s i	- w i k i s i	95-10
+3693	wanyam	w i k i	- w i k - - i	95-10
+3694	wari	k i tʃ i ʔ	- k i tʃ i ʔ -	95-10
+3695	cojubim	a t	- a - - t - -	96-10
+3696	jaru	r a s i	- - r a s i -	96-10
+3697	kitemoka	t a r i tʃ e	t a r i tʃ e -	96-10
+3698	more	a t	- a - - t - -	96-10
+3699	orowin	a r a n	- a r a n - -	96-10
+3700	tapakura	a t a t	- a t a t - -	96-10
+3701	tora	a t a ʃ i	- a t a ʃ i -	96-10
+3702	urupa	a r a s i	- a r a s i -	96-10
+3703	wanyam	a r a j	- a r a j - -	96-10
+3704	wari	a r a tʃ i ʔ	- a r a tʃ i ʔ	96-10
+3705	cojubim	m a p u m	m a p - - u m - - -	97-10
+3706	jaru	a h o m i	- a h - - o m i - -	97-10
+3707	more	m a p o m	m a p - - o m - - -	97-10
+3708	orowin	m a f o m a s i	m a f - - o m a s i	97-10
+3709	tapakura	m o m i k u m	m o m i k u m - - -	97-10
+3710	tora	t aː h o n	t aː h - - - - o - n	97-10
+3711	wanyam	w a h u m a j n	w a h - - u m a j n	97-10
+3712	wari	h o m a ɲ	- - h - - o m a - ɲ	97-10
+3713	cojubim	a r i	a r i - - - - - -	99-10
+3714	jaru	r e j e n	- r e j e n - - -	99-10
+3715	kitemoka	t i r a n t i a	- t i r a n t i a	99-10
+3716	more	a r i ʒ̟ a	a r i ʒ̟ a - - - -	99-10
+3717	orowin	a r i k o n	a r i k o n - - -	99-10
+3718	tapakura	a t e r a n t a	a t e r a n t - a	99-10
+3719	tora	a z e r o n	a z e r o n - - -	99-10
+3720	urupa	e r e j e n	e r e j e n - - -	99-10
+3721	wanyam	a r i k o n	a r i k o n - - -	99-10
+3722	wari	a r a j e ɲ	a r a j e ɲ - - -	99-10
+3723	cojubim	t u n a	t u n - - - - a -	106-10
+3724	jaru	t i n j i	t i n - - - j i -	106-10
+3725	kitemoka	tʃ u m i tʃ e	tʃ u m - - i tʃ e -	106-10
+3726	more	t u n e ɲ	t u n - - - - e ɲ	106-10
+3727	orowin	t y n e s i	t y n - - e s i -	106-10
+3728	tapakura	tʃ u m i tʃ i	tʃ u m - - i tʃ i -	106-10
+3729	tora	t u n i	t u n - - - - i -	106-10
+3730	wanyam	t i n i ʃ i ʔ	t i n - - i ʃ i ʔ	106-10
+3731	wari	t e n e n e tʃ i ʔ	t e n e n e tʃ i ʔ	106-10
+3732	jaru	t r a i s i	t - - r - a - i s i -	112-10
+3733	kitemoka	t a t i a t a tʃ e	t a - t i a t a tʃ e -	112-10
+3734	orowin	t r a j i s i	t - - r - a j i s i -	112-10
+3735	tapakura	t a i t a t a tʃ i	t a i t - a t a tʃ i -	112-10
+3736	urupa	t r a i s i	t - - r - a - i s i -	112-10
+3737	wanyam	t a r a j i ʃ i ʔ	t a - r - a j i ʃ i ʔ	112-10
+3738	wari	t a r a j i tʃ i ʔ	t a - r - a j i tʃ i ʔ	112-10
+3739	cojubim	t o k	t o k - - - -	114-10
+3740	jaru	t e k i s i	t e k i s i -	114-10
+3741	kitemoka	k u tʃ i	- - k u tʃ i -	114-10
+3742	more	t o k	t o k - - - -	114-10
+3743	orowin	t o k i s i	t o k i s i -	114-10
+3744	tapakura	t u k u tʃ i	t u k u tʃ i -	114-10
+3745	tora	t o k	t o k - - - -	114-10
+3746	urupa	t u k e s i	t u k e s i -	114-10
+3747	wanyam	t o k i ʃ i ʔ	t o k i ʃ i ʔ	114-10
+3748	wari	t o k o tʃ i ʔ	t o k o tʃ i ʔ	114-10
+3749	cojubim	u r	- - u r - - - -	115-10
+3750	jaru	j o l i s i	- j o l i s i -	115-10
+3751	kitemoka	t u r u tʃ e	- t u r u tʃ e -	115-10
+3752	more	u ʒ̟	- - u ʒ̟ - - - -	115-10
+3753	orowin	y r y s i	- - y r y s i -	115-10
+3754	tapakura	u t u r u tʃ i	u t u r u tʃ i -	115-10
+3755	tora	u j	- - u j - - - -	115-10
+3756	urupa	j u r e s i	- j u r e s i -	115-10
+3757	wanyam	i r i ʃ i ʔ	- - i r i ʃ i ʔ	115-10
+3758	wari	w e r e tʃ i ʔ	- w e r e tʃ i ʔ	115-10
+3759	jaru	t u p a k a s i	t u p a k a s i -	116-10
+3760	more	t o p a k	t o p a k - - - -	116-10
+3761	orowin	t o p a k a s i	t o p a k a s i -	116-10
+3762	tapakura	t u p a k a tʃ i	t u p a k a tʃ i -	116-10
+3763	urupa	t u p a k a s i	t u p a k a s i -	116-10
+3764	wanyam	t o p a k a ʃ i ʔ	t o p a k a ʃ i ʔ	116-10
+3765	wari	t o p a k	t o p a k - - - -	116-10
+3766	jaru	i t i s i	- - i t i s i -	119-10
+3767	kitemoka	i j a d i tʃ e	i j a d i tʃ e -	119-10
+3768	more	j a t	- j a t - - - -	119-10
+3769	orowin	i j i t i s i	i j i t i s i -	119-10
+3770	tapakura	j a t i tʃ i	- j a t i tʃ i -	119-10
+3771	tora	j a t i ʃ i	- j a t i ʃ i -	119-10
+3772	urupa	j e t i s i	- j e t i s i -	119-10
+3773	wanyam	i j i t i ʃ i ʔ	i j i t i ʃ i ʔ	119-10
+3774	wari	tʃ i tʃ i ʔ	- tʃ i tʃ i ʔ - -	119-10
+3775	cojubim	k a p a j a k	k a p a j a - - - - k	121-10
+3776	jaru	k a p i a k a s i	k a p i - a k a s i -	121-10
+3777	kitemoka	k a p i k a k a tʃ e	k a p i k a k a tʃ e -	121-10
+3778	more	k a p a j a k	k a p a j a - - - - k	121-10
+3779	tora	k a p i a k i ʃ i ʔ	k a p i - a k i ʃ i ʔ	121-10
+3780	urupa	k a p i a k a s i	k a p i - a k a s i -	121-10
+3781	wanyam	k a p i j a k a ʃ i ʔ	k a p i j a k a ʃ i ʔ	121-10
+3782	wari	k a p i j a tʃ i ʔ	k a p i j a tʃ - - i ʔ	121-10
+3783	jaru	k a t i m a s i	k a t i m a s i -	125-10
+3784	kitemoka	k a i m a tʃ e	k a - i m a tʃ e -	125-10
+3785	tapakura	k a i m a tʃ i	k a - i m a tʃ i -	125-10
+3786	tora	k a z i m a	k a z i m - - a -	125-10
+3787	urupa	k a t i m a s i	k a t i m a s i -	125-10
+3788	wanyam	k a t i m a ʃ i ʔ	k a t i m a ʃ i ʔ	125-10
+3789	wari	k a tʃ i m a tʃ i ʔ	k a tʃ i m a tʃ i ʔ	125-10
+3790	cojubim	p o k	p o k - - - -	128-10
+3791	jaru	e k i s i	- e k i s i -	128-10
+3792	kitemoka	k o h o tʃ i	k o h o tʃ i -	128-10
+3793	more	p o k	p o k - - - -	128-10
+3794	orowin	f o k i s i	f o k i s i -	128-10
+3795	tapakura	u k u tʃ i	- u k u tʃ i -	128-10
+3796	tora	h o k	h o k - - - -	128-10
+3797	wanyam	h o k i ʃ i ʔ	h o k i ʃ i ʔ	128-10
+3798	wari	k o k o tʃ i ʔ	k o k o tʃ i ʔ	128-10
+3799	cojubim	t i p a n	- t i p - - a n - -	133-10
+3800	jaru	t i p r a s i	- t i p - r a s i -	133-10
+3801	kitemoka	tʃ e p a r a j u	- tʃ e p a r a j u -	133-10
+3802	more	t i p a n	- t i p - - a n - -	133-10
+3803	orowin	t i p r a s i	- t i p - r a s i -	133-10
+3804	tapakura	i tʃ o p a r a tʃ i	i tʃ o p a r a tʃ i -	133-10
+3805	tora	t i p a r a	- t i p - - a r a -	133-10
+3806	urupa	t i p r a s i	- t i p - r a s i -	133-10
+3807	wanyam	t i p a r a ʃ i ʔ	- t i p a r a ʃ i ʔ	133-10
+3808	wari	t a p a r a tʃ i ʔ	- t a p a r a tʃ i ʔ	133-10
+3809	cojubim	n i p a t	n i p a t - - - -	134-10
+3810	kitemoka	i p a t i	- i p a t i - - -	134-10
+3811	more	n i p a t	n i p a t - - - -	134-10
+3812	orowin	n a p a t i n a n	n a p a t i n a n	134-10
+3813	tapakura	h i p a tʃ i	h i p a tʃ i - - -	134-10
+3814	wanyam	n i p a t	n i p a t - - - -	134-10
+3815	wari	t a p a tʃ i	t a p a tʃ i - - -	134-10
+3816	cojubim	k i r i m o n ʔ	k i r i m o n - ʔ - -	139-10
+3817	jaru	m e n e s i	- - - - m e n e s i -	139-10
+3818	kitemoka	w a e m e m i tʃ e	w a - e m e m i tʃ e -	139-10
+3819	more	m u k u r i	- - - - m u k u r i -	139-10
+3820	orowin	m o n o s i	- - - - m o n o s i -	139-10
+3821	tapakura	a m u n i tʃ i	- a - - m u n i tʃ i -	139-10
+3822	wari	m o n o tʃ i ʔ	- - - - m o n o tʃ i ʔ	139-10
+3823	cojubim	p a t a m	- p a t a m - - - -	142-10
+3824	jaru	u p r a m a s i	u p - r a m a s i -	142-10
+3825	more	p a t a m	- p a t a m - - - -	142-10
+3826	orowin	o p a r a m a s i	o p a r a m a s i -	142-10
+3827	tora	p a t a m a	- p a t a m a - - -	142-10
+3828	wanyam	u p a r a m a ʃ i ʔ	u p a r a m a ʃ i ʔ	142-10
+3829	wari	p a r a m a tʃ i ʔ	- p a r a m a tʃ i ʔ	142-10
+3830	cojubim	a t a w	- a t a w - - - -	144-10
+3831	jaru	a r a w a s i	- a r a w a s i -	144-10
+3832	kitemoka	t o t o j a tʃ e	t o t o j a tʃ e -	144-10
+3833	more	a t a w	- a t a w - - - -	144-10
+3834	orowin	a r a w a s i	- a r a w a s i -	144-10
+3835	tapakura	o t o w a tʃ i	- o t o w a tʃ i -	144-10
+3836	tora	w u r i t i m	- - w u r i t i m	144-10
+3837	urupa	e r a w a s i	- e r a w a s i -	144-10
+3838	wanyam	a w a r a ʃ i ʔ	- a w a r a ʃ i ʔ	144-10
+3839	wari	w a r a tʃ i ʔ	- - w a r a tʃ i ʔ	144-10
+3840	cojubim	k a t a t	k a - - t a t - -	145-10
+3841	more	k a t a t	k a - - t a t - -	145-10
+3842	orowin	k a r a t i s i	k a r a t i s i -	145-10
+3843	tora	k a t a s a n	k a - - t a s a n	145-10
+3844	urupa	k a r a t i s i	k a r a t i s i -	145-10
+3845	wanyam	k a r a t i ʃ i ʔ	k a r a t i ʃ i ʔ	145-10
+3846	wari	k a r a tʃ i tʃ i ʔ	k a r a tʃ i tʃ i ʔ	145-10
+3847	cojubim	t o k u	t o k - - u -	147-10
+3848	jaru	t e m i s i	t e m i s i -	147-10
+3849	kitemoka	s i m i tʃ e	s i m i tʃ e -	147-10
+3850	more	t u k u	t u k - - u -	147-10
+3851	orowin	t i m i s i	t i m i s i -	147-10
+3852	tapakura	s i m i tʃ i	s i m i tʃ i -	147-10
+3853	tora	t i m u	t i m - - u -	147-10
+3854	wanyam	t i m i ʃ i ʔ	t i m i ʃ i ʔ	147-10
+3855	wari	tʃ i m i tʃ i ʔ	tʃ i m i tʃ i ʔ	147-10
+3856	cojubim	tʃ a w a n	tʃ - - a w - a n - - - -	148-10
+3857	jaru	t r a w a n a s i	t - r a w - a n a s i -	148-10
+3858	more	s a w a n	s - - a w - a n - - - -	148-10
+3859	orowin	t r a w r i s i	t - r a w r i s - - i -	148-10
+3860	tora	t r a w a n a	t - r a w - a n - - a -	148-10
+3861	wanyam	t a r a w a n e ʃ i ʔ	t a r a w - a n e ʃ i ʔ	148-10
+3862	wari	t a r a w a n a tʃ i ʔ	t a r a w - a n a tʃ i ʔ	148-10
+3863	cojubim	t o k	t o k - -	149-10
+3864	kitemoka	k o t	- - k o t	149-10
+3865	more	t o k	t o k - -	149-10
+3866	orowin	t o k	t o k - -	149-10
+3867	tora	t u k	t u k - -	149-10
+3868	urupa	t o k	t o k - -	149-10
+3869	wanyam	t u k a	t u k a -	149-10
+3870	wari	t o k	t o k - -	149-10
+3871	cojubim	k a w ʔ	k a w ʔ	150-10
+3872	jaru	k a w	k a w -	150-10
+3873	kitemoka	k a w	k a w -	150-10
+3874	more	k a w	k a w -	150-10
+3875	orowin	k a w	k a w -	150-10
+3876	tapakura	k a w	k a w -	150-10
+3877	tora	k a w	k a w -	150-10
+3878	urupa	k a w	k a w -	150-10
+3879	wanyam	k a w	k a w -	150-10
+3880	wari	k a w	k a w -	150-10
+3881	cojubim	k i r i k	k i r i k	160-10
+3882	kitemoka	t i r i g	t i r i g	160-10
+3883	more	k i r i k	k i r i k	160-10
+3884	orowin	k i r i k	k i r i k	160-10
+3885	tapakura	k i r i k	k i r i k	160-10
+3886	tora	k r i d	k - r i d	160-10
+3887	wanyam	k i r i k	k i r i k	160-10
+3888	wari	k e r e k	k e r e k	160-10
+3889	cojubim	i n i n ʔ	i - n i - n ʔ	162-10
+3890	jaru	i n j i n	i n j i - n -	162-10
+3891	more	i j i n	i - j i - n -	162-10
+3892	orowin	i j i n	i - j i - n -	162-10
+3893	tora	e j i d n	e - j i d n -	162-10
+3894	wanyam	i n i n	i - n i - n -	162-10
+3895	wari	j i n ʔ	- - j i - n ʔ	162-10
+3896	cojubim	u p i n	u p i n - - -	163-10
+3897	jaru	u p e j a m ʔ	u p e j a m ʔ	163-10
+3898	more	u p e n	u p e n - - -	163-10
+3899	orowin	y p e n	y p e n - - -	163-10
+3900	tora	u p o ɲ	u p o ɲ - - -	163-10
+3901	urupa	y p e n	y p e n - - -	163-10
+3902	wanyam	i p e n	i p e n - - -	163-10
+3903	wari	p i ʔ	- p i - - - ʔ	163-10
+3904	cojubim	i m i ʔ	i m i ʔ	166-10
+3905	jaru	i m i	i m i -	166-10
+3906	more	i m i	i m i -	166-10
+3907	orowin	i m i ʔ	i m i ʔ	166-10
+3908	tora	i m i	i m i -	166-10
+3909	wanyam	i m i	i m i -	166-10
+3910	wari	m i ʔ	- m i ʔ	166-10
+3911	cojubim	p a ʔ	- - p a ʔ	167-10
+3912	jaru	p a	- - p a -	167-10
+3913	more	p a	- - p a -	167-10
+3914	orowin	p a ʔ	- - p a ʔ	167-10
+3915	tora	p a	- - p a -	167-10
+3916	urupa	t u p a b	t u p a b	167-10
+3917	wanyam	p a	- - p a -	167-10
+3918	wari	p a ʔ	- - p a ʔ	167-10
+3919	cojubim	t a ʔ	t a ʔ - -	179-10
+3920	jaru	t a	t a - - -	179-10
+3921	more	t a	t a - - -	179-10
+3922	orowin	t a	t a - - -	179-10
+3923	tora	t a	t a - - -	179-10
+3924	wanyam	t a k a t	t a k a t	179-10
+3925	wari	t a	t a - - -	179-10
+3926	cojubim	p e	p - e - -	201-10
+3927	more	p w e	p w e - -	201-10
+3928	orowin	p e	p - e - -	201-10
+3929	tapakura	p e p e	p - e p e	201-10
+3930	tora	p i	p - i - -	201-10
+3931	wanyam	p e	p - e - -	201-10
+3932	wari	p e ʔ	p - e ʔ -	201-10
+3933	cojubim	m i ʔ	m i ʔ	207-10
+3934	kitemoka	m e	m e -	207-10
+3935	more	m i	m i -	207-10
+3936	orowin	m i ʔ	m i ʔ	207-10
+3937	tapakura	m i	m i -	207-10
+3938	tora	m i ʔ	m i ʔ	207-10
+3939	wanyam	m i n	m i n	207-10
+3940	wari	m i ʔ	m i ʔ	207-10
+3941	cojubim	p a n a w o ʔ	p a n a w o ʔ	231-10
+3942	jaru	p a n a u	p a n a - u -	231-10
+3943	kitemoka	p n a t o	p - n a t o -	231-10
+3944	more	p a n a w o ʔ	p a n a w o ʔ	231-10
+3945	tapakura	p a n a t o	p a n a t o -	231-10
+3946	tora	p a n a o	p a n a - o -	231-10
+3947	urupa	p a n a o ʔ	p a n a - o ʔ	231-10
+3948	wanyam	p a n a w o ʔ	p a n a w o ʔ	231-10
+3949	wari	p a n a w o ʔ	p a n a w o ʔ	231-10
+3950	cojubim	p i	- - p i - - - - -	232-10
+3951	jaru	u p i u	- u p i - - u - -	232-10
+3952	kitemoka	p i l ʔ a h u	- - p i l ʔ a h u	232-10
+3953	more	p i p i j o	p i p i - j o - -	232-10
+3954	tapakura	w i p i j a o	w i p i - j a - o	232-10
+3955	tora	p i p i j o	p i p i - j o - -	232-10
+3956	urupa	u p i j o	- u p i - j o - -	232-10
+3957	wanyam	u p i j u ʔ	- u p i - j u ʔ -	232-10
+3958	wari	p i j o ʔ	- - p i - j o ʔ -	232-10
+3959	cojubim	k o m	- k o m	234-10
+3960	jaru	k o	- k o -	234-10
+3961	kitemoka	a k o	a k o -	234-10
+3962	more	k o m	- k o m	234-10
+3963	orowin	k o m	- k o m	234-10
+3964	tapakura	a k u m	a k u m	234-10
+3965	tora	k o m	- k o m	234-10
+3966	urupa	k o m	- k o m	234-10
+3967	wanyam	k o m	- k o m	234-10
+3968	wari	k o m	- k o m	234-10
+3969	cojubim	p i k u n	p i k u n -	236-10
+3970	jaru	p a k e n	p a k e n -	236-10
+3971	kitemoka	p i k u i	p i k u - i	236-10
+3972	more	p i k u n	p i k u n -	236-10
+3973	orowin	p e k y n	p e k y n -	236-10
+3974	tapakura	p e k u n	p e k u n -	236-10
+3975	tora	p i k u n	p i k u n -	236-10
+3976	urupa	p a k y n	p a k y n -	236-10
+3977	wanyam	p e k i n	p e k i n -	236-10
+3978	wari	p a k y n	p a k y n -	236-10
+3979	cojubim	n a m a k a n	n a m a k a n -	239-10
+3980	jaru	m a n a k a n	m a n a k a n -	239-10
+3981	kitemoka	e m a k a n	- e m a k a n -	239-10
+3982	more	n a m a k a n	n a m a k a n -	239-10
+3983	orowin	n a m a k a n	n a m a k a n -	239-10
+3984	tapakura	j a m a k a n	j a m a k a n -	239-10
+3985	urupa	m a n a k a	m a n a k a - -	239-10
+3986	wanyam	n a m a k a n	n a m a k a n -	239-10
+3987	wari	m a k a n ʔ	m a - - k a n ʔ	239-10
+3988	cojubim	a w i n	- a - - w i n	241-10
+3989	jaru	a w i	- a - - w i -	241-10
+3990	kitemoka	a w e n	- a - - w e n	241-10
+3991	more	a w i n	- a - - w i n	241-10
+3992	orowin	a w i n	- a - - w i n	241-10
+3993	tapakura	a w i n	- a - - w i n	241-10
+3994	tora	a w i n	- a - - w i n	241-10
+3995	urupa	a w i n	- a - - w i n	241-10
+3996	wanyam	a w i n	- a - - w i n	241-10
+3997	wari	n a n a w i n	n a n a w i n	241-10
+3998	cojubim	i tʃ e	i tʃ e -	249-10
+3999	jaru	i s e	i s e -	249-10
+4000	kitemoka	i s e	i s e -	249-10
+4001	more	i tʃ e	i tʃ e -	249-10
+4002	orowin	i s e	i s e -	249-10
+4003	tapakura	i s e	i s e -	249-10
+4004	tora	i ʃ e ʔ	i ʃ e ʔ	249-10
+4005	urupa	i s e	i s e -	249-10
+4006	wanyam	i ʃ e ʔ	i ʃ e ʔ	249-10
+4007	wari	tʃ e	- tʃ e -	249-10
+4008	cojubim	t o w a ʔ	t o w a ʔ	259-10
+4009	jaru	t o a	t o - a -	259-10
+4010	more	t o w a	t o w a -	259-10
+4011	orowin	t o w a ʔ	t o w a ʔ	259-10
+4012	tora	t u a g	t u - a g	259-10
+4013	urupa	t u a	t u - a -	259-10
+4014	wanyam	t o w a	t o w a -	259-10
+4015	wari	t o w o ʔ	t o w o ʔ	259-10
+4016	cojubim	i s i m	- i - s i - m -	266-10
+4017	jaru	e t i m ʔ	- e - t i - m ʔ	266-10
+4018	kitemoka	p a i t i n	p a i t i - n -	266-10
+4019	more	i s i m	- i - s i - m -	266-10
+4020	orowin	i t i m	- i - t i - m -	266-10
+4021	tapakura	p a i t i n	p a i t i - n -	266-10
+4022	tora	i j s i b m	- i j s i b m -	266-10
+4023	wanyam	i t i m	- i - t i - m -	266-10
+4024	wari	tʃ i m	- - - tʃ i - m -	266-10

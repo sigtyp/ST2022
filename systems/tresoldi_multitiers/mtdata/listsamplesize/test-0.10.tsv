@@ -1,0 +1,747 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	dutch	oː s eː j aː n	oː s eː j aː n	-1816-4
+2	english	əʊ ʃ n̩	əʊ ʃ - - - n̩	-1816-4
+3	german	oː ts eː aː n	oː ts eː - aː n	-1816-4
+4	dutch	oː s eː j aː n	oː s eː j aː n	-1816-2
+5	english	əʊ ʃ n̩	əʊ ʃ - - - n̩	-1816-2
+6	german	oː ts eː aː n	oː ts eː - aː n	-1816-2
+7	dutch	oː s eː j aː n	oː s eː j aː n	-1816-1
+8	english	əʊ ʃ n̩	əʊ ʃ - - - n̩	-1816-1
+9	german	oː ts eː aː n	oː ts eː - aː n	-1816-1
+10	dutch	l aː ɣ yː n ə	l aː ɣ yː n ə	-335-4
+11	english	l ə ɡ uː n	l ə ɡ uː n -	-335-4
+12	german	l a ɡ uː n ə	l a ɡ uː n ə	-335-4
+13	dutch	l aː ɣ yː n ə	l aː ɣ yː n ə	-335-2
+14	english	l ə ɡ uː n	l ə ɡ uː n -	-335-2
+15	german	l a ɡ uː n ə	l a ɡ uː n ə	-335-2
+16	dutch	l aː ɣ yː n ə	l aː ɣ yː n ə	-335-1
+17	english	l ə ɡ uː n	l ə ɡ uː n -	-335-1
+18	german	l a ɡ uː n ə	l a ɡ uː n ə	-335-1
+19	dutch	z œy d ə	z œy d ə -	197-1
+20	english	s aʊ θ	s aʊ θ - -	197-1
+21	french	s y d	s y d - -	197-1
+22	german	z yː d ə n	z yː d ə n	197-1
+23	dutch	z œy d ə	z œy d ə -	197-2
+24	english	s aʊ θ	s aʊ θ - -	197-2
+25	french	s y d	s y d - -	197-2
+26	german	z yː d ə n	z yː d ə n	197-2
+27	dutch	z œy d ə	z œy d ə -	197-3
+28	english	s aʊ θ	s aʊ θ - -	197-3
+29	french	s y d	s y d - -	197-3
+30	german	z yː d ə n	z yː d ə n	197-3
+31	dutch	z œy d ə	z œy d ə -	197-4
+32	english	s aʊ θ	s aʊ θ - -	197-4
+33	french	s y d	s y d - -	197-4
+34	german	z yː d ə n	z yː d ə n	197-4
+35	dutch	z œy ɣ ə	z œy ɣ ə -	384-1
+36	english	s ʌ k	s ʌ k - -	384-1
+37	french	s y s e	s y s e -	384-1
+38	german	z au ɡ ə n	z au ɡ ə n	384-1
+39	dutch	z œy ɣ ə	z œy ɣ ə -	384-2
+40	english	s ʌ k	s ʌ k - -	384-2
+41	french	s y s e	s y s e -	384-2
+42	german	z au ɡ ə n	z au ɡ ə n	384-2
+43	dutch	z œy ɣ ə	z œy ɣ ə -	384-3
+44	english	s ʌ k	s ʌ k - -	384-3
+45	french	s y s e	s y s e -	384-3
+46	german	z au ɡ ə n	z au ɡ ə n	384-3
+47	dutch	z œy ɣ ə	z œy ɣ ə -	384-4
+48	english	s ʌ k	s ʌ k - -	384-4
+49	french	s y s e	s y s e -	384-4
+50	german	z au ɡ ə n	z au ɡ ə n	384-4
+51	dutch	s x oː n + m uː d ə r	s x - - oː n + m uː d ə r - - - - - -	406-1
+52	english	m ʌ ð ə r + ɪ n + l ɔː	- - - - - - - m ʌ ð ə r + ɪ n + l ɔː	406-1
+53	french	b ɛ l + m ɛ ʀ	- b - - ɛ l + m ɛ - - ʀ - - - - - -	406-1
+54	german	ʃ v iː ɡ ə r + m ʊ t ə r	ʃ v iː ɡ ə r + m ʊ t ə r - - - - - -	406-1
+55	dutch	s x oː n + m uː d ə r	s x - - oː n + m uː d ə r - - - - - -	406-2
+56	english	m ʌ ð ə r + ɪ n + l ɔː	- - - - - - - m ʌ ð ə r + ɪ n + l ɔː	406-2
+57	french	b ɛ l + m ɛ ʀ	- b - - ɛ l + m ɛ - - ʀ - - - - - -	406-2
+58	german	ʃ v iː ɡ ə r + m ʊ t ə r	ʃ v iː ɡ ə r + m ʊ t ə r - - - - - -	406-2
+59	dutch	s x oː n + m uː d ə r	s x - - oː n + m uː d ə r - - - - - -	406-3
+60	english	m ʌ ð ə r + ɪ n + l ɔː	- - - - - - - m ʌ ð ə r + ɪ n + l ɔː	406-3
+61	french	b ɛ l + m ɛ ʀ	- b - - ɛ l + m ɛ - - ʀ - - - - - -	406-3
+62	german	ʃ v iː ɡ ə r + m ʊ t ə r	ʃ v iː ɡ ə r + m ʊ t ə r - - - - - -	406-3
+63	dutch	s x oː n + m uː d ə r	s x - - oː n + m uː d ə r - - - - - -	406-4
+64	english	m ʌ ð ə r + ɪ n + l ɔː	- - - - - - - m ʌ ð ə r + ɪ n + l ɔː	406-4
+65	french	b ɛ l + m ɛ ʀ	- b - - ɛ l + m ɛ - - ʀ - - - - - -	406-4
+66	german	ʃ v iː ɡ ə r + m ʊ t ə r	ʃ v iː ɡ ə r + m ʊ t ə r - - - - - -	406-4
+67	dutch	s x oː n + v aː d ə r	s x - - oː n + v aː d ə r - - - - - -	412-1
+68	english	f ɑː ð ə r + ɪ n + l ɔː	- - - - - - - f ɑː ð ə r + ɪ n + l ɔː	412-1
+69	french	b o + p ɛ ʀ	- b - - o - + p ɛ - - ʀ - - - - - -	412-1
+70	german	ʃ v iː ɡ ə r + f aː t ə r	ʃ v iː ɡ ə r + f aː t ə r - - - - - -	412-1
+71	dutch	s x oː n + v aː d ə r	s x - - oː n + v aː d ə r - - - - - -	412-2
+72	english	f ɑː ð ə r + ɪ n + l ɔː	- - - - - - - f ɑː ð ə r + ɪ n + l ɔː	412-2
+73	french	b o + p ɛ ʀ	- b - - o - + p ɛ - - ʀ - - - - - -	412-2
+74	german	ʃ v iː ɡ ə r + f aː t ə r	ʃ v iː ɡ ə r + f aː t ə r - - - - - -	412-2
+75	dutch	s x oː n + v aː d ə r	s x - - oː n + v aː d ə r - - - - - -	412-3
+76	english	f ɑː ð ə r + ɪ n + l ɔː	- - - - - - - f ɑː ð ə r + ɪ n + l ɔː	412-3
+77	french	b o + p ɛ ʀ	- b - - o - + p ɛ - - ʀ - - - - - -	412-3
+78	german	ʃ v iː ɡ ə r + f aː t ə r	ʃ v iː ɡ ə r + f aː t ə r - - - - - -	412-3
+79	dutch	s x oː n + v aː d ə r	s x - - oː n + v aː d ə r - - - - - -	412-4
+80	english	f ɑː ð ə r + ɪ n + l ɔː	- - - - - - - f ɑː ð ə r + ɪ n + l ɔː	412-4
+81	french	b o + p ɛ ʀ	- b - - o - + p ɛ - - ʀ - - - - - -	412-4
+82	german	ʃ v iː ɡ ə r + f aː t ə r	ʃ v iː ɡ ə r + f aː t ə r - - - - - -	412-4
+83	dutch	z aː j ə	z aː j ə -	471-1
+84	english	s əʊ	s əʊ - - -	471-1
+85	french	s ə m e	s ə m e -	471-1
+86	german	z æː ə n	z æː - ə n	471-1
+87	dutch	z aː j ə	z aː j ə -	471-2
+88	english	s əʊ	s əʊ - - -	471-2
+89	french	s ə m e	s ə m e -	471-2
+90	german	z æː ə n	z æː - ə n	471-2
+91	dutch	z aː j ə	z aː j ə -	471-3
+92	english	s əʊ	s əʊ - - -	471-3
+93	french	s ə m e	s ə m e -	471-3
+94	german	z æː ə n	z æː - ə n	471-3
+95	dutch	z aː j ə	z aː j ə -	471-4
+96	english	s əʊ	s əʊ - - -	471-4
+97	french	s ə m e	s ə m e -	471-4
+98	german	z æː ə n	z æː - ə n	471-4
+99	dutch	v øː l ə	v øː l ə -	509-1
+100	english	f əʊ l	f əʊ l - -	509-1
+101	french	p u l ɛ̃	p u l ɛ̃ -	509-1
+102	german	f ʏ l ə n	f ʏ l ə n	509-1
+103	dutch	v øː l ə	v øː l ə -	509-2
+104	english	f əʊ l	f əʊ l - -	509-2
+105	french	p u l ɛ̃	p u l ɛ̃ -	509-2
+106	german	f ʏ l ə n	f ʏ l ə n	509-2
+107	dutch	v øː l ə	v øː l ə -	509-3
+108	english	f əʊ l	f əʊ l - -	509-3
+109	french	p u l ɛ̃	p u l ɛ̃ -	509-3
+110	german	f ʏ l ə n	f ʏ l ə n	509-3
+111	dutch	v øː l ə	v øː l ə -	509-4
+112	english	f əʊ l	f əʊ l - -	509-4
+113	french	p u l ɛ̃	p u l ɛ̃ -	509-4
+114	german	f ʏ l ə n	f ʏ l ə n	509-4
+115	dutch	k n iː	k - n iː	610-1
+116	english	n iː	- - n iː	610-1
+117	french	ʒ ə n u	ʒ ə n u	610-1
+118	german	k n iː	k - n iː	610-1
+119	dutch	k n iː	k - n iː	610-2
+120	english	n iː	- - n iː	610-2
+121	french	ʒ ə n u	ʒ ə n u	610-2
+122	german	k n iː	k - n iː	610-2
+123	dutch	k n iː	k - n iː	610-3
+124	english	n iː	- - n iː	610-3
+125	french	ʒ ə n u	ʒ ə n u	610-3
+126	german	k n iː	k - n iː	610-3
+127	dutch	k n iː	k - n iː	610-4
+128	english	n iː	- - n iː	610-4
+129	french	ʒ ə n u	ʒ ə n u	610-4
+130	german	k n iː	k - n iː	610-4
+131	dutch	m œy l + eː z ə l	m - œy l - + eː z ə l	693-1
+132	english	m j uː l	m j uː l - - - - - -	693-1
+133	french	m y l ɛ	m - y l ɛ - - - - -	693-1
+134	german	m au l + t iː r	m - au l - + - t iː r	693-1
+135	dutch	m œy l + eː z ə l	m - œy l - + eː z ə l	693-2
+136	english	m j uː l	m j uː l - - - - - -	693-2
+137	french	m y l ɛ	m - y l ɛ - - - - -	693-2
+138	german	m au l + t iː r	m - au l - + - t iː r	693-2
+139	dutch	m œy l + eː z ə l	m - œy l - + eː z ə l	693-3
+140	english	m j uː l	m j uː l - - - - - -	693-3
+141	french	m y l ɛ	m - y l ɛ - - - - -	693-3
+142	german	m au l + t iː r	m - au l - + - t iː r	693-3
+143	dutch	m œy l + eː z ə l	m - œy l - + eː z ə l	693-4
+144	english	m j uː l	m j uː l - - - - - -	693-4
+145	french	m y l ɛ	m - y l ɛ - - - - -	693-4
+146	german	m au l + t iː r	m - au l - + - t iː r	693-4
+147	dutch	m uː d ə r	m uː d ə r	726-1
+148	english	m ʌ ð ə r	m ʌ ð ə r	726-1
+149	french	m ɛ ʀ	m ɛ - - ʀ	726-1
+150	german	m ʊ t ə r	m ʊ t ə r	726-1
+151	dutch	m uː d ə r	m uː d ə r	726-2
+152	english	m ʌ ð ə r	m ʌ ð ə r	726-2
+153	french	m ɛ ʀ	m ɛ - - ʀ	726-2
+154	german	m ʊ t ə r	m ʊ t ə r	726-2
+155	dutch	m uː d ə r	m uː d ə r	726-3
+156	english	m ʌ ð ə r	m ʌ ð ə r	726-3
+157	french	m ɛ ʀ	m ɛ - - ʀ	726-3
+158	german	m ʊ t ə r	m ʊ t ə r	726-3
+159	dutch	m uː d ə r	m uː d ə r	726-4
+160	english	m ʌ ð ə r	m ʌ ð ə r	726-4
+161	french	m ɛ ʀ	m ɛ - - ʀ	726-4
+162	german	m ʊ t ə r	m ʊ t ə r	726-4
+163	dutch	s n eː w	s n eː w	756-1
+164	english	s n əʊ	s n əʊ -	756-1
+165	french	n ɛ ʒ	- n ɛ ʒ	756-1
+166	german	ʃ n eː	ʃ n eː -	756-1
+167	dutch	s n eː w	s n eː w	756-2
+168	english	s n əʊ	s n əʊ -	756-2
+169	french	n ɛ ʒ	- n ɛ ʒ	756-2
+170	german	ʃ n eː	ʃ n eː -	756-2
+171	dutch	s n eː w	s n eː w	756-3
+172	english	s n əʊ	s n əʊ -	756-3
+173	french	n ɛ ʒ	- n ɛ ʒ	756-3
+174	german	ʃ n eː	ʃ n eː -	756-3
+175	dutch	s n eː w	s n eː w	756-4
+176	english	s n əʊ	s n əʊ -	756-4
+177	french	n ɛ ʒ	- n ɛ ʒ	756-4
+178	german	ʃ n eː	ʃ n eː -	756-4
+179	dutch	w ɪ n t	w ɪ n t	760-1
+180	english	w ɪ n d	w ɪ n d	760-1
+181	french	v ɑ̃	v ɑ̃ - -	760-1
+182	german	v ɪ n t	v ɪ n t	760-1
+183	dutch	w ɪ n t	w ɪ n t	760-2
+184	english	w ɪ n d	w ɪ n d	760-2
+185	french	v ɑ̃	v ɑ̃ - -	760-2
+186	german	v ɪ n t	v ɪ n t	760-2
+187	dutch	w ɪ n t	w ɪ n t	760-3
+188	english	w ɪ n d	w ɪ n d	760-3
+189	french	v ɑ̃	v ɑ̃ - -	760-3
+190	german	v ɪ n t	v ɪ n t	760-3
+191	dutch	w ɪ n t	w ɪ n t	760-4
+192	english	w ɪ n d	w ɪ n d	760-4
+193	french	v ɑ̃	v ɑ̃ - -	760-4
+194	german	v ɪ n t	v ɪ n t	760-4
+195	dutch	j ʉ k	j ʉ k	792-1
+196	english	j əʊ k	j əʊ k	792-1
+197	french	ʒ u	ʒ u -	792-1
+198	german	j ɔ x	j ɔ x	792-1
+199	dutch	j ʉ k	j ʉ k	792-2
+200	english	j əʊ k	j əʊ k	792-2
+201	french	ʒ u	ʒ u -	792-2
+202	german	j ɔ x	j ɔ x	792-2
+203	dutch	j ʉ k	j ʉ k	792-3
+204	english	j əʊ k	j əʊ k	792-3
+205	french	ʒ u	ʒ u -	792-3
+206	german	j ɔ x	j ɔ x	792-3
+207	dutch	j ʉ k	j ʉ k	792-4
+208	english	j əʊ k	j əʊ k	792-4
+209	french	ʒ u	ʒ u -	792-4
+210	german	j ɔ x	j ɔ x	792-4
+211	dutch	k l ɪ f	k l ɪ f -	829-1
+212	english	k l ɪ f	k l ɪ f -	829-1
+213	german	k l ɪ p ə	k l ɪ p ə	829-1
+214	dutch	k l ɪ f	k l ɪ f -	829-2
+215	english	k l ɪ f	k l ɪ f -	829-2
+216	german	k l ɪ p ə	k l ɪ p ə	829-2
+217	dutch	k l ɪ f	k l ɪ f -	829-4
+218	english	k l ɪ f	k l ɪ f -	829-4
+219	german	k l ɪ p ə	k l ɪ p ə	829-4
+220	dutch	h ɔ n d ə r t	h ɔ n d ə r - t	867-1
+221	english	h ʌ n d r ə d	h ʌ n d - r ə d	867-1
+222	french	s ɑ̃	s ɑ̃ - - - - - -	867-1
+223	german	h ʊ n d ə r t	h ʊ n d ə r - t	867-1
+224	dutch	h ɔ n d ə r t	h ɔ n d ə r - t	867-2
+225	english	h ʌ n d r ə d	h ʌ n d - r ə d	867-2
+226	french	s ɑ̃	s ɑ̃ - - - - - -	867-2
+227	german	h ʊ n d ə r t	h ʊ n d ə r - t	867-2
+228	dutch	h ɔ n d ə r t	h ɔ n d ə r - t	867-3
+229	english	h ʌ n d r ə d	h ʌ n d - r ə d	867-3
+230	french	s ɑ̃	s ɑ̃ - - - - - -	867-3
+231	german	h ʊ n d ə r t	h ʊ n d ə r - t	867-3
+232	dutch	h ɔ n d ə r t	h ɔ n d ə r - t	867-4
+233	english	h ʌ n d r ə d	h ʌ n d - r ə d	867-4
+234	french	s ɑ̃	s ɑ̃ - - - - - -	867-4
+235	german	h ʊ n d ə r t	h ʊ n d ə r - t	867-4
+236	dutch	h ɑ r t	h ɑ r t	945-1
+237	english	h ɑː t	h ɑː - t	945-1
+238	french	k œ ʀ	k œ ʀ -	945-1
+239	german	h ɛ r ts	h ɛ r ts	945-1
+240	dutch	h ɑ r t	h ɑ r t	945-2
+241	english	h ɑː t	h ɑː - t	945-2
+242	french	k œ ʀ	k œ ʀ -	945-2
+243	german	h ɛ r ts	h ɛ r ts	945-2
+244	dutch	h ɑ r t	h ɑ r t	945-3
+245	english	h ɑː t	h ɑː - t	945-3
+246	french	k œ ʀ	k œ ʀ -	945-3
+247	german	h ɛ r ts	h ɛ r ts	945-3
+248	dutch	h ɑ r t	h ɑ r t	945-4
+249	english	h ɑː t	h ɑː - t	945-4
+250	french	k œ ʀ	k œ ʀ -	945-4
+251	german	h ɛ r ts	h ɛ r ts	945-4
+252	dutch	w eː r ə l t	w eː r ə l t	968-1
+253	english	w ɜː l d	w ɜː - - l d	968-1
+254	german	v ɛ l t	v ɛ - - l t	968-1
+255	dutch	w eː r ə l t	w eː r ə l t	968-2
+256	english	w ɜː l d	w ɜː - - l d	968-2
+257	german	v ɛ l t	v ɛ - - l t	968-2
+258	dutch	w eː r ə l t	w eː r ə l t	968-4
+259	english	w ɜː l d	w ɜː - - l d	968-4
+260	german	v ɛ l t	v ɛ - - l t	968-4
+261	dutch	s t iː + f aː d ə r	s t iː - + f aː d ə r	1005-1
+262	english	s t ɛ p + f ɑː ð ə r	s t ɛ p + f ɑː ð ə r	1005-1
+263	french	b o + p ɛ ʀ	- b o - + p ɛ - - ʀ	1005-1
+264	german	ʃ t iː f + f aː t ə r	ʃ t iː f + f aː t ə r	1005-1
+265	dutch	s t iː + f aː d ə r	s t iː - + f aː d ə r	1005-2
+266	english	s t ɛ p + f ɑː ð ə r	s t ɛ p + f ɑː ð ə r	1005-2
+267	french	b o + p ɛ ʀ	- b o - + p ɛ - - ʀ	1005-2
+268	german	ʃ t iː f + f aː t ə r	ʃ t iː f + f aː t ə r	1005-2
+269	dutch	s t iː + f aː d ə r	s t iː - + f aː d ə r	1005-3
+270	english	s t ɛ p + f ɑː ð ə r	s t ɛ p + f ɑː ð ə r	1005-3
+271	french	b o + p ɛ ʀ	- b o - + p ɛ - - ʀ	1005-3
+272	german	ʃ t iː f + f aː t ə r	ʃ t iː f + f aː t ə r	1005-3
+273	dutch	s t iː + f aː d ə r	s t iː - + f aː d ə r	1005-4
+274	english	s t ɛ p + f ɑː ð ə r	s t ɛ p + f ɑː ð ə r	1005-4
+275	french	b o + p ɛ ʀ	- b o - + p ɛ - - ʀ	1005-4
+276	german	ʃ t iː f + f aː t ə r	ʃ t iː f + f aː t ə r	1005-4
+277	dutch	s t iː f + m uː d ə r	s t iː f + m uː d ə r	1012-1
+278	english	s t ɛ p + m ʌ ð ə r	s t ɛ p + m ʌ ð ə r	1012-1
+279	french	b ɛ l + m ɛ ʀ	- b ɛ l + m ɛ - - ʀ	1012-1
+280	german	ʃ t iː f + m ʊ t ə r	ʃ t iː f + m ʊ t ə r	1012-1
+281	dutch	s t iː f + m uː d ə r	s t iː f + m uː d ə r	1012-2
+282	english	s t ɛ p + m ʌ ð ə r	s t ɛ p + m ʌ ð ə r	1012-2
+283	french	b ɛ l + m ɛ ʀ	- b ɛ l + m ɛ - - ʀ	1012-2
+284	german	ʃ t iː f + m ʊ t ə r	ʃ t iː f + m ʊ t ə r	1012-2
+285	dutch	s t iː f + m uː d ə r	s t iː f + m uː d ə r	1012-3
+286	english	s t ɛ p + m ʌ ð ə r	s t ɛ p + m ʌ ð ə r	1012-3
+287	french	b ɛ l + m ɛ ʀ	- b ɛ l + m ɛ - - ʀ	1012-3
+288	german	ʃ t iː f + m ʊ t ə r	ʃ t iː f + m ʊ t ə r	1012-3
+289	dutch	s t iː f + m uː d ə r	s t iː f + m uː d ə r	1012-4
+290	english	s t ɛ p + m ʌ ð ə r	s t ɛ p + m ʌ ð ə r	1012-4
+291	french	b ɛ l + m ɛ ʀ	- b ɛ l + m ɛ - - ʀ	1012-4
+292	german	ʃ t iː f + m ʊ t ə r	ʃ t iː f + m ʊ t ə r	1012-4
+293	dutch	w eː d yː w n + aː r	w eː d - yː w n + aː r	1016-1
+294	english	w ɪ d əʊ ə r	w ɪ d əʊ ə - r - - -	1016-1
+295	french	v œ f	v œ f - - - - - - -	1016-1
+296	german	v ɪ t v ə r	v ɪ t v ə - r - - -	1016-1
+297	dutch	w eː d yː w n + aː r	w eː d - yː w n + aː r	1016-2
+298	english	w ɪ d əʊ ə r	w ɪ d əʊ ə - r - - -	1016-2
+299	french	v œ f	v œ f - - - - - - -	1016-2
+300	german	v ɪ t v ə r	v ɪ t v ə - r - - -	1016-2
+301	dutch	w eː d yː w n + aː r	w eː d - yː w n + aː r	1016-3
+302	english	w ɪ d əʊ ə r	w ɪ d əʊ ə - r - - -	1016-3
+303	french	v œ f	v œ f - - - - - - -	1016-3
+304	german	v ɪ t v ə r	v ɪ t v ə - r - - -	1016-3
+305	dutch	w eː d yː w n + aː r	w eː d - yː w n + aː r	1016-4
+306	english	w ɪ d əʊ ə r	w ɪ d əʊ ə - r - - -	1016-4
+307	french	v œ f	v œ f - - - - - - -	1016-4
+308	german	v ɪ t v ə r	v ɪ t v ə - r - - -	1016-4
+309	dutch	w aː t ə r	w aː t ə r	1025-1
+310	english	w ɔː t ə r	w ɔː t ə r	1025-1
+311	german	v a s ə r	v a s ə r	1025-1
+312	dutch	w aː t ə r	w aː t ə r	1025-2
+313	english	w ɔː t ə r	w ɔː t ə r	1025-2
+314	german	v a s ə r	v a s ə r	1025-2
+315	dutch	w aː t ə r	w aː t ə r	1025-4
+316	english	w ɔː t ə r	w ɔː t ə r	1025-4
+317	german	v a s ə r	v a s ə r	1025-4
+318	dutch	z eː	z eː	1027-1
+319	english	s iː	s iː	1027-1
+320	german	z eː	z eː	1027-1
+321	dutch	z eː	z eː	1027-2
+322	english	s iː	s iː	1027-2
+323	german	z eː	z eː	1027-2
+324	dutch	z eː	z eː	1027-4
+325	english	s iː	s iː	1027-4
+326	german	z eː	z eː	1027-4
+327	dutch	s t r oː m	s t r oː m	1043-1
+328	english	s t r iː m	s t r iː m	1043-1
+329	german	ʃ t r oː m	ʃ t r oː m	1043-1
+330	dutch	s t r oː m	s t r oː m	1043-2
+331	english	s t r iː m	s t r iː m	1043-2
+332	german	ʃ t r oː m	ʃ t r oː m	1043-2
+333	dutch	s t r oː m	s t r oː m	1043-4
+334	english	s t r iː m	s t r iː m	1043-4
+335	german	ʃ t r oː m	ʃ t r oː m	1043-4
+336	dutch	ɪ k	- ɪ k	1069-1
+337	english	aɪ	- aɪ -	1069-1
+338	french	ʒ ə	ʒ ə -	1069-1
+339	german	ɪ x	- ɪ x	1069-1
+340	dutch	ɪ k	- ɪ k	1069-2
+341	english	aɪ	- aɪ -	1069-2
+342	french	ʒ ə	ʒ ə -	1069-2
+343	german	ɪ x	- ɪ x	1069-2
+344	dutch	ɪ k	- ɪ k	1069-3
+345	english	aɪ	- aɪ -	1069-3
+346	french	ʒ ə	ʒ ə -	1069-3
+347	german	ɪ x	- ɪ x	1069-3
+348	dutch	ɪ k	- ɪ k	1069-4
+349	english	aɪ	- aɪ -	1069-4
+350	french	ʒ ə	ʒ ə -	1069-4
+351	german	ɪ x	- ɪ x	1069-4
+352	dutch	m ɑ s t	m ɑ s t	1111-1
+353	english	m ɑː s t	m ɑː s t	1111-1
+354	french	m ɑ	m ɑ - -	1111-1
+355	german	m a s t	m a s t	1111-1
+356	dutch	m ɑ s t	m ɑ s t	1111-2
+357	english	m ɑː s t	m ɑː s t	1111-2
+358	french	m ɑ	m ɑ - -	1111-2
+359	german	m a s t	m a s t	1111-2
+360	dutch	m ɑ s t	m ɑ s t	1111-3
+361	english	m ɑː s t	m ɑː s t	1111-3
+362	french	m ɑ	m ɑ - -	1111-3
+363	german	m a s t	m a s t	1111-3
+364	dutch	m ɑ s t	m ɑ s t	1111-4
+365	english	m ɑː s t	m ɑː s t	1111-4
+366	french	m ɑ	m ɑ - -	1111-4
+367	german	m a s t	m a s t	1111-4
+368	dutch	w ɔ l f	w ɔ l f	1131-1
+369	english	w ʊ l f	w ʊ l f	1131-1
+370	french	l u	l u - -	1131-1
+371	german	v ɔ l f	v ɔ l f	1131-1
+372	dutch	w ɔ l f	w ɔ l f	1131-2
+373	english	w ʊ l f	w ʊ l f	1131-2
+374	french	l u	l u - -	1131-2
+375	german	v ɔ l f	v ɔ l f	1131-2
+376	dutch	w ɔ l f	w ɔ l f	1131-3
+377	english	w ʊ l f	w ʊ l f	1131-3
+378	french	l u	l u - -	1131-3
+379	german	v ɔ l f	v ɔ l f	1131-3
+380	dutch	w ɔ l f	w ɔ l f	1131-4
+381	english	w ʊ l f	w ʊ l f	1131-4
+382	french	l u	l u - -	1131-4
+383	german	v ɔ l f	v ɔ l f	1131-4
+384	dutch	b aː r t	b aː - r t	1198-1
+385	english	b ɪ ə d	b ɪ ə d -	1198-1
+386	french	b a ʀ b	b a - ʀ b	1198-1
+387	german	b aː r t	b aː - r t	1198-1
+388	dutch	b aː r t	b aː - r t	1198-2
+389	english	b ɪ ə d	b ɪ ə d -	1198-2
+390	french	b a ʀ b	b a - ʀ b	1198-2
+391	german	b aː r t	b aː - r t	1198-2
+392	dutch	b aː r t	b aː - r t	1198-3
+393	english	b ɪ ə d	b ɪ ə d -	1198-3
+394	french	b a ʀ b	b a - ʀ b	1198-3
+395	german	b aː r t	b aː - r t	1198-3
+396	dutch	b aː r t	b aː - r t	1198-4
+397	english	b ɪ ə d	b ɪ ə d -	1198-4
+398	french	b a ʀ b	b a - ʀ b	1198-4
+399	german	b aː r t	b aː - r t	1198-4
+400	dutch	d ɛ r d ə	d - - ɛ r d ə -	1230-1
+401	english	θ ɜː d	θ - - ɜː d - - -	1230-1
+402	french	t ʀ w a z j ɛ m	t ʀ w a z j ɛ m	1230-1
+403	german	d r ɪ t ə	d r - ɪ t - ə -	1230-1
+404	dutch	d ɛ r d ə	d - - ɛ r d ə -	1230-2
+405	english	θ ɜː d	θ - - ɜː d - - -	1230-2
+406	french	t ʀ w a z j ɛ m	t ʀ w a z j ɛ m	1230-2
+407	german	d r ɪ t ə	d r - ɪ t - ə -	1230-2
+408	dutch	d ɛ r d ə	d - - ɛ r d ə -	1230-3
+409	english	θ ɜː d	θ - - ɜː d - - -	1230-3
+410	french	t ʀ w a z j ɛ m	t ʀ w a z j ɛ m	1230-3
+411	german	d r ɪ t ə	d r - ɪ t - ə -	1230-3
+412	dutch	d ɛ r d ə	d - - ɛ r d ə -	1230-4
+413	english	θ ɜː d	θ - - ɜː d - - -	1230-4
+414	french	t ʀ w a z j ɛ m	t ʀ w a z j ɛ m	1230-4
+415	german	d r ɪ t ə	d r - ɪ t - ə -	1230-4
+416	dutch	x r oː t + f aː d ə r	x r oː - t + f aː d ə r	1351-1
+417	english	ɡ r æ n d + f ɑː ð ə r	ɡ r æ n d + f ɑː ð ə r	1351-1
+418	french	ɡ ʀ ɑ̃ + p ɛ ʀ	ɡ ʀ ɑ̃ - - + p ɛ - - ʀ	1351-1
+419	german	ɡ r oː s + f aː t ə r	ɡ r oː - s + f aː t ə r	1351-1
+420	dutch	x r oː t + f aː d ə r	x r oː - t + f aː d ə r	1351-2
+421	english	ɡ r æ n d + f ɑː ð ə r	ɡ r æ n d + f ɑː ð ə r	1351-2
+422	french	ɡ ʀ ɑ̃ + p ɛ ʀ	ɡ ʀ ɑ̃ - - + p ɛ - - ʀ	1351-2
+423	german	ɡ r oː s + f aː t ə r	ɡ r oː - s + f aː t ə r	1351-2
+424	dutch	x r oː t + f aː d ə r	x r oː - t + f aː d ə r	1351-3
+425	english	ɡ r æ n d + f ɑː ð ə r	ɡ r æ n d + f ɑː ð ə r	1351-3
+426	french	ɡ ʀ ɑ̃ + p ɛ ʀ	ɡ ʀ ɑ̃ - - + p ɛ - - ʀ	1351-3
+427	german	ɡ r oː s + f aː t ə r	ɡ r oː - s + f aː t ə r	1351-3
+428	dutch	x r oː t + f aː d ə r	x r oː - t + f aː d ə r	1351-4
+429	english	ɡ r æ n d + f ɑː ð ə r	ɡ r æ n d + f ɑː ð ə r	1351-4
+430	french	ɡ ʀ ɑ̃ + p ɛ ʀ	ɡ ʀ ɑ̃ - - + p ɛ - - ʀ	1351-4
+431	german	ɡ r oː s + f aː t ə r	ɡ r oː - s + f aː t ə r	1351-4
+432	dutch	x r oː t + m uː d ə r	x r oː t + m uː d ə r	1353-1
+433	english	ɡ r æ n + m ʌ ð ə r	ɡ r æ n + m ʌ ð ə r	1353-1
+434	french	ɡ ʀ ɑ̃ + m ɛ ʀ	ɡ ʀ ɑ̃ - + m ɛ - - ʀ	1353-1
+435	german	ɡ r oː s + m ʊ t ə r	ɡ r oː s + m ʊ t ə r	1353-1
+436	dutch	x r oː t + m uː d ə r	x r oː t + m uː d ə r	1353-2
+437	english	ɡ r æ n + m ʌ ð ə r	ɡ r æ n + m ʌ ð ə r	1353-2
+438	french	ɡ ʀ ɑ̃ + m ɛ ʀ	ɡ ʀ ɑ̃ - + m ɛ - - ʀ	1353-2
+439	german	ɡ r oː s + m ʊ t ə r	ɡ r oː s + m ʊ t ə r	1353-2
+440	dutch	x r oː t + m uː d ə r	x r oː t + m uː d ə r	1353-3
+441	english	ɡ r æ n + m ʌ ð ə r	ɡ r æ n + m ʌ ð ə r	1353-3
+442	french	ɡ ʀ ɑ̃ + m ɛ ʀ	ɡ ʀ ɑ̃ - + m ɛ - - ʀ	1353-3
+443	german	ɡ r oː s + m ʊ t ə r	ɡ r oː s + m ʊ t ə r	1353-3
+444	dutch	x r oː t + m uː d ə r	x r oː t + m uː d ə r	1353-4
+445	english	ɡ r æ n + m ʌ ð ə r	ɡ r æ n + m ʌ ð ə r	1353-4
+446	french	ɡ ʀ ɑ̃ + m ɛ ʀ	ɡ ʀ ɑ̃ - + m ɛ - - ʀ	1353-4
+447	german	ɡ r oː s + m ʊ t ə r	ɡ r oː s + m ʊ t ə r	1353-4
+448	dutch	l ɪ x t	l ɪ - x - t	1375-1
+449	english	l aɪ t	l aɪ - - - t	1375-1
+450	french	l y m j ɛ ʀ	l y m j ɛ ʀ	1375-1
+451	german	l ɪ x t	l ɪ - x - t	1375-1
+452	dutch	l ɪ x t	l ɪ - x - t	1375-2
+453	english	l aɪ t	l aɪ - - - t	1375-2
+454	french	l y m j ɛ ʀ	l y m j ɛ ʀ	1375-2
+455	german	l ɪ x t	l ɪ - x - t	1375-2
+456	dutch	l ɪ x t	l ɪ - x - t	1375-3
+457	english	l aɪ t	l aɪ - - - t	1375-3
+458	french	l y m j ɛ ʀ	l y m j ɛ ʀ	1375-3
+459	german	l ɪ x t	l ɪ - x - t	1375-3
+460	dutch	l ɪ x t	l ɪ - x - t	1375-4
+461	english	l aɪ t	l aɪ - - - t	1375-4
+462	french	l y m j ɛ ʀ	l y m j ɛ ʀ	1375-4
+463	german	l ɪ x t	l ɪ - x - t	1375-4
+464	dutch	z aː t	z aː t - -	1385-1
+465	english	s iː d	s iː d - -	1385-1
+466	french	s ə m ɑ̃ s	s ə m ɑ̃ s	1385-1
+467	german	z aː t	z aː t - -	1385-1
+468	dutch	z aː t	z aː t - -	1385-2
+469	english	s iː d	s iː d - -	1385-2
+470	french	s ə m ɑ̃ s	s ə m ɑ̃ s	1385-2
+471	german	z aː t	z aː t - -	1385-2
+472	dutch	z aː t	z aː t - -	1385-3
+473	english	s iː d	s iː d - -	1385-3
+474	french	s ə m ɑ̃ s	s ə m ɑ̃ s	1385-3
+475	german	z aː t	z aː t - -	1385-3
+476	dutch	z aː t	z aː t - -	1385-4
+477	english	s iː d	s iː d - -	1385-4
+478	french	s ə m ɑ̃ s	s ə m ɑ̃ s	1385-4
+479	german	z aː t	z aː t - -	1385-4
+480	dutch	z ɑ n t	z ɑ n t	1469-1
+481	english	s æ n d	s æ n d	1469-1
+482	french	s ɑ b l	s ɑ b l	1469-1
+483	german	z a n t	z a n t	1469-1
+484	dutch	z ɑ n t	z ɑ n t	1469-2
+485	english	s æ n d	s æ n d	1469-2
+486	french	s ɑ b l	s ɑ b l	1469-2
+487	german	z a n t	z a n t	1469-2
+488	dutch	z ɑ n t	z ɑ n t	1469-3
+489	english	s æ n d	s æ n d	1469-3
+490	french	s ɑ b l	s ɑ b l	1469-3
+491	german	z a n t	z a n t	1469-3
+492	dutch	z ɑ n t	z ɑ n t	1469-4
+493	english	s æ n d	s æ n d	1469-4
+494	french	s ɑ b l	s ɑ b l	1469-4
+495	german	z a n t	z a n t	1469-4
+496	dutch	l ɪ k ə	l ɪ k ə -	1534-1
+497	english	l ɪ k	l ɪ k - -	1534-1
+498	french	l e ʃ e	l e ʃ e -	1534-1
+499	german	l ɛ k ə n	l ɛ k ə n	1534-1
+500	dutch	l ɪ k ə	l ɪ k ə -	1534-2
+501	english	l ɪ k	l ɪ k - -	1534-2
+502	french	l e ʃ e	l e ʃ e -	1534-2
+503	german	l ɛ k ə n	l ɛ k ə n	1534-2
+504	dutch	l ɪ k ə	l ɪ k ə -	1534-3
+505	english	l ɪ k	l ɪ k - -	1534-3
+506	french	l e ʃ e	l e ʃ e -	1534-3
+507	german	l ɛ k ə n	l ɛ k ə n	1534-3
+508	dutch	l ɪ k ə	l ɪ k ə -	1534-4
+509	english	l ɪ k	l ɪ k - -	1534-4
+510	french	l e ʃ e	l e ʃ e -	1534-4
+511	german	l ɛ k ə n	l ɛ k ə n	1534-4
+512	dutch	n oː t	n - oː t	1650-1
+513	english	n ʌ t	n - ʌ t	1650-1
+514	french	n w a	n w a -	1650-1
+515	german	n ʊ s	n - ʊ s	1650-1
+516	dutch	n oː t	n - oː t	1650-2
+517	english	n ʌ t	n - ʌ t	1650-2
+518	french	n w a	n w a -	1650-2
+519	german	n ʊ s	n - ʊ s	1650-2
+520	dutch	n oː t	n - oː t	1650-3
+521	english	n ʌ t	n - ʌ t	1650-3
+522	french	n w a	n w a -	1650-3
+523	german	n ʊ s	n - ʊ s	1650-3
+524	dutch	n oː t	n - oː t	1650-4
+525	english	n ʌ t	n - ʌ t	1650-4
+526	french	n w a	n w a -	1650-4
+527	german	n ʊ s	n - ʊ s	1650-4
+528	dutch	z ɑu t	z ɑu - t	1663-1
+529	english	s ɔː l t	s ɔː l t	1663-1
+530	french	s ɛ l	s ɛ l -	1663-1
+531	german	z a l ts	z a l ts	1663-1
+532	dutch	z ɑu t	z ɑu - t	1663-2
+533	english	s ɔː l t	s ɔː l t	1663-2
+534	french	s ɛ l	s ɛ l -	1663-2
+535	german	z a l ts	z a l ts	1663-2
+536	dutch	z ɑu t	z ɑu - t	1663-3
+537	english	s ɔː l t	s ɔː l t	1663-3
+538	french	s ɛ l	s ɛ l -	1663-3
+539	german	z a l ts	z a l ts	1663-3
+540	dutch	z ɑu t	z ɑu - t	1663-4
+541	english	s ɔː l t	s ɔː l t	1663-4
+542	french	s ɛ l	s ɛ l -	1663-4
+543	german	z a l ts	z a l ts	1663-4
+544	dutch	h øː v ə l	h øː v ə l	1671-1
+545	english	h ɪ l	h ɪ - - l	1671-1
+546	german	h yː ɡ ə l	h yː ɡ ə l	1671-1
+547	dutch	h øː v ə l	h øː v ə l	1671-2
+548	english	h ɪ l	h ɪ - - l	1671-2
+549	german	h yː ɡ ə l	h yː ɡ ə l	1671-2
+550	dutch	h øː v ə l	h øː v ə l	1671-4
+551	english	h ɪ l	h ɪ - - l	1671-4
+552	german	h yː ɡ ə l	h yː ɡ ə l	1671-4
+553	dutch	l ɑ n t	l ɑ n t	1674-1
+554	english	l æ n d	l æ n d	1674-1
+555	german	l a n t	l a n t	1674-1
+556	dutch	l ɑ n t	l ɑ n t	1674-2
+557	english	l æ n d	l æ n d	1674-2
+558	german	l a n t	l a n t	1674-2
+559	dutch	l ɑ n t	l ɑ n t	1674-4
+560	english	l æ n d	l æ n d	1674-4
+561	german	l a n t	l a n t	1674-4
+562	dutch	v ɪ s	- v ɪ s -	1753-1
+563	english	f ɪ ʃ	f - ɪ ʃ -	1753-1
+564	french	p w a s ɔ̃	p w a s ɔ̃	1753-1
+565	german	f ɪ ʃ	f - ɪ ʃ -	1753-1
+566	dutch	v ɪ s	- v ɪ s -	1753-2
+567	english	f ɪ ʃ	f - ɪ ʃ -	1753-2
+568	french	p w a s ɔ̃	p w a s ɔ̃	1753-2
+569	german	f ɪ ʃ	f - ɪ ʃ -	1753-2
+570	dutch	v ɪ s	- v ɪ s -	1753-3
+571	english	f ɪ ʃ	f - ɪ ʃ -	1753-3
+572	french	p w a s ɔ̃	p w a s ɔ̃	1753-3
+573	german	f ɪ ʃ	f - ɪ ʃ -	1753-3
+574	dutch	v ɪ s	- v ɪ s -	1753-4
+575	english	f ɪ ʃ	f - ɪ ʃ -	1753-4
+576	french	p w a s ɔ̃	p w a s ɔ̃	1753-4
+577	german	f ɪ ʃ	f - ɪ ʃ -	1753-4
+578	dutch	r yː w	r yː w	1832-1
+579	english	r ʌ f	r ʌ f	1832-1
+580	german	r au	r au -	1832-1
+581	dutch	r yː w	r yː w	1832-2
+582	english	r ʌ f	r ʌ f	1832-2
+583	german	r au	r au -	1832-2
+584	dutch	r yː w	r yː w	1832-4
+585	english	r ʌ f	r ʌ f	1832-4
+586	german	r au	r au -	1832-4
+587	dutch	v ɔ l	v ɔ l -	1970-1
+588	english	f ʊ l	f ʊ l -	1970-1
+589	french	p l ɛ̃	p - l ɛ̃	1970-1
+590	german	f ɔ l	f ɔ l -	1970-1
+591	dutch	v ɔ l	v ɔ l -	1970-2
+592	english	f ʊ l	f ʊ l -	1970-2
+593	french	p l ɛ̃	p - l ɛ̃	1970-2
+594	german	f ɔ l	f ɔ l -	1970-2
+595	dutch	v ɔ l	v ɔ l -	1970-3
+596	english	f ʊ l	f ʊ l -	1970-3
+597	french	p l ɛ̃	p - l ɛ̃	1970-3
+598	german	f ɔ l	f ɔ l -	1970-3
+599	dutch	v ɔ l	v ɔ l -	1970-4
+600	english	f ʊ l	f ʊ l -	1970-4
+601	french	p l ɛ̃	p - l ɛ̃	1970-4
+602	german	f ɔ l	f ɔ l -	1970-4
+603	dutch	n iː w	n - iː w -	2017-1
+604	english	n j uː	n j uː - -	2017-1
+605	french	n u v o	n - u v o	2017-1
+606	german	n ɔy	n - ɔy - -	2017-1
+607	dutch	n iː w	n - iː w -	2017-2
+608	english	n j uː	n j uː - -	2017-2
+609	french	n u v o	n - u v o	2017-2
+610	german	n ɔy	n - ɔy - -	2017-2
+611	dutch	n iː w	n - iː w -	2017-3
+612	english	n j uː	n j uː - -	2017-3
+613	french	n u v o	n - u v o	2017-3
+614	german	n ɔy	n - ɔy - -	2017-3
+615	dutch	n iː w	n - iː w -	2017-4
+616	english	n j uː	n j uː - -	2017-4
+617	french	n u v o	n - u v o	2017-4
+618	german	n ɔy	n - ɔy - -	2017-4
+619	dutch	l ɑ ŋ	l ɑ ŋ	2020-1
+620	english	l ɔ ŋ	l ɔ ŋ	2020-1
+621	french	l ɔ̃	l ɔ̃ -	2020-1
+622	german	l a ŋ	l a ŋ	2020-1
+623	dutch	l ɑ ŋ	l ɑ ŋ	2020-2
+624	english	l ɔ ŋ	l ɔ ŋ	2020-2
+625	french	l ɔ̃	l ɔ̃ -	2020-2
+626	german	l a ŋ	l a ŋ	2020-2
+627	dutch	l ɑ ŋ	l ɑ ŋ	2020-3
+628	english	l ɔ ŋ	l ɔ ŋ	2020-3
+629	french	l ɔ̃	l ɔ̃ -	2020-3
+630	german	l a ŋ	l a ŋ	2020-3
+631	dutch	l ɑ ŋ	l ɑ ŋ	2020-4
+632	english	l ɔ ŋ	l ɔ ŋ	2020-4
+633	french	l ɔ̃	l ɔ̃ -	2020-4
+634	german	l a ŋ	l a ŋ	2020-4
+635	dutch	h oː r n	h oː r n	2032-1
+636	english	h ɔː n	h ɔː - n	2032-1
+637	french	k ɔ ʁ n	k ɔ ʁ n	2032-1
+638	german	h ɔ r n	h ɔ r n	2032-1
+639	dutch	h oː r n	h oː r n	2032-2
+640	english	h ɔː n	h ɔː - n	2032-2
+641	french	k ɔ ʁ n	k ɔ ʁ n	2032-2
+642	german	h ɔ r n	h ɔ r n	2032-2
+643	dutch	h oː r n	h oː r n	2032-3
+644	english	h ɔː n	h ɔː - n	2032-3
+645	french	k ɔ ʁ n	k ɔ ʁ n	2032-3
+646	german	h ɔ r n	h ɔ r n	2032-3
+647	dutch	h oː r n	h oː r n	2032-4
+648	english	h ɔː n	h ɔː - n	2032-4
+649	french	k ɔ ʁ n	k ɔ ʁ n	2032-4
+650	german	h ɔ r n	h ɔ r n	2032-4
+651	dutch	z ɔ n	z ɔ n - -	2047-1
+652	english	s ʌ n	s ʌ n - -	2047-1
+653	french	s ɔ l ɛ j	s ɔ l ɛ j	2047-1
+654	german	z ɔ n ə	z ɔ n ə -	2047-1
+655	dutch	z ɔ n	z ɔ n - -	2047-2
+656	english	s ʌ n	s ʌ n - -	2047-2
+657	french	s ɔ l ɛ j	s ɔ l ɛ j	2047-2
+658	german	z ɔ n ə	z ɔ n ə -	2047-2
+659	dutch	z ɔ n	z ɔ n - -	2047-3
+660	english	s ʌ n	s ʌ n - -	2047-3
+661	french	s ɔ l ɛ j	s ɔ l ɛ j	2047-3
+662	german	z ɔ n ə	z ɔ n ə -	2047-3
+663	dutch	z ɔ n	z ɔ n - -	2047-4
+664	english	s ʌ n	s ʌ n - -	2047-4
+665	french	s ɔ l ɛ j	s ɔ l ɛ j	2047-4
+666	german	z ɔ n ə	z ɔ n ə -	2047-4
+667	dutch	d ɔ n d ə r	d ɔ n d ə r	2054-1
+668	english	θ ʌ n d ə r	θ ʌ n d ə r	2054-1
+669	french	t ɔ n ɛ ʀ	t ɔ n - ɛ ʀ	2054-1
+670	german	d ɔ n ə r	d ɔ n - ə r	2054-1
+671	dutch	d ɔ n d ə r	d ɔ n d ə r	2054-2
+672	english	θ ʌ n d ə r	θ ʌ n d ə r	2054-2
+673	french	t ɔ n ɛ ʀ	t ɔ n - ɛ ʀ	2054-2
+674	german	d ɔ n ə r	d ɔ n - ə r	2054-2
+675	dutch	d ɔ n d ə r	d ɔ n d ə r	2054-3
+676	english	θ ʌ n d ə r	θ ʌ n d ə r	2054-3
+677	french	t ɔ n ɛ ʀ	t ɔ n - ɛ ʀ	2054-3
+678	german	d ɔ n ə r	d ɔ n - ə r	2054-3
+679	dutch	d ɔ n d ə r	d ɔ n d ə r	2054-4
+680	english	θ ʌ n d ə r	θ ʌ n d ə r	2054-4
+681	french	t ɔ n ɛ ʀ	t ɔ n - ɛ ʀ	2054-4
+682	german	d ɔ n ə r	d ɔ n - ə r	2054-4
+683	dutch	n ɛ s t	n ɛ s t	2179-1
+684	english	n ɛ s t	n ɛ s t	2179-1
+685	french	n i	n i - -	2179-1
+686	german	n ɛ s t	n ɛ s t	2179-1
+687	dutch	n ɛ s t	n ɛ s t	2179-2
+688	english	n ɛ s t	n ɛ s t	2179-2
+689	french	n i	n i - -	2179-2
+690	german	n ɛ s t	n ɛ s t	2179-2
+691	dutch	n ɛ s t	n ɛ s t	2179-3
+692	english	n ɛ s t	n ɛ s t	2179-3
+693	french	n i	n i - -	2179-3
+694	german	n ɛ s t	n ɛ s t	2179-3
+695	dutch	n ɛ s t	n ɛ s t	2179-4
+696	english	n ɛ s t	n ɛ s t	2179-4
+697	french	n i	n i - -	2179-4
+698	german	n ɛ s t	n ɛ s t	2179-4
+699	dutch	n øː s	n øː s -	2241-1
+700	english	n əʊ z	n əʊ z -	2241-1
+701	french	n ɛ	n ɛ - -	2241-1
+702	german	n aː z ə	n aː z ə	2241-1
+703	dutch	n øː s	n øː s -	2241-2
+704	english	n əʊ z	n əʊ z -	2241-2
+705	french	n ɛ	n ɛ - -	2241-2
+706	german	n aː z ə	n aː z ə	2241-2
+707	dutch	n øː s	n øː s -	2241-3
+708	english	n əʊ z	n əʊ z -	2241-3
+709	french	n ɛ	n ɛ - -	2241-3
+710	german	n aː z ə	n aː z ə	2241-3
+711	dutch	n øː s	n øː s -	2241-4
+712	english	n əʊ z	n əʊ z -	2241-4
+713	french	n ɛ	n ɛ - -	2241-4
+714	german	n aː z ə	n aː z ə	2241-4
+715	dutch	l ɪ p	l ɪ p - -	2244-1
+716	english	l ɪ p	l ɪ p - -	2244-1
+717	french	l ɛ v ʀ	l ɛ v ʀ -	2244-1
+718	german	l ɪ p ə	l ɪ p - ə	2244-1
+719	dutch	l ɪ p	l ɪ p - -	2244-2
+720	english	l ɪ p	l ɪ p - -	2244-2
+721	french	l ɛ v ʀ	l ɛ v ʀ -	2244-2
+722	german	l ɪ p ə	l ɪ p - ə	2244-2
+723	dutch	l ɪ p	l ɪ p - -	2244-3
+724	english	l ɪ p	l ɪ p - -	2244-3
+725	french	l ɛ v ʀ	l ɛ v ʀ -	2244-3
+726	german	l ɪ p ə	l ɪ p - ə	2244-3
+727	dutch	l ɪ p	l ɪ p - -	2244-4
+728	english	l ɪ p	l ɪ p - -	2244-4
+729	french	l ɛ v ʀ	l ɛ v ʀ -	2244-4
+730	german	l ɪ p ə	l ɪ p - ə	2244-4
+731	dutch	l ɪ n ə	l ɪ n ə -	2279-1
+732	english	l ɪ n ɪ n	l ɪ n ɪ n	2279-1
+733	french	l ɛ̃	l ɛ̃ - - -	2279-1
+734	german	l ai n ə n	l ai n ə n	2279-1
+735	dutch	l ɪ n ə	l ɪ n ə -	2279-2
+736	english	l ɪ n ɪ n	l ɪ n ɪ n	2279-2
+737	french	l ɛ̃	l ɛ̃ - - -	2279-2
+738	german	l ai n ə n	l ai n ə n	2279-2
+739	dutch	l ɪ n ə	l ɪ n ə -	2279-3
+740	english	l ɪ n ɪ n	l ɪ n ɪ n	2279-3
+741	french	l ɛ̃	l ɛ̃ - - -	2279-3
+742	german	l ai n ə n	l ai n ə n	2279-3
+743	dutch	l ɪ n ə	l ɪ n ə -	2279-4
+744	english	l ɪ n ɪ n	l ɪ n ɪ n	2279-4
+745	french	l ɛ̃	l ɛ̃ - - -	2279-4
+746	german	l ai n ə n	l ai n ə n	2279-4

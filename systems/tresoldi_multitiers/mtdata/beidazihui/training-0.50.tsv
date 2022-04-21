@@ -1,0 +1,4830 @@
+ID	DOCULECT	TOKENS	ALIGNMENT	COGID
+1	Beijing	pʰ au ³⁵	pʰ au ³⁵	214
+2	Changsha	p au ¹³	p au ¹³	214
+3	Chaozhou	pʰ au ⁵⁵	pʰ au ⁵⁵	214
+4	Chengdu	pʰ au ³¹	pʰ au ³¹	214
+5	Fuzhou	pʰ au ⁵²	pʰ au ⁵²	214
+6	Guangzhou	pʰ aːu ²¹	pʰ aːu ²¹	214
+7	Hankou	pʰ au ²¹³	pʰ au ²¹³	214
+8	Jinan	pʰ ɔ ⁴²	pʰ ɔ ⁴²	214
+9	Meixian	pʰ au ¹¹	pʰ au ¹¹	214
+10	Nanchang	pʰ au ²⁴	pʰ au ²⁴	214
+11	Shanghai	p ɔ ¹³	p ɔ ¹³	214
+12	Shuangfeng	b ə ³³	b ə ³³	214
+13	Suzhou	b æ ³¹	b æ ³¹	214
+14	Taiyuan	p au ¹¹	p au ¹¹	214
+15	Wenzhou	b ɜ ³¹	b ɜ ³¹	214
+16	XiAn	pʰ au ²⁴	pʰ au ²⁴	214
+17	Xiamen	pʰ au ²⁴	pʰ au ²⁴	214
+18	Yangzhou	p ɔ ⁵⁵	p ɔ ⁵⁵	214
+19	Beijing	ʈʂ ʅ ²¹⁴	ʈʂ ʅ - ²¹⁴	311
+20	Changsha	ʈʂ ʅ ⁴¹	ʈʂ ʅ - ⁴¹	311
+21	Chaozhou	ts i ⁵³	ts i - ⁵³	311
+22	Chengdu	ts ɿ ⁵³	ts ɿ - ⁵³	311
+23	Fuzhou	ts i ³¹	ts i - ³¹	311
+24	Guangzhou	tʃ i ³⁵	tʃ i - ³⁵	311
+25	Hankou	ts ɿ ²¹³	ts ɿ - ²¹³	311
+26	Jinan	ʈʂ ʅ ⁵⁵	ʈʂ ʅ - ⁵⁵	311
+27	Meixian	ts ə t ¹	ts ə t ¹	311
+28	Nanchang	ts ə t ⁵	ts ə t ⁵	311
+29	Shanghai	ts ɤ ʔ ⁵	ts ɤ ʔ ⁵	311
+30	Shuangfeng	ʈʂ ʅ ²¹	ʈʂ ʅ - ²¹	311
+31	Suzhou	ts ɤ ʔ ⁴	ts ɤ ʔ ⁴	311
+32	Taiyuan	ts ɿ ⁵³	ts ɿ - ⁵³	311
+33	Wenzhou	ts ɿ ³²³	ts ɿ - ³²³	311
+34	XiAn	ts ɿ ⁵³	ts ɿ - ⁵³	311
+35	Xiamen	ts i ⁵¹	ts i - ⁵¹	311
+36	Yangzhou	ts ɿ ⁴²	ts ɿ - ⁴²	311
+37	Beijing	j ou ⁵¹	- j ou ⁵¹	316
+38	Changsha	j ɤu ²¹	- j ɤu ²¹	316
+39	Chaozhou	j u ³⁵	- j u ³⁵	316
+40	Chengdu	j əu ¹³	- j əu ¹³	316
+41	Fuzhou	j eu ²⁴²	- j eu ²⁴²	316
+42	Guangzhou	j au ²²	- j au ²²	316
+43	Hankou	j ou ³⁵	- j ou ³⁵	316
+44	Jinan	j ou ²¹	- j ou ²¹	316
+45	Meixian	j j u ⁵²	j j u ⁵²	316
+46	Nanchang	j u ²¹	- j u ²¹	316
+47	Shanghai	j ɯ ¹³	- j ɯ ¹³	316
+48	Shuangfeng	j ʊ ³³	- j ʊ ³³	316
+49	Taiyuan	j ou ⁴⁵	- j ou ⁴⁵	316
+50	Wenzhou	ɦ j au ²²	ɦ j au ²²	316
+51	XiAn	j ou ⁵⁵	- j ou ⁵⁵	316
+52	Xiamen	j u ³³	- j u ³³	316
+53	Yangzhou	j ɤɯ ⁵⁵	- j ɤɯ ⁵⁵	316
+54	ZhongyuanYinyun	j ou ⁵¹	- j ou ⁵¹	316
+55	Beijing	ʈʂʰ ʅ ⁵⁵	ʈʂʰ - ʅ - ⁵⁵	318
+56	Changsha	tɕʰ j a ²⁴	tɕʰ j a - ²⁴	318
+57	Chaozhou	ŋ ɯ k ²¹	ŋ - ɯ k ²¹	318
+58	Chengdu	tsʰ ɿ ³¹	tsʰ - ɿ - ³¹	318
+59	Fuzhou	s e ʔ ²³	s - e ʔ ²³	318
+60	Guangzhou	h ɛ k ³	h - ɛ k ³	318
+61	Hankou	tsʰ ɿ ²¹³	tsʰ - ɿ - ²¹³	318
+62	Jinan	ʈʂʰ ʅ ²¹³	ʈʂʰ - ʅ - ²¹³	318
+63	Meixian	tsʰ ə t ¹	tsʰ - ə t ¹	318
+64	Nanchang	tɕʰ j a k ⁵	tɕʰ j a k ⁵	318
+65	Shanghai	tɕʰ j ɤ ʔ ⁵	tɕʰ j ɤ ʔ ⁵	318
+66	Shuangfeng	tɕʰ i ²³	tɕʰ - i - ²³	318
+67	Suzhou	tɕʰ j ə ʔ ⁴	tɕʰ j ə ʔ ⁴	318
+68	Taiyuan	tsʰ ə ʔ ²	tsʰ - ə ʔ ²	318
+69	Wenzhou	tsʰ ɿ ³²³	tsʰ - ɿ - ³²³	318
+70	XiAn	ʈʂʰ ʅ ²¹	ʈʂʰ - ʅ - ²¹	318
+71	Xiamen	kʰ i k ³²	kʰ - i k ³²	318
+72	Yangzhou	tɕʰ j ə ʔ ⁴	tɕʰ j ə ʔ ⁴	318
+73	Beijing	l i ⁵¹	l i ⁵¹	324
+74	Changsha	n i ⁵⁵	n i ⁵⁵	324
+75	Chaozhou	l i ³⁵	l i ³⁵	324
+76	Chengdu	n i ¹³	n i ¹³	324
+77	Fuzhou	l i ²⁴²	l i ²⁴²	324
+78	Guangzhou	l ei ²²	l ei ²²	324
+79	Hankou	n i ³⁵	n i ³⁵	324
+80	Jinan	l i ²¹	l i ²¹	324
+81	Meixian	l i ⁵²	l i ⁵²	324
+82	Nanchang	l i ²¹	l i ²¹	324
+83	Shanghai	l i ¹³	l i ¹³	324
+84	Shuangfeng	n i ³³	n i ³³	324
+85	Suzhou	l i ³¹	l i ³¹	324
+86	Taiyuan	l i ⁴⁵	l i ⁴⁵	324
+87	Wenzhou	l ei ²²	l ei ²²	324
+88	XiAn	l i ⁵⁵	l i ⁵⁵	324
+89	Xiamen	l i ³³	l i ³³	324
+90	Yangzhou	l i ⁵⁵	l i ⁵⁵	324
+91	Beijing	pʰ i ⁵⁵	pʰ - i ⁵⁵	408
+92	Changsha	pʰ ei ³³	pʰ - ei ³³	408
+93	Chaozhou	pʰ i ³³	pʰ - i ³³	408
+94	Chengdu	pʰ ei ⁴⁴	pʰ - ei ⁴⁴	408
+95	Fuzhou	pʰ w ei ⁴⁴	pʰ w ei ⁴⁴	408
+96	Guangzhou	pʰ w i ²¹	pʰ w i ²¹	408
+97	Hankou	pʰ ei ⁵⁵	pʰ - ei ⁵⁵	408
+98	Jinan	pʰ ei ²¹³	pʰ - ei ²¹³	408
+99	Meixian	pʰ ɔi ⁴⁴	pʰ - ɔi ⁴⁴	408
+100	Nanchang	pʰ i ⁴²	pʰ - i ⁴²	408
+101	Shanghai	p ɛ ¹³	p - ɛ ¹³	408
+102	Shuangfeng	pʰ j e ⁵⁵	pʰ j e ⁵⁵	408
+103	Suzhou	pʰ ɛ ⁴⁴	pʰ - ɛ ⁴⁴	408
+104	Taiyuan	pʰ ei ¹¹	pʰ - ei ¹¹	408
+105	Wenzhou	pʰ ai ⁴⁴	pʰ - ai ⁴⁴	408
+106	XiAn	pʰ ei ²¹	pʰ - ei ²¹	408
+107	Xiamen	pʰ i ⁵⁵	pʰ - i ⁵⁵	408
+108	Yangzhou	pʰ i ²¹	pʰ - i ²¹	408
+109	Beijing	tɕ j a ŋ ⁵⁵	tɕ j a ŋ ⁵⁵	500
+110	Changsha	tɕ j a n ³³	tɕ j a n ³³	500
+111	Chaozhou	k ieː ³³	k - ieː - ³³	500
+112	Chengdu	tɕ j a ŋ ⁴⁴	tɕ j a ŋ ⁴⁴	500
+113	Fuzhou	k ɥ ɔ ŋ ⁴⁴	k ɥ ɔ ŋ ⁴⁴	500
+114	Guangzhou	k œ ŋ ⁵⁵	k - œ ŋ ⁵⁵	500
+115	Hankou	tɕ j a ŋ ⁵⁵	tɕ j a ŋ ⁵⁵	500
+116	Jinan	tɕ j a ŋ ²¹³	tɕ j a ŋ ²¹³	500
+117	Meixian	k j ɔ ŋ ⁴⁴	k j ɔ ŋ ⁴⁴	500
+118	Nanchang	tɕ j ɔ ŋ ⁴²	tɕ j ɔ ŋ ⁴²	500
+119	Shuangfeng	tɕ j a ŋ ⁵⁵	tɕ j a ŋ ⁵⁵	500
+120	Taiyuan	tɕ iɒː ¹¹	tɕ - iɒː - ¹¹	500
+121	Wenzhou	tɕ i ⁴⁴	tɕ - i - ⁴⁴	500
+122	XiAn	tɕ j a ŋ ²¹	tɕ j a ŋ ²¹	500
+123	Xiamen	k j ɔ ŋ ⁵⁵	k j ɔ ŋ ⁵⁵	500
+124	Yangzhou	tɕ j ɑ ŋ ²¹	tɕ j ɑ ŋ ²¹	500
+125	Beijing	k u ⁵⁵	k u ⁵⁵	532
+126	Changsha	k u ³³	k u ³³	532
+127	Chaozhou	k ou ³³	k ou ³³	532
+128	Chengdu	k u ⁴⁴	k u ⁴⁴	532
+129	Fuzhou	k u ⁴⁴	k u ⁴⁴	532
+130	Guangzhou	k u ⁵⁵	k u ⁵⁵	532
+131	Hankou	k u ⁵⁵	k u ⁵⁵	532
+132	Jinan	k u ²¹³	k u ²¹³	532
+133	Meixian	k u ⁴⁴	k u ⁴⁴	532
+134	Nanchang	k u ⁴²	k u ⁴²	532
+135	Shuangfeng	k əu ⁵⁵	k əu ⁵⁵	532
+136	Suzhou	k əu ⁴⁴	k əu ⁴⁴	532
+137	Taiyuan	k u ¹¹	k u ¹¹	532
+138	Wenzhou	k u ⁴⁴	k u ⁴⁴	532
+139	XiAn	k u ²¹	k u ²¹	532
+140	Xiamen	k ɔ ⁵⁵	k ɔ ⁵⁵	532
+141	Yangzhou	k u ²¹	k u ²¹	532
+142	Beijing	f u ⁵⁵	f u ⁵⁵	535
+143	Changsha	f u ³³	f u ³³	535
+144	Chaozhou	p u ¹¹	p u ¹¹	535
+145	Chengdu	f u ⁴⁴	f u ⁴⁴	535
+146	Fuzhou	x u ⁴⁴	x u ⁴⁴	535
+147	Guangzhou	f u ⁵⁵	f u ⁵⁵	535
+148	Hankou	f u ⁵⁵	f u ⁵⁵	535
+149	Jinan	f u ⁴²	f u ⁴²	535
+150	Meixian	f u ⁴⁴	f u ⁴⁴	535
+151	Nanchang	ɸ u ⁴²	ɸ u ⁴²	535
+152	Shanghai	p u ¹³	p u ¹³	535
+153	Shuangfeng	x əu ⁵⁵	x əu ⁵⁵	535
+154	Suzhou	f u ⁴⁴	f u ⁴⁴	535
+155	Taiyuan	f u ¹¹	f u ¹¹	535
+156	Wenzhou	b u ²²	b u ²²	535
+157	XiAn	f u ²¹	f u ²¹	535
+158	Xiamen	h u ⁵⁵	h u ⁵⁵	535
+159	Yangzhou	f u ³⁴	f u ³⁴	535
+160	Beijing	w ei ²¹⁴	- w ei ²¹⁴	596
+161	Changsha	w ei ⁴¹	- w ei ⁴¹	596
+162	Chaozhou	b w e ⁵³	b w e ⁵³	596
+163	Chengdu	w ei ⁵³	- w ei ⁵³	596
+164	Fuzhou	m w ei ³¹	m w ei ³¹	596
+165	Guangzhou	m ei ²³	m - ei ²³	596
+166	Hankou	w ei ⁴²	- w ei ⁴²	596
+167	Jinan	w ei ⁵⁵	- w ei ⁵⁵	596
+168	Meixian	m i ⁴⁴	m - i ⁴⁴	596
+169	Nanchang	w i ²¹³	- w i ²¹³	596
+170	Shanghai	v i ¹³	- v i ¹³	596
+171	Shuangfeng	w i ²¹	- w i ²¹	596
+172	Suzhou	v i ³¹	- v i ³¹	596
+173	Taiyuan	v ei ⁵³	- v ei ⁵³	596
+174	Wenzhou	m ei ³⁴	m - ei ³⁴	596
+175	XiAn	v ei ⁵³	- v ei ⁵³	596
+176	Xiamen	b i ⁵¹	b - i ⁵¹	596
+177	Yangzhou	w əi ⁴²	- w əi ⁴²	596
+178	Beijing	s w ei ⁵⁵	s w ei ⁵⁵	597
+179	Changsha	ɲ j au ²¹	ɲ j au ²¹	597
+180	Chaozhou	z j e ¹¹	z j e ¹¹	597
+181	Chengdu	ɲ j au ¹³	ɲ j au ¹³	597
+182	Fuzhou	l j eu ²⁴²	l j eu ²⁴²	597
+183	Guangzhou	n j u ²²	n j u ²²	597
+184	Hankou	n j au ³⁵	n j au ³⁵	597
+185	Jinan	ɲ j ɔ ²¹	ɲ j ɔ ²¹	597
+186	Meixian	ɲ j au ⁵²	ɲ j au ⁵²	597
+187	Nanchang	ɲ j ɛu ²¹	ɲ j ɛu ²¹	597
+188	Shanghai	ɲ j ɔ ⁵⁵	ɲ j ɔ ⁵⁵	597
+189	Shuangfeng	ɲ j ə ³³	ɲ j ə ³³	597
+190	Suzhou	s ɥ ⁴⁴	s ɥ - ⁴⁴	597
+191	Taiyuan	n j au ⁴⁵	n j au ⁴⁵	597
+192	Wenzhou	s ɿ ⁴⁴	s - ɿ ⁴⁴	597
+193	XiAn	ɲ j au ⁵⁵	ɲ j au ⁵⁵	597
+194	Xiamen	dz j au ³³	dz j au ³³	597
+195	Yangzhou	s w əi ²¹	s w əi ²¹	597
+196	Beijing	pʰ i ⁵¹	pʰ - i ⁵¹	599
+197	Changsha	pʰ i ⁵⁵	pʰ - i ⁵⁵	599
+198	Chaozhou	pʰ w i ²¹³	pʰ w i ²¹³	599
+199	Chengdu	pʰ i ¹³	pʰ - i ¹³	599
+200	Fuzhou	pʰ ei ²¹³	pʰ - ei ²¹³	599
+201	Guangzhou	pʰ ei ³³	pʰ - ei ³³	599
+202	Hankou	pʰ ei ³⁵	pʰ - ei ³⁵	599
+203	Jinan	pʰ i ²¹	pʰ - i ²¹	599
+204	Meixian	pʰ i ⁵²	pʰ - i ⁵²	599
+205	Nanchang	pʰ i ²¹³	pʰ - i ²¹³	599
+206	Shanghai	pʰ i ⁵⁵	pʰ - i ⁵⁵	599
+207	Shuangfeng	pʰ i ³⁵	pʰ - i ³⁵	599
+208	Suzhou	pʰ i ⁴¹²	pʰ - i ⁴¹²	599
+209	Taiyuan	pʰ i ⁴⁵	pʰ - i ⁴⁵	599
+210	Wenzhou	pʰ ei ⁴²	pʰ - ei ⁴²	599
+211	XiAn	pʰ i ⁵⁵	pʰ - i ⁵⁵	599
+212	Xiamen	pʰ i ¹¹	pʰ - i ¹¹	599
+213	Yangzhou	pʰ i ⁵⁵	pʰ - i ⁵⁵	599
+214	Beijing	x ə n ²¹⁴	x ə n ²¹⁴	714
+215	Changsha	x ə n ⁴¹	x ə n ⁴¹	714
+216	Chaozhou	h ɯ ŋ ⁵³	h ɯ ŋ ⁵³	714
+217	Chengdu	x ə n ⁵³	x ə n ⁵³	714
+218	Fuzhou	x ei ŋ ³¹	x ei ŋ ³¹	714
+219	Guangzhou	h a n ³⁵	h a n ³⁵	714
+220	Hankou	x ə n ⁴²	x ə n ⁴²	714
+221	Jinan	x eː ⁵⁵	x eː - ⁵⁵	714
+222	Meixian	h ɛ n ⁴⁴	h ɛ n ⁴⁴	714
+223	Nanchang	h ɛ n ²¹³	h ɛ n ²¹³	714
+224	Shanghai	h ə ŋ ⁵⁵	h ə ŋ ⁵⁵	714
+225	Shuangfeng	x iɛː ²¹	x iɛː - ²¹	714
+226	Suzhou	h ə n ⁵²	h ə n ⁵²	714
+227	Taiyuan	x ə ŋ ⁵³	x ə ŋ ⁵³	714
+228	Wenzhou	x a ŋ ⁴⁵	x a ŋ ⁴⁵	714
+229	XiAn	x eː ⁵³	x eː - ⁵³	714
+230	Xiamen	h u n ⁵¹	h u n ⁵¹	714
+231	Yangzhou	x ə n ⁴²	x ə n ⁴²	714
+232	Beijing	ʈʂ au ²¹⁴	ʈʂ - au ²¹⁴	836
+233	Changsha	ts au ⁴¹	ts - au ⁴¹	836
+234	Chaozhou	ts au ⁵³	ts - au ⁵³	836
+235	Chengdu	ts au ⁵³	ts - au ⁵³	836
+236	Fuzhou	tʰ ɔ ³¹	tʰ - ɔ ³¹	836
+237	Guangzhou	tʃ aːu ³⁵	tʃ - aːu ³⁵	836
+238	Hankou	ts au ⁴²	ts - au ⁴²	836
+239	Jinan	ʈʂ ɔ ⁵⁵	ʈʂ - ɔ ⁵⁵	836
+240	Meixian	ts au ³¹	ts - au ³¹	836
+241	Nanchang	ts au ²¹³	ts - au ²¹³	836
+242	Shanghai	ts ɔ ⁵⁵	ts - ɔ ⁵⁵	836
+243	Suzhou	ts æ ⁵²	ts - æ ⁵²	836
+244	Taiyuan	ts au ⁵³	ts - au ⁵³	836
+245	Wenzhou	ts ɔ ⁴⁵	ts - ɔ ⁴⁵	836
+246	XiAn	ts au ⁵³	ts - au ⁵³	836
+247	Xiamen	dz j au ⁵¹	dz j au ⁵¹	836
+248	Yangzhou	ts ɔ ⁴²	ts - ɔ ⁴²	836
+249	Beijing	tʰ ai ³⁵	tʰ - ai ³⁵	847
+250	Changsha	t ai ¹³	t - ai ¹³	847
+251	Chaozhou	tʰ ai ⁵⁵	tʰ - ai ⁵⁵	847
+252	Chengdu	tʰ ai ³¹	tʰ - ai ³¹	847
+253	Fuzhou	tʰ ai ⁵²	tʰ - ai ⁵²	847
+254	Guangzhou	tʰ ɔi ²¹	tʰ - ɔi ²¹	847
+255	Hankou	tʰ ɛ ²¹³	tʰ - ɛ ²¹³	847
+256	Jinan	tʰ ɛ ⁴²	tʰ - ɛ ⁴²	847
+257	Meixian	tʰ ɔi ¹¹	tʰ - ɔi ¹¹	847
+258	Nanchang	tʰ ai ²⁴	tʰ - ai ²⁴	847
+259	Shanghai	t ɛ ¹³	t - ɛ ¹³	847
+260	Shuangfeng	d w e ²³	d w e ²³	847
+261	Suzhou	d ɛ ²⁴	d - ɛ ²⁴	847
+262	Taiyuan	tʰ ai ¹¹	tʰ - ai ¹¹	847
+263	Wenzhou	d ɛ ³¹	d - ɛ ³¹	847
+264	XiAn	tʰ ɛ ²⁴	tʰ - ɛ ²⁴	847
+265	Xiamen	tʰ ai ²⁴	tʰ - ai ²⁴	847
+266	Yangzhou	tʰ ɛ ³⁴	tʰ - ɛ ³⁴	847
+267	Beijing	n a ³⁵	n a - ³⁵	873
+268	Changsha	n a ¹³	n a - ¹³	873
+269	Chaozhou	n a ⁵³	n a - ⁵³	873
+270	Chengdu	n a ³¹	n a - ³¹	873
+271	Fuzhou	n a ³¹	n a - ³¹	873
+272	Guangzhou	n a ²¹	n a - ²¹	873
+273	Hankou	n a ²¹³	n a - ²¹³	873
+274	Jinan	n a ⁴²	n a - ⁴²	873
+275	Meixian	n a ⁴⁴	n a - ⁴⁴	873
+276	Nanchang	l a k ⁵	l a k ⁵	873
+277	Shanghai	n a ¹³	n a - ¹³	873
+278	Shuangfeng	n a ²³	n a - ²³	873
+279	Suzhou	n ɒ ²⁴	n ɒ - ²⁴	873
+280	Taiyuan	n a ¹¹	n a - ¹¹	873
+281	Wenzhou	n a ³¹	n a - ³¹	873
+282	XiAn	n a ²⁴	n a - ²⁴	873
+283	Xiamen	n a ⁵¹	n a - ⁵¹	873
+284	Yangzhou	n a ³⁴	n a - ³⁴	873
+285	Beijing	w a ⁵⁵	- w a - ⁵⁵	877
+286	Changsha	w a ²⁴	- w a - ²⁴	877
+287	Chaozhou	w a ³³	- w a - ³³	877
+288	Chengdu	w a ⁴⁴	- w a - ⁴⁴	877
+289	Fuzhou	w a ⁴⁴	- w a - ⁴⁴	877
+290	Guangzhou	w aː t ³	- w aː t ³	877
+291	Hankou	w a ⁵⁵	- w a - ⁵⁵	877
+292	Jinan	w a ²¹³	- w a - ²¹³	877
+293	Meixian	v a ⁴⁴	- v a - ⁴⁴	877
+294	Nanchang	w a t ⁵	- w a t ⁵	877
+295	Shanghai	k w a ʔ ⁵	k w a ʔ ⁵	877
+296	Shuangfeng	w a ²³	- w a - ²³	877
+297	Suzhou	w a ʔ ⁴	- w a ʔ ⁴	877
+298	Taiyuan	v a ¹¹	- v a - ¹¹	877
+299	Wenzhou	w a ⁴⁴	- w a - ⁴⁴	877
+300	XiAn	w a ²¹	- w a - ²¹	877
+301	Xiamen	w a t ³²	- w a t ³²	877
+302	Yangzhou	w a ʔ ⁴	- w a ʔ ⁴	877
+303	Beijing	tsʰ w o ⁵⁵	tsʰ w o ⁵⁵	920
+304	Changsha	tsʰ o ³³	tsʰ - o ³³	920
+305	Chaozhou	tsʰ o ³³	tsʰ - o ³³	920
+306	Chengdu	tsʰ o ⁴⁴	tsʰ - o ⁴⁴	920
+307	Fuzhou	tsʰ ɔ ⁴⁴	tsʰ - ɔ ⁴⁴	920
+308	Guangzhou	tʃʰ ɔ ⁵⁵	tʃʰ - ɔ ⁵⁵	920
+309	Hankou	tsʰ o ⁵⁵	tsʰ - o ⁵⁵	920
+310	Jinan	tsʰ w ə ²¹³	tsʰ w ə ²¹³	920
+311	Meixian	tsʰ ɔ ⁴⁴	tsʰ - ɔ ⁴⁴	920
+312	Nanchang	tsʰ o ⁴²	tsʰ - o ⁴²	920
+313	Shanghai	tsʰ o ⁵³	tsʰ - o ⁵³	920
+314	Shuangfeng	tsʰ ʊ ⁵⁵	tsʰ - ʊ ⁵⁵	920
+315	Suzhou	tsʰ əu ⁴⁴	tsʰ - əu ⁴⁴	920
+316	Taiyuan	tsʰ w ə ¹¹	tsʰ w ə ¹¹	920
+317	XiAn	tsʰ w o ²¹	tsʰ w o ²¹	920
+318	Xiamen	s o ⁵⁵	s - o ⁵⁵	920
+319	Yangzhou	tsʰ o ²¹	tsʰ - o ²¹	920
+320	ZhongyuanYinyun	tsʰ w o ⁵⁵	tsʰ w o ⁵⁵	920
+321	Beijing	tɕ j ou ⁵¹	tɕ j ou ⁵¹	977
+322	Changsha	tɕ j ɤu ⁵⁵	tɕ j ɤu ⁵⁵	977
+323	Chaozhou	k j u ²¹³	k j u ²¹³	977
+324	Chengdu	tɕ j əu ¹³	tɕ j əu ¹³	977
+325	Fuzhou	k j eu ²¹³	k j eu ²¹³	977
+326	Guangzhou	k au ³³	k - au ³³	977
+327	Hankou	tɕ j ou ³⁵	tɕ j ou ³⁵	977
+328	Jinan	tɕ j ou ²¹	tɕ j ou ²¹	977
+329	Meixian	k j u ⁵²	k j u ⁵²	977
+330	Nanchang	tɕ j u ⁴⁵	tɕ j u ⁴⁵	977
+331	Shanghai	tɕ j ɯ ⁵⁵	tɕ j ɯ ⁵⁵	977
+332	Shuangfeng	tɕ j ʊ ³⁵	tɕ j ʊ ³⁵	977
+333	Taiyuan	tɕ j ou ⁴⁵	tɕ j ou ⁴⁵	977
+334	Wenzhou	tɕ j au ⁴²	tɕ j au ⁴²	977
+335	XiAn	tɕ j ou ⁵⁵	tɕ j ou ⁵⁵	977
+336	Xiamen	k j u ¹¹	k j u ¹¹	977
+337	Yangzhou	tɕ j ɤɯ ⁵⁵	tɕ j ɤɯ ⁵⁵	977
+338	ZhongyuanYinyun	k j ou ⁵¹	k j ou ⁵¹	977
+339	Beijing	tɕʰ i ³⁵	tɕʰ i ³⁵	1009
+340	Changsha	tɕ i ¹³	tɕ i ¹³	1009
+341	Chaozhou	kʰ i ⁵⁵	kʰ i ⁵⁵	1009
+342	Chengdu	tɕʰ i ³¹	tɕʰ i ³¹	1009
+343	Fuzhou	k i ⁵²	k i ⁵²	1009
+344	Guangzhou	kʰ ei ²¹	kʰ ei ²¹	1009
+345	Hankou	tɕʰ i ²¹³	tɕʰ i ²¹³	1009
+346	Jinan	tɕʰ i ⁴²	tɕʰ i ⁴²	1009
+347	Meixian	kʰ i ¹¹	kʰ i ¹¹	1009
+348	Nanchang	tɕʰ i ²⁴	tɕʰ i ²⁴	1009
+349	Shuangfeng	dʑ i ²³	dʑ i ²³	1009
+350	Suzhou	dʑ i ²⁴	dʑ i ²⁴	1009
+351	Taiyuan	tɕʰ i ¹¹	tɕʰ i ¹¹	1009
+352	Wenzhou	dz ɿ ³¹	dz ɿ ³¹	1009
+353	XiAn	tɕʰ i ²⁴	tɕʰ i ²⁴	1009
+354	Xiamen	k i ²⁴	k i ²⁴	1009
+355	Yangzhou	tɕʰ i ³⁴	tɕʰ i ³⁴	1009
+356	Beijing	ts w o ³⁵	ts w o - ³⁵	1027
+357	Changsha	ts o ²⁴	ts - o - ²⁴	1027
+358	Chaozhou	ts a ⁵³	ts - a - ⁵³	1027
+359	Chengdu	ts o ³¹	ts - o - ³¹	1027
+360	Fuzhou	s ou ʔ ⁴	s - ou ʔ ⁴	1027
+361	Guangzhou	tʃ ɔ k ²	tʃ - ɔ k ²	1027
+362	Hankou	ts o ²¹³	ts - o - ²¹³	1027
+363	Jinan	ts w ə ⁴²	ts w ə - ⁴²	1027
+364	Meixian	tsʰ ɔ k ⁵	tsʰ - ɔ k ⁵	1027
+365	Nanchang	tsʰ ɔ k ⁵	tsʰ - ɔ k ⁵	1027
+366	Shanghai	z o ʔ ¹³	z - o ʔ ¹³	1027
+367	Shuangfeng	tsʰ ʊ ³⁵	tsʰ - ʊ - ³⁵	1027
+368	Suzhou	z o ʔ ²³	z - o ʔ ²³	1027
+369	Taiyuan	ts w ə ʔ ⁵⁴	ts w ə ʔ ⁵⁴	1027
+370	Wenzhou	dz o ²¹²	dz - o - ²¹²	1027
+371	XiAn	ts w o ²⁴	ts w o - ²⁴	1027
+372	Xiamen	ts ɔ k ⁵	ts - ɔ k ⁵	1027
+373	Yangzhou	ts ɑ ʔ ⁴	ts - ɑ ʔ ⁴	1027
+374	Beijing	pʰ ə ŋ ³⁵	pʰ ə ŋ ³⁵	1062
+375	Changsha	p o ŋ ¹³	p o ŋ ¹³	1062
+376	Chaozhou	pʰ e ŋ ⁵⁵	pʰ e ŋ ⁵⁵	1062
+377	Chengdu	pʰ o ŋ ³¹	pʰ o ŋ ³¹	1062
+378	Fuzhou	p ei ŋ ⁵²	p ei ŋ ⁵²	1062
+379	Guangzhou	pʰ a ŋ ²¹	pʰ a ŋ ²¹	1062
+380	Hankou	pʰ o ŋ ²¹³	pʰ o ŋ ²¹³	1062
+381	Jinan	pʰ ə ŋ ⁴²	pʰ ə ŋ ⁴²	1062
+382	Meixian	pʰ ɛ n ¹¹	pʰ ɛ n ¹¹	1062
+383	Nanchang	p u ŋ ²⁴	p u ŋ ²⁴	1062
+384	Shanghai	p aː ¹³	p aː - ¹³	1062
+385	Suzhou	b ə n ²⁴	b ə n ²⁴	1062
+386	Taiyuan	pʰ ə ŋ ¹¹	pʰ ə ŋ ¹¹	1062
+387	Wenzhou	b o ŋ ³¹	b o ŋ ³¹	1062
+388	XiAn	pʰ ə ŋ ²⁴	pʰ ə ŋ ²⁴	1062
+389	Xiamen	p ɪ ŋ ²⁴	p ɪ ŋ ²⁴	1062
+390	Yangzhou	pʰ ɔu ŋ ³⁴	pʰ ɔu ŋ ³⁴	1062
+391	ZhongyuanYinyun	pʰ ə ŋ ⁵⁵	pʰ ə ŋ ⁵⁵	1062
+392	Beijing	ts ai ⁵⁵	ts - ai ⁵⁵	1114
+393	Changsha	ts ai ³³	ts - ai ³³	1114
+394	Chaozhou	ts ai ³³	ts - ai ³³	1114
+395	Chengdu	ts ai ⁴⁴	ts - ai ⁴⁴	1114
+396	Fuzhou	ts ai ⁴⁴	ts - ai ⁴⁴	1114
+397	Guangzhou	tʃ ɔi ⁵⁵	tʃ - ɔi ⁵⁵	1114
+398	Hankou	ts ai ⁵⁵	ts - ai ⁵⁵	1114
+399	Jinan	ts ɛ ²¹³	ts - ɛ ²¹³	1114
+400	Meixian	ts ai ⁴⁴	ts - ai ⁴⁴	1114
+401	Nanchang	ts ai ⁴²	ts - ai ⁴²	1114
+402	Shuangfeng	tɕ j e ⁵⁵	tɕ j e ⁵⁵	1114
+403	Suzhou	ts ɛ ⁴⁴	ts - ɛ ⁴⁴	1114
+404	Taiyuan	ts ai ¹¹	ts - ai ¹¹	1114
+405	Wenzhou	ts ɛ ⁴⁴	ts - ɛ ⁴⁴	1114
+406	XiAn	ts ɛ ²¹	ts - ɛ ²¹	1114
+407	Xiamen	ts ai ⁵⁵	ts - ai ⁵⁵	1114
+408	Yangzhou	ts ɛ ²¹	ts - ɛ ²¹	1114
+409	Beijing	m j a n ³⁵	m j a n ³⁵	1135
+410	Changsha	m ieː ¹³	m - ieː - ¹³	1135
+411	Chaozhou	m j e ŋ ⁵⁵	m j e ŋ ⁵⁵	1135
+412	Chengdu	m j a n ³¹	m j a n ³¹	1135
+413	Fuzhou	m j e ŋ ⁵²	m j e ŋ ⁵²	1135
+414	Guangzhou	m i n ²¹	m - i n ²¹	1135
+415	Hankou	m j a n ²¹³	m j a n ²¹³	1135
+416	Jinan	m iaː ⁴²	m - iaː - ⁴²	1135
+417	Meixian	m j ɛ n ¹¹	m j ɛ n ¹¹	1135
+418	Nanchang	m j ɛ n ⁴⁵	m j ɛ n ⁴⁵	1135
+419	Shuangfeng	m ɪː ²³	m - ɪː - ²³	1135
+420	Suzhou	m ɪ ²⁴	m - ɪ - ²⁴	1135
+421	Taiyuan	m j ɛ ¹¹	m j ɛ - ¹¹	1135
+422	Wenzhou	m i ³¹	m - i - ³¹	1135
+423	XiAn	m iaː ²⁴	m - iaː - ²⁴	1135
+424	Xiamen	b j a n ²⁴	b j a n ²⁴	1135
+425	Yangzhou	m ɪː ³⁴	m - ɪː - ³⁴	1135
+426	Beijing	k w ə n ⁵¹	k w ə n ⁵¹	1137
+427	Changsha	k w ə n ⁵⁵	k w ə n ⁵⁵	1137
+428	Chaozhou	k u ŋ ²¹³	k - u ŋ ²¹³	1137
+429	Chengdu	k w ə n ¹³	k w ə n ¹³	1137
+430	Fuzhou	k ou ŋ ²¹³	k - ou ŋ ²¹³	1137
+431	Guangzhou	k w a n ³³	k w a n ³³	1137
+432	Hankou	k w ə n ³⁵	k w ə n ³⁵	1137
+433	Jinan	k ueː ²¹	k - ueː - ²¹	1137
+434	Meixian	k u n ⁵²	k - u n ⁵²	1137
+435	Nanchang	k u n ⁴⁵	k - u n ⁴⁵	1137
+436	Shanghai	k w ə ŋ ⁵⁵	k w ə ŋ ⁵⁵	1137
+437	Shuangfeng	k w ə n ³⁵	k w ə n ³⁵	1137
+438	Suzhou	k w ə n ⁴¹²	k w ə n ⁴¹²	1137
+439	Taiyuan	k u ŋ ⁴⁵	k - u ŋ ⁴⁵	1137
+440	Wenzhou	k a ŋ ⁴²	k - a ŋ ⁴²	1137
+441	XiAn	k ueː ⁵⁵	k - ueː - ⁵⁵	1137
+442	Xiamen	k u n ¹¹	k - u n ¹¹	1137
+443	Yangzhou	k w ə n ⁵⁵	k w ə n ⁵⁵	1137
+444	Beijing	kʰ ɤ ⁵⁵	kʰ - ɤ ⁵⁵	1144
+445	Changsha	kʰ o ⁴¹	kʰ - o ⁴¹	1144
+446	Chaozhou	kʰ w e ³³	kʰ w e ³³	1144
+447	Chengdu	kʰ o ⁵³	kʰ - o ⁵³	1144
+448	Fuzhou	kʰ w ɔ ⁴⁴	kʰ w ɔ ⁴⁴	1144
+449	Guangzhou	f ɔ ⁵⁵	- f ɔ ⁵⁵	1144
+450	Hankou	kʰ o ⁵⁵	kʰ - o ⁵⁵	1144
+451	Jinan	kʰ ə ²¹³	kʰ - ə ²¹³	1144
+452	Meixian	kʰ ɔ ³¹	kʰ - ɔ ³¹	1144
+453	Nanchang	kʰ w o ⁴²	kʰ w o ⁴²	1144
+454	Shanghai	kʰ u ⁵³	kʰ - u ⁵³	1144
+455	Shuangfeng	kʰ ʊ ⁵⁵	kʰ - ʊ ⁵⁵	1144
+456	Suzhou	kʰ əu ⁴⁴	kʰ - əu ⁴⁴	1144
+457	Taiyuan	kʰ ə ¹¹	kʰ - ə ¹¹	1144
+458	Wenzhou	kʰ u ⁴⁴	kʰ - u ⁴⁴	1144
+459	XiAn	kʰ w o ²¹	kʰ w o ²¹	1144
+460	Xiamen	o ⁵¹	- - o ⁵¹	1144
+461	Yangzhou	kʰ o ²¹	kʰ - o ²¹	1144
+462	Beijing	tɕ y ³⁵	tɕ - y - ³⁵	1175
+463	Changsha	tɕ y ²⁴	tɕ - y - ²⁴	1175
+464	Chaozhou	k i k ²¹	k - i k ²¹	1175
+465	Chengdu	tɕ y ³¹	tɕ - y - ³¹	1175
+466	Fuzhou	k ei ʔ ²³	k - ei ʔ ²³	1175
+467	Guangzhou	k w a t ⁵	k w a t ⁵	1175
+468	Hankou	tɕ y ²¹³	tɕ - y - ²¹³	1175
+469	Jinan	tɕ y ²¹³	tɕ - y - ²¹³	1175
+470	Meixian	k i t ¹	k - i t ¹	1175
+471	Nanchang	tɕ y t ⁵	tɕ - y t ⁵	1175
+472	Shanghai	tɕ ɥ ɪ ʔ ⁵	tɕ ɥ ɪ ʔ ⁵	1175
+473	Shuangfeng	tɕ y ²³	tɕ - y - ²³	1175
+474	Suzhou	tɕ ɥ ɤ ʔ ⁴	tɕ ɥ ɤ ʔ ⁴	1175
+475	Taiyuan	tɕ y ʔ ²	tɕ - y ʔ ²	1175
+476	Wenzhou	tɕ j ai ³²³	tɕ j ai - ³²³	1175
+477	XiAn	tɕ y ²¹	tɕ - y - ²¹	1175
+478	Xiamen	k j a t ³²	k j a t ³²	1175
+479	Yangzhou	tɕ j ɔ ʔ ⁴	tɕ j ɔ ʔ ⁴	1175
+480	Beijing	x a n ⁵¹	x a n ⁵¹	1235
+481	Changsha	x a n ⁵⁵	x a n ⁵⁵	1235
+482	Chaozhou	kʰ uaː ¹¹	kʰ uaː - ¹¹	1235
+483	Chengdu	x a n ¹³	x a n ¹³	1235
+484	Fuzhou	k a ŋ ²⁴²	k a ŋ ²⁴²	1235
+485	Guangzhou	h ɔ n ²²	h ɔ n ²²	1235
+486	Hankou	x a n ³⁵	x a n ³⁵	1235
+487	Jinan	x aː ²¹	x aː - ²¹	1235
+488	Meixian	h ɔ n ⁵²	h ɔ n ⁵²	1235
+489	Nanchang	h ɔ n ²¹	h ɔ n ²¹	1235
+490	Shanghai	ɦ ø ¹³	ɦ ø - ¹³	1235
+491	Shuangfeng	ɣ uɛː ³³	ɣ uɛː - ³³	1235
+492	Suzhou	ɦ ø ³¹	ɦ ø - ³¹	1235
+493	Taiyuan	x æː ⁴⁵	x æː - ⁴⁵	1235
+494	Wenzhou	ɦ y ²²	ɦ y - ²²	1235
+495	XiAn	x aː ⁵⁵	x aː - ⁵⁵	1235
+496	Xiamen	h a n ³³	h a n ³³	1235
+497	Yangzhou	x ɛː ⁵⁵	x ɛː - ⁵⁵	1235
+498	ZhongyuanYinyun	x a n ⁵¹	x a n ⁵¹	1235
+499	Beijing	ʈʂʰ ʅ ³⁵	- ʈʂʰ ʅ ³⁵	1237
+500	Changsha	ʈʂ ʅ ¹³	- ʈʂ ʅ ¹³	1237
+501	Chaozhou	t i ⁵⁵	t - i ⁵⁵	1237
+502	Chengdu	tsʰ ɿ ³¹	- tsʰ ɿ ³¹	1237
+503	Fuzhou	t j e ⁵²	t j e ⁵²	1237
+504	Guangzhou	tʃʰ i ²¹	tʃʰ - i ²¹	1237
+505	Hankou	tsʰ ɿ ²¹³	- tsʰ ɿ ²¹³	1237
+506	Jinan	ʈʂʰ ʅ ⁴²	- ʈʂʰ ʅ ⁴²	1237
+507	Meixian	tsʰ ɿ ¹¹	- tsʰ ɿ ¹¹	1237
+508	Nanchang	tsʰ ɿ ²⁴	- tsʰ ɿ ²⁴	1237
+509	Shanghai	z ɿ ¹³	- z ɿ ¹³	1237
+510	Shuangfeng	ɖʐ ʅ ²³	- ɖʐ ʅ ²³	1237
+511	Suzhou	z ɥ ²⁴	- z ɥ ²⁴	1237
+512	Taiyuan	tsʰ ɿ ¹¹	- tsʰ ɿ ¹¹	1237
+513	Wenzhou	dz ei ³¹	- dz ei ³¹	1237
+514	XiAn	ʈʂʰ ʅ ²⁴	- ʈʂʰ ʅ ²⁴	1237
+515	Xiamen	t i ²⁴	t - i ²⁴	1237
+516	Yangzhou	tsʰ ɿ ³⁴	- tsʰ ɿ ³⁴	1237
+517	ZhongyuanYinyun	tʃʰ i ⁵⁵	tʃʰ - i ⁵⁵	1237
+518	Beijing	ʈʂʰ ə n ³⁵	ʈʂʰ - ə n ³⁵	1242
+519	Changsha	ʈʂ ə n ¹³	ʈʂ - ə n ¹³	1242
+520	Chaozhou	t i m ⁵⁵	t - i m ⁵⁵	1242
+521	Chengdu	tsʰ ə n ³¹	tsʰ - ə n ³¹	1242
+522	Fuzhou	tʰ i ŋ ⁵²	tʰ - i ŋ ⁵²	1242
+523	Guangzhou	tʃʰ a m ²¹	tʃʰ - a m ²¹	1242
+524	Hankou	tsʰ ə n ²¹³	tsʰ - ə n ²¹³	1242
+525	Jinan	ʈʂʰ eː ⁴²	ʈʂʰ - eː - ⁴²	1242
+526	Meixian	tsʰ ə m ¹¹	tsʰ - ə m ¹¹	1242
+527	Nanchang	tsʰ ə n ²⁴	tsʰ - ə n ²⁴	1242
+528	Shanghai	z ə ŋ ¹³	- z ə ŋ ¹³	1242
+529	Shuangfeng	dʑ i n ²³	- dʑ i n ²³	1242
+530	Suzhou	z ə n ²⁴	- z ə n ²⁴	1242
+531	Taiyuan	tsʰ ə ŋ ¹¹	tsʰ - ə ŋ ¹¹	1242
+532	Wenzhou	dz a ŋ ³¹	- dz a ŋ ³¹	1242
+533	XiAn	ʈʂʰ eː ²⁴	ʈʂʰ - eː - ²⁴	1242
+534	Xiamen	t i m ²⁴	t - i m ²⁴	1242
+535	Yangzhou	tsʰ ə n ³⁴	tsʰ - ə n ³⁴	1242
+536	ZhongyuanYinyun	tʃʰ j ə m ⁵⁵	tʃʰ j ə m ⁵⁵	1242
+537	Beijing	ʂ a ⁵⁵	ʂ - a ⁵⁵	1244
+538	Changsha	s a ³³	s - a ³³	1244
+539	Chaozhou	s w a ³³	s w a ³³	1244
+540	Chengdu	s a ⁴⁴	s - a ⁴⁴	1244
+541	Fuzhou	s a ⁴⁴	s - a ⁴⁴	1244
+542	Guangzhou	ʃ a ⁵⁵	ʃ - a ⁵⁵	1244
+543	Hankou	s a ⁵⁵	s - a ⁵⁵	1244
+544	Jinan	ʂ a ²¹³	ʂ - a ²¹³	1244
+545	Meixian	s a ⁴⁴	s - a ⁴⁴	1244
+546	Nanchang	s a ⁴²	s - a ⁴²	1244
+547	Shanghai	s o ⁵³	s - o ⁵³	1244
+548	Shuangfeng	s o ⁵⁵	s - o ⁵⁵	1244
+549	Suzhou	s o ⁴⁴	s - o ⁴⁴	1244
+550	Taiyuan	s a ¹¹	s - a ¹¹	1244
+551	Wenzhou	s o ⁴⁴	s - o ⁴⁴	1244
+552	XiAn	s a ²¹	s - a ²¹	1244
+553	Xiamen	s w a ⁵⁵	s w a ⁵⁵	1244
+554	Yangzhou	s ɑ ²¹	s - ɑ ²¹	1244
+555	ZhongyuanYinyun	ʃ a ⁵⁵	ʃ - a ⁵⁵	1244
+556	Beijing	x ɤ ³⁵	x - ɤ ³⁵	1246
+557	Changsha	x o ¹³	x - o ¹³	1246
+558	Chaozhou	h o ⁵⁵	h - o ⁵⁵	1246
+559	Chengdu	x o ³¹	x - o ³¹	1246
+560	Fuzhou	ɔ ⁵²	- - ɔ ⁵²	1246
+561	Guangzhou	h ɔ ²¹	h - ɔ ²¹	1246
+562	Hankou	x o ²¹³	x - o ²¹³	1246
+563	Jinan	x ə ⁴²	x - ə ⁴²	1246
+564	Meixian	h ɔ ¹¹	h - ɔ ¹¹	1246
+565	Nanchang	h o ²⁴	h - o ²⁴	1246
+566	Shanghai	ɦ u ¹³	ɦ - u ¹³	1246
+567	Shuangfeng	ɣ ʊ ²³	ɣ - ʊ ²³	1246
+568	Suzhou	ɦ əu ²⁴	ɦ - əu ²⁴	1246
+569	Taiyuan	x ə ¹¹	x - ə ¹¹	1246
+570	Wenzhou	v u ³¹	- v u ³¹	1246
+571	XiAn	x w o ²⁴	x w o ²⁴	1246
+572	Xiamen	h o ²⁴	h - o ²⁴	1246
+573	Yangzhou	x o ³⁴	x - o ³⁴	1246
+574	ZhongyuanYinyun	x o ⁵⁵	x - o ⁵⁵	1246
+575	Beijing	j ou ³⁵	- j ou ³⁵	1247
+576	Changsha	j ɤu ¹³	- j ɤu ¹³	1247
+577	Chaozhou	j u ⁵⁵	- j u ⁵⁵	1247
+578	Chengdu	j əu ³¹	- j əu ³¹	1247
+579	Fuzhou	j eu ⁵²	- j eu ⁵²	1247
+580	Guangzhou	j au ²¹	- j au ²¹	1247
+581	Hankou	j ou ²¹³	- j ou ²¹³	1247
+582	Jinan	j ou ⁴²	- j ou ⁴²	1247
+583	Meixian	j j u ¹¹	j j u ¹¹	1247
+584	Nanchang	j u ⁴⁵	- j u ⁴⁵	1247
+585	Shuangfeng	j ʊ ²³	- j ʊ ²³	1247
+586	Suzhou	j øy ²⁴	- j øy ²⁴	1247
+587	Taiyuan	j ou ¹¹	- j ou ¹¹	1247
+588	Wenzhou	ɦ j au ³¹	ɦ j au ³¹	1247
+589	XiAn	j ou ²⁴	- j ou ²⁴	1247
+590	Xiamen	j u ²⁴	- j u ²⁴	1247
+591	Yangzhou	j ɤɯ ³⁴	- j ɤɯ ³⁴	1247
+592	Beijing	n i ³⁵	n i ³⁵	1256
+593	Changsha	ɲ i ¹³	ɲ i ¹³	1256
+594	Chaozhou	n i ⁵⁵	n i ⁵⁵	1256
+595	Chengdu	ɲ i ³¹	ɲ i ³¹	1256
+596	Fuzhou	n ɛ ⁵²	n ɛ ⁵²	1256
+597	Guangzhou	n ai ²¹	n ai ²¹	1256
+598	Hankou	n i ²¹³	n i ²¹³	1256
+599	Jinan	ɲ i ⁴²	ɲ i ⁴²	1256
+600	Meixian	n ai ¹¹	n ai ¹¹	1256
+601	Nanchang	ɲ i ⁴⁵	ɲ i ⁴⁵	1256
+602	Shanghai	ɲ i ¹³	ɲ i ¹³	1256
+603	Shuangfeng	ɲ i ²³	ɲ i ²³	1256
+604	Suzhou	ɲ i ²⁴	ɲ i ²⁴	1256
+605	Taiyuan	n i ¹¹	n i ¹¹	1256
+606	Wenzhou	ɲ i ³¹	ɲ i ³¹	1256
+607	XiAn	ɲ i ²⁴	ɲ i ²⁴	1256
+608	Xiamen	n iː ²⁴	n iː ²⁴	1256
+609	Yangzhou	n i ³⁴	n i ³⁴	1256
+610	ZhongyuanYinyun	n i ⁵⁵	n i ⁵⁵	1256
+611	Beijing	ɕ i ²¹⁴	ɕ i ²¹⁴	1261
+612	Changsha	s i ⁴¹	s i ⁴¹	1261
+613	Chaozhou	s oi ⁵³	s oi ⁵³	1261
+614	Chengdu	ɕ i ⁵³	ɕ i ⁵³	1261
+615	Fuzhou	s ɛ ³¹	s ɛ ³¹	1261
+616	Guangzhou	ʃ ai ³⁵	ʃ ai ³⁵	1261
+617	Hankou	ɕ i ⁴²	ɕ i ⁴²	1261
+618	Jinan	ɕ i ⁵⁵	ɕ i ⁵⁵	1261
+619	Meixian	s ɛ ³¹	s ɛ ³¹	1261
+620	Nanchang	ɕ i ²¹³	ɕ i ²¹³	1261
+621	Shanghai	s i ⁵⁵	s i ⁵⁵	1261
+622	Shuangfeng	ɕ i ²¹	ɕ i ²¹	1261
+623	Suzhou	s i ⁵²	s i ⁵²	1261
+624	Taiyuan	ɕ i ⁵³	ɕ i ⁵³	1261
+625	Wenzhou	s ei ⁴⁵	s ei ⁴⁵	1261
+626	XiAn	ɕ i ⁵³	ɕ i ⁵³	1261
+627	Xiamen	s e ⁵¹	s e ⁵¹	1261
+628	Yangzhou	ɕ i ⁴²	ɕ i ⁴²	1261
+629	ZhongyuanYinyun	s i ³⁵	s i ³⁵	1261
+630	Beijing	t u ŋ ⁵¹	t u ŋ ⁵¹	1263
+631	Changsha	t o ŋ ⁵⁵	t o ŋ ⁵⁵	1263
+632	Chaozhou	t a ŋ ¹¹	t a ŋ ¹¹	1263
+633	Chengdu	t o ŋ ¹³	t o ŋ ¹³	1263
+634	Fuzhou	t ɵy ŋ ²⁴²	t ɵy ŋ ²⁴²	1263
+635	Guangzhou	t u ŋ ²²	t u ŋ ²²	1263
+636	Hankou	t o ŋ ³⁵	t o ŋ ³⁵	1263
+637	Jinan	t u ŋ ²¹	t u ŋ ²¹	1263
+638	Meixian	tʰ u ŋ ³¹	tʰ u ŋ ³¹	1263
+639	Nanchang	tʰ u ŋ ²¹	tʰ u ŋ ²¹	1263
+640	Shanghai	t o ŋ ¹³	t o ŋ ¹³	1263
+641	Shuangfeng	d a ŋ ³³	d a ŋ ³³	1263
+642	Suzhou	d o ŋ ³¹	d o ŋ ³¹	1263
+643	Taiyuan	t u ŋ ⁴⁵	t u ŋ ⁴⁵	1263
+644	Wenzhou	d o ŋ ²²	d o ŋ ²²	1263
+645	XiAn	t o ŋ ⁵⁵	t o ŋ ⁵⁵	1263
+646	Xiamen	t ɔ ŋ ³³	t ɔ ŋ ³³	1263
+647	Yangzhou	t ɔu ŋ ⁵⁵	t ɔu ŋ ⁵⁵	1263
+648	ZhongyuanYinyun	t u ŋ ⁵¹	t u ŋ ⁵¹	1263
+649	Beijing	x w o ³⁵	x w o - ³⁵	1267
+650	Changsha	x o ²⁴	x - o - ²⁴	1267
+651	Chaozhou	a p ⁴	- - a p ⁴	1267
+652	Chengdu	x o ³¹	x - o - ³¹	1267
+653	Fuzhou	w a ʔ ⁴	- w a ʔ ⁴	1267
+654	Guangzhou	w u t ²	- w u t ²	1267
+655	Hankou	x o ²¹³	x - o - ²¹³	1267
+656	Jinan	x w ə ⁴²	x w ə - ⁴²	1267
+657	Meixian	f a t ⁵	- f a t ⁵	1267
+658	Nanchang	h w ɔ t ⁵	h w ɔ t ⁵	1267
+659	Shanghai	w a ʔ ¹³	- w a ʔ ¹³	1267
+660	Shuangfeng	x w e ³⁵	x w e - ³⁵	1267
+661	Suzhou	ɦ w ɤ ʔ ²³	ɦ w ɤ ʔ ²³	1267
+662	Taiyuan	x w ə ʔ ²	x w ə ʔ ²	1267
+663	Wenzhou	ɦ o ²¹²	ɦ - o - ²¹²	1267
+664	XiAn	x w o ²⁴	x w o - ²⁴	1267
+665	Xiamen	h w a t ³²	h w a t ³²	1267
+666	Yangzhou	w ə ʔ ⁴	- w ə ʔ ⁴	1267
+667	ZhongyuanYinyun	x w o ²¹⁴	x w o - ²¹⁴	1267
+668	Beijing	l j ou ³⁵	l j ou ³⁵	1269
+669	Changsha	n j ɤu ¹³	n j ɤu ¹³	1269
+670	Chaozhou	l j u ⁵⁵	l j u ⁵⁵	1269
+671	Chengdu	n j əu ³¹	n j əu ³¹	1269
+672	Fuzhou	l j eu ⁵²	l j eu ⁵²	1269
+673	Guangzhou	l au ²¹	l - au ²¹	1269
+674	Hankou	n j ou ²¹³	n j ou ²¹³	1269
+675	Jinan	l j ou ⁴²	l j ou ⁴²	1269
+676	Meixian	l j u ¹¹	l j u ¹¹	1269
+677	Nanchang	l j u ⁴⁵	l j u ⁴⁵	1269
+678	Shanghai	l j ɯ ¹³	l j ɯ ¹³	1269
+679	Shuangfeng	n j ʊ ²³	n j ʊ ²³	1269
+680	Suzhou	l øy ²⁴	l - øy ²⁴	1269
+681	Taiyuan	l j ou ¹¹	l j ou ¹¹	1269
+682	Wenzhou	l j u ³¹	l j u ³¹	1269
+683	XiAn	l j ou ²⁴	l j ou ²⁴	1269
+684	Xiamen	l j u ²⁴	l j u ²⁴	1269
+685	Yangzhou	l j ɤɯ ³⁴	l j ɤɯ ³⁴	1269
+686	ZhongyuanYinyun	l j ou ⁵⁵	l j ou ⁵⁵	1269
+687	Beijing	f ou ³⁵	- f ou ³⁵	1272
+688	Changsha	x ɤu ¹³	x - ɤu ¹³	1272
+689	Chaozhou	pʰ u ⁵⁵	- pʰ u ⁵⁵	1272
+690	Chengdu	f əu ³¹	- f əu ³¹	1272
+691	Fuzhou	pʰ eu ⁵²	- pʰ eu ⁵²	1272
+692	Guangzhou	f au ²¹	- f au ²¹	1272
+693	Hankou	f ou ²¹³	- f ou ²¹³	1272
+694	Jinan	f u ⁴²	- f u ⁴²	1272
+695	Meixian	f ɛu ¹¹	- f ɛu ¹¹	1272
+696	Nanchang	ɸ w ɛu ⁴⁵	ɸ w ɛu ⁴⁵	1272
+697	Shanghai	p ɤ ¹³	- p ɤ ¹³	1272
+698	Shuangfeng	ɣ w e ²³	ɣ w e ²³	1272
+699	Suzhou	v øy ²⁴	- v øy ²⁴	1272
+700	Taiyuan	f u ¹¹	- f u ¹¹	1272
+701	Wenzhou	v ɛ ³¹	- v ɛ ³¹	1272
+702	XiAn	f u ²⁴	- f u ²⁴	1272
+703	Xiamen	h u ²⁴	h - u ²⁴	1272
+704	Yangzhou	f u ³⁴	- f u ³⁴	1272
+705	ZhongyuanYinyun	f u ⁵⁵	- f u ⁵⁵	1272
+706	Beijing	x ai ²¹⁴	x - ai ²¹⁴	1273
+707	Changsha	x ai ⁴¹	x - ai ⁴¹	1273
+708	Chaozhou	h ai ⁵³	h - ai ⁵³	1273
+709	Chengdu	x ai ⁵³	x - ai ⁵³	1273
+710	Fuzhou	x ai ³¹	x - ai ³¹	1273
+711	Guangzhou	h ɔi ³⁵	h - ɔi ³⁵	1273
+712	Hankou	x ai ⁴²	x - ai ⁴²	1273
+713	Jinan	x ɛ ⁵⁵	x - ɛ ⁵⁵	1273
+714	Meixian	h ɔi ³¹	h - ɔi ³¹	1273
+715	Nanchang	h ai ²¹³	h - ai ²¹³	1273
+716	Shanghai	h ɛ ⁵⁵	h - ɛ ⁵⁵	1273
+717	Shuangfeng	x w e ²¹	x w e ²¹	1273
+718	Suzhou	h ɛ ⁵²	h - ɛ ⁵²	1273
+719	Taiyuan	x ai ⁵³	x - ai ⁵³	1273
+720	Wenzhou	x ɛ ⁴⁵	x - ɛ ⁴⁵	1273
+721	XiAn	x ɛ ⁵³	x - ɛ ⁵³	1273
+722	Xiamen	h ai ⁵¹	h - ai ⁵¹	1273
+723	Yangzhou	x ɛ ⁴²	x - ɛ ⁴²	1273
+724	ZhongyuanYinyun	x ai ³⁵	x - ai ³⁵	1273
+725	Beijing	tʰ i ⁵¹	tʰ i - ⁵¹	1276
+726	Changsha	tʰ i ⁵⁵	tʰ i - ⁵⁵	1276
+727	Chaozhou	tʰ i ²¹³	tʰ i - ²¹³	1276
+728	Chengdu	tʰ i ¹³	tʰ i - ¹³	1276
+729	Fuzhou	tʰ a ²¹³	tʰ a - ²¹³	1276
+730	Guangzhou	tʰ ai ³³	tʰ ai - ³³	1276
+731	Hankou	tʰ i ³⁵	tʰ i - ³⁵	1276
+732	Jinan	tʰ i ²¹	tʰ i - ²¹	1276
+733	Meixian	tʰ i ⁵²	tʰ i - ⁵²	1276
+734	Nanchang	tʰ i t ⁵	tʰ i t ⁵	1276
+735	Shanghai	tʰ i ⁵⁵	tʰ i - ⁵⁵	1276
+736	Shuangfeng	tʰ i ³⁵	tʰ i - ³⁵	1276
+737	Suzhou	tʰ i ⁴¹²	tʰ i - ⁴¹²	1276
+738	Taiyuan	tʰ i ⁴⁵	tʰ i - ⁴⁵	1276
+739	Wenzhou	tʰ ei ⁴²	tʰ ei - ⁴²	1276
+740	XiAn	tʰ i ⁵⁵	tʰ i - ⁵⁵	1276
+741	Xiamen	tʰ e ¹¹	tʰ e - ¹¹	1276
+742	Yangzhou	tʰ i ⁵⁵	tʰ i - ⁵⁵	1276
+743	ZhongyuanYinyun	tʰ i ⁵¹	tʰ i - ⁵¹	1276
+744	Beijing	t a n ⁵¹	t a n ⁵¹	1282
+745	Changsha	t a n ⁵⁵	t a n ⁵⁵	1282
+746	Chaozhou	t aː ³⁵	t aː - ³⁵	1282
+747	Chengdu	t a n ¹³	t a n ¹³	1282
+748	Fuzhou	t a ŋ ²⁴²	t a ŋ ²⁴²	1282
+749	Guangzhou	t aː m ²²	t aː m ²²	1282
+750	Hankou	t a n ³⁵	t a n ³⁵	1282
+751	Jinan	t aː ²¹	t aː - ²¹	1282
+752	Meixian	tʰ a m ⁵²	tʰ a m ⁵²	1282
+753	Nanchang	tʰ a n ²¹	tʰ a n ²¹	1282
+754	Shanghai	t ɛ ¹³	t ɛ - ¹³	1282
+755	Shuangfeng	d aː ³³	d aː - ³³	1282
+756	Suzhou	d ɛ ³¹	d ɛ - ³¹	1282
+757	Taiyuan	t æː ⁴⁵	t æː - ⁴⁵	1282
+758	Wenzhou	d a ³⁴	d a - ³⁴	1282
+759	XiAn	t aː ⁵⁵	t aː - ⁵⁵	1282
+760	Xiamen	t a m ³³	t a m ³³	1282
+761	Yangzhou	t ɛː ⁵⁵	t ɛː - ⁵⁵	1282
+762	ZhongyuanYinyun	t a m ⁵¹	t a m ⁵¹	1282
+763	Beijing	ʂ ə n ⁵⁵	ʂ - ə n ⁵⁵	1285
+764	Changsha	ʂ ə n ³³	ʂ - ə n ³³	1285
+765	Chaozhou	tsʰ i m ³³	tsʰ - i m ³³	1285
+766	Chengdu	s ə n ⁴⁴	s - ə n ⁴⁴	1285
+767	Fuzhou	s i ŋ ⁴⁴	s - i ŋ ⁴⁴	1285
+768	Guangzhou	ʃ a m ⁵⁵	ʃ - a m ⁵⁵	1285
+769	Hankou	s ə n ⁵⁵	s - ə n ⁵⁵	1285
+770	Jinan	ʂ eː ²¹³	ʂ - eː - ²¹³	1285
+771	Meixian	tsʰ ə m ⁴⁴	tsʰ - ə m ⁴⁴	1285
+772	Nanchang	s ə n ⁴²	s - ə n ⁴²	1285
+773	Shanghai	s ə ŋ ⁵³	s - ə ŋ ⁵³	1285
+774	Shuangfeng	ɕ i n ⁵⁵	ɕ - i n ⁵⁵	1285
+775	Suzhou	s ə n ⁴⁴	s - ə n ⁴⁴	1285
+776	Taiyuan	s ə ŋ ¹¹	s - ə ŋ ¹¹	1285
+777	Wenzhou	s a ŋ ⁴⁴	s - a ŋ ⁴⁴	1285
+778	XiAn	ʂ eː ²¹	ʂ - eː - ²¹	1285
+779	Xiamen	tsʰ i m ⁵⁵	tsʰ - i m ⁵⁵	1285
+780	Yangzhou	s ə n ²¹	s - ə n ²¹	1285
+781	ZhongyuanYinyun	ʃ j ə m ⁵⁵	ʃ j ə m ⁵⁵	1285
+782	Beijing	tɕʰ i ŋ ⁵⁵	tɕʰ - i ŋ ⁵⁵	1290
+783	Changsha	tsʰ i n ³³	tsʰ - i n ³³	1290
+784	Chaozhou	tsʰ e ŋ ³³	tsʰ - e ŋ ³³	1290
+785	Chengdu	tɕʰ i n ⁴⁴	tɕʰ - i n ⁴⁴	1290
+786	Fuzhou	tsʰ i ŋ ⁴⁴	tsʰ - i ŋ ⁴⁴	1290
+787	Guangzhou	tʃʰ ɪ ŋ ⁵⁵	tʃʰ - ɪ ŋ ⁵⁵	1290
+788	Hankou	tɕʰ i n ⁵⁵	tɕʰ - i n ⁵⁵	1290
+789	Jinan	tɕʰ i ŋ ²¹³	tɕʰ - i ŋ ²¹³	1290
+790	Meixian	tsʰ i n ⁴⁴	tsʰ - i n ⁴⁴	1290
+791	Nanchang	tɕʰ i n ⁴²	tɕʰ - i n ⁴²	1290
+792	Shanghai	tsʰ i ŋ ⁵³	tsʰ - i ŋ ⁵³	1290
+793	Shuangfeng	tɕʰ i n ⁵⁵	tɕʰ - i n ⁵⁵	1290
+794	Suzhou	tsʰ i n ⁴⁴	tsʰ - i n ⁴⁴	1290
+795	Taiyuan	tɕʰ i ŋ ¹¹	tɕʰ - i ŋ ¹¹	1290
+796	Wenzhou	tsʰ e ŋ ⁴⁴	tsʰ - e ŋ ⁴⁴	1290
+797	XiAn	tɕʰ i ŋ ²¹	tɕʰ - i ŋ ²¹	1290
+798	Xiamen	tsʰ ɪ ŋ ⁵⁵	tsʰ - ɪ ŋ ⁵⁵	1290
+799	Yangzhou	tɕʰ iː ²¹	tɕʰ - iː - ²¹	1290
+800	ZhongyuanYinyun	tsʰ j ə ŋ ⁵⁵	tsʰ j ə ŋ ⁵⁵	1290
+801	Beijing	kʰ ɤ ²¹⁴	kʰ - ɤ - ²¹⁴	1297
+802	Changsha	kʰ o ²⁴	kʰ - o - ²⁴	1297
+803	Chaozhou	kʰ w a ʔ ²¹	kʰ w a ʔ ²¹	1297
+804	Chengdu	kʰ o ³¹	kʰ - o - ³¹	1297
+805	Fuzhou	kʰ a ʔ ²³	kʰ - a ʔ ²³	1297
+806	Guangzhou	h ɔ t ³	h - ɔ t ³	1297
+807	Hankou	kʰ o ²¹³	kʰ - o - ²¹³	1297
+808	Jinan	kʰ ə ⁵⁵	kʰ - ə - ⁵⁵	1297
+809	Meixian	kʰ ɔ t ¹	kʰ - ɔ t ¹	1297
+810	Nanchang	kʰ ɔ t ⁵	kʰ - ɔ t ⁵	1297
+811	Shanghai	kʰ ɤ ʔ ⁵	kʰ - ɤ ʔ ⁵	1297
+812	Shuangfeng	kʰ j ɛ ²³	kʰ j ɛ - ²³	1297
+813	Suzhou	kʰ ɤ ʔ ⁴	kʰ - ɤ ʔ ⁴	1297
+814	Taiyuan	kʰ ə ʔ ²	kʰ - ə ʔ ²	1297
+815	Wenzhou	kʰ ø ³²³	kʰ - ø - ³²³	1297
+816	XiAn	kʰ ɤ ²¹	kʰ - ɤ - ²¹	1297
+817	Xiamen	kʰ a t ³²	kʰ - a t ³²	1297
+818	Yangzhou	kʰ ə ʔ ⁴	kʰ - ə ʔ ⁴	1297
+819	ZhongyuanYinyun	kʰ o ²¹⁴	kʰ - o - ²¹⁴	1297
+820	Beijing	j ou ³⁵	- j ou ³⁵	1298
+821	Changsha	j ɤu ¹³	- j ɤu ¹³	1298
+822	Chaozhou	j u ⁵⁵	- j u ⁵⁵	1298
+823	Chengdu	j əu ³¹	- j əu ³¹	1298
+824	Fuzhou	j eu ⁵²	- j eu ⁵²	1298
+825	Guangzhou	j au ²¹	- j au ²¹	1298
+826	Hankou	j ou ²¹³	- j ou ²¹³	1298
+827	Jinan	j ou ⁴²	- j ou ⁴²	1298
+828	Meixian	j j u ¹¹	j j u ¹¹	1298
+829	Nanchang	j u ⁴⁵	- j u ⁴⁵	1298
+830	Shuangfeng	j ʊ ²³	- j ʊ ²³	1298
+831	Suzhou	j øy ²⁴	- j øy ²⁴	1298
+832	Taiyuan	j ou ¹¹	- j ou ¹¹	1298
+833	Wenzhou	ɦ j au ³¹	ɦ j au ³¹	1298
+834	XiAn	j ou ²⁴	- j ou ²⁴	1298
+835	Xiamen	j u ²⁴	- j u ²⁴	1298
+836	Yangzhou	j ɤɯ ³⁴	- j ɤɯ ³⁴	1298
+837	Beijing	l ou ⁵¹	l - ou ⁵¹	1320
+838	Changsha	n ɤu ⁵⁵	n - ɤu ⁵⁵	1320
+839	Chaozhou	l au ¹¹	l - au ¹¹	1320
+840	Chengdu	n əu ¹³	n - əu ¹³	1320
+841	Fuzhou	l au ²⁴²	l - au ²⁴²	1320
+842	Guangzhou	l au ²²	l - au ²²	1320
+843	Hankou	n ou ³⁵	n - ou ³⁵	1320
+844	Jinan	l ou ²¹	l - ou ²¹	1320
+845	Meixian	l ɛu ⁵²	l - ɛu ⁵²	1320
+846	Nanchang	l ɛu ²¹	l - ɛu ²¹	1320
+847	Shanghai	l ɤ ¹³	l - ɤ ¹³	1320
+848	Shuangfeng	n j e ³³	n j e ³³	1320
+849	Suzhou	l øy ³¹	l - øy ³¹	1320
+850	Taiyuan	l ou ⁴⁵	l - ou ⁴⁵	1320
+851	Wenzhou	l au ²²	l - au ²²	1320
+852	XiAn	l ou ⁵⁵	l - ou ⁵⁵	1320
+853	Xiamen	l ɔ ³³	l - ɔ ³³	1320
+854	Yangzhou	l ɤɯ ⁵⁵	l - ɤɯ ⁵⁵	1320
+855	ZhongyuanYinyun	l ou ⁵¹	l - ou ⁵¹	1320
+856	Beijing	x w o ²¹⁴	x w o ²¹⁴	1352
+857	Changsha	x o ⁴¹	x - o ⁴¹	1352
+858	Chaozhou	h w e ⁵³	h w e ⁵³	1352
+859	Chengdu	x o ⁵³	x - o ⁵³	1352
+860	Fuzhou	x w ɔ ³¹	x w ɔ ³¹	1352
+861	Guangzhou	f ɔ ³⁵	f - ɔ ³⁵	1352
+862	Hankou	x o ⁴²	x - o ⁴²	1352
+863	Jinan	x w ə ⁵⁵	x w ə ⁵⁵	1352
+864	Meixian	f ɔ ³¹	f - ɔ ³¹	1352
+865	Nanchang	ɸ w o ²¹³	ɸ w o ²¹³	1352
+866	Shanghai	h u ⁵⁵	h - u ⁵⁵	1352
+867	Shuangfeng	x ʊ ²¹	x - ʊ ²¹	1352
+868	Suzhou	h əu ⁵²	h - əu ⁵²	1352
+869	Taiyuan	x w ə ⁵³	x w ə ⁵³	1352
+870	Wenzhou	f u ⁴⁵	f - u ⁴⁵	1352
+871	XiAn	x w o ⁵³	x w o ⁵³	1352
+872	Xiamen	h o ⁵¹	h - o ⁵¹	1352
+873	Yangzhou	x o ⁴²	x - o ⁴²	1352
+874	ZhongyuanYinyun	x w o ³⁵	x w o ³⁵	1352
+875	Beijing	x w ei ⁵⁵	x w ei ⁵⁵	1353
+876	Changsha	f ei ³³	f - ei ³³	1353
+877	Chaozhou	h w e ³³	h w e ³³	1353
+878	Chengdu	x w ei ⁴⁴	x w ei ⁴⁴	1353
+879	Fuzhou	x w ei ⁴⁴	x w ei ⁴⁴	1353
+880	Guangzhou	f w i ⁵⁵	f w i ⁵⁵	1353
+881	Hankou	x w ei ⁵⁵	x w ei ⁵⁵	1353
+882	Jinan	x w ei ²¹³	x w ei ²¹³	1353
+883	Meixian	f ɔi ⁴⁴	f - ɔi ⁴⁴	1353
+884	Nanchang	ɸ w i ⁴²	ɸ w i ⁴²	1353
+885	Shanghai	h u ɛ ⁵³	h u ɛ ⁵³	1353
+886	Shuangfeng	x w e ⁵⁵	x w e ⁵⁵	1353
+887	Suzhou	h u ɛ ⁴⁴	h u ɛ ⁴⁴	1353
+888	Taiyuan	x w ei ¹¹	x w ei ¹¹	1353
+889	Wenzhou	f ai ⁴⁴	f - ai ⁴⁴	1353
+890	XiAn	x w ei ²¹	x w ei ²¹	1353
+891	Xiamen	h w e ⁵⁵	h w e ⁵⁵	1353
+892	Yangzhou	x w əi ²¹	x w əi ²¹	1353
+893	ZhongyuanYinyun	x w ei ⁵⁵	x w ei ⁵⁵	1353
+894	Beijing	ts au ⁵¹	ts au ⁵¹	1354
+895	Changsha	ts au ⁵⁵	ts au ⁵⁵	1354
+896	Chaozhou	ts au ²¹³	ts au ²¹³	1354
+897	Chengdu	ts au ¹³	ts au ¹³	1354
+898	Fuzhou	ts au ²¹³	ts au ²¹³	1354
+899	Guangzhou	tʃ ou ³³	tʃ ou ³³	1354
+900	Hankou	ts au ³⁵	ts au ³⁵	1354
+901	Jinan	ts ɔ ²¹	ts ɔ ²¹	1354
+902	Meixian	ts au ⁵²	ts au ⁵²	1354
+903	Nanchang	ts au ⁴⁵	ts au ⁴⁵	1354
+904	Shanghai	ts ɔ ⁵⁵	ts ɔ ⁵⁵	1354
+905	Shuangfeng	ts ə ³⁵	ts ə ³⁵	1354
+906	Suzhou	ts æ ⁴¹²	ts æ ⁴¹²	1354
+907	Taiyuan	ts au ⁴⁵	ts au ⁴⁵	1354
+908	Wenzhou	ts ɜ ⁴²	ts ɜ ⁴²	1354
+909	XiAn	ts au ⁵⁵	ts au ⁵⁵	1354
+910	Xiamen	ts u ¹¹	ts u ¹¹	1354
+911	Yangzhou	ts ɔ ⁵⁵	ts ɔ ⁵⁵	1354
+912	Beijing	ʈʂʰ au ²¹⁴	ʈʂʰ au ²¹⁴	1358
+913	Changsha	tsʰ au ⁴¹	tsʰ au ⁴¹	1358
+914	Chaozhou	tsʰ a ⁵³	tsʰ a ⁵³	1358
+915	Chengdu	tsʰ au ⁵³	tsʰ au ⁵³	1358
+916	Fuzhou	tsʰ au ³¹	tsʰ au ³¹	1358
+917	Guangzhou	tʃʰ aːu ³⁵	tʃʰ aːu ³⁵	1358
+918	Hankou	tsʰ au ⁴²	tsʰ au ⁴²	1358
+919	Jinan	ʈʂʰ ɔ ⁵⁵	ʈʂʰ ɔ ⁵⁵	1358
+920	Meixian	tsʰ au ³¹	tsʰ au ³¹	1358
+921	Nanchang	tsʰ au ²¹³	tsʰ au ²¹³	1358
+922	Shanghai	tsʰ ɔ ⁵⁵	tsʰ ɔ ⁵⁵	1358
+923	Shuangfeng	tsʰ ə ²¹	tsʰ ə ²¹	1358
+924	Suzhou	tsʰ æ ⁵²	tsʰ æ ⁵²	1358
+925	Taiyuan	tsʰ au ⁵³	tsʰ au ⁵³	1358
+926	Wenzhou	tsʰ ɔ ⁴⁵	tsʰ ɔ ⁴⁵	1358
+927	XiAn	tsʰ au ⁵³	tsʰ au ⁵³	1358
+928	Xiamen	tsʰ au ⁵¹	tsʰ au ⁵¹	1358
+929	Yangzhou	tsʰ ɔ ⁴²	tsʰ ɔ ⁴²	1358
+930	ZhongyuanYinyun	tʃʰ au ³⁵	tʃʰ au ³⁵	1358
+931	Beijing	ʈʂ a ³⁵	ʈʂ - a - ³⁵	1362
+932	Changsha	ts a ⁵⁵	ts - a - ⁵⁵	1362
+933	Chaozhou	ts a ²¹³	ts - a - ²¹³	1362
+934	Chengdu	ts a ³¹	ts - a - ³¹	1362
+935	Fuzhou	ts a ʔ ⁴	ts - a ʔ ⁴	1362
+936	Guangzhou	tʃ a ³³	tʃ - a - ³³	1362
+937	Hankou	ts a ²¹³	ts - a - ²¹³	1362
+938	Jinan	ʈʂ a ⁴²	ʈʂ - a - ⁴²	1362
+939	Meixian	ts a ⁵²	ts - a - ⁵²	1362
+940	Nanchang	ts a t ⁵	ts - a t ⁵	1362
+941	Shanghai	ts o ⁵⁵	ts - o - ⁵⁵	1362
+942	Shuangfeng	tʰ j ɛ ³⁵	tʰ j ɛ - ³⁵	1362
+943	Suzhou	z a ʔ ²³	z - a ʔ ²³	1362
+944	Taiyuan	ts a ʔ ⁵⁴	ts - a ʔ ⁵⁴	1362
+945	Wenzhou	ts a ⁴²	ts - a - ⁴²	1362
+946	XiAn	ts a ²⁴	ts - a - ²⁴	1362
+947	Xiamen	ts a ¹¹	ts - a - ¹¹	1362
+948	Yangzhou	ts a ʔ ⁴	ts - a ʔ ⁴	1362
+949	Beijing	u ⁵⁵	- u ⁵⁵	1365
+950	Changsha	u ³³	- u ³³	1365
+951	Chaozhou	ou ³³	- ou ³³	1365
+952	Chengdu	v u ⁴⁴	v u ⁴⁴	1365
+953	Fuzhou	u ⁴⁴	- u ⁴⁴	1365
+954	Guangzhou	w u ⁵⁵	w u ⁵⁵	1365
+955	Hankou	u ⁵⁵	- u ⁵⁵	1365
+956	Jinan	u ²¹³	- u ²¹³	1365
+957	Meixian	v u ⁴⁴	v u ⁴⁴	1365
+958	Nanchang	u ⁴²	- u ⁴²	1365
+959	Shanghai	u ⁵³	- u ⁵³	1365
+960	Shuangfeng	əu ⁵⁵	- əu ⁵⁵	1365
+961	Suzhou	əu ⁴⁴	- əu ⁴⁴	1365
+962	Taiyuan	v u ¹¹	v u ¹¹	1365
+963	Wenzhou	u ⁴⁴	- u ⁴⁴	1365
+964	XiAn	u ²¹	- u ²¹	1365
+965	Xiamen	ɔ ⁵⁵	- ɔ ⁵⁵	1365
+966	Yangzhou	u ²¹	- u ²¹	1365
+967	ZhongyuanYinyun	u ⁵⁵	- u ⁵⁵	1365
+968	Beijing	kʰ au ²¹⁴	kʰ au ²¹⁴	1368
+969	Changsha	kʰ au ⁴¹	kʰ au ⁴¹	1368
+970	Chaozhou	kʰ au ⁵³	kʰ au ⁵³	1368
+971	Chengdu	kʰ au ⁵³	kʰ au ⁵³	1368
+972	Fuzhou	kʰ ɔ ³¹	kʰ ɔ ³¹	1368
+973	Guangzhou	h aːu ³⁵	h aːu ³⁵	1368
+974	Hankou	kʰ au ⁴²	kʰ au ⁴²	1368
+975	Jinan	kʰ ɔ ⁵⁵	kʰ ɔ ⁵⁵	1368
+976	Meixian	kʰ au ³¹	kʰ au ³¹	1368
+977	Nanchang	kʰ au ²¹³	kʰ au ²¹³	1368
+978	Shanghai	kʰ ɔ ⁵⁵	kʰ ɔ ⁵⁵	1368
+979	Shuangfeng	kʰ ə ²¹	kʰ ə ²¹	1368
+980	Suzhou	kʰ æ ⁵²	kʰ æ ⁵²	1368
+981	Taiyuan	kʰ au ⁵³	kʰ au ⁵³	1368
+982	Wenzhou	kʰ ɜ ⁴⁵	kʰ ɜ ⁴⁵	1368
+983	XiAn	kʰ au ⁵³	kʰ au ⁵³	1368
+984	Xiamen	kʰ o ⁵¹	kʰ o ⁵¹	1368
+985	Yangzhou	kʰ ɔ ⁴²	kʰ ɔ ⁴²	1368
+986	Beijing	ʈʂ u ²¹⁴	ʈʂ - u ²¹⁴	1379
+987	Changsha	tɕ y ⁴¹	tɕ - y ⁴¹	1379
+988	Chaozhou	ts ɯ ⁵³	ts - ɯ ⁵³	1379
+989	Chengdu	ts u ⁵³	ts - u ⁵³	1379
+990	Fuzhou	ts y ³¹	ts - y ³¹	1379
+991	Guangzhou	tʃ y ³⁵	tʃ - y ³⁵	1379
+992	Hankou	tɕ u ⁴²	tɕ - u ⁴²	1379
+993	Jinan	ʈʂ u ⁵⁵	ʈʂ - u ⁵⁵	1379
+994	Meixian	ts u ³¹	ts - u ³¹	1379
+995	Nanchang	tɕ y ²¹³	tɕ - y ²¹³	1379
+996	Shanghai	ts ɥ ⁵⁵	ts - ɥ ⁵⁵	1379
+997	Shuangfeng	t y ²¹	t - y ²¹	1379
+998	Suzhou	ts ɥ ⁵²	ts - ɥ ⁵²	1379
+999	Taiyuan	ts u ⁵³	ts - u ⁵³	1379
+1000	Wenzhou	ts ei ⁴⁵	ts - ei ⁴⁵	1379
+1001	XiAn	pf u ⁵³	- pf u ⁵³	1379
+1002	Xiamen	ts u ⁵¹	ts - u ⁵¹	1379
+1003	Yangzhou	ts u ⁴²	ts - u ⁴²	1379
+1004	ZhongyuanYinyun	tʃ j u ³⁵	tʃ j u ³⁵	1379
+1005	Beijing	ɕ y ŋ ³⁵	ɕ - y ŋ ³⁵	1381
+1006	Changsha	ɕ j o ŋ ³³	ɕ j o ŋ ³³	1381
+1007	Chaozhou	h i m ⁵⁵	h - i m ⁵⁵	1381
+1008	Chengdu	ɕ ɥ o ŋ ³¹	ɕ ɥ o ŋ ³¹	1381
+1009	Fuzhou	x y ŋ ⁵²	x - y ŋ ⁵²	1381
+1010	Guangzhou	h u ŋ ²¹	h - u ŋ ²¹	1381
+1011	Hankou	ɕ j o ŋ ²¹³	ɕ j o ŋ ²¹³	1381
+1012	Jinan	ɕ y ŋ ⁴²	ɕ - y ŋ ⁴²	1381
+1013	Meixian	h j u ŋ ¹¹	h j u ŋ ¹¹	1381
+1014	Nanchang	ɕ j u ŋ ⁴⁵	ɕ j u ŋ ⁴⁵	1381
+1015	Shanghai	j o ŋ ¹³	- j o ŋ ¹³	1381
+1016	Shuangfeng	ɣ i n ²³	ɣ - i n ²³	1381
+1017	Suzhou	j o ŋ ²⁴	- j o ŋ ²⁴	1381
+1018	Taiyuan	ɕ y ŋ ¹¹	ɕ - y ŋ ¹¹	1381
+1019	Wenzhou	ɦ ɥ o ŋ ³¹	ɦ ɥ o ŋ ³¹	1381
+1020	XiAn	ɕ y ŋ ²⁴	ɕ - y ŋ ²⁴	1381
+1021	Xiamen	h j ɔ ŋ ⁵⁵	h j ɔ ŋ ⁵⁵	1381
+1022	Yangzhou	ɕ j ɔu ŋ ³⁴	ɕ j ɔu ŋ ³⁴	1381
+1023	ZhongyuanYinyun	x j u ŋ ⁵⁵	x j u ŋ ⁵⁵	1381
+1024	Beijing	ʂ ou ³⁵	ʂ - ou - ³⁵	1382
+1025	Changsha	ʂ ɤu ²⁴	ʂ - ɤu - ²⁴	1382
+1026	Chaozhou	s e k ⁴	s - e k ⁴	1382
+1027	Chengdu	s u ³¹	s - u - ³¹	1382
+1028	Fuzhou	s y ʔ ⁴	s - y ʔ ⁴	1382
+1029	Guangzhou	ʃ u k ²	ʃ - u k ²	1382
+1030	Hankou	s ou ²¹³	s - ou - ²¹³	1382
+1031	Jinan	ʂ u ⁴²	ʂ - u - ⁴²	1382
+1032	Meixian	s u k ⁵	s - u k ⁵	1382
+1033	Nanchang	s u k ⁵	s - u k ⁵	1382
+1034	Shanghai	z o ʔ ¹³	z - o ʔ ¹³	1382
+1035	Shuangfeng	ɕ j ʊ ³⁵	ɕ j ʊ - ³⁵	1382
+1036	Suzhou	z o ʔ ²³	z - o ʔ ²³	1382
+1037	Taiyuan	s w ə ʔ ⁵⁴	s w ə ʔ ⁵⁴	1382
+1038	Wenzhou	ɦ j u ²¹²	ɦ j u - ²¹²	1382
+1039	XiAn	f u ²⁴	f - u - ²⁴	1382
+1040	Xiamen	s ɪ k ⁵	s - ɪ k ⁵	1382
+1041	Yangzhou	s ɔ ʔ ⁴	s - ɔ ʔ ⁴	1382
+1042	ZhongyuanYinyun	ʃ j ou ²¹⁴	ʃ j ou - ²¹⁴	1382
+1043	Beijing	ʐ a n ³⁵	ʐ - a n ³⁵	1386
+1044	Changsha	yeː ¹³	- - yeː - ¹³	1386
+1045	Chaozhou	z j e ŋ ⁵⁵	z j e ŋ ⁵⁵	1386
+1046	Chengdu	z a n ³¹	z - a n ³¹	1386
+1047	Fuzhou	ɥ ɔ ŋ ⁵²	- ɥ ɔ ŋ ⁵²	1386
+1048	Guangzhou	j i n ²¹	- j i n ²¹	1386
+1049	Hankou	n a n ²¹³	n - a n ²¹³	1386
+1050	Jinan	ʐ aː ⁵⁵	ʐ - aː - ⁵⁵	1386
+1051	Meixian	j a n ¹¹	- j a n ¹¹	1386
+1052	Nanchang	l ɛ n ⁴⁵	l - ɛ n ⁴⁵	1386
+1053	Shanghai	z ø ¹³	z - ø - ¹³	1386
+1054	Shuangfeng	ɪː ²³	- - ɪː - ²³	1386
+1055	Suzhou	z ø ²⁴	z - ø - ²⁴	1386
+1056	Taiyuan	z æː ¹¹	z - æː - ¹¹	1386
+1057	XiAn	ʐ aː ²⁴	ʐ - aː - ²⁴	1386
+1058	Xiamen	h iaː ²⁴	h - iaː - ²⁴	1386
+1059	Yangzhou	ɪː ³⁴	- - ɪː - ³⁴	1386
+1060	ZhongyuanYinyun	ʒ j e n ⁵⁵	ʒ j e n ⁵⁵	1386
+1061	Beijing	j a n ⁵¹	j a n ⁵¹	1390
+1062	Changsha	ieː ⁵⁵	- ieː - ⁵⁵	1390
+1063	Chaozhou	j e ŋ ²¹³	j e ŋ ²¹³	1390
+1064	Chengdu	j a n ¹³	j a n ¹³	1390
+1065	Fuzhou	j e ŋ ²¹³	j e ŋ ²¹³	1390
+1066	Guangzhou	j i n ³³	j i n ³³	1390
+1067	Hankou	j a n ³⁵	j a n ³⁵	1390
+1068	Jinan	iaː ²¹	- iaː - ²¹	1390
+1069	Meixian	j a n ⁵²	j a n ⁵²	1390
+1070	Nanchang	j ɛ n ²¹³	j ɛ n ²¹³	1390
+1071	Shanghai	ɪ ⁵⁵	- ɪ - ⁵⁵	1390
+1072	Shuangfeng	ɪː ³⁵	- ɪː - ³⁵	1390
+1073	Suzhou	ɪ ⁴¹²	- ɪ - ⁴¹²	1390
+1074	Taiyuan	j ɛ ⁴⁵	j ɛ - ⁴⁵	1390
+1075	Wenzhou	i ⁴⁵	- i - ⁴⁵	1390
+1076	XiAn	iaː ⁵⁵	- iaː - ⁵⁵	1390
+1077	Xiamen	j a n ¹¹	j a n ¹¹	1390
+1078	Yangzhou	ɪː ⁵⁵	- ɪː - ⁵⁵	1390
+1079	ZhongyuanYinyun	j e n ⁵¹	j e n ⁵¹	1390
+1080	Beijing	ʈʂ au ²¹⁴	ʈʂ - au ²¹⁴	1397
+1081	Changsha	ts au ⁴¹	ts - au ⁴¹	1397
+1082	Chaozhou	z j əu ⁵³	z j əu ⁵³	1397
+1083	Chengdu	ts au ⁵³	ts - au ⁵³	1397
+1084	Fuzhou	ts ɔ ³¹	ts - ɔ ³¹	1397
+1085	Guangzhou	tʃ aːu ³⁵	tʃ - aːu ³⁵	1397
+1086	Hankou	ts au ⁴²	ts - au ⁴²	1397
+1087	Jinan	ʈʂ ɔ ⁵⁵	ʈʂ - ɔ ⁵⁵	1397
+1088	Meixian	ts au ³¹	ts - au ³¹	1397
+1089	Nanchang	ts au ²¹³	ts - au ²¹³	1397
+1090	Shanghai	ts ɔ ⁵⁵	ts - ɔ ⁵⁵	1397
+1091	Shuangfeng	ts ə ²¹	ts - ə ²¹	1397
+1092	Suzhou	ts æ ⁵²	ts - æ ⁵²	1397
+1093	Taiyuan	ts au ⁵³	ts - au ⁵³	1397
+1094	Wenzhou	ts ɔ ⁴⁵	ts - ɔ ⁴⁵	1397
+1095	XiAn	ts au ⁵³	ts - au ⁵³	1397
+1096	Xiamen	dz j au ⁵¹	dz j au ⁵¹	1397
+1097	Yangzhou	ts ɔ ⁴²	ts - ɔ ⁴²	1397
+1098	ZhongyuanYinyun	tʃ au ³⁵	tʃ - au ³⁵	1397
+1099	Beijing	pʰ a ³⁵	pʰ a ³⁵	1398
+1100	Changsha	p a ¹³	p a ¹³	1398
+1101	Chaozhou	p e ⁵⁵	p e ⁵⁵	1398
+1102	Chengdu	pʰ a ³¹	pʰ a ³¹	1398
+1103	Fuzhou	p a ⁵²	p a ⁵²	1398
+1104	Guangzhou	pʰ a ²¹	pʰ a ²¹	1398
+1105	Hankou	pʰ a ²¹³	pʰ a ²¹³	1398
+1106	Jinan	pʰ a ⁴²	pʰ a ⁴²	1398
+1107	Meixian	pʰ a ¹¹	pʰ a ¹¹	1398
+1108	Nanchang	pʰ a ²⁴	pʰ a ²⁴	1398
+1109	Shanghai	p o ¹³	p o ¹³	1398
+1110	Shuangfeng	b o ²³	b o ²³	1398
+1111	Suzhou	b o ²⁴	b o ²⁴	1398
+1112	Taiyuan	pʰ a ¹¹	pʰ a ¹¹	1398
+1113	Wenzhou	b o ³¹	b o ³¹	1398
+1114	XiAn	pʰ a ²⁴	pʰ a ²⁴	1398
+1115	Xiamen	p a ²⁴	p a ²⁴	1398
+1116	Yangzhou	pʰ ai ³⁴	pʰ ai ³⁴	1398
+1117	ZhongyuanYinyun	pʰ a ⁵⁵	pʰ a ⁵⁵	1398
+1118	Beijing	f u ⁵¹	f u ⁵¹	1400
+1119	Changsha	f u ⁵⁵	f u ⁵⁵	1400
+1120	Chaozhou	p e ³⁵	p e ³⁵	1400
+1121	Chengdu	f u ¹³	f u ¹³	1400
+1122	Fuzhou	x u ²⁴²	x u ²⁴²	1400
+1123	Guangzhou	f u ²²	f u ²²	1400
+1124	Hankou	f u ³⁵	f u ³⁵	1400
+1125	Jinan	f u ²¹	f u ²¹	1400
+1126	Meixian	f u ⁵²	f u ⁵²	1400
+1127	Nanchang	ɸ u ²¹	ɸ u ²¹	1400
+1128	Shanghai	v u ¹³	v u ¹³	1400
+1129	Shuangfeng	ɣ əu ³³	ɣ əu ³³	1400
+1130	Suzhou	v u ³¹	v u ³¹	1400
+1131	Taiyuan	f u ⁴⁵	f u ⁴⁵	1400
+1132	Wenzhou	v ɵy ³⁴	v ɵy ³⁴	1400
+1133	XiAn	f u ⁵⁵	f u ⁵⁵	1400
+1134	Xiamen	h u ³³	h u ³³	1400
+1135	Yangzhou	f u ⁵⁵	f u ⁵⁵	1400
+1136	ZhongyuanYinyun	f u ³⁵	f u ³⁵	1400
+1137	Beijing	p a ⁵¹	p a - ⁵¹	1401
+1138	Changsha	p a ²⁴	p a - ²⁴	1401
+1139	Chaozhou	p a ³³	p a - ³³	1401
+1140	Chengdu	p a ³¹	p a - ³¹	1401
+1141	Fuzhou	p a ⁴⁴	p a - ⁴⁴	1401
+1142	Guangzhou	p a ⁵⁵	p a - ⁵⁵	1401
+1143	Hankou	p a ²¹³	p a - ²¹³	1401
+1144	Jinan	p a ²¹	p a - ²¹	1401
+1145	Meixian	p a ⁴⁴	p a - ⁴⁴	1401
+1146	Nanchang	p a k ⁵	p a k ⁵	1401
+1147	Shanghai	p a ⁵³	p a - ⁵³	1401
+1148	Shuangfeng	p o ⁵⁵	p o - ⁵⁵	1401
+1149	Suzhou	p ɒ ⁴⁴	p ɒ - ⁴⁴	1401
+1150	Taiyuan	p a ⁴⁵	p a - ⁴⁵	1401
+1151	Wenzhou	p a ⁴⁴	p a - ⁴⁴	1401
+1152	XiAn	p a ⁵⁵	p a - ⁵⁵	1401
+1153	Xiamen	p a ³³	p a - ³³	1401
+1154	Yangzhou	p ai ⁵⁵	p ai - ⁵⁵	1401
+1155	Beijing	t j e ⁵⁵	t j e ⁵⁵	1402
+1156	Changsha	t j e ³³	t j e ³³	1402
+1157	Chaozhou	t j a ³³	t j a ³³	1402
+1158	Chengdu	t j e ⁴⁴	t j e ⁴⁴	1402
+1159	Fuzhou	t j e ⁴⁴	t j e ⁴⁴	1402
+1160	Guangzhou	t ɛ ⁵⁵	t - ɛ ⁵⁵	1402
+1161	Hankou	t j e ⁵⁵	t j e ⁵⁵	1402
+1162	Jinan	t j e ²¹³	t j e ²¹³	1402
+1163	Meixian	t j a ⁴⁴	t j a ⁴⁴	1402
+1164	Nanchang	t j ɛ ⁴²	t j ɛ ⁴²	1402
+1165	Shanghai	t j a ⁵³	t j a ⁵³	1402
+1166	Shuangfeng	t j o ⁵⁵	t j o ⁵⁵	1402
+1167	Suzhou	t j ɒ ⁴⁴	t j ɒ ⁴⁴	1402
+1168	Taiyuan	t j ɛ ¹¹	t j ɛ ¹¹	1402
+1169	Wenzhou	t ei ⁴⁴	t - ei ⁴⁴	1402
+1170	XiAn	t j e ²¹	t j e ²¹	1402
+1171	Xiamen	t j a ⁵⁵	t j a ⁵⁵	1402
+1172	Yangzhou	t ei ²¹	t - ei ²¹	1402
+1173	ZhongyuanYinyun	t j e ⁵⁵	t j e ⁵⁵	1402
+1174	Beijing	pʰ ai ³⁵	pʰ ai ³⁵	1407
+1175	Changsha	p ai ¹³	p ai ¹³	1407
+1176	Chaozhou	p ai ⁵⁵	p ai ⁵⁵	1407
+1177	Chengdu	pʰ ai ³¹	pʰ ai ³¹	1407
+1178	Fuzhou	p ɛ ⁵²	p ɛ ⁵²	1407
+1179	Guangzhou	pʰ aːi ²¹	pʰ aːi ²¹	1407
+1180	Hankou	pʰ ai ²¹³	pʰ ai ²¹³	1407
+1181	Jinan	pʰ ɛ ⁴²	pʰ ɛ ⁴²	1407
+1182	Meixian	pʰ ai ¹¹	pʰ ai ¹¹	1407
+1183	Nanchang	pʰ a ²⁴	pʰ a ²⁴	1407
+1184	Shanghai	p a ¹³	p a ¹³	1407
+1185	Shuangfeng	b a ²³	b a ²³	1407
+1186	Suzhou	b ɒ ²⁴	b ɒ ²⁴	1407
+1187	Taiyuan	pʰ ai ¹¹	pʰ ai ¹¹	1407
+1188	Wenzhou	b a ³¹	b a ³¹	1407
+1189	XiAn	pʰ ɛ ²⁴	pʰ ɛ ²⁴	1407
+1190	Xiamen	p ai ²⁴	p ai ²⁴	1407
+1191	Yangzhou	pʰ ɛ ³⁴	pʰ ɛ ³⁴	1407
+1192	ZhongyuanYinyun	pʰ ai ⁵⁵	pʰ ai ⁵⁵	1407
+1193	Beijing	j a ³⁵	j a ³⁵	1409
+1194	Changsha	j a ¹³	j a ¹³	1409
+1195	Chaozhou	g e ⁵⁵	g e ⁵⁵	1409
+1196	Chengdu	j a ³¹	j a ³¹	1409
+1197	Fuzhou	ŋ a ⁵²	ŋ a ⁵²	1409
+1198	Guangzhou	ŋ a ²¹	ŋ a ²¹	1409
+1199	Hankou	j a ²¹³	j a ²¹³	1409
+1200	Jinan	j a ⁴²	j a ⁴²	1409
+1201	Meixian	ŋ a ¹¹	ŋ a ¹¹	1409
+1202	Nanchang	ŋ a ⁴⁵	ŋ a ⁴⁵	1409
+1203	Shanghai	ŋ a ¹³	ŋ a ¹³	1409
+1204	Shuangfeng	ŋ o ²³	ŋ o ²³	1409
+1205	Suzhou	j ɒ ²⁴	j ɒ ²⁴	1409
+1206	Taiyuan	j a ¹¹	j a ¹¹	1409
+1207	Wenzhou	ŋ o ³¹	ŋ o ³¹	1409
+1208	XiAn	j a ²⁴	j a ²⁴	1409
+1209	Xiamen	g a ²⁴	g a ²⁴	1409
+1210	Yangzhou	j ɑ ³⁴	j ɑ ³⁴	1409
+1211	ZhongyuanYinyun	a ⁵⁵	- a ⁵⁵	1409
+1212	Beijing	n j ou ³⁵	n j ou ³⁵	1410
+1213	Changsha	ɲ j ɤu ¹³	ɲ j ɤu ¹³	1410
+1214	Chaozhou	g u ⁵⁵	g - u ⁵⁵	1410
+1215	Chengdu	ɲ j əu ³¹	ɲ j əu ³¹	1410
+1216	Fuzhou	ŋ j eu ⁵²	ŋ j eu ⁵²	1410
+1217	Guangzhou	ŋ au ²¹	ŋ - au ²¹	1410
+1218	Hankou	n j ou ²¹³	n j ou ²¹³	1410
+1219	Jinan	ɲ j ou ⁴²	ɲ j ou ⁴²	1410
+1220	Meixian	ɲ j u ¹¹	ɲ j u ¹¹	1410
+1221	Nanchang	ɲ j u ⁴⁵	ɲ j u ⁴⁵	1410
+1222	Shanghai	ɲ j ɯ ¹³	ɲ j ɯ ¹³	1410
+1223	Shuangfeng	ɲ j ʊ ²³	ɲ j ʊ ²³	1410
+1224	Suzhou	ɲ j øy ²⁴	ɲ j øy ²⁴	1410
+1225	Taiyuan	n j ou ¹¹	n j ou ¹¹	1410
+1226	Wenzhou	ŋ au ³¹	ŋ - au ³¹	1410
+1227	XiAn	ɲ j ou ²⁴	ɲ j ou ²⁴	1410
+1228	Xiamen	g j u ²⁴	g j u ²⁴	1410
+1229	Yangzhou	n j ɤɯ ³⁴	n j ɤɯ ³⁴	1410
+1230	ZhongyuanYinyun	j ou ⁵⁵	- j ou ⁵⁵	1410
+1231	Beijing	u ⁵¹	- - u - ⁵¹	1413
+1232	Changsha	u ²⁴	- - u - ²⁴	1413
+1233	Chaozhou	m w e ʔ ⁴	m w e ʔ ⁴	1413
+1234	Chengdu	v u ³¹	- v u - ³¹	1413
+1235	Fuzhou	u ʔ ⁴	- - u ʔ ⁴	1413
+1236	Guangzhou	m a t ²	- m a t ²	1413
+1237	Hankou	u ²¹³	- - u - ²¹³	1413
+1238	Jinan	u ²¹	- - u - ²¹	1413
+1239	Meixian	v u t ⁵	- v u t ⁵	1413
+1240	Nanchang	u t ⁵	- - u t ⁵	1413
+1241	Shanghai	v ɤ ʔ ¹³	- v ɤ ʔ ¹³	1413
+1242	Shuangfeng	əu ³⁵	- - əu - ³⁵	1413
+1243	Suzhou	v ɤ ʔ ²³	- v ɤ ʔ ²³	1413
+1244	Taiyuan	v ə ʔ ²	- v ə ʔ ²	1413
+1245	Wenzhou	v ai ²¹²	- v ai - ²¹²	1413
+1246	XiAn	v o ²¹	- v o - ²¹	1413
+1247	Xiamen	b u t ⁵	- b u t ⁵	1413
+1248	Yangzhou	w ə ʔ ⁴	- w ə ʔ ⁴	1413
+1249	Beijing	l i ³⁵	l i ³⁵	1419
+1250	Changsha	n i ¹³	n i ¹³	1419
+1251	Chaozhou	l oi ⁵⁵	l oi ⁵⁵	1419
+1252	Chengdu	n i ³¹	n i ³¹	1419
+1253	Fuzhou	l ɛ ⁵²	l ɛ ⁵²	1419
+1254	Guangzhou	l ai ²¹	l ai ²¹	1419
+1255	Hankou	n i ²¹³	n i ²¹³	1419
+1256	Jinan	l i ⁴²	l i ⁴²	1419
+1257	Meixian	l ai ¹¹	l ai ¹¹	1419
+1258	Nanchang	l i ⁴⁵	l i ⁴⁵	1419
+1259	Shanghai	l i ¹³	l i ¹³	1419
+1260	Shuangfeng	n i ²³	n i ²³	1419
+1261	Suzhou	l i ²⁴	l i ²⁴	1419
+1262	Taiyuan	l i ¹¹	l i ¹¹	1419
+1263	Wenzhou	l ei ³¹	l ei ³¹	1419
+1264	XiAn	l i ²⁴	l i ²⁴	1419
+1265	Xiamen	l e ²⁴	l e ²⁴	1419
+1266	Yangzhou	l i ³⁴	l i ³⁴	1419
+1267	ZhongyuanYinyun	l i ⁵⁵	l i ⁵⁵	1419
+1268	Beijing	tɕʰ ɥ a n ²¹⁴	tɕʰ ɥ a n ²¹⁴	1421
+1269	Changsha	tɕʰ yeː ⁴¹	tɕʰ - yeː - ⁴¹	1421
+1270	Chaozhou	kʰ j e ŋ ⁵³	kʰ j e ŋ ⁵³	1421
+1271	Chengdu	tɕʰ ɥ a n ⁵³	tɕʰ ɥ a n ⁵³	1421
+1272	Fuzhou	kʰ ei ŋ ³¹	kʰ - ei ŋ ³¹	1421
+1273	Guangzhou	h y n ³⁵	h - y n ³⁵	1421
+1274	Hankou	tsʰ w a n ⁴²	tsʰ w a n ⁴²	1421
+1275	Jinan	tɕʰ yaː ⁵⁵	tɕʰ - yaː - ⁵⁵	1421
+1276	Meixian	kʰ j a n ³¹	kʰ j a n ³¹	1421
+1277	Nanchang	tɕʰ ɥ ɔ n ²¹³	tɕʰ ɥ ɔ n ²¹³	1421
+1278	Shanghai	tɕʰ ɥ ø ⁵³	tɕʰ ɥ ø - ⁵³	1421
+1279	Shuangfeng	tʰ uiː ²¹	tʰ - uiː - ²¹	1421
+1280	Suzhou	tɕʰ j ø ⁵²	tɕʰ j ø - ⁵²	1421
+1281	Taiyuan	tɕʰ ɥ ɛ ⁵³	tɕʰ ɥ ɛ - ⁵³	1421
+1282	Wenzhou	tɕʰ y ⁴⁵	tɕʰ - y - ⁴⁵	1421
+1283	XiAn	tɕʰ yaː ⁵³	tɕʰ - yaː - ⁵³	1421
+1284	Xiamen	kʰ j a n ⁵¹	kʰ j a n ⁵¹	1421
+1285	Yangzhou	tɕʰ yɪː ⁴²	tɕʰ - yɪː - ⁴²	1421
+1286	ZhongyuanYinyun	kʰ ɥ e n ³⁵	kʰ ɥ e n ³⁵	1421
+1287	Beijing	x u ³⁵	x u ³⁵	1426
+1288	Changsha	f u ¹³	f u ¹³	1426
+1289	Chaozhou	h u ⁵⁵	h u ⁵⁵	1426
+1290	Chengdu	f u ³¹	f u ³¹	1426
+1291	Fuzhou	x u ⁵²	x u ⁵²	1426
+1292	Guangzhou	w u ²¹	w u ²¹	1426
+1293	Hankou	x u ²¹³	x u ²¹³	1426
+1294	Jinan	x u ⁴²	x u ⁴²	1426
+1295	Meixian	f u ¹¹	f u ¹¹	1426
+1296	Nanchang	ɸ u ⁴⁵	ɸ u ⁴⁵	1426
+1297	Shanghai	ɦ u ¹³	ɦ u ¹³	1426
+1298	Shuangfeng	ɣ əu ²³	ɣ əu ²³	1426
+1299	Suzhou	ɦ əu ²⁴	ɦ əu ²⁴	1426
+1300	Taiyuan	x u ¹¹	x u ¹¹	1426
+1301	Wenzhou	v u ³¹	v u ³¹	1426
+1302	XiAn	x u ²⁴	x u ²⁴	1426
+1303	Xiamen	h ɔ ²⁴	h ɔ ²⁴	1426
+1304	Yangzhou	x u ³⁴	x u ³⁴	1426
+1305	ZhongyuanYinyun	x u ⁵⁵	x u ⁵⁵	1426
+1306	Beijing	k ou ²¹⁴	k - ou ²¹⁴	1427
+1307	Changsha	k ɤu ⁴¹	k - ɤu ⁴¹	1427
+1308	Chaozhou	k au ⁵³	k - au ⁵³	1427
+1309	Chengdu	k əu ⁵³	k - əu ⁵³	1427
+1310	Fuzhou	k eu ³¹	k - eu ³¹	1427
+1311	Guangzhou	k au ³⁵	k - au ³⁵	1427
+1312	Hankou	k ou ⁴²	k - ou ⁴²	1427
+1313	Jinan	k ou ⁵⁵	k - ou ⁵⁵	1427
+1314	Meixian	k ɛu ³¹	k - ɛu ³¹	1427
+1315	Nanchang	k j ɛu ²¹³	k j ɛu ²¹³	1427
+1316	Shanghai	k ɤɯ ⁵⁵	k - ɤɯ ⁵⁵	1427
+1317	Shuangfeng	k j e ²¹	k j e ²¹	1427
+1318	Suzhou	k øy ⁵²	k - øy ⁵²	1427
+1319	Taiyuan	k ou ⁵³	k - ou ⁵³	1427
+1320	Wenzhou	k au ⁴⁵	k - au ⁴⁵	1427
+1321	XiAn	k ou ⁵³	k - ou ⁵³	1427
+1322	Xiamen	k ɔ ⁵¹	k - ɔ ⁵¹	1427
+1323	Yangzhou	k ɤɯ ⁴²	k - ɤɯ ⁴²	1427
+1324	ZhongyuanYinyun	k ou ³⁵	k - ou ³⁵	1427
+1325	Beijing	l i ³⁵	l i ³⁵	1429
+1326	Changsha	n i ¹³	n i ¹³	1429
+1327	Chaozhou	l i ⁵⁵	l i ⁵⁵	1429
+1328	Chengdu	n i ⁵³	n i ⁵³	1429
+1329	Fuzhou	l i ⁵²	l i ⁵²	1429
+1330	Guangzhou	l ei ²¹	l ei ²¹	1429
+1331	Hankou	n i ⁴²	n i ⁴²	1429
+1332	Jinan	l i ⁴²	l i ⁴²	1429
+1333	Meixian	l i ¹¹	l i ¹¹	1429
+1334	Nanchang	l i ⁴⁵	l i ⁴⁵	1429
+1335	Shanghai	l i ¹³	l i ¹³	1429
+1336	Shuangfeng	n i ²³	n i ²³	1429
+1337	Suzhou	l i ²⁴	l i ²⁴	1429
+1338	Taiyuan	l i ¹¹	l i ¹¹	1429
+1339	Wenzhou	l ei ³¹	l ei ³¹	1429
+1340	XiAn	l i ²⁴	l i ²⁴	1429
+1341	Xiamen	l i ²⁴	l i ²⁴	1429
+1342	Yangzhou	l i ³⁴	l i ³⁴	1429
+1343	ZhongyuanYinyun	l i ⁵⁵	l i ⁵⁵	1429
+1344	Beijing	l a ŋ ³⁵	l a ŋ ³⁵	1430
+1345	Changsha	n a n ¹³	n a n ¹³	1430
+1346	Chaozhou	l a ŋ ⁵⁵	l a ŋ ⁵⁵	1430
+1347	Chengdu	n a ŋ ³¹	n a ŋ ³¹	1430
+1348	Fuzhou	l ou ŋ ⁵²	l ou ŋ ⁵²	1430
+1349	Guangzhou	l ɔ ŋ ²¹	l ɔ ŋ ²¹	1430
+1350	Hankou	n a ŋ ²¹³	n a ŋ ²¹³	1430
+1351	Jinan	l a ŋ ⁴²	l a ŋ ⁴²	1430
+1352	Meixian	l ɔ ŋ ¹¹	l ɔ ŋ ¹¹	1430
+1353	Nanchang	l ɔ ŋ ⁴⁵	l ɔ ŋ ⁴⁵	1430
+1354	Shanghai	l ɒː ¹³	l ɒː - ¹³	1430
+1355	Shuangfeng	n a ŋ ²³	n a ŋ ²³	1430
+1356	Suzhou	l ɒ ŋ ²⁴	l ɒ ŋ ²⁴	1430
+1357	Taiyuan	l ɒː ¹¹	l ɒː - ¹¹	1430
+1358	Wenzhou	l ɔ ³¹	l ɔ - ³¹	1430
+1359	XiAn	l a ŋ ²⁴	l a ŋ ²⁴	1430
+1360	Xiamen	l ɔ ŋ ²⁴	l ɔ ŋ ²⁴	1430
+1361	Yangzhou	l ɑ ŋ ²¹	l ɑ ŋ ²¹	1430
+1362	ZhongyuanYinyun	l a ŋ ⁵⁵	l a ŋ ⁵⁵	1430
+1363	Beijing	tsʰ ai ⁵⁵	tsʰ ai ⁵⁵	1432
+1364	Changsha	tsʰ ai ³³	tsʰ ai ³³	1432
+1365	Chaozhou	tsʰ ai ³³	tsʰ ai ³³	1432
+1366	Chengdu	tsʰ ai ⁴⁴	tsʰ ai ⁴⁴	1432
+1367	Fuzhou	tsʰ ai ⁴⁴	tsʰ ai ⁴⁴	1432
+1368	Guangzhou	tʃʰ aːi ⁵⁵	tʃʰ aːi ⁵⁵	1432
+1369	Hankou	tsʰ ai ⁵⁵	tsʰ ai ⁵⁵	1432
+1370	Jinan	tsʰ ɛ ²¹³	tsʰ ɛ ²¹³	1432
+1371	Meixian	tsʰ ai ⁴⁴	tsʰ ai ⁴⁴	1432
+1372	Nanchang	tsʰ ai ⁴²	tsʰ ai ⁴²	1432
+1373	Shanghai	tsʰ ø ⁵³	tsʰ ø ⁵³	1432
+1374	Shuangfeng	tsʰ a ⁵⁵	tsʰ a ⁵⁵	1432
+1375	Suzhou	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	1432
+1376	Taiyuan	tsʰ ai ¹¹	tsʰ ai ¹¹	1432
+1377	Wenzhou	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	1432
+1378	XiAn	tsʰ ɛ ²¹	tsʰ ɛ ²¹	1432
+1379	Xiamen	tsʰ ai ⁵⁵	tsʰ ai ⁵⁵	1432
+1380	Yangzhou	tsʰ ɛ ²¹	tsʰ ɛ ²¹	1432
+1381	ZhongyuanYinyun	tsʰ ai ⁵⁵	tsʰ ai ⁵⁵	1432
+1382	Beijing	x ou ³⁵	x - ou ³⁵	1433
+1383	Changsha	x ɤu ¹³	x - ɤu ¹³	1433
+1384	Chaozhou	k au ⁵⁵	k - au ⁵⁵	1433
+1385	Chengdu	x əu ³¹	x - əu ³¹	1433
+1386	Fuzhou	x eu ⁵²	x - eu ⁵²	1433
+1387	Guangzhou	h au ²¹	h - au ²¹	1433
+1388	Hankou	x ou ²¹³	x - ou ²¹³	1433
+1389	Jinan	x ou ⁴²	x - ou ⁴²	1433
+1390	Meixian	h ɛu ¹¹	h - ɛu ¹¹	1433
+1391	Nanchang	h ɛu ²⁴	h - ɛu ²⁴	1433
+1392	Shanghai	ɦ ɤ ¹³	ɦ - ɤ ¹³	1433
+1393	Shuangfeng	ɣ j e ²³	ɣ j e ²³	1433
+1394	Suzhou	ɦ øy ²⁴	ɦ - øy ²⁴	1433
+1395	Taiyuan	x ou ¹¹	x - ou ¹¹	1433
+1396	Wenzhou	ɦ au ³¹	ɦ - au ³¹	1433
+1397	XiAn	x ou ²⁴	x - ou ²⁴	1433
+1398	Xiamen	h ɔ ²⁴	h - ɔ ²⁴	1433
+1399	Yangzhou	x ɤɯ ³⁴	x - ɤɯ ³⁴	1433
+1400	ZhongyuanYinyun	x ou ⁵⁵	x - ou ⁵⁵	1433
+1401	Beijing	w a ŋ ³⁵	- w a ŋ ³⁵	1446
+1402	Changsha	w a n ¹³	- w a n ¹³	1446
+1403	Chaozhou	w a ŋ ⁵⁵	- w a ŋ ⁵⁵	1446
+1404	Chengdu	w a ŋ ³¹	- w a ŋ ³¹	1446
+1405	Fuzhou	w ɔ ŋ ⁵²	- w ɔ ŋ ⁵²	1446
+1406	Guangzhou	w ɔ ŋ ²¹	- w ɔ ŋ ²¹	1446
+1407	Hankou	w a ŋ ²¹³	- w a ŋ ²¹³	1446
+1408	Jinan	w a ŋ ⁴²	- w a ŋ ⁴²	1446
+1409	Meixian	v ɔ ŋ ¹¹	- v ɔ ŋ ¹¹	1446
+1410	Nanchang	w ɔ ŋ ⁴⁵	- w ɔ ŋ ⁴⁵	1446
+1411	Shanghai	uɒː ¹³	- - uɒː - ¹³	1446
+1412	Shuangfeng	a ŋ ²³	- - a ŋ ²³	1446
+1413	Suzhou	ɦ w ɒ ŋ ²⁴	ɦ w ɒ ŋ ²⁴	1446
+1414	Taiyuan	v ɒː ¹¹	- v ɒː - ¹¹	1446
+1415	Wenzhou	ɦ ɥ ɔ ³¹	ɦ ɥ ɔ - ³¹	1446
+1416	XiAn	w a ŋ ²⁴	- w a ŋ ²⁴	1446
+1417	Xiamen	ɔ ŋ ²⁴	- - ɔ ŋ ²⁴	1446
+1418	Yangzhou	w ɑ ŋ ³⁴	- w ɑ ŋ ³⁴	1446
+1419	ZhongyuanYinyun	w a ŋ ⁵⁵	- w a ŋ ⁵⁵	1446
+1420	Beijing	w a n ³⁵	- w a n ³⁵	1447
+1421	Changsha	oː ¹³	- - oː - ¹³	1447
+1422	Chaozhou	ŋ w e ŋ ⁵³	ŋ w e ŋ ⁵³	1447
+1423	Chengdu	w a n ³¹	- w a n ³¹	1447
+1424	Fuzhou	ŋ w a ŋ ²⁴²	ŋ w a ŋ ²⁴²	1447
+1425	Guangzhou	w aː n ²¹	- w aː n ²¹	1447
+1426	Hankou	w a n ²¹³	- w a n ²¹³	1447
+1427	Jinan	uaː ⁴²	- - uaː - ⁴²	1447
+1428	Meixian	ŋ w a n ³¹	ŋ w a n ³¹	1447
+1429	Nanchang	w a n ⁴⁵	- w a n ⁴⁵	1447
+1430	Shanghai	w ø ¹³	- w ø - ¹³	1447
+1431	Shuangfeng	uaː ²³	- - uaː - ²³	1447
+1432	Suzhou	ɦ w ø ²⁴	ɦ w ø - ²⁴	1447
+1433	Taiyuan	v æː ¹¹	- v æː - ¹¹	1447
+1434	Wenzhou	v a ³¹	- v a - ³¹	1447
+1435	XiAn	v aː ²⁴	- v aː - ²⁴	1447
+1436	Xiamen	g w a n ⁵¹	g w a n ⁵¹	1447
+1437	Yangzhou	uɛː ³⁴	- - uɛː - ³⁴	1447
+1438	ZhongyuanYinyun	o n ⁵¹	- - o n ⁵¹	1447
+1439	Beijing	ɕ j a n ⁵¹	ɕ j a n ⁵¹	1452
+1440	Changsha	ɕ ieː ²¹	ɕ - ieː - ²¹	1452
+1441	Chaozhou	h i ŋ ¹¹	h - i ŋ ¹¹	1452
+1442	Chengdu	ɕ j a n ¹³	ɕ j a n ¹³	1452
+1443	Fuzhou	x j e ŋ ²⁴²	x j e ŋ ²⁴²	1452
+1444	Guangzhou	j i n ²²	- j i n ²²	1452
+1445	Hankou	ɕ j a n ³⁵	ɕ j a n ³⁵	1452
+1446	Jinan	ɕ iaː ²¹	ɕ - iaː - ²¹	1452
+1447	Meixian	h j a n ⁵²	h j a n ⁵²	1452
+1448	Nanchang	ɕ j ɛ n ²¹	ɕ j ɛ n ²¹	1452
+1449	Shanghai	j ɪ ¹³	j - ɪ - ¹³	1452
+1450	Shuangfeng	ɣ ɪː ³³	ɣ - ɪː - ³³	1452
+1451	Suzhou	ɪ ³¹	- - ɪ - ³¹	1452
+1452	Taiyuan	ɕ j ɛ ⁴⁵	ɕ j ɛ - ⁴⁵	1452
+1453	Wenzhou	ɦ i ²²	ɦ - i - ²²	1452
+1454	XiAn	ɕ iaː ⁵⁵	ɕ - iaː - ⁵⁵	1452
+1455	Xiamen	h j a n ³³	h j a n ³³	1452
+1456	Yangzhou	ɕ ɪː ⁵⁵	ɕ - ɪː - ⁵⁵	1452
+1457	ZhongyuanYinyun	x j e n ⁵¹	x j e n ⁵¹	1452
+1458	Beijing	tɕʰ j ou ³⁵	tɕʰ j ou ³⁵	1453
+1459	Changsha	tɕ j ɤu ¹³	tɕ j ɤu ¹³	1453
+1460	Chaozhou	k j u ³³	k j u ³³	1453
+1461	Chengdu	tɕʰ j əu ³¹	tɕʰ j əu ³¹	1453
+1462	Fuzhou	k j eu ⁵²	k j eu ⁵²	1453
+1463	Guangzhou	kʰ au ²¹	kʰ - au ²¹	1453
+1464	Hankou	tɕʰ j ou ²¹³	tɕʰ j ou ²¹³	1453
+1465	Jinan	tɕʰ j ou ⁴²	tɕʰ j ou ⁴²	1453
+1466	Meixian	kʰ j u ¹¹	kʰ j u ¹¹	1453
+1467	Nanchang	tɕ j u ⁴²	tɕ j u ⁴²	1453
+1468	Shanghai	tɕ j ɯ ¹³	tɕ j ɯ ¹³	1453
+1469	Shuangfeng	dʑ j ʊ ²³	dʑ j ʊ ²³	1453
+1470	Suzhou	dʑ j øy ²⁴	dʑ j øy ²⁴	1453
+1471	Taiyuan	tɕʰ j ou ¹¹	tɕʰ j ou ¹¹	1453
+1472	Wenzhou	dʑ j au ³¹	dʑ j au ³¹	1453
+1473	XiAn	tɕʰ j ou ²⁴	tɕʰ j ou ²⁴	1453
+1474	Xiamen	kʰ j u ²⁴	kʰ j u ²⁴	1453
+1475	Yangzhou	tɕʰ j ɤɯ ³⁴	tɕʰ j ɤɯ ³⁴	1453
+1476	ZhongyuanYinyun	kʰ j ou ⁵⁵	kʰ j ou ⁵⁵	1453
+1477	Beijing	k w a ⁵⁵	k w a ⁵⁵	1462
+1478	Changsha	k w a ³³	k w a ³³	1462
+1479	Chaozhou	k w e ⁵³	k w e ⁵³	1462
+1480	Chengdu	k w a ⁴⁴	k w a ⁴⁴	1462
+1481	Fuzhou	k w a ⁴⁴	k w a ⁴⁴	1462
+1482	Guangzhou	k w a ⁵⁵	k w a ⁵⁵	1462
+1483	Hankou	k w a ⁵⁵	k w a ⁵⁵	1462
+1484	Jinan	k w a ²¹³	k w a ²¹³	1462
+1485	Meixian	k w a ⁴⁴	k w a ⁴⁴	1462
+1486	Nanchang	k w a ⁴²	k w a ⁴²	1462
+1487	Shanghai	k w o ⁵³	k w o ⁵³	1462
+1488	Shuangfeng	k o ⁵⁵	k - o ⁵⁵	1462
+1489	Suzhou	k o ⁴⁴	k - o ⁴⁴	1462
+1490	Taiyuan	k w a ¹¹	k w a ¹¹	1462
+1491	Wenzhou	k o ⁴⁴	k - o ⁴⁴	1462
+1492	XiAn	k w a ²¹	k w a ²¹	1462
+1493	Xiamen	k w a ⁵⁵	k w a ⁵⁵	1462
+1494	Yangzhou	k w ɑ ²¹	k w ɑ ²¹	1462
+1495	ZhongyuanYinyun	k w a ⁵⁵	k w a ⁵⁵	1462
+1496	Beijing	pʰ j au ³⁵	pʰ j au ³⁵	1463
+1497	Changsha	p j au ¹³	p j au ¹³	1463
+1498	Chaozhou	pʰ j əu ⁵⁵	pʰ j əu ⁵⁵	1463
+1499	Chengdu	pʰ j au ³¹	pʰ j au ³¹	1463
+1500	Fuzhou	p j eu ⁵²	p j eu ⁵²	1463
+1501	Guangzhou	pʰ j u ²¹	pʰ j u ²¹	1463
+1502	Hankou	pʰ j au ²¹³	pʰ j au ²¹³	1463
+1503	Jinan	pʰ j ɔ ⁴²	pʰ j ɔ ⁴²	1463
+1504	Meixian	pʰ j au ¹¹	pʰ j au ¹¹	1463
+1505	Nanchang	pʰ j ɛu ²⁴	pʰ j ɛu ²⁴	1463
+1506	Shanghai	p j ɔ ¹³	p j ɔ ¹³	1463
+1507	Shuangfeng	b j ə ²³	b j ə ²³	1463
+1508	Suzhou	b j æ ²⁴	b j æ ²⁴	1463
+1509	Taiyuan	pʰ j au ¹¹	pʰ j au ¹¹	1463
+1510	Wenzhou	b j ɛ ³¹	b j ɛ ³¹	1463
+1511	XiAn	pʰ j au ²⁴	pʰ j au ²⁴	1463
+1512	Xiamen	pʰ j au ²⁴	pʰ j au ²⁴	1463
+1513	Yangzhou	pʰ j ɔ ³⁴	pʰ j ɔ ³⁴	1463
+1514	ZhongyuanYinyun	pʰ j au ⁵⁵	pʰ j au ⁵⁵	1463
+1515	Beijing	w a ²¹⁴	- w a ²¹⁴	1465
+1516	Changsha	w a ⁴¹	- w a ⁴¹	1465
+1517	Chaozhou	h j a ³⁵	h j a ³⁵	1465
+1518	Chengdu	w a ⁵³	- w a ⁵³	1465
+1519	Fuzhou	ŋ w a ³¹	ŋ w a ³¹	1465
+1520	Guangzhou	ŋ a ²³	ŋ - a ²³	1465
+1521	Hankou	w a ⁴²	- w a ⁴²	1465
+1522	Jinan	w a ⁵⁵	- w a ⁵⁵	1465
+1523	Meixian	ŋ a ³¹	ŋ - a ³¹	1465
+1524	Nanchang	w a ²¹³	- w a ²¹³	1465
+1525	Shanghai	ŋ o ¹³	ŋ - o ¹³	1465
+1526	Shuangfeng	ŋ j o ²¹	ŋ j o ²¹	1465
+1527	Suzhou	ŋ o ³¹	ŋ - o ³¹	1465
+1528	Taiyuan	v a ⁵³	- v a ⁵³	1465
+1529	Wenzhou	ŋ o ³⁴	ŋ - o ³⁴	1465
+1530	XiAn	w a ⁵³	- w a ⁵³	1465
+1531	Xiamen	w a ⁵¹	- w a ⁵¹	1465
+1532	Yangzhou	w ɑ ⁴²	- w ɑ ⁴²	1465
+1533	ZhongyuanYinyun	w a ³⁵	- w a ³⁵	1465
+1534	Beijing	pʰ i ŋ ³⁵	pʰ - i ŋ ³⁵	1466
+1535	Changsha	p i n ¹³	p - i n ¹³	1466
+1536	Chaozhou	pʰ e ŋ ⁵⁵	pʰ - e ŋ ⁵⁵	1466
+1537	Chengdu	pʰ i n ³¹	pʰ - i n ³¹	1466
+1538	Fuzhou	p i ŋ ⁵²	p - i ŋ ⁵²	1466
+1539	Guangzhou	pʰ ɪ ŋ ²¹	pʰ - ɪ ŋ ²¹	1466
+1540	Hankou	pʰ i n ²¹³	pʰ - i n ²¹³	1466
+1541	Jinan	pʰ i ŋ ⁴²	pʰ - i ŋ ⁴²	1466
+1542	Meixian	pʰ j a ŋ ¹¹	pʰ j a ŋ ¹¹	1466
+1543	Nanchang	pʰ i n ²⁴	pʰ - i n ²⁴	1466
+1544	Shanghai	p i ŋ ¹³	p - i ŋ ¹³	1466
+1545	Shuangfeng	b i n ²³	b - i n ²³	1466
+1546	Suzhou	b i n ²⁴	b - i n ²⁴	1466
+1547	Taiyuan	pʰ i ŋ ¹¹	pʰ - i ŋ ¹¹	1466
+1548	Wenzhou	b e ŋ ³¹	b - e ŋ ³¹	1466
+1549	XiAn	pʰ i ŋ ²⁴	pʰ - i ŋ ²⁴	1466
+1550	Xiamen	p ɪ ŋ ²⁴	p - ɪ ŋ ²⁴	1466
+1551	Yangzhou	pʰ iː ³⁴	pʰ - iː - ³⁴	1466
+1552	ZhongyuanYinyun	pʰ j ə ŋ ⁵⁵	pʰ j ə ŋ ⁵⁵	1466
+1553	Beijing	tʰ j a n ³⁵	tʰ j a n ³⁵	1471
+1554	Changsha	tʰ ieː ¹³	tʰ - ieː - ¹³	1471
+1555	Chaozhou	t j ə m ⁵⁵	t j ə m ⁵⁵	1471
+1556	Chengdu	tʰ j a n ³¹	tʰ j a n ³¹	1471
+1557	Fuzhou	t j e ŋ ⁵²	t j e ŋ ⁵²	1471
+1558	Guangzhou	tʰ i m ²¹	tʰ - i m ²¹	1471
+1559	Hankou	tʰ j a n ²¹³	tʰ j a n ²¹³	1471
+1560	Jinan	tʰ iaː ⁴²	tʰ - iaː - ⁴²	1471
+1561	Meixian	tʰ j a m ¹¹	tʰ j a m ¹¹	1471
+1562	Nanchang	tʰ j ɛ n ²⁴	tʰ j ɛ n ²⁴	1471
+1563	Shanghai	t ɪ ¹³	t - ɪ - ¹³	1471
+1564	Shuangfeng	d ɪː ²³	d - ɪː - ²³	1471
+1565	Suzhou	d ɪ ²⁴	d - ɪ - ²⁴	1471
+1566	Taiyuan	tʰ j ɛ ¹¹	tʰ j ɛ - ¹¹	1471
+1567	Wenzhou	d i ³¹	d - i - ³¹	1471
+1568	XiAn	tʰ iaː ²⁴	tʰ - iaː - ²⁴	1471
+1569	Xiamen	t j a m ²⁴	t j a m ²⁴	1471
+1570	Yangzhou	tʰ ɪː ³⁴	tʰ - ɪː - ³⁴	1471
+1571	ZhongyuanYinyun	tʰ j e m ⁵⁵	tʰ j e m ⁵⁵	1471
+1572	Beijing	ʂ ə ŋ ⁵⁵	ʂ - ə ŋ ⁵⁵	1472
+1573	Changsha	s ə n ³³	s - ə n ³³	1472
+1574	Chaozhou	s eː ³³	s - eː - ³³	1472
+1575	Chengdu	s ə n ⁴⁴	s - ə n ⁴⁴	1472
+1576	Fuzhou	s ei ŋ ⁴⁴	s - ei ŋ ⁴⁴	1472
+1577	Guangzhou	ʃ aː ŋ ⁵⁵	ʃ - aː ŋ ⁵⁵	1472
+1578	Hankou	s ə n ⁵⁵	s - ə n ⁵⁵	1472
+1579	Jinan	ʂ ə ŋ ²¹³	ʂ - ə ŋ ²¹³	1472
+1580	Meixian	s ɛ n ⁴⁴	s - ɛ n ⁴⁴	1472
+1581	Nanchang	s ɛ n ⁴²	s - ɛ n ⁴²	1472
+1582	Shanghai	s ə ŋ ⁵³	s - ə ŋ ⁵³	1472
+1583	Shuangfeng	ɕ iəː ⁵⁵	ɕ - iəː - ⁵⁵	1472
+1584	Suzhou	s ə n ⁴⁴	s - ə n ⁴⁴	1472
+1585	Taiyuan	s ə ŋ ¹¹	s - ə ŋ ¹¹	1472
+1586	Wenzhou	s j ɛ ⁴⁴	s j ɛ - ⁴⁴	1472
+1587	XiAn	ʂ ə ŋ ²¹	ʂ - ə ŋ ²¹	1472
+1588	Xiamen	s ɪ ŋ ⁵⁵	s - ɪ ŋ ⁵⁵	1472
+1589	Yangzhou	s ə n ²¹	s - ə n ²¹	1472
+1590	ZhongyuanYinyun	ʃ ə ŋ ⁵⁵	ʃ - ə ŋ ⁵⁵	1472
+1591	Beijing	y ŋ ⁵¹	- - y ŋ ⁵¹	1475
+1592	Changsha	j o ŋ ²¹	- j o ŋ ²¹	1475
+1593	Chaozhou	e ŋ ¹¹	- - e ŋ ¹¹	1475
+1594	Chengdu	ɥ o ŋ ¹³	- ɥ o ŋ ¹³	1475
+1595	Fuzhou	øy ŋ ²⁴²	- - øy ŋ ²⁴²	1475
+1596	Guangzhou	j u ŋ ²²	- j u ŋ ²²	1475
+1597	Hankou	j o ŋ ³⁵	- j o ŋ ³⁵	1475
+1598	Jinan	y ŋ ²¹	- - y ŋ ²¹	1475
+1599	Meixian	j u ŋ ⁵²	- j u ŋ ⁵²	1475
+1600	Nanchang	j u ŋ ²¹	- j u ŋ ²¹	1475
+1601	Shanghai	j o ŋ ¹³	- j o ŋ ¹³	1475
+1602	Shuangfeng	i n ³³	- - i n ³³	1475
+1603	Suzhou	j o ŋ ³¹	- j o ŋ ³¹	1475
+1604	Taiyuan	y ŋ ⁴⁵	- - y ŋ ⁴⁵	1475
+1605	Wenzhou	ɦ ɥ ɔ ²²	ɦ ɥ ɔ - ²²	1475
+1606	XiAn	y ŋ ⁵⁵	- - y ŋ ⁵⁵	1475
+1607	Xiamen	j ɔ ŋ ³³	- j ɔ ŋ ³³	1475
+1608	Yangzhou	j ɔu ŋ ⁵⁵	- j ɔu ŋ ⁵⁵	1475
+1609	ZhongyuanYinyun	j u ŋ ⁵¹	- j u ŋ ⁵¹	1475
+1610	Beijing	tʰ j a n ³⁵	tʰ j a n ³⁵	1477
+1611	Changsha	t ieː ¹³	t - ieː - ¹³	1477
+1612	Chaozhou	tsʰ a ŋ ⁵⁵	tsʰ - a ŋ ⁵⁵	1477
+1613	Chengdu	tʰ j a n ³¹	tʰ j a n ³¹	1477
+1614	Fuzhou	t j e ŋ ⁵²	t j e ŋ ⁵²	1477
+1615	Guangzhou	tʰ i n ²¹	tʰ - i n ²¹	1477
+1616	Hankou	tʰ j a n ²¹³	tʰ j a n ²¹³	1477
+1617	Jinan	tʰ iaː ⁴²	tʰ - iaː - ⁴²	1477
+1618	Meixian	tʰ j ɛ n ¹¹	tʰ j ɛ n ¹¹	1477
+1619	Nanchang	tʰ j ɛ n ²⁴	tʰ j ɛ n ²⁴	1477
+1620	Shanghai	t ɪ ¹³	t - ɪ - ¹³	1477
+1621	Shuangfeng	d ɪː ²³	d - ɪː - ²³	1477
+1622	Suzhou	d ɪ ²⁴	d - ɪ - ²⁴	1477
+1623	Taiyuan	tʰ j ɛ ¹¹	tʰ j ɛ - ¹¹	1477
+1624	Wenzhou	d i ³¹	d - i - ³¹	1477
+1625	XiAn	tʰ iaː ²⁴	tʰ - iaː - ²⁴	1477
+1626	Xiamen	t j a n ²⁴	t j a n ²⁴	1477
+1627	Yangzhou	tʰ ɪː ³⁴	tʰ - ɪː - ³⁴	1477
+1628	ZhongyuanYinyun	tʰ j e n ⁵⁵	tʰ j e n ⁵⁵	1477
+1629	Beijing	tɕ j a ²¹⁴	tɕ j a - ²¹⁴	1479
+1630	Changsha	tɕ j a ²⁴	tɕ j a - ²⁴	1479
+1631	Chaozhou	k a ʔ ²¹	k - a ʔ ²¹	1479
+1632	Chengdu	tɕ j a ³¹	tɕ j a - ³¹	1479
+1633	Fuzhou	k a ʔ ²³	k - a ʔ ²³	1479
+1634	Guangzhou	k aː p ³	k - aː p ³	1479
+1635	Hankou	tɕ j a ²¹³	tɕ j a - ²¹³	1479
+1636	Jinan	tɕ j a ²¹³	tɕ j a - ²¹³	1479
+1637	Meixian	k a p ¹	k - a p ¹	1479
+1638	Nanchang	k a t ⁵	k - a t ⁵	1479
+1639	Shanghai	tɕ j a ʔ ⁵	tɕ j a ʔ ⁵	1479
+1640	Shuangfeng	k a ²³	k - a - ²³	1479
+1641	Suzhou	tɕ j a ʔ ⁴	tɕ j a ʔ ⁴	1479
+1642	Taiyuan	tɕ j a ʔ ²	tɕ j a ʔ ²	1479
+1643	Wenzhou	k a ³²³	k - a - ³²³	1479
+1644	XiAn	tɕ j a ²¹	tɕ j a - ²¹	1479
+1645	Xiamen	k a p ³²	k - a p ³²	1479
+1646	Yangzhou	k a ʔ ⁴	k - a ʔ ⁴	1479
+1647	ZhongyuanYinyun	k a ²¹⁴	k - a - ²¹⁴	1479
+1648	Beijing	n a n ³⁵	n a n ³⁵	1481
+1649	Changsha	n a n ¹³	n a n ¹³	1481
+1650	Chaozhou	l a m ⁵⁵	l a m ⁵⁵	1481
+1651	Chengdu	n a n ³¹	n a n ³¹	1481
+1652	Fuzhou	n a ŋ ⁵²	n a ŋ ⁵²	1481
+1653	Guangzhou	n aː m ²¹	n aː m ²¹	1481
+1654	Hankou	n a n ²¹³	n a n ²¹³	1481
+1655	Jinan	n aː ⁴²	n aː - ⁴²	1481
+1656	Meixian	n a m ¹¹	n a m ¹¹	1481
+1657	Nanchang	l a n ⁴⁵	l a n ⁴⁵	1481
+1658	Shanghai	n ø ¹³	n ø - ¹³	1481
+1659	Shuangfeng	n a ²³	n a - ²³	1481
+1660	Suzhou	n ø ²⁴	n ø - ²⁴	1481
+1661	Taiyuan	n æː ¹¹	n æː - ¹¹	1481
+1662	Wenzhou	n ø ³¹	n ø - ³¹	1481
+1663	XiAn	n aː ²⁴	n aː - ²⁴	1481
+1664	Xiamen	l a m ²⁴	l a m ²⁴	1481
+1665	Yangzhou	n ɛː ³⁴	n ɛː - ³⁴	1481
+1666	ZhongyuanYinyun	n a m ⁵⁵	n a m ⁵⁵	1481
+1667	Beijing	l j ou ³⁵	l j ou ³⁵	1484
+1668	Changsha	n j ɤu ¹³	n j ɤu ¹³	1484
+1669	Chaozhou	l j u ⁵⁵	l j u ⁵⁵	1484
+1670	Chengdu	n j əu ³¹	n j əu ³¹	1484
+1671	Fuzhou	l j eu ⁵²	l j eu ⁵²	1484
+1672	Guangzhou	l au ²¹	l - au ²¹	1484
+1673	Hankou	n j ou ²¹³	n j ou ²¹³	1484
+1674	Jinan	l j ou ⁴²	l j ou ⁴²	1484
+1675	Meixian	l j u ¹¹	l j u ¹¹	1484
+1676	Nanchang	l j u ⁴⁵	l j u ⁴⁵	1484
+1677	Shanghai	l j ɯ ¹³	l j ɯ ¹³	1484
+1678	Shuangfeng	n j ʊ ²³	n j ʊ ²³	1484
+1679	Suzhou	l øy ²⁴	l - øy ²⁴	1484
+1680	Wenzhou	l j u ³¹	l j u ³¹	1484
+1681	XiAn	l j ou ²⁴	l j ou ²⁴	1484
+1682	Xiamen	l j u ²⁴	l j u ²⁴	1484
+1683	Yangzhou	l j ɤɯ ³⁴	l j ɤɯ ³⁴	1484
+1684	ZhongyuanYinyun	l j ou ⁵⁵	l j ou ⁵⁵	1484
+1685	Beijing	tʰ ə ŋ ³⁵	tʰ - ə ŋ ³⁵	1502
+1686	Changsha	t ə n ¹³	t - ə n ¹³	1502
+1687	Chaozhou	t iaː ²¹³	t - iaː - ²¹³	1502
+1688	Chengdu	tʰ ə n ³¹	tʰ - ə n ³¹	1502
+1689	Fuzhou	tʰ j a ŋ ⁵²	tʰ j a ŋ ⁵²	1502
+1690	Guangzhou	tʰ a ŋ ²¹	tʰ - a ŋ ²¹	1502
+1691	Hankou	tʰ ə n ²¹³	tʰ - ə n ²¹³	1502
+1692	Jinan	tʰ ə ŋ ⁴²	tʰ - ə ŋ ⁴²	1502
+1693	Nanchang	tʰ ɛ n ²⁴	tʰ - ɛ n ²⁴	1502
+1694	Shanghai	tʰ o ŋ ⁵⁵	tʰ - o ŋ ⁵⁵	1502
+1695	Shuangfeng	d iɛː ²³	d - iɛː - ²³	1502
+1696	Suzhou	d ə n ²⁴	d - ə n ²⁴	1502
+1697	Taiyuan	tʰ ə ŋ ¹¹	tʰ - ə ŋ ¹¹	1502
+1698	Wenzhou	d a ŋ ³¹	d - a ŋ ³¹	1502
+1699	XiAn	tʰ ə ŋ ²⁴	tʰ - ə ŋ ²⁴	1502
+1700	Xiamen	t ɔ ŋ ²⁴	t - ɔ ŋ ²⁴	1502
+1701	Yangzhou	tʰ ə ŋ ³⁴	tʰ - ə ŋ ³⁴	1502
+1702	ZhongyuanYinyun	tʰ ə ŋ ⁵⁵	tʰ - ə ŋ ⁵⁵	1502
+1703	Beijing	p i ŋ ⁵¹	p - i ŋ ⁵¹	1504
+1704	Changsha	p i n ²¹	p - i n ²¹	1504
+1705	Chaozhou	p eː ¹¹	p - eː - ¹¹	1504
+1706	Chengdu	p i n ¹³	p - i n ¹³	1504
+1707	Fuzhou	p i ŋ ²⁴²	p - i ŋ ²⁴²	1504
+1708	Guangzhou	p ɪ ŋ ²²	p - ɪ ŋ ²²	1504
+1709	Hankou	p i n ³⁵	p - i n ³⁵	1504
+1710	Jinan	p i ŋ ²¹	p - i ŋ ²¹	1504
+1711	Meixian	pʰ j a ŋ ⁵²	pʰ j a ŋ ⁵²	1504
+1712	Nanchang	pʰ i n ²¹	pʰ - i n ²¹	1504
+1713	Shanghai	p i ŋ ¹³	p - i ŋ ¹³	1504
+1714	Shuangfeng	b i n ³³	b - i n ³³	1504
+1715	Suzhou	b i n ³¹	b - i n ³¹	1504
+1716	Taiyuan	p i ŋ ⁴⁵	p - i ŋ ⁴⁵	1504
+1717	Wenzhou	b e ŋ ²²	b - e ŋ ²²	1504
+1718	XiAn	p i ŋ ⁵⁵	p - i ŋ ⁵⁵	1504
+1719	Xiamen	p ɪ ŋ ³³	p - ɪ ŋ ³³	1504
+1720	Yangzhou	p iː ⁵⁵	p - iː - ⁵⁵	1504
+1721	ZhongyuanYinyun	p j ə ŋ ⁵¹	p j ə ŋ ⁵¹	1504
+1722	Beijing	j a ŋ ²¹⁴	- j a ŋ ²¹⁴	1506
+1723	Changsha	j a n ⁴¹	- j a n ⁴¹	1506
+1724	Chaozhou	j a ŋ ⁵³	- j a ŋ ⁵³	1506
+1725	Chengdu	j a ŋ ⁵³	- j a ŋ ⁵³	1506
+1726	Fuzhou	s w ɔ ŋ ³¹	s w ɔ ŋ ³¹	1506
+1727	Guangzhou	j œ ŋ ²³	- j œ ŋ ²³	1506
+1728	Hankou	j a ŋ ⁴²	- j a ŋ ⁴²	1506
+1729	Jinan	j a ŋ ⁵⁵	- j a ŋ ⁵⁵	1506
+1730	Meixian	j ɔ ŋ ⁴⁴	- j ɔ ŋ ⁴⁴	1506
+1731	Nanchang	j ɔ ŋ ²¹³	- j ɔ ŋ ²¹³	1506
+1732	Shanghai	iaː ¹³	- - iaː - ¹³	1506
+1733	Shuangfeng	j a ŋ ²¹	- j a ŋ ²¹	1506
+1734	Suzhou	j a ŋ ³¹	- j a ŋ ³¹	1506
+1735	Taiyuan	iɒː ⁵³	- - iɒː - ⁵³	1506
+1736	Wenzhou	ɦ i ³⁴	ɦ - i - ³⁴	1506
+1737	XiAn	j a ŋ ⁵³	- j a ŋ ⁵³	1506
+1738	Xiamen	j ɔ ŋ ⁵¹	- j ɔ ŋ ⁵¹	1506
+1739	Yangzhou	j ɑ ŋ ⁴²	- j ɑ ŋ ⁴²	1506
+1740	ZhongyuanYinyun	j a ŋ ³⁵	- j a ŋ ³⁵	1506
+1741	Beijing	tʰ u ŋ ⁵¹	tʰ u ŋ ⁵¹	1508
+1742	Changsha	tʰ o ŋ ⁵⁵	tʰ o ŋ ⁵⁵	1508
+1743	Chaozhou	tʰ o ŋ ²¹³	tʰ o ŋ ²¹³	1508
+1744	Chengdu	tʰ o ŋ ¹³	tʰ o ŋ ¹³	1508
+1745	Fuzhou	tʰ ou ŋ ²¹³	tʰ ou ŋ ²¹³	1508
+1746	Guangzhou	tʰ u ŋ ³³	tʰ u ŋ ³³	1508
+1747	Hankou	tʰ o ŋ ³⁵	tʰ o ŋ ³⁵	1508
+1748	Jinan	tʰ u ŋ ²¹	tʰ u ŋ ²¹	1508
+1749	Meixian	tʰ u ŋ ⁵²	tʰ u ŋ ⁵²	1508
+1750	Nanchang	tʰ u ŋ ²¹³	tʰ u ŋ ²¹³	1508
+1751	Shanghai	tʰ o ŋ ⁵⁵	tʰ o ŋ ⁵⁵	1508
+1752	Shuangfeng	t a ŋ ³⁵	t a ŋ ³⁵	1508
+1753	Suzhou	tʰ o ŋ ⁴¹²	tʰ o ŋ ⁴¹²	1508
+1754	Taiyuan	tʰ u ŋ ⁴⁵	tʰ u ŋ ⁴⁵	1508
+1755	Wenzhou	tʰ o ŋ ⁴²	tʰ o ŋ ⁴²	1508
+1756	XiAn	tʰ o ŋ ⁵⁵	tʰ o ŋ ⁵⁵	1508
+1757	Xiamen	tʰ ɔ ŋ ¹¹	tʰ ɔ ŋ ¹¹	1508
+1758	Yangzhou	tʰ ɔu ŋ ⁵⁵	tʰ ɔu ŋ ⁵⁵	1508
+1759	ZhongyuanYinyun	tʰ u ŋ ⁵¹	tʰ u ŋ ⁵¹	1508
+1760	Beijing	tʰ a n ³⁵	tʰ a n ³⁵	1511
+1761	Changsha	t a n ¹³	t a n ¹³	1511
+1762	Chaozhou	tʰ a m ⁵⁵	tʰ a m ⁵⁵	1511
+1763	Chengdu	tʰ a n ³¹	tʰ a n ³¹	1511
+1764	Fuzhou	tʰ a ŋ ⁵²	tʰ a ŋ ⁵²	1511
+1765	Guangzhou	tʰ aː m ²¹	tʰ aː m ²¹	1511
+1766	Hankou	tʰ a n ²¹³	tʰ a n ²¹³	1511
+1767	Jinan	tʰ aː ⁴²	tʰ aː - ⁴²	1511
+1768	Meixian	tʰ a m ¹¹	tʰ a m ¹¹	1511
+1769	Nanchang	tʰ a n ²⁴	tʰ a n ²⁴	1511
+1770	Shanghai	t ɛ ¹³	t ɛ - ¹³	1511
+1771	Shuangfeng	d aː ²³	d aː - ²³	1511
+1772	Suzhou	d ɛ ²⁴	d ɛ - ²⁴	1511
+1773	Taiyuan	tʰ æː ¹¹	tʰ æː - ¹¹	1511
+1774	Wenzhou	d a ³¹	d a - ³¹	1511
+1775	XiAn	tʰ aː ²⁴	tʰ aː - ²⁴	1511
+1776	Xiamen	tʰ a m ²⁴	tʰ a m ²⁴	1511
+1777	Yangzhou	tʰ ɛː ³⁴	tʰ ɛː - ³⁴	1511
+1778	ZhongyuanYinyun	tʰ a m ⁵⁵	tʰ a m ⁵⁵	1511
+1779	Beijing	p ai ³⁵	p - ai - ³⁵	1521
+1780	Changsha	p ɤ ²⁴	p - ɤ - ²⁴	1521
+1781	Chaozhou	p e ʔ ⁴	p - e ʔ ⁴	1521
+1782	Chengdu	p e ³¹	p - e - ³¹	1521
+1783	Fuzhou	p ei ʔ ⁴	p - ei ʔ ⁴	1521
+1784	Guangzhou	p aː k ²	p - aː k ²	1521
+1785	Hankou	p ɤ ²¹³	p - ɤ - ²¹³	1521
+1786	Jinan	p ei ⁴²	p - ei - ⁴²	1521
+1787	Meixian	pʰ a k ⁵	pʰ - a k ⁵	1521
+1788	Nanchang	p ɛ t ⁵	p - ɛ t ⁵	1521
+1789	Shanghai	p a ʔ ¹³	p - a ʔ ¹³	1521
+1790	Shuangfeng	p j ɛ ²³	p j ɛ - ²³	1521
+1791	Suzhou	b ɒ ʔ ²³	b - ɒ ʔ ²³	1521
+1792	Taiyuan	p ai ¹¹	p - ai - ¹¹	1521
+1793	Wenzhou	b a ²¹²	b - a - ²¹²	1521
+1794	XiAn	p ei ²⁴	p - ei - ²⁴	1521
+1795	Xiamen	p ɪ k ⁵	p - ɪ k ⁵	1521
+1796	Yangzhou	p ɔ ʔ ⁴	p - ɔ ʔ ⁴	1521
+1797	ZhongyuanYinyun	p ai ²¹⁴	p - ai - ²¹⁴	1521
+1798	Beijing	p ai ²¹⁴	p - ai - ²¹⁴	1522
+1799	Changsha	p ɤ ²⁴	p - ɤ - ²⁴	1522
+1800	Chaozhou	p e ʔ ²¹	p - e ʔ ²¹	1522
+1801	Chengdu	p e ³¹	p - e - ³¹	1522
+1802	Fuzhou	p a ʔ ²³	p - a ʔ ²³	1522
+1803	Guangzhou	p aː k ³	p - aː k ³	1522
+1804	Hankou	p ɤ ²¹³	p - ɤ - ²¹³	1522
+1805	Jinan	p ei ²¹³	p - ei - ²¹³	1522
+1806	Meixian	p a k ¹	p - a k ¹	1522
+1807	Nanchang	p a k ⁵	p - a k ⁵	1522
+1808	Shanghai	p ɤ ʔ ⁵	p - ɤ ʔ ⁵	1522
+1809	Shuangfeng	p j ɛ ⁵⁵	p j ɛ - ⁵⁵	1522
+1810	Suzhou	p ɒ ʔ ⁴	p - ɒ ʔ ⁴	1522
+1811	Taiyuan	p j ə ʔ ²	p j ə ʔ ²	1522
+1812	Wenzhou	p a ³²³	p - a - ³²³	1522
+1813	XiAn	p ei ²¹	p - ei - ²¹	1522
+1814	Xiamen	p ɪ k ³²	p - ɪ k ³²	1522
+1815	Yangzhou	p ɔ ʔ ⁴	p - ɔ ʔ ⁴	1522
+1816	ZhongyuanYinyun	p ai ²¹⁴	p - ai - ²¹⁴	1522
+1817	Beijing	t i ³⁵	t - i - ³⁵	1524
+1818	Changsha	t i ⁴¹	t - i - ⁴¹	1524
+1819	Chaozhou	t i k ²¹	t - i k ²¹	1524
+1820	Chengdu	t i ³¹	t - i - ³¹	1524
+1821	Fuzhou	t ei ʔ ²³	t - ei ʔ ²³	1524
+1822	Guangzhou	t ɪ k ⁵	t - ɪ k ⁵	1524
+1823	Hankou	t i ⁴²	t - i - ⁴²	1524
+1824	Jinan	t i ⁵⁵	t - i - ⁵⁵	1524
+1825	Meixian	t i t ¹	t - i t ¹	1524
+1826	Nanchang	t i t ⁵	t - i t ⁵	1524
+1827	Shanghai	t ɪ ʔ ⁵	t - ɪ ʔ ⁵	1524
+1828	Shuangfeng	t i ²³	t - i - ²³	1524
+1829	Suzhou	t j ɤ ʔ ⁴	t j ɤ ʔ ⁴	1524
+1830	Taiyuan	t j ə ʔ ²	t j ə ʔ ²	1524
+1831	Wenzhou	t ei ³²³	t - ei - ³²³	1524
+1832	XiAn	t i ²¹	t - i - ²¹	1524
+1833	Xiamen	t ɪ k ³²	t - ɪ k ³²	1524
+1834	Yangzhou	t j ə ʔ ⁴	t j ə ʔ ⁴	1524
+1835	ZhongyuanYinyun	t i ²¹⁴	t - i - ²¹⁴	1524
+1836	Beijing	tɕ j e ⁵⁵	tɕ j e ⁵⁵	1525
+1837	Changsha	k ai ³³	k - ai ³³	1525
+1838	Chaozhou	k ai ³³	k - ai ³³	1525
+1839	Chengdu	tɕ j ai ⁴⁴	tɕ j ai ⁴⁴	1525
+1840	Fuzhou	k ai ⁴⁴	k - ai ⁴⁴	1525
+1841	Guangzhou	k aːi ⁵⁵	k - aːi ⁵⁵	1525
+1842	Hankou	k ai ⁵⁵	k - ai ⁵⁵	1525
+1843	Jinan	tɕ j æ ²¹³	tɕ j æ ²¹³	1525
+1844	Meixian	k j ai ⁴⁴	k j ai ⁴⁴	1525
+1845	Nanchang	k ai ⁴²	k - ai ⁴²	1525
+1846	Shanghai	tɕ j a ⁵³	tɕ j a ⁵³	1525
+1847	Shuangfeng	k a ⁵⁵	k - a ⁵⁵	1525
+1848	Suzhou	tɕ j ɒ ⁴⁴	tɕ j ɒ ⁴⁴	1525
+1849	Taiyuan	tɕ j ɛ ¹¹	tɕ j ɛ ¹¹	1525
+1850	Wenzhou	k a ⁴⁴	k - a ⁴⁴	1525
+1851	XiAn	tɕ j e ²¹	tɕ j e ²¹	1525
+1852	Xiamen	k ai ⁵⁵	k - ai ⁵⁵	1525
+1853	Yangzhou	tɕ j ɛ ²¹	tɕ j ɛ ²¹	1525
+1854	ZhongyuanYinyun	k j ai ⁵⁵	k j ai ⁵⁵	1525
+1855	Beijing	pʰ i ³⁵	pʰ - i ³⁵	1527
+1856	Changsha	p i ¹³	p - i ¹³	1527
+1857	Chaozhou	pʰ w e ⁵⁵	pʰ w e ⁵⁵	1527
+1858	Chengdu	pʰ i ³¹	pʰ - i ³¹	1527
+1859	Fuzhou	pʰ i ⁵²	pʰ - i ⁵²	1527
+1860	Guangzhou	pʰ ei ²¹	pʰ - ei ²¹	1527
+1861	Hankou	pʰ i ²¹³	pʰ - i ²¹³	1527
+1862	Jinan	pʰ i ⁴²	pʰ - i ⁴²	1527
+1863	Meixian	pʰ i ¹¹	pʰ - i ¹¹	1527
+1864	Nanchang	pʰ i ²⁴	pʰ - i ²⁴	1527
+1865	Shanghai	p i ¹³	p - i ¹³	1527
+1866	Shuangfeng	b i ²³	b - i ²³	1527
+1867	Suzhou	b i ²⁴	b - i ²⁴	1527
+1868	Taiyuan	pʰ i ¹¹	pʰ - i ¹¹	1527
+1869	Wenzhou	b ei ³¹	b - ei ³¹	1527
+1870	XiAn	pʰ i ²⁴	pʰ - i ²⁴	1527
+1871	Xiamen	pʰ i ²⁴	pʰ - i ²⁴	1527
+1872	Yangzhou	pʰ i ³⁴	pʰ - i ³⁴	1527
+1873	ZhongyuanYinyun	pʰ ei ⁵⁵	pʰ - ei ⁵⁵	1527
+1874	Beijing	m u ⁵¹	m u - ⁵¹	1542
+1875	Changsha	m o ²⁴	m o - ²⁴	1542
+1876	Chaozhou	m a k ⁴	m a k ⁴	1542
+1877	Chengdu	m u ³¹	m u - ³¹	1542
+1878	Fuzhou	m u ʔ ⁴	m u ʔ ⁴	1542
+1879	Guangzhou	m u k ²	m u k ²	1542
+1880	Hankou	m o ŋ ³⁵	m o ŋ ³⁵	1542
+1881	Jinan	m u ²¹	m u - ²¹	1542
+1882	Meixian	m u k ¹	m u k ¹	1542
+1883	Nanchang	m u k ⁵	m u k ⁵	1542
+1884	Shanghai	m o ʔ ¹³	m o ʔ ¹³	1542
+1885	Shuangfeng	m ʊ ²³	m ʊ - ²³	1542
+1886	Suzhou	m o ʔ ²³	m o ʔ ²³	1542
+1887	Taiyuan	m ə ʔ ²	m ə ʔ ²	1542
+1888	Wenzhou	m o ²¹²	m o - ²¹²	1542
+1889	XiAn	m u ²¹	m u - ²¹	1542
+1890	Xiamen	b ɔ k ⁵	b ɔ k ⁵	1542
+1891	Yangzhou	m ɔ ʔ ⁴	m ɔ ʔ ⁴	1542
+1892	ZhongyuanYinyun	m u ²¹⁴	m u - ²¹⁴	1542
+1893	Beijing	ʈʂ ʅ ³⁵	ʈʂ ʅ - ³⁵	1543
+1894	Changsha	ʈʂ ʅ ²⁴	ʈʂ ʅ - ²⁴	1543
+1895	Chaozhou	t i k ⁴	t i k ⁴	1543
+1896	Chengdu	ts ɿ ³¹	ts ɿ - ³¹	1543
+1897	Fuzhou	t i ʔ ⁴	t i ʔ ⁴	1543
+1898	Guangzhou	tʃ ɪ k ²	tʃ ɪ k ²	1543
+1899	Hankou	ts ɿ ²¹³	ts ɿ - ²¹³	1543
+1900	Jinan	ʈʂ ʅ ⁴²	ʈʂ ʅ - ⁴²	1543
+1901	Meixian	tsʰ ə t ⁵	tsʰ ə t ⁵	1543
+1902	Nanchang	ts ə t ⁵	ts ə t ⁵	1543
+1903	Shanghai	z a ʔ ¹³	z a ʔ ¹³	1543
+1904	Shuangfeng	ɖʐ ʅ ³⁵	ɖʐ ʅ - ³⁵	1543
+1905	Suzhou	z ɤ ʔ ²³	z ɤ ʔ ²³	1543
+1906	Taiyuan	ts ə ʔ ⁵⁴	ts ə ʔ ⁵⁴	1543
+1907	Wenzhou	dz ei ²¹²	dz ei - ²¹²	1543
+1908	XiAn	ʈʂ ʅ ²⁴	ʈʂ ʅ - ²⁴	1543
+1909	Xiamen	t i t ⁵	t i t ⁵	1543
+1910	Yangzhou	ts ə ʔ ⁴	ts ə ʔ ⁴	1543
+1911	ZhongyuanYinyun	tʃ i ²¹⁴	tʃ i - ²¹⁴	1543
+1912	Beijing	m ei ³⁵	m ei ³⁵	1548
+1913	Changsha	m ei ¹³	m ei ¹³	1548
+1914	Chaozhou	b ai ⁵⁵	b ai ⁵⁵	1548
+1915	Chengdu	m i ³¹	m i ³¹	1548
+1916	Fuzhou	m i ⁵²	m i ⁵²	1548
+1917	Guangzhou	m ei ²¹	m ei ²¹	1548
+1918	Hankou	m ei ²¹³	m ei ²¹³	1548
+1919	Jinan	m ei ⁴²	m ei ⁴²	1548
+1920	Meixian	m i ¹¹	m i ¹¹	1548
+1921	Nanchang	m əi ⁴⁵	m əi ⁴⁵	1548
+1922	Shanghai	m ɛ ¹³	m ɛ ¹³	1548
+1923	Shuangfeng	m i ²³	m i ²³	1548
+1924	Suzhou	m ɛ ²⁴	m ɛ ²⁴	1548
+1925	Taiyuan	m ei ¹¹	m ei ¹¹	1548
+1926	Wenzhou	m ai ³¹	m ai ³¹	1548
+1927	XiAn	m i ²⁴	m i ²⁴	1548
+1928	Xiamen	m i ²⁴	m i ²⁴	1548
+1929	Yangzhou	m əi ³⁴	m əi ³⁴	1548
+1930	ZhongyuanYinyun	m ei ⁵⁵	m ei ⁵⁵	1548
+1931	Beijing	kʰ a n ⁵¹	kʰ a n ⁵¹	1549
+1932	Changsha	kʰ a n ⁵⁵	kʰ a n ⁵⁵	1549
+1933	Chaozhou	tʰ oiː ⁵³	tʰ oiː - ⁵³	1549
+1934	Chengdu	kʰ a n ¹³	kʰ a n ¹³	1549
+1935	Fuzhou	kʰ a ŋ ²¹³	kʰ a ŋ ²¹³	1549
+1936	Guangzhou	h ɔ n ³³	h ɔ n ³³	1549
+1937	Hankou	kʰ a n ³⁵	kʰ a n ³⁵	1549
+1938	Jinan	kʰ aː ²¹	kʰ aː - ²¹	1549
+1939	Meixian	kʰ ɔ n ⁵²	kʰ ɔ n ⁵²	1549
+1940	Nanchang	kʰ ɔ n ²¹³	kʰ ɔ n ²¹³	1549
+1941	Shanghai	kʰ ø ⁵⁵	kʰ ø - ⁵⁵	1549
+1942	Shuangfeng	kʰ iɛː ³⁵	kʰ iɛː - ³⁵	1549
+1943	Suzhou	kʰ ø ⁴¹²	kʰ ø - ⁴¹²	1549
+1944	Taiyuan	kʰ æː ⁴⁵	kʰ æː - ⁴⁵	1549
+1945	Wenzhou	kʰ ø ⁴²	kʰ ø - ⁴²	1549
+1946	XiAn	kʰ aː ⁵⁵	kʰ aː - ⁵⁵	1549
+1947	Xiamen	kʰ a n ¹¹	kʰ a n ¹¹	1549
+1948	Yangzhou	kʰ ɛː ⁵⁵	kʰ ɛː - ⁵⁵	1549
+1949	ZhongyuanYinyun	kʰ a n ⁵¹	kʰ a n ⁵¹	1549
+1950	Beijing	j a n ²¹⁴	- j a n ²¹⁴	1552
+1951	Changsha	ieː ⁴¹	- - ieː - ⁴¹	1552
+1952	Chaozhou	ŋ a ŋ ⁵³	ŋ - a ŋ ⁵³	1552
+1953	Chengdu	j a n ⁵³	- j a n ⁵³	1552
+1954	Fuzhou	ŋ a ŋ ³¹	ŋ - a ŋ ³¹	1552
+1955	Guangzhou	ŋ aː n ²³	ŋ - aː n ²³	1552
+1956	Hankou	j a n ⁴²	- j a n ⁴²	1552
+1957	Jinan	iaː ⁵⁵	- - iaː - ⁵⁵	1552
+1958	Meixian	ɲ j a n ³¹	ɲ j a n ³¹	1552
+1959	Nanchang	ŋ a n ²¹³	ŋ - a n ²¹³	1552
+1960	Shanghai	ŋ ɛ ¹³	ŋ - ɛ - ¹³	1552
+1961	Shuangfeng	ŋ aː ²¹	ŋ - aː - ²¹	1552
+1962	Suzhou	ɪ ³¹	- - ɪ - ³¹	1552
+1963	Taiyuan	j ɛ ⁵³	j - ɛ - ⁵³	1552
+1964	Wenzhou	ŋ a ³⁴	ŋ - a - ³⁴	1552
+1965	XiAn	ɲ iaː ⁵³	ɲ - iaː - ⁵³	1552
+1966	Xiamen	g a n ⁵¹	g - a n ⁵¹	1552
+1967	Yangzhou	ɪː ⁴²	- - ɪː - ⁴²	1552
+1968	ZhongyuanYinyun	j a n ³⁵	- j a n ³⁵	1552
+1969	Beijing	ʂ w ei ⁵¹	ʂ w ei ⁵¹	1555
+1970	Changsha	ɕ ɥ ei ⁵⁵	ɕ ɥ ei ⁵⁵	1555
+1971	Chaozhou	s w i ³⁵	s w i ³⁵	1555
+1972	Chengdu	s w ei ¹³	s w ei ¹³	1555
+1973	Fuzhou	s w ei ²⁴²	s w ei ²⁴²	1555
+1974	Guangzhou	ʃ œy ²²	ʃ - œy ²²	1555
+1975	Hankou	s w ei ³⁵	s w ei ³⁵	1555
+1976	Jinan	ʂ w ei ²¹	ʂ w ei ²¹	1555
+1977	Meixian	s ɔi ⁵²	s - ɔi ⁵²	1555
+1978	Nanchang	s w i ²¹	s w i ²¹	1555
+1979	Shanghai	z ø ¹³	z - ø ¹³	1555
+1980	Shuangfeng	ɕ y ³⁵	ɕ - y ³⁵	1555
+1981	Suzhou	z ɛ ³¹	z - ɛ ³¹	1555
+1982	Taiyuan	s w ei ⁴⁵	s w ei ⁴⁵	1555
+1983	Wenzhou	z ai ²¹²	z - ai ²¹²	1555
+1984	XiAn	f ei ⁵⁵	f - ei ⁵⁵	1555
+1985	Xiamen	s w i ³³	s w i ³³	1555
+1986	Yangzhou	s w əi ⁵⁵	s w əi ⁵⁵	1555
+1987	ZhongyuanYinyun	ʃ w ei ⁵¹	ʃ w ei ⁵¹	1555
+1988	Beijing	ɕ j a ⁵⁵	ɕ j a - ⁵⁵	1558
+1989	Changsha	x a ²⁴	- x a - ²⁴	1558
+1990	Chaozhou	h a k ²¹	- h a k ²¹	1558
+1991	Chengdu	ɕ j a ³¹	ɕ j a - ³¹	1558
+1992	Fuzhou	x a ʔ ²³	- x a ʔ ²³	1558
+1993	Guangzhou	h a t ²	- h a t ²	1558
+1994	Hankou	ɕ j a ²¹³	ɕ j a - ²¹³	1558
+1995	Jinan	ɕ j a ²¹³	ɕ j a - ²¹³	1558
+1996	Meixian	h a t ¹	- h a t ¹	1558
+1997	Nanchang	h a t ⁵	- h a t ⁵	1558
+1998	Shanghai	h a ʔ ⁵	- h a ʔ ⁵	1558
+1999	Shuangfeng	x a ²³	- x a - ²³	1558
+2000	Suzhou	h a ʔ ⁴	- h a ʔ ⁴	1558
+2001	Taiyuan	ɕ j a ʔ ²	ɕ j a ʔ ²	1558
+2002	Wenzhou	x a ³²³	- x a - ³²³	1558
+2003	XiAn	x a ²¹	- x a - ²¹	1558
+2004	Xiamen	h a t ³²	- h a t ³²	1558
+2005	Yangzhou	x a ʔ ⁴	- x a ʔ ⁴	1558
+2006	ZhongyuanYinyun	x a ²¹⁴	- x a - ²¹⁴	1558
+2007	Beijing	ʈʂ ʅ ⁵⁵	ʈʂ ʅ ⁵⁵	1565
+2008	Changsha	ʈʂ ʅ ³³	ʈʂ ʅ ³³	1565
+2009	Chaozhou	ts ai ³³	ts ai ³³	1565
+2010	Chengdu	ts ɿ ⁴⁴	ts ɿ ⁴⁴	1565
+2011	Fuzhou	t i ⁴⁴	t i ⁴⁴	1565
+2012	Guangzhou	tʃ i ⁵⁵	tʃ i ⁵⁵	1565
+2013	Hankou	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1565
+2014	Jinan	ʈʂ ʅ ²¹³	ʈʂ ʅ ²¹³	1565
+2015	Meixian	t i ⁴⁴	t i ⁴⁴	1565
+2016	Nanchang	ts ɿ ⁴²	ts ɿ ⁴²	1565
+2017	Shanghai	ts ɿ ⁵³	ts ɿ ⁵³	1565
+2018	Shuangfeng	ʈʂ ʅ ⁵⁵	ʈʂ ʅ ⁵⁵	1565
+2019	Suzhou	ts ɥ ⁴⁴	ts ɥ ⁴⁴	1565
+2020	Taiyuan	ts ɿ ¹¹	ts ɿ ¹¹	1565
+2021	Wenzhou	ts ɿ ⁴⁴	ts ɿ ⁴⁴	1565
+2022	XiAn	ʈʂ ʅ ²¹	ʈʂ ʅ ²¹	1565
+2023	Xiamen	t i ⁵⁵	t i ⁵⁵	1565
+2024	Yangzhou	ts ɿ ²¹	ts ɿ ²¹	1565
+2025	ZhongyuanYinyun	tʃ i ⁵⁵	tʃ i ⁵⁵	1565
+2026	Beijing	t w a n ²¹⁴	t w a n ²¹⁴	1566
+2027	Changsha	t oː ⁴¹	t - oː - ⁴¹	1566
+2028	Chaozhou	t o ⁵³	t - o - ⁵³	1566
+2029	Chengdu	t w a n ⁵³	t w a n ⁵³	1566
+2030	Fuzhou	t w a ŋ ³¹	t w a ŋ ³¹	1566
+2031	Guangzhou	t y n ³⁵	t - y n ³⁵	1566
+2032	Hankou	t a n ⁴²	t - a n ⁴²	1566
+2033	Jinan	t uaː ⁵⁵	t - uaː - ⁵⁵	1566
+2034	Meixian	t ɔ n ³¹	t - ɔ n ³¹	1566
+2035	Nanchang	t w ɔ n ²¹³	t w ɔ n ²¹³	1566
+2036	Shanghai	t ø ⁵⁵	t - ø - ⁵⁵	1566
+2037	Shuangfeng	t uɛː ²¹	t - uɛː - ²¹	1566
+2038	Suzhou	t ø ⁵²	t - ø - ⁵²	1566
+2039	Taiyuan	t uæː ⁵³	t - uæː - ⁵³	1566
+2040	Wenzhou	t ø ⁴⁵	t - ø - ⁴⁵	1566
+2041	XiAn	t uaː ⁵³	t - uaː - ⁵³	1566
+2042	Xiamen	t w a n ⁵¹	t w a n ⁵¹	1566
+2043	Yangzhou	t uoː ⁴²	t - uoː - ⁴²	1566
+2044	ZhongyuanYinyun	t o n ³⁵	t - o n ³⁵	1566
+2045	Beijing	ai ²¹⁴	- ai ²¹⁴	1567
+2046	Changsha	ŋ ai ⁴¹	ŋ ai ⁴¹	1567
+2047	Chaozhou	oi ⁵³	- oi ⁵³	1567
+2048	Chengdu	ŋ ai ⁵³	ŋ ai ⁵³	1567
+2049	Fuzhou	w ei ³¹	w ei ³¹	1567
+2050	Guangzhou	ai ³⁵	- ai ³⁵	1567
+2051	Hankou	ŋ ai ⁴²	ŋ ai ⁴²	1567
+2052	Jinan	j ɛ ⁵⁵	j ɛ ⁵⁵	1567
+2053	Meixian	ai ³¹	- ai ³¹	1567
+2054	Nanchang	ŋ ai ²¹³	ŋ ai ²¹³	1567
+2055	Shanghai	a ⁵⁵	- a ⁵⁵	1567
+2056	Shuangfeng	ŋ a ²¹	ŋ a ²¹	1567
+2057	Suzhou	ɒ ⁵²	- ɒ ⁵²	1567
+2058	Taiyuan	ŋ ai ⁵³	ŋ ai ⁵³	1567
+2059	Wenzhou	a ⁴⁵	- a ⁴⁵	1567
+2060	XiAn	ŋ ɛ ⁵³	ŋ ɛ ⁵³	1567
+2061	Xiamen	w e ⁵¹	w e ⁵¹	1567
+2062	Yangzhou	ɛ ⁴²	- ɛ ⁴²	1567
+2063	ZhongyuanYinyun	j ai ³⁵	j ai ³⁵	1567
+2064	Beijing	ʂ ʅ ³⁵	- ʂ ʅ - ³⁵	1568
+2065	Changsha	s ɿ ²⁴	- s ɿ - ²⁴	1568
+2066	Chaozhou	ts j e ʔ ⁴	ts j e ʔ ⁴	1568
+2067	Chengdu	s ɿ ³¹	- s ɿ - ³¹	1568
+2068	Fuzhou	s i ʔ ²³	- s i ʔ ²³	1568
+2069	Guangzhou	ʃ ɛ k ²	- ʃ ɛ k ²	1568
+2070	Hankou	s ɿ ²¹³	- s ɿ - ²¹³	1568
+2071	Jinan	ʂ ʅ ⁴²	- ʂ ʅ - ⁴²	1568
+2072	Meixian	s a k ⁵	- s a k ⁵	1568
+2073	Nanchang	s a k ⁵	- s a k ⁵	1568
+2074	Shanghai	z a ʔ ¹³	- z a ʔ ¹³	1568
+2075	Shuangfeng	ʂ ʅ ³⁵	- ʂ ʅ - ³⁵	1568
+2076	Suzhou	z ɒ ʔ ⁴	- z ɒ ʔ ⁴	1568
+2077	Taiyuan	s ə ʔ ⁵⁴	- s ə ʔ ⁵⁴	1568
+2078	Wenzhou	z ei ²¹²	- z ei - ²¹²	1568
+2079	XiAn	ʂ ʅ ²⁴	- ʂ ʅ - ²⁴	1568
+2080	Xiamen	s ɪ k ³²	- s ɪ k ³²	1568
+2081	Yangzhou	s ə ʔ ⁴	- s ə ʔ ⁴	1568
+2082	ZhongyuanYinyun	ʃ i ²¹⁴	- ʃ i - ²¹⁴	1568
+2083	Beijing	kʰ a n ²¹⁴	kʰ a n ²¹⁴	1569
+2084	Changsha	kʰ a n ⁴¹	kʰ a n ⁴¹	1569
+2085	Chaozhou	kʰ a m ⁵³	kʰ a m ⁵³	1569
+2086	Chengdu	kʰ a n ⁵³	kʰ a n ⁵³	1569
+2087	Fuzhou	kʰ a ŋ ³¹	kʰ a ŋ ³¹	1569
+2088	Guangzhou	h aː m ³⁵	h aː m ³⁵	1569
+2089	Hankou	kʰ a n ⁴²	kʰ a n ⁴²	1569
+2090	Jinan	kʰ aː ⁵⁵	kʰ aː - ⁵⁵	1569
+2091	Meixian	kʰ a m ³¹	kʰ a m ³¹	1569
+2092	Nanchang	kʰ a n ²¹³	kʰ a n ²¹³	1569
+2093	Shanghai	kʰ ɛ ⁵⁵	kʰ ɛ - ⁵⁵	1569
+2094	Shuangfeng	kʰ uɛː ²¹	kʰ uɛː - ²¹	1569
+2095	Suzhou	kʰ ɛ ⁴⁴	kʰ ɛ - ⁴⁴	1569
+2096	Taiyuan	kʰ æː ⁵³	kʰ æː - ⁵³	1569
+2097	Wenzhou	kʰ ø ⁴⁵	kʰ ø - ⁴⁵	1569
+2098	XiAn	kʰ aː ⁵³	kʰ aː - ⁵³	1569
+2099	Xiamen	kʰ a m ⁵¹	kʰ a m ⁵¹	1569
+2100	Yangzhou	kʰ ɛː ⁴²	kʰ ɛː - ⁴²	1569
+2101	ZhongyuanYinyun	kʰ a m ³⁵	kʰ a m ³⁵	1569
+2102	Beijing	pʰ o ⁵¹	pʰ - o ⁵¹	1571
+2103	Changsha	pʰ o ⁵⁵	pʰ - o ⁵⁵	1571
+2104	Chaozhou	pʰ w a ²¹³	pʰ w a ²¹³	1571
+2105	Chengdu	pʰ o ¹³	pʰ - o ¹³	1571
+2106	Fuzhou	pʰ a ²¹³	pʰ - a ²¹³	1571
+2107	Guangzhou	pʰ ɔ ³³	pʰ - ɔ ³³	1571
+2108	Hankou	pʰ o ³⁵	pʰ - o ³⁵	1571
+2109	Jinan	pʰ ə ²¹	pʰ - ə ²¹	1571
+2110	Meixian	pʰ ɔ ⁵²	pʰ - ɔ ⁵²	1571
+2111	Nanchang	pʰ o ²¹³	pʰ - o ²¹³	1571
+2112	Shanghai	pʰ u ⁵⁵	pʰ - u ⁵⁵	1571
+2113	Shuangfeng	pʰ ʊ ³⁵	pʰ - ʊ ³⁵	1571
+2114	Suzhou	pʰ u ⁴¹²	pʰ - u ⁴¹²	1571
+2115	Taiyuan	pʰ ə ⁴⁵	pʰ - ə ⁴⁵	1571
+2116	Wenzhou	p ɵy ⁴²	p - ɵy ⁴²	1571
+2117	XiAn	pʰ o ⁵⁵	pʰ - o ⁵⁵	1571
+2118	Xiamen	pʰ o ¹¹	pʰ - o ¹¹	1571
+2119	Yangzhou	pʰ o ⁵⁵	pʰ - o ⁵⁵	1571
+2120	ZhongyuanYinyun	pʰ w o ⁵¹	pʰ w o ⁵¹	1571
+2121	Beijing	i ŋ ⁵¹	- - i ŋ ⁵¹	1574
+2122	Changsha	ŋ ɤ n ²¹	ŋ - ɤ n ²¹	1574
+2123	Chaozhou	ŋ eː ³⁵	ŋ - eː - ³⁵	1574
+2124	Chengdu	ŋ ə n ¹³	ŋ - ə n ¹³	1574
+2125	Fuzhou	ŋ ai ŋ ²⁴²	ŋ - ai ŋ ²⁴²	1574
+2126	Guangzhou	ŋ aː ŋ ²²	ŋ - aː ŋ ²²	1574
+2127	Hankou	ŋ ə n ³⁵	ŋ - ə n ³⁵	1574
+2128	Jinan	i ŋ ²¹	- - i ŋ ²¹	1574
+2129	Meixian	ŋ a ŋ ⁵²	ŋ - a ŋ ⁵²	1574
+2130	Nanchang	ŋ a ŋ ⁴⁵	ŋ - a ŋ ⁴⁵	1574
+2131	Shanghai	ŋ aː ¹³	ŋ - aː - ¹³	1574
+2132	Shuangfeng	ŋ j ɛ ³³	ŋ j ɛ - ³³	1574
+2133	Suzhou	ŋ a ŋ ³¹	ŋ - a ŋ ³¹	1574
+2134	Taiyuan	i ŋ ⁴⁵	- - i ŋ ⁴⁵	1574
+2135	Wenzhou	ŋ j ɛ ²²	ŋ j ɛ - ²²	1574
+2136	XiAn	ɲ i ŋ ⁵⁵	- ɲ i ŋ ⁵⁵	1574
+2137	Xiamen	ŋ iː ³³	ŋ - iː - ³³	1574
+2138	Yangzhou	iː ⁵⁵	- - iː - ⁵⁵	1574
+2139	ZhongyuanYinyun	j ə ŋ ⁵¹	- j ə ŋ ⁵¹	1574
+2140	Beijing	w a n ²¹⁴	w a n ²¹⁴	1578
+2141	Changsha	oː ⁴¹	- oː - ⁴¹	1578
+2142	Chaozhou	uaː ⁵³	- uaː - ⁵³	1578
+2143	Chengdu	w a n ⁵³	w a n ⁵³	1578
+2144	Fuzhou	w a ŋ ³¹	w a ŋ ³¹	1578
+2145	Guangzhou	w u n ³⁵	w u n ³⁵	1578
+2146	Hankou	w a n ⁴²	w a n ⁴²	1578
+2147	Jinan	uaː ⁵⁵	- uaː - ⁵⁵	1578
+2148	Meixian	v ɔ n ³¹	v ɔ n ³¹	1578
+2149	Nanchang	w ɔ n ²¹³	w ɔ n ²¹³	1578
+2150	Shanghai	w ø ⁵⁵	w ø - ⁵⁵	1578
+2151	Shuangfeng	uɛː ²¹	- uɛː - ²¹	1578
+2152	Suzhou	w ø ⁵²	w ø - ⁵²	1578
+2153	Taiyuan	v æː ⁵³	v æː - ⁵³	1578
+2154	Wenzhou	y ⁴⁵	- y - ⁴⁵	1578
+2155	XiAn	uaː ⁵³	- uaː - ⁵³	1578
+2156	Xiamen	w a n ⁵¹	w a n ⁵¹	1578
+2157	Yangzhou	uoː ⁴²	- uoː - ⁴²	1578
+2158	Beijing	m o ³⁵	m - o ³⁵	1585
+2159	Changsha	m o ¹³	m - o ¹³	1585
+2160	Chaozhou	m o ⁵⁵	m - o ⁵⁵	1585
+2161	Chengdu	m o ³¹	m - o ³¹	1585
+2162	Fuzhou	m ɔ ⁵²	m - ɔ ⁵²	1585
+2163	Guangzhou	m ɔ ²¹	m - ɔ ²¹	1585
+2164	Hankou	m o ²¹³	m - o ²¹³	1585
+2165	Jinan	m ə ⁴²	m - ə ⁴²	1585
+2166	Meixian	m ɔ ¹¹	m - ɔ ¹¹	1585
+2167	Nanchang	m o ⁴⁵	m - o ⁴⁵	1585
+2168	Shanghai	m o ¹³	m - o ¹³	1585
+2169	Shuangfeng	m ʊ ²³	m - ʊ ²³	1585
+2170	Suzhou	m o ²⁴	m - o ²⁴	1585
+2171	Taiyuan	m ə ¹¹	m - ə ¹¹	1585
+2172	Wenzhou	m ɵy ³¹	m - ɵy ³¹	1585
+2173	XiAn	m o ²⁴	m - o ²⁴	1585
+2174	Xiamen	m o ²⁴	m - o ²⁴	1585
+2175	Yangzhou	m o ³⁴	m - o ³⁴	1585
+2176	ZhongyuanYinyun	m w o ⁵⁵	m w o ⁵⁵	1585
+2177	Beijing	ʈʂʰ ə ŋ ⁵¹	ʈʂʰ - ə ŋ ⁵¹	1618
+2178	Changsha	ʈʂʰ ə n ⁵⁵	ʈʂʰ - ə n ⁵⁵	1618
+2179	Chaozhou	tsʰ i ŋ ²¹³	tsʰ - i ŋ ²¹³	1618
+2180	Chengdu	tsʰ ə n ¹³	tsʰ - ə n ¹³	1618
+2181	Fuzhou	tsʰ ei ŋ ²¹³	tsʰ - ei ŋ ²¹³	1618
+2182	Guangzhou	tʃʰ ɪ ŋ ³³	tʃʰ - ɪ ŋ ³³	1618
+2183	Hankou	tsʰ ə n ³⁵	tsʰ - ə n ³⁵	1618
+2184	Jinan	ʈʂʰ ə ŋ ²¹	ʈʂʰ - ə ŋ ²¹	1618
+2185	Meixian	tsʰ ə n ⁵²	tsʰ - ə n ⁵²	1618
+2186	Nanchang	tsʰ ə n ²¹³	tsʰ - ə n ²¹³	1618
+2187	Shanghai	tsʰ ə ŋ ⁵⁵	tsʰ - ə ŋ ⁵⁵	1618
+2188	Shuangfeng	tɕʰ i n ³⁵	tɕʰ - i n ³⁵	1618
+2189	Taiyuan	tsʰ ə ŋ ⁴⁵	tsʰ - ə ŋ ⁴⁵	1618
+2190	Wenzhou	tsʰ e ŋ ⁴²	tsʰ - e ŋ ⁴²	1618
+2191	XiAn	ʈʂʰ ə ŋ ⁵⁵	ʈʂʰ - ə ŋ ⁵⁵	1618
+2192	Xiamen	tsʰ ɪ ŋ ¹¹	tsʰ - ɪ ŋ ¹¹	1618
+2193	Yangzhou	tsʰ ə n ⁵⁵	tsʰ - ə n ⁵⁵	1618
+2194	ZhongyuanYinyun	tʃʰ j ə ŋ ⁵¹	tʃʰ j ə ŋ ⁵¹	1618
+2195	Beijing	j a ŋ ⁵⁵	j a ŋ ⁵⁵	1620
+2196	Changsha	j a n ³³	j a n ³³	1620
+2197	Chaozhou	j a ŋ ³³	j a ŋ ³³	1620
+2198	Chengdu	j a ŋ ⁴⁴	j a ŋ ⁴⁴	1620
+2199	Fuzhou	ɥ ɔ ⁴⁴	ɥ ɔ - ⁴⁴	1620
+2200	Guangzhou	j œ ŋ ⁵⁵	j œ ŋ ⁵⁵	1620
+2201	Hankou	j a ŋ ⁵⁵	j a ŋ ⁵⁵	1620
+2202	Jinan	j a ŋ ²¹³	j a ŋ ²¹³	1620
+2203	Meixian	j ɔ ŋ ⁴⁴	j ɔ ŋ ⁴⁴	1620
+2204	Nanchang	j ɔ ŋ ⁴²	j ɔ ŋ ⁴²	1620
+2205	Shuangfeng	j a ŋ ⁵⁵	j a ŋ ⁵⁵	1620
+2206	Suzhou	j a ŋ ⁴⁴	j a ŋ ⁴⁴	1620
+2207	Taiyuan	iɒː ¹¹	- iɒː - ¹¹	1620
+2208	Wenzhou	i ⁴⁴	- i - ⁴⁴	1620
+2209	XiAn	j a ŋ ²¹	j a ŋ ²¹	1620
+2210	Xiamen	j ɔ ŋ ⁵⁵	j ɔ ŋ ⁵⁵	1620
+2211	Yangzhou	j ɑ ŋ ²¹	j ɑ ŋ ²¹	1620
+2212	Beijing	i ³⁵	- i ³⁵	1621
+2213	Changsha	i ¹³	- i ¹³	1621
+2214	Chaozhou	i ⁵⁵	- i ⁵⁵	1621
+2215	Chengdu	i ³¹	- i ³¹	1621
+2216	Fuzhou	j e ⁵²	j e ⁵²	1621
+2217	Guangzhou	j i ²¹	j i ²¹	1621
+2218	Hankou	i ²¹³	- i ²¹³	1621
+2219	Jinan	i ⁴²	- i ⁴²	1621
+2220	Meixian	j i ¹¹	j i ¹¹	1621
+2221	Nanchang	i ⁴⁵	- i ⁴⁵	1621
+2222	Shanghai	j i ¹³	j i ¹³	1621
+2223	Shuangfeng	i ²³	- i ²³	1621
+2224	Suzhou	i ²⁴	- i ²⁴	1621
+2225	Taiyuan	i ¹¹	- i ¹¹	1621
+2226	Wenzhou	ɦ i ³¹	ɦ i ³¹	1621
+2227	XiAn	i ²⁴	- i ²⁴	1621
+2228	Xiamen	i ²⁴	- i ²⁴	1621
+2229	Yangzhou	i ³⁴	- i ³⁴	1621
+2230	ZhongyuanYinyun	i ⁵⁵	- i ⁵⁵	1621
+2231	Beijing	ɕ i ⁵⁵	ɕ i ⁵⁵	1622
+2232	Changsha	ɕ i ³³	ɕ i ³³	1622
+2233	Chaozhou	h i ³³	h i ³³	1622
+2234	Chengdu	ɕ i ⁴⁴	ɕ i ⁴⁴	1622
+2235	Fuzhou	x i ⁴⁴	x i ⁴⁴	1622
+2236	Guangzhou	h ei ⁵⁵	h ei ⁵⁵	1622
+2237	Hankou	ɕ i ⁵⁵	ɕ i ⁵⁵	1622
+2238	Jinan	ɕ i ²¹³	ɕ i ²¹³	1622
+2239	Meixian	h i ⁴⁴	h i ⁴⁴	1622
+2240	Nanchang	ɕ i ⁴²	ɕ i ⁴²	1622
+2241	Shuangfeng	ɕ i ⁵⁵	ɕ i ⁵⁵	1622
+2242	Suzhou	ɕ i ⁴⁴	ɕ i ⁴⁴	1622
+2243	Taiyuan	ɕ i ¹¹	ɕ i ¹¹	1622
+2244	Wenzhou	s ɿ ⁴⁴	s ɿ ⁴⁴	1622
+2245	XiAn	ɕ i ²¹	ɕ i ²¹	1622
+2246	Xiamen	h i ⁵⁵	h i ⁵⁵	1622
+2247	Yangzhou	ɕ i ²¹	ɕ i ²¹	1622
+2248	Beijing	t au ⁵¹	t au ⁵¹	1631
+2249	Changsha	t au ⁵⁵	t au ⁵⁵	1631
+2250	Chaozhou	t au ³⁵	t au ³⁵	1631
+2251	Chengdu	t au ¹³	t au ¹³	1631
+2252	Fuzhou	t ɔ ²⁴²	t ɔ ²⁴²	1631
+2253	Guangzhou	t ou ²²	t ou ²²	1631
+2254	Hankou	t au ³⁵	t au ³⁵	1631
+2255	Jinan	t ɔ ²¹	t ɔ ²¹	1631
+2256	Meixian	tʰ au ⁵²	tʰ au ⁵²	1631
+2257	Nanchang	tʰ au ²¹	tʰ au ²¹	1631
+2258	Shanghai	t ɔ ¹³	t ɔ ¹³	1631
+2259	Shuangfeng	d ə ³³	d ə ³³	1631
+2260	Suzhou	d æ ³¹	d æ ³¹	1631
+2261	Taiyuan	t au ⁴⁵	t au ⁴⁵	1631
+2262	Wenzhou	d ɜ ³⁴	d ɜ ³⁴	1631
+2263	XiAn	t au ⁵⁵	t au ⁵⁵	1631
+2264	Xiamen	t au ³³	t au ³³	1631
+2265	Yangzhou	t ɔ ⁵⁵	t ɔ ⁵⁵	1631
+2266	ZhongyuanYinyun	t au ⁵¹	t au ⁵¹	1631
+2267	Beijing	kʰ u ŋ ⁵⁵	kʰ u ŋ ⁵⁵	1639
+2268	Changsha	kʰ o ŋ ³³	kʰ o ŋ ³³	1639
+2269	Chaozhou	kʰ o ŋ ³³	kʰ o ŋ ³³	1639
+2270	Chengdu	kʰ o ŋ ⁴⁴	kʰ o ŋ ⁴⁴	1639
+2271	Fuzhou	kʰ u ŋ ⁴⁴	kʰ u ŋ ⁴⁴	1639
+2272	Guangzhou	h u ŋ ⁵⁵	h u ŋ ⁵⁵	1639
+2273	Hankou	kʰ u ŋ ⁵⁵	kʰ u ŋ ⁵⁵	1639
+2274	Jinan	kʰ u ŋ ²¹³	kʰ u ŋ ²¹³	1639
+2275	Meixian	kʰ u ŋ ⁴⁴	kʰ u ŋ ⁴⁴	1639
+2276	Nanchang	kʰ u ŋ ⁴²	kʰ u ŋ ⁴²	1639
+2277	Shanghai	kʰ o ŋ ⁵³	kʰ o ŋ ⁵³	1639
+2278	Shuangfeng	kʰ a ŋ ⁵⁵	kʰ a ŋ ⁵⁵	1639
+2279	Suzhou	kʰ o ŋ ⁴⁴	kʰ o ŋ ⁴⁴	1639
+2280	Taiyuan	kʰ u ŋ ¹¹	kʰ u ŋ ¹¹	1639
+2281	Wenzhou	kʰ o ŋ ⁴⁴	kʰ o ŋ ⁴⁴	1639
+2282	XiAn	kʰ o ŋ ²¹	kʰ o ŋ ²¹	1639
+2283	Xiamen	kʰ ɔ ŋ ⁵⁵	kʰ ɔ ŋ ⁵⁵	1639
+2284	Yangzhou	kʰ ɔu ŋ ²¹	kʰ ɔu ŋ ²¹	1639
+2285	ZhongyuanYinyun	kʰ u ŋ ⁵⁵	kʰ u ŋ ⁵⁵	1639
+2286	Beijing	ʈʂʰ u a n ⁵⁵	ʈʂʰ u a n ⁵⁵	1640
+2287	Changsha	tɕʰ yeː ³³	tɕʰ - yeː - ³³	1640
+2288	Chaozhou	tsʰ w e ŋ ³³	tsʰ w e ŋ ³³	1640
+2289	Chengdu	tsʰ w a n ⁴⁴	tsʰ w a n ⁴⁴	1640
+2290	Fuzhou	tsʰ w ɔ ŋ ⁴⁴	tsʰ w ɔ ŋ ⁴⁴	1640
+2291	Guangzhou	tʃʰ y n ⁵⁵	tʃʰ - y n ⁵⁵	1640
+2292	Hankou	tsʰ w a n ⁵⁵	tsʰ w a n ⁵⁵	1640
+2293	Jinan	ʈʂʰ u aː ²¹³	ʈʂʰ u aː - ²¹³	1640
+2294	Meixian	tsʰ ɔ n ⁴⁴	tsʰ - ɔ n ⁴⁴	1640
+2295	Nanchang	tsʰ ɔ n ⁴²	tsʰ - ɔ n ⁴²	1640
+2296	Shanghai	tsʰ ø ⁵³	tsʰ - ø - ⁵³	1640
+2297	Shuangfeng	tʰ uiː ⁵⁵	tʰ - uiː - ⁵⁵	1640
+2298	Suzhou	tsʰ ø ⁴⁴	tsʰ - ø - ⁴⁴	1640
+2299	Taiyuan	tsʰ uæː ¹¹	tsʰ - uæː - ¹¹	1640
+2300	Wenzhou	tɕʰ y ⁴⁴	tɕʰ - y - ⁴⁴	1640
+2301	XiAn	pfʰ aː ²¹	- pfʰ aː - ²¹	1640
+2302	Xiamen	tsʰ w a n ⁵⁵	tsʰ w a n ⁵⁵	1640
+2303	Yangzhou	tsʰ uoː ²¹	tsʰ - uoː - ²¹	1640
+2304	ZhongyuanYinyun	tʃʰ ɥ e n ⁵⁵	tʃʰ ɥ e n ⁵⁵	1640
+2305	Beijing	ʈʂ ai ²¹⁴	ʈʂ - ai - ²¹⁴	1642
+2306	Changsha	ts ɤ ²⁴	ts - ɤ - ²⁴	1642
+2307	Chaozhou	ts a ʔ ²¹	ts - a ʔ ²¹	1642
+2308	Chengdu	ts e ³¹	ts - e - ³¹	1642
+2309	Fuzhou	ts a ʔ ²³	ts - a ʔ ²³	1642
+2310	Guangzhou	tʃ aː k ³	tʃ - aː k ³	1642
+2311	Hankou	ts ɤ ²¹³	ts - ɤ - ²¹³	1642
+2312	Jinan	ʈʂ ei ²¹³	ʈʂ - ei - ²¹³	1642
+2313	Meixian	ts a ⁵²	ts - a - ⁵²	1642
+2314	Nanchang	ts ɛ t ⁵	ts - ɛ t ⁵	1642
+2315	Shanghai	ts o ⁵⁵	ts - o - ⁵⁵	1642
+2316	Shuangfeng	tɕ j ɛ ²³	tɕ j ɛ - ²³	1642
+2317	Suzhou	ts a ʔ ⁴	ts - a ʔ ⁴	1642
+2318	Taiyuan	ts a ʔ ²	ts - a ʔ ²	1642
+2319	Wenzhou	ts a ³²³	ts - a - ³²³	1642
+2320	XiAn	ts ei ²¹	ts - ei - ²¹	1642
+2321	Xiamen	ts ɪ k ³²	ts - ɪ k ³²	1642
+2322	Yangzhou	ts ə ʔ ⁴	ts - ə ʔ ⁴	1642
+2323	ZhongyuanYinyun	tʃ ai ²¹⁴	tʃ - ai - ²¹⁴	1642
+2324	Beijing	ʈʂʰ u a ŋ ⁵⁵	ʈʂʰ u a ŋ ⁵⁵	1644
+2325	Changsha	tɕʰ ɥ a n ³³	tɕʰ ɥ a n ³³	1644
+2326	Chaozhou	tʰ e ŋ ³³	tʰ - e ŋ ³³	1644
+2327	Chengdu	tsʰ a ŋ ⁴⁴	tsʰ - a ŋ ⁴⁴	1644
+2328	Fuzhou	tsʰ ou ŋ ⁴⁴	tsʰ - ou ŋ ⁴⁴	1644
+2329	Guangzhou	tʃʰ œ ŋ ⁵⁵	tʃʰ - œ ŋ ⁵⁵	1644
+2330	Hankou	tsʰ w a ŋ ⁵⁵	tsʰ w a ŋ ⁵⁵	1644
+2331	Jinan	ʈʂʰ u a ŋ ²¹³	ʈʂʰ u a ŋ ²¹³	1644
+2332	Meixian	tsʰ u ŋ ⁴⁴	tsʰ - u ŋ ⁴⁴	1644
+2333	Nanchang	tsʰ ɔ ŋ ⁴²	tsʰ - ɔ ŋ ⁴²	1644
+2334	Shanghai	tsʰ ɒː ⁵³	tsʰ - ɒː - ⁵³	1644
+2335	Shuangfeng	tsʰ a ŋ ⁵⁵	tsʰ - a ŋ ⁵⁵	1644
+2336	Suzhou	tsʰ ɒ ŋ ⁴⁴	tsʰ - ɒ ŋ ⁴⁴	1644
+2337	Taiyuan	tsʰ uaː ¹¹	tsʰ - uaː - ¹¹	1644
+2338	Wenzhou	tɕʰ ɥ ɔ ⁴⁴	tɕʰ ɥ ɔ - ⁴⁴	1644
+2339	XiAn	pfʰ a ŋ ²¹	- pfʰ a ŋ ²¹	1644
+2340	Xiamen	tsʰ ɔ ŋ ⁵⁵	tsʰ - ɔ ŋ ⁵⁵	1644
+2341	Yangzhou	tsʰ w ɑ ŋ ²¹	tsʰ w ɑ ŋ ²¹	1644
+2342	ZhongyuanYinyun	tʃʰ w a ŋ ⁵⁵	tʃʰ w a ŋ ⁵⁵	1644
+2343	Beijing	l i ⁵¹	l - i - ⁵¹	1650
+2344	Changsha	n i ²⁴	n - i - ²⁴	1650
+2345	Chaozhou	l i p ⁴	l - i p ⁴	1650
+2346	Chengdu	n i ³¹	n - i - ³¹	1650
+2347	Fuzhou	l i ʔ ⁴	l - i ʔ ⁴	1650
+2348	Guangzhou	l a p ²	l - a p ²	1650
+2349	Hankou	n i ²¹³	n - i - ²¹³	1650
+2350	Jinan	l i ²¹	l - i - ²¹	1650
+2351	Meixian	l i p ⁵	l - i p ⁵	1650
+2352	Nanchang	l i t ⁵	l - i t ⁵	1650
+2353	Shanghai	l ɪ ʔ ¹³	l - ɪ ʔ ¹³	1650
+2354	Shuangfeng	n i ³⁵	n - i - ³⁵	1650
+2355	Suzhou	l j ɤ ʔ ²³	l j ɤ ʔ ²³	1650
+2356	Taiyuan	l j ə ʔ ²	l j ə ʔ ²	1650
+2357	Wenzhou	l i ²¹²	l - i - ²¹²	1650
+2358	XiAn	l i ²¹	l - i - ²¹	1650
+2359	Xiamen	l i p ⁵	l - i p ⁵	1650
+2360	Yangzhou	l j ə ʔ ⁴	l j ə ʔ ⁴	1650
+2361	ZhongyuanYinyun	l i ²¹⁴	l - i - ²¹⁴	1650
+2362	Beijing	ʈʂ a n ⁵¹	ʈʂ a n ⁵¹	1651
+2363	Changsha	ts a n ⁵⁵	ts a n ⁵⁵	1651
+2364	Chaozhou	ts a m ³⁵	ts a m ³⁵	1651
+2365	Chengdu	ts a n ¹³	ts a n ¹³	1651
+2366	Fuzhou	ts a ŋ ²⁴²	ts a ŋ ²⁴²	1651
+2367	Guangzhou	tʃ aː m ²²	tʃ aː m ²²	1651
+2368	Hankou	ts a n ³⁵	ts a n ³⁵	1651
+2369	Jinan	ʈʂ aː ²¹	ʈʂ aː - ²¹	1651
+2370	Meixian	ts a n ⁵²	ts a n ⁵²	1651
+2371	Nanchang	ts a n ⁴⁵	ts a n ⁴⁵	1651
+2372	Shanghai	z ɛ ¹³	z ɛ - ¹³	1651
+2373	Shuangfeng	ts aː ³³	ts aː - ³³	1651
+2374	Suzhou	z ɛ ³¹	z ɛ - ³¹	1651
+2375	Taiyuan	ts æː ⁴⁵	ts æː - ⁴⁵	1651
+2376	Wenzhou	dz a ²²	dz a - ²²	1651
+2377	XiAn	ts aː ⁵⁵	ts aː - ⁵⁵	1651
+2378	Xiamen	ts a m ³³	ts a m ³³	1651
+2379	Yangzhou	ts ɛː ⁵⁵	ts ɛː - ⁵⁵	1651
+2380	ZhongyuanYinyun	tʃ a m ⁵¹	tʃ a m ⁵¹	1651
+2381	Beijing	ʈʂ u ³⁵	ʈʂ - u - ³⁵	1657
+2382	Changsha	ʈʂ ɤu ²⁴	ʈʂ - ɤu - ²⁴	1657
+2383	Chaozhou	t e k ²¹	t - e k ²¹	1657
+2384	Chengdu	ts u ³¹	ts - u - ³¹	1657
+2385	Fuzhou	t øy ʔ ²³	t - øy ʔ ²³	1657
+2386	Guangzhou	tʃ u k ⁵	tʃ - u k ⁵	1657
+2387	Hankou	ts ou ²¹³	ts - ou - ²¹³	1657
+2388	Jinan	ʈʂ u ²¹³	ʈʂ - u - ²¹³	1657
+2389	Meixian	ts u k ¹	ts - u k ¹	1657
+2390	Nanchang	ts u k ⁵	ts - u k ⁵	1657
+2391	Shanghai	ts o ʔ ⁵	ts - o ʔ ⁵	1657
+2392	Shuangfeng	tɕ j ʊ ²³	tɕ j ʊ - ²³	1657
+2393	Suzhou	ts o ʔ ⁴	ts - o ʔ ⁴	1657
+2394	Taiyuan	ts w ə ʔ ²	ts w ə ʔ ²	1657
+2395	Wenzhou	tɕ j u ³²³	tɕ j u - ³²³	1657
+2396	XiAn	pf u ²¹	- pf u - ²¹	1657
+2397	Xiamen	t j ɔ k ³²	t j ɔ k ³²	1657
+2398	Yangzhou	ts ɔ ʔ ⁴	ts - ɔ ʔ ⁴	1657
+2399	ZhongyuanYinyun	tʃ j u ²¹⁴	tʃ j u - ²¹⁴	1657
+2400	Beijing	ɕ j au ⁵¹	ɕ j au ⁵¹	1659
+2401	Changsha	s j au ⁵⁵	s j au ⁵⁵	1659
+2402	Chaozhou	tsʰ j e ²¹³	tsʰ j e ²¹³	1659
+2403	Chengdu	ɕ j au ¹³	ɕ j au ¹³	1659
+2404	Fuzhou	tsʰ j eu ²¹³	tsʰ j eu ²¹³	1659
+2405	Guangzhou	ʃ j u ³³	ʃ j u ³³	1659
+2406	Hankou	ɕ j au ³⁵	ɕ j au ³⁵	1659
+2407	Jinan	ɕ j ɔ ²¹	ɕ j ɔ ²¹	1659
+2408	Meixian	s j au ⁵²	s j au ⁵²	1659
+2409	Nanchang	ɕ j ɛu ⁴⁵	ɕ j ɛu ⁴⁵	1659
+2410	Shanghai	s j ɔ ⁵⁵	s j ɔ ⁵⁵	1659
+2411	Shuangfeng	ɕ j ə ³⁵	ɕ j ə ³⁵	1659
+2412	Suzhou	s j æ ⁴¹²	s j æ ⁴¹²	1659
+2413	Taiyuan	ɕ j au ⁴⁵	ɕ j au ⁴⁵	1659
+2414	Wenzhou	ɕ j ɛ ⁴²	ɕ j ɛ ⁴²	1659
+2415	XiAn	ɕ j au ⁵⁵	ɕ j au ⁵⁵	1659
+2416	Xiamen	s j au ¹¹	s j au ¹¹	1659
+2417	Yangzhou	ɕ j ɔ ⁵⁵	ɕ j ɔ ⁵⁵	1659
+2418	ZhongyuanYinyun	s j au ⁵¹	s j au ⁵¹	1659
+2419	Beijing	t ə ŋ ²¹⁴	t ə ŋ ²¹⁴	1665
+2420	Changsha	t ə n ⁴¹	t ə n ⁴¹	1665
+2421	Chaozhou	t e ŋ ⁵³	t e ŋ ⁵³	1665
+2422	Chengdu	t ə n ⁵³	t ə n ⁵³	1665
+2423	Fuzhou	t ei ŋ ³¹	t ei ŋ ³¹	1665
+2424	Guangzhou	t a ŋ ³⁵	t a ŋ ³⁵	1665
+2425	Hankou	t ə n ⁴²	t ə n ⁴²	1665
+2426	Jinan	t ə ŋ ⁵⁵	t ə ŋ ⁵⁵	1665
+2427	Meixian	t ɛ n ³¹	t ɛ n ³¹	1665
+2428	Nanchang	t ɛ n ²¹³	t ɛ n ²¹³	1665
+2429	Shanghai	t ə ŋ ⁵⁵	t ə ŋ ⁵⁵	1665
+2430	Shuangfeng	t iɛː ²¹	t iɛː - ²¹	1665
+2431	Suzhou	t ə n ⁵²	t ə n ⁵²	1665
+2432	Taiyuan	t ə n ⁵³	t ə n ⁵³	1665
+2433	Wenzhou	t a ŋ ⁴⁵	t a ŋ ⁴⁵	1665
+2434	XiAn	t ə ŋ ⁵³	t ə ŋ ⁵³	1665
+2435	Xiamen	t ɪ ŋ ⁵¹	t ɪ ŋ ⁵¹	1665
+2436	Yangzhou	t ə n ⁴²	t ə n ⁴²	1665
+2437	ZhongyuanYinyun	t ə ŋ ³⁵	t ə ŋ ³⁵	1665
+2438	Beijing	tɕ i n ⁵⁵	tɕ - i n ⁵⁵	1666
+2439	Changsha	tɕ i n ³³	tɕ - i n ³³	1666
+2440	Chaozhou	k ɯ ŋ ³³	k - ɯ ŋ ³³	1666
+2441	Chengdu	tɕ i n ⁴⁴	tɕ - i n ⁴⁴	1666
+2442	Fuzhou	k y ŋ ⁴⁴	k - y ŋ ⁴⁴	1666
+2443	Guangzhou	k a n ⁵⁵	k - a n ⁵⁵	1666
+2444	Hankou	tɕ i n ⁵⁵	tɕ - i n ⁵⁵	1666
+2445	Jinan	tɕ ieː ²¹³	tɕ - ieː - ²¹³	1666
+2446	Meixian	k i n ⁴⁴	k - i n ⁴⁴	1666
+2447	Nanchang	tɕ i n ⁴²	tɕ - i n ⁴²	1666
+2448	Shuangfeng	tɕ i n ⁵⁵	tɕ - i n ⁵⁵	1666
+2449	Suzhou	tɕ i n ⁴⁴	tɕ - i n ⁴⁴	1666
+2450	Taiyuan	tɕ i ŋ ¹¹	tɕ - i ŋ ¹¹	1666
+2451	Wenzhou	tɕ j a ŋ ⁴⁴	tɕ j a ŋ ⁴⁴	1666
+2452	XiAn	tɕ ieː ²¹	tɕ - ieː - ²¹	1666
+2453	Xiamen	k u n ⁵⁵	k - u n ⁵⁵	1666
+2454	Yangzhou	tɕ iː ²¹	tɕ - iː - ²¹	1666
+2455	Beijing	t a ³⁵	t a - ³⁵	1671
+2456	Changsha	t a ²⁴	t a - ²⁴	1671
+2457	Chaozhou	t a p ²¹	t a p ²¹	1671
+2458	Chengdu	t a ³¹	t a - ³¹	1671
+2459	Fuzhou	t a ʔ ²³	t a ʔ ²³	1671
+2460	Guangzhou	t aː p ³	t aː p ³	1671
+2461	Hankou	t a ²¹³	t a - ²¹³	1671
+2462	Jinan	t a ²¹³	t a - ²¹³	1671
+2463	Meixian	t a p ¹	t a p ¹	1671
+2464	Nanchang	t a t ⁵	t a t ⁵	1671
+2465	Shanghai	t a ʔ ⁵	t a ʔ ⁵	1671
+2466	Shuangfeng	t a ²³	t a - ²³	1671
+2467	Suzhou	t a ʔ ⁴	t a ʔ ⁴	1671
+2468	Taiyuan	t a ʔ ²	t a ʔ ²	1671
+2469	Wenzhou	t ø ³²³	t ø - ³²³	1671
+2470	XiAn	t a ²¹	t a - ²¹	1671
+2471	Xiamen	t a p ³²	t a p ³²	1671
+2472	Yangzhou	t a ʔ ⁴	t a ʔ ⁴	1671
+2473	Beijing	kʰ w ai ⁵¹	kʰ w ai ⁵¹	1673
+2474	Changsha	kʰ w ai ⁵⁵	kʰ w ai ⁵⁵	1673
+2475	Chaozhou	kʰ w ai ²¹³	kʰ w ai ²¹³	1673
+2476	Chengdu	kʰ w ai ¹³	kʰ w ai ¹³	1673
+2477	Fuzhou	kʰ w ai ²¹³	kʰ w ai ²¹³	1673
+2478	Guangzhou	f aːi ³³	f - aːi ³³	1673
+2479	Hankou	kʰ w ai ³⁵	kʰ w ai ³⁵	1673
+2480	Jinan	kʰ w ɛ ²¹	kʰ w ɛ ²¹	1673
+2481	Meixian	kʰ w ai ⁵²	kʰ w ai ⁵²	1673
+2482	Nanchang	ɸ w ai ⁴⁵	ɸ w ai ⁴⁵	1673
+2483	Shuangfeng	kʰ w a ³⁵	kʰ w a ³⁵	1673
+2484	Suzhou	kʰ u ɛ ⁴¹²	kʰ u ɛ ⁴¹²	1673
+2485	Taiyuan	kʰ w ai ⁴⁵	kʰ w ai ⁴⁵	1673
+2486	Wenzhou	kʰ a ⁴²	kʰ - a ⁴²	1673
+2487	XiAn	kʰ w ɛ ⁵⁵	kʰ w ɛ ⁵⁵	1673
+2488	Xiamen	kʰ w ai ¹¹	kʰ w ai ¹¹	1673
+2489	Yangzhou	kʰ w ɛ ⁵⁵	kʰ w ɛ ⁵⁵	1673
+2490	Beijing	tɕ j a n ⁵¹	tɕ j a n ⁵¹	1679
+2491	Changsha	ts ieː ⁵⁵	ts - ieː - ⁵⁵	1679
+2492	Chaozhou	ts iː ²¹³	ts - iː - ²¹³	1679
+2493	Chengdu	tɕ j a n ¹³	tɕ j a n ¹³	1679
+2494	Fuzhou	ts j e ŋ ²¹³	ts j e ŋ ²¹³	1679
+2495	Guangzhou	tʃ i n ³³	tʃ - i n ³³	1679
+2496	Hankou	tɕ j a n ³⁵	tɕ j a n ³⁵	1679
+2497	Jinan	tɕ iaː ²¹	tɕ - iaː - ²¹	1679
+2498	Meixian	ts j ɛ n ⁵²	ts j ɛ n ⁵²	1679
+2499	Nanchang	tɕ j ɛ n ⁴⁵	tɕ j ɛ n ⁴⁵	1679
+2500	Shanghai	ts ɪ ⁵⁵	ts - ɪ - ⁵⁵	1679
+2501	Shuangfeng	tɕ ɪː ³⁵	tɕ - ɪː - ³⁵	1679
+2502	Suzhou	ts ɪ ⁴¹²	ts - ɪ - ⁴¹²	1679
+2503	Taiyuan	tɕ j ɛ ⁴⁵	tɕ j ɛ - ⁴⁵	1679
+2504	Wenzhou	tɕ i ⁴²	tɕ - i - ⁴²	1679
+2505	XiAn	tɕ iaː ⁵⁵	tɕ - iaː - ⁵⁵	1679
+2506	Xiamen	ts j a n ¹¹	ts j a n ¹¹	1679
+2507	Yangzhou	tɕ ɪː ⁵⁵	tɕ - ɪː - ⁵⁵	1679
+2508	ZhongyuanYinyun	ts j e n ⁵¹	ts j e n ⁵¹	1679
+2509	Beijing	ɕ j a ŋ ⁵⁵	ɕ j a ŋ ⁵⁵	1680
+2510	Changsha	s j a n ³³	s j a n ³³	1680
+2511	Chaozhou	s j a ŋ ³³	s j a ŋ ³³	1680
+2512	Chengdu	ɕ j a ŋ ⁴⁴	ɕ j a ŋ ⁴⁴	1680
+2513	Fuzhou	s w ɔ ŋ ⁴⁴	s w ɔ ŋ ⁴⁴	1680
+2514	Guangzhou	ʃ œ ŋ ⁵⁵	ʃ - œ ŋ ⁵⁵	1680
+2515	Hankou	ɕ j a ŋ ⁵⁵	ɕ j a ŋ ⁵⁵	1680
+2516	Jinan	ɕ j a ŋ ²¹³	ɕ j a ŋ ²¹³	1680
+2517	Meixian	s j ɔ ŋ ⁴⁴	s j ɔ ŋ ⁴⁴	1680
+2518	Nanchang	ɕ j ɔ ŋ ⁴²	ɕ j ɔ ŋ ⁴²	1680
+2519	Shuangfeng	ɕ j a ŋ ⁵⁵	ɕ j a ŋ ⁵⁵	1680
+2520	Suzhou	s j a ŋ ⁴⁴	s j a ŋ ⁴⁴	1680
+2521	Taiyuan	ɕ iɒː ¹¹	ɕ - iɒː - ¹¹	1680
+2522	Wenzhou	ɕ i ⁴⁴	ɕ - i - ⁴⁴	1680
+2523	XiAn	ɕ j a ŋ ²¹	ɕ j a ŋ ²¹	1680
+2524	Xiamen	s j ɔ ŋ ⁵⁵	s j ɔ ŋ ⁵⁵	1680
+2525	Yangzhou	ɕ j ɑ ŋ ²¹	ɕ j ɑ ŋ ²¹	1680
+2526	Beijing	p o ²¹⁴	p - o ²¹⁴	1690
+2527	Changsha	p o ⁴¹	p - o ⁴¹	1690
+2528	Chaozhou	p w a ²¹³	p w a ²¹³	1690
+2529	Chengdu	p o ⁵³	p - o ⁵³	1690
+2530	Fuzhou	p ɔ ⁴⁴	p - ɔ ⁴⁴	1690
+2531	Guangzhou	p ɔ ³⁵	p - ɔ ³⁵	1690
+2532	Hankou	p o ³⁵	p - o ³⁵	1690
+2533	Jinan	p ə ⁵⁵	p - ə ⁵⁵	1690
+2534	Meixian	p ɔ ⁴⁴	p - ɔ ⁴⁴	1690
+2535	Nanchang	p o ⁴²	p - o ⁴²	1690
+2536	Shanghai	p u ⁵³	p - u ⁵³	1690
+2537	Shuangfeng	p ʊ ⁵⁵	p - ʊ ⁵⁵	1690
+2538	Suzhou	p u ⁴⁴	p - u ⁴⁴	1690
+2539	Taiyuan	p ə ⁵³	p - ə ⁵³	1690
+2540	XiAn	p o ⁵³	p - o ⁵³	1690
+2541	Xiamen	p ɔ ¹¹	p - ɔ ¹¹	1690
+2542	Yangzhou	p o ⁴²	p - o ⁴²	1690
+2543	ZhongyuanYinyun	p w o ³⁵	p w o ³⁵	1690
+2544	Beijing	m i ²¹⁴	m i ²¹⁴	1701
+2545	Changsha	m i ⁴¹	m i ⁴¹	1701
+2546	Chaozhou	b i ⁵³	b i ⁵³	1701
+2547	Chengdu	m i ⁵³	m i ⁵³	1701
+2548	Fuzhou	m i ³¹	m i ³¹	1701
+2549	Guangzhou	m ai ²³	m ai ²³	1701
+2550	Hankou	m i ⁴²	m i ⁴²	1701
+2551	Jinan	m i ⁵⁵	m i ⁵⁵	1701
+2552	Meixian	m i ³¹	m i ³¹	1701
+2553	Nanchang	m i ²¹³	m i ²¹³	1701
+2554	Shanghai	m i ¹³	m i ¹³	1701
+2555	Shuangfeng	m i ²¹	m i ²¹	1701
+2556	Suzhou	m i ³¹	m i ³¹	1701
+2557	Taiyuan	m i ⁵³	m i ⁵³	1701
+2558	Wenzhou	m i ³⁴	m i ³⁴	1701
+2559	XiAn	m i ⁵³	m i ⁵³	1701
+2560	Xiamen	b i ⁵¹	b i ⁵¹	1701
+2561	Yangzhou	m i ⁴²	m i ⁴²	1701
+2562	ZhongyuanYinyun	m i ³⁵	m i ³⁵	1701
+2563	Beijing	s u ⁵¹	s - u - ⁵¹	1706
+2564	Changsha	s j ɤu ²⁴	s j ɤu - ²⁴	1706
+2565	Chaozhou	s o k ²¹	s - o k ²¹	1706
+2566	Chengdu	s u ³¹	s - u - ³¹	1706
+2567	Fuzhou	s øy ʔ ²³	s - øy ʔ ²³	1706
+2568	Guangzhou	ʃ u k ⁵	ʃ - u k ⁵	1706
+2569	Hankou	ɕ j ou ²¹³	ɕ j ou - ²¹³	1706
+2570	Jinan	ɕ y ²¹³	ɕ - y - ²¹³	1706
+2571	Meixian	s j u k ¹	s j u k ¹	1706
+2572	Nanchang	ɕ j u k ⁵	ɕ j u k ⁵	1706
+2573	Shanghai	s o ʔ ⁵	s - o ʔ ⁵	1706
+2574	Shuangfeng	ɕ j ʊ ²³	ɕ j ʊ - ²³	1706
+2575	Suzhou	s o ʔ ⁴	s - o ʔ ⁴	1706
+2576	Taiyuan	ɕ ɥ ə ʔ ²	ɕ ɥ ə ʔ ²	1706
+2577	Wenzhou	ɕ ɥ o ³²³	ɕ ɥ o - ³²³	1706
+2578	XiAn	ɕ y ²¹	ɕ - y - ²¹	1706
+2579	Xiamen	tsʰ j ɔ k ³²	tsʰ j ɔ k ³²	1706
+2580	Yangzhou	s ɔ ʔ ⁴	s - ɔ ʔ ⁴	1706
+2581	ZhongyuanYinyun	s j u ²¹⁴	s j u - ²¹⁴	1706
+2582	Beijing	ʈʂ ou ⁵⁵	ʈʂ - ou - ⁵⁵	1707
+2583	Changsha	ʈʂ ɤu ²⁴	ʈʂ - ɤu - ²⁴	1707
+2584	Chaozhou	ts o k ⁴	ts - o k ⁴	1707
+2585	Chengdu	ts u ³¹	ts - u - ³¹	1707
+2586	Fuzhou	ts øy ʔ ²³	ts - øy ʔ ²³	1707
+2587	Guangzhou	tʃ u k ⁵	tʃ - u k ⁵	1707
+2588	Hankou	ts ou ²¹³	ts - ou - ²¹³	1707
+2589	Jinan	ʈʂ ou ²¹³	ʈʂ - ou - ²¹³	1707
+2590	Meixian	ts u k ¹	ts - u k ¹	1707
+2591	Nanchang	ts u k ⁵	ts - u k ⁵	1707
+2592	Shanghai	ts o ʔ ⁵	ts - o ʔ ⁵	1707
+2593	Shuangfeng	tɕ j ʊ ²³	tɕ j ʊ - ²³	1707
+2594	Suzhou	ts o ʔ ⁴	ts - o ʔ ⁴	1707
+2595	Taiyuan	ts w ə ʔ ²	ts w ə ʔ ²	1707
+2596	Wenzhou	tɕ j u ³²³	tɕ j u - ³²³	1707
+2597	XiAn	pf u ²¹	pf - u - ²¹	1707
+2598	Xiamen	ts j ɔ k ³²	ts j ɔ k ³²	1707
+2599	Yangzhou	ts ɔ ʔ ⁴	ts - ɔ ʔ ⁴	1707
+2600	ZhongyuanYinyun	tʃ j ou ²¹⁴	tʃ j ou - ²¹⁴	1707
+2601	Beijing	tʰ a ŋ ³⁵	tʰ a ŋ ³⁵	1713
+2602	Changsha	tʰ a n ¹³	tʰ a n ¹³	1713
+2603	Chaozhou	tʰ ɯ ŋ ⁵⁵	tʰ ɯ ŋ ⁵⁵	1713
+2604	Chengdu	tʰ a ŋ ³¹	tʰ a ŋ ³¹	1713
+2605	Fuzhou	t ou ŋ ⁵²	t ou ŋ ⁵²	1713
+2606	Guangzhou	tʰ ɔ ŋ ²¹	tʰ ɔ ŋ ²¹	1713
+2607	Hankou	tʰ a ŋ ²¹³	tʰ a ŋ ²¹³	1713
+2608	Jinan	tʰ a ŋ ⁴²	tʰ a ŋ ⁴²	1713
+2609	Meixian	tʰ ɔ ŋ ¹¹	tʰ ɔ ŋ ¹¹	1713
+2610	Nanchang	tʰ ɔ ŋ ²⁴	tʰ ɔ ŋ ²⁴	1713
+2611	Shanghai	t ɒː ¹³	t ɒː - ¹³	1713
+2612	Shuangfeng	d a ŋ ²³	d a ŋ ²³	1713
+2613	Suzhou	d ɒ ŋ ²⁴	d ɒ ŋ ²⁴	1713
+2614	Taiyuan	tʰ ɒː ¹¹	tʰ ɒː - ¹¹	1713
+2615	Wenzhou	d ɔ ³¹	d ɔ - ³¹	1713
+2616	XiAn	tʰ a ŋ ²⁴	tʰ a ŋ ²⁴	1713
+2617	Xiamen	tʰ ɔ ŋ ²⁴	tʰ ɔ ŋ ²⁴	1713
+2618	Yangzhou	tʰ ɑ ŋ ³⁴	tʰ ɑ ŋ ³⁴	1713
+2619	ZhongyuanYinyun	tʰ a ŋ ⁵⁵	tʰ a ŋ ⁵⁵	1713
+2620	Beijing	kʰ a ŋ ⁵⁵	kʰ a ŋ ⁵⁵	1717
+2621	Changsha	kʰ a n ³³	kʰ a n ³³	1717
+2622	Chaozhou	kʰ a ŋ ³³	kʰ a ŋ ³³	1717
+2623	Chengdu	kʰ a ŋ ⁴⁴	kʰ a ŋ ⁴⁴	1717
+2624	Fuzhou	kʰ ou ŋ ⁴⁴	kʰ ou ŋ ⁴⁴	1717
+2625	Guangzhou	h ɔ ŋ ⁵⁵	h ɔ ŋ ⁵⁵	1717
+2626	Hankou	kʰ a ŋ ⁵⁵	kʰ a ŋ ⁵⁵	1717
+2627	Jinan	kʰ a ŋ ²¹³	kʰ a ŋ ²¹³	1717
+2628	Meixian	kʰ ɔ ŋ ⁴⁴	kʰ ɔ ŋ ⁴⁴	1717
+2629	Nanchang	kʰ ɔ ŋ ⁴²	kʰ ɔ ŋ ⁴²	1717
+2630	Shuangfeng	kʰ a ŋ ⁵⁵	kʰ a ŋ ⁵⁵	1717
+2631	Suzhou	kʰ ɒ ŋ ⁴⁴	kʰ ɒ ŋ ⁴⁴	1717
+2632	Taiyuan	kʰ ɒː ¹¹	kʰ ɒː - ¹¹	1717
+2633	Wenzhou	kʰ ɔ ⁴⁴	kʰ ɔ - ⁴⁴	1717
+2634	XiAn	kʰ a ŋ ²¹	kʰ a ŋ ²¹	1717
+2635	Xiamen	kʰ ɔ ŋ ⁵⁵	kʰ ɔ ŋ ⁵⁵	1717
+2636	Yangzhou	kʰ ɑ ŋ ²¹	kʰ ɑ ŋ ²¹	1717
+2637	Beijing	n w o ⁵¹	n w o - ⁵¹	1719
+2638	Changsha	n o ²¹	n - o - ²¹	1719
+2639	Chaozhou	n o ³⁵	n - o - ³⁵	1719
+2640	Chengdu	n o ¹³	n - o - ¹³	1719
+2641	Fuzhou	n ɔ ²⁴²	n - ɔ - ²⁴²	1719
+2642	Guangzhou	n ɔ ²²	n - ɔ - ²²	1719
+2643	Hankou	n o ³⁵	n - o - ³⁵	1719
+2644	Jinan	n w ə ²¹	n w ə - ²¹	1719
+2645	Meixian	n ɔ ⁵²	n - ɔ - ⁵²	1719
+2646	Nanchang	l o ⁴⁵	l - o - ⁴⁵	1719
+2647	Shanghai	n ou ¹³	n - ou - ¹³	1719
+2648	Shuangfeng	n əu ³³	n - əu - ³³	1719
+2649	Suzhou	n əu ³¹	n - əu - ³¹	1719
+2650	Taiyuan	n w ə ⁴⁵	n w ə - ⁴⁵	1719
+2651	Wenzhou	n o ŋ ²²	n - o ŋ ²²	1719
+2652	XiAn	n w o ⁵⁵	n w o - ⁵⁵	1719
+2653	Xiamen	l o ³³	l - o - ³³	1719
+2654	Yangzhou	n o ⁵⁵	n - o - ⁵⁵	1719
+2655	ZhongyuanYinyun	n w o ⁵¹	n w o - ⁵¹	1719
+2656	Beijing	l ei ²¹⁴	l - ei ²¹⁴	1738
+2657	Changsha	n ei ⁴¹	n - ei ⁴¹	1738
+2658	Chaozhou	l w i ⁵³	l w i ⁵³	1738
+2659	Chengdu	n w ei ⁵³	n w ei ⁵³	1738
+2660	Fuzhou	l w ei ³¹	l w ei ³¹	1738
+2661	Guangzhou	l œy ²³	l - œy ²³	1738
+2662	Hankou	n ei ⁴²	n - ei ⁴²	1738
+2663	Jinan	l w ei ²¹	l w ei ²¹	1738
+2664	Meixian	l w i ³¹	l w i ³¹	1738
+2665	Nanchang	l w i ²¹³	l w i ²¹³	1738
+2666	Shanghai	l ei ¹³	l - ei ¹³	1738
+2667	Shuangfeng	n y ²¹	n - y ²¹	1738
+2668	Suzhou	l ɛ ³¹	l - ɛ ³¹	1738
+2669	Taiyuan	l w ei ⁵³	l w ei ⁵³	1738
+2670	Wenzhou	l ai ³⁴	l - ai ³⁴	1738
+2671	XiAn	l w ei ⁵³	l w ei ⁵³	1738
+2672	Xiamen	l w i ⁵¹	l w i ⁵¹	1738
+2673	Yangzhou	l w əi ⁴²	l w əi ⁴²	1738
+2674	ZhongyuanYinyun	l w ei ⁵¹	l w ei ⁵¹	1738
+2675	Beijing	ɕ y ⁵¹	ɕ - y ⁵¹	1749
+2676	Changsha	s i ⁵⁵	s - i ⁵⁵	1749
+2677	Chaozhou	s u ³⁵	s - u ³⁵	1749
+2678	Chengdu	s w ei ¹³	s w ei ¹³	1749
+2679	Fuzhou	s øy ²¹³	s - øy ²¹³	1749
+2680	Guangzhou	ʃ œy ²²	ʃ - œy ²²	1749
+2681	Hankou	ɕ y ³⁵	ɕ - y ³⁵	1749
+2682	Jinan	ɕ y ²¹	ɕ - y ²¹	1749
+2683	Meixian	s i ⁵²	s - i ⁵²	1749
+2684	Nanchang	ɕ y ⁴⁵	ɕ - y ⁴⁵	1749
+2685	Shanghai	s y ⁵³	s - y ⁵³	1749
+2686	Shuangfeng	ɕ y ³⁵	ɕ - y ³⁵	1749
+2687	Suzhou	s i ⁴⁴	s - i ⁴⁴	1749
+2688	Taiyuan	ɕ y ⁴⁵	ɕ - y ⁴⁵	1749
+2689	Wenzhou	s ɿ ⁴²	s - ɿ ⁴²	1749
+2690	XiAn	ɕ y ⁵⁵	ɕ - y ⁵⁵	1749
+2691	Xiamen	s u ¹¹	s - u ¹¹	1749
+2692	Yangzhou	ɕ y ⁵⁵	ɕ - y ⁵⁵	1749
+2693	ZhongyuanYinyun	s j u ⁵¹	s j u ⁵¹	1749
+2694	Beijing	tɕʰ ɥ e ⁵⁵	tɕʰ ɥ e - ⁵⁵	1790
+2695	Changsha	tɕʰ ɥ e ²⁴	tɕʰ ɥ e - ²⁴	1790
+2696	Chaozhou	kʰ w e ʔ ²¹	kʰ w e ʔ ²¹	1790
+2697	Chengdu	tɕʰ ɥ e ³¹	tɕʰ ɥ e - ³¹	1790
+2698	Fuzhou	kʰ w ɔ ʔ ²³	kʰ w ɔ ʔ ²³	1790
+2699	Guangzhou	kʰ y t ³	kʰ - y t ³	1790
+2700	Hankou	tɕʰ ɥ e ²¹³	tɕʰ ɥ e - ²¹³	1790
+2701	Jinan	tɕʰ ɥ e ²¹³	tɕʰ ɥ e - ²¹³	1790
+2702	Meixian	kʰ j a t ¹	kʰ j a t ¹	1790
+2703	Nanchang	tɕʰ ɥ ɔ t ⁵	tɕʰ ɥ ɔ t ⁵	1790
+2704	Shanghai	tɕʰ j o ʔ ⁵	tɕʰ j o ʔ ⁵	1790
+2705	Shuangfeng	tʰ w ɛ ²³	tʰ w ɛ - ²³	1790
+2706	Suzhou	tɕʰ ɥ ɤ ʔ ⁴	tɕʰ ɥ ɤ ʔ ⁴	1790
+2707	Taiyuan	tɕʰ ɥ ə ʔ ²	tɕʰ ɥ ə ʔ ²	1790
+2708	Wenzhou	tɕʰ y ³²³	tɕʰ - y - ³²³	1790
+2709	XiAn	tɕʰ ɥ e ²¹	tɕʰ ɥ e - ²¹	1790
+2710	Xiamen	kʰ w a t ³²	kʰ w a t ³²	1790
+2711	Yangzhou	tɕʰ ɥ ə ʔ ⁴	tɕʰ ɥ ə ʔ ⁴	1790
+2712	Beijing	k w a n ⁵¹	k w a n ⁵¹	1791
+2713	Changsha	k oː ⁵⁵	k - oː - ⁵⁵	1791
+2714	Chaozhou	k w e ŋ ²¹³	k w e ŋ ²¹³	1791
+2715	Chengdu	k w a n ¹³	k w a n ¹³	1791
+2716	Fuzhou	k w a ŋ ²¹³	k w a ŋ ²¹³	1791
+2717	Guangzhou	k u n ³³	k - u n ³³	1791
+2718	Hankou	k w a n ³⁵	k w a n ³⁵	1791
+2719	Jinan	k uaː ²¹	k - uaː - ²¹	1791
+2720	Meixian	k w ɔ n ⁵²	k w ɔ n ⁵²	1791
+2721	Nanchang	k w ɔ n ⁴⁵	k w ɔ n ⁴⁵	1791
+2722	Shuangfeng	k uɛː ³⁵	k - uɛː - ³⁵	1791
+2723	Suzhou	k w ø ⁴¹²	k w ø - ⁴¹²	1791
+2724	Taiyuan	k uæː ⁴⁵	k - uæː - ⁴⁵	1791
+2725	Wenzhou	k y ⁴²	k - y - ⁴²	1791
+2726	XiAn	k uaː ⁵⁵	k - uaː - ⁵⁵	1791
+2727	Xiamen	k w a n ¹¹	k w a n ¹¹	1791
+2728	Yangzhou	k w o ⁵⁵	k w o - ⁵⁵	1791
+2729	Beijing	j a ŋ ³⁵	j a ŋ ³⁵	1799
+2730	Changsha	j a n ¹³	j a n ¹³	1799
+2731	Chaozhou	ieː ⁵⁵	- ieː - ⁵⁵	1799
+2732	Chengdu	j a ŋ ³¹	j a ŋ ³¹	1799
+2733	Fuzhou	ɥ ɔ ŋ ⁵²	ɥ ɔ ŋ ⁵²	1799
+2734	Guangzhou	j œ ŋ ²¹	j œ ŋ ²¹	1799
+2735	Hankou	j a ŋ ²¹³	j a ŋ ²¹³	1799
+2736	Jinan	j a ŋ ⁴²	j a ŋ ⁴²	1799
+2737	Meixian	j ɔ ŋ ¹¹	j ɔ ŋ ¹¹	1799
+2738	Nanchang	j ɔ ŋ ⁴⁵	j ɔ ŋ ⁴⁵	1799
+2739	Shanghai	iaː ¹³	- iaː - ¹³	1799
+2740	Shuangfeng	j a ŋ ²³	j a ŋ ²³	1799
+2741	Suzhou	j a ŋ ²⁴	j a ŋ ²⁴	1799
+2742	Taiyuan	iɒː ¹¹	- iɒː - ¹¹	1799
+2743	Wenzhou	ɦ i ³¹	ɦ i - ³¹	1799
+2744	XiAn	j a ŋ ²⁴	j a ŋ ²⁴	1799
+2745	Xiamen	j ɔ ŋ ²⁴	j ɔ ŋ ²⁴	1799
+2746	Yangzhou	j a ŋ ³⁴	j a ŋ ³⁴	1799
+2747	ZhongyuanYinyun	j a ŋ ⁵⁵	j a ŋ ⁵⁵	1799
+2748	Beijing	m ei ²¹⁴	m - ei ²¹⁴	1800
+2749	Changsha	m ei ⁴¹	m - ei ⁴¹	1800
+2750	Chaozhou	m w i ⁵³	m w i ⁵³	1800
+2751	Chengdu	m ei ⁵³	m - ei ⁵³	1800
+2752	Fuzhou	m i ³¹	m - i ³¹	1800
+2753	Guangzhou	m ei ²³	m - ei ²³	1800
+2754	Hankou	m ei ⁴²	m - ei ⁴²	1800
+2755	Jinan	m ei ⁵⁵	m - ei ⁵⁵	1800
+2756	Meixian	m i ⁴⁴	m - i ⁴⁴	1800
+2757	Nanchang	m əi ²¹³	m - əi ²¹³	1800
+2758	Shanghai	m ɛ ⁵⁵	m - ɛ ⁵⁵	1800
+2759	Shuangfeng	m i ²¹	m - i ²¹	1800
+2760	Suzhou	m ɛ ⁵²	m - ɛ ⁵²	1800
+2761	Taiyuan	m ei ⁵³	m - ei ⁵³	1800
+2762	Wenzhou	m ei ³⁴	m - ei ³⁴	1800
+2763	XiAn	m ei ⁵³	m - ei ⁵³	1800
+2764	Xiamen	b i ⁵¹	- b i ⁵¹	1800
+2765	Yangzhou	m əi ⁴²	m - əi ⁴²	1800
+2766	ZhongyuanYinyun	m ei ³⁵	m - ei ³⁵	1800
+2767	Beijing	ɕ j ou ⁵⁵	ɕ j ou ⁵⁵	1802
+2768	Changsha	s j ɤu ³³	s j ɤu ³³	1802
+2769	Chaozhou	s j u ³³	s j u ³³	1802
+2770	Fuzhou	s j eu ⁴⁴	s j eu ⁴⁴	1802
+2771	Guangzhou	ʃ au ⁵⁵	ʃ - au ⁵⁵	1802
+2772	Hankou	ɕ j ou ⁵⁵	ɕ j ou ⁵⁵	1802
+2773	Jinan	ɕ j ou ²¹³	ɕ j ou ²¹³	1802
+2774	Meixian	s j u ⁴⁴	s j u ⁴⁴	1802
+2775	Nanchang	ɕ j u ⁴²	ɕ j u ⁴²	1802
+2776	Shuangfeng	s j ʊ ⁵⁵	s j ʊ ⁵⁵	1802
+2777	Suzhou	s øy ⁴⁴	s - øy ⁴⁴	1802
+2778	Taiyuan	ɕ j ou ¹¹	ɕ j ou ¹¹	1802
+2779	Wenzhou	ɕ j u ⁴⁴	ɕ j u ⁴⁴	1802
+2780	XiAn	ɕ j ou ²¹	ɕ j ou ²¹	1802
+2781	Xiamen	s j u ⁵⁵	s j u ⁵⁵	1802
+2782	Yangzhou	ɕ j ɤɯ ²¹	ɕ j ɤɯ ²¹	1802
+2783	Beijing	ʈʂʰ ʅ ⁵¹	ʈʂʰ - ʅ ⁵¹	1807
+2784	Changsha	ʈʂʰ ʅ ⁵⁵	ʈʂʰ - ʅ ⁵⁵	1807
+2785	Chaozhou	tʰ i ²¹³	tʰ - i ²¹³	1807
+2786	Chengdu	tsʰ ɿ ¹³	tsʰ - ɿ ¹³	1807
+2787	Fuzhou	tsʰ j e ²¹³	tsʰ j e ²¹³	1807
+2788	Guangzhou	tʃʰ i ³³	tʃʰ - i ³³	1807
+2789	Hankou	tsʰ ɿ ³⁵	tsʰ - ɿ ³⁵	1807
+2790	Jinan	ʈʂʰ ʅ ²¹	ʈʂʰ - ʅ ²¹	1807
+2791	Meixian	tsʰ ɿ ⁴⁴	tsʰ - ɿ ⁴⁴	1807
+2792	Nanchang	tsʰ ɿ ²¹³	tsʰ - ɿ ²¹³	1807
+2793	Shanghai	ts ɿ ⁵⁵	ts - ɿ ⁵⁵	1807
+2794	Shuangfeng	ʈʂ ʅ ³⁵	ʈʂ - ʅ ³⁵	1807
+2795	Suzhou	ts ɥ ⁴¹²	ts ɥ - ⁴¹²	1807
+2796	Taiyuan	tsʰ ɿ ⁴⁵	tsʰ - ɿ ⁴⁵	1807
+2797	Wenzhou	tsʰ ɿ ⁴²	tsʰ - ɿ ⁴²	1807
+2798	XiAn	tsʰ ɿ ⁵⁵	tsʰ - ɿ ⁵⁵	1807
+2799	Xiamen	tʰ i ¹¹	tʰ - i ¹¹	1807
+2800	Yangzhou	tsʰ ɿ ⁵⁵	tsʰ - ɿ ⁵⁵	1807
+2801	ZhongyuanYinyun	tʃʰ ɿ ⁵¹	tʃʰ - ɿ ⁵¹	1807
+2802	Beijing	f a n ⁵⁵	f - a n ⁵⁵	1811
+2803	Changsha	f a n ³³	f - a n ³³	1811
+2804	Chaozhou	h w e ŋ ³³	h w e ŋ ³³	1811
+2805	Chengdu	f a n ⁴⁴	f - a n ⁴⁴	1811
+2806	Fuzhou	x w a ŋ ⁴⁴	x w a ŋ ⁴⁴	1811
+2807	Guangzhou	f aː n ⁵⁵	f - aː n ⁵⁵	1811
+2808	Hankou	f a n ⁵⁵	f - a n ⁵⁵	1811
+2809	Jinan	f aː ²¹³	f - aː - ²¹³	1811
+2810	Meixian	f a n ⁴⁴	f - a n ⁴⁴	1811
+2811	Nanchang	ɸ w a n ⁴²	ɸ w a n ⁴²	1811
+2812	Shanghai	f ɛ ⁵³	f - ɛ - ⁵³	1811
+2813	Shuangfeng	x uaː ⁵⁵	x - uaː - ⁵⁵	1811
+2814	Suzhou	f ɛ ⁴⁴	f - ɛ - ⁴⁴	1811
+2815	Taiyuan	f æː ¹¹	f - æː - ¹¹	1811
+2816	Wenzhou	f a ⁴⁴	f - a - ⁴⁴	1811
+2817	XiAn	f aː ²¹	f - aː - ²¹	1811
+2818	Xiamen	h w a n ⁵⁵	h w a n ⁵⁵	1811
+2819	Yangzhou	f ɛː ²¹	f - ɛː - ²¹	1811
+2820	ZhongyuanYinyun	f a n ⁵⁵	f - a n ⁵⁵	1811
+2821	Beijing	l au ²¹⁴	l au ²¹⁴	1812
+2822	Changsha	n au ⁴¹	n au ⁴¹	1812
+2823	Chaozhou	l au ³⁵	l au ³⁵	1812
+2824	Chengdu	n au ⁵³	n au ⁵³	1812
+2825	Fuzhou	l ɔ ³¹	l ɔ ³¹	1812
+2826	Guangzhou	l ou ²³	l ou ²³	1812
+2827	Hankou	n au ⁴²	n au ⁴²	1812
+2828	Jinan	l ɔ ⁵⁵	l ɔ ⁵⁵	1812
+2829	Meixian	l au ³¹	l au ³¹	1812
+2830	Nanchang	l au ²¹³	l au ²¹³	1812
+2831	Shanghai	l ɔ ¹³	l ɔ ¹³	1812
+2832	Shuangfeng	n ə ²¹	n ə ²¹	1812
+2833	Suzhou	l æ ³¹	l æ ³¹	1812
+2834	Taiyuan	l au ⁵³	l au ⁵³	1812
+2835	Wenzhou	l ɜ ³⁴	l ɜ ³⁴	1812
+2836	XiAn	l au ⁵³	l au ⁵³	1812
+2837	Xiamen	l au ⁵¹	l au ⁵¹	1812
+2838	Yangzhou	l ɔ ⁴²	l ɔ ⁴²	1812
+2839	ZhongyuanYinyun	l au ³⁵	l au ³⁵	1812
+2840	Beijing	k ə ŋ ⁵⁵	k - ə ŋ ⁵⁵	1817
+2841	Changsha	k ə n ³³	k - ə n ³³	1817
+2842	Chaozhou	k eː ³³	k - eː - ³³	1817
+2843	Chengdu	k ə n ⁴⁴	k - ə n ⁴⁴	1817
+2844	Fuzhou	k ei ŋ ⁴⁴	k - ei ŋ ⁴⁴	1817
+2845	Guangzhou	k aː ŋ ⁵⁵	k - aː ŋ ⁵⁵	1817
+2846	Hankou	k ə n ⁵⁵	k - ə n ⁵⁵	1817
+2847	Jinan	tɕ i ŋ ²¹³	tɕ - i ŋ ²¹³	1817
+2848	Meixian	k ɛ n ⁴⁴	k - ɛ n ⁴⁴	1817
+2849	Nanchang	k ɛ n ⁴²	k - ɛ n ⁴²	1817
+2850	Shanghai	k ə ŋ ⁵³	k - ə ŋ ⁵³	1817
+2851	Shuangfeng	k iɛː ⁵⁵	k - iɛː - ⁵⁵	1817
+2852	Suzhou	k ə n ⁴⁴	k - ə n ⁴⁴	1817
+2853	Taiyuan	k ə ŋ ¹¹	k - ə ŋ ¹¹	1817
+2854	Wenzhou	k j ɛ ⁴⁴	k j ɛ - ⁴⁴	1817
+2855	XiAn	k ə ŋ ²¹	k - ə ŋ ²¹	1817
+2856	Xiamen	k ɪ ŋ ⁵⁵	k - ɪ ŋ ⁵⁵	1817
+2857	Yangzhou	k ə n ²¹	k - ə n ²¹	1817
+2858	Beijing	ə ²¹⁴	- ə ²¹⁴	1819
+2859	Changsha	ɤ ⁴¹	- ɤ ⁴¹	1819
+2860	Chaozhou	h iː ³⁵	h iː ³⁵	1819
+2861	Chengdu	ə ⁵³	- ə ⁵³	1819
+2862	Fuzhou	ŋ i ³¹	ŋ i ³¹	1819
+2863	Guangzhou	j i ²³	j i ²³	1819
+2864	Hankou	ɯ ⁴²	- ɯ ⁴²	1819
+2865	Jinan	ə ⁵⁵	- ə ⁵⁵	1819
+2866	Meixian	ɲ i ³¹	ɲ i ³¹	1819
+2867	Nanchang	ɞ ²¹³	- ɞ ²¹³	1819
+2868	Shanghai	ɦ ə ¹³	ɦ ə ¹³	1819
+2869	Shuangfeng	j e ²¹	j e ²¹	1819
+2870	Suzhou	l ²⁴	l - ²⁴	1819
+2871	Taiyuan	ə ⁵³	- ə ⁵³	1819
+2872	Wenzhou	z ɿ ³¹	z ɿ ³¹	1819
+2873	XiAn	ə ⁵³	- ə ⁵³	1819
+2874	Xiamen	dz i ⁵¹	dz i ⁵¹	1819
+2875	Yangzhou	ɑ ⁴²	- ɑ ⁴²	1819
+2876	ZhongyuanYinyun	ʒ ɿ ³⁵	ʒ ɿ ³⁵	1819
+2877	Beijing	ʐ ou ⁵¹	- ʐ ou - ⁵¹	1832
+2878	Changsha	ʐ ɤu ²⁴	- ʐ ɤu - ²⁴	1832
+2879	Chaozhou	n e k ⁴	n - e k ⁴	1832
+2880	Chengdu	z əu ¹³	- z əu - ¹³	1832
+2881	Fuzhou	n y ʔ ⁴	n - y ʔ ⁴	1832
+2882	Guangzhou	j u ²	- j u - ²	1832
+2883	Hankou	n ou ²¹³	n - ou - ²¹³	1832
+2884	Jinan	ʐ ou ²¹	- ʐ ou - ²¹	1832
+2885	Meixian	ɲ j u k ¹	ɲ j u k ¹	1832
+2886	Nanchang	ɲ j u k ⁵	ɲ j u k ⁵	1832
+2887	Shanghai	ɲ j o ʔ ¹³	ɲ j o ʔ ¹³	1832
+2888	Shuangfeng	ɲ j ʊ ²³	ɲ j ʊ - ²³	1832
+2889	Suzhou	z o ʔ ²³	- z o ʔ ²³	1832
+2890	Taiyuan	z ou ⁴⁵	- z ou - ⁴⁵	1832
+2891	Wenzhou	ɲ j u ²¹²	ɲ j u - ²¹²	1832
+2892	XiAn	ʐ ou ⁵⁵	- ʐ ou - ⁵⁵	1832
+2893	Xiamen	dz j ɔ k ⁵	dz j ɔ k ⁵	1832
+2894	Yangzhou	l ɤɯ ⁵⁵	- l ɤɯ - ⁵⁵	1832
+2895	ZhongyuanYinyun	ʒ j ou ²¹⁴	ʒ j ou - ²¹⁴	1832
+2896	Beijing	t u ²¹⁴	t u ²¹⁴	1835
+2897	Changsha	t ɤu ⁴¹	t ɤu ⁴¹	1835
+2898	Chaozhou	t ou ³⁵	t ou ³⁵	1835
+2899	Chengdu	t u ⁵³	t u ⁵³	1835
+2900	Fuzhou	t u ³¹	t u ³¹	1835
+2901	Guangzhou	tʰ ou ²³	tʰ ou ²³	1835
+2902	Hankou	t ou ⁴²	t ou ⁴²	1835
+2903	Jinan	t u ⁵⁵	t u ⁵⁵	1835
+2904	Meixian	t u ³¹	t u ³¹	1835
+2905	Nanchang	t u ²¹³	t u ²¹³	1835
+2906	Shanghai	t ou ¹³	t ou ¹³	1835
+2907	Shuangfeng	t əu ²¹	t əu ²¹	1835
+2908	Suzhou	t əu ⁵²	t əu ⁵²	1835
+2909	Taiyuan	t u ⁵³	t u ⁵³	1835
+2910	Wenzhou	t ɵy ⁴⁵	t ɵy ⁴⁵	1835
+2911	XiAn	t ou ⁵³	t ou ⁵³	1835
+2912	Xiamen	t ɔ ⁵¹	t ɔ ⁵¹	1835
+2913	Yangzhou	t u ⁴²	t u ⁴²	1835
+2914	Beijing	k a ŋ ⁵⁵	k - a ŋ ⁵⁵	1836
+2915	Changsha	k a n ³³	k - a n ³³	1836
+2916	Chaozhou	k a ŋ ³³	k - a ŋ ³³	1836
+2917	Chengdu	k a ŋ ⁴⁴	k - a ŋ ⁴⁴	1836
+2918	Fuzhou	k ou ŋ ⁴⁴	k - ou ŋ ⁴⁴	1836
+2919	Guangzhou	k ɔ ŋ ⁵⁵	k - ɔ ŋ ⁵⁵	1836
+2920	Hankou	k a ŋ ⁵⁵	k - a ŋ ⁵⁵	1836
+2921	Jinan	k a ŋ ²¹³	k - a ŋ ²¹³	1836
+2922	Meixian	k ɔ ŋ ⁴⁴	k - ɔ ŋ ⁴⁴	1836
+2923	Nanchang	k ɔ ŋ ⁴²	k - ɔ ŋ ⁴²	1836
+2924	Shanghai	k ɒː ⁵³	k - ɒː - ⁵³	1836
+2925	Shuangfeng	k a ŋ ⁵⁵	k - a ŋ ⁵⁵	1836
+2926	Suzhou	k ɒ ŋ ⁴⁴	k - ɒ ŋ ⁴⁴	1836
+2927	Taiyuan	k ɒː ¹¹	k - ɒː - ¹¹	1836
+2928	Wenzhou	k w ɔ ⁴⁴	k w ɔ - ⁴⁴	1836
+2929	XiAn	k a ŋ ²¹	k - a ŋ ²¹	1836
+2930	Xiamen	k ɔ ŋ ⁵⁵	k - ɔ ŋ ⁵⁵	1836
+2931	Yangzhou	k ɑ ŋ ²¹	k - ɑ ŋ ²¹	1836
+2932	Beijing	k a n ⁵⁵	k a n ⁵⁵	1837
+2933	Changsha	k a n ³³	k a n ³³	1837
+2934	Chaozhou	k a ŋ ³³	k a ŋ ³³	1837
+2935	Chengdu	k a n ⁴⁴	k a n ⁴⁴	1837
+2936	Fuzhou	k a ŋ ⁴⁴	k a ŋ ⁴⁴	1837
+2937	Guangzhou	k ɔ n ⁵⁵	k ɔ n ⁵⁵	1837
+2938	Hankou	k a n ⁵⁵	k a n ⁵⁵	1837
+2939	Jinan	k aː ²¹³	k aː - ²¹³	1837
+2940	Meixian	k ɔ n ⁴⁴	k ɔ n ⁴⁴	1837
+2941	Nanchang	k ɔ n ⁴²	k ɔ n ⁴²	1837
+2942	Shanghai	k ø ⁵³	k ø - ⁵³	1837
+2943	Shuangfeng	k uɛː ⁵⁵	k uɛː - ⁵⁵	1837
+2944	Suzhou	k ø ⁴⁴	k ø - ⁴⁴	1837
+2945	Taiyuan	k æː ¹¹	k æː - ¹¹	1837
+2946	Wenzhou	k y ⁴⁴	k y - ⁴⁴	1837
+2947	XiAn	k aː ²¹	k aː - ²¹	1837
+2948	Xiamen	k a n ⁵⁵	k a n ⁵⁵	1837
+2949	Yangzhou	k ɛː ²¹	k ɛː - ²¹	1837
+2950	ZhongyuanYinyun	k a n ⁵⁵	k a n ⁵⁵	1837
+2951	Beijing	k u ²¹⁴	k u ²¹⁴	1838
+2952	Changsha	k u ⁴¹	k u ⁴¹	1838
+2953	Chaozhou	k ou ⁵³	k ou ⁵³	1838
+2954	Chengdu	k u ⁵³	k u ⁵³	1838
+2955	Fuzhou	k u ³¹	k u ³¹	1838
+2956	Guangzhou	k u ³⁵	k u ³⁵	1838
+2957	Hankou	k u ⁴²	k u ⁴²	1838
+2958	Jinan	k u ⁵⁵	k u ⁵⁵	1838
+2959	Meixian	k u ³¹	k u ³¹	1838
+2960	Nanchang	k u ²¹³	k u ²¹³	1838
+2961	Shuangfeng	k əu ²¹	k əu ²¹	1838
+2962	Suzhou	k əu ⁵²	k əu ⁵²	1838
+2963	Taiyuan	kʰ u ⁵³	kʰ u ⁵³	1838
+2964	Wenzhou	k u ⁴⁵	k u ⁴⁵	1838
+2965	XiAn	k u ⁵³	k u ⁵³	1838
+2966	Xiamen	k ɔ ⁵¹	k ɔ ⁵¹	1838
+2967	Yangzhou	k u ⁴²	k u ⁴²	1838
+2968	Beijing	tɕ j a n ⁵⁵	tɕ j a n ⁵⁵	1841
+2969	Changsha	tɕ ieː ³³	tɕ - ieː - ³³	1841
+2970	Chaozhou	k oiː ³³	k - oiː - ³³	1841
+2971	Chengdu	tɕ j a n ⁴⁴	tɕ j a n ⁴⁴	1841
+2972	Fuzhou	k j e ŋ ⁴⁴	k j e ŋ ⁴⁴	1841
+2973	Guangzhou	k i n ⁵⁵	k - i n ⁵⁵	1841
+2974	Hankou	tɕ j a n ⁵⁵	tɕ j a n ⁵⁵	1841
+2975	Jinan	tɕ iaː ²¹³	tɕ - iaː - ²¹³	1841
+2976	Meixian	k j a n ⁴⁴	k j a n ⁴⁴	1841
+2977	Nanchang	tɕ j ɛ n ⁴²	tɕ j ɛ n ⁴²	1841
+2978	Shanghai	tɕ ɪ ⁵³	tɕ - ɪ - ⁵³	1841
+2979	Shuangfeng	tɕ ɪː ⁵⁵	tɕ - ɪː - ⁵⁵	1841
+2980	Suzhou	tɕ ɪ ⁴⁴	tɕ - ɪ - ⁴⁴	1841
+2981	Taiyuan	tɕ j ɛ ¹¹	tɕ j ɛ - ¹¹	1841
+2982	Wenzhou	tɕ i ⁴⁴	tɕ - i - ⁴⁴	1841
+2983	XiAn	tɕ iaː ²¹	tɕ - iaː - ²¹	1841
+2984	Xiamen	k j a n ⁵⁵	k j a n ⁵⁵	1841
+2985	Yangzhou	tɕ ɪː ²¹	tɕ - ɪː - ²¹	1841
+2986	ZhongyuanYinyun	k j e n ⁵⁵	k j e n ⁵⁵	1841
+2987	Beijing	f ei ⁵¹	f - ei ⁵¹	1845
+2988	Changsha	f ei ⁵⁵	f - ei ⁵⁵	1845
+2989	Chaozhou	h w i ²¹³	h w i ²¹³	1845
+2990	Chengdu	f ei ¹³	f - ei ¹³	1845
+2991	Fuzhou	x j e ²¹³	x j e ²¹³	1845
+2992	Guangzhou	f ai ³³	f - ai ³³	1845
+2993	Hankou	f ei ³⁵	f - ei ³⁵	1845
+2994	Jinan	f ei ²¹	f - ei ²¹	1845
+2995	Meixian	f i ⁵²	f - i ⁵²	1845
+2996	Nanchang	ɸ w i ⁴⁵	ɸ w i ⁴⁵	1845
+2997	Shanghai	f i ⁵⁵	f - i ⁵⁵	1845
+2998	Shuangfeng	x w i ³⁵	x w i ³⁵	1845
+2999	Suzhou	f i ⁴¹²	f - i ⁴¹²	1845
+3000	Taiyuan	f ei ⁴⁵	f - ei ⁴⁵	1845
+3001	Wenzhou	f ei ⁴²	f - ei ⁴²	1845
+3002	XiAn	f ei ⁵⁵	f - ei ⁵⁵	1845
+3003	Xiamen	h w i ¹¹	h w i ¹¹	1845
+3004	Yangzhou	f əi ⁵⁵	f - əi ⁵⁵	1845
+3005	ZhongyuanYinyun	f ei ⁵¹	f - ei ⁵¹	1845
+3006	Beijing	w ei ⁵¹	- w ei ⁵¹	1846
+3007	Changsha	w ei ⁵⁵	- w ei ⁵⁵	1846
+3008	Chaozhou	w i ³⁵	- w i ³⁵	1846
+3009	Chengdu	w ei ¹³	- w ei ¹³	1846
+3010	Fuzhou	w ei ²⁴²	- w ei ²⁴²	1846
+3011	Guangzhou	w ai ²²	- w ai ²²	1846
+3012	Hankou	w ei ³⁵	- w ei ³⁵	1846
+3013	Jinan	w ei ²¹	- w ei ²¹	1846
+3014	Meixian	v i ⁵²	- v i ⁵²	1846
+3015	Nanchang	w i ⁴⁵	- w i ⁴⁵	1846
+3016	Shanghai	u ɛ ¹³	- u ɛ ¹³	1846
+3017	Shuangfeng	w i ³⁵	- w i ³⁵	1846
+3018	Suzhou	ɦ u ɛ ³¹	ɦ u ɛ ³¹	1846
+3019	Taiyuan	v ei ⁴⁵	- v ei ⁴⁵	1846
+3020	Wenzhou	v u ²²	- v u ²²	1846
+3021	XiAn	w ei ⁵⁵	- w ei ⁵⁵	1846
+3022	Xiamen	w i ³³	- w i ³³	1846
+3023	Yangzhou	w əi ⁵⁵	- w əi ⁵⁵	1846
+3024	ZhongyuanYinyun	w ei ⁵¹	- w ei ⁵¹	1846
+3025	Beijing	p ei ⁵¹	p - ei ⁵¹	1847
+3026	Changsha	p ei ⁵⁵	p - ei ⁵⁵	1847
+3027	Chaozhou	p w e ²¹³	p w e ²¹³	1847
+3028	Chengdu	p ei ¹³	p - ei ¹³	1847
+3029	Fuzhou	p w ei ²¹³	p w ei ²¹³	1847
+3030	Guangzhou	p w i ³³	p w i ³³	1847
+3031	Hankou	p ei ³⁵	p - ei ³⁵	1847
+3032	Jinan	p ei ²¹	p - ei ²¹	1847
+3033	Meixian	p ɔi ⁵²	p - ɔi ⁵²	1847
+3034	Nanchang	p əi ⁴⁵	p - əi ⁴⁵	1847
+3035	Shanghai	p ɛ ⁵⁵	p - ɛ ⁵⁵	1847
+3036	Shuangfeng	p j e ³⁵	p j e ³⁵	1847
+3037	Suzhou	p ɛ ⁴¹²	p - ɛ ⁴¹²	1847
+3038	Taiyuan	p ei ⁴⁵	p - ei ⁴⁵	1847
+3039	Wenzhou	p ai ⁴²	p - ai ⁴²	1847
+3040	XiAn	p ei ⁵⁵	p - ei ⁵⁵	1847
+3041	Xiamen	p w e ¹¹	p w e ¹¹	1847
+3042	Yangzhou	p əi ⁵⁵	p - əi ⁵⁵	1847
+3043	ZhongyuanYinyun	p ei ⁵¹	p - ei ⁵¹	1847
+3044	Beijing	pʰ a ŋ ⁵¹	pʰ - a ŋ ⁵¹	1849
+3045	Changsha	pʰ a n ⁵⁵	pʰ - a n ⁵⁵	1849
+3046	Chaozhou	pʰ a ŋ ²¹³	pʰ - a ŋ ²¹³	1849
+3047	Chengdu	pʰ a ŋ ¹³	pʰ - a ŋ ¹³	1849
+3048	Fuzhou	pʰ w a ŋ ²¹³	pʰ w a ŋ ²¹³	1849
+3049	Guangzhou	pʰ u n ³³	pʰ - u n ³³	1849
+3050	Hankou	pʰ a ŋ ³⁵	pʰ - a ŋ ³⁵	1849
+3051	Jinan	pʰ a ŋ ²¹	pʰ - a ŋ ²¹	1849
+3052	Meixian	pʰ a ŋ ⁵²	pʰ - a ŋ ⁵²	1849
+3053	Nanchang	pʰ ɔ ŋ ²¹³	pʰ - ɔ ŋ ²¹³	1849
+3054	Shanghai	pʰ ɒː ⁵⁵	pʰ - ɒː - ⁵⁵	1849
+3055	Shuangfeng	pʰ a ŋ ³⁵	pʰ - a ŋ ³⁵	1849
+3056	Suzhou	pʰ ɒ ŋ ⁴¹²	pʰ - ɒ ŋ ⁴¹²	1849
+3057	Taiyuan	pʰ ɒː ⁴⁵	pʰ - ɒː - ⁴⁵	1849
+3058	Wenzhou	pʰ w ɔ ⁴²	pʰ w ɔ - ⁴²	1849
+3059	XiAn	pʰ a ŋ ⁵⁵	pʰ - a ŋ ⁵⁵	1849
+3060	Xiamen	pʰ ɔ ŋ ¹¹	pʰ - ɔ ŋ ¹¹	1849
+3061	Yangzhou	pʰ ɑ ŋ ⁵⁵	pʰ - ɑ ŋ ⁵⁵	1849
+3062	Beijing	x u ³⁵	x u ³⁵	1850
+3063	Changsha	f u ¹³	f u ¹³	1850
+3064	Chaozhou	ou ⁵⁵	- ou ⁵⁵	1850
+3065	Chengdu	f u ³¹	f u ³¹	1850
+3066	Fuzhou	x u ⁵²	x u ⁵²	1850
+3067	Guangzhou	w u ²¹	w u ²¹	1850
+3068	Hankou	x u ²¹³	x u ²¹³	1850
+3069	Jinan	x u ⁴²	x u ⁴²	1850
+3070	Meixian	f u ¹¹	f u ¹¹	1850
+3071	Nanchang	ɸ u ⁴⁵	ɸ u ⁴⁵	1850
+3072	Shanghai	ɦ u ¹³	ɦ u ¹³	1850
+3073	Shuangfeng	ɣ əu ²³	ɣ əu ²³	1850
+3074	Suzhou	ɦ əu ²⁴	ɦ əu ²⁴	1850
+3075	Taiyuan	x u ¹¹	x u ¹¹	1850
+3076	Wenzhou	v u ³¹	v u ³¹	1850
+3077	XiAn	x u ²⁴	x u ²⁴	1850
+3078	Xiamen	h ɔ ²⁴	h ɔ ²⁴	1850
+3079	Yangzhou	x u ³⁴	x u ³⁴	1850
+3080	ZhongyuanYinyun	x u ⁵⁵	x u ⁵⁵	1850
+3081	Beijing	ɕ y ŋ ⁵⁵	ɕ - y ŋ ⁵⁵	1851
+3082	Changsha	ɕ j o ŋ ³³	ɕ j o ŋ ³³	1851
+3083	Chaozhou	h e ŋ ³³	h - e ŋ ³³	1851
+3084	Chengdu	ɕ ɥ o ŋ ⁴⁴	ɕ ɥ o ŋ ⁴⁴	1851
+3085	Fuzhou	x y ŋ ⁴⁴	x - y ŋ ⁴⁴	1851
+3086	Guangzhou	h u ŋ ⁵⁵	h - u ŋ ⁵⁵	1851
+3087	Hankou	ɕ j o ŋ ⁵⁵	ɕ j o ŋ ⁵⁵	1851
+3088	Jinan	ɕ y ŋ ²¹³	ɕ - y ŋ ²¹³	1851
+3089	Meixian	h j u ŋ ⁴⁴	h j u ŋ ⁴⁴	1851
+3090	Nanchang	ɕ j u ŋ ⁴²	ɕ j u ŋ ⁴²	1851
+3091	Shanghai	ɕ j o ŋ ⁵³	ɕ j o ŋ ⁵³	1851
+3092	Shuangfeng	ɕ y n ⁵⁵	ɕ - y n ⁵⁵	1851
+3093	Suzhou	ɕ j o ŋ ⁴⁴	ɕ j o ŋ ⁴⁴	1851
+3094	Taiyuan	ɕ y ŋ ¹¹	ɕ - y ŋ ¹¹	1851
+3095	Wenzhou	ɕ ɥ ɔ ⁴⁴	ɕ ɥ ɔ - ⁴⁴	1851
+3096	XiAn	ɕ y ŋ ²¹	ɕ - y ŋ ²¹	1851
+3097	Xiamen	h j ɔ ŋ ⁵⁵	h j ɔ ŋ ⁵⁵	1851
+3098	Yangzhou	ɕ j ɔu ŋ ²¹	ɕ j ɔu ŋ ²¹	1851
+3099	ZhongyuanYinyun	x j u ŋ ⁵⁵	x j u ŋ ⁵⁵	1851
+3100	Beijing	f u ²¹⁴	f - u ²¹⁴	1859
+3101	Changsha	f u ⁴¹	f - u ⁴¹	1859
+3102	Chaozhou	p ou ⁵³	p - ou ⁵³	1859
+3103	Chengdu	pʰ u ⁵³	pʰ - u ⁵³	1859
+3104	Fuzhou	pʰ w ɔ ³¹	pʰ w ɔ ³¹	1859
+3105	Guangzhou	f u ³⁵	f - u ³⁵	1859
+3106	Hankou	f u ⁴²	f - u ⁴²	1859
+3107	Jinan	f u ⁵⁵	f - u ⁵⁵	1859
+3108	Meixian	pʰ u ³¹	pʰ - u ³¹	1859
+3109	Nanchang	pʰ u ²¹³	pʰ - u ²¹³	1859
+3110	Shanghai	pʰ u ⁵⁵	pʰ - u ⁵⁵	1859
+3111	Shuangfeng	x əu ²¹	x - əu ²¹	1859
+3112	Suzhou	f u ⁵²	f - u ⁵²	1859
+3113	Taiyuan	f u ⁵³	f - u ⁵³	1859
+3114	Wenzhou	f u ⁴⁵	f - u ⁴⁵	1859
+3115	XiAn	f u ⁵³	f - u ⁵³	1859
+3116	Xiamen	h u ⁵¹	h - u ⁵¹	1859
+3117	Yangzhou	pʰ u ⁴²	pʰ - u ⁴²	1859
+3118	ZhongyuanYinyun	f u ³⁵	f - u ³⁵	1859
+3119	Beijing	f u ²¹⁴	f u ²¹⁴	1863
+3120	Changsha	f u ⁴¹	f u ⁴¹	1863
+3121	Chaozhou	h u ¹¹	h u ¹¹	1863
+3122	Chengdu	f u ⁵³	f u ⁵³	1863
+3123	Fuzhou	x u ²⁴²	x u ²⁴²	1863
+3124	Guangzhou	f u ²²	f u ²²	1863
+3125	Hankou	f u ⁴²	f u ⁴²	1863
+3126	Jinan	f u ⁴²	f u ⁴²	1863
+3127	Meixian	f u ⁵²	f u ⁵²	1863
+3128	Nanchang	ɸ u ²¹³	ɸ u ²¹³	1863
+3129	Shanghai	v u ¹³	v u ¹³	1863
+3130	Shuangfeng	x əu ²¹	x əu ²¹	1863
+3131	Suzhou	v u ³¹	v u ³¹	1863
+3132	Taiyuan	f u ⁵³	f u ⁵³	1863
+3133	Wenzhou	v u ²²	v u ²²	1863
+3134	XiAn	f u ⁵³	f u ⁵³	1863
+3135	Xiamen	h u ⁵¹	h u ⁵¹	1863
+3136	Yangzhou	f u ⁴²	f u ⁴²	1863
+3137	ZhongyuanYinyun	f u ³⁵	f u ³⁵	1863
+3138	Beijing	j au ⁵⁵	j - au ⁵⁵	1869
+3139	Changsha	j au ³³	j - au ³³	1869
+3140	Chaozhou	j o ³³	j - o ³³	1869
+3141	Chengdu	j au ⁴⁴	j - au ⁴⁴	1869
+3142	Fuzhou	j eu ⁴⁴	j - eu ⁴⁴	1869
+3143	Guangzhou	j j u ⁵⁵	j j u ⁵⁵	1869
+3144	Hankou	j au ⁵⁵	j - au ⁵⁵	1869
+3145	Jinan	j ɔ ²¹³	j - ɔ ²¹³	1869
+3146	Meixian	j au ⁴⁴	j - au ⁴⁴	1869
+3147	Nanchang	j ɛu ⁴²	j - ɛu ⁴²	1869
+3148	Shanghai	j ɔ ⁵³	j - ɔ ⁵³	1869
+3149	Shuangfeng	j ə ⁵⁵	j - ə ⁵⁵	1869
+3150	Suzhou	j æ ⁴⁴	j - æ ⁴⁴	1869
+3151	Taiyuan	j au ¹¹	j - au ¹¹	1869
+3152	Wenzhou	j ɛ ⁴⁴	j - ɛ ⁴⁴	1869
+3153	XiAn	j au ²¹	j - au ²¹	1869
+3154	Xiamen	j au ⁵⁵	j - au ⁵⁵	1869
+3155	Yangzhou	j ɔ ²¹	j - ɔ ²¹	1869
+3156	ZhongyuanYinyun	j au ⁵⁵	j - au ⁵⁵	1869
+3157	Beijing	tʰ w ei ²¹⁴	tʰ w ei ²¹⁴	1874
+3158	Changsha	tʰ ei ⁴¹	tʰ - ei ⁴¹	1874
+3159	Chaozhou	tʰ w i ⁵³	tʰ w i ⁵³	1874
+3160	Chengdu	tʰ w ei ⁵³	tʰ w ei ⁵³	1874
+3161	Fuzhou	tʰ øy ³¹	tʰ - øy ³¹	1874
+3162	Guangzhou	tʰ œy ³⁵	tʰ - œy ³⁵	1874
+3163	Hankou	tʰ ei ⁴²	tʰ - ei ⁴²	1874
+3164	Jinan	tʰ w ei ⁵⁵	tʰ w ei ⁵⁵	1874
+3165	Meixian	tʰ w i ³¹	tʰ w i ³¹	1874
+3166	Nanchang	tʰ w i ²¹³	tʰ w i ²¹³	1874
+3167	Shanghai	tʰ ɛ ⁵⁵	tʰ - ɛ ⁵⁵	1874
+3168	Shuangfeng	tʰ w e ²¹	tʰ w e ²¹	1874
+3169	Suzhou	tʰ ɛ ⁵²	tʰ - ɛ ⁵²	1874
+3170	Taiyuan	tʰ w ei ⁵³	tʰ w ei ⁵³	1874
+3171	Wenzhou	tʰ ai ⁴⁵	tʰ - ai ⁴⁵	1874
+3172	XiAn	tʰ w ei ⁵³	tʰ w ei ⁵³	1874
+3173	Xiamen	tʰ w i ⁵¹	tʰ w i ⁵¹	1874
+3174	Yangzhou	tʰ w əi ⁴²	tʰ w əi ⁴²	1874
+3175	ZhongyuanYinyun	tʰ w ei ³⁵	tʰ w ei ³⁵	1874
+3176	Beijing	ts ɿ ⁵¹	ts ɿ ⁵¹	1892
+3177	Changsha	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1892
+3178	Chaozhou	ts ɿ ³⁵	ts ɿ ³⁵	1892
+3179	Chengdu	ts ɿ ¹³	ts ɿ ¹³	1892
+3180	Fuzhou	ts øy ²⁴²	ts øy ²⁴²	1892
+3181	Guangzhou	tʃ i ²²	tʃ i ²²	1892
+3182	Hankou	ts ɿ ³⁵	ts ɿ ³⁵	1892
+3183	Jinan	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1892
+3184	Meixian	tsʰ ɿ ⁵²	tsʰ ɿ ⁵²	1892
+3185	Nanchang	tsʰ ɿ ²¹	tsʰ ɿ ²¹	1892
+3186	Shanghai	z ɿ ¹³	z ɿ ¹³	1892
+3187	Shuangfeng	dz ɿ ³³	dz ɿ ³³	1892
+3188	Suzhou	z ɿ ³¹	z ɿ ³¹	1892
+3189	Taiyuan	ts ɿ ⁴⁵	ts ɿ ⁴⁵	1892
+3190	Wenzhou	z ɿ ²²	z ɿ ²²	1892
+3191	XiAn	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1892
+3192	Xiamen	ts u ³³	ts u ³³	1892
+3193	Yangzhou	ts ɿ ⁵⁵	ts ɿ ⁵⁵	1892
+3194	ZhongyuanYinyun	ts ɿ ⁵¹	ts ɿ ⁵¹	1892
+3195	Beijing	ʈʂʰ ou ⁵¹	ʈʂʰ - ou ⁵¹	1893
+3196	Changsha	ʈʂʰ ɤu ⁵⁵	ʈʂʰ - ɤu ⁵⁵	1893
+3197	Chaozhou	tsʰ au ²¹³	tsʰ - au ²¹³	1893
+3198	Chengdu	tsʰ əu ¹³	tsʰ - əu ¹³	1893
+3199	Fuzhou	tsʰ j eu ²¹³	tsʰ j eu ²¹³	1893
+3200	Guangzhou	tʃʰ au ³³	tʃʰ - au ³³	1893
+3201	Hankou	tsʰ ou ³⁵	tsʰ - ou ³⁵	1893
+3202	Jinan	ʈʂʰ ou ²¹	ʈʂʰ - ou ²¹	1893
+3203	Meixian	tsʰ u ⁵²	tsʰ - u ⁵²	1893
+3204	Nanchang	tsʰ ɛu ²¹³	tsʰ - ɛu ²¹³	1893
+3205	Shanghai	tsʰ ɤɯ ⁵⁵	tsʰ - ɤɯ ⁵⁵	1893
+3206	Shuangfeng	tɕʰ j ʊ ³⁵	tɕʰ j ʊ ³⁵	1893
+3207	Suzhou	tsʰ øy ⁴¹²	tsʰ - øy ⁴¹²	1893
+3208	Taiyuan	tsʰ ou ⁴⁵	tsʰ - ou ⁴⁵	1893
+3209	Wenzhou	tɕʰ j u ⁴²	tɕʰ j u ⁴²	1893
+3210	XiAn	ʈʂʰ ou ⁵⁵	ʈʂʰ - ou ⁵⁵	1893
+3211	Xiamen	tsʰ j u ¹¹	tsʰ j u ¹¹	1893
+3212	Yangzhou	tsʰ ɤɯ ⁵⁵	tsʰ - ɤɯ ⁵⁵	1893
+3213	ZhongyuanYinyun	tʃʰ j ou ⁵¹	tʃʰ j ou ⁵¹	1893
+3214	Beijing	ʈʂʰ u ŋ ⁵⁵	ʈʂʰ - u ŋ ⁵⁵	1897
+3215	Changsha	ʈʂʰ o ŋ ³³	ʈʂʰ - o ŋ ³³	1897
+3216	Chaozhou	ts e ŋ ³³	ts - e ŋ ³³	1897
+3217	Chengdu	tsʰ o ŋ ⁴⁴	tsʰ - o ŋ ⁴⁴	1897
+3218	Fuzhou	ts y ŋ ⁴⁴	ts - y ŋ ⁴⁴	1897
+3219	Guangzhou	tʃʰ u ŋ ⁵⁵	tʃʰ - u ŋ ⁵⁵	1897
+3220	Hankou	tsʰ o ŋ ⁵⁵	tsʰ - o ŋ ⁵⁵	1897
+3221	Jinan	ʈʂʰ u ŋ ²¹³	ʈʂʰ - u ŋ ²¹³	1897
+3222	Meixian	tsʰ u ŋ ⁴⁴	tsʰ - u ŋ ⁴⁴	1897
+3223	Nanchang	tsʰ u ŋ ⁴²	tsʰ - u ŋ ⁴²	1897
+3224	Shanghai	tsʰ ə ŋ ⁵³	tsʰ - ə ŋ ⁵³	1897
+3225	Shuangfeng	tɕʰ i n ⁵⁵	tɕʰ - i n ⁵⁵	1897
+3226	Suzhou	s o ŋ ⁴⁴	s - o ŋ ⁴⁴	1897
+3227	Taiyuan	tsʰ u ŋ ¹¹	tsʰ - u ŋ ¹¹	1897
+3228	Wenzhou	tɕʰ ɥ o ŋ ⁴⁴	tɕʰ ɥ o ŋ ⁴⁴	1897
+3229	XiAn	pfʰ o ŋ ²¹	pfʰ - o ŋ ²¹	1897
+3230	Xiamen	tsʰ j ɔ ŋ ⁵⁵	tsʰ j ɔ ŋ ⁵⁵	1897
+3231	Yangzhou	tsʰ ɔu ŋ ²¹	tsʰ - ɔu ŋ ²¹	1897
+3232	ZhongyuanYinyun	tʃʰ j u ŋ ⁵⁵	tʃʰ j u ŋ ⁵⁵	1897
+3233	Beijing	tɕ j ou ⁵¹	tɕ j ou ⁵¹	1898
+3234	Changsha	tɕ j ɤu ⁵⁵	tɕ j ɤu ⁵⁵	1898
+3235	Chaozhou	k u ³⁵	k - u ³⁵	1898
+3236	Chengdu	tɕ j əu ¹³	tɕ j əu ¹³	1898
+3237	Fuzhou	k j eu ²⁴²	k j eu ²⁴²	1898
+3238	Guangzhou	kʰ au ²³	kʰ - au ²³	1898
+3239	Hankou	tɕ j ou ³⁵	tɕ j ou ³⁵	1898
+3240	Jinan	tɕ j ou ²¹	tɕ j ou ²¹	1898
+3241	Meixian	kʰ j u ⁴⁴	kʰ j u ⁴⁴	1898
+3242	Nanchang	tɕʰ j u ²¹	tɕʰ j u ²¹	1898
+3243	Shanghai	tɕ j ɯ ¹³	tɕ j ɯ ¹³	1898
+3244	Shuangfeng	tɕʰ j ʊ ³³	tɕʰ j ʊ ³³	1898
+3245	Taiyuan	tɕ j ou ⁴⁵	tɕ j ou ⁴⁵	1898
+3246	Wenzhou	dʑ j au ³⁴	dʑ j au ³⁴	1898
+3247	XiAn	tɕ j ou ⁵⁵	tɕ j ou ⁵⁵	1898
+3248	Xiamen	k u ³³	k - u ³³	1898
+3249	Yangzhou	tɕ j ɤɯ ⁵⁵	tɕ j ɤɯ ⁵⁵	1898
+3250	ZhongyuanYinyun	k j ou ⁵¹	k j ou ⁵¹	1898
+3251	Beijing	ʂ ɤ ³⁵	ʂ - ɤ - ³⁵	1903
+3252	Changsha	ʂ ɤ ²⁴	ʂ - ɤ - ²⁴	1903
+3253	Chaozhou	ts i ʔ ⁴	ts - i ʔ ⁴	1903
+3254	Chengdu	s e ³¹	s - e - ³¹	1903
+3255	Fuzhou	s j e ʔ ⁴	s j e ʔ ⁴	1903
+3256	Guangzhou	ʃ i t ²	ʃ - i t ²	1903
+3257	Hankou	s ɤ ²¹³	s - ɤ - ²¹³	1903
+3258	Jinan	ʂ ə ⁴²	ʂ - ə - ⁴²	1903
+3259	Meixian	s a t ⁵	s - a t ⁵	1903
+3260	Nanchang	s ɛ t ⁵	s - ɛ t ⁵	1903
+3261	Shanghai	z ɤ ʔ ¹³	z - ɤ ʔ ¹³	1903
+3262	Shuangfeng	ɕ j ɛ ³⁵	ɕ j ɛ - ³⁵	1903
+3263	Suzhou	z ɤ ʔ ²³	z - ɤ ʔ ²³	1903
+3264	Taiyuan	s ə ʔ ²	s - ə ʔ ²	1903
+3265	Wenzhou	ɦ i ²¹²	ɦ - i - ²¹²	1903
+3266	XiAn	ʂ ɤ ²⁴	ʂ - ɤ - ²⁴	1903
+3267	Xiamen	s j a t ⁵	s j a t ⁵	1903
+3268	Yangzhou	ɕ j ə ʔ ⁴	ɕ j ə ʔ ⁴	1903
+3269	ZhongyuanYinyun	ʃ j e ʔ ²¹⁴	ʃ j e ʔ ²¹⁴	1903
+3270	Beijing	ʈʂʰ u a n ³⁵	ʈʂʰ - u a n ³⁵	1911
+3271	Changsha	tɕ yeː ¹³	tɕ - yeː - - ¹³	1911
+3272	Chaozhou	ts u ŋ ⁵⁵	ts - u - ŋ ⁵⁵	1911
+3273	Chengdu	tsʰ w a n ³¹	tsʰ w a - n ³¹	1911
+3274	Fuzhou	s u ŋ ⁵²	s - u - ŋ ⁵²	1911
+3275	Guangzhou	s y n ²¹	s - y - n ²¹	1911
+3276	Hankou	tsʰ w a n ²¹³	tsʰ w a - n ²¹³	1911
+3277	Jinan	ʈʂʰ u aː ⁴²	ʈʂʰ - u aː - ⁴²	1911
+3278	Meixian	s ɔ n ¹¹	s - ɔ - n ¹¹	1911
+3279	Nanchang	s w ɔ n ⁴⁵	s w ɔ - n ⁴⁵	1911
+3280	Shanghai	z ø ¹³	z - ø - - ¹³	1911
+3281	Shuangfeng	d uiː ²³	d - uiː - - ²³	1911
+3282	Suzhou	z ø ²⁴	z - ø - - ²⁴	1911
+3283	Taiyuan	tsʰ uæː ¹¹	tsʰ - uæː - - ¹¹	1911
+3284	Wenzhou	ɦ y ³¹	ɦ - y - - ³¹	1911
+3285	XiAn	pfʰ aː ²⁴	pfʰ - aː - - ²⁴	1911
+3286	Xiamen	s w a n ²⁴	s w a - n ²⁴	1911
+3287	Yangzhou	tsʰ uoː ³⁴	tsʰ - uoː - - ³⁴	1911
+3288	ZhongyuanYinyun	tʃʰ ɥ e n ⁵⁵	tʃʰ ɥ e - n ⁵⁵	1911
+3289	Beijing	ʈʂ ʅ ⁵⁵	ʈʂ - ʅ ⁵⁵	1917
+3290	Changsha	ʈʂ ʅ ³³	ʈʂ - ʅ ³³	1917
+3291	Chaozhou	ts ɿ ³³	ts - ɿ ³³	1917
+3292	Chengdu	ts ɿ ⁴⁴	ts - ɿ ⁴⁴	1917
+3293	Fuzhou	ts j e ⁴⁴	ts j e ⁴⁴	1917
+3294	Guangzhou	tʃ i ⁵⁵	tʃ - i ⁵⁵	1917
+3295	Hankou	ts ɿ ⁵⁵	ts - ɿ ⁵⁵	1917
+3296	Jinan	ʈʂ ʅ ²¹³	ʈʂ - ʅ ²¹³	1917
+3297	Meixian	ts ɿ ⁴⁴	ts - ɿ ⁴⁴	1917
+3298	Nanchang	ts ɿ ⁴²	ts - ɿ ⁴²	1917
+3299	Shanghai	ts ɿ ⁵³	ts - ɿ ⁵³	1917
+3300	Shuangfeng	ʈʂ ʅ ⁵⁵	ʈʂ - ʅ ⁵⁵	1917
+3301	Suzhou	ts ɥ ⁴⁴	ts ɥ - ⁴⁴	1917
+3302	Taiyuan	ts ɿ ¹¹	ts - ɿ ¹¹	1917
+3303	Wenzhou	ts ɿ ⁴⁴	ts - ɿ ⁴⁴	1917
+3304	XiAn	ts ɿ ²¹	ts - ɿ ²¹	1917
+3305	Xiamen	ts i ²⁴	ts - i ²⁴	1917
+3306	Yangzhou	ts ɿ ²¹	ts - ɿ ²¹	1917
+3307	ZhongyuanYinyun	tʃ ɿ ⁵⁵	tʃ - ɿ ⁵⁵	1917
+3308	Beijing	x w a ⁵⁵	x w a ⁵⁵	1920
+3309	Changsha	f a ³³	f - a ³³	1920
+3310	Chaozhou	h w e ³³	h w e ³³	1920
+3311	Chengdu	x w a ⁴⁴	x w a ⁴⁴	1920
+3312	Fuzhou	x w a ⁴⁴	x w a ⁴⁴	1920
+3313	Guangzhou	f a ⁵⁵	f - a ⁵⁵	1920
+3314	Hankou	x w a ⁵⁵	x w a ⁵⁵	1920
+3315	Jinan	x w a ²¹³	x w a ²¹³	1920
+3316	Meixian	f a ⁴⁴	f - a ⁴⁴	1920
+3317	Nanchang	ɸ w a ⁴²	ɸ w a ⁴²	1920
+3318	Shanghai	h o ⁵³	h - o ⁵³	1920
+3319	Shuangfeng	x o ⁵⁵	x - o ⁵⁵	1920
+3320	Suzhou	h w ɒ ⁴⁴	h w ɒ ⁴⁴	1920
+3321	Taiyuan	x w a ¹¹	x w a ¹¹	1920
+3322	Wenzhou	x o ⁴⁴	x - o ⁴⁴	1920
+3323	XiAn	x w a ²¹	x w a ²¹	1920
+3324	Xiamen	h w a ⁵⁵	h w a ⁵⁵	1920
+3325	Yangzhou	x w ɑ ²¹	x w ɑ ²¹	1920
+3326	ZhongyuanYinyun	x w a ⁵⁵	x w a ⁵⁵	1920
+3327	Beijing	j a ³⁵	j a ³⁵	1923
+3328	Changsha	j a ¹³	j a ¹³	1923
+3329	Chaozhou	g e ⁵⁵	g e ⁵⁵	1923
+3330	Chengdu	j a ³¹	j a ³¹	1923
+3331	Fuzhou	ŋ a ⁵²	ŋ a ⁵²	1923
+3332	Guangzhou	ŋ a ²¹	ŋ a ²¹	1923
+3333	Hankou	j a ²¹³	j a ²¹³	1923
+3334	Jinan	j a ⁴²	j a ⁴²	1923
+3335	Meixian	ŋ a ¹¹	ŋ a ¹¹	1923
+3336	Nanchang	ŋ a ⁴⁵	ŋ a ⁴⁵	1923
+3337	Shanghai	ŋ a ¹³	ŋ a ¹³	1923
+3338	Shuangfeng	ŋ o ²³	ŋ o ²³	1923
+3339	Suzhou	j ɒ ²⁴	j ɒ ²⁴	1923
+3340	Taiyuan	j a ¹¹	j a ¹¹	1923
+3341	Wenzhou	ŋ o ³¹	ŋ o ³¹	1923
+3342	XiAn	j a ²⁴	j a ²⁴	1923
+3343	Xiamen	g a ²⁴	g a ²⁴	1923
+3344	Yangzhou	j ɑ ³⁴	j ɑ ³⁴	1923
+3345	ZhongyuanYinyun	a ⁵⁵	- a ⁵⁵	1923
+3346	Beijing	kʰ u ²¹⁴	kʰ u ²¹⁴	1927
+3347	Changsha	kʰ u ⁴¹	kʰ u ⁴¹	1927
+3348	Chaozhou	kʰ ou ⁵³	kʰ ou ⁵³	1927
+3349	Chengdu	kʰ u ⁵³	kʰ u ⁵³	1927
+3350	Fuzhou	kʰ u ³¹	kʰ u ³¹	1927
+3351	Guangzhou	f u ³⁵	f u ³⁵	1927
+3352	Hankou	kʰ u ⁴²	kʰ u ⁴²	1927
+3353	Jinan	kʰ u ⁵⁵	kʰ u ⁵⁵	1927
+3354	Meixian	kʰ u ³¹	kʰ u ³¹	1927
+3355	Nanchang	kʰ u ²¹³	kʰ u ²¹³	1927
+3356	Shanghai	kʰ u ⁵⁵	kʰ u ⁵⁵	1927
+3357	Shuangfeng	kʰ əu ²¹	kʰ əu ²¹	1927
+3358	Suzhou	kʰ əu ⁵²	kʰ əu ⁵²	1927
+3359	Taiyuan	kʰ u ⁵³	kʰ u ⁵³	1927
+3360	Wenzhou	kʰ u ⁴⁵	kʰ u ⁴⁵	1927
+3361	XiAn	kʰ u ⁵³	kʰ u ⁵³	1927
+3362	Xiamen	kʰ ɔ ⁵¹	kʰ ɔ ⁵¹	1927
+3363	Yangzhou	kʰ u ⁴²	kʰ u ⁴²	1927
+3364	ZhongyuanYinyun	kʰ u ³⁵	kʰ u ³⁵	1927
+3365	Beijing	tɕʰ j e ³⁵	tɕʰ j e ³⁵	1931
+3366	Changsha	tɕ j e ¹³	tɕ j e ¹³	1931
+3367	Chaozhou	k j e ⁵⁵	k j e ⁵⁵	1931
+3368	Chengdu	tɕʰ ɥ e ³¹	tɕʰ ɥ e ³¹	1931
+3369	Fuzhou	k j a ⁴⁴	k j a ⁴⁴	1931
+3370	Guangzhou	kʰ ɛ ²¹	kʰ - ɛ ²¹	1931
+3371	Hankou	tɕʰ j e ²¹³	tɕʰ j e ²¹³	1931
+3372	Jinan	tɕʰ j e ⁴²	tɕʰ j e ⁴²	1931
+3373	Nanchang	tɕʰ j a ²⁴	tɕʰ j a ²⁴	1931
+3374	Shanghai	k a ¹³	k - a ¹³	1931
+3375	Shuangfeng	d o ²³	d - o ²³	1931
+3376	Suzhou	g ɒ ²⁴	g - ɒ ²⁴	1931
+3377	Taiyuan	tɕʰ j ɛ ¹¹	tɕʰ j ɛ ¹¹	1931
+3378	Wenzhou	g a ³¹	g - a ³¹	1931
+3379	XiAn	tɕʰ j e ²⁴	tɕʰ j e ²⁴	1931
+3380	Xiamen	kʰ e ⁵⁵	kʰ - e ⁵⁵	1931
+3381	Yangzhou	tɕ ɪ ³⁴	- tɕ ɪ ³⁴	1931
+3382	Beijing	ʈʂʰ a ³⁵	ʈʂʰ a ³⁵	1934
+3383	Changsha	ts a ¹³	ts a ¹³	1934
+3384	Chaozhou	t e ⁵⁵	t e ⁵⁵	1934
+3385	Chengdu	tsʰ a ³¹	tsʰ a ³¹	1934
+3386	Fuzhou	t a ⁵²	t a ⁵²	1934
+3387	Guangzhou	tʃʰ a ²¹	tʃʰ a ²¹	1934
+3388	Hankou	tsʰ a ²¹³	tsʰ a ²¹³	1934
+3389	Jinan	ʈʂʰ a ⁴²	ʈʂʰ a ⁴²	1934
+3390	Meixian	tsʰ a ¹¹	tsʰ a ¹¹	1934
+3391	Nanchang	tsʰ a ²⁴	tsʰ a ²⁴	1934
+3392	Shanghai	z o ¹³	z o ¹³	1934
+3393	Shuangfeng	dz o ²³	dz o ²³	1934
+3394	Suzhou	z o ²⁴	z o ²⁴	1934
+3395	Taiyuan	tsʰ a ¹¹	tsʰ a ¹¹	1934
+3396	Wenzhou	z o ³¹	z o ³¹	1934
+3397	XiAn	tsʰ a ²⁴	tsʰ a ²⁴	1934
+3398	Xiamen	ts a ²⁴	ts a ²⁴	1934
+3399	Yangzhou	tsʰ ɑ ³⁴	tsʰ ɑ ³⁴	1934
+3400	ZhongyuanYinyun	tʃ a ⁵⁵	tʃ a ⁵⁵	1934
+3401	Beijing	tsʰ au ²¹⁴	tsʰ au ²¹⁴	1936
+3402	Changsha	tsʰ au ⁴¹	tsʰ au ⁴¹	1936
+3403	Chaozhou	tsʰ au ⁵³	tsʰ au ⁵³	1936
+3404	Chengdu	tsʰ au ⁵³	tsʰ au ⁵³	1936
+3405	Fuzhou	tsʰ au ³¹	tsʰ au ³¹	1936
+3406	Guangzhou	tʃʰ ou ³⁵	tʃʰ ou ³⁵	1936
+3407	Hankou	tsʰ au ⁴²	tsʰ au ⁴²	1936
+3408	Jinan	tsʰ ɔ ⁵⁵	tsʰ ɔ ⁵⁵	1936
+3409	Meixian	tsʰ au ³¹	tsʰ au ³¹	1936
+3410	Nanchang	tsʰ au ²¹³	tsʰ au ²¹³	1936
+3411	Shanghai	tsʰ ɔ ⁵⁵	tsʰ ɔ ⁵⁵	1936
+3412	Shuangfeng	tsʰ ə ²¹	tsʰ ə ²¹	1936
+3413	Suzhou	tsʰ æ ⁵²	tsʰ æ ⁵²	1936
+3414	Taiyuan	tsʰ au ⁵³	tsʰ au ⁵³	1936
+3415	Wenzhou	tsʰ ɜ ⁴⁵	tsʰ ɜ ⁴⁵	1936
+3416	XiAn	ts au ⁵³	ts au ⁵³	1936
+3417	Xiamen	tsʰ o ⁵¹	tsʰ o ⁵¹	1936
+3418	Yangzhou	tsʰ ɔ ⁴²	tsʰ ɔ ⁴²	1936
+3419	ZhongyuanYinyun	tsʰ au ³⁵	tsʰ au ³⁵	1936
+3420	Beijing	tsʰ ai ⁵¹	tsʰ - ai ⁵¹	1945
+3421	Changsha	tsʰ ai ⁵⁵	tsʰ - ai ⁵⁵	1945
+3422	Chaozhou	tsʰ ai ²¹³	tsʰ - ai ²¹³	1945
+3423	Chengdu	tsʰ ai ¹³	tsʰ - ai ¹³	1945
+3424	Fuzhou	tsʰ ai ²¹³	tsʰ - ai ²¹³	1945
+3425	Guangzhou	tʃʰ ɔi ³³	tʃʰ - ɔi ³³	1945
+3426	Hankou	tsʰ ai ³⁵	tsʰ - ai ³⁵	1945
+3427	Jinan	tsʰ ɛ ²¹	tsʰ - ɛ ²¹	1945
+3428	Meixian	tsʰ ɔi ⁵²	tsʰ - ɔi ⁵²	1945
+3429	Nanchang	tsʰ ai ²¹³	tsʰ - ai ²¹³	1945
+3430	Shanghai	tsʰ ɛ ⁵⁵	tsʰ - ɛ ⁵⁵	1945
+3431	Shuangfeng	tɕʰ j e ³⁵	tɕʰ j e ³⁵	1945
+3432	Suzhou	tsʰ ɛ ⁴¹²	tsʰ - ɛ ⁴¹²	1945
+3433	Taiyuan	tsʰ ai ⁴⁵	tsʰ - ai ⁴⁵	1945
+3434	Wenzhou	tsʰ ɛ ⁴²	tsʰ - ɛ ⁴²	1945
+3435	XiAn	tsʰ ɛ ⁵⁵	tsʰ - ɛ ⁵⁵	1945
+3436	Xiamen	tsʰ ai ¹¹	tsʰ - ai ¹¹	1945
+3437	Yangzhou	tsʰ ɛ ⁵⁵	tsʰ - ɛ ⁵⁵	1945
+3438	ZhongyuanYinyun	tsʰ ai ⁵¹	tsʰ - ai ⁵¹	1945
+3439	Beijing	l w o ⁵¹	l w o - ⁵¹	1950
+3440	Changsha	n o ²⁴	n - o - ²⁴	1950
+3441	Chaozhou	l o ʔ ⁴	l - o ʔ ⁴	1950
+3442	Chengdu	n o ³¹	n - o - ³¹	1950
+3443	Fuzhou	l ou ʔ ⁴	l - ou ʔ ⁴	1950
+3444	Guangzhou	l ɔ k ²	l - ɔ k ²	1950
+3445	Hankou	n o ²¹³	n - o - ²¹³	1950
+3446	Jinan	l w ə ²¹	l w ə - ²¹	1950
+3447	Meixian	l ɔ k ⁵	l - ɔ k ⁵	1950
+3448	Nanchang	l ɔ k ⁵	l - ɔ k ⁵	1950
+3449	Shanghai	l o ʔ ¹³	l - o ʔ ¹³	1950
+3450	Shuangfeng	n ʊ ³⁵	n - ʊ - ³⁵	1950
+3451	Suzhou	l o ʔ ²³	l - o ʔ ²³	1950
+3452	Taiyuan	l w a ʔ ²	l w a ʔ ²	1950
+3453	Wenzhou	l o ²¹²	l - o - ²¹²	1950
+3454	XiAn	l w o ²¹	l w o - ²¹	1950
+3455	Xiamen	l ɔ k ⁵	l - ɔ k ⁵	1950
+3456	Yangzhou	l ɑ ʔ ⁴	l - ɑ ʔ ⁴	1950
+3457	ZhongyuanYinyun	l o ²¹⁴	l - o - ²¹⁴	1950
+3458	Beijing	pʰ u ³⁵	pʰ u ³⁵	1953
+3459	Changsha	p u ¹³	p u ¹³	1953
+3460	Chaozhou	pʰ u ⁵⁵	pʰ u ⁵⁵	1953
+3461	Chengdu	pʰ u ³¹	pʰ u ³¹	1953
+3462	Fuzhou	p ɔ ⁵²	p ɔ ⁵²	1953
+3463	Guangzhou	pʰ ou ²¹	pʰ ou ²¹	1953
+3464	Hankou	pʰ u ²¹³	pʰ u ²¹³	1953
+3465	Jinan	pʰ u ⁴²	pʰ u ⁴²	1953
+3466	Meixian	pʰ u ¹¹	pʰ u ¹¹	1953
+3467	Nanchang	pʰ u ²⁴	pʰ u ²⁴	1953
+3468	Shanghai	p u ¹³	p u ¹³	1953
+3469	Shuangfeng	b u ²³	b u ²³	1953
+3470	Suzhou	b u ²⁴	b u ²⁴	1953
+3471	Taiyuan	pʰ u ¹¹	pʰ u ¹¹	1953
+3472	Wenzhou	b u ³¹	b u ³¹	1953
+3473	XiAn	pʰ u ²⁴	pʰ u ²⁴	1953
+3474	Xiamen	p ɔ ²⁴	p ɔ ²⁴	1953
+3475	Yangzhou	pʰ u ³⁴	pʰ u ³⁴	1953
+3476	Beijing	x u ³⁵	x u ³⁵	1956
+3477	Changsha	f u ¹³	f u ¹³	1956
+3478	Chaozhou	h u ⁵⁵	h u ⁵⁵	1956
+3479	Chengdu	f u ³¹	f u ³¹	1956
+3480	Fuzhou	x u ⁵²	x u ⁵²	1956
+3481	Guangzhou	w u ²¹	w u ²¹	1956
+3482	Hankou	x u ²¹³	x u ²¹³	1956
+3483	Jinan	x u ⁴²	x u ⁴²	1956
+3484	Meixian	f u ¹¹	f u ¹¹	1956
+3485	Nanchang	ɸ u ⁴⁵	ɸ u ⁴⁵	1956
+3486	Shuangfeng	ɣ əu ²³	ɣ əu ²³	1956
+3487	Suzhou	ɦ əu ²⁴	ɦ əu ²⁴	1956
+3488	Taiyuan	x u ¹¹	x u ¹¹	1956
+3489	Wenzhou	v u ³¹	v u ³¹	1956
+3490	XiAn	x u ²⁴	x u ²⁴	1956
+3491	Xiamen	h ɔ ²⁴	h ɔ ²⁴	1956
+3492	Yangzhou	x u ³⁴	x u ³⁴	1956
+3493	Beijing	s w a n ⁵¹	s w a n ⁵¹	1961
+3494	Changsha	s oː ⁵⁵	s - oː - ⁵⁵	1961
+3495	Chaozhou	s ɯ ŋ ²¹³	s - ɯ ŋ ²¹³	1961
+3496	Chengdu	s w a n ¹³	s w a n ¹³	1961
+3497	Fuzhou	s au ŋ ²¹³	s - au ŋ ²¹³	1961
+3498	Guangzhou	s y n ³³	s - y n ³³	1961
+3499	Hankou	s a n ³⁵	s - a n ³⁵	1961
+3500	Jinan	s uaː ²¹	s - uaː - ²¹	1961
+3501	Meixian	s ɔ n ⁵²	s - ɔ n ⁵²	1961
+3502	Nanchang	s ɔ n ⁴⁵	s - ɔ n ⁴⁵	1961
+3503	Shuangfeng	s uaː ³⁵	s - uaː - ³⁵	1961
+3504	Suzhou	s ø ⁴¹²	s - ø - ⁴¹²	1961
+3505	Taiyuan	s uæː ⁴⁵	s - uæː - ⁴⁵	1961
+3506	Wenzhou	s ø ⁴²	s - ø - ⁴²	1961
+3507	XiAn	s uaː ⁵⁵	s - uaː - ⁵⁵	1961
+3508	Xiamen	s w a n ¹¹	s w a n ¹¹	1961
+3509	Yangzhou	s uoː ⁵⁵	s - uoː - ⁵⁵	1961
+3510	Beijing	ʈʂ ə ŋ ⁵⁵	ʈʂ - ə ŋ ⁵⁵	1963
+3511	Changsha	ʈʂ ə n ³³	ʈʂ - ə n ³³	1963
+3512	Chaozhou	ts e ŋ ³³	ts - e ŋ ³³	1963
+3513	Chengdu	ts ə n ⁴⁴	ts - ə n ⁴⁴	1963
+3514	Fuzhou	ts i ŋ ⁴⁴	ts - i ŋ ⁴⁴	1963
+3515	Guangzhou	tʃ ɪ ŋ ⁵⁵	tʃ - ɪ ŋ ⁵⁵	1963
+3516	Hankou	ts ə n ⁵⁵	ts - ə n ⁵⁵	1963
+3517	Jinan	ʈʂ ə ŋ ²¹³	ʈʂ - ə ŋ ²¹³	1963
+3518	Meixian	ts ə n ⁴⁴	ts - ə n ⁴⁴	1963
+3519	Nanchang	ts ə n ⁴²	ts - ə n ⁴²	1963
+3520	Shanghai	ts ə ŋ ⁵³	ts - ə ŋ ⁵³	1963
+3521	Shuangfeng	tɕ i n ⁵⁵	tɕ - i n ⁵⁵	1963
+3522	Suzhou	ts ə n ⁴⁴	ts - ə n ⁴⁴	1963
+3523	Taiyuan	ts ə n ¹¹	ts - ə n ¹¹	1963
+3524	Wenzhou	ts e ŋ ⁴⁴	ts - e ŋ ⁴⁴	1963
+3525	XiAn	ʈʂ ə ŋ ²¹	ʈʂ - ə ŋ ²¹	1963
+3526	Xiamen	ts ɪ ŋ ⁵⁵	ts - ɪ ŋ ⁵⁵	1963
+3527	Yangzhou	ts ə n ²¹	ts - ə n ²¹	1963
+3528	ZhongyuanYinyun	tʃ j ə ŋ ⁵⁵	tʃ j ə ŋ ⁵⁵	1963
+3529	Beijing	s w o ⁵⁵	s w o ⁵⁵	1969
+3530	Changsha	s o ³³	s - o ³³	1969
+3531	Chaozhou	s o ³³	s - o ³³	1969
+3532	Chengdu	s o ⁴⁴	s - o ⁴⁴	1969
+3533	Fuzhou	s ɔ ⁴⁴	s - ɔ ⁴⁴	1969
+3534	Guangzhou	ʃ ɔ ⁵⁵	ʃ - ɔ ⁵⁵	1969
+3535	Hankou	s o ⁵⁵	s - o ⁵⁵	1969
+3536	Jinan	s w ə ²¹³	s w ə ²¹³	1969
+3537	Meixian	s ɔ ⁴⁴	s - ɔ ⁴⁴	1969
+3538	Nanchang	s o ⁴²	s - o ⁴²	1969
+3539	Shanghai	s ɛ ⁵³	s - ɛ ⁵³	1969
+3540	Shuangfeng	s ʊ ⁵⁵	s - ʊ ⁵⁵	1969
+3541	Suzhou	s əu ⁴⁴	s - əu ⁴⁴	1969
+3542	Taiyuan	s w ə ¹¹	s w ə ¹¹	1969
+3543	Wenzhou	s o ⁴⁴	s - o ⁴⁴	1969
+3544	XiAn	s w o ²¹	s w o ²¹	1969
+3545	Xiamen	s w e ⁵⁵	s w e ⁵⁵	1969
+3546	Yangzhou	s o ²¹	s - o ²¹	1969
+3547	ZhongyuanYinyun	s w o ⁵⁵	s w o ⁵⁵	1969
+3548	Beijing	p au ³⁵	p au - ³⁵	1980
+3549	Changsha	p o ²⁴	p o - ²⁴	1980
+3550	Chaozhou	p o ʔ ⁴	p o ʔ ⁴	1980
+3551	Chengdu	p o ³¹	p o - ³¹	1980
+3552	Fuzhou	p ou ʔ ⁴	p ou ʔ ⁴	1980
+3553	Guangzhou	p ɔ k ²	p ɔ k ²	1980
+3554	Hankou	p o ²¹³	p o - ²¹³	1980
+3555	Jinan	p ə ⁴²	p ə - ⁴²	1980
+3556	Meixian	pʰ ɔ k ⁵	pʰ ɔ k ⁵	1980
+3557	Nanchang	pʰ ɔ k ⁵	pʰ ɔ k ⁵	1980
+3558	Shanghai	p o ʔ ¹³	p o ʔ ¹³	1980
+3559	Shuangfeng	pʰ ʊ ³⁵	pʰ ʊ - ³⁵	1980
+3560	Suzhou	b o ʔ ²³	b o ʔ ²³	1980
+3561	Taiyuan	p a ʔ ²	p a ʔ ²	1980
+3562	Wenzhou	b o ²¹²	b o - ²¹²	1980
+3563	XiAn	p o ²⁴	p o - ²⁴	1980
+3564	Xiamen	p ɔ k ⁵	p ɔ k ⁵	1980
+3565	Yangzhou	p ɑ ʔ ⁴	p ɑ ʔ ⁴	1980
+3566	ZhongyuanYinyun	p au ²¹⁴	p au - ²¹⁴	1980
+3567	Beijing	ts a ŋ ⁵¹	- ts a ŋ ⁵¹	1987
+3568	Changsha	ts a n ⁵⁵	- ts a n ⁵⁵	1987
+3569	Chaozhou	ts a ŋ ³⁵	- ts a ŋ ³⁵	1987
+3570	Chengdu	ts a ŋ ¹³	- ts a ŋ ¹³	1987
+3571	Fuzhou	ts au ŋ ²⁴²	- ts au ŋ ²⁴²	1987
+3572	Guangzhou	tʃ ɔ ŋ ²²	- tʃ ɔ ŋ ²²	1987
+3573	Hankou	ts a ŋ ³⁵	- ts a ŋ ³⁵	1987
+3574	Jinan	ts a ŋ ²¹	- ts a ŋ ²¹	1987
+3575	Meixian	tsʰ ɔ ŋ ⁵²	- tsʰ ɔ ŋ ⁵²	1987
+3576	Nanchang	tsʰ ɔ ŋ ²¹	- tsʰ ɔ ŋ ²¹	1987
+3577	Shanghai	z ɒː ¹³	z - ɒː - ¹³	1987
+3578	Shuangfeng	dz a ŋ ³³	dz - a ŋ ³³	1987
+3579	Suzhou	z ɒ ŋ ³¹	z - ɒ ŋ ³¹	1987
+3580	Taiyuan	ts ɒː ⁴⁵	- ts ɒː - ⁴⁵	1987
+3581	Wenzhou	z w ɔ ²²	z w ɔ - ²²	1987
+3582	XiAn	ts a ŋ ⁵⁵	- ts a ŋ ⁵⁵	1987
+3583	Xiamen	ts ɔ ŋ ³³	- ts ɔ ŋ ³³	1987
+3584	Yangzhou	ts ɑ ŋ ⁵⁵	- ts ɑ ŋ ⁵⁵	1987
+3585	ZhongyuanYinyun	ts a ŋ ⁵¹	- ts a ŋ ⁵¹	1987
+3586	Beijing	tʰ ə ŋ ³⁵	tʰ ə ŋ ³⁵	1990
+3587	Changsha	t ə n ¹³	t ə n ¹³	1990
+3588	Chaozhou	t i ŋ ⁵⁵	t i ŋ ⁵⁵	1990
+3589	Chengdu	tʰ ə n ³¹	tʰ ə n ³¹	1990
+3590	Fuzhou	t ei ŋ ⁵²	t ei ŋ ⁵²	1990
+3591	Guangzhou	tʰ a ŋ ²¹	tʰ a ŋ ²¹	1990
+3592	Hankou	tʰ ə n ²¹³	tʰ ə n ²¹³	1990
+3593	Jinan	tʰ ə ŋ ⁴²	tʰ ə ŋ ⁴²	1990
+3594	Meixian	tʰ ɛ n ¹¹	tʰ ɛ n ¹¹	1990
+3595	Nanchang	tʰ ɛ n ²⁴	tʰ ɛ n ²⁴	1990
+3596	Shanghai	t ə ŋ ¹³	t ə ŋ ¹³	1990
+3597	Shuangfeng	d iɛː ²³	d iɛː - ²³	1990
+3598	Suzhou	d ə n ²⁴	d ə n ²⁴	1990
+3599	Taiyuan	tʰ ə ŋ ¹¹	tʰ ə ŋ ¹¹	1990
+3600	Wenzhou	d a ŋ ³¹	d a ŋ ³¹	1990
+3601	XiAn	tʰ ə ŋ ²⁴	tʰ ə ŋ ²⁴	1990
+3602	Xiamen	t ɪ ŋ ²⁴	t ɪ ŋ ²⁴	1990
+3603	Yangzhou	tʰ ə ŋ ³⁴	tʰ ə ŋ ³⁴	1990
+3604	ZhongyuanYinyun	tʰ ə ŋ ⁵⁵	tʰ ə ŋ ⁵⁵	1990
+3605	Beijing	x u ²¹⁴	x u ²¹⁴	1997
+3606	Changsha	f u ⁴¹	f u ⁴¹	1997
+3607	Chaozhou	h ouː ⁵³	h ouː ⁵³	1997
+3608	Chengdu	f u ⁵³	f u ⁵³	1997
+3609	Fuzhou	x u ³¹	x u ³¹	1997
+3610	Guangzhou	f u ³⁵	f u ³⁵	1997
+3611	Hankou	x u ⁴²	x u ⁴²	1997
+3612	Jinan	x u ⁵⁵	x u ⁵⁵	1997
+3613	Meixian	f u ³¹	f u ³¹	1997
+3614	Nanchang	ɸ u ²¹³	ɸ u ²¹³	1997
+3615	Shanghai	h u ⁵⁵	h u ⁵⁵	1997
+3616	Shuangfeng	x əu ²¹	x əu ²¹	1997
+3617	Suzhou	h əu ⁵²	h əu ⁵²	1997
+3618	Taiyuan	x u ⁵³	x u ⁵³	1997
+3619	Wenzhou	f u ⁴⁵	f u ⁴⁵	1997
+3620	XiAn	x u ⁵³	x u ⁵³	1997
+3621	Xiamen	h ɔ ⁵¹	h ɔ ⁵¹	1997
+3622	Yangzhou	x u ⁴²	x u ⁴²	1997
+3623	ZhongyuanYinyun	x u ³⁵	x u ³⁵	1997
+3624	Beijing	x u ŋ ³⁵	x u ŋ ³⁵	2005
+3625	Changsha	x o ŋ ¹³	x o ŋ ¹³	2005
+3626	Chaozhou	kʰ e ŋ ³⁵	kʰ e ŋ ³⁵	2005
+3627	Chengdu	x o ŋ ³¹	x o ŋ ³¹	2005
+3628	Fuzhou	x u ŋ ⁵²	x u ŋ ⁵²	2005
+3629	Guangzhou	h u ŋ ²¹	h u ŋ ²¹	2005
+3630	Hankou	x o ŋ ²¹³	x o ŋ ²¹³	2005
+3631	Jinan	x u ŋ ⁴²	x u ŋ ⁴²	2005
+3632	Meixian	f u ŋ ¹¹	f u ŋ ¹¹	2005
+3633	Nanchang	ɸ u ŋ ⁴⁵	ɸ u ŋ ⁴⁵	2005
+3634	Shanghai	ɦ o ŋ ¹³	ɦ o ŋ ¹³	2005
+3635	Shuangfeng	ɣ a ŋ ²³	ɣ a ŋ ²³	2005
+3636	Suzhou	ɦ o ŋ ²⁴	ɦ o ŋ ²⁴	2005
+3637	Taiyuan	x u ŋ ¹¹	x u ŋ ¹¹	2005
+3638	Wenzhou	ɦ o ŋ ³¹	ɦ o ŋ ³¹	2005
+3639	XiAn	x o ŋ ²⁴	x o ŋ ²⁴	2005
+3640	Xiamen	h ɔ ŋ ²⁴	h ɔ ŋ ²⁴	2005
+3641	Yangzhou	x ɔu ŋ ³⁴	x ɔu ŋ ³⁴	2005
+3642	ZhongyuanYinyun	x u ŋ ⁵⁵	x u ŋ ⁵⁵	2005
+3643	Beijing	tɕʰ y ⁵⁵	tɕʰ - y ⁵⁵	2007
+3644	Changsha	tɕʰ y ³³	tɕʰ - y ³³	2007
+3645	Chaozhou	ts u ³³	ts - u ³³	2007
+3646	Chengdu	tɕʰ y ⁴⁴	tɕʰ - y ⁴⁴	2007
+3647	Fuzhou	tsʰ y ⁴⁴	tsʰ - y ⁴⁴	2007
+3648	Guangzhou	tʃ œy ⁵⁵	tʃ - œy ⁵⁵	2007
+3649	Hankou	tɕʰ y ⁵⁵	tɕʰ - y ⁵⁵	2007
+3650	Jinan	tɕʰ y ²¹³	tɕʰ - y ²¹³	2007
+3651	Meixian	ts ɿ ⁴⁴	ts - ɿ ⁴⁴	2007
+3652	Nanchang	tɕʰ y ⁴²	tɕʰ - y ⁴²	2007
+3653	Shanghai	tsʰ y ⁵³	tsʰ - y ⁵³	2007
+3654	Shuangfeng	tɕʰ y ⁵⁵	tɕʰ - y ⁵⁵	2007
+3655	Suzhou	tsʰ i ⁴⁴	tsʰ - i ⁴⁴	2007
+3656	Taiyuan	tɕʰ y ¹¹	tɕʰ - y ¹¹	2007
+3657	Wenzhou	tsʰ əu ⁴⁴	tsʰ - əu ⁴⁴	2007
+3658	XiAn	tɕʰ y ²¹	tɕʰ - y ²¹	2007
+3659	Xiamen	tsʰ u ⁵⁵	tsʰ - u ⁵⁵	2007
+3660	Yangzhou	tɕʰ y ²¹	tɕʰ - y ²¹	2007
+3661	ZhongyuanYinyun	tsʰ j u ⁵⁵	tsʰ j u ⁵⁵	2007
+3662	Beijing	ʂ ɤ ³⁵	ʂ - ɤ ³⁵	2008
+3663	Changsha	ʂ ɤ ¹³	ʂ - ɤ ¹³	2008
+3664	Chaozhou	ts w a ⁵⁵	ts w a ⁵⁵	2008
+3665	Chengdu	s e ³¹	s - e ³¹	2008
+3666	Fuzhou	s j ɛ ⁵²	s j ɛ ⁵²	2008
+3667	Guangzhou	ʃ ɛ ²¹	ʃ - ɛ ²¹	2008
+3668	Hankou	s ɤ ²¹³	s - ɤ ²¹³	2008
+3669	Jinan	ʂ a ⁴²	ʂ - a ⁴²	2008
+3670	Meixian	s a ¹¹	s - a ¹¹	2008
+3671	Nanchang	s a ⁴⁵	s - a ⁴⁵	2008
+3672	Shanghai	z o ¹³	z - o ¹³	2008
+3673	Shuangfeng	ɣ j o ²³	ɣ j o ²³	2008
+3674	Suzhou	z o ²⁴	z - o ²⁴	2008
+3675	Taiyuan	s ø ¹¹	s - ø ¹¹	2008
+3676	Wenzhou	z ei ³¹	z - ei ³¹	2008
+3677	XiAn	ʂ ɤ ²⁴	ʂ - ɤ ²⁴	2008
+3678	Xiamen	s j a ²⁴	s j a ²⁴	2008
+3679	Yangzhou	ɕ ɪ ³⁴	ɕ - ɪ ³⁴	2008
+3680	ZhongyuanYinyun	ʃ j e ⁵⁵	ʃ j e ⁵⁵	2008
+3681	Beijing	t a n ⁵¹	t a n ⁵¹	2009
+3682	Changsha	t a n ⁵⁵	t a n ⁵⁵	2009
+3683	Chaozhou	t a ŋ ²¹³	t a ŋ ²¹³	2009
+3684	Chengdu	t a n ¹³	t a n ¹³	2009
+3685	Fuzhou	t a ŋ ²⁴²	t a ŋ ²⁴²	2009
+3686	Guangzhou	t aː n ²²	t aː n ²²	2009
+3687	Hankou	t a n ³⁵	t a n ³⁵	2009
+3688	Jinan	t aː ²¹	t aː - ²¹	2009
+3689	Meixian	tʰ a n ⁵²	tʰ a n ⁵²	2009
+3690	Nanchang	tʰ a n ²¹	tʰ a n ²¹	2009
+3691	Shanghai	t ɛ ¹³	t ɛ - ¹³	2009
+3692	Shuangfeng	d aː ³³	d aː - ³³	2009
+3693	Suzhou	d ɛ ³¹	d ɛ - ³¹	2009
+3694	Taiyuan	t æː ⁴⁵	t æː - ⁴⁵	2009
+3695	Wenzhou	d a ²²	d a - ²²	2009
+3696	XiAn	t aː ⁵⁵	t aː - ⁵⁵	2009
+3697	Xiamen	t a n ¹¹	t a n ¹¹	2009
+3698	Yangzhou	t ɛː ⁵⁵	t ɛː - ⁵⁵	2009
+3699	Beijing	ʈʂ u ⁵⁵	ʈʂ - u ⁵⁵	2010
+3700	Changsha	tɕ y ³³	tɕ - y ³³	2010
+3701	Chaozhou	ts u ³³	ts - u ³³	2010
+3702	Chengdu	ts u ⁴⁴	ts - u ⁴⁴	2010
+3703	Fuzhou	t y ⁴⁴	t - y ⁴⁴	2010
+3704	Guangzhou	tʃ y ⁵⁵	tʃ - y ⁵⁵	2010
+3705	Hankou	tɕ y ⁵⁵	tɕ - y ⁵⁵	2010
+3706	Jinan	ʈʂ u ²¹³	ʈʂ - u ²¹³	2010
+3707	Meixian	ts u ⁴⁴	ts - u ⁴⁴	2010
+3708	Nanchang	tɕ y ⁴²	tɕ - y ⁴²	2010
+3709	Shanghai	ts ɿ ⁵³	ts - ɿ ⁵³	2010
+3710	Shuangfeng	t y ⁵⁵	t - y ⁵⁵	2010
+3711	Suzhou	ts ɥ ⁴⁴	ts - ɥ ⁴⁴	2010
+3712	Taiyuan	ts u ¹¹	ts - u ¹¹	2010
+3713	Wenzhou	ts ɿ ⁴⁴	ts - ɿ ⁴⁴	2010
+3714	XiAn	pf u ²¹	- pf u ²¹	2010
+3715	Xiamen	t u ⁵⁵	t - u ⁵⁵	2010
+3716	Yangzhou	ts u ²¹	ts - u ²¹	2010
+3717	ZhongyuanYinyun	tʃ j u ⁵⁵	tʃ j u ⁵⁵	2010
+3718	Beijing	f ə ŋ ⁵⁵	f ə ŋ ⁵⁵	2012
+3719	Changsha	x o ŋ ³³	x o ŋ ³³	2012
+3720	Chaozhou	h o ŋ ³³	h o ŋ ³³	2012
+3721	Chengdu	f o ŋ ⁴⁴	f o ŋ ⁴⁴	2012
+3722	Fuzhou	x u ŋ ⁴⁴	x u ŋ ⁴⁴	2012
+3723	Guangzhou	f u ŋ ⁵⁵	f u ŋ ⁵⁵	2012
+3724	Hankou	f o ŋ ⁵⁵	f o ŋ ⁵⁵	2012
+3725	Jinan	f ə ŋ ²¹³	f ə ŋ ²¹³	2012
+3726	Meixian	pʰ u ŋ ⁴⁴	pʰ u ŋ ⁴⁴	2012
+3727	Nanchang	ɸ u ŋ ⁴²	ɸ u ŋ ⁴²	2012
+3728	Shanghai	f o ŋ ⁵³	f o ŋ ⁵³	2012
+3729	Shuangfeng	x a ŋ ⁵⁵	x a ŋ ⁵⁵	2012
+3730	Suzhou	f o ŋ ⁴⁴	f o ŋ ⁴⁴	2012
+3731	Taiyuan	f ə ŋ ¹¹	f ə ŋ ¹¹	2012
+3732	Wenzhou	x o ŋ ⁴⁴	x o ŋ ⁴⁴	2012
+3733	XiAn	f ə ŋ ²¹	f ə ŋ ²¹	2012
+3734	Xiamen	h ɔ ŋ ⁵⁵	h ɔ ŋ ⁵⁵	2012
+3735	Yangzhou	f ɔu ŋ ²¹	f ɔu ŋ ²¹	2012
+3736	ZhongyuanYinyun	f u ŋ ⁵⁵	f u ŋ ⁵⁵	2012
+3737	Beijing	ʈʂ ʅ ⁵⁵	ʈʂ ʅ ⁵⁵	2013
+3738	Changsha	ʈʂ ʅ ³³	ʈʂ ʅ ³³	2013
+3739	Chaozhou	t i ³³	t i ³³	2013
+3740	Chengdu	ts ɿ ⁴⁴	ts ɿ ⁴⁴	2013
+3741	Fuzhou	t i ⁴⁴	t i ⁴⁴	2013
+3742	Guangzhou	tʃ i ⁵⁵	tʃ i ⁵⁵	2013
+3743	Hankou	ts ɿ ²¹³	ts ɿ ²¹³	2013
+3744	Jinan	ʈʂ ʅ ²¹³	ʈʂ ʅ ²¹³	2013
+3745	Meixian	tsʰ ɿ ⁴⁴	tsʰ ɿ ⁴⁴	2013
+3746	Nanchang	ts ɿ ⁴²	ts ɿ ⁴²	2013
+3747	Shanghai	ts ɥ ⁵³	ts ɥ ⁵³	2013
+3748	Shuangfeng	ʈʂ ʅ ⁵⁵	ʈʂ ʅ ⁵⁵	2013
+3749	Suzhou	ts ɥ ⁴⁴	ts ɥ ⁴⁴	2013
+3750	Taiyuan	ts ɿ ¹¹	ts ɿ ¹¹	2013
+3751	Wenzhou	ts ɿ ⁴⁴	ts ɿ ⁴⁴	2013
+3752	XiAn	ʈʂ ʅ ²¹	ʈʂ ʅ ²¹	2013
+3753	Xiamen	t i ⁵⁵	t i ⁵⁵	2013
+3754	Yangzhou	ts ɿ ²¹	ts ɿ ²¹	2013
+3755	ZhongyuanYinyun	tʃ i ⁵⁵	tʃ i ⁵⁵	2013
+3756	Beijing	m i ⁵¹	m - i - ⁵¹	2014
+3757	Changsha	m i ²⁴	m - i - ²⁴	2014
+3758	Chaozhou	b i k ⁴	b - i k ⁴	2014
+3759	Chengdu	m i ³¹	m - i - ³¹	2014
+3760	Fuzhou	m i ʔ ⁴	m - i ʔ ⁴	2014
+3761	Guangzhou	m a t ²	m - a t ²	2014
+3762	Hankou	m i ²¹³	m - i - ²¹³	2014
+3763	Jinan	m i ²¹	m - i - ²¹	2014
+3764	Meixian	m ɛ t ⁵	m - ɛ t ⁵	2014
+3765	Nanchang	m i t ⁵	m - i t ⁵	2014
+3766	Shanghai	m ɪ ʔ ¹³	m - ɪ ʔ ¹³	2014
+3767	Shuangfeng	m i ³⁵	m - i - ³⁵	2014
+3768	Suzhou	m j ɤ ʔ ²³	m j ɤ ʔ ²³	2014
+3769	Taiyuan	m j ə ʔ ²	m j ə ʔ ²	2014
+3770	Wenzhou	m i ²¹²	m - i - ²¹²	2014
+3771	XiAn	m i ²¹	m - i - ²¹	2014
+3772	Xiamen	b i t ⁵	b - i t ⁵	2014
+3773	Yangzhou	m j ə ʔ ⁴	m j ə ʔ ⁴	2014
+3774	ZhongyuanYinyun	m i ²¹⁴	m - i - ²¹⁴	2014
+3775	Beijing	t j e ³⁵	t j e - ³⁵	2020
+3776	Changsha	t j e ²⁴	t j e - ²⁴	2020
+3777	Chaozhou	t j ə p ⁴	t j ə p ⁴	2020
+3778	Chengdu	t j e ³¹	t j e - ³¹	2020
+3779	Fuzhou	t j e ʔ ⁴	t j e ʔ ⁴	2020
+3780	Guangzhou	t i p ²	t - i p ²	2020
+3781	Hankou	t j e ²¹³	t j e - ²¹³	2020
+3782	Jinan	t j e ⁴²	t j e - ⁴²	2020
+3783	Meixian	tʰ j a p ⁵	tʰ j a p ⁵	2020
+3784	Nanchang	tʰ j ɛ t ⁵	tʰ j ɛ t ⁵	2020
+3785	Shanghai	t ɪ ʔ ¹³	t - ɪ ʔ ¹³	2020
+3786	Shuangfeng	tʰ j ɛ ³⁵	tʰ j ɛ - ³⁵	2020
+3787	Suzhou	d j ɤ ʔ ²³	d j ɤ ʔ ²³	2020
+3788	Taiyuan	t j ə ʔ ⁵⁴	t j ə ʔ ⁵⁴	2020
+3789	Wenzhou	d i ²¹²	d - i - ²¹²	2020
+3790	XiAn	t j e ²⁴	t j e - ²⁴	2020
+3791	Xiamen	t j a p ⁵	t j a p ⁵	2020
+3792	Yangzhou	t j ə ʔ ⁴	t j ə ʔ ⁴	2020
+3793	ZhongyuanYinyun	t j e ²¹⁴	t j e - ²¹⁴	2020
+3794	Beijing	ʐ u ŋ ³⁵	- ʐ u ŋ ³⁵	2021
+3795	Changsha	j o ŋ ¹³	- j o ŋ ¹³	2021
+3796	Chaozhou	j o ŋ ⁵⁵	- j o ŋ ⁵⁵	2021
+3797	Chengdu	ɥ o ŋ ³¹	- ɥ o ŋ ³¹	2021
+3798	Fuzhou	y ŋ ⁵²	- - y ŋ ⁵²	2021
+3799	Guangzhou	j u ŋ ²¹	- j u ŋ ²¹	2021
+3800	Hankou	j o ŋ ²¹³	- j o ŋ ²¹³	2021
+3801	Jinan	l u ŋ ⁴²	- l u ŋ ⁴²	2021
+3802	Meixian	j u ŋ ¹¹	- j u ŋ ¹¹	2021
+3803	Nanchang	j u ŋ ⁴⁵	- j u ŋ ⁴⁵	2021
+3804	Shanghai	j o ŋ ¹³	- j o ŋ ¹³	2021
+3805	Shuangfeng	i n ²³	- - i n ²³	2021
+3806	Suzhou	j o ŋ ²⁴	- j o ŋ ²⁴	2021
+3807	Taiyuan	y n ¹¹	- - y n ¹¹	2021
+3808	Wenzhou	ɦ ɥ o ŋ ³¹	ɦ ɥ o ŋ ³¹	2021
+3809	XiAn	y ŋ ²⁴	- - y ŋ ²⁴	2021
+3810	Xiamen	h j ɔ ŋ ²⁴	h j ɔ ŋ ²⁴	2021
+3811	Yangzhou	j ɔu ŋ ³⁴	- j ɔu ŋ ³⁴	2021
+3812	ZhongyuanYinyun	j u ŋ ⁵⁵	- j u ŋ ⁵⁵	2021
+3813	Beijing	ɕ j e ⁵¹	ɕ j e ⁵¹	2025
+3814	Changsha	x ai ⁴¹	x - ai ⁴¹	2025
+3815	Chaozhou	h oi ³⁵	h - oi ³⁵	2025
+3816	Chengdu	ɕ j ai ¹³	ɕ j ai ¹³	2025
+3817	Fuzhou	x a ²⁴²	x - a ²⁴²	2025
+3818	Guangzhou	h aːi ²³	h - aːi ²³	2025
+3819	Hankou	x ai ⁴²	x - ai ⁴²	2025
+3820	Jinan	ɕ j æ ²¹	ɕ j æ ²¹	2025
+3821	Meixian	h ai ³¹	h - ai ³¹	2025
+3822	Nanchang	h ai ²¹³	h - ai ²¹³	2025
+3823	Shanghai	h a ⁵⁵	h - a ⁵⁵	2025
+3824	Shuangfeng	x a ²¹	x - a ²¹	2025
+3825	Suzhou	h ɒ ⁵²	h - ɒ ⁵²	2025
+3826	Taiyuan	ɕ j ɛ ⁴⁵	ɕ j ɛ ⁴⁵	2025
+3827	Wenzhou	x a ⁴⁵	x - a ⁴⁵	2025
+3828	XiAn	ɕ j e ⁵⁵	ɕ j e ⁵⁵	2025
+3829	Xiamen	h ai ³³	h - ai ³³	2025
+3830	Yangzhou	ɕ j ɛ ⁵⁵	ɕ j ɛ ⁵⁵	2025
+3831	ZhongyuanYinyun	x j ai ³⁵	x j ai ³⁵	2025
+3832	Beijing	ɕ j e ²¹⁴	ɕ j e - ²¹⁴	2030
+3833	Changsha	ɕ ɥ e ²⁴	ɕ ɥ e - ²⁴	2030
+3834	Chaozhou	h w e ʔ ²¹	h w e ʔ ²¹	2030
+3835	Chengdu	ɕ ɥ e ³¹	ɕ ɥ e - ³¹	2030
+3836	Fuzhou	x j e ʔ ²³	x j e ʔ ²³	2030
+3837	Guangzhou	h y t ³	h - y t ³	2030
+3838	Hankou	ɕ j e ²¹³	ɕ j e - ²¹³	2030
+3839	Jinan	ɕ j e ²¹³	ɕ j e - ²¹³	2030
+3840	Meixian	h j a t ¹	h j a t ¹	2030
+3841	Nanchang	ɕ ɥ ɔ t ⁵	ɕ ɥ ɔ t ⁵	2030
+3842	Shanghai	ɕ ɥ ɪ ʔ ⁵	ɕ ɥ ɪ ʔ ⁵	2030
+3843	Shuangfeng	ɕ ɥ ɛ ²³	ɕ ɥ ɛ - ²³	2030
+3844	Suzhou	ɕ ɥ ɤ ʔ ⁴	ɕ ɥ ɤ ʔ ⁴	2030
+3845	Taiyuan	ɕ ɥ ə ʔ ²	ɕ ɥ ə ʔ ²	2030
+3846	Wenzhou	ɕ y ³²³	ɕ - y - ³²³	2030
+3847	XiAn	ɕ j e ²¹	ɕ j e - ²¹	2030
+3848	Xiamen	h w i ʔ ³²	h w i ʔ ³²	2030
+3849	Yangzhou	ɕ ɥ ə ʔ ⁴	ɕ ɥ ə ʔ ⁴	2030
+3850	ZhongyuanYinyun	x ɥ e ²¹⁴	x ɥ e - ²¹⁴	2030
+3851	Beijing	i ⁵⁵	- i ⁵⁵	2037
+3852	Changsha	i ³³	- i ³³	2037
+3853	Chaozhou	i ³³	- i ³³	2037
+3854	Chengdu	i ⁴⁴	- i ⁴⁴	2037
+3855	Fuzhou	i ⁴⁴	- i ⁴⁴	2037
+3856	Guangzhou	j i ⁵⁵	j i ⁵⁵	2037
+3857	Hankou	i ⁵⁵	- i ⁵⁵	2037
+3858	Jinan	i ²¹³	- i ²¹³	2037
+3859	Meixian	j i ⁴⁴	j i ⁴⁴	2037
+3860	Nanchang	i ⁴²	- i ⁴²	2037
+3861	Shanghai	i ⁵³	- i ⁵³	2037
+3862	Shuangfeng	i ⁵⁵	- i ⁵⁵	2037
+3863	Suzhou	i ⁴⁴	- i ⁴⁴	2037
+3864	Taiyuan	i ¹¹	- i ¹¹	2037
+3865	Wenzhou	i ⁴⁴	- i ⁴⁴	2037
+3866	XiAn	i ²¹	- i ²¹	2037
+3867	Xiamen	i ⁵⁵	- i ⁵⁵	2037
+3868	Yangzhou	i ²¹	- i ²¹	2037
+3869	ZhongyuanYinyun	i ⁵⁵	- i ⁵⁵	2037
+3870	Beijing	t ai ⁵¹	t - ai ⁵¹	2042
+3871	Changsha	t ai ²¹	t - ai ²¹	2042
+3872	Chaozhou	t o ¹¹	t - o ¹¹	2042
+3873	Chengdu	t ai ¹³	t - ai ¹³	2042
+3874	Fuzhou	t ɵy ²¹³	t - ɵy ²¹³	2042
+3875	Guangzhou	t ɔi ²²	t - ɔi ²²	2042
+3876	Hankou	t ai ³⁵	t - ai ³⁵	2042
+3877	Jinan	t ɛ ²¹	t - ɛ ²¹	2042
+3878	Meixian	tʰ ɔi ⁵²	tʰ - ɔi ⁵²	2042
+3879	Nanchang	tʰ ai ²¹	tʰ - ai ²¹	2042
+3880	Shanghai	t ɛ ¹³	t - ɛ ¹³	2042
+3881	Shuangfeng	d w e ³³	d w e ³³	2042
+3882	Suzhou	d ɛ ³¹	d - ɛ ³¹	2042
+3883	Taiyuan	t ai ⁴⁵	t - ai ⁴⁵	2042
+3884	Wenzhou	d ɛ ²²	d - ɛ ²²	2042
+3885	XiAn	t ɛ ⁵⁵	t - ɛ ⁵⁵	2042
+3886	Xiamen	t ai ³³	t - ai ³³	2042
+3887	Yangzhou	t ɛ ⁵⁵	t - ɛ ⁵⁵	2042
+3888	ZhongyuanYinyun	t ai ⁵¹	t - ai ⁵¹	2042
+3889	Beijing	ɕ j ou ⁵¹	ɕ j ou ⁵¹	2044
+3890	Changsha	ɕ j ɤu ⁵⁵	ɕ j ɤu ⁵⁵	2044
+3891	Chaozhou	s j u ³⁵	s j u ³⁵	2044
+3892	Chengdu	ɕ j əu ¹³	ɕ j əu ¹³	2044
+3893	Fuzhou	s j eu ²⁴²	s j eu ²⁴²	2044
+3894	Guangzhou	tʃ au ²²	tʃ - au ²²	2044
+3895	Hankou	ɕ j ou ³⁵	ɕ j ou ³⁵	2044
+3896	Jinan	ɕ j ou ²¹	ɕ j ou ²¹	2044
+3897	Meixian	tsʰ j u ⁵²	tsʰ j u ⁵²	2044
+3898	Nanchang	tɕʰ j u ²¹	tɕʰ j u ²¹	2044
+3899	Shanghai	z j ɯ ¹³	z j ɯ ¹³	2044
+3900	Shuangfeng	ɕ j u ³⁵	ɕ j u ³⁵	2044
+3901	Suzhou	z øy ³¹	z - øy ³¹	2044
+3902	Taiyuan	ɕ j ou ⁴⁵	ɕ j ou ⁴⁵	2044
+3903	Wenzhou	ɦ j u ²²	ɦ j u ²²	2044
+3904	XiAn	ɕ j ou ⁵⁵	ɕ j ou ⁵⁵	2044
+3905	Xiamen	s j u ³³	s j u ³³	2044
+3906	Yangzhou	ɕ j ɤɯ ⁵⁵	ɕ j ɤɯ ⁵⁵	2044
+3907	ZhongyuanYinyun	s j ou ⁵¹	s j ou ⁵¹	2044
+3908	Beijing	p ei ⁵¹	p ei ⁵¹	2045
+3909	Changsha	p ei ⁵⁵	p ei ⁵⁵	2045
+3910	Chaozhou	p i ³⁵	p i ³⁵	2045
+3911	Chengdu	p i ¹³	p i ¹³	2045
+3912	Fuzhou	p ei ²¹³	p ei ²¹³	2045
+3913	Guangzhou	p ei ²²	p ei ²²	2045
+3914	Hankou	p ei ³⁵	p ei ³⁵	2045
+3915	Jinan	p ei ²¹	p ei ²¹	2045
+3916	Meixian	pʰ i ⁴⁴	pʰ i ⁴⁴	2045
+3917	Nanchang	pʰ əi ²¹	pʰ əi ²¹	2045
+3918	Shanghai	p ɛ ¹³	p ɛ ¹³	2045
+3919	Shuangfeng	b i ³³	b i ³³	2045
+3920	Suzhou	b i ³¹	b i ³¹	2045
+3921	Taiyuan	p i ⁴⁵	p i ⁴⁵	2045
+3922	Wenzhou	b ei ³⁴	b ei ³⁴	2045
+3923	XiAn	p i ⁵⁵	p i ⁵⁵	2045
+3924	Xiamen	p i ³³	p i ³³	2045
+3925	Yangzhou	p əi ⁵⁵	p əi ⁵⁵	2045
+3926	ZhongyuanYinyun	p ei ⁵¹	p ei ⁵¹	2045
+3927	Beijing	l j e ⁵¹	l j e - ⁵¹	2047
+3928	Changsha	n j e ²⁴	n j e - ²⁴	2047
+3929	Chaozhou	l i ʔ ⁴	l - i ʔ ⁴	2047
+3930	Chengdu	n j e ³¹	n j e - ³¹	2047
+3931	Fuzhou	l j e ʔ ⁴	l j e ʔ ⁴	2047
+3932	Guangzhou	l i t ²	l - i t ²	2047
+3933	Hankou	n j e ²¹³	n j e - ²¹³	2047
+3934	Jinan	l j e ²¹³	l j e - ²¹³	2047
+3935	Meixian	l j ɛ t ⁵	l j ɛ t ⁵	2047
+3936	Nanchang	l j ɛ t ⁵	l j ɛ t ⁵	2047
+3937	Shanghai	l ɪ ʔ ¹³	l - ɪ ʔ ¹³	2047
+3938	Shuangfeng	n j ɛ ²³	n j ɛ - ²³	2047
+3939	Suzhou	l j ɤ ʔ ²³	l j ɤ ʔ ²³	2047
+3940	Taiyuan	l j ə ʔ ²	l j ə ʔ ²	2047
+3941	Wenzhou	l i ²¹²	l - i - ²¹²	2047
+3942	XiAn	l j e ²¹	l j e - ²¹	2047
+3943	Xiamen	l j a t ⁵	l j a t ⁵	2047
+3944	Yangzhou	l j ə ʔ ⁴	l j ə ʔ ⁴	2047
+3945	ZhongyuanYinyun	l j e ²¹⁴	l j e - ²¹⁴	2047
+3946	Beijing	tɕʰ y n ³⁵	tɕʰ - y n ³⁵	2050
+3947	Changsha	tɕ y n ¹³	tɕ - y n ¹³	2050
+3948	Chaozhou	k u ŋ ⁵⁵	k - u ŋ ⁵⁵	2050
+3949	Chengdu	tɕʰ y n ³¹	tɕʰ - y n ³¹	2050
+3950	Fuzhou	k u ŋ ⁵²	k - u ŋ ⁵²	2050
+3951	Guangzhou	kʰ w a n ²¹	kʰ w a n ²¹	2050
+3952	Hankou	tɕʰ y n ²¹³	tɕʰ - y n ²¹³	2050
+3953	Jinan	tɕʰ yeː ⁴²	tɕʰ - yeː - ⁴²	2050
+3954	Meixian	kʰ j u n ¹¹	kʰ j u n ¹¹	2050
+3955	Nanchang	tɕʰ y n ²⁴	tɕʰ - y n ²⁴	2050
+3956	Shanghai	tɕ ɥ i ŋ ¹³	tɕ ɥ i ŋ ¹³	2050
+3957	Shuangfeng	d w ə n ²³	d w ə n ²³	2050
+3958	Suzhou	dʑ ɥ ə n ²⁴	dʑ ɥ ə n ²⁴	2050
+3959	Taiyuan	tɕʰ y ŋ ¹¹	tɕʰ - y ŋ ¹¹	2050
+3960	Wenzhou	dʑ ɥ o ŋ ³¹	dʑ ɥ o ŋ ³¹	2050
+3961	XiAn	tɕʰ yeː ²⁴	tɕʰ - yeː - ²⁴	2050
+3962	Xiamen	kʰ u n ²⁴	kʰ - u n ²⁴	2050
+3963	Yangzhou	tɕ yiː ³⁴	tɕ - yiː - ³⁴	2050
+3964	ZhongyuanYinyun	kʰ ɥ ə n ⁵⁵	kʰ ɥ ə n ⁵⁵	2050
+3965	Beijing	k w o ²¹⁴	k w o ²¹⁴	2054
+3966	Changsha	k o ⁴¹	k - o ⁴¹	2054
+3967	Chaozhou	k w e ⁵³	k w e ⁵³	2054
+3968	Chengdu	k o ⁵³	k - o ⁵³	2054
+3969	Fuzhou	k w ɔ ³¹	k w ɔ ³¹	2054
+3970	Guangzhou	k w ɔ ³⁵	k w ɔ ³⁵	2054
+3971	Hankou	k o ⁴²	k - o ⁴²	2054
+3972	Jinan	k w ə ⁵⁵	k w ə ⁵⁵	2054
+3973	Meixian	k ɔ ³¹	k - ɔ ³¹	2054
+3974	Nanchang	k w o ²¹³	k w o ²¹³	2054
+3975	Shuangfeng	k ʊ ²¹	k - ʊ ²¹	2054
+3976	Suzhou	k əu ⁵²	k - əu ⁵²	2054
+3977	Taiyuan	k w ə ⁵³	k w ə ⁵³	2054
+3978	Wenzhou	k u ⁴⁵	k - u ⁴⁵	2054
+3979	XiAn	k w o ⁵³	k w o ⁵³	2054
+3980	Xiamen	k o ⁵¹	k - o ⁵¹	2054
+3981	Yangzhou	k o ⁴²	k - o ⁴²	2054
+3982	Beijing	ɕ i ⁵⁵	ɕ i ⁵⁵	2063
+3983	Changsha	s i ³³	s i ³³	2063
+3984	Chaozhou	s ai ³³	s ai ³³	2063
+3985	Chengdu	ɕ i ⁴⁴	ɕ i ⁴⁴	2063
+3986	Fuzhou	s ɛ ⁴⁴	s ɛ ⁴⁴	2063
+3987	Guangzhou	ʃ ai ⁵⁵	ʃ ai ⁵⁵	2063
+3988	Hankou	ɕ i ⁵⁵	ɕ i ⁵⁵	2063
+3989	Jinan	ɕ i ²¹³	ɕ i ²¹³	2063
+3990	Meixian	s i ⁴⁴	s i ⁴⁴	2063
+3991	Nanchang	ɕ i ⁴²	ɕ i ⁴²	2063
+3992	Shanghai	s i ⁵³	s i ⁵³	2063
+3993	Shuangfeng	ɕ i ⁵⁵	ɕ i ⁵⁵	2063
+3994	Suzhou	s i ⁴⁴	s i ⁴⁴	2063
+3995	Taiyuan	ɕ i ¹¹	ɕ i ¹¹	2063
+3996	Wenzhou	s ei ⁴⁴	s ei ⁴⁴	2063
+3997	XiAn	ɕ i ²¹	ɕ i ²¹	2063
+3998	Xiamen	s e ⁵⁵	s e ⁵⁵	2063
+3999	Yangzhou	ɕ i ²¹	ɕ i ²¹	2063
+4000	ZhongyuanYinyun	s i ⁵⁵	s i ⁵⁵	2063
+4001	Beijing	j au ⁵⁵	j - au ⁵⁵	2064
+4002	Changsha	j au ³³	j - au ³³	2064
+4003	Chaozhou	j əu ³³	j - əu ³³	2064
+4004	Chengdu	j au ⁴⁴	j - au ⁴⁴	2064
+4005	Fuzhou	j eu ⁴⁴	j - eu ⁴⁴	2064
+4006	Guangzhou	j j u ⁵⁵	j j u ⁵⁵	2064
+4007	Hankou	j au ⁵⁵	j - au ⁵⁵	2064
+4008	Jinan	j ɔ ²¹³	j - ɔ ²¹³	2064
+4009	Meixian	j au ⁴⁴	j - au ⁴⁴	2064
+4010	Nanchang	j ɛu ⁴²	j - ɛu ⁴²	2064
+4011	Shanghai	j ɔ ⁵⁵	j - ɔ ⁵⁵	2064
+4012	Shuangfeng	j ə ⁵⁵	j - ə ⁵⁵	2064
+4013	Suzhou	j æ ⁴⁴	j - æ ⁴⁴	2064
+4014	Taiyuan	j au ¹¹	j - au ¹¹	2064
+4015	Wenzhou	j ɛ ⁴⁴	j - ɛ ⁴⁴	2064
+4016	XiAn	j au ²¹	j - au ²¹	2064
+4017	Xiamen	j au ⁵⁵	j - au ⁵⁵	2064
+4018	Yangzhou	j ɔ ²¹	j - ɔ ²¹	2064
+4019	ZhongyuanYinyun	j au ⁵¹	j - au ⁵¹	2064
+4020	Beijing	tɕ j au ²¹⁴	tɕ j au - ²¹⁴	2073
+4021	Changsha	tɕ j o ²⁴	tɕ j o - ²⁴	2073
+4022	Chaozhou	k a k ²¹	k - a k ²¹	2073
+4023	Chengdu	k o ³¹	k - o - ³¹	2073
+4024	Fuzhou	k ɵy ʔ ²³	k - ɵy ʔ ²³	2073
+4025	Guangzhou	k ɔ k ³	k - ɔ k ³	2073
+4026	Hankou	tɕ j o ²¹³	tɕ j o - ²¹³	2073
+4027	Jinan	tɕ ɥ e ²¹³	tɕ ɥ e - ²¹³	2073
+4028	Meixian	k ɔ k ¹	k - ɔ k ¹	2073
+4029	Nanchang	k ɔ k ⁵	k - ɔ k ⁵	2073
+4030	Shanghai	k o ʔ ⁵	k - o ʔ ⁵	2073
+4031	Shuangfeng	k ʊ ²³	k - ʊ - ²³	2073
+4032	Suzhou	tɕ j o ʔ ⁴	tɕ j o ʔ ⁴	2073
+4033	Taiyuan	tɕ ɥ ə ʔ ²	tɕ ɥ ə ʔ ²	2073
+4034	Wenzhou	k u ³²³	k - u - ³²³	2073
+4035	XiAn	tɕ ɥ o ²¹	tɕ ɥ o - ²¹	2073
+4036	Xiamen	k a k ³²	k - a k ³²	2073
+4037	Yangzhou	k ɑ ʔ ⁴	k - ɑ ʔ ⁴	2073
+4038	ZhongyuanYinyun	k au ²¹⁴	k - au - ²¹⁴	2073
+4039	Beijing	tɕ j e ²¹⁴	tɕ j e ²¹⁴	2074
+4040	Changsha	k ai ⁴¹	k - ai ⁴¹	2074
+4041	Chaozhou	k oi ⁵³	k - oi ⁵³	2074
+4042	Chengdu	tɕ j ai ⁵³	tɕ j ai ⁵³	2074
+4043	Fuzhou	k ai ³¹	k - ai ³¹	2074
+4044	Guangzhou	k aːi ³⁵	k - aːi ³⁵	2074
+4045	Hankou	k ai ⁴²	k - ai ⁴²	2074
+4046	Jinan	tɕ j æ ⁵⁵	tɕ j æ ⁵⁵	2074
+4047	Meixian	k j ai ³¹	k j ai ³¹	2074
+4048	Nanchang	k ai ²¹³	k - ai ²¹³	2074
+4049	Shanghai	tɕ j a ⁵⁵	tɕ j a ⁵⁵	2074
+4050	Shuangfeng	k a ²¹	k - a ²¹	2074
+4051	Suzhou	tɕ j ɒ ⁵²	tɕ j ɒ ⁵²	2074
+4052	Taiyuan	tɕ j ɛ ⁵³	tɕ j ɛ ⁵³	2074
+4053	Wenzhou	k a ⁴⁵	k - a ⁴⁵	2074
+4054	XiAn	tɕ j e ⁵³	tɕ j e ⁵³	2074
+4055	Xiamen	k ai ⁵¹	k - ai ⁵¹	2074
+4056	Yangzhou	k ɛ ⁴²	k - ɛ ⁴²	2074
+4057	ZhongyuanYinyun	k j ai ³⁵	k j ai ³⁵	2074
+4058	Beijing	k u ²¹⁴	k - u - ²¹⁴	2143
+4059	Changsha	k u ²⁴	k - u - ²⁴	2143
+4060	Chaozhou	k o k ²¹	k - o k ²¹	2143
+4061	Chengdu	k u ³¹	k - u - ³¹	2143
+4062	Fuzhou	k ou ʔ ²³	k - ou ʔ ²³	2143
+4063	Guangzhou	k u k ⁵	k - u k ⁵	2143
+4064	Hankou	k u ²¹³	k - u - ²¹³	2143
+4065	Jinan	k u ²¹³	k - u - ²¹³	2143
+4066	Meixian	k u k ¹	k - u k ¹	2143
+4067	Nanchang	k u k ⁵	k - u k ⁵	2143
+4068	Shuangfeng	k əu ²³	k - əu - ²³	2143
+4069	Suzhou	k o ʔ ⁴	k - o ʔ ⁴	2143
+4070	Taiyuan	k w ə ʔ ²	k w ə ʔ ²	2143
+4071	Wenzhou	k u ³²³	k - u - ³²³	2143
+4072	XiAn	k u ²¹	k - u - ²¹	2143
+4073	Xiamen	k ɔ k ³²	k - ɔ k ³²	2143
+4074	Yangzhou	k ɔ ʔ ⁴	k - ɔ ʔ ⁴	2143
+4075	Beijing	t ou ⁵¹	t - ou ⁵¹	2144
+4076	Changsha	t ɤu ⁵⁵	t - ɤu ⁵⁵	2144
+4077	Chaozhou	t au ¹¹	t - au ¹¹	2144
+4078	Chengdu	t əu ¹³	t - əu ¹³	2144
+4079	Fuzhou	t au ²⁴²	t - au ²⁴²	2144
+4080	Guangzhou	t au ²²	t - au ²²	2144
+4081	Hankou	t ou ³⁵	t - ou ³⁵	2144
+4082	Jinan	t ou ²¹	t - ou ²¹	2144
+4083	Meixian	tʰ ɛu ⁵²	tʰ - ɛu ⁵²	2144
+4084	Nanchang	tʰ ɛu ²¹	tʰ - ɛu ²¹	2144
+4085	Shanghai	t ɤ ¹³	t - ɤ ¹³	2144
+4086	Shuangfeng	d j e ³³	d j e ³³	2144
+4087	Suzhou	d øy ³¹	d - øy ³¹	2144
+4088	Taiyuan	t ou ⁴⁵	t - ou ⁴⁵	2144
+4089	Wenzhou	d j u ²²	d j u ²²	2144
+4090	XiAn	t ou ⁵⁵	t - ou ⁵⁵	2144
+4091	Xiamen	t ɔ ³³	t - ɔ ³³	2144
+4092	Yangzhou	t ɤɯ ⁵⁵	t - ɤɯ ⁵⁵	2144
+4093	ZhongyuanYinyun	t ou ⁵¹	t - ou ⁵¹	2144
+4094	Beijing	ts ou ²¹⁴	ts - ou ²¹⁴	2201
+4095	Changsha	ts ɤu ⁴¹	ts - ɤu ⁴¹	2201
+4096	Chaozhou	ts au ⁵³	ts - au ⁵³	2201
+4097	Chengdu	ts əu ⁵³	ts - əu ⁵³	2201
+4098	Fuzhou	ts eu ³¹	ts - eu ³¹	2201
+4099	Guangzhou	tʃ au ³⁵	tʃ - au ³⁵	2201
+4100	Hankou	ts ou ⁴²	ts - ou ⁴²	2201
+4101	Jinan	ts ou ⁵⁵	ts - ou ⁵⁵	2201
+4102	Meixian	ts ɛu ³¹	ts - ɛu ³¹	2201
+4103	Nanchang	ts ɛu ²¹³	ts - ɛu ²¹³	2201
+4104	Shanghai	ts ɤɯ ⁵⁵	ts - ɤɯ ⁵⁵	2201
+4105	Shuangfeng	tɕ j ə ²¹	tɕ j ə ²¹	2201
+4106	Suzhou	ts øy ⁵²	ts - øy ⁵²	2201
+4107	Taiyuan	ts ou ⁵³	ts - ou ⁵³	2201
+4108	Wenzhou	ts au ⁴⁵	ts - au ⁴⁵	2201
+4109	XiAn	ts ou ⁵³	ts - ou ⁵³	2201
+4110	Xiamen	ts ɔ ⁵¹	ts - ɔ ⁵¹	2201
+4111	Yangzhou	ts ɤɯ ⁴²	ts - ɤɯ ⁴²	2201
+4112	ZhongyuanYinyun	ts ou ³⁵	ts - ou ³⁵	2201
+4113	Beijing	tɕʰ i ²¹⁴	tɕʰ i ²¹⁴	2202
+4114	Changsha	tɕʰ i ⁴¹	tɕʰ i ⁴¹	2202
+4115	Chaozhou	kʰ i ⁵³	kʰ i ⁵³	2202
+4116	Chengdu	tɕʰ i ⁵³	tɕʰ i ⁵³	2202
+4117	Fuzhou	kʰ i ³¹	kʰ i ³¹	2202
+4118	Guangzhou	h ei ⁵⁵	h ei ⁵⁵	2202
+4119	Hankou	tɕʰ i ⁴²	tɕʰ i ⁴²	2202
+4120	Jinan	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	2202
+4121	Meixian	kʰ i ³¹	kʰ i ³¹	2202
+4122	Nanchang	tɕʰ i ²¹³	tɕʰ i ²¹³	2202
+4123	Shanghai	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	2202
+4124	Shuangfeng	tɕʰ i ²¹	tɕʰ i ²¹	2202
+4125	Suzhou	tɕʰ i ⁵²	tɕʰ i ⁵²	2202
+4126	Taiyuan	tɕʰ i ⁵³	tɕʰ i ⁵³	2202
+4127	Wenzhou	tsʰ ɿ ⁴⁵	tsʰ ɿ ⁴⁵	2202
+4128	XiAn	tɕʰ i ⁵³	tɕʰ i ⁵³	2202
+4129	Xiamen	kʰ i ⁵¹	kʰ i ⁵¹	2202
+4130	Yangzhou	tɕʰ i ⁴²	tɕʰ i ⁴²	2202
+4131	ZhongyuanYinyun	kʰ i ³⁵	kʰ i ³⁵	2202
+4132	Beijing	t j e ⁵⁵	t j e - ⁵⁵	2211
+4133	Changsha	t j e ²⁴	t j e - ²⁴	2211
+4134	Chaozhou	t j e k ²¹	t j e k ²¹	2211
+4135	Chengdu	t j e ³¹	t j e - ³¹	2211
+4136	Fuzhou	t j e ʔ ⁴	t j e ʔ ⁴	2211
+4137	Guangzhou	t i t ³	t - i t ³	2211
+4138	Hankou	t j e ²¹³	t j e - ²¹³	2211
+4139	Jinan	t j e ²¹³	t j e - ²¹³	2211
+4140	Meixian	t j ɛ t ¹	t j ɛ t ¹	2211
+4141	Nanchang	t j ɛ t ⁵	t j ɛ t ⁵	2211
+4142	Shanghai	t ɪ ʔ ⁵	t - ɪ ʔ ⁵	2211
+4143	Shuangfeng	t j ɛ ²³	t j ɛ - ²³	2211
+4144	Suzhou	t j ɤ ʔ ⁴	t j ɤ ʔ ⁴	2211
+4145	Taiyuan	t j ə ʔ ²	t j ə ʔ ²	2211
+4146	Wenzhou	t i ³²³	t - i - ³²³	2211
+4147	XiAn	t j e ²¹	t j e - ²¹	2211
+4148	Xiamen	t j ɛ t ⁵	t j ɛ t ⁵	2211
+4149	Yangzhou	t j ə ʔ ⁴	t j ə ʔ ⁴	2211
+4150	ZhongyuanYinyun	t j e ²¹⁴	t j e - ²¹⁴	2211
+4151	Beijing	pʰ au ²¹⁴	pʰ - au ²¹⁴	2212
+4152	Changsha	pʰ au ⁴¹	pʰ - au ⁴¹	2212
+4153	Chaozhou	pʰ au ⁵³	pʰ - au ⁵³	2212
+4154	Chengdu	pʰ au ⁵³	pʰ - au ⁵³	2212
+4155	Fuzhou	pʰ au ⁵²	pʰ - au ⁵²	2212
+4156	Guangzhou	pʰ aːu ³⁵	pʰ - aːu ³⁵	2212
+4157	Hankou	pʰ au ²¹³	pʰ - au ²¹³	2212
+4158	Jinan	pʰ ɔ ⁵⁵	pʰ - ɔ ⁵⁵	2212
+4159	Meixian	pʰ au ⁴⁴	pʰ - au ⁴⁴	2212
+4160	Nanchang	pʰ au ²¹³	pʰ - au ²¹³	2212
+4161	Shanghai	p ɔ ¹³	p - ɔ ¹³	2212
+4162	Shuangfeng	pʰ ə ²¹	pʰ - ə ²¹	2212
+4163	Suzhou	b æ ²⁴	b - æ ²⁴	2212
+4164	Taiyuan	pʰ au ⁵³	pʰ - au ⁵³	2212
+4165	Wenzhou	b w ɔ ³¹	b w ɔ ³¹	2212
+4166	XiAn	pʰ au ⁵³	pʰ - au ⁵³	2212
+4167	Xiamen	pʰ au ⁵¹	pʰ - au ⁵¹	2212
+4168	Yangzhou	pʰ ɔ ³⁴	pʰ - ɔ ³⁴	2212
+4169	ZhongyuanYinyun	pʰ au ⁵⁵	pʰ - au ⁵⁵	2212
+4170	Beijing	l u ⁵¹	l u ⁵¹	2218
+4171	Changsha	n ɤu ⁵⁵	n ɤu ⁵⁵	2218
+4172	Chaozhou	l ou ¹¹	l ou ¹¹	2218
+4173	Chengdu	n u ¹³	n u ¹³	2218
+4174	Fuzhou	l ou ²⁴²	l ou ²⁴²	2218
+4175	Guangzhou	l ou ²²	l ou ²²	2218
+4176	Hankou	n ou ³⁵	n ou ³⁵	2218
+4177	Jinan	l u ²¹	l u ²¹	2218
+4178	Meixian	l u ⁵²	l u ⁵²	2218
+4179	Nanchang	l u ²¹	l u ²¹	2218
+4180	Shanghai	l ou ¹³	l ou ¹³	2218
+4181	Shuangfeng	n əu ³³	n əu ³³	2218
+4182	Suzhou	l əu ³¹	l əu ³¹	2218
+4183	Taiyuan	l ou ⁴⁵	l ou ⁴⁵	2218
+4184	Wenzhou	l ɵy ²²	l ɵy ²²	2218
+4185	XiAn	l ou ⁵⁵	l ou ⁵⁵	2218
+4186	Xiamen	l ɔ ³³	l ɔ ³³	2218
+4187	Yangzhou	l u ⁵⁵	l u ⁵⁵	2218
+4188	ZhongyuanYinyun	l u ⁵¹	l u ⁵¹	2218
+4189	Beijing	tʰ j au ⁵¹	tʰ j au ⁵¹	2219
+4190	Changsha	tʰ j au ⁵⁵	tʰ j au ⁵⁵	2219
+4191	Chaozhou	tʰ j əu ²¹³	tʰ j əu ²¹³	2219
+4192	Chengdu	tʰ j au ¹³	tʰ j au ¹³	2219
+4193	Fuzhou	tʰ j eu ²¹³	tʰ j eu ²¹³	2219
+4194	Guangzhou	tʰ j u ³³	tʰ j u ³³	2219
+4195	Hankou	tʰ j au ³⁵	tʰ j au ³⁵	2219
+4196	Jinan	tʰ j ɔ ²¹	tʰ j ɔ ²¹	2219
+4197	Meixian	tʰ j au ⁵²	tʰ j au ⁵²	2219
+4198	Shanghai	tʰ j ɔ ⁵⁵	tʰ j ɔ ⁵⁵	2219
+4199	Shuangfeng	tʰ j ə ³⁵	tʰ j ə ³⁵	2219
+4200	Suzhou	tʰ j æ ⁴¹²	tʰ j æ ⁴¹²	2219
+4201	Taiyuan	tʰ j au ⁴⁵	tʰ j au ⁴⁵	2219
+4202	Wenzhou	tʰ j ɛ ⁴²	tʰ j ɛ ⁴²	2219
+4203	XiAn	tʰ j au ⁵⁵	tʰ j au ⁵⁵	2219
+4204	Xiamen	tʰ j au ¹¹	tʰ j au ¹¹	2219
+4205	Yangzhou	tʰ j ɔ ⁵⁵	tʰ j ɔ ⁵⁵	2219
+4206	ZhongyuanYinyun	tʰ j au ⁵⁵	tʰ j au ⁵⁵	2219
+4207	Beijing	tʰ i ³⁵	tʰ i ³⁵	2222
+4208	Changsha	t i ¹³	t i ¹³	2222
+4209	Chaozhou	tʰ i ⁵⁵	tʰ i ⁵⁵	2222
+4210	Chengdu	tʰ i ³¹	tʰ i ³¹	2222
+4211	Fuzhou	t ɛ ⁵²	t ɛ ⁵²	2222
+4212	Guangzhou	tʰ ai ²¹	tʰ ai ²¹	2222
+4213	Hankou	tʰ i ²¹³	tʰ i ²¹³	2222
+4214	Jinan	tʰ i ⁴²	tʰ i ⁴²	2222
+4215	Meixian	tʰ ai ¹¹	tʰ ai ¹¹	2222
+4216	Nanchang	tʰ i ²⁴	tʰ i ²⁴	2222
+4217	Shanghai	t i ¹³	t i ¹³	2222
+4218	Shuangfeng	d i ²³	d i ²³	2222
+4219	Suzhou	d i ²⁴	d i ²⁴	2222
+4220	Taiyuan	tʰ i ¹¹	tʰ i ¹¹	2222
+4221	Wenzhou	d ei ³¹	d ei ³¹	2222
+4222	XiAn	tʰ i ²⁴	tʰ i ²⁴	2222
+4223	Xiamen	t e ⁵⁵	t e ⁵⁵	2222
+4224	Yangzhou	tʰ i ³⁴	tʰ i ³⁴	2222
+4225	Beijing	ʂ ə n ⁵⁵	ʂ - ə n ⁵⁵	2226
+4226	Changsha	ʂ ə n ³³	ʂ - ə n ³³	2226
+4227	Chaozhou	s i ŋ ³³	s - i ŋ ³³	2226
+4228	Chengdu	s ə n ⁴⁴	s - ə n ⁴⁴	2226
+4229	Fuzhou	s i ŋ ⁴⁴	s - i ŋ ⁴⁴	2226
+4230	Guangzhou	ʃ a n ⁵⁵	ʃ - a n ⁵⁵	2226
+4231	Hankou	s ə n ⁵⁵	s - ə n ⁵⁵	2226
+4232	Jinan	ʂ eː ²¹³	ʂ - eː - ²¹³	2226
+4233	Meixian	s ə n ⁴⁴	s - ə n ⁴⁴	2226
+4234	Nanchang	s ə n ⁴²	s - ə n ⁴²	2226
+4235	Shanghai	s ə ŋ ⁵³	s - ə ŋ ⁵³	2226
+4236	Shuangfeng	ɕ i n ⁵⁵	ɕ - i n ⁵⁵	2226
+4237	Suzhou	s ə n ⁴⁴	s - ə n ⁴⁴	2226
+4238	Taiyuan	s ə ŋ ¹¹	s - ə ŋ ¹¹	2226
+4239	Wenzhou	s a ŋ ⁴⁴	s - a ŋ ⁴⁴	2226
+4240	XiAn	ʂ eː ²¹	ʂ - eː - ²¹	2226
+4241	Xiamen	s i n ⁵⁵	s - i n ⁵⁵	2226
+4242	Yangzhou	s ə n ²¹	s - ə n ²¹	2226
+4243	ZhongyuanYinyun	ʃ j ə n ⁵⁵	ʃ j ə n ⁵⁵	2226
+4244	Beijing	l a ⁵¹	l a - ⁵¹	2252
+4245	Changsha	n a ²⁴	n a - ²⁴	2252
+4246	Chaozhou	l a ʔ ⁴	l a ʔ ⁴	2252
+4247	Chengdu	n a ³¹	n a - ³¹	2252
+4248	Fuzhou	l a ʔ ⁴	l a ʔ ⁴	2252
+4249	Guangzhou	l aː t ²	l aː t ²	2252
+4250	Hankou	n a ²¹³	n a - ²¹³	2252
+4251	Jinan	l a ²¹	l a - ²¹	2252
+4252	Meixian	l a t ⁵	l a t ⁵	2252
+4253	Nanchang	l a t ⁵	l a t ⁵	2252
+4254	Shanghai	l a ʔ ¹³	l a ʔ ¹³	2252
+4255	Shuangfeng	n a ³⁵	n a - ³⁵	2252
+4256	Suzhou	l a ʔ ²³	l a ʔ ²³	2252
+4257	Taiyuan	l a ʔ ²	l a ʔ ²	2252
+4258	Wenzhou	l a ²¹²	l a - ²¹²	2252
+4259	XiAn	l a ²¹	l a - ²¹	2252
+4260	Xiamen	l a t ⁵	l a t ⁵	2252
+4261	Yangzhou	l a ʔ ⁴	l a ʔ ⁴	2252
+4262	ZhongyuanYinyun	l a ²¹⁴	l a - ²¹⁴	2252
+4263	Beijing	tɕ i n ⁵¹	- tɕ i n ⁵¹	2263
+4264	Changsha	tɕ i n ⁵⁵	- tɕ i n ⁵⁵	2263
+4265	Chaozhou	k ɯ ŋ ³⁵	k - ɯ ŋ ³⁵	2263
+4266	Chengdu	tɕ i n ¹³	- tɕ i n ¹³	2263
+4267	Fuzhou	k øy ŋ ²⁴²	k - øy ŋ ²⁴²	2263
+4268	Guangzhou	kʰ a n ²²	kʰ - a n ²²	2263
+4269	Hankou	tɕ i n ³⁵	- tɕ i n ³⁵	2263
+4270	Jinan	tɕ ieː ²¹	- tɕ ieː - ²¹	2263
+4271	Meixian	kʰ j u n ⁵²	kʰ j u n ⁵²	2263
+4272	Nanchang	tɕʰ i n ²¹	- tɕʰ i n ²¹	2263
+4273	Shanghai	tɕ i ŋ ¹³	- tɕ i ŋ ¹³	2263
+4274	Shuangfeng	dʑ i n ³³	- dʑ i n ³³	2263
+4275	Suzhou	dʑ i n ³¹	- dʑ i n ³¹	2263
+4276	Taiyuan	tɕ i ŋ ⁴⁵	- tɕ i ŋ ⁴⁵	2263
+4277	Wenzhou	dʑ j a ŋ ³⁴	dʑ j a ŋ ³⁴	2263
+4278	XiAn	tɕ ieː ⁵⁵	- tɕ ieː - ⁵⁵	2263
+4279	Xiamen	k u n ³³	k - u n ³³	2263
+4280	ZhongyuanYinyun	k j ə n ⁵¹	k j ə n ⁵¹	2263
+4281	Beijing	ʈʂ w ei ⁵⁵	ʈʂ w ei ⁵⁵	2267
+4282	Changsha	tɕ ɥ ei ³³	tɕ ɥ ei ³³	2267
+4283	Chaozhou	t w i ³³	t w i ³³	2267
+4284	Chengdu	ts w ei ⁴⁴	ts w ei ⁴⁴	2267
+4285	Fuzhou	t w ei ⁴⁴	t w ei ⁴⁴	2267
+4286	Guangzhou	tʃ œy ⁵⁵	tʃ - œy ⁵⁵	2267
+4287	Hankou	ts w ei ⁵⁵	ts w ei ⁵⁵	2267
+4288	Jinan	ʈʂ w ei ²¹³	ʈʂ w ei ²¹³	2267
+4289	Meixian	ts w i ⁴⁴	ts w i ⁴⁴	2267
+4290	Nanchang	ts w i ⁴²	ts w i ⁴²	2267
+4291	Shanghai	ts ø ⁵³	ts - ø ⁵³	2267
+4292	Shuangfeng	t w i ⁵⁵	t w i ⁵⁵	2267
+4293	Suzhou	ts ɛ ⁴⁴	ts - ɛ ⁴⁴	2267
+4294	Taiyuan	ts w ei ¹¹	ts w ei ¹¹	2267
+4295	Wenzhou	ts ɿ ⁴⁴	ts - ɿ ⁴⁴	2267
+4296	XiAn	pf ei ²¹	- pf ei ²¹	2267
+4297	Xiamen	t w i ⁵⁵	t w i ⁵⁵	2267
+4298	Yangzhou	ts w əi ²¹	ts w əi ²¹	2267
+4299	ZhongyuanYinyun	tʃ w ei ⁵⁵	tʃ w ei ⁵⁵	2267
+4300	Beijing	tʰ w ei ⁵¹	tʰ w ei ⁵¹	2268
+4301	Changsha	t ei ⁵⁵	t - ei ⁵⁵	2268
+4302	Chaozhou	tʰ o ²¹³	tʰ - o ²¹³	2268
+4303	Chengdu	tʰ ei ¹³	tʰ - ei ¹³	2268
+4304	Fuzhou	tʰ ɵy ²¹³	tʰ - ɵy ²¹³	2268
+4305	Guangzhou	tʰ œy ³³	tʰ - œy ³³	2268
+4306	Hankou	tʰ w ei ³⁵	tʰ w ei ³⁵	2268
+4307	Jinan	tʰ w ei ²¹	tʰ w ei ²¹	2268
+4308	Meixian	tʰ w i ⁵²	tʰ w i ⁵²	2268
+4309	Nanchang	tʰ w i ²¹³	tʰ w i ²¹³	2268
+4310	Shanghai	tʰ ɛ ⁵⁵	tʰ - ɛ ⁵⁵	2268
+4311	Shuangfeng	tʰ w e ³⁵	tʰ w e ³⁵	2268
+4312	Suzhou	tʰ ɛ ⁴¹²	tʰ - ɛ ⁴¹²	2268
+4313	Taiyuan	tʰ w ei ⁴⁵	tʰ w ei ⁴⁵	2268
+4314	Wenzhou	tʰ ai ⁴²	tʰ - ai ⁴²	2268
+4315	XiAn	tʰ w ei ⁵⁵	tʰ w ei ⁵⁵	2268
+4316	Xiamen	tʰ w e ¹¹	tʰ w e ¹¹	2268
+4317	Yangzhou	tʰ w əi ⁵⁵	tʰ w əi ⁵⁵	2268
+4318	ZhongyuanYinyun	tʰ w ei ⁵¹	tʰ w ei ⁵¹	2268
+4319	Beijing	tʰ au ³⁵	tʰ au ³⁵	2270
+4320	Changsha	t au ¹³	t au ¹³	2270
+4321	Chaozhou	t o ⁵⁵	t o ⁵⁵	2270
+4322	Chengdu	tʰ au ³¹	tʰ au ³¹	2270
+4323	Fuzhou	t ɔ ⁵²	t ɔ ⁵²	2270
+4324	Guangzhou	tʰ ou ²¹	tʰ ou ²¹	2270
+4325	Hankou	tʰ au ²¹³	tʰ au ²¹³	2270
+4326	Jinan	tʰ ɔ ⁴²	tʰ ɔ ⁴²	2270
+4327	Meixian	tʰ au ¹¹	tʰ au ¹¹	2270
+4328	Nanchang	tʰ au ²⁴	tʰ au ²⁴	2270
+4329	Shanghai	t ɔ ¹³	t ɔ ¹³	2270
+4330	Shuangfeng	d ə ²³	d ə ²³	2270
+4331	Suzhou	d æ ²⁴	d æ ²⁴	2270
+4332	Taiyuan	tʰ au ¹¹	tʰ au ¹¹	2270
+4333	Wenzhou	d ɜ ³¹	d ɜ ³¹	2270
+4334	XiAn	tʰ au ²⁴	tʰ au ²⁴	2270
+4335	Xiamen	t o ²⁴	t o ²⁴	2270
+4336	Yangzhou	tʰ ɔ ³⁴	tʰ ɔ ³⁴	2270
+4337	ZhongyuanYinyun	tʰ au ⁵⁵	tʰ au ⁵⁵	2270
+4338	Beijing	t u ⁵⁵	t u ⁵⁵	2315
+4339	Changsha	t ɤu ³³	t ɤu ³³	2315
+4340	Chaozhou	t ou ³³	t ou ³³	2315
+4341	Chengdu	t u ⁴⁴	t u ⁴⁴	2315
+4342	Fuzhou	t u ⁴⁴	t u ⁴⁴	2315
+4343	Guangzhou	t ou ⁵⁵	t ou ⁵⁵	2315
+4344	Hankou	t ou ⁵⁵	t ou ⁵⁵	2315
+4345	Jinan	t u ²¹³	t u ²¹³	2315
+4346	Meixian	t u ⁴⁴	t u ⁴⁴	2315
+4347	Nanchang	t u ⁴²	t u ⁴²	2315
+4348	Shanghai	t u ⁵³	t u ⁵³	2315
+4349	Shuangfeng	t əu ⁵⁵	t əu ⁵⁵	2315
+4350	Suzhou	t əu ⁴⁴	t əu ⁴⁴	2315
+4351	Taiyuan	t u ¹¹	t u ¹¹	2315
+4352	Wenzhou	t ɵy ⁴⁴	t ɵy ⁴⁴	2315
+4353	XiAn	t ou ²¹	t ou ²¹	2315
+4354	Xiamen	t ɔ ⁵⁵	t ɔ ⁵⁵	2315
+4355	Yangzhou	t u ²¹	t u ²¹	2315
+4356	ZhongyuanYinyun	t u ⁵⁵	t u ⁵⁵	2315
+4357	Beijing	tɕ j ou ²¹⁴	tɕ j ou ²¹⁴	2323
+4358	Changsha	ts j ɤu ⁴¹	ts j ɤu ⁴¹	2323
+4359	Chaozhou	ts j u ⁵³	ts j u ⁵³	2323
+4360	Chengdu	tɕ j əu ⁵³	tɕ j əu ⁵³	2323
+4361	Fuzhou	ts j eu ³¹	ts j eu ³¹	2323
+4362	Guangzhou	tʃ au ³⁵	tʃ - au ³⁵	2323
+4363	Hankou	tɕ j ou ⁴²	tɕ j ou ⁴²	2323
+4364	Jinan	tɕ j ou ⁵⁵	tɕ j ou ⁵⁵	2323
+4365	Meixian	ts j u ³¹	ts j u ³¹	2323
+4366	Nanchang	tɕ j u ²¹³	tɕ j u ²¹³	2323
+4367	Shanghai	ts j ɯ ⁵⁵	ts j ɯ ⁵⁵	2323
+4368	Shuangfeng	tɕ j ʊ ²¹	tɕ j ʊ ²¹	2323
+4369	Suzhou	ts øy ⁵²	ts - øy ⁵²	2323
+4370	Taiyuan	tɕ j ou ⁵³	tɕ j ou ⁵³	2323
+4371	Wenzhou	tɕ j u ⁴⁵	tɕ j u ⁴⁵	2323
+4372	XiAn	tɕ j ou ⁵³	tɕ j ou ⁵³	2323
+4373	Xiamen	ts j u ⁵¹	ts j u ⁵¹	2323
+4374	Yangzhou	tɕ j ɤɯ ⁴²	tɕ j ɤɯ ⁴²	2323
+4375	ZhongyuanYinyun	ts j ou ³⁵	ts j ou ³⁵	2323
+4376	Beijing	s w a n ⁵⁵	s w a n ⁵⁵	2328
+4377	Changsha	s oː ³³	s - oː - ³³	2328
+4378	Chaozhou	s ɯ ŋ ³³	s - ɯ ŋ ³³	2328
+4379	Chengdu	s w a n ⁴⁴	s w a n ⁴⁴	2328
+4380	Fuzhou	s ou ŋ ⁴⁴	s - ou ŋ ⁴⁴	2328
+4381	Guangzhou	s y n ⁵⁵	s - y n ⁵⁵	2328
+4382	Hankou	s a n ⁵⁵	s - a n ⁵⁵	2328
+4383	Jinan	s uaː ²¹³	s - uaː - ²¹³	2328
+4384	Meixian	s ɔ n ⁴⁴	s - ɔ n ⁴⁴	2328
+4385	Nanchang	s w ɔ n ⁴²	s w ɔ n ⁴²	2328
+4386	Shanghai	s ø ⁵³	s - ø - ⁵³	2328
+4387	Shuangfeng	s uaː ⁵⁵	s - uaː - ⁵⁵	2328
+4388	Suzhou	s ø ⁴⁴	s - ø - ⁴⁴	2328
+4389	Taiyuan	s uæː ¹¹	s - uæː - ¹¹	2328
+4390	Wenzhou	s ø ⁴⁴	s - ø - ⁴⁴	2328
+4391	XiAn	s uaː ²¹	s - uaː - ²¹	2328
+4392	Xiamen	s w a n ⁵⁵	s w a n ⁵⁵	2328
+4393	Yangzhou	s uoː ²¹	s - uoː - ²¹	2328
+4394	ZhongyuanYinyun	s o n ⁵⁵	s - o n ⁵⁵	2328
+4395	Beijing	ts w ei ⁵¹	ts w ei ⁵¹	2330
+4396	Changsha	ts ei ⁵⁵	ts - ei ⁵⁵	2330
+4397	Chaozhou	ts w i ²¹³	ts w i ²¹³	2330
+4398	Chengdu	ts w ei ¹³	ts w ei ¹³	2330
+4399	Fuzhou	ts w ei ⁴⁴	ts w ei ⁴⁴	2330
+4400	Guangzhou	tʃ œy ³³	tʃ - œy ³³	2330
+4401	Hankou	ts ei ³⁵	ts - ei ³⁵	2330
+4402	Jinan	ts w ei ²¹	ts w ei ²¹	2330
+4403	Meixian	ts w i ⁵²	ts w i ⁵²	2330
+4404	Nanchang	ts w i ⁴⁵	ts w i ⁴⁵	2330
+4405	Shanghai	ts ø ⁵⁵	ts - ø ⁵⁵	2330
+4406	Shuangfeng	tɕ y ³⁵	tɕ - y ³⁵	2330
+4407	Suzhou	ts ɛ ⁴¹²	ts - ɛ ⁴¹²	2330
+4408	Taiyuan	ts w ei ⁴⁵	ts w ei ⁴⁵	2330
+4409	Wenzhou	ts ai ⁴²	ts - ai ⁴²	2330
+4410	XiAn	ts w ei ⁵⁵	ts w ei ⁵⁵	2330
+4411	Xiamen	ts w i ¹¹	ts w i ¹¹	2330
+4412	Yangzhou	ts w əi ⁵⁵	ts w əi ⁵⁵	2330
+4413	ZhongyuanYinyun	ts w ei ⁵¹	ts w ei ⁵¹	2330
+4414	Beijing	ɕ i ŋ ²¹⁴	ɕ - i ŋ ²¹⁴	2332
+4415	Changsha	s i n ⁴¹	s - i n ⁴¹	2332
+4416	Chaozhou	tsʰ eː ⁵³	tsʰ - eː - ⁵³	2332
+4417	Chengdu	ɕ i n ⁵³	ɕ - i n ⁵³	2332
+4418	Fuzhou	s i ŋ ³¹	s - i ŋ ³¹	2332
+4419	Guangzhou	ʃ ɪ ŋ ³⁵	ʃ - ɪ ŋ ³⁵	2332
+4420	Hankou	ɕ i n ⁴²	ɕ - i n ⁴²	2332
+4421	Jinan	ɕ i ŋ ⁵⁵	ɕ - i ŋ ⁵⁵	2332
+4422	Meixian	s j a ŋ ³¹	s j a ŋ ³¹	2332
+4423	Nanchang	s i n ²¹³	s - i n ²¹³	2332
+4424	Shanghai	s i ŋ ⁵⁵	s - i ŋ ⁵⁵	2332
+4425	Shuangfeng	ɕ i n ²¹	ɕ - i n ²¹	2332
+4426	Suzhou	s i n ⁵²	s - i n ⁵²	2332
+4427	Taiyuan	ɕ i ŋ ⁵³	ɕ - i ŋ ⁵³	2332
+4428	Wenzhou	s e ŋ ⁴⁵	s - e ŋ ⁴⁵	2332
+4429	XiAn	ɕ i ŋ ⁵³	ɕ - i ŋ ⁵³	2332
+4430	Xiamen	s ɪ ŋ ⁵¹	s - ɪ ŋ ⁵¹	2332
+4431	Yangzhou	ɕ iː ⁴²	ɕ - iː - ⁴²	2332
+4432	ZhongyuanYinyun	s j ə ŋ ⁵⁵	s j ə ŋ ⁵⁵	2332
+4433	Beijing	l i ²¹⁴	l i ²¹⁴	2337
+4434	Changsha	n i ⁴¹	n i ⁴¹	2337
+4435	Chaozhou	l i ⁵³	l i ⁵³	2337
+4436	Chengdu	n i ⁵³	n i ⁵³	2337
+4437	Fuzhou	l i ³¹	l i ³¹	2337
+4438	Guangzhou	l ei ²³	l ei ²³	2337
+4439	Hankou	n i ⁴²	n i ⁴²	2337
+4440	Jinan	l i ⁵⁵	l i ⁵⁵	2337
+4441	Meixian	l i ⁴⁴	l i ⁴⁴	2337
+4442	Nanchang	l i ²¹³	l i ²¹³	2337
+4443	Shanghai	l i ¹³	l i ¹³	2337
+4444	Shuangfeng	n i ²¹	n i ²¹	2337
+4445	Suzhou	l i ³¹	l i ³¹	2337
+4446	Taiyuan	l i ⁵³	l i ⁵³	2337
+4447	Wenzhou	l ei ³⁴	l ei ³⁴	2337
+4448	XiAn	l i ⁵³	l i ⁵³	2337
+4449	Xiamen	l i ⁵¹	l i ⁵¹	2337
+4450	Yangzhou	l i ⁴²	l i ⁴²	2337
+4451	ZhongyuanYinyun	l i ³⁵	l i ³⁵	2337
+4452	Beijing	ʈʂ u ŋ ⁵¹	ʈʂ - u ŋ ⁵¹	2338
+4453	Changsha	ʈʂ o ŋ ⁵⁵	ʈʂ - o ŋ ⁵⁵	2338
+4454	Chaozhou	t a ŋ ³⁵	t - a ŋ ³⁵	2338
+4455	Chengdu	ts o ŋ ¹³	ts - o ŋ ¹³	2338
+4456	Fuzhou	ts øy ŋ ²⁴²	ts - øy ŋ ²⁴²	2338
+4457	Guangzhou	tʃ u ŋ ²²	tʃ - u ŋ ²²	2338
+4458	Hankou	ts o ŋ ³⁵	ts - o ŋ ³⁵	2338
+4459	Jinan	ʈʂ u ŋ ²¹	ʈʂ - u ŋ ²¹	2338
+4460	Meixian	tsʰ u ŋ ⁴⁴	tsʰ - u ŋ ⁴⁴	2338
+4461	Nanchang	tsʰ u ŋ ²¹	tsʰ - u ŋ ²¹	2338
+4462	Shanghai	z o ŋ ¹³	- z o ŋ ¹³	2338
+4463	Shuangfeng	dʑ i n ³³	dʑ - i n ³³	2338
+4464	Suzhou	z o ŋ ³¹	- z o ŋ ³¹	2338
+4465	Taiyuan	ts u ŋ ⁴⁵	ts - u ŋ ⁴⁵	2338
+4466	Wenzhou	dʑ ɥ ɔ ³⁴	dʑ ɥ ɔ - ³⁴	2338
+4467	XiAn	pf o ŋ ⁵⁵	- pf o ŋ ⁵⁵	2338
+4468	Xiamen	t j ɔ ŋ ³³	t j ɔ ŋ ³³	2338
+4469	Yangzhou	ts ɔu ŋ ⁵⁵	ts - ɔu ŋ ⁵⁵	2338
+4470	ZhongyuanYinyun	tʃ j u ŋ ⁵¹	tʃ j u ŋ ⁵¹	2338
+4471	Beijing	y ²¹⁴	- y ²¹⁴	2451
+4472	Changsha	y ⁴¹	- y ⁴¹	2451
+4473	Chaozhou	h ou ³⁵	h ou ³⁵	2451
+4474	Chengdu	y ⁵³	- y ⁵³	2451
+4475	Fuzhou	y ³¹	- y ³¹	2451
+4476	Guangzhou	j y ²³	j y ²³	2451
+4477	Hankou	y ⁴²	- y ⁴²	2451
+4478	Jinan	y ⁵⁵	- y ⁵⁵	2451
+4479	Meixian	j i ³¹	j i ³¹	2451
+4480	Nanchang	y ²¹³	- y ²¹³	2451
+4481	Shanghai	y ¹³	- y ¹³	2451
+4482	Shuangfeng	y ²¹	- y ²¹	2451
+4483	Suzhou	y ³¹	- y ³¹	2451
+4484	Taiyuan	y ⁵³	- y ⁵³	2451
+4485	Wenzhou	ɦ u ³⁴	ɦ u ³⁴	2451
+4486	XiAn	y ⁵³	- y ⁵³	2451
+4487	Xiamen	u ⁵¹	- u ⁵¹	2451
+4488	Yangzhou	y ⁴²	- y ⁴²	2451
+4489	ZhongyuanYinyun	j u ³⁵	j u ³⁵	2451
+4490	Beijing	ɕ ɥ e ²¹⁴	ɕ ɥ e - ²¹⁴	2452
+4491	Changsha	s j e ²⁴	s j e - ²⁴	2452
+4492	Chaozhou	s o ʔ ²¹	s - o ʔ ²¹	2452
+4493	Chengdu	ɕ ɥ e ³¹	ɕ ɥ e - ³¹	2452
+4494	Fuzhou	s w ɔ ʔ ²³	s w ɔ ʔ ²³	2452
+4495	Guangzhou	ʃ y t ³	ʃ - y t ³	2452
+4496	Hankou	ɕ j e ²¹³	ɕ j e - ²¹³	2452
+4497	Jinan	ɕ ɥ e ²¹³	ɕ ɥ e - ²¹³	2452
+4498	Meixian	s j ɛ t ¹	s j ɛ t ¹	2452
+4499	Nanchang	ɕ ɥ ɔ t ⁵	ɕ ɥ ɔ t ⁵	2452
+4500	Shanghai	s ɪ ʔ ⁵	s - ɪ ʔ ⁵	2452
+4501	Shuangfeng	ɕ ɥ ɛ ²³	ɕ ɥ ɛ - ²³	2452
+4502	Suzhou	s j ɤ ʔ ⁴	s j ɤ ʔ ⁴	2452
+4503	Taiyuan	ɕ ɥ ə ʔ ²	ɕ ɥ ə ʔ ²	2452
+4504	Wenzhou	ɕ y ³²³	ɕ - y - ³²³	2452
+4505	XiAn	ɕ ɥ e ²¹	ɕ ɥ e - ²¹	2452
+4506	Xiamen	s w a t ³²	s w a t ³²	2452
+4507	Yangzhou	ɕ ɥ ə ʔ ⁴	ɕ ɥ ə ʔ ⁴	2452
+4508	ZhongyuanYinyun	s ɥ e ²¹⁴	s ɥ e - ²¹⁴	2452
+4509	Beijing	l ei ³⁵	l - ei ³⁵	2454
+4510	Changsha	l ei ¹³	l - ei ¹³	2454
+4511	Chaozhou	l w i ⁵⁵	l w i ⁵⁵	2454
+4512	Chengdu	n w ei ³¹	n w ei ³¹	2454
+4513	Fuzhou	l ɵy ⁵²	l - ɵy ⁵²	2454
+4514	Guangzhou	l œy ²¹	l - œy ²¹	2454
+4515	Hankou	n ei ²¹³	n - ei ²¹³	2454
+4516	Jinan	l w ei ⁴²	l w ei ⁴²	2454
+4517	Meixian	l w i ¹¹	l w i ¹¹	2454
+4518	Nanchang	l əi ⁴⁵	l - əi ⁴⁵	2454
+4519	Shanghai	l ei ¹³	l - ei ¹³	2454
+4520	Shuangfeng	n w e ²³	n w e ²³	2454
+4521	Suzhou	l ɛ ²⁴	l - ɛ ²⁴	2454
+4522	Taiyuan	l w ei ¹¹	l w ei ¹¹	2454
+4523	Wenzhou	n ai ³¹	n - ai ³¹	2454
+4524	XiAn	l w ei ²⁴	l w ei ²⁴	2454
+4525	Xiamen	l w i ²⁴	l w i ²⁴	2454
+4526	Yangzhou	l w əi ³⁴	l w əi ³⁴	2454
+4527	ZhongyuanYinyun	l w ei ⁵⁵	l w ei ⁵⁵	2454
+4528	Beijing	ʂ w a ŋ ⁵⁵	ʂ w a ŋ ⁵⁵	2461
+4529	Changsha	ɕ ɥ a n ³³	ɕ ɥ a n ³³	2461
+4530	Chaozhou	s ɯ ŋ ³³	s - ɯ ŋ ³³	2461
+4531	Chengdu	s w a ŋ ⁴⁴	s w a ŋ ⁴⁴	2461
+4532	Fuzhou	s ou ŋ ⁴⁴	s - ou ŋ ⁴⁴	2461
+4533	Guangzhou	ʃ œ ŋ ⁵⁵	ʃ - œ ŋ ⁵⁵	2461
+4534	Hankou	s w a ŋ ⁵⁵	s w a ŋ ⁵⁵	2461
+4535	Jinan	ʂ w a ŋ ²¹³	ʂ w a ŋ ²¹³	2461
+4536	Meixian	s ɔ ŋ ⁴⁴	s - ɔ ŋ ⁴⁴	2461
+4537	Nanchang	s ɔ ŋ ⁴²	s - ɔ ŋ ⁴²	2461
+4538	Shanghai	s ɒː ⁵³	s - ɒː - ⁵³	2461
+4539	Shuangfeng	s a ŋ ⁵⁵	s - a ŋ ⁵⁵	2461
+4540	Suzhou	s ɒ ŋ ⁴⁴	s - ɒ ŋ ⁴⁴	2461
+4541	Taiyuan	s uɒː ¹¹	s - uɒː - ¹¹	2461
+4542	Wenzhou	ɕ ɥ ɔ ⁴⁴	ɕ ɥ ɔ - ⁴⁴	2461
+4543	XiAn	f a ŋ ²¹	- f a ŋ ²¹	2461
+4544	Xiamen	s ɔ ŋ ⁵⁵	s - ɔ ŋ ⁵⁵	2461
+4545	Yangzhou	s w ɑ ŋ ²¹	s w ɑ ŋ ²¹	2461
+4546	ZhongyuanYinyun	ʃ w a ŋ ⁵⁵	ʃ w a ŋ ⁵⁵	2461
+4547	Beijing	l u ⁵¹	l u ⁵¹	2464
+4548	Changsha	n ɤu ²¹	n ɤu ²¹	2464
+4549	Chaozhou	l ou ¹¹	l ou ¹¹	2464
+4550	Chengdu	n u ¹³	n u ¹³	2464
+4551	Fuzhou	l ou ²⁴²	l ou ²⁴²	2464
+4552	Guangzhou	l ou ²²	l ou ²²	2464
+4553	Hankou	n ou ³⁵	n ou ³⁵	2464
+4554	Jinan	l u ²¹	l u ²¹	2464
+4555	Meixian	l u ⁵²	l u ⁵²	2464
+4556	Nanchang	l u ²¹	l u ²¹	2464
+4557	Shanghai	l ou ¹³	l ou ¹³	2464
+4558	Shuangfeng	n əu ³³	n əu ³³	2464
+4559	Suzhou	l əu ³¹	l əu ³¹	2464
+4560	Taiyuan	l ou ⁴⁵	l ou ⁴⁵	2464
+4561	Wenzhou	l əu ²²	l əu ²²	2464
+4562	XiAn	l ou ⁵⁵	l ou ⁵⁵	2464
+4563	Xiamen	l ɔ ³³	l ɔ ³³	2464
+4564	Yangzhou	l u ⁵⁵	l u ⁵⁵	2464
+4565	ZhongyuanYinyun	l u ⁵¹	l u ⁵¹	2464
+4566	Beijing	tɕʰ i ŋ ⁵⁵	tɕʰ - i ŋ ⁵⁵	2467
+4567	Changsha	tsʰ i n ³³	tsʰ - i n ³³	2467
+4568	Chaozhou	tsʰ eː ³³	tsʰ - eː - ³³	2467
+4569	Chengdu	tɕʰ i n ⁴⁴	tɕʰ - i n ⁴⁴	2467
+4570	Fuzhou	tsʰ i ŋ ⁴⁴	tsʰ - i ŋ ⁴⁴	2467
+4571	Guangzhou	tʃʰ ɪ ŋ ⁵⁵	tʃʰ - ɪ ŋ ⁵⁵	2467
+4572	Hankou	tɕʰ i n ⁵⁵	tɕʰ - i n ⁵⁵	2467
+4573	Jinan	tɕʰ i ŋ ²¹³	tɕʰ - i ŋ ²¹³	2467
+4574	Meixian	tsʰ j a ŋ ⁴⁴	tsʰ j a ŋ ⁴⁴	2467
+4575	Nanchang	tɕʰ i n ⁴²	tɕʰ - i n ⁴²	2467
+4576	Shanghai	tsʰ i ŋ ⁵³	tsʰ - i ŋ ⁵³	2467
+4577	Shuangfeng	tɕʰ i n ⁵⁵	tɕʰ - i n ⁵⁵	2467
+4578	Suzhou	tsʰ i n ⁴⁴	tsʰ - i n ⁴⁴	2467
+4579	Taiyuan	tɕʰ i ŋ ¹¹	tɕʰ - i ŋ ¹¹	2467
+4580	Wenzhou	tsʰ e ŋ ⁴⁴	tsʰ - e ŋ ⁴⁴	2467
+4581	XiAn	tɕʰ i ŋ ²¹	tɕʰ - i ŋ ²¹	2467
+4582	Xiamen	tsʰ ɪ ŋ ⁵⁵	tsʰ - ɪ ŋ ⁵⁵	2467
+4583	Yangzhou	tɕʰ iː ²¹	tɕʰ - iː - ²¹	2467
+4584	ZhongyuanYinyun	tsʰ j ə ŋ ⁵⁵	tsʰ j ə ŋ ⁵⁵	2467
+4585	Beijing	m j a n ⁵¹	m j a n ⁵¹	2471
+4586	Changsha	m ieː ⁵⁵	m - ieː - ⁵⁵	2471
+4587	Chaozhou	m i ŋ ¹¹	m - i ŋ ¹¹	2471
+4588	Chengdu	m j a n ¹³	m j a n ¹³	2471
+4589	Fuzhou	m j e ŋ ²⁴²	m j e ŋ ²⁴²	2471
+4590	Guangzhou	m i n ²²	m - i n ²²	2471
+4591	Hankou	m j a n ³⁵	m j a n ³⁵	2471
+4592	Jinan	m iaː ²¹	m - iaː - ²¹	2471
+4593	Meixian	m j ɛ n ⁵²	m j ɛ n ⁵²	2471
+4594	Nanchang	m j ɛ n ²¹	m j ɛ n ²¹	2471
+4595	Shanghai	m ɪ ¹³	m - ɪ - ¹³	2471
+4596	Shuangfeng	m ɪː ³³	m - ɪː - ³³	2471
+4597	Suzhou	m ɪ ³¹	m - ɪ - ³¹	2471
+4598	Taiyuan	m j ɛ ⁴⁵	m j ɛ - ⁴⁵	2471
+4599	Wenzhou	m i ²²	m - i - ²²	2471
+4600	XiAn	m iaː ⁵⁵	m - iaː - ⁵⁵	2471
+4601	Xiamen	b j a n ³³	b j a n ³³	2471
+4602	Yangzhou	m ɪː ⁵⁵	m - ɪː - ⁵⁵	2471
+4603	ZhongyuanYinyun	m j e n ⁵¹	m j e n ⁵¹	2471
+4604	Beijing	ɕ j e ³⁵	ɕ j e ³⁵	2474
+4605	Changsha	x ai ¹³	x - ai ¹³	2474
+4606	Chaozhou	oi ⁵⁵	- - oi ⁵⁵	2474
+4607	Chengdu	x ai ³¹	x - ai ³¹	2474
+4608	Fuzhou	ɛ ⁵²	- - ɛ ⁵²	2474
+4609	Guangzhou	h aːi ²¹	h - aːi ²¹	2474
+4610	Hankou	x ai ²¹³	x - ai ²¹³	2474
+4611	Jinan	ɕ j æ ⁴²	ɕ j æ ⁴²	2474
+4612	Meixian	h ai ¹¹	h - ai ¹¹	2474
+4613	Nanchang	h ai ²⁴	h - ai ²⁴	2474
+4614	Shanghai	ɦ a ¹³	ɦ - a ¹³	2474
+4615	Shuangfeng	ɣ a ²³	ɣ - a ²³	2474
+4616	Suzhou	ɦ ɒ ²⁴	ɦ - ɒ ²⁴	2474
+4617	Taiyuan	ɕ j ɛ ¹¹	ɕ j ɛ ¹¹	2474
+4618	Wenzhou	ɦ a ³¹	ɦ - a ³¹	2474
+4619	XiAn	x ɛ ²⁴	x - ɛ ²⁴	2474
+4620	Xiamen	h ai ²⁴	h - ai ²⁴	2474
+4621	Yangzhou	x ɛ ³⁴	x - ɛ ³⁴	2474
+4622	ZhongyuanYinyun	x j ai ⁵⁵	x j ai ⁵⁵	2474
+4623	Beijing	a ⁵⁵	- a - ⁵⁵	2475
+4624	Changsha	ŋ a n ³³	ŋ a n ³³	2475
+4625	Chaozhou	uaː ³³	- uaː - ³³	2475
+4626	Chengdu	ŋ a n ⁴⁴	ŋ a n ⁴⁴	2475
+4627	Fuzhou	a ŋ ⁴⁴	- a ŋ ⁴⁴	2475
+4628	Guangzhou	ɔ n ⁵⁵	- ɔ n ⁵⁵	2475
+4629	Hankou	ŋ a n ⁵⁵	ŋ a n ⁵⁵	2475
+4630	Jinan	ŋ aː ²¹³	ŋ aː - ²¹³	2475
+4631	Meixian	ɔ n ⁴⁴	- ɔ n ⁴⁴	2475
+4632	Nanchang	ŋ ɔ n ⁴²	ŋ ɔ n ⁴²	2475
+4633	Shanghai	ø ⁵³	- ø - ⁵³	2475
+4634	Shuangfeng	uɛː ⁵⁵	- uɛː - ⁵⁵	2475
+4635	Suzhou	ø ⁴⁴	- ø - ⁴⁴	2475
+4636	Taiyuan	ŋ æː ¹¹	ŋ æː - ¹¹	2475
+4637	Wenzhou	y ⁴⁴	- y - ⁴⁴	2475
+4638	XiAn	ŋ aː ²¹	ŋ aː - ²¹	2475
+4639	Xiamen	a n ⁵⁵	- a n ⁵⁵	2475
+4640	Yangzhou	ɛː ²¹	- ɛː - ²¹	2475
+4641	ZhongyuanYinyun	a n ⁵⁵	- a n ⁵⁵	2475
+4642	Beijing	p j a ⁵⁵	p j a - ⁵⁵	2477
+4643	Changsha	p ieː ³³	p - ieː - ³³	2477
+4644	Chaozhou	p j e ŋ ³³	p j e ŋ ³³	2477
+4645	Chengdu	p j a n ⁴⁴	p j a n ⁴⁴	2477
+4646	Fuzhou	p j e ŋ ⁴⁴	p j e ŋ ⁴⁴	2477
+4647	Guangzhou	p i n ⁵⁵	p - i n ⁵⁵	2477
+4648	Hankou	p j a n ⁵⁵	p j a n ⁵⁵	2477
+4649	Jinan	p iaː ²¹³	p - iaː - ²¹³	2477
+4650	Meixian	p j ɛ n ⁴⁴	p j ɛ n ⁴⁴	2477
+4651	Nanchang	p j ɛ n ⁴²	p j ɛ n ⁴²	2477
+4652	Shanghai	p ɪ ⁵³	p - ɪ - ⁵³	2477
+4653	Shuangfeng	p ɪː ⁵⁵	p - ɪː - ⁵⁵	2477
+4654	Suzhou	p ɪ ⁴⁴	p - ɪ - ⁴⁴	2477
+4655	Taiyuan	p j ɛ ¹¹	p j ɛ - ¹¹	2477
+4656	Wenzhou	p i ⁴⁴	p - i - ⁴⁴	2477
+4657	XiAn	p iaː ²¹	p - iaː - ²¹	2477
+4658	Xiamen	p j a n ⁵⁵	p j a n ⁵⁵	2477
+4659	Yangzhou	p ɪː ²¹	p - ɪː - ²¹	2477
+4660	ZhongyuanYinyun	p j e n ⁵⁵	p j e n ⁵⁵	2477
+4661	Beijing	ʂ ou ²¹⁴	ʂ - ou ²¹⁴	2526
+4662	Changsha	ʂ ɤu ⁴¹	ʂ - ɤu ⁴¹	2526
+4663	Chaozhou	s j u ⁵³	s j u ⁵³	2526
+4664	Chengdu	s əu ⁵³	s - əu ⁵³	2526
+4665	Fuzhou	s j eu ³¹	s j eu ³¹	2526
+4666	Guangzhou	ʃ au ³⁵	ʃ - au ³⁵	2526
+4667	Hankou	s ou ⁴²	s - ou ⁴²	2526
+4668	Jinan	ʂ ou ⁵⁵	ʂ - ou ⁵⁵	2526
+4669	Meixian	s u ³¹	s - u ³¹	2526
+4670	Nanchang	s əu ²¹³	s - əu ²¹³	2526
+4671	Shanghai	s ɤɯ ⁵⁵	s - ɤɯ ⁵⁵	2526
+4672	Shuangfeng	ɕ j ʊ ²¹	ɕ j ʊ ²¹	2526
+4673	Suzhou	s øy ⁵²	s - øy ⁵²	2526
+4674	Taiyuan	s ou ⁵³	s - ou ⁵³	2526
+4675	Wenzhou	ɕ j u ⁴⁵	ɕ j u ⁴⁵	2526
+4676	XiAn	ʂ ou ⁵³	ʂ - ou ⁵³	2526
+4677	Xiamen	s j u ⁵¹	s j u ⁵¹	2526
+4678	Yangzhou	s ɤɯ ⁴²	s - ɤɯ ⁴²	2526
+4679	ZhongyuanYinyun	ʃ j ou ³⁵	ʃ j ou ³⁵	2526
+4680	Beijing	ɕ j a ŋ ⁵⁵	ɕ j a ŋ ⁵⁵	2527
+4681	Changsha	ɕ j a n ³³	ɕ j a n ³³	2527
+4682	Chaozhou	h j a ŋ ³³	h j a ŋ ³³	2527
+4683	Chengdu	ɕ j a ŋ ⁴⁴	ɕ j a ŋ ⁴⁴	2527
+4684	Fuzhou	x ɥ ɔ ŋ ⁴⁴	x ɥ ɔ ŋ ⁴⁴	2527
+4685	Guangzhou	h œ ŋ ⁵⁵	h - œ ŋ ⁵⁵	2527
+4686	Hankou	ɕ j a ŋ ⁵⁵	ɕ j a ŋ ⁵⁵	2527
+4687	Jinan	ɕ j a ŋ ²¹³	ɕ j a ŋ ²¹³	2527
+4688	Meixian	h j ɔ ŋ ⁴⁴	h j ɔ ŋ ⁴⁴	2527
+4689	Nanchang	ɕ j ɔ ŋ ⁴²	ɕ j ɔ ŋ ⁴²	2527
+4690	Shanghai	ɕ iaː ⁵³	ɕ - iaː - ⁵³	2527
+4691	Shuangfeng	ɕ j a ŋ ⁵⁵	ɕ j a ŋ ⁵⁵	2527
+4692	Suzhou	ɕ j a ŋ ⁴⁴	ɕ j a ŋ ⁴⁴	2527
+4693	Taiyuan	ɕ iɒː ¹¹	ɕ - iɒː - ¹¹	2527
+4694	Wenzhou	ɕ i ⁴⁴	ɕ - i - ⁴⁴	2527
+4695	XiAn	ɕ j a ŋ ²¹	ɕ j a ŋ ²¹	2527
+4696	Xiamen	h j ɔ ŋ ⁵⁵	h j ɔ ŋ ⁵⁵	2527
+4697	Yangzhou	ɕ j ɑ ŋ ²¹	ɕ j ɑ ŋ ²¹	2527
+4698	ZhongyuanYinyun	x j a ŋ ⁵⁵	x j a ŋ ⁵⁵	2527
+4699	Beijing	k u ²¹⁴	k - u - ²¹⁴	2550
+4700	Changsha	k u ²⁴	k - u - ²⁴	2550
+4701	Chaozhou	k u k ²¹	k - u k ²¹	2550
+4702	Chengdu	k u ³¹	k - u - ³¹	2550
+4703	Fuzhou	k au ʔ ²³	k - au ʔ ²³	2550
+4704	Guangzhou	k w a t ⁵	k w a t ⁵	2550
+4705	Hankou	k u ²¹³	k - u - ²¹³	2550
+4706	Jinan	k u ²¹³	k - u - ²¹³	2550
+4707	Meixian	k u t ¹	k - u t ¹	2550
+4708	Nanchang	k u t ⁵	k - u t ⁵	2550
+4709	Shanghai	k w ɤ ʔ ⁵	k w ɤ ʔ ⁵	2550
+4710	Shuangfeng	k əu ²³	k - əu - ²³	2550
+4711	Suzhou	k w ɤ ʔ ⁴	k w ɤ ʔ ⁴	2550
+4712	Taiyuan	k w ə ʔ ²	k w ə ʔ ²	2550
+4713	Wenzhou	k y ³²³	k - y - ³²³	2550
+4714	XiAn	k u ²¹	k - u - ²¹	2550
+4715	Xiamen	k u t ³²	k - u t ³²	2550
+4716	Yangzhou	k w ə ʔ ⁴	k w ə ʔ ⁴	2550
+4717	ZhongyuanYinyun	k u ²¹⁴	k - u - ²¹⁴	2550
+4718	Beijing	k au ⁵⁵	k au ⁵⁵	2554
+4719	Changsha	k au ³³	k au ³³	2554
+4720	Chaozhou	k au ³³	k au ³³	2554
+4721	Chengdu	k au ⁴⁴	k au ⁴⁴	2554
+4722	Fuzhou	k ɔ ⁴⁴	k ɔ ⁴⁴	2554
+4723	Guangzhou	k ou ⁵⁵	k ou ⁵⁵	2554
+4724	Hankou	k au ⁵⁵	k au ⁵⁵	2554
+4725	Jinan	k ɔ ²¹³	k ɔ ²¹³	2554
+4726	Meixian	k au ⁴⁴	k au ⁴⁴	2554
+4727	Nanchang	k au ⁴²	k au ⁴²	2554
+4728	Shanghai	k ɔ ⁵³	k ɔ ⁵³	2554
+4729	Shuangfeng	k ə ⁵⁵	k ə ⁵⁵	2554
+4730	Suzhou	k æ ⁴⁴	k æ ⁴⁴	2554
+4731	Taiyuan	k au ¹¹	k au ¹¹	2554
+4732	Wenzhou	k ɜ ⁴⁴	k ɜ ⁴⁴	2554
+4733	XiAn	k au ²¹	k au ²¹	2554
+4734	Xiamen	k o ⁵⁵	k o ⁵⁵	2554
+4735	Yangzhou	k ɔ ²¹	k ɔ ²¹	2554
+4736	ZhongyuanYinyun	k au ⁵⁵	k au ⁵⁵	2554
+4737	Beijing	k w ei ²¹⁴	k w ei ²¹⁴	2562
+4738	Changsha	k w ei ⁴¹	k w ei ⁴¹	2562
+4739	Chaozhou	k w i ⁵³	k w i ⁵³	2562
+4740	Chengdu	k w ei ⁵³	k w ei ⁵³	2562
+4741	Fuzhou	k w ei ³¹	k w ei ³¹	2562
+4742	Guangzhou	k w ai ³⁵	k w ai ³⁵	2562
+4743	Hankou	k w ei ⁴²	k w ei ⁴²	2562
+4744	Jinan	k w ei ⁵⁵	k w ei ⁵⁵	2562
+4745	Meixian	k w i ³¹	k w i ³¹	2562
+4746	Nanchang	k w i ²¹³	k w i ²¹³	2562
+4747	Shanghai	k u ɛ ⁵⁵	k u ɛ ⁵⁵	2562
+4748	Shuangfeng	k w i ²¹	k w i ²¹	2562
+4749	Suzhou	k u ɛ ⁵²	k u ɛ ⁵²	2562
+4750	Taiyuan	k w ei ⁵³	k w ei ⁵³	2562
+4751	Wenzhou	tɕ y ⁴⁵	tɕ y - ⁴⁵	2562
+4752	XiAn	k w ei ⁵³	k w ei ⁵³	2562
+4753	Xiamen	k w i ⁵¹	k w i ⁵¹	2562
+4754	Yangzhou	k w əi ⁴²	k w əi ⁴²	2562
+4755	ZhongyuanYinyun	k w ei ³⁵	k w ei ³⁵	2562
+4756	Beijing	x ei ⁵⁵	x - ei - ⁵⁵	2599
+4757	Changsha	x ɤ ²⁴	x - ɤ - ²⁴	2599
+4758	Chaozhou	h e k ²¹	h - e k ²¹	2599
+4759	Chengdu	x e ³¹	x - e - ³¹	2599
+4760	Fuzhou	x ai ʔ ²³	x - ai ʔ ²³	2599
+4761	Guangzhou	h a k ⁵	h - a k ⁵	2599
+4762	Hankou	x ɤ ²¹³	x - ɤ - ²¹³	2599
+4763	Jinan	x ei ²¹³	x - ei - ²¹³	2599
+4764	Meixian	h ɛ t ¹	h - ɛ t ¹	2599
+4765	Nanchang	h ɛ t ⁵	h - ɛ t ⁵	2599
+4766	Shanghai	h ɤ ʔ ⁵	h - ɤ ʔ ⁵	2599
+4767	Shuangfeng	x j ɛ ²³	x j ɛ - ²³	2599
+4768	Suzhou	h ɤ ʔ ⁴	h - ɤ ʔ ⁴	2599
+4769	Taiyuan	x ə ʔ ²	x - ə ʔ ²	2599
+4770	Wenzhou	x ɛ ³²³	x - ɛ - ³²³	2599
+4771	XiAn	x ei ²¹	x - ei - ²¹	2599
+4772	Xiamen	h ɪ k ³²	h - ɪ k ³²	2599
+4773	Yangzhou	x ə ʔ ⁴	x - ə ʔ ⁴	2599
+4774	ZhongyuanYinyun	x ei ²¹⁴	x - ei - ²¹⁴	2599
+4775	Beijing	k u ²¹⁴	k u ²¹⁴	2604
+4776	Changsha	k u ⁴¹	k u ⁴¹	2604
+4777	Chaozhou	k ou ⁵³	k ou ⁵³	2604
+4778	Chengdu	k u ⁵³	k u ⁵³	2604
+4779	Fuzhou	k u ³¹	k u ³¹	2604
+4780	Guangzhou	k u ³⁵	k u ³⁵	2604
+4781	Hankou	k u ⁴²	k u ⁴²	2604
+4782	Jinan	k u ⁵⁵	k u ⁵⁵	2604
+4783	Meixian	k u ³¹	k u ³¹	2604
+4784	Nanchang	k u ²¹³	k u ²¹³	2604
+4785	Shuangfeng	k əu ²¹	k əu ²¹	2604
+4786	Suzhou	k əu ⁵²	k əu ⁵²	2604
+4787	Taiyuan	kʰ u ⁵³	kʰ u ⁵³	2604
+4788	Wenzhou	k u ⁴⁵	k u ⁴⁵	2604
+4789	XiAn	k u ⁵³	k u ⁵³	2604
+4790	Xiamen	k ɔ ⁵¹	k ɔ ⁵¹	2604
+4791	Yangzhou	k u ⁴²	k u ⁴²	2604
+4792	Beijing	ʂ u ²¹⁴	ʂ - u ²¹⁴	2605
+4793	Changsha	ɕ y ⁴¹	ɕ - y ⁴¹	2605
+4794	Chaozhou	tsʰ ɿ ⁵³	tsʰ - ɿ ⁵³	2605
+4795	Chengdu	s u ⁵³	s - u ⁵³	2605
+4796	Fuzhou	tsʰ y ³¹	tsʰ - y ³¹	2605
+4797	Guangzhou	ʃ y ³⁵	ʃ - y ³⁵	2605
+4798	Hankou	ɕ y ⁴²	ɕ - y ⁴²	2605
+4799	Jinan	ʂ u ⁵⁵	ʂ - u ⁵⁵	2605
+4800	Meixian	tsʰ u ³¹	tsʰ - u ³¹	2605
+4801	Nanchang	ɕ y ²¹³	ɕ - y ²¹³	2605
+4802	Shanghai	tsʰ ɥ ⁵⁵	tsʰ - ɥ ⁵⁵	2605
+4803	Shuangfeng	ɕ y ²¹	ɕ - y ²¹	2605
+4804	Suzhou	tsʰ ɥ ⁵²	tsʰ - ɥ ⁵²	2605
+4805	Taiyuan	s u ⁵³	s - u ⁵³	2605
+4806	Wenzhou	tsʰ ei ⁴⁵	tsʰ - ei ⁴⁵	2605
+4807	XiAn	f u ⁵³	f - u ⁵³	2605
+4808	Xiamen	tsʰ u ⁵¹	tsʰ - u ⁵¹	2605
+4809	Yangzhou	s u ⁴²	s - u ⁴²	2605
+4810	ZhongyuanYinyun	ʃ j u ³⁵	ʃ j u ³⁵	2605
+4811	Beijing	p i ³⁵	p - i - ³⁵	2606
+4812	Changsha	p i ¹³	p - i - ¹³	2606
+4813	Chaozhou	pʰ iː ¹¹	pʰ - iː - ¹¹	2606
+4814	Chengdu	p i ³¹	p - i - ³¹	2606
+4815	Fuzhou	p ei ²¹³	p - ei - ²¹³	2606
+4816	Guangzhou	p ei ²²	p - ei - ²²	2606
+4817	Hankou	p i ²¹³	p - i - ²¹³	2606
+4818	Jinan	p i ⁴²	p - i - ⁴²	2606
+4819	Meixian	pʰ i ⁵²	pʰ - i - ⁵²	2606
+4820	Nanchang	pʰ i t ⁵	pʰ - i t ⁵	2606
+4821	Shanghai	p ɪ ʔ ¹³	p - ɪ ʔ ¹³	2606
+4822	Shuangfeng	b i ³³	b - i - ³³	2606
+4823	Suzhou	b j ɤ ʔ ²³	b j ɤ ʔ ²³	2606
+4824	Taiyuan	p j ə ʔ ⁵⁴	p j ə ʔ ⁵⁴	2606
+4825	Wenzhou	b ei ²²	b - ei - ²²	2606
+4826	XiAn	pʰ i ²⁴	pʰ - i - ²⁴	2606
+4827	Xiamen	p i t ⁵	p - i t ⁵	2606
+4828	Yangzhou	p j ə ʔ ⁴	p j ə ʔ ⁴	2606
+4829	ZhongyuanYinyun	p i ⁵⁵	p - i - ⁵⁵	2606
