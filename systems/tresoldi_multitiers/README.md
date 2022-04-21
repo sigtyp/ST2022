@@ -1,10 +1,11 @@
-# st2022\_submission
+# ST2022 submission `tresoldi_multitiers`
 
 Data and code for the ST2022 challenge submission
 
-This directory contains the ST2022 using a multitiered strategy for cognate prediction
-(Tresoldi et al., 2018). It is the first public submission using such a strategy,
-with the prediction provided by different machine learning methods.
+This directory contains the ST2022 using a multitiered strategy (List and Chacon 2015; Tresoldi et al. 2018)
+for cognate prediction. It is the first public submission using such a strategy,
+still tentative in many of its implementations, with the prediction provided by different
+machine learning methods.
 
 ## Instructions
 
@@ -18,24 +19,23 @@ It is highly recommended to install within a virtual environment.
 
 ### Build multitiered data
 
-Multitiered data (both as human-intended CSVs and `pandas` dataframes) must first be generated,
-populating the `mtdata` and `dfs` directories. This can be done with the command:
+Multitiered data, both as human-intended CSVs and `pandas` dataframes, must first be generated,
+populating the `mtdata` and `dfs` directories, respectively. This can be done with the command:
 
 ```bash
-$ ./01_build_tier_data.py [source_dir]
+$ ./01_build_tier_data.py source_dir
 ```
 
 `source_dir` is a mandatory path to the root data directory of the ST2022 challenge. Please
 note that files in `mtdata` and `dfs` will *never* be overwritten by design, so that you
 need to clean these directories in case they hold data already.
 
-This step is not necessary for reproducing the runs, as the pre-compiled and reproducible
+This step is not necessary for reproducing the submission, as the pre-compiled and reproducible
 output files are distributed with this submission.
 
 The `01_build_tier_data.py` script allows to specify a number of options in terms of the multitiers
 to be added and the left and right contexts. This submission used the default parameter values.
-More information can be obtained from the
-command-line with the `--help` flag.
+More information can be obtained from the command-line with the `--help` flag.
 
 ### Train models
 
@@ -45,7 +45,7 @@ processing will take days on a normal laptop. This would not be necessary in nor
 usage, but was an important step for this submission also in consideration of
 the limits in computational power.
 
-The complete set of trained models, serialized with `joblib` is available
+The complete set of trained models, serialized with `joblib`, is available
 [here](https://uppsala.box.com/s/r9e8ag12dvpc6q24ufv06fis5v1bappy) (6.4 GB). The reduced set of the best models, as found by cross-validation
 during training, is available [here](https://uppsala.box.com/s/tukf6gbpzqyl89hz6dznvbfxfk5ywl33) (1.1 GB). *Please note that, due to the
 nature of machine learning systems in Python, it cannot be guaranteed that
@@ -59,8 +59,8 @@ fully reproducible results across different machines or even across different ru
 the same machine. Results should nonetheless be always comparable.
 
 For a quick experimentation with good results, you might want to train only random
-forests (the `rf` model), with only 2 layers of stratified sampling and about 50
-iterations for the hyperparameter tuning. On most common laptops, the process should
+forests (the `rf` model), with 2 layers of stratified sampling and about 50
+iterations for the hyperparameter tuning. On most common laptops, such a process should
 finish in a couple of hours.
 
 When invoked, this step will populate the `classifiers`
@@ -80,7 +80,7 @@ The most important parameters for the training are `--kfolds` (defaulting to 4),
 specifies the number of k-folds for the stratified cross-validation, and
 `--trials` (defaulting to 10) with the number of trials for hyperparameter optimization.
 As a rule of thumb, a dataset training will take `kfolds * trials` the amount of time
-of a single LightGBM classifier fitting.
+of a single classifier fitting.
 
 This submission is distributed with models trained by refining hyperparameters with Optuna,
 with data internally managed as Pandas dataframes.
@@ -95,7 +95,7 @@ Once classifiers have been trained, predictions for the ST2022 challenge can be
 obtained by running them on the test data. his can be done with the command:
 
 ```bash
-$ ./03_run.py [source_data_path]
+$ ./03_run.py source_data_path
 ```
 
 The script will generate the requested file, keeping the expected structure, in
@@ -106,7 +106,8 @@ allows to identify the best models based on training data, which can be
 copied as the `best` predicting models. 
 
 A custom table comparing the results with the baseline,
-if available, will also be generated for each model.
+if available, will also be generated for each model within its `output/`
+subdirectory.
 
 ### Evaluation
 
@@ -120,7 +121,7 @@ the `reports` directory.
 $ st2022 --evaluate --proportion=0.1 --all --datapath=data-surprise --datasets=datasets-surprise.json --test-path=output/best
 ```
 
-The results of all evaluations are provided in 
+The results of all evaluations are provided in the `reports/` directory.
 
 ## Reproducibility
 
@@ -137,10 +138,26 @@ are reported to disk. This guarantees that results, if not fully reproducible, w
 margins of difference. It also allows to reduce the computational time by at least two orders of
 magnitude, as the intensive computational step of hyperparameter tuning is not necessary anymore.
 
-## Author and citation
+## References
 
-Author and citation
+List, Johann-Mattis; Chacon, Thiago. 2015. *Towards a Cross-Linguistic Database for Historical Phonology? A Proposal
+for a Machine-Readable Modeling of Phonetic Context*. Historical Phonology and Phonological Theory Workshop,
+48th annual meeting of the Societas Linguistica Europaea, Leiden. 
+
+Tresoldi, Tiago; Anderson, Cormac; List, Johann-Mattis. 2018. *Modelling sound change with the help of multi-tiered
+sequence representations*. 48th Poznań Linguistic Meeting (PLM2018).
+
+
+## Acknowledgements
 
 The submission was prepared by Tiago Tresoldi (tiago.tresoldi@lingfil.uu.se). It was developed in the context of
-the Cultural Evolution of Texts project, with funding from the Riksbankens Jubileumsfond
+the Cultural Evolution of Texts project at the Department of Linguistics and Philology of the Uppsala
+University, with funding from the Riksbankens Jubileumsfond
 (grant agreement ID: MXM19-1087:1).
+
+The author thanks Michael Dunn and Yingqi Jing for facilitating his access to the computing facilities that
+were necessary to prepare this submission.
+
+The author has previously worked in a research group led by one of the organizers of this challenge, and the
+submission develops an idea partly developed by the latter. There was, however, no contact between the author and
+the organizers on the matter before the submission of data and code for this challenge.
