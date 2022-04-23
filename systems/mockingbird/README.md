@@ -1,1 +1,0 @@
-# Mockingbird Team Submission
