@@ -1,0 +1,1 @@
+{"embedding_dim": 16, "kernel_width": 1, "filters": 512, "dropout": 0.8902887304579628, "nonlinearity": "leaky_relu", "sfactor": "none"}
