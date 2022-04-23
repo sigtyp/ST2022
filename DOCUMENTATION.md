@@ -51,7 +51,7 @@ $ make prepare-training
 
 ### 2.2 Surprise Data
 
-The JSON file containing the links to the suprise datasets is called `data-surprise.json`, so in all commands, you have to replace `dataset.json` with `data-surprise.json`. While we download CLDF datasets into the same `cldf-data` folder (for convenience), we make a clear distinction, downloading data now to a `data-surprise` folder.
+The JSON file containing the links to the suprise datasets is called `data-surprise.json`, so in all commands, you have to replace `dataset.json` with `data-surprise.json`. While we download CLDF datasets into the same `cldf-data` folder (for convenience), we make a clear distinction, downloading data now to a `data-surprise` folder. 
 
 ```
 $ st2022 --download --cldf-data=cldf-data --datapath=data-surprise --datasets=datasets-surprise.json
@@ -74,7 +74,7 @@ The baseline is based on a study by List (2019) but was slightly adapted here, a
 $ st2022 --predict --proportion=0.2 --all --datapath=data
 ```
 
-This will apply the baseline procedure to the data, and predict words for all test data files that indicate that they contain a proportion of 0.2 of the whole datasets (that is: 20%). The results are written to files `data/DATASETID/results-0.20.tsv`.
+This will apply the baseline procedure to the data, and predict words for all test data files that indicate that they contain a proportion of 0.2 of the whole datasets (that is: 20%). The results are written to files `data/DATASETID/results-0.20.tsv`. 
 
 Accordingly, for the suprise data, you type:
 
@@ -96,7 +96,7 @@ $ make predict-surprise
 
 We offer a rather straightforward routine to check your results against the solutions.
 
-For the development data, for example, you can type:
+For the development data, for example, you can type: 
 
 ```
 $ st2022 --compare --prediction-file=data/allenbai/result-0.20.tsv --solution-file=data/allenbai/solutions-0.20.tsv
@@ -104,7 +104,7 @@ $ st2022 --compare --prediction-file=data/allenbai/result-0.20.tsv --solution-fi
 
 This will yield the following output:
 
-```
+``` 
 Language       ED    ED (Normalized)    B-Cubed FS    BLEU
 ----------  -----  -----------------  ------------  ------
 Eryuan      0.325              0.107         0.857   0.835
@@ -219,7 +219,7 @@ This will evaluate the data for all proportions.
 
 # 5 Loading Data
 
-As mentioned before, datasets are stored in the folder `data` in varying proportions. The format is very straightforward, as you can see from the following table for a part of the data in `data/listsamplesize/training-0.10.tsv`.
+As mentioned before, datasets are stored in the folder `data` in varying proportions. The format is very straightforward, as you can see from the following table for a part of the data in `data/listsamplesize/training-0.10.tsv`. 
 
 COGID | dutch | english | french | german
 --- | --- | --- | --- | ---
@@ -233,7 +233,7 @@ COGID | dutch | english | french | german
 768 | w eː r | w ɛ ð ə r |  | v ɛ t ə r
 1211 | v yː r | f aɪ ə r |  | f ɔy ə r
 
-You can see that the first column stores cognate sets, while the remaining columns provide languages. Word forms are provided in segmented form, by separating individual sounds by spaces. Transcriptions follow the B(road)IPA of the CLTS project (https://clts.clld.org).
+You can see that the first column stores cognate sets, while the remaining columns provide languages. Word forms are provided in segmented form, by separating individual sounds by spaces. Transcriptions follow the B(road)IPA of the CLTS project (https://clts.clld.org). 
 
 The followig table shows the structure of the test data (`data/listsamplesize/test-0.10.tsv`).
 
@@ -255,14 +255,14 @@ The file with the solutions has the same structure, but only lists the solutions
 
 COGID | dutch | english | french | german
 --- | --- | --- | --- | ---
-1469-1 | z ɑ n t |  |  |
-2047-1 | z ɔ n |  |  |
-2054-1 | d ɔ n d ə r |  |  |
-1375-1 | l ɪ x t |  |  |
-760-1 | w ɪ n t |  |  |
-756-1 | s n eː w |  |  |
-726-1 | m uː d ə r |  |  |
-1351-1 | x r oː t + f aː d ə r |  |  |
+1469-1 | z ɑ n t |  |  | 
+2047-1 | z ɔ n |  |  | 
+2054-1 | d ɔ n d ə r |  |  | 
+1375-1 | l ɪ x t |  |  | 
+760-1 | w ɪ n t |  |  | 
+756-1 | s n eː w |  |  | 
+726-1 | m uː d ə r |  |  | 
+1351-1 | x r oː t + f aː d ə r |  |  | 
 1353-1 | x r oː t + m uː d ə r  | | |
 
 To load these files, we recommend to use the `sigtypst2022` library.
@@ -326,7 +326,7 @@ This will yield a list `training` that contains all paths for the different test
 
 Our plan is to store systems and their results in specific folders, and to ask participants to add their data in pull-requests on GitHub, sharing results for training and for the surprise data. An example system has been added to the folder `systems`, called `corpar-svm`. This system contains a `run.py` file that can be invoked by typing `python run.py`, which will use the extended SVM classifier for the correspondence-based word prediction and phonological reconstruction framework by List et al. (forthcoming), which we use as a baseline in its original form, without a support vector machine and without specifically enriched alignments. Running the script with the argument `--surprise` will have it analyze the surprise data instead.
 
-Results of this script (which itself is documented, so that users can check some of its major functions and see how to adapt their own code for their own systems), will be written to either a folder `surprise` or a folder `training`, both containing subfolders for all results on individual datasets.
+Results of this script (which itself is documented, so that users can check some of its major functions and see how to adapt their own code for their own systems), will be written to either a folder `surprise` or a folder `training`, both containing subfolders for all results on individual datasets. 
 
 To check how well a system performed, the evaluation script of the `sigtypst2022` package contains a `--test-path` argument, which can be invoked as follows (assuming users have `cd`-ed into the main folder of the package):
 
@@ -374,7 +374,7 @@ mannburmish                1.990        0.525         0.512   0.315
 
 This shows that the extended SVM version of the baseline method enhances the results quite a lot, at least in this test of the training data.
 
-In our demo, we provide all results when working on the SVM approach, both for the training data and for the suprise data. In addition, we offer a `template` folder in the `systems` folder that contains empty folders for the training and the surprise data as well as a rudimentary `run.py` script that users can use to add the code that one would need to apply their own systems to the data.
+In our demo, we provide all results when working on the SVM approach, both for the training data and for the suprise data. In addition, we offer a `template` folder in the `systems` folder that contains empty folders for the training and the surprise data as well as a rudimentary `run.py` script that users can use to add the code that one would need to apply their own systems to the data. 
 
 Assuming that most participants code in Python, we kindly ask all participants of the shared task to try and prepare their systems in a similar form, as shown in our demo package. That means essentially:
 
@@ -383,6 +383,7 @@ Assuming that most participants code in Python, we kindly ask all participants o
 3. there is a README.md file that explains how to run the code in question, and
 4. the results are written into individual files, exactly as can be seen in our demo.
 
-We understand that there are cases where users do not Python but other programming languages (R, Java, etc.) and that the `run.py` script is of little use in this case. In such a case, we still ask to provide a package of their system that contains specifically the structure of the output files, as we want to test those only with our software package, to make sure we have unified results. We then ask users to provide a clear description of their method, what programs need to be installed, how to run the code, etc., so that the shared task team can later try and apply their methods in order to make sure they run on another computer.
+We understand that there are cases where users do not Python but other programming languages (R, Java, etc.) and that the `run.py` script is of little use in this case. In such a case, we still ask to provide a package of their system that contains specifically the structure of the output files, as we want to test those only with our software package, to make sure we have unified results. We then ask users to provide a clear description of their method, what programs need to be installed, how to run the code, etc., so that the shared task team can later try and apply their methods in order to make sure they run on another computer. 
 
 To submit your systems to the shared task, we ask you to clone the ST2022 repository, add your system, and then make a pull request on GitHub, so that we can check the PR, maybe ask you for some modifications, and then add it to the repository. Note that the software for the system itself does not need to be included, it just needs to be accessible to us, and the system ideally contains the file that uses the systems to make the predictions.
+
