@@ -1,0 +1,1 @@
+{"embedding_dim": 64, "kernel_width": 2, "filters": 128, "dropout": 0.7158763515616339, "nonlinearity": "tanh", "sfactor": "none"}
