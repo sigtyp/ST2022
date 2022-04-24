@@ -3,7 +3,7 @@
 ## Data generation
 
 ```shell
-python neighbors/data/create_neighbors.py --output_dir /tmp/tmp --max_rand_len 10 --language_group wangbai --lang all --pairwise_algo lingpy --random_target_algo markov --logtostderr --task_data_dir ~/projects/ST2022/data-surprise  --num_duplicates 100
+python neighbors/data/create_neighborhood.py --output_dir /tmp/tmp --max_rand_len 10 --language_group wangbai --lang all --pairwise_algo lingpy --random_target_algo markov --logtostderr --task_data_dir ~/projects/ST2022/data-surprise  --num_duplicates 100
 ```
 ## Training
 
