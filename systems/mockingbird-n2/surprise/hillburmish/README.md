@@ -17,3 +17,5 @@ python neighbors/model/trainer.py  --run_locally=cpu --model=feature_neighbors_m
 ```shell
 python neighbors/model/decoder.py --feature_neighbors_test_path=tfrecord:/tmp/tmp/hillburmish_test.tfrecords --input_symbols /tmp/tmp/hillburmish.syms --output_symbols /tmp/tmp/hillburmish.syms --ckpt /tmp/logdir/train --model=TransformerWithNeighborsTiny --decode_dir /tmp/tmp/decode_dir/ --split_output_on_space --max_neighbors=8 --max_pronunciation_len=7 --max_spelling_len=16 --batch_size 1
 ```
+
+Latest model from `/tmp/logdir/train/ckpt-00038142`.

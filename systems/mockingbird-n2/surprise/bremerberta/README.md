@@ -17,3 +17,5 @@ python neighbors/model/trainer.py  --run_locally=cpu --model=feature_neighbors_m
 ```shell
 python neighbors/model/decoder.py --feature_neighbors_test_path=tfrecord:/tmp/tmp/bremerberta_test.tfrecords --input_symbols /tmp/tmp/bremerberta.syms --output_symbols /tmp/tmp/bremerberta.syms --ckpt /tmp/logdir/train --model=TransformerWithNeighborsTiny --decode_dir /tmp/tmp/decode_dir/ --split_output_on_space --max_neighbors=3 --max_pronunciation_len=12 --max_spelling_len=14 --batch_size 1
 ```
+
+Latest model from `/tmp/logdir/train/ckpt-00036461`.
