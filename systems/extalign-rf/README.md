@@ -6,7 +6,7 @@ still tentative in many of its implementations, with the prediction provided by 
 machine learning methods.
 
 Note that the submission in this directory contains only the results for the
-random forest method (`rf`), with the "showcase" submission in `extalign`. To reproduce
+random forest method (`rf`), with the "showcase" submission in `extalign-best`. To reproduce
 the data in this directory, it is necessary to follow the instructions given in the
 main submission and prepare the data using the `rf` model instead of the `best`
 one (as specified in the instructions of this README.md file).
