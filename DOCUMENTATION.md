@@ -331,7 +331,7 @@ Results of this script (which itself is documented, so that users can check some
 To check how well a system performed, the evaluation script of the `sigtypst2022` package contains a `--test-path` argument, which can be invoked as follows (assuming users have `cd`-ed into the main folder of the package):
 
 ```
-$ st2022 --evaluate --datasets=datasets.json --datapath=data --test-path=systems/svm-corpar/training --all --proportion=0.10
+$ st2022 --evaluate --datasets=datasets.json --datapath=data --test-path=systems/corpar-svm/training --all --proportion=0.10
 ```
 
 The output is the same as we know from the test of the baseline results, but has now been applied to this extended baseline method using a support vector machine:
