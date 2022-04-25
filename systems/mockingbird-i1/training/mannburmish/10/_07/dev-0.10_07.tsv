@@ -1,0 +1,431 @@
+COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
+346	?		ʃ i ʔ ³¹	ʃ a p ⁵³		s i p	ʃ ɪ t ⁵
+346	ʃ ɛ t ⁵³		?	ʃ a p ⁵³		s i p	ʃ ɪ t ⁵
+346	ʃ ɛ t ⁵³		ʃ i ʔ ³¹	?		s i p	ʃ ɪ t ⁵
+346	ʃ ɛ t ⁵³		ʃ i ʔ ³¹	ʃ a p ⁵³		?	ʃ ɪ t ⁵
+346	ʃ ɛ t ⁵³		ʃ i ʔ ³¹	ʃ a p ⁵³		s i p	?
+164	?			dʒ a̰ ³²			dʒ a ŋ ³²
+164	dʒ a ŋ ³			?			dʒ a ŋ ³²
+164	dʒ a ŋ ³			dʒ a̰ ³²			?
+245		?	b j e ³¹	b au ³¹			b w i ³²
+245		p au ⁵²	?	b au ³¹			b w i ³²
+245		p au ⁵²	b j e ³¹	?			b w i ³²
+245		p au ⁵²	b j e ³¹	b au ³¹			?
+471	?		j o k ³²	j æu ʔ ⁴²		j au k	j u ʔ ³¹
+471	j u k ³²		?	j æu ʔ ⁴²		j au k	j u ʔ ³¹
+471	j u k ³²		j o k ³²	?		j au k	j u ʔ ³¹
+471	j u k ³²		j o k ³²	j æu ʔ ⁴²		?	j u ʔ ³¹
+471	j u k ³²		j o k ³²	j æu ʔ ⁴²		j au k	?
+260			?	m ḭ ⁴²		m iˀ	
+260			n o ŋ	?		m iˀ	
+260			n o ŋ	m ḭ ⁴²		?	
+277	?		tʃʰ a ŋ ⁵	tʃʰ a ²		c e	d z u m ³
+277	tʃʰ a ŋ ⁵		?	tʃʰ a ²		c e	d z u m ³
+277	tʃʰ a ŋ ⁵		tʃʰ a ŋ ⁵	?		c e	d z u m ³
+277	tʃʰ a ŋ ⁵		tʃʰ a ŋ ⁵	tʃʰ a ²		?	d z u m ³
+277	tʃʰ a ŋ ⁵		tʃʰ a ŋ ⁵	tʃʰ a ²		c e	?
+302	?		tʃ ṵ ɛ̰ m ⁴¹	tsʰ o ⁵⁴	ʃ o ³¹	tsʰ w iː	
+302	tsʰ au ⁵		?	tsʰ o ⁵⁴	ʃ o ³¹	tsʰ w iː	
+302	tsʰ au ⁵		tʃ ṵ ɛ̰ m ⁴¹	?	ʃ o ³¹	tsʰ w iː	
+302	tsʰ au ⁵		tʃ ṵ ɛ̰ m ⁴¹	tsʰ o ⁵⁴	?	tsʰ w iː	
+302	tsʰ au ⁵		tʃ ṵ ɛ̰ m ⁴¹	tsʰ o ⁵⁴	ʃ o ³¹	?	
+145	?		d o ŋ ⁵¹	d au ŋ ⁴¹	t ɔ ŋ ⁵⁵	t au ŋ	d u ŋ ³¹
+145	d u ŋ ³¹		?	d au ŋ ⁴¹	t ɔ ŋ ⁵⁵	t au ŋ	d u ŋ ³¹
+145	d u ŋ ³¹		d o ŋ ⁵¹	?	t ɔ ŋ ⁵⁵	t au ŋ	d u ŋ ³¹
+145	d u ŋ ³¹		d o ŋ ⁵¹	d au ŋ ⁴¹	?	t au ŋ	d u ŋ ³¹
+145	d u ŋ ³¹		d o ŋ ⁵¹	d au ŋ ⁴¹	t ɔ ŋ ⁵⁵	?	d u ŋ ³¹
+145	d u ŋ ³¹		d o ŋ ⁵¹	d au ŋ ⁴¹	t ɔ ŋ ⁵⁵	t au ŋ	?
+401	?		ʃ e ³²	ʃ i t ⁵⁴	ʃ i ʔ ⁵⁵	s e	ʃ i ⁴³
+401	ʃ ei ³		?	ʃ i t ⁵⁴	ʃ i ʔ ⁵⁵	s e	ʃ i ⁴³
+401	ʃ ei ³		ʃ e ³²	?	ʃ i ʔ ⁵⁵	s e	ʃ i ⁴³
+401	ʃ ei ³		ʃ e ³²	ʃ i t ⁵⁴	?	s e	ʃ i ⁴³
+401	ʃ ei ³		ʃ e ³²	ʃ i t ⁵⁴	ʃ i ʔ ⁵⁵	?	ʃ i ⁴³
+401	ʃ ei ³		ʃ e ³²	ʃ i t ⁵⁴	ʃ i ʔ ⁵⁵	s e	?
+240			?	tʃʰ e ⁴²			tʃʰ a m ³²
+240			tʃʰ a m ⁵⁴	?			tʃʰ a m ³²
+240			tʃʰ a m ⁵⁴	tʃʰ e ⁴²			?
+284				?		ʔ ə	w i ³
+284				ɣ i t ²		?	w i ³
+284				ɣ i t ²		ʔ ə	?
+318			?				dʒ ɔ ⁵³
+318			d z ɔ ³				?
+114	?		n j au k ⁵³				
+114	n j æ̰ ṵ ʔ ⁵²		?				
+427	?		b oe ʔ ³				
+427	b w a ³¹		?				
+390	?	j a ⁵²	j ɔ ²¹	j o ³⁵			j ɔ ⁵¹
+390	j ɔ̰ ³²	?	j ɔ ²¹	j o ³⁵			j ɔ ⁵¹
+390	j ɔ̰ ³²	j a ⁵²	?	j o ³⁵			j ɔ ⁵¹
+390	j ɔ̰ ³²	j a ⁵²	j ɔ ²¹	?			j ɔ ⁵¹
+390	j ɔ̰ ³²	j a ⁵²	j ɔ ²¹	j o ³⁵			?
+47			?	m a ³²	m u		m w i ⁵²
+47			m j ḛ ⁴³	?	m u		m w i ⁵²
+47			m j ḛ ⁴³	m a ³²	?		m w i ⁵²
+47			m j ḛ ⁴³	m a ³²	m u		?
+328			?	ts a̰ ŋ ⁴¹			d z i ŋ ⁵
+328			d z ə ŋ ⁵¹	?			d z i ŋ ⁵
+328			d z ə ŋ ⁵¹	ts a̰ ŋ ⁴¹			?
+423	?		j au ³¹	j o̰ k ⁵		k j aˀ	ʔ ʊ̰ t ⁵
+423	j au ³¹		?	j o̰ k ⁵		k j aˀ	ʔ ʊ̰ t ⁵
+423	j au ³¹		j au ³¹	?		k j aˀ	ʔ ʊ̰ t ⁵
+423	j au ³¹		j au ³¹	j o̰ k ⁵		?	ʔ ʊ̰ t ⁵
+423	j au ³¹		j au ³¹	j o̰ k ⁵		k j aˀ	?
+505	?	l ẽ ²³	l æ̰ m ³¹	l e ²			l a m ³²
+505	l a m ³¹	?	l æ̰ m ³¹	l e ²			l a m ³²
+505	l a m ³¹	l ẽ ²³	?	l e ²			l a m ³²
+505	l a m ³¹	l ẽ ²³	l æ̰ m ³¹	?			l a m ³²
+505	l a m ³¹	l ẽ ²³	l æ̰ m ³¹	l e ²			?
+487	?		ŋ ãɪ ²⁴				
+487	ŋ a n ⁵		?				
+239	?		n a m ³¹	n ɛ ³		n a m	n a m ³²
+239	n a m ³¹		?	n ɛ ³		n a m	n a m ³²
+239	n a m ³¹		n a m ³¹	?		n a m	n a m ³²
+239	n a m ³¹		n a m ³¹	n ɛ ³		?	n a m ³²
+239	n a m ³¹		n a m ³¹	n ɛ ³		n a m	?
+508	?		b ɔ ⁴			p a k	
+508	b u ³¹		?			p a k	
+508	b u ³¹		b ɔ ⁴			?	
+16	?		j ø p ³			r i p	v ʊ p ³
+16	j æ t ²¹		?			r i p	v ʊ p ³
+16	j æ t ²¹		j ø p ³			?	v ʊ p ³
+16	j æ t ²¹		j ø p ³			r i p	?
+446	?		l æ̰ p ³²	l ḛ ʔ ⁵⁴			l a̰ p ⁵⁴
+446	l a̰ p ⁴²		?	l ḛ ʔ ⁵⁴			l a̰ p ⁵⁴
+446	l a̰ p ⁴²		l æ̰ p ³²	?			l a̰ p ⁵⁴
+446	l a̰ p ⁴²		l æ̰ p ³²	l ḛ ʔ ⁵⁴			?
+273	?	ʔ a ³	ʔ a ⁴	j ə ²		ʔ a ts	ʔ a ⁴⁵
+273	ʔ a ³	?	ʔ a ⁴	j ə ²		ʔ a ts	ʔ a ⁴⁵
+273	ʔ a ³	ʔ a ³	?	j ə ²		ʔ a ts	ʔ a ⁴⁵
+273	ʔ a ³	ʔ a ³	ʔ a ⁴	?		ʔ a ts	ʔ a ⁴⁵
+273	ʔ a ³	ʔ a ³	ʔ a ⁴	j ə ²		?	ʔ a ⁴⁵
+273	ʔ a ³	ʔ a ³	ʔ a ⁴	j ə ²		ʔ a ts	?
+80			?	l ə ²		l a k	l ə ²
+80			l a ³²	?		l a k	l ə ²
+80			l a ³²	l ə ²		?	l ə ²
+80			l a ³²	l ə ²		l a k	?
+342	?	m j ṵ ŋ ³	m j au ⁵³	m j u ʔ ³		m j w i	m j w i ³²
+342	n j æ̰ ṵ ³	?	m j au ⁵³	m j u ʔ ³		m j w i	m j w i ³²
+342	n j æ̰ ṵ ³	m j ṵ ŋ ³	?	m j u ʔ ³		m j w i	m j w i ³²
+342	n j æ̰ ṵ ³	m j ṵ ŋ ³	m j au ⁵³	?		m j w i	m j w i ³²
+342	n j æ̰ ṵ ³	m j ṵ ŋ ³	m j au ⁵³	m j u ʔ ³		?	m j w i ³²
+342	n j æ̰ ṵ ³	m j ṵ ŋ ³	m j au ⁵³	m j u ʔ ³		m j w i	?
+76	?		w ɔ ³	v o ⁴	w a ³¹	w aː	w a ³¹
+76	w u ³⁴		?	v o ⁴	w a ³¹	w aː	w a ³¹
+76	w u ³⁴		w ɔ ³	?	w a ³¹	w aː	w a ³¹
+76	w u ³⁴		w ɔ ³	v o ⁴	?	w aː	w a ³¹
+76	w u ³⁴		w ɔ ³	v o ⁴	w a ³¹	?	w a ³¹
+76	w u ³⁴		w ɔ ³	v o ⁴	w a ³¹	w aː	?
+242	?		tsʰ u ³²	tsʰ au ³¹	ʃ ai ŋ ⁵⁵	tsʰ i	
+242	tsʰ ɨu ³		?	tsʰ au ³¹	ʃ ai ŋ ⁵⁵	tsʰ i	
+242	tsʰ ɨu ³		tsʰ u ³²	?	ʃ ai ŋ ⁵⁵	tsʰ i	
+242	tsʰ ɨu ³		tsʰ u ³²	tsʰ au ³¹	?	tsʰ i	
+242	tsʰ ɨu ³		tsʰ u ³²	tsʰ au ³¹	ʃ ai ŋ ⁵⁵	?	
+374		?	kʰ oi ⁴³			k j u	
+374		k j ḛ ʔ ³	?			k j u	
+374		k j ḛ ʔ ³	kʰ oi ⁴³			?	
+425	?		b j e ³	p j i t ⁵⁴	p e ³¹	p eː	b i ⁵³
+425	d j e ³		?	p j i t ⁵⁴	p e ³¹	p eː	b i ⁵³
+425	d j e ³		b j e ³	?	p e ³¹	p eː	b i ⁵³
+425	d j e ³		b j e ³	p j i t ⁵⁴	?	p eː	b i ⁵³
+425	d j e ³		b j e ³	p j i t ⁵⁴	p e ³¹	?	b i ⁵³
+425	d j e ³		b j e ³	p j i t ⁵⁴	p e ³¹	p eː	?
+87	?		ŋ ɔ ³	ŋ o ʔ ³	ŋ u ʔ ³¹	h ŋ a k	ŋ ɔ ⁴⁵
+87	ŋ ɔ ʔ ³		?	ŋ o ʔ ³	ŋ u ʔ ³¹	h ŋ a k	ŋ ɔ ⁴⁵
+87	ŋ ɔ ʔ ³		ŋ ɔ ³	?	ŋ u ʔ ³¹	h ŋ a k	ŋ ɔ ⁴⁵
+87	ŋ ɔ ʔ ³		ŋ ɔ ³	ŋ o ʔ ³	?	h ŋ a k	ŋ ɔ ⁴⁵
+87	ŋ ɔ ʔ ³		ŋ ɔ ³	ŋ o ʔ ³	ŋ u ʔ ³¹	?	ŋ ɔ ⁴⁵
+87	ŋ ɔ ʔ ³		ŋ ɔ ³	ŋ o ʔ ³	ŋ u ʔ ³¹	h ŋ a k	?
+214	?	l a m ⁵²	l ɛ m ²		l a ŋ ³¹	l u m	l u m ³¹
+214	l a m ³²	?	l ɛ m ²		l a ŋ ³¹	l u m	l u m ³¹
+214	l a m ³²	l a m ⁵²	?		l a ŋ ³¹	l u m	l u m ³¹
+214	l a m ³²	l a m ⁵²	l ɛ m ²		?	l u m	l u m ³¹
+214	l a m ³²	l a m ⁵²	l ɛ m ²		l a ŋ ³¹	?	l u m ³¹
+214	l a m ³²	l a m ⁵²	l ɛ m ²		l a ŋ ³¹	l u m	?
+93	?		l æ m ⁵	l e ⁴	ɹ ɛ ³¹	r a m	l a m ⁵⁴
+93	l a̰ m ⁵		?	l e ⁴	ɹ ɛ ³¹	r a m	l a m ⁵⁴
+93	l a̰ m ⁵		l æ m ⁵	?	ɹ ɛ ³¹	r a m	l a m ⁵⁴
+93	l a̰ m ⁵		l æ m ⁵	l e ⁴	?	r a m	l a m ⁵⁴
+93	l a̰ m ⁵		l æ m ⁵	l e ⁴	ɹ ɛ ³¹	?	l a m ⁵⁴
+93	l a̰ m ⁵		l æ m ⁵	l e ⁴	ɹ ɛ ³¹	r a m	?
+535	?		b a ŋ ³¹	b o ³⁴		p aˀ	b ɔ ³
+535	b a ŋ ³¹		?	b o ³⁴		p aˀ	b ɔ ³
+535	b a ŋ ³¹		b a ŋ ³¹	?		p aˀ	b ɔ ³
+535	b a ŋ ³¹		b a ŋ ³¹	b o ³⁴		?	b ɔ ³
+535	b a ŋ ³¹		b a ŋ ³¹	b o ³⁴		p aˀ	?
+450	?		ŋ e ⁴	ŋ a ⁴⁵			n j ɛ̰ ⁵³
+450	ŋ æ̰ ʔ ³¹		?	ŋ a ⁴⁵			n j ɛ̰ ⁵³
+450	ŋ æ̰ ʔ ³¹		ŋ e ⁴	?			n j ɛ̰ ⁵³
+450	ŋ æ̰ ʔ ³¹		ŋ e ⁴	ŋ a ⁴⁵			?
+364				?		tsʰ w i	
+364				dʒ au ²		?	
+332	?		l æ̰ m ³	l e ³²	l ɛ ⁵⁵	h l a m	l a̰ m ⁵³
+332	l a̰ m ³		?	l e ³²	l ɛ ⁵⁵	h l a m	l a̰ m ⁵³
+332	l a̰ m ³		l æ̰ m ³	?	l ɛ ⁵⁵	h l a m	l a̰ m ⁵³
+332	l a̰ m ³		l æ̰ m ³	l e ³²	?	h l a m	l a̰ m ⁵³
+332	l a̰ m ³		l æ̰ m ³	l e ³²	l ɛ ⁵⁵	?	l a̰ m ⁵³
+332	l a̰ m ³		l æ̰ m ³	l e ³²	l ɛ ⁵⁵	h l a m	?
+536	?		d u ³¹	d au ³		t u	ts ṵ ŋ ⁵³
+536	d e ³		?	d au ³		t u	ts ṵ ŋ ⁵³
+536	d e ³		d u ³¹	?		t u	ts ṵ ŋ ⁵³
+536	d e ³		d u ³¹	d au ³		?	ts ṵ ŋ ⁵³
+536	d e ³		d u ³¹	d au ³		t u	?
+40	?		tʰ ø m ⁵	tʰ a m ³²		h r w a mˀ	
+40	tʰ ɔ m ⁵		?	tʰ a m ³²		h r w a mˀ	
+40	tʰ ɔ m ⁵		tʰ ø m ⁵	?		h r w a mˀ	
+40	tʰ ɔ m ⁵		tʰ ø m ⁵	tʰ a m ³²		?	
+299		?		b au ²			b u ³¹
+299		p ṵ ⁵²		?			b u ³¹
+299		p ṵ ⁵²		b au ²			?
+78	?		m au ³¹	m o k ⁴³	m u ⁵⁵	h m w i	m ai ³
+78	m au ³¹		?	m o k ⁴³	m u ⁵⁵	h m w i	m ai ³
+78	m au ³¹		m au ³¹	?	m u ⁵⁵	h m w i	m ai ³
+78	m au ³¹		m au ³¹	m o k ⁴³	?	h m w i	m ai ³
+78	m au ³¹		m au ³¹	m o k ⁴³	m u ⁵⁵	?	m ai ³
+78	m au ³¹		m au ³¹	m o k ⁴³	m u ⁵⁵	h m w i	?
+388	?		g j o k ³²	g j æu ʔ ⁴³		k r au k	g j u ʔ ³²
+388	g j u k ⁴²		?	g j æu ʔ ⁴³		k r au k	g j u ʔ ³²
+388	g j u k ⁴²		g j o k ³²	?		k r au k	g j u ʔ ³²
+388	g j u k ⁴²		g j o k ³²	g j æu ʔ ⁴³		?	g j u ʔ ³²
+388	g j u k ⁴²		g j o k ³²	g j æu ʔ ⁴³		k r au k	?
+409	?		l ɔ ³¹	l o ³	ɹ ʊ ʔ	l aː	l e ⁴³
+409	l ɔ ³¹		?	l o ³	ɹ ʊ ʔ	l aː	l e ⁴³
+409	l ɔ ³¹		l ɔ ³¹	?	ɹ ʊ ʔ	l aː	l e ⁴³
+409	l ɔ ³¹		l ɔ ³¹	l o ³	?	l aː	l e ⁴³
+409	l ɔ ³¹		l ɔ ³¹	l o ³	ɹ ʊ ʔ	?	l e ⁴³
+409	l ɔ ³¹		l ɔ ³¹	l o ³	ɹ ʊ ʔ	l aː	?
+421	?	n a p ⁵²	m j o k ³²	n a p ⁴		h n a ts	m j u p ³⁴
+421	n j ɔ p ⁴¹	?	m j o k ³²	n a p ⁴		h n a ts	m j u p ³⁴
+421	n j ɔ p ⁴¹	n a p ⁵²	?	n a p ⁴		h n a ts	m j u p ³⁴
+421	n j ɔ p ⁴¹	n a p ⁵²	m j o k ³²	?		h n a ts	m j u p ³⁴
+421	n j ɔ p ⁴¹	n a p ⁵²	m j o k ³²	n a p ⁴		?	m j u p ³⁴
+421	n j ɔ p ⁴¹	n a p ⁵²	m j o k ³²	n a p ⁴		h n a ts	?
+358	?		ʃ ɛ ³¹	ʃ ɛ ³¹	ʃ e t		ʃ e ³¹
+358	ʃ ɛ t ³¹		?	ʃ ɛ ³¹	ʃ e t		ʃ e ³¹
+358	ʃ ɛ t ³¹		ʃ ɛ ³¹	?	ʃ e t		ʃ e ³¹
+358	ʃ ɛ t ³¹		ʃ ɛ ³¹	ʃ ɛ ³¹	?		ʃ e ³¹
+358	ʃ ɛ t ³¹		ʃ ɛ ³¹	ʃ ɛ ³¹	ʃ e t		?
+162			?			ʔ i m	
+162			j ɛ m ³			?	
+534				?	ɲ o ⁵⁵		
+534				n o ʔ ³⁴	?		
+558		?	ɹ ɛ ⁵³				j ɔ̰ ⁴⁵
+558		j e ³	?				j ɔ̰ ⁴⁵
+558		j e ³	ɹ ɛ ⁵³				?
+539	?		dʒ e ŋ ³²	dʒ ɪ n ³²	ʃ ei ⁵⁵	kʰ j a ɲ	dʒ ɪ n ³¹
+539	dʒ j ɛ n ³		?	dʒ ɪ n ³²	ʃ ei ⁵⁵	kʰ j a ɲ	dʒ ɪ n ³¹
+539	dʒ j ɛ n ³		dʒ e ŋ ³²	?	ʃ ei ⁵⁵	kʰ j a ɲ	dʒ ɪ n ³¹
+539	dʒ j ɛ n ³		dʒ e ŋ ³²	dʒ ɪ n ³²	?	kʰ j a ɲ	dʒ ɪ n ³¹
+539	dʒ j ɛ n ³		dʒ e ŋ ³²	dʒ ɪ n ³²	ʃ ei ⁵⁵	?	dʒ ɪ n ³¹
+539	dʒ j ɛ n ³		dʒ e ŋ ³²	dʒ ɪ n ³²	ʃ ei ⁵⁵	kʰ j a ɲ	?
+15			?			k r w iː	g u m ⁵³
+15			g w ɛ m ³			?	g u m ⁵³
+15			g w ɛ m ³			k r w iː	?
+511	?		l ɔ̰ ʔ ³	l o ʔ ³	l ʊ ʔ ³¹	l a k	l ɔ ʔ ³
+511	l ɔ ʔ ⁴³		?	l o ʔ ³	l ʊ ʔ ³¹	l a k	l ɔ ʔ ³
+511	l ɔ ʔ ⁴³		l ɔ̰ ʔ ³	?	l ʊ ʔ ³¹	l a k	l ɔ ʔ ³
+511	l ɔ ʔ ⁴³		l ɔ̰ ʔ ³	l o ʔ ³	?	l a k	l ɔ ʔ ³
+511	l ɔ ʔ ⁴³		l ɔ̰ ʔ ³	l o ʔ ³	l ʊ ʔ ³¹	?	l ɔ ʔ ³
+511	l ɔ ʔ ⁴³		l ɔ̰ ʔ ³	l o ʔ ³	l ʊ ʔ ³¹	l a k	?
+381	?			dʒ i t ⁵			
+381	dʒ ɛ t ⁵⁴			?			
+266	?		j o k ³	j a̰ m ³²			j a̰ ŋ ³
+266	j ɛ̰ n ⁴		?	j a̰ m ³²			j a̰ ŋ ³
+266	j ɛ̰ n ⁴		j o k ³	?			j a̰ ŋ ³
+266	j ɛ̰ n ⁴		j o k ³	j a̰ m ³²			?
+363	?	t ḭ ²³	d a ŋ ²				d a ŋ ⁴³
+363	t a̰ ḭ ʔ ⁵³	?	d a ŋ ²				d a ŋ ⁴³
+363	t a̰ ḭ ʔ ⁵³	t ḭ ²³	?				d a ŋ ⁴³
+363	t a̰ ḭ ʔ ⁵³	t ḭ ²³	d a ŋ ²				?
+68		?	g i ²	g i ²			
+68		k i ⁵²	?	g i ²			
+68		k i ⁵²	g i ²	?			
+65	?		g o k ⁵³	k a̰u ʔ ⁵⁴	kʰ w e ⁵⁵	kʰ au k	k ṵ ʔ ⁵
+65	k ṵ k ⁵⁴		?	k a̰u ʔ ⁵⁴	kʰ w e ⁵⁵	kʰ au k	k ṵ ʔ ⁵
+65	k ṵ k ⁵⁴		g o k ⁵³	?	kʰ w e ⁵⁵	kʰ au k	k ṵ ʔ ⁵
+65	k ṵ k ⁵⁴		g o k ⁵³	k a̰u ʔ ⁵⁴	?	kʰ au k	k ṵ ʔ ⁵
+65	k ṵ k ⁵⁴		g o k ⁵³	k a̰u ʔ ⁵⁴	kʰ w e ⁵⁵	?	k ṵ ʔ ⁵
+65	k ṵ k ⁵⁴		g o k ⁵³	k a̰u ʔ ⁵⁴	kʰ w e ⁵⁵	kʰ au k	?
+107	?		w ø m ²				
+107	w ɔ m ³		?				
+86	?		j eː ŋ ⁴	ʔ ḭ ʔ ⁵⁴		r a k	ʔ i ⁵
+86	j ei ³		?	ʔ ḭ ʔ ⁵⁴		r a k	ʔ i ⁵
+86	j ei ³		j eː ŋ ⁴	?		r a k	ʔ i ⁵
+86	j ei ³		j eː ŋ ⁴	ʔ ḭ ʔ ⁵⁴		?	ʔ i ⁵
+86	j ei ³		j eː ŋ ⁴	ʔ ḭ ʔ ⁵⁴		r a k	?
+153	?		l a̰ ŋ ³⁴	l a̰ ³			l a̰ ŋ ⁵³
+153	l a̰ ŋ ³		?	l a̰ ³			l a̰ ŋ ⁵³
+153	l a̰ ŋ ³		l a̰ ŋ ³⁴	?			l a̰ ŋ ⁵³
+153	l a̰ ŋ ³		l a̰ ŋ ³⁴	l a̰ ³			?
+67	?				m j ai ʔ ³¹	m r a ts	m ɪ t ⁴³
+67	n j ɛ t ³²				?	m r a ts	m ɪ t ⁴³
+67	n j ɛ t ³²				m j ai ʔ ³¹	?	m ɪ t ⁴³
+67	n j ɛ t ³²				m j ai ʔ ³¹	m r a ts	?
+556	?		m j æ p ³				
+556	n j a p ⁴²		?				
+39		?	m j ḛ ⁵³	m i ʔ ³	m j i ⁵⁵	m r e	m i t ⁵
+39		m i ³	?	m i ʔ ³	m j i ⁵⁵	m r e	m i t ⁵
+39		m i ³	m j ḛ ⁵³	?	m j i ⁵⁵	m r e	m i t ⁵
+39		m i ³	m j ḛ ⁵³	m i ʔ ³	?	m r e	m i t ⁵
+39		m i ³	m j ḛ ⁵³	m i ʔ ³	m j i ⁵⁵	?	m i t ⁵
+39		m i ³	m j ḛ ⁵³	m i ʔ ³	m j i ⁵⁵	m r e	?
+461				?		pʰ j a k	
+461				p j ḛ ⁵⁴		?	
+500	?	n j a̰ p ⁵²	n j w ɛ̃ m ³²	m j a̰ m ⁵		n i mˀ	j ṵ m ⁴³
+500	n j æ̰ n ⁴¹	?	n j w ɛ̃ m ³²	m j a̰ m ⁵		n i mˀ	j ṵ m ⁴³
+500	n j æ̰ n ⁴¹	n j a̰ p ⁵²	?	m j a̰ m ⁵		n i mˀ	j ṵ m ⁴³
+500	n j æ̰ n ⁴¹	n j a̰ p ⁵²	n j w ɛ̃ m ³²	?		n i mˀ	j ṵ m ⁴³
+500	n j æ̰ n ⁴¹	n j a̰ p ⁵²	n j w ɛ̃ m ³²	m j a̰ m ⁵		?	j ṵ m ⁴³
+500	n j æ̰ n ⁴¹	n j a̰ p ⁵²	n j w ɛ̃ m ³²	m j a̰ m ⁵		n i mˀ	?
+264	?		m ɔ ʔ ⁴		m o ʔ ³¹	m a k	
+264	m ɔ ʔ ⁴³		?		m o ʔ ³¹	m a k	
+264	m ɔ ʔ ⁴³		m ɔ ʔ ⁴		?	m a k	
+264	m ɔ ʔ ⁴³		m ɔ ʔ ⁴		m o ʔ ³¹	?	
+140		?		ʃ ɪ ⁴			ʃ ɔ ⁴³
+140		sʰ a ²³		?			ʃ ɔ ⁴³
+140		sʰ a ²³		ʃ ɪ ⁴			?
+430	?	tʃʰ ə ²³	tʃʰ e ⁴³	tʃʰ i t ⁵⁴	ʃ e ³¹		tʃʰ i ⁵³
+430	tʃʰ ei ⁵	?	tʃʰ e ⁴³	tʃʰ i t ⁵⁴	ʃ e ³¹		tʃʰ i ⁵³
+430	tʃʰ ei ⁵	tʃʰ ə ²³	?	tʃʰ i t ⁵⁴	ʃ e ³¹		tʃʰ i ⁵³
+430	tʃʰ ei ⁵	tʃʰ ə ²³	tʃʰ e ⁴³	?	ʃ e ³¹		tʃʰ i ⁵³
+430	tʃʰ ei ⁵	tʃʰ ə ²³	tʃʰ e ⁴³	tʃʰ i t ⁵⁴	?		tʃʰ i ⁵³
+430	tʃʰ ei ⁵	tʃʰ ə ²³	tʃʰ e ⁴³	tʃʰ i t ⁵⁴	ʃ e ³¹		?
+151	?		b ə ³			b a	
+151	b ɛ ³		?			b a	
+151	b ɛ ³		b ə ³			?	
+545	?		dʒ ø m ³²	dʒ o ⁵		tsʷ a t	
+545	dʒ w ɛ ʔ ⁵²		?	dʒ o ⁵		tsʷ a t	
+545	dʒ w ɛ ʔ ⁵²		dʒ ø m ³²	?		tsʷ a t	
+545	dʒ w ɛ ʔ ⁵²		dʒ ø m ³²	dʒ o ⁵		?	
+45	?					s a	s u ³⁵
+45	s i ⁵					?	s u ³⁵
+45	s i ⁵					s a	?
+562	?		m j o ŋ ³	m j æu ŋ ⁴⁵	ŋ ɔ ³¹	m r a ŋ	m j u ŋ ⁵³
+562	n j u ŋ ³		?	m j æu ŋ ⁴⁵	ŋ ɔ ³¹	m r a ŋ	m j u ŋ ⁵³
+562	n j u ŋ ³		m j o ŋ ³	?	ŋ ɔ ³¹	m r a ŋ	m j u ŋ ⁵³
+562	n j u ŋ ³		m j o ŋ ³	m j æu ŋ ⁴⁵	?	m r a ŋ	m j u ŋ ⁵³
+562	n j u ŋ ³		m j o ŋ ³	m j æu ŋ ⁴⁵	ŋ ɔ ³¹	?	m j u ŋ ⁵³
+562	n j u ŋ ³		m j o ŋ ³	m j æu ŋ ⁴⁵	ŋ ɔ ³¹	m r a ŋ	?
+551	?					t u m	
+551	d w a m ³					?	
+480	?	k au ⁵²	g au ³	g o k ⁴³		k w iː	g au ³²
+480	g au ³⁴	?	g au ³	g o k ⁴³		k w iː	g au ³²
+480	g au ³⁴	k au ⁵²	?	g o k ⁴³		k w iː	g au ³²
+480	g au ³⁴	k au ⁵²	g au ³	?		k w iː	g au ³²
+480	g au ³⁴	k au ⁵²	g au ³	g o k ⁴³		?	g au ³²
+480	g au ³⁴	k au ⁵²	g au ³	g o k ⁴³		k w iː	?
+232	?		b u ʔ ⁵³	b au ³			b u ³
+232	p ṵ ʔ ⁵⁴		?	b au ³			b u ³
+232	p ṵ ʔ ⁵⁴		b u ʔ ⁵³	?			b u ³
+232	p ṵ ʔ ⁵⁴		b u ʔ ⁵³	b au ³			?
+193	?		b ə ³	b ə ³²	p a ³¹	p aː	b u ³
+193	b ə ⁴		?	b ə ³²	p a ³¹	p aː	b u ³
+193	b ə ⁴		b ə ³	?	p a ³¹	p aː	b u ³
+193	b ə ⁴		b ə ³	b ə ³²	?	p aː	b u ³
+193	b ə ⁴		b ə ³	b ə ³²	p a ³¹	?	b u ³
+193	b ə ⁴		b ə ³	b ə ³²	p a ³¹	p aː	?
+392	?		n j ɔ̃ ³¹	m j a ŋ ³			
+392	n o̰ ³		?	m j a ŋ ³			
+392	n o̰ ³		n j ɔ̃ ³¹	?			
+138	?		j a̰ ŋ k ⁵³				
+138	l j a̰ ŋ k ⁵³		?				
+230	?		l o ʔ ³²	l au ʔ ³			
+230	l u k ⁵⁴		?	l au ʔ ³			
+230	l u k ⁵⁴		l o ʔ ³²	?			
+286	?	kʰ a m ²³	kʰ æ m ⁴	kʰ a m ³		kʰ aː	kʰ u m ³¹
+286	kʰ w a m ⁵	?	kʰ æ m ⁴	kʰ a m ³		kʰ aː	kʰ u m ³¹
+286	kʰ w a m ⁵	kʰ a m ²³	?	kʰ a m ³		kʰ aː	kʰ u m ³¹
+286	kʰ w a m ⁵	kʰ a m ²³	kʰ æ m ⁴	?		kʰ aː	kʰ u m ³¹
+286	kʰ w a m ⁵	kʰ a m ²³	kʰ æ m ⁴	kʰ a m ³		?	kʰ u m ³¹
+286	kʰ w a m ⁵	kʰ a m ²³	kʰ æ m ⁴	kʰ a m ³		kʰ aː	?
+61				?		t aːu	
+61				tʰ a ⁴		?	
+398	?		j ɔ ³²		j a ³¹	j aː	j ɔ ⁵³
+398	j ɔ ³		?		j a ³¹	j aː	j ɔ ⁵³
+398	j ɔ ³		j ɔ ³²		?	j aː	j ɔ ⁵³
+398	j ɔ ³		j ɔ ³²		j a ³¹	?	j ɔ ⁵³
+398	j ɔ ³		j ɔ ³²		j a ³¹	j aː	?
+249	?		j ḛ ⁵	ʔ ḭ t ⁵			ʔ i ³
+249	j ḛ ḭ ⁵		?	ʔ ḭ t ⁵			ʔ i ³
+249	j ḛ ḭ ⁵		j ḛ ⁵	?			ʔ i ³
+249	j ḛ ḭ ⁵		j ḛ ⁵	ʔ ḭ t ⁵			?
+382	?			d e ³²			
+382	d a p ³¹			?			
+104	?		l a ²				l u m ⁴
+104	l a ³		?				l u m ⁴
+104	l a ³		l a ²				?
+537			?	g ə ²		kʷ a	
+537			g ə ⁵	?		kʷ a	
+537			g ə ⁵	g ə ²		?	
+73	?			dʒ i t ⁴⁵		ts eˀ	dʒ i ⁴
+73	dʒ ei ⁵⁴			?		ts eˀ	dʒ i ⁴
+73	dʒ ei ⁵⁴			dʒ i t ⁴⁵		?	dʒ i ⁴
+73	dʒ ei ⁵⁴			dʒ i t ⁴⁵		ts eˀ	?
+119	?		w u ʔ ³⁴	w e ⁴¹	w e ⁵⁵	w a m	v a m ³¹
+119	w ɔ m ³¹		?	w e ⁴¹	w e ⁵⁵	w a m	v a m ³¹
+119	w ɔ m ³¹		w u ʔ ³⁴	?	w e ⁵⁵	w a m	v a m ³¹
+119	w ɔ m ³¹		w u ʔ ³⁴	w e ⁴¹	?	w a m	v a m ³¹
+119	w ɔ m ³¹		w u ʔ ³⁴	w e ⁴¹	w e ⁵⁵	?	v a m ³¹
+119	w ɔ m ³¹		w u ʔ ³⁴	w e ⁴¹	w e ⁵⁵	w a m	?
+136	?	l w i ⁵²	l i ³	l œ i ³	l i ³¹		l w i ³¹
+136	l w i ⁴	?	l i ³	l œ i ³	l i ³¹		l w i ³¹
+136	l w i ⁴	l w i ⁵²	?	l œ i ³	l i ³¹		l w i ³¹
+136	l w i ⁴	l w i ⁵²	l i ³	?	l i ³¹		l w i ³¹
+136	l w i ⁴	l w i ⁵²	l i ³	l œ i ³	?		l w i ³¹
+136	l w i ⁴	l w i ⁵²	l i ³	l œ i ³	l i ³¹		?
+472	?	j ḭ ²³	ʔ ə k ⁵³		h ai ʔ ³¹		ʔ i ⁴⁵
+472	ʔ ai ⁵³	?	ʔ ə k ⁵³		h ai ʔ ³¹		ʔ i ⁴⁵
+472	ʔ ai ⁵³	j ḭ ²³	?		h ai ʔ ³¹		ʔ i ⁴⁵
+472	ʔ ai ⁵³	j ḭ ²³	ʔ ə k ⁵³		?		ʔ i ⁴⁵
+472	ʔ ai ⁵³	j ḭ ²³	ʔ ə k ⁵³		h ai ʔ ³¹		?
+507	?		n ɔ̃ ʔ ³	n o ʔ ⁴³	n ʊ ʔ ³¹	n a k	n ɪ k ³²
+507	n ɔ ʔ ³²		?	n o ʔ ⁴³	n ʊ ʔ ³¹	n a k	n ɪ k ³²
+507	n ɔ ʔ ³²		n ɔ̃ ʔ ³	?	n ʊ ʔ ³¹	n a k	n ɪ k ³²
+507	n ɔ ʔ ³²		n ɔ̃ ʔ ³	n o ʔ ⁴³	?	n a k	n ɪ k ³²
+507	n ɔ ʔ ³²		n ɔ̃ ʔ ³	n o ʔ ⁴³	n ʊ ʔ ³¹	?	n ɪ k ³²
+507	n ɔ ʔ ³²		n ɔ̃ ʔ ³	n o ʔ ⁴³	n ʊ ʔ ³¹	n a k	?
+323				?		kʰ a p	
+323				kʰ j u m ⁴³		?	
+368				?		h a ts	
+368				h o k ⁵⁴		?	
+372			?	m o̰ k ⁵⁴			m a̰u ⁵²
+372			m au ʔ ³¹	?			m a̰u ⁵²
+372			m au ʔ ³¹	m o̰ k ⁵⁴			?
+291	?	tsʰ i			tʰ o ⁵⁵		tsʰ ə ⁵⁴
+291	dʒ ə̰ ³	?			tʰ o ⁵⁵		tsʰ ə ⁵⁴
+291	dʒ ə̰ ³	tsʰ i			?		tsʰ ə ⁵⁴
+291	dʒ ə̰ ³	tsʰ i			tʰ o ⁵⁵		?
+31	?	ts a ŋ ³	ts o̰ ŋ ³²				
+31	d z o̰ ŋ ³²	?	ts o̰ ŋ ³²				
+31	d z o̰ ŋ ³²	ts a ŋ ³	?				
+324	?		j æ p ³				v a p ⁵
+324	j a p ⁴²		?				v a p ⁵
+324	j a p ⁴²		j æ p ³				?
+451			?	s e ʔ ⁵⁴		s e	s a t ⁵⁴
+451			s ai ⁵²	?		s e	s a t ⁵⁴
+451			s ai ⁵²	s e ʔ ⁵⁴		?	s a t ⁵⁴
+451			s ai ⁵²	s e ʔ ⁵⁴		s e	?
+465	?		tʰ e ⁵³	tʰ a ⁴³		pʰ ai	tʰ ai ⁵⁴
+465	tʰ ai ʔ ³¹		?	tʰ a ⁴³		pʰ ai	tʰ ai ⁵⁴
+465	tʰ ai ʔ ³¹		tʰ e ⁵³	?		pʰ ai	tʰ ai ⁵⁴
+465	tʰ ai ʔ ³¹		tʰ e ⁵³	tʰ a ⁴³		?	tʰ ai ⁵⁴
+465	tʰ ai ʔ ³¹		tʰ e ⁵³	tʰ a ⁴³		pʰ ai	?
+375	?		m j e ³²	m i t ³			m ɪ t ³
+375	ŋ a̰ m ⁵³		?	m i t ³			m ɪ t ³
+375	ŋ a̰ m ⁵³		m j e ³²	?			m ɪ t ³
+375	ŋ a̰ m ⁵³		m j e ³²	m i t ³			?
+176	?		g o ŋ ⁵²			k a ŋ	
+176	g u ŋ ³¹		?			k a ŋ	
+176	g u ŋ ³¹		g o ŋ ⁵²			?	
+301	?		j ɔ̰ ʔ ³	ɣ o ʔ ³²	r ʊ ʔ ³¹	r a k	w ɔ ʔ ³
+301	j ɔ ʔ ³¹		?	ɣ o ʔ ³²	r ʊ ʔ ³¹	r a k	w ɔ ʔ ³
+301	j ɔ ʔ ³¹		j ɔ̰ ʔ ³	?	r ʊ ʔ ³¹	r a k	w ɔ ʔ ³
+301	j ɔ ʔ ³¹		j ɔ̰ ʔ ³	ɣ o ʔ ³²	?	r a k	w ɔ ʔ ³
+301	j ɔ ʔ ³¹		j ɔ̰ ʔ ³	ɣ o ʔ ³²	r ʊ ʔ ³¹	?	w ɔ ʔ ³
+301	j ɔ ʔ ³¹		j ɔ̰ ʔ ³	ɣ o ʔ ³²	r ʊ ʔ ³¹	r a k	?
+141	?		tsʰ a ŋ ²	tsʰ a ⁵³		tsʰ a ŋ	
+141	tsʰ a ŋ ³		?	tsʰ a ⁵³		tsʰ a ŋ	
+141	tsʰ a ŋ ³		tsʰ a ŋ ²	?		tsʰ a ŋ	
+141	tsʰ a ŋ ³		tsʰ a ŋ ²	tsʰ a ⁵³		?	
+198		?		ʃ ɔ ⁵¹			m w i ³¹
+198		ʃʰ a ⁵²		?			m w i ³¹
+198		ʃʰ a ⁵²		ʃ ɔ ⁵¹			?
