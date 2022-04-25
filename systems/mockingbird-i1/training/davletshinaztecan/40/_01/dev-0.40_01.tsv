@@ -1,0 +1,62 @@
+COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNahuat	Pipil	Pochutec	ProtoAztecan	TetelcingoNahuatl
+237	?			j e w a j o		eː w a j u		eː w a + tɬ	j e w a j o
+237	eː w a + tɬ			?		eː w a j u		eː w a + tɬ	j e w a j o
+237	eː w a + tɬ			j e w a j o		?		eː w a + tɬ	j e w a j o
+237	eː w a + tɬ			j e w a j o		eː w a j u		?	j e w a j o
+237	eː w a + tɬ			j e w a j o		eː w a j u		eː w a + tɬ	?
+221	?		n e l w a + ʔ	n e l w a + tɬ		n e l w a + t		n e l w a + tɬ	n e l w a + j u + tɬ
+221	n e l w a + tɬ		?	n e l w a + tɬ		n e l w a + t		n e l w a + tɬ	n e l w a + j u + tɬ
+221	n e l w a + tɬ		n e l w a + ʔ	?		n e l w a + t		n e l w a + tɬ	n e l w a + j u + tɬ
+221	n e l w a + tɬ		n e l w a + ʔ	n e l w a + tɬ		?		n e l w a + tɬ	n e l w a + j u + tɬ
+221	n e l w a + tɬ		n e l w a + ʔ	n e l w a + tɬ		n e l w a + t		?	n e l w a + j u + tɬ
+221	n e l w a + tɬ		n e l w a + ʔ	n e l w a + tɬ		n e l w a + t		n e l w a + tɬ	?
+14			?		p i s + t i k				
+14			p iː s + t i ʔ		?				
+99		?				x u x u w i + k			
+99		x u x u i + k				?			
+93	?			k w a l i					k w a l iː
+93	k w a l + l i			?					k w a l iː
+93	k w a l + l i			k w a l i					?
+10	?								k e ts o m a
+10	k e ʔ ts o m								?
+102			?		ts o n + g a l	ts u n + k a l			
+102			ts o n + k a l		?	ts u n + k a l			
+102			ts o n + k a l		ts o n + g a l	?			
+85			?		t oː p o h				
+85			t oː p o h		?				
+20		?				tʃ iː tʃ i h			
+20		tʃ i tʃ i				?			
+191	?		a j aː ʔ	a h m o					a m o
+191	a ʔ m oː		?	a h m o					a m o
+191	a ʔ m oː		a j aː ʔ	?					a m o
+191	a ʔ m oː		a j aː ʔ	a h m o					?
+98	?		x o x o k + t i ʔ	x o x o k + t i k	x o x o k + t i k				x o x o k + t iː k
+98	x o x o k + t i k		?	x o x o k + t i k	x o x o k + t i k				x o x o k + t iː k
+98	x o x o k + t i k		x o x o k + t i ʔ	?	x o x o k + t i k				x o x o k + t iː k
+98	x o x o k + t i k		x o x o k + t i ʔ	x o x o k + t i k	?				x o x o k + t iː k
+98	x o x o k + t i k		x o x o k + t i ʔ	x o x o k + t i k	x o x o k + t i k				?
+320	?		aː ʔ + t i	a + tɬ	aː + t	aː + t	a + t	aː + tɬ	ø + ts i n + tɬ i
+320	aː + tɬ		?	a + tɬ	aː + t	aː + t	a + t	aː + tɬ	ø + ts i n + tɬ i
+320	aː + tɬ		aː ʔ + t i	?	aː + t	aː + t	a + t	aː + tɬ	ø + ts i n + tɬ i
+320	aː + tɬ		aː ʔ + t i	a + tɬ	?	aː + t	a + t	aː + tɬ	ø + ts i n + tɬ i
+320	aː + tɬ		aː ʔ + t i	a + tɬ	aː + t	?	a + t	aː + tɬ	ø + ts i n + tɬ i
+320	aː + tɬ		aː ʔ + t i	a + tɬ	aː + t	aː + t	?	aː + tɬ	ø + ts i n + tɬ i
+320	aː + tɬ		aː ʔ + t i	a + tɬ	aː + t	aː + t	a + t	?	ø + ts i n + tɬ i
+320	aː + tɬ		aː ʔ + t i	a + tɬ	aː + t	aː + t	a + t	aː + tɬ	?
+224	?		j a w a l + t i ʔ	j e w a l + t i k		j a w a l + n a h		j a w a l + t ɨ + k	j e w a l + t iː k
+224	j a w a l + t i k		?	j e w a l + t i k		j a w a l + n a h		j a w a l + t ɨ + k	j e w a l + t iː k
+224	j a w a l + t i k		j a w a l + t i ʔ	?		j a w a l + n a h		j a w a l + t ɨ + k	j e w a l + t iː k
+224	j a w a l + t i k		j a w a l + t i ʔ	j e w a l + t i k		?		j a w a l + t ɨ + k	j e w a l + t iː k
+224	j a w a l + t i k		j a w a l + t i ʔ	j e w a l + t i k		j a w a l + n a h		?	j e w a l + t iː k
+224	j a w a l + t i k		j a w a l + t i ʔ	j e w a l + t i k		j a w a l + n a h		j a w a l + t ɨ + k	?
+125	?	k o k o i t	k w aː k w a	k w a k o w	b aː b aː				
+125	k w aː k w a w + tɬ	?	k w aː k w a	k w a k o w	b aː b aː				
+125	k w aː k w a w + tɬ	k o k o i t	?	k w a k o w	b aː b aː				
+125	k w aː k w a w + tɬ	k o k o i t	k w aː k w a	?	b aː b aː				
+125	k w aː k w a w + tɬ	k o k o i t	k w aː k w a	k w a k o w	?				
+330	?		k o s t i ʔ	k o s t i k	g o s t i k			k o s + t ɨ + k	k o s t iː k
+330	k o s + t i k		?	k o s t i k	g o s t i k			k o s + t ɨ + k	k o s t iː k
+330	k o s + t i k		k o s t i ʔ	?	g o s t i k			k o s + t ɨ + k	k o s t iː k
+330	k o s + t i k		k o s t i ʔ	k o s t i k	?			k o s + t ɨ + k	k o s t iː k
+330	k o s + t i k		k o s t i ʔ	k o s t i k	g o s t i k			?	k o s t iː k
+330	k o s + t i k		k o s t i ʔ	k o s t i k	g o s t i k			k o s + t ɨ + k	?

@@ -1,0 +1,50 @@
+COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNahuat	Pipil	Pochutec	ProtoAztecan	TetelcingoNahuatl
+104		?	ts o n + t e k o n	ts o n + t e k o	ts o n + t e g o n	ts u n + t e k u m a + t		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	?	ts o n + t e k o	ts o n + t e g o n	ts u n + t e k u m a + t		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	?	ts o n + t e g o n	ts u n + t e k u m a + t		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	ts o n + t e k o	?	ts u n + t e k u m a + t		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	ts o n + t e k o	ts o n + t e g o n	?		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	ts o n + t e k o	ts o n + t e g o n	ts u n + t e k u m a + t		?	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	ts o n + t e k o	ts o n + t e g o n	ts u n + t e k u m a + t		k w a h	?
+57			?		t e k s i s	t e k s i s + t i			
+57			t e k s i s		?	t e k s i s + t i			
+57			t e k s i s		t e k s i s	?			
+20		?				tʃ iː tʃ i h			
+20		tʃ i tʃ i				?			
+239		?			b e t a x		k w e t e x + t		
+239		b w e r a x t i			?		k w e t e x + t		
+239		b w e r a x t i			b e t a x		?		
+13	?			tɬ i l + t i k		t iː l + t i k		tɬ iː l + t ɨ + k	tɬ i l + t iː k
+13	tɬ iː l + t i k			?		t iː l + t i k		tɬ iː l + t ɨ + k	tɬ i l + t iː k
+13	tɬ iː l + t i k			tɬ i l + t i k		?		tɬ iː l + t ɨ + k	tɬ i l + t iː k
+13	tɬ iː l + t i k			tɬ i l + t i k		t iː l + t i k		?	tɬ i l + t iː k
+13	tɬ iː l + t i k			tɬ i l + t i k		t iː l + t i k		tɬ iː l + t ɨ + k	?
+28	?	s e s e k	s e s eː ʔ		s e s eː k	s e s e k		s e s e + k	
+28	iː ts + t i k	?	s e s eː ʔ		s e s eː k	s e s e k		s e s e + k	
+28	iː ts + t i k	s e s e k	?		s e s eː k	s e s e k		s e s e + k	
+28	iː ts + t i k	s e s e k	s e s eː ʔ		?	s e s e k		s e s e + k	
+28	iː ts + t i k	s e s e k	s e s eː ʔ		s e s eː k	?		s e s e + k	
+28	iː ts + t i k	s e s e k	s e s eː ʔ		s e s eː k	s e s e k		?	
+97	?							j eː k + tɬ ɨ	
+97	j e k + tɬ i							?	
+79	?	i j + u h w i + j u		i h w i + tɬ				ɨ w ɨ	
+79	i h w i + tɬ	?		i h w i + tɬ				ɨ w ɨ	
+79	i h w i + tɬ	i j + u h w i + j u		?				ɨ w ɨ	
+79	i h w i + tɬ	i j + u h w i + j u		i h w i + tɬ				?	
+98	?		x o x o k + t i ʔ	x o x o k + t i k	x o x o k + t i k				x o x o k + t iː k
+98	x o x o k + t i k		?	x o x o k + t i k	x o x o k + t i k				x o x o k + t iː k
+98	x o x o k + t i k		x o x o k + t i ʔ	?	x o x o k + t i k				x o x o k + t iː k
+98	x o x o k + t i k		x o x o k + t i ʔ	x o x o k + t i k	?				x o x o k + t iː k
+98	x o x o k + t i k		x o x o k + t i ʔ	x o x o k + t i k	x o x o k + t i k				?
+268	?	s iː t a l	s iː t a l i n	s i tɬ a l i		s iː t a l		s i tɬ a l ɨ + m	s i tɬ a l iː
+268	s iː tɬ a l + i n	?	s iː t a l i n	s i tɬ a l i		s iː t a l		s i tɬ a l ɨ + m	s i tɬ a l iː
+268	s iː tɬ a l + i n	s iː t a l	?	s i tɬ a l i		s iː t a l		s i tɬ a l ɨ + m	s i tɬ a l iː
+268	s iː tɬ a l + i n	s iː t a l	s iː t a l i n	?		s iː t a l		s i tɬ a l ɨ + m	s i tɬ a l iː
+268	s iː tɬ a l + i n	s iː t a l	s iː t a l i n	s i tɬ a l i		?		s i tɬ a l ɨ + m	s i tɬ a l iː
+268	s iː tɬ a l + i n	s iː t a l	s iː t a l i n	s i tɬ a l i		s iː t a l		?	s i tɬ a l iː
+268	s iː tɬ a l + i n	s iː t a l	s iː t a l i n	s i tɬ a l i		s iː t a l		s i tɬ a l ɨ + m	?
+189		?			t a + j o a	t a + j u w a			
+189		t a + j u w a + k			?	t a + j u w a			
+189		t a + j u w a + k			t a + j o a	?			
+286	?								m + ø + b iː l ø n a
+286	aː + w i l aː n								?

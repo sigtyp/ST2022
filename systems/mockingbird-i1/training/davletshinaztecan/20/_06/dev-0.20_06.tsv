@@ -1,0 +1,125 @@
+COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNahuat	Pipil	Pochutec	ProtoAztecan	TetelcingoNahuatl
+30	?		w iː ʔ	w i ts	w iː ts	w iː ts	w i ts	w iː ts	i b i ts
+30	w i ts		?	w i ts	w iː ts	w iː ts	w i ts	w iː ts	i b i ts
+30	w i ts		w iː ʔ	?	w iː ts	w iː ts	w i ts	w iː ts	i b i ts
+30	w i ts		w iː ʔ	w i ts	?	w iː ts	w i ts	w iː ts	i b i ts
+30	w i ts		w iː ʔ	w i ts	w iː ts	?	w i ts	w iː ts	i b i ts
+30	w i ts		w iː ʔ	w i ts	w iː ts	w iː ts	?	w iː ts	i b i ts
+30	w i ts		w iː ʔ	w i ts	w iː ts	w iː ts	w i ts	?	i b i ts
+30	w i ts		w iː ʔ	w i ts	w iː ts	w iː ts	w i ts	w iː ts	?
+228	?		k + i h t o a	i h t o a	i h t o a				ʰt o a
+228	ʔ t o aː		?	i h t o a	i h t o a				ʰt o a
+228	ʔ t o aː		k + i h t o a	?	i h t o a				ʰt o a
+228	ʔ t o aː		k + i h t o a	i h t o a	?				ʰt o a
+228	ʔ t o aː		k + i h t o a	i h t o a	i h t o a				?
+181	?		t e p eː + ʔ	t e p e + tɬ	t e p eː + t	t e p eː + t		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		?	t e p e + tɬ	t e p eː + t	t e p eː + t		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	?	t e p eː + t	t e p eː + t		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	t e p e + tɬ	?	t e p eː + t		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	t e p e + tɬ	t e p eː + t	?		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	t e p e + tɬ	t e p eː + t	t e p eː + t		?	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	t e p e + tɬ	t e p eː + t	t e p eː + t		t ɨ p eː + tɬ	?
+324	?	i s t aː k	i s t aː ʔ	i s t a k	i s t aː k	i s t a k		i s t aː + k ɨ	tʃ i pː p ø w a k
+324	i s t aː k	?	i s t aː ʔ	i s t a k	i s t aː k	i s t a k		i s t aː + k ɨ	tʃ i pː p ø w a k
+324	i s t aː k	i s t aː k	?	i s t a k	i s t aː k	i s t a k		i s t aː + k ɨ	tʃ i pː p ø w a k
+324	i s t aː k	i s t aː k	i s t aː ʔ	?	i s t aː k	i s t a k		i s t aː + k ɨ	tʃ i pː p ø w a k
+324	i s t aː k	i s t aː k	i s t aː ʔ	i s t a k	?	i s t a k		i s t aː + k ɨ	tʃ i pː p ø w a k
+324	i s t aː k	i s t aː k	i s t aː ʔ	i s t a k	i s t aː k	?		i s t aː + k ɨ	tʃ i pː p ø w a k
+324	i s t aː k	i s t aː k	i s t aː ʔ	i s t a k	i s t aː k	i s t a k		?	tʃ i pː p ø w a k
+324	i s t aː k	i s t aː k	i s t aː ʔ	i s t a k	i s t aː k	i s t a k		i s t aː + k ɨ	?
+107	?	j u h + l u		j o l + o		j u l	n	j oː l	j u l o h + tɬ iː
+107	j oː l + l i	?		j o l + o		j u l	n	j oː l	j u l o h + tɬ iː
+107	j oː l + l i	j u h + l u		?		j u l	n	j oː l	j u l o h + tɬ iː
+107	j oː l + l i	j u h + l u		j o l + o		?	n	j oː l	j u l o h + tɬ iː
+107	j oː l + l i	j u h + l u		j o l + o		j u l	?	j oː l	j u l o h + tɬ iː
+107	j oː l + l i	j u h + l u		j o l + o		j u l	n	?	j u l o h + tɬ iː
+107	j oː l + l i	j u h + l u		j o l + o		j u l	n	j oː l	?
+94		?	j eː k + t i		j e k + t i	j eː k		j eː k + tɬ ɨ	
+94		j e k + t i	?		j e k + t i	j eː k		j eː k + tɬ ɨ	
+94		j e k + t i	j eː k + t i		?	j eː k		j eː k + tɬ ɨ	
+94		j e k + t i	j eː k + t i		j e k + t i	?		j eː k + tɬ ɨ	
+94		j e k + t i	j eː k + t i		j e k + t i	j eː k		?	
+330	?		k o s t i ʔ	k o s t i k	g o s t i k			k o s + t ɨ + k	k o s t iː k
+330	k o s + t i k		?	k o s t i k	g o s t i k			k o s + t ɨ + k	k o s t iː k
+330	k o s + t i k		k o s t i ʔ	?	g o s t i k			k o s + t ɨ + k	k o s t iː k
+330	k o s + t i k		k o s t i ʔ	k o s t i k	?			k o s + t ɨ + k	k o s t iː k
+330	k o s + t i k		k o s t i ʔ	k o s t i k	g o s t i k			?	k o s t iː k
+330	k o s + t i k		k o s t i ʔ	k o s t i k	g o s t i k			k o s + t ɨ + k	?
+328	?	s u w a + t	s i w aː + ʔ	s i w a + tɬ	s o aː + t	s i w aː + t		s i	s o w a + tɬ
+328	s i w aː + tɬ	?	s i w aː + ʔ	s i w a + tɬ	s o aː + t	s i w aː + t		s i	s o w a + tɬ
+328	s i w aː + tɬ	s u w a + t	?	s i w a + tɬ	s o aː + t	s i w aː + t		s i	s o w a + tɬ
+328	s i w aː + tɬ	s u w a + t	s i w aː + ʔ	?	s o aː + t	s i w aː + t		s i	s o w a + tɬ
+328	s i w aː + tɬ	s u w a + t	s i w aː + ʔ	s i w a + tɬ	?	s i w aː + t		s i	s o w a + tɬ
+328	s i w aː + tɬ	s u w a + t	s i w aː + ʔ	s i w a + tɬ	s o aː + t	?		s i	s o w a + tɬ
+328	s i w aː + tɬ	s u w a + t	s i w aː + ʔ	s i w a + tɬ	s o aː + t	s i w aː + t		?	s o w a + tɬ
+328	s i w aː + tɬ	s u w a + t	s i w aː + ʔ	s i w a + tɬ	s o aː + t	s i w aː + t		s i	?
+28	?	s e s e k	s e s eː ʔ		s e s eː k	s e s e k		s e s e + k	
+28	iː ts + t i k	?	s e s eː ʔ		s e s eː k	s e s e k		s e s e + k	
+28	iː ts + t i k	s e s e k	?		s e s eː k	s e s e k		s e s e + k	
+28	iː ts + t i k	s e s e k	s e s eː ʔ		?	s e s e k		s e s e + k	
+28	iː ts + t i k	s e s e k	s e s eː ʔ		s e s eː k	?		s e s e + k	
+28	iː ts + t i k	s e s e k	s e s eː ʔ		s e s eː k	s e s e k		?	
+6	?	i h t i		i h t e	i h t i	i h t i		ɨ h t ɨ	i h t e
+6	i ʔ t e	?		i h t e	i h t i	i h t i		ɨ h t ɨ	i h t e
+6	i ʔ t e	i h t i		?	i h t i	i h t i		ɨ h t ɨ	i h t e
+6	i ʔ t e	i h t i		i h t e	?	i h t i		ɨ h t ɨ	i h t e
+6	i ʔ t e	i h t i		i h t e	i h t i	?		ɨ h t ɨ	i h t e
+6	i ʔ t e	i h t i		i h t e	i h t i	i h t i		?	i h t e
+6	i ʔ t e	i h t i		i h t e	i h t i	i h t i		ɨ h t ɨ	?
+25	?		m i x + t i	m e x + tɬ i	m iː x + t i	m i x + t i		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		?	m e x + tɬ i	m iː x + t i	m i x + t i		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	?	m iː x + t i	m i x + t i		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	m e x + tɬ i	?	m i x + t i		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	m e x + tɬ i	m iː x + t i	?		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	m e x + tɬ i	m iː x + t i	m i x + t i		?	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	m e x + tɬ i	m iː x + t i	m i x + t i		m i x + tɬ ɨ	?
+316	?	n e h + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i		n ɨ h + n ɨ m i	n e h + n e m iː
+316	n e ʔ + n e m i	?	n e h + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i		n ɨ h + n ɨ m i	n e h + n e m iː
+316	n e ʔ + n e m i	n e h + n e m i	?	n e h + n e m i	n e h + n e m i	n e h + n e m i		n ɨ h + n ɨ m i	n e h + n e m iː
+316	n e ʔ + n e m i	n e h + n e m i	n e h + n e m i	?	n e h + n e m i	n e h + n e m i		n ɨ h + n ɨ m i	n e h + n e m iː
+316	n e ʔ + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i	?	n e h + n e m i		n ɨ h + n ɨ m i	n e h + n e m iː
+316	n e ʔ + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i	?		n ɨ h + n ɨ m i	n e h + n e m iː
+316	n e ʔ + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i		?	n e h + n e m iː
+316	n e ʔ + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i	n e h + n e m i		n ɨ h + n ɨ m i	?
+188	?		j o w a l	j o w a l i			o w e l	j o w a l + l ɨ	j o w a l iː
+188	j o w a l + l i		?	j o w a l i			o w e l	j o w a l + l ɨ	j o w a l iː
+188	j o w a l + l i		j o w a l	?			o w e l	j o w a l + l ɨ	j o w a l iː
+188	j o w a l + l i		j o w a l	j o w a l i			?	j o w a l + l ɨ	j o w a l iː
+188	j o w a l + l i		j o w a l	j o w a l i			o w e l	?	j o w a l iː
+188	j o w a l + l i		j o w a l	j o w a l i			o w e l	j o w a l + l ɨ	?
+283	?	x aː l + t e + t	t e ʔ + t i	t e + tɬ	t e + t	t e + t	t o + t	t ə + tɬ	t i e + t e + t u
+283	t e + tɬ	?	t e ʔ + t i	t e + tɬ	t e + t	t e + t	t o + t	t ə + tɬ	t i e + t e + t u
+283	t e + tɬ	x aː l + t e + t	?	t e + tɬ	t e + t	t e + t	t o + t	t ə + tɬ	t i e + t e + t u
+283	t e + tɬ	x aː l + t e + t	t e ʔ + t i	?	t e + t	t e + t	t o + t	t ə + tɬ	t i e + t e + t u
+283	t e + tɬ	x aː l + t e + t	t e ʔ + t i	t e + tɬ	?	t e + t	t o + t	t ə + tɬ	t i e + t e + t u
+283	t e + tɬ	x aː l + t e + t	t e ʔ + t i	t e + tɬ	t e + t	?	t o + t	t ə + tɬ	t i e + t e + t u
+283	t e + tɬ	x aː l + t e + t	t e ʔ + t i	t e + tɬ	t e + t	t e + t	?	t ə + tɬ	t i e + t e + t u
+283	t e + tɬ	x aː l + t e + t	t e ʔ + t i	t e + tɬ	t e + t	t e + t	t o + t	?	t i e + t e + t u
+283	t e + tɬ	x aː l + t e + t	t e ʔ + t i	t e + tɬ	t e + t	t e + t	t o + t	t ə + tɬ	?
+249	?	p uː k + t i	p oː k + t i	p o k + tɬ i	p oː k + t i	p u k + t i		p oː k + tɬ ɨ	p u k + tɬ iː
+249	p oː k + tɬ i	?	p oː k + t i	p o k + tɬ i	p oː k + t i	p u k + t i		p oː k + tɬ ɨ	p u k + tɬ iː
+249	p oː k + tɬ i	p uː k + t i	?	p o k + tɬ i	p oː k + t i	p u k + t i		p oː k + tɬ ɨ	p u k + tɬ iː
+249	p oː k + tɬ i	p uː k + t i	p oː k + t i	?	p oː k + t i	p u k + t i		p oː k + tɬ ɨ	p u k + tɬ iː
+249	p oː k + tɬ i	p uː k + t i	p oː k + t i	p o k + tɬ i	?	p u k + t i		p oː k + tɬ ɨ	p u k + tɬ iː
+249	p oː k + tɬ i	p uː k + t i	p oː k + t i	p o k + tɬ i	p oː k + t i	?		p oː k + tɬ ɨ	p u k + tɬ iː
+249	p oː k + tɬ i	p uː k + t i	p oː k + t i	p o k + tɬ i	p oː k + t i	p u k + t i		?	p u k + tɬ iː
+249	p oː k + tɬ i	p uː k + t i	p oː k + t i	p o k + tɬ i	p oː k + t i	p u k + t i		p oː k + tɬ ɨ	?
+85			?		t oː p o h				
+85			t oː p o h		?				
+125	?	k o k o i t	k w aː k w a	k w a k o w	b aː b aː				
+125	k w aː k w a w + tɬ	?	k w aː k w a	k w a k o w	b aː b aː				
+125	k w aː k w a w + tɬ	k o k o i t	?	k w a k o w	b aː b aː				
+125	k w aː k w a w + tɬ	k o k o i t	k w aː k w a	?	b aː b aː				
+125	k w aː k w a w + tɬ	k o k o i t	k w aː k w a	k w a k o w	?				
+235	?	m u + r a l i h + t u k	m o + t aː l i a	m o + tɬ a l i a	m o + t aː l i	m u + t aː l i a		m o + tɬ a l ɨ + h a	m o + tɬ ø l iː a
+235	m o + tɬ aː l i aː	?	m o + t aː l i a	m o + tɬ a l i a	m o + t aː l i	m u + t aː l i a		m o + tɬ a l ɨ + h a	m o + tɬ ø l iː a
+235	m o + tɬ aː l i aː	m u + r a l i h + t u k	?	m o + tɬ a l i a	m o + t aː l i	m u + t aː l i a		m o + tɬ a l ɨ + h a	m o + tɬ ø l iː a
+235	m o + tɬ aː l i aː	m u + r a l i h + t u k	m o + t aː l i a	?	m o + t aː l i	m u + t aː l i a		m o + tɬ a l ɨ + h a	m o + tɬ ø l iː a
+235	m o + tɬ aː l i aː	m u + r a l i h + t u k	m o + t aː l i a	m o + tɬ a l i a	?	m u + t aː l i a		m o + tɬ a l ɨ + h a	m o + tɬ ø l iː a
+235	m o + tɬ aː l i aː	m u + r a l i h + t u k	m o + t aː l i a	m o + tɬ a l i a	m o + t aː l i	?		m o + tɬ a l ɨ + h a	m o + tɬ ø l iː a
+235	m o + tɬ aː l i aː	m u + r a l i h + t u k	m o + t aː l i a	m o + tɬ a l i a	m o + t aː l i	m u + t aː l i a		?	m o + tɬ ø l iː a
+235	m o + tɬ aː l i aː	m u + r a l i h + t u k	m o + t aː l i a	m o + tɬ a l i a	m o + t aː l i	m u + t aː l i a		m o + tɬ a l ɨ + h a	?
+12			?		t a m + b a	t a n + k w a		k ɨ h + ts o m a	
+12			t a n + k w a		?	t a n + k w a		k ɨ h + ts o m a	
+12			t a n + k w a		t a m + b a	?		k ɨ h + ts o m a	
+12			t a n + k w a		t a m + b a	t a n + k w a		?	

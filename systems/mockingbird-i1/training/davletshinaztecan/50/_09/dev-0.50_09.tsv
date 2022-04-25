@@ -1,0 +1,57 @@
+COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNahuat	Pipil	Pochutec	ProtoAztecan	TetelcingoNahuatl
+13	?			tɬ i l + t i k		t iː l + t i k		tɬ iː l + t ɨ + k	tɬ i l + t iː k
+13	tɬ iː l + t i k			?		t iː l + t i k		tɬ iː l + t ɨ + k	tɬ i l + t iː k
+13	tɬ iː l + t i k			tɬ i l + t i k		?		tɬ iː l + t ɨ + k	tɬ i l + t iː k
+13	tɬ iː l + t i k			tɬ i l + t i k		t iː l + t i k		?	tɬ i l + t iː k
+13	tɬ iː l + t i k			tɬ i l + t i k		t iː l + t i k		tɬ iː l + t ɨ + k	?
+192		?			a m o	t eː + t e s u			
+192		t e			?	t eː + t e s u			
+192		t e			a m o	?			
+181	?		t e p eː + ʔ	t e p e + tɬ	t e p eː + t	t e p eː + t		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		?	t e p e + tɬ	t e p eː + t	t e p eː + t		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	?	t e p eː + t	t e p eː + t		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	t e p e + tɬ	?	t e p eː + t		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	t e p e + tɬ	t e p eː + t	?		t ɨ p eː + tɬ	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	t e p e + tɬ	t e p eː + t	t e p eː + t		?	t e p i e + tɬ
+181	t e p eː + tɬ		t e p eː + ʔ	t e p e + tɬ	t e p eː + t	t e p eː + t		t ɨ p eː + tɬ	?
+191	?		a j aː ʔ	a h m o					a m o
+191	a ʔ m oː		?	a h m o					a m o
+191	a ʔ m oː		a j aː ʔ	?					a m o
+191	a ʔ m oː		a j aː ʔ	a h m o					?
+79	?	i j + u h w i + j u		i h w i + tɬ				ɨ w ɨ	
+79	i h w i + tɬ	?		i h w i + tɬ				ɨ w ɨ	
+79	i h w i + tɬ	i j + u h w i + j u		?				ɨ w ɨ	
+79	i h w i + tɬ	i j + u h w i + j u		i h w i + tɬ				?	
+221	?		n e l w a + ʔ	n e l w a + tɬ		n e l w a + t		n e l w a + tɬ	n e l w a + j u + tɬ
+221	n e l w a + tɬ		?	n e l w a + tɬ		n e l w a + t		n e l w a + tɬ	n e l w a + j u + tɬ
+221	n e l w a + tɬ		n e l w a + ʔ	?		n e l w a + t		n e l w a + tɬ	n e l w a + j u + tɬ
+221	n e l w a + tɬ		n e l w a + ʔ	n e l w a + tɬ		?		n e l w a + tɬ	n e l w a + j u + tɬ
+221	n e l w a + tɬ		n e l w a + ʔ	n e l w a + tɬ		n e l w a + t		?	n e l w a + j u + tɬ
+221	n e l w a + tɬ		n e l w a + ʔ	n e l w a + tɬ		n e l w a + t		n e l w a + tɬ	?
+25	?		m i x + t i	m e x + tɬ i	m iː x + t i	m i x + t i		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		?	m e x + tɬ i	m iː x + t i	m i x + t i		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	?	m iː x + t i	m i x + t i		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	m e x + tɬ i	?	m i x + t i		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	m e x + tɬ i	m iː x + t i	?		m i x + tɬ ɨ	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	m e x + tɬ i	m iː x + t i	m i x + t i		?	m e x + tɬ iː
+25	m i x + tɬ i		m i x + t i	m e x + tɬ i	m iː x + t i	m i x + t i		m i x + tɬ ɨ	?
+105	?						k w a i + t		
+105	k w aː + tɬ						?		
+104		?	ts o n + t e k o n	ts o n + t e k o	ts o n + t e g o n	ts u n + t e k u m a + t		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	?	ts o n + t e k o	ts o n + t e g o n	ts u n + t e k u m a + t		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	?	ts o n + t e g o n	ts u n + t e k u m a + t		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	ts o n + t e k o	?	ts u n + t e k u m a + t		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	ts o n + t e k o	ts o n + t e g o n	?		k w a h	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	ts o n + t e k o	ts o n + t e g o n	ts u n + t e k u m a + t		?	ts o n + t e k o
+104		ts u n + t e k o n	ts o n + t e k o n	ts o n + t e k o	ts o n + t e g o n	ts u n + t e k u m a + t		k w a h	?
+182	?			k a m a + k					k a m a + k
+182	k a m + tɬ			?					k a m a + k
+182	k a m + tɬ			k a m a + k					?
+57			?		t e k s i s	t e k s i s + t i			
+57			t e k s i s		?	t e k s i s + t i			
+57			t e k s i s		t e k s i s	?			
+98	?		x o x o k + t i ʔ	x o x o k + t i k	x o x o k + t i k				x o x o k + t iː k
+98	x o x o k + t i k		?	x o x o k + t i k	x o x o k + t i k				x o x o k + t iː k
+98	x o x o k + t i k		x o x o k + t i ʔ	?	x o x o k + t i k				x o x o k + t iː k
+98	x o x o k + t i k		x o x o k + t i ʔ	x o x o k + t i k	?				x o x o k + t iː k
+98	x o x o k + t i k		x o x o k + t i ʔ	x o x o k + t i k	x o x o k + t i k				?
