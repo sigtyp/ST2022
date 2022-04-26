@@ -1,4 +1,4 @@
-# PRECOR-Transformer: a system to PREdic COgnate Reflexes
+# PRECOR-Transformer: a system to PREdict COgnate Reflexes
 
 The folder contains:
 * `run.py`, the file that can be used to train the transformer (`python run.py` or `python run.py --surprise`, if the training set is the surprise languages)
