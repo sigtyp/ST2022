@@ -155,8 +155,7 @@ class TransformerEncoder(layers.Layer):
 
     def call(self, inputs, mask=None):
         if mask is not None:
-            padding_mask = tf.cast(mask[:, tf.newaxis, tf.newaxis, :], 
-            													  dtype="int32")
+            padding_mask = tf.cast(mask[:, tf.newaxis, tf.newaxis, :], dtype="int32")
         attention_output = self.attention(
             query=inputs, value=inputs, key=inputs, attention_mask=padding_mask
         )
@@ -282,22 +281,17 @@ if __name__ == "__main__":
 
 	for per in percentages:
 		print("\n***Training for folder: '" + modality +"', percentage: " + per + "***\n")
-		path_train = sigtypst2022_path(path_reader).glob(
-												"*/training-{}.tsv".format(per))
-		path_test_x = sigtypst2022_path(path_reader).glob(
-													"*/test-{}.tsv".format(per))
-		path_test_y = sigtypst2022_path(path_reader).glob(
-											   "*/solutions-{}.tsv".format(per))
-		baseline = sigtypst2022_path(path_reader).glob(
-											   "*/result-{}.tsv".format(per))
+		path_train = sigtypst2022_path(path_reader).glob("*/training-{}.tsv".format(per))
+		path_test_x = sigtypst2022_path(path_reader).glob("*/test-{}.tsv".format(per))
+		path_test_y = sigtypst2022_path(path_reader).glob("*/solutions-{}.tsv".format(per))
+		baseline = sigtypst2022_path(path_reader).glob("*/result-{}.tsv".format(per))
 
 		list_files=list(zip(path_train, path_test_x, path_test_y, baseline))
 
 		for a1,b1,c1,d1 in list_files:
 			
 			training, testX, testY = open_file(a1), open_file(b1), open_file(c1)
-			max_training_x_seq_length=max([len(y)for x in 
-												  training for y in x.values()])
+			max_training_x_seq_length=max([len(y)for x in training for y in x.values()])
 
 			name_dir = os.path.split(os.path.split(a1)[0])[1]
 			
@@ -308,13 +302,11 @@ if __name__ == "__main__":
 			for NMB_CLMN in range(1, MAX_NMB_CLMN + 1):
 				print("\n\n***Training for languages in " + name_dir + \
 							      ", target column: " + str(NMB_CLMN) + "***\n")
-				training_texts, training_x_lang_names = create_training_x_y(
-				 											 training, NMB_CLMN)
+				training_texts, training_x_lang_names = create_training_x_y(training, NMB_CLMN)
 				train_x_texts = [pair[0] for pair in training_texts]
 				train_y_texts = [pair[1] for pair in training_texts]
 
-				max_training_x_seq_length = max([len(y) for x in 
-													 training_texts for y in x])
+				max_training_x_seq_length = max([len(y) for x in training_texts for y in x])
 				phonemes_x = [y.split(" ") for x in training_texts for y in x]
 				vocabulary_x = list(set([y for x in phonemes_x for y in x]))
 				char_size = len(vocabulary_x)
@@ -334,76 +326,51 @@ if __name__ == "__main__":
 				enc = OneHotEncoder(handle_unknown='ignore')
 				enc.fit(training_x_lang_names)
 				tensor_training_x_lang = enc.transform(training_x_lang_names).toarray()
-				tensor_training_x_lang = tensor_training_x_lang.reshape(
-										 tensor_training_x_lang.shape[0], 1,
-										 tensor_training_x_lang.shape[1])
-				tensor_training_x_lang = np.repeat(tensor_training_x_lang, 
-												   max_training_x_seq_length , 
-												                         axis=1)
+				tensor_training_x_lang = tensor_training_x_lang.reshape(tensor_training_x_lang.shape[0], 1,tensor_training_x_lang.shape[1])
+				tensor_training_x_lang = np.repeat(tensor_training_x_lang, max_training_x_seq_length, axis=1)
 				couple = list(zip(training_texts, tensor_training_x_lang))
 				random.shuffle(couple)
 				training_texts, tensor_training_x_lan = zip(*couple)
 
-				train_ds = make_dataset(training_texts, tensor_training_x_lang, 
-																   shuffle=True)
+				train_ds = make_dataset(training_texts, tensor_training_x_lang, shuffle=True)
 
-				test_x_texts, test_x_lang_names, test_cogid = create_test_x(testX, 
-																	   NMB_CLMN)
+				test_x_texts, test_x_lang_names, test_cogid = create_test_x(testX, NMB_CLMN)
 				test_y_texts = create_test_y(testY, NMB_CLMN, MAX_NMB_CLMN)
 				test_y_texts = ["$ " + x + " #" for x in test_y_texts]
 				test_texts = [(x, y) for x, y in zip(test_x_texts, test_y_texts)]
 				tensor_test_x_lang = enc.transform(test_x_lang_names).toarray()
-				tensor_test_x_lang = tensor_test_x_lang.reshape(
-									 tensor_test_x_lang.shape[0], 1,
-									 tensor_test_x_lang.shape[1])
-				tensor_test_x_lang = np.repeat(tensor_test_x_lang, 
-										     max_training_x_seq_length , axis=1)
+				tensor_test_x_lang = tensor_test_x_lang.reshape(tensor_test_x_lang.shape[0], 1,tensor_test_x_lang.shape[1])
+				tensor_test_x_lang = np.repeat(tensor_test_x_lang, max_training_x_seq_length , axis=1)
 
-				test_ds = make_dataset(test_texts, tensor_test_x_lang, 
-																  shuffle=False)
+				test_ds = make_dataset(test_texts, tensor_test_x_lang, shuffle=False)
 
 				# Model
 
-				encoder_inputs = keras.Input(shape=(None,), dtype="int64", 
-														  name="encoder_inputs")
-				x = PositionalEmbedding(max_training_x_seq_length, char_size, 
-													  embed_dim)(encoder_inputs)
-				encoder_outputs = TransformerEncoder(embed_dim, latent_dim, 
-																   num_heads)(x)
+				encoder_inputs = keras.Input(shape=(None,), dtype="int64", name="encoder_inputs")
+				x = PositionalEmbedding(max_training_x_seq_length, char_size, embed_dim)(encoder_inputs)
+				encoder_outputs = TransformerEncoder(embed_dim, latent_dim, num_heads)(x)
 				x = layers.Dropout(0.6)(x)
 				encoder = keras.Model(encoder_inputs, encoder_outputs)
 
-				decoder_inputs = keras.Input(shape=(None,), dtype="int64", 
-														  name="decoder_inputs")
-				encoded_seq_inputs = keras.Input(shape=(None, embed_dim), 
-													name="decoder_state_inputs")
-				x = PositionalEmbedding(max_training_x_seq_length, char_size, 
-													  embed_dim)(decoder_inputs)
-				x = TransformerDecoder(embed_dim, latent_dim, num_heads)(x, 
-															 encoded_seq_inputs)
+				decoder_inputs = keras.Input(shape=(None,), dtype="int64", name="decoder_inputs")
+				encoded_seq_inputs = keras.Input(shape=(None, embed_dim), name="decoder_state_inputs")
+				x = PositionalEmbedding(max_training_x_seq_length, char_size, embed_dim)(decoder_inputs)
+				x = TransformerDecoder(embed_dim, latent_dim, num_heads)(x, encoded_seq_inputs)
 				x = layers.Dropout(0.6)(x)
 				
-				languages_inputs = keras.Input(shape=(None, 
-					         tensor_training_x_lang.shape[2]), name="languages")
+				languages_inputs = keras.Input(shape=(None, tensor_training_x_lang.shape[2]), name="languages")
 				x = tf.keras.layers.concatenate([x, languages_inputs])
 
 				decoder_outputs = layers.Dense(char_size, activation="softmax")(x)
 				
-				decoder = keras.Model([decoder_inputs, encoded_seq_inputs, 
-					                         languages_inputs], decoder_outputs)
+				decoder = keras.Model([decoder_inputs, encoded_seq_inputs, languages_inputs], decoder_outputs)
 
-				decoder_outputs = decoder([decoder_inputs, encoder_outputs, 
-					                                          languages_inputs])
+				decoder_outputs = decoder([decoder_inputs, encoder_outputs, languages_inputs])
 				
-				transformer = keras.Model(
-				    [encoder_inputs, decoder_inputs, languages_inputs], 
-				                             decoder_outputs, name="transformer"
-				)
+				transformer = keras.Model([encoder_inputs, decoder_inputs, languages_inputs], decoder_outputs, name="transformer")
 
 				epochs = 200  # This should be at least 30 for convergence
-				callback = tf.keras.callbacks.EarlyStopping(monitor='val_loss', 
-					                                   restore_best_weights=True,
-					                                        patience=5)
+				callback = tf.keras.callbacks.EarlyStopping(monitor='val_loss', restore_best_weights=True, patience=5)
 
 				transformer.summary()
 				print("\n\n*** Target column number: " + \
@@ -411,18 +378,15 @@ if __name__ == "__main__":
 				transformer.compile(optimizer=keras.optimizers.RMSprop(learning_rate=0.001),
 				   loss="sparse_categorical_crossentropy", metrics=["accuracy"]
 				)
-				transformer.fit(train_ds, epochs=epochs, validation_data=test_ds, 
-															callbacks=callback,)
+				transformer.fit(train_ds, epochs=epochs, validation_data=test_ds, callbacks=callback,)
 				transformer.compile(optimizer=keras.optimizers.RMSprop(learning_rate=0.0001),
 				   loss="sparse_categorical_crossentropy", metrics=["accuracy"]
 				)
-				transformer.fit(train_ds, epochs=epochs, validation_data=test_ds, 
-															callbacks=callback,)
+				transformer.fit(train_ds, epochs=epochs, validation_data=test_ds, callbacks=callback,)
 
 				# decode
 				train_y_vocab = train_y_vectorization.get_vocabulary()
-				train_y_vocab_index_lookup = dict(zip(range(len(train_y_vocab)), 
-																 train_y_vocab))
+				train_y_vocab_index_lookup = dict(zip(range(len(train_y_vocab)), train_y_vocab))
 				max_decoded_sentence_length = max_training_x_seq_length
 
 				predicted_test2 = transformer.predict(test_ds)
@@ -439,10 +403,8 @@ if __name__ == "__main__":
 			print("\n")
 			print(hb)
 			print("\n")
-			os.makedirs(os.path.join(sigtypst2022_path(), 
-				     "systems", "PRECOR_transformer", modality, name_dir), exist_ok=True)
-			mypath = sigtypst2022_path("systems", "PRECOR_transformer", 
-				                 modality, name_dir, "result-{}.tsv".format(per))
+			os.makedirs(os.path.join(sigtypst2022_path(), "systems", "PRECOR_transformer", modality, name_dir), exist_ok=True)
+			mypath = sigtypst2022_path("systems", "PRECOR_transformer", modality, name_dir, "result-{}.tsv".format(per))
 			file = open(mypath, "w")
 			print(hb, file=file)
 			file.close()
