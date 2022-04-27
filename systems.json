@@ -5,11 +5,15 @@
   },
   "ceot-extalign-rf": {
     "team": "Tresoldi", 
-    "method": "Extaling-Best"
+    "method": "Extaling-RF"
   },
   "corpar-svm": {
     "team": "LingRex",
     "method": "CorPaR-SVM"
+  },
+  "baseline": {
+    "team": "LingRex",
+    "method": "CorPaR-Base"
   },
   "jaeger-prediction": {
     "team": "Jaeger",

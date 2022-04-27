@@ -19,8 +19,9 @@ from tabulate import tabulate
 import json
 from tqdm import tqdm as progressbar
 import math
+import statistics
 
-from matplotlib import pyplot as plt
+#from matplotlib import pyplot as plt
 
 
 def sigtypst2022_path(*comps):
@@ -424,7 +425,9 @@ def predict_words(ifile, pfile, ofile):
 
         if alms and target:
             out = bs.predict(current_languages, alms, target)
-            predictions[cogid][target] = out
+            predictions[cogid][target] = []
+            for k in out:
+                predictions[cogid][target] += k.split('.')
     write_cognate_file(bs.languages, predictions, ofile)
 
 
@@ -443,6 +446,8 @@ def compare_words(firstfile, secondfile, report=True):
                 entryA = first[key][language]
                 if " ".join(entryA):
                     entryB = last[key][language]
+                    if not entryB:
+                        entryB = (2 * len(entryA)) * ["Ø"]
                     almA, almB, _ = nw_align(entryA, entryB)
                     almsA += almA
                     almsB += almB
@@ -488,24 +493,33 @@ def compare_systems(
         datasets,
         systems,
         proportion,
+        partition="training"
         ):
     """
     Compare all systems and write to files.
     """
-    results = defaultdict({k: {"total": []} for k in systems})
-    for k, v in systems.items():
-        stm = "{0}-{1}".format(v["team"], v["method"])
+    results = {"{0}-{1}".format(k["team"], k["method"]): {"total": []} for k in systems.values()}
+    for system, vals in systems.items():
+        stm = "{0}-{1}".format(vals["team"], vals["method"])
         totals = []
         for dataset in datasets:
-            results[stm][dataset] = compare_words(
-                    data_path.joinpath(
-                        dataset,
-                        "solutions-{0}.tsv".format(proportion)),
-                    system_path.joinpath(
-                        dataset,
-                        "results-{0}.tsv".format(proportion)),
-                    report=False
-                    )[-1][1:]
+            try:
+                results[stm][dataset] = compare_words(
+                        data_path.joinpath(
+                            dataset,
+                            "solutions-{0:.2f}.tsv".format(proportion)),
+                        system_path.joinpath(
+                            system,
+                            partition,
+                            dataset,
+                            "result-{0:.2f}.tsv".format(proportion)),
+                        report=False
+                        )[-1][1:]
+            except FileNotFoundError:
+                print(
+                        "[i] missing results file {1}/{0}".format(
+                            dataset, system))
+                results[stm][dataset] = [0, 0, 0, 0]
             totals += [results[stm][dataset]]
         for i in range(4):
             results[stm]["total"] += [statistics.mean(
@@ -628,7 +642,8 @@ def main(*args):
     parser.add_argument(
             "--test-path",
             action="store",
-            default=None,
+            default=Path("systems/baseline"),
+            type=Path,
             help="Provide path to the test data for a given system"
             )
 
@@ -648,8 +663,16 @@ def main(*args):
     parser.add_argument(
             "--systempath",
             action="store",
-            default="systems",
+            default=Path("systems"),
+            type=Path,
             help="Path to the folder with the systems."
+            )
+
+    parser.add_argument(
+            "--partition",
+            action="store",
+            default="training",
+            help="Select partition to access the data in system comparison."
             )
 
 
@@ -663,11 +686,12 @@ def main(*args):
         with open(args.system_data) as f:
             SDATA = json.load(f)
         results = compare_systems(
-                sigtypst2022 / args.systempath,
-                sigtypst2022 / args.datapath,
+                sigtypst2022_path(args.systempath),
+                sigtypst2022_path(args.datapath),
                 DATASETS,
                 SDATA,
-                args.proportion)
+                args.proportion,
+                partition=args.partition)
         table = []
         for system, res in results.items():
             table += [[system] + res["total"]]
@@ -677,7 +701,7 @@ def main(*args):
                     headers=[
                         "DATASET", "ED", "ED (NORM)", 
                         "B-CUBED FS", "BLEU"],
-                    floatfmt=".2f"
+                    floatfmt=".4f"
                     )
                 )
                 
@@ -695,31 +719,24 @@ def main(*args):
 
     if args.predict:
         prop = "{0:.2f}".format(args.proportion)
-        if not args.all:
-            if not args.outfile:
-                args.outfile = Path(str(args.infile)[:-4]+"-out.tsv")
-            predict_words(args.infile, args.testfile, args.outfile)
-        elif args.all:
+        if args.all:
             for data, conditions in DATASETS.items():
                 print("[i] analyzing {0}".format(data))
                 predict_words(
                         args.datapath.joinpath(data, "training-"+prop+".tsv"),
                         args.datapath.joinpath(data, "test-"+prop+".tsv"),
-                        args.datapath.joinpath(data, "result-"+prop+".tsv")
+                        args.systempath.joinpath(
+                            "baseline",
+                            args.partition, data, "result-"+prop+".tsv")
                         )
     if args.evaluate:
         prop = "{0:.2f}".format(args.proportion)
         if args.all:
-            if not args.test_path:
-                pth = args.datapath
-            else:
-                pth = Path(args.test_path)
             results = []
             for data, conditions in DATASETS.items():
                 results += [compare_words(
-                        pth.joinpath(data, "result-"+prop+".tsv"),
-                        args.datapath.joinpath(data,
-                            "solutions-"+prop+".tsv"),
+                        args.datapath.joinpath(data, "solutions-"+prop+".tsv"),
+                        args.test_path.joinpath(args.partition, data, "result-"+prop+".tsv"),
                         report=False)[-1]]
                 results[-1][0] = data
             print(tabulate(sorted(results), headers=[

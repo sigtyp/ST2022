@@ -99,7 +99,7 @@ We offer a rather straightforward routine to check your results against the solu
 For the development data, for example, you can type: 
 
 ```
-$ st2022 --compare --prediction-file=data/allenbai/result-0.20.tsv --solution-file=data/allenbai/solutions-0.20.tsv
+$ st2022 --compare --prediction-file=systems/baseline/training/allenbai/result-0.20.tsv --solution-file=data/allenbai/solutions-0.20.tsv
 ```
 
 This will yield the following output:
@@ -108,21 +108,21 @@ This will yield the following output:
 Language       ED    ED (Normalized)    B-Cubed FS    BLEU
 ----------  -----  -----------------  ------------  ------
 Eryuan      0.325              0.107         0.857   0.835
-Heqing      0.701              0.223         0.749   0.682
+Heqing      0.691              0.221         0.751   0.685
 Jianchuan   0.345              0.115         0.835   0.828
-Lanping     1.067              0.338         0.629   0.522
+Lanping     1.067              0.338         0.628   0.523
 Luobenzhuo  1.701              0.558         0.468   0.321
 Qiliqiao    0.526              0.166         0.782   0.753
 Xiangyun    0.670              0.219         0.715   0.685
 Yunlong     0.541              0.180         0.773   0.749
 Zhoucheng   0.325              0.106         0.856   0.842
-TOTAL       0.689              0.224         0.741   0.691
+TOTAL       0.688              0.223         0.741   0.691
 ```
 
 For the surprise data, you can type accordingly:
 
 ```
-$ st2022 --compare --prediction-file=data-surprise/wangbai/result-0.10.tsv --solution-file=data-surprise/wangbai/solutions-0.10.tsv
+$ st2022 --compare --prediction-file=systems/baseline/surprise/wangbai/result-0.10.tsv --solution-file=data-surprise/wangbai/solutions-0.10.tsv
 ```
 This then yields the following output:
 
@@ -132,14 +132,15 @@ Language       ED    ED (Normalized)    B-Cubed FS    BLEU
 Dashi       0.818              0.247         0.759   0.626
 Ega         0.515              0.153         0.810   0.769
 Enqi        0.530              0.158         0.818   0.764
-Gongxing    0.818              0.244         0.789   0.654
+Gongxing    0.773              0.232         0.810   0.665
 Jinman      0.758              0.237         0.763   0.640
 Jinxing     0.470              0.137         0.839   0.788
 Mazhelong   0.545              0.162         0.815   0.762
-ProtoBai    0.636              0.161         0.820   0.757
+ProtoBai    0.652              0.158         0.809   0.771
 Tuoluo      0.576              0.159         0.810   0.763
 Zhoucheng   0.561              0.183         0.825   0.734
-TOTAL       0.623              0.184         0.805   0.726
+TOTAL       0.620              0.183         0.806   0.728
+
 ```
 
 The column ED yields the un-normalized edit distance between prediction and attested word or morpheme. The column ED (Normalized) is the normalized score, and the column B-Cubed FS provides B-Cubed scores, following the suggestion of List (2019b) for computing B-Cubed scores instead of edit distances, which rank between 1 (perfect agreement) and 0. The column BLEU provides BLEU scores (Papineni et al. 2002) in a new implementation that was tested to yield the scores as the NLTK implementation (`nltk.translation.sentence_bleu`).
@@ -155,22 +156,22 @@ The result here will summarize the scores per dataset:
 ```
 DATASET                       ED    ED (NORM)    B-CUBED FS    BLEU
 -------------------------  -----  -----------  ------------  ------
-abrahammonpa               0.550        0.117         0.909   0.801
-allenbai                   0.721        0.235         0.765   0.678
-backstromnorthernpakistan  0.891        0.180         0.858   0.720
-castrosui                  0.161        0.040         0.951   0.935
+abrahammonpa               0.553        0.117         0.904   0.805
+allenbai                   0.721        0.235         0.766   0.678
+backstromnorthernpakistan  0.891        0.180         0.856   0.717
+castrosui                  0.161        0.040         0.951   0.936
 davletshinaztecan          2.074        0.331         0.644   0.520
-felekesemitic              1.462        0.274         0.693   0.593
-hantganbangime             1.311        0.326         0.621   0.540
-hattorijaponic             0.936        0.198         0.789   0.719
-listsamplesize             3.405        0.640         0.405   0.210
-mannburmish                1.990        0.525         0.512   0.315
+felekesemitic              1.460        0.273         0.692   0.594
+hantganbangime             1.312        0.326         0.624   0.537
+hattorijaponic             0.914        0.194         0.799   0.725
+listsamplesize             3.329        0.621         0.411   0.223
+mannburmish                1.983        0.519         0.511   0.320
 ```
 
 Accordingly, for the surprise data, you type:
 
 ```
-$ st2022 --evaluate --proportion=0.1 --all --datapath=data-surprise --datasets=datasets-surprise.json
+$ st2022 --evaluate --proportion=0.1 --all --partition=surprise --datapath=data-surprise --datasets=datasets-surprise.json
 ```
 
 And the resulting table looks like the following one.
@@ -178,23 +179,23 @@ And the resulting table looks like the following one.
 ```
 DATASET                 ED    ED (NORM)    B-CUBED FS    BLEU
 -------------------  -----  -----------  ------------  ------
-bantubvd             1.130        0.261         0.784   0.609
-beidazihui           1.100        0.301         0.728   0.578
-birchallchapacuran   1.627        0.313         0.649   0.533
-bodtkhobwa           0.488        0.202         0.757   0.722
-bremerberta          1.725        0.326         0.719   0.501
-deepadungpalaung     1.075        0.420         0.760   0.441
-hillburmish          1.205        0.329         0.651   0.558
-kesslersignificance  2.773        0.704         0.492   0.162
-luangthongkumkaren   0.378        0.102         0.910   0.837
-wangbai              0.623        0.184         0.805   0.726
+bantubvd             1.120        0.255         0.788   0.619
+beidazihui           1.102        0.301         0.730   0.582
+birchallchapacuran   1.628        0.311         0.648   0.541
+bodtkhobwa           0.492        0.203         0.757   0.721
+bremerberta          1.725        0.317         0.705   0.510
+deepadungpalaung     1.075        0.420         0.761   0.442
+hillburmish          1.183        0.322         0.656   0.566
+kesslersignificance  2.740        0.704         0.471   0.166
+luangthongkumkaren   0.378        0.102         0.911   0.841
+wangbai              0.620        0.183         0.805   0.729
 ```
 
 You can also evoke the evaluation by using the `sigtypst2022` package directly.
 
 ```python
 >>> from sigtypst2022 import compare_words
->>> compare_words("data/allenbai/result-0.20.tsv", "data/allenbai/solutions-0.20.tsv", report=False)
+>>> compare_words("systems/baseline/training/allenbai/result-0.20.tsv", "data/allenbai/solutions-0.20.tsv", report=False)
 [['Eryuan', 0.520618556701031, 0.16967353951890018, 0.8030411631412933],
  ['Heqing', 0.9587628865979382, 0.30541237113402053, 0.721044304182591],
  ['Jianchuan', 0.7628865979381443, 0.2512886597938145, 0.7685757306818528],
