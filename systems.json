@@ -1,0 +1,38 @@
+{
+  "ceot-extalign-best": {
+    "team": "Tresoldi",
+    "method": "Extalign-Best"
+  },
+  "ceot-extalign-rf": {
+    "team": "Tresoldi", 
+    "method": "Extaling-Best"
+  },
+  "corpar-svm": {
+    "team": "LingRex",
+    "method": "CorPaR-SVM"
+  },
+  "jaeger-prediction": {
+    "team": "Jaeger",
+    "method": "+++"
+  },
+  "mockingbird-i1": {
+    "team": "Mockingbird",
+    "method": "I1"
+  },
+  "mockingbird-n1-a": {
+    "team": "Mockingbird",
+    "method": "N1-A"
+  },
+  "mockingbird-n1-b": {
+    "team": "Mockingbird",
+    "method": "N1-B"
+  },
+  "mockingbird-n1-c": {
+    "team": "Mockingbird",
+    "method": "N1-C"
+  },
+  "PRECOR_transformer": {
+    "team": "PRECOR",
+    "method": "Transformer"
+  }
+}

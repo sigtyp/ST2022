@@ -9,7 +9,6 @@ import argparse
 from collections import defaultdict
 import random
 import networkx as nx
-from networkx.algorithms.clique import find_cliques
 from lingpy.align.sca import get_consensus
 from lingpy.sequence.sound_classes import prosodic_string, class2tokens
 from lingpy.align.multiple import Multiple
@@ -20,6 +19,8 @@ from tabulate import tabulate
 import json
 from tqdm import tqdm as progressbar
 import math
+
+from matplotlib import pyplot as plt
 
 
 def sigtypst2022_path(*comps):
@@ -478,7 +479,40 @@ def compare_words(firstfile, secondfile, report=True):
                         "Language", "ED", "ED (Normalized)", 
                         "B-Cubed FS", "BLEU"], floatfmt=".3f"))
     return all_scores
-    
+
+
+
+def compare_systems(
+        system_path,
+        data_path,
+        datasets,
+        systems,
+        proportion,
+        ):
+    """
+    Compare all systems and write to files.
+    """
+    results = defaultdict({k: {"total": []} for k in systems})
+    for k, v in systems.items():
+        stm = "{0}-{1}".format(v["team"], v["method"])
+        totals = []
+        for dataset in datasets:
+            results[stm][dataset] = compare_words(
+                    data_path.joinpath(
+                        dataset,
+                        "solutions-{0}.tsv".format(proportion)),
+                    system_path.joinpath(
+                        dataset,
+                        "results-{0}.tsv".format(proportion)),
+                    report=False
+                    )[-1][1:]
+            totals += [results[stm][dataset]]
+        for i in range(4):
+            results[stm]["total"] += [statistics.mean(
+                [row[i] for row in totals])]
+    return results
+            
+
 
 def main(*args):
 
@@ -598,12 +632,55 @@ def main(*args):
             help="Provide path to the test data for a given system"
             )
 
+    parser.add_argument(
+            "--compare-systems",
+            action="store_true",
+            default=None,
+            help="Compare all systems of the shared task."
+            )
+
+    parser.add_argument(
+            "--system-data",
+            action="store",
+            default="systems.json",
+            help="Path to the file that contains information on the systems"
+            )
+    parser.add_argument(
+            "--systempath",
+            action="store",
+            default="systems",
+            help="Path to the folder with the systems."
+            )
+
+
     args = parser.parse_args(*args)
     if args.seed:
         random.seed(1234)
-    
     with open(args.datasets) as f:
         DATASETS = json.load(f)
+
+    if args.compare_systems:
+        with open(args.system_data) as f:
+            SDATA = json.load(f)
+        results = compare_systems(
+                sigtypst2022 / args.systempath,
+                sigtypst2022 / args.datapath,
+                DATASETS,
+                SDATA,
+                args.proportion)
+        table = []
+        for system, res in results.items():
+            table += [[system] + res["total"]]
+        print(
+                tabulate(
+                    table, 
+                    headers=[
+                        "DATASET", "ED", "ED (NORM)", 
+                        "B-CUBED FS", "BLEU"],
+                    floatfmt=".2f"
+                    )
+                )
+                
 
 
     if args.download:
