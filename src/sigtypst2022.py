@@ -445,7 +445,12 @@ def compare_words(firstfile, secondfile, report=True):
             if language in first[key]:
                 entryA = first[key][language]
                 if " ".join(entryA):
-                    entryB = last[key][language]
+                    try:
+                        entryB = last[key][language]
+                    except KeyError:
+                        print("Missing entry {0} / {1} / {2}".format(
+                            key, language, secondfile))
+                        entryB = ""
                     if not entryB:
                         entryB = (2 * len(entryA)) * ["Ø"]
                     almA, almB, _ = nw_align(entryA, entryB)

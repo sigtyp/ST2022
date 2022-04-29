@@ -44,6 +44,11 @@
     "method": "N1-C",
     "color": "Purple"
   },
+  "mockingbird-n2": {
+    "team": "Mockingbird",
+    "method": "N2",
+    "color": "Purple"
+  },
   "PRECOR_transformer": {
     "team": "PRECOR",
     "method": "Transformer",

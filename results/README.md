@@ -36,6 +36,7 @@ Mockingbird-I1          1.0528       0.2255        0.7447  0.6805
 Mockingbird-N1-A        0.9727       0.2135        0.6653  0.5989
 Mockingbird-N1-B        1.0266       0.2257        0.6544  0.5833
 Mockingbird-N1-C        1.0362       0.2283        0.6443  0.5821
+Mockingbird-N2          1.3686       0.2894        0.6823  0.6000
 PRECOR-Transformer      1.4059       0.3069        0.6666  0.5826
 Tresoldi-Extalign-Best  1.1140       0.2487        0.7382  0.6485
 Tresoldi-Extaling-RF    1.1469       0.2573        0.7313  0.6418
@@ -48,16 +49,17 @@ Tresoldi-Extaling-RF    1.1469       0.2573        0.7313  0.6418
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
 ----------------------  ------  -----------  ------------  ------
-Baseline-Baseline       1.4626       0.3128        0.6525  0.5698
-Baseline-Baseline-SVM   1.3959       0.3070        0.6534  0.5818
-Jaeger-Julia            1.3194       0.2894        0.6879  0.6055
-Mockingbird-I1          1.1297       0.2501        0.6902  0.6498
+Baseline-Baseline       1.3857       0.2988        0.6735  0.5876
+Baseline-Baseline-SVM   1.2190       0.2654        0.6982  0.6289
+Jaeger-Julia            1.2842       0.2831        0.7066  0.6130
+Mockingbird-I1          1.0966       0.2382        0.7082  0.6661
 Mockingbird-N1-A        0.0000       0.0000        0.0000  0.0000
 Mockingbird-N1-B        0.0000       0.0000        0.0000  0.0000
 Mockingbird-N1-C        0.0000       0.0000        0.0000  0.0000
-PRECOR-Transformer      1.6964       0.3719        0.5649  0.5130
-Tresoldi-Extalign-Best  1.3493       0.3066        0.6538  0.5795
-Tresoldi-Extaling-RF    1.3607       0.3118        0.6499  0.5710
+Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
+PRECOR-Transformer      1.5496       0.3378        0.6069  0.5503
+Tresoldi-Extalign-Best  1.2403       0.2770        0.6862  0.6104
+Tresoldi-Extaling-RF    1.2254       0.2822        0.6883  0.6068
 ```
 
 ![0.20](training-0.20.png)
@@ -74,6 +76,7 @@ Mockingbird-I1          1.1297       0.2501        0.6902  0.6498
 Mockingbird-N1-A        0.0000       0.0000        0.0000  0.0000
 Mockingbird-N1-B        0.0000       0.0000        0.0000  0.0000
 Mockingbird-N1-C        0.0000       0.0000        0.0000  0.0000
+Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 PRECOR-Transformer      1.6964       0.3719        0.5649  0.5130
 Tresoldi-Extalign-Best  1.3493       0.3066        0.6538  0.5795
 Tresoldi-Extaling-RF    1.3607       0.3118        0.6499  0.5710
@@ -93,6 +96,7 @@ Mockingbird-I1          1.2121       0.2693        0.6686  0.6240
 Mockingbird-N1-A        0.0000       0.0000        0.0000  0.0000
 Mockingbird-N1-B        0.0000       0.0000        0.0000  0.0000
 Mockingbird-N1-C        0.0000       0.0000        0.0000  0.0000
+Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 PRECOR-Transformer      1.8622       0.4132        0.5229  0.4704
 Tresoldi-Extalign-Best  1.5431       0.3478        0.6129  0.5286
 Tresoldi-Extaling-RF    1.5641       0.3572        0.6070  0.5156
@@ -112,6 +116,7 @@ Mockingbird-I1          1.4034       0.3088        0.6307  0.5787
 Mockingbird-N1-A        1.3301       0.2859        0.5492  0.5053
 Mockingbird-N1-B        1.3407       0.2909        0.5400  0.5002
 Mockingbird-N1-C        1.3515       0.2986        0.5308  0.4918
+Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 PRECOR-Transformer      2.1331       0.4654        0.4730  0.4110
 Tresoldi-Extalign-Best  1.8577       0.4123        0.5552  0.4539
 Tresoldi-Extaling-RF    1.8933       0.4230        0.5437  0.4398
@@ -131,6 +136,7 @@ Mockingbird-I1          0.9201       0.2431        0.7673  0.6633
 Mockingbird-N1-A        1.0223       0.2568        0.7604  0.6479
 Mockingbird-N1-B        1.0437       0.2625        0.7572  0.6398
 Mockingbird-N1-C        1.1263       0.2867        0.7302  0.6115
+Mockingbird-N2          1.2095       0.3135        0.7054  0.5744
 PRECOR-Transformer      1.3506       0.3690        0.6571  0.5147
 Tresoldi-Extalign-Best  0.9894       0.2621        0.7615  0.6418
 Tresoldi-Extaling-RF    1.0377       0.2763        0.7475  0.6243
@@ -150,6 +156,7 @@ Mockingbird-I1          1.0413       0.2648        0.7120  0.6326
 Mockingbird-N1-A        1.1512       0.2825        0.7011  0.6138
 Mockingbird-N1-B        1.1726       0.2901        0.6910  0.6054
 Mockingbird-N1-C        1.2196       0.3051        0.6669  0.5841
+Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 PRECOR-Transformer      1.5915       0.4148        0.5661  0.4598
 Tresoldi-Extalign-Best  1.1685       0.3006        0.6908  0.5886
 Tresoldi-Extaling-RF    1.2208       0.3175        0.6798  0.5709
@@ -169,6 +176,7 @@ Mockingbird-I1          1.1762       0.2899        0.6717  0.6059
 Mockingbird-N1-A        1.2565       0.3119        0.6557  0.5779
 Mockingbird-N1-B        1.2712       0.3103        0.6531  0.5792
 Mockingbird-N1-C        1.3009       0.3215        0.6343  0.5636
+Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 PRECOR-Transformer      1.7683       0.4487        0.5214  0.4213
 Tresoldi-Extalign-Best  1.3759       0.3412        0.6439  0.5445
 Tresoldi-Extaling-RF    1.4038       0.3525        0.6331  0.5286
@@ -187,6 +195,7 @@ Mockingbird-I1          1.2725       0.3162        0.6428  0.5724
 Mockingbird-N1-A        1.4542       0.3521        0.6294  0.5293
 Mockingbird-N1-B        1.3618       0.3349        0.6212  0.5466
 Mockingbird-N1-C        1.4353       0.3547        0.5999  0.5228
+Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 PRECOR-Transformer      1.9148       0.4878        0.4758  0.3810
 Tresoldi-Extalign-Best  1.5362       0.3836        0.5983  0.4929
 Tresoldi-Extaling-RF    1.5695       0.3960        0.5805  0.4773
@@ -206,6 +215,7 @@ Mockingbird-I1          1.4170       0.3518        0.6050  0.5337
 Mockingbird-N1-A        1.5527       0.3800        0.5959  0.4934
 Mockingbird-N1-B        1.5066       0.3734        0.5864  0.4989
 Mockingbird-N1-C        1.5818       0.3950        0.5610  0.4749
+Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 PRECOR-Transformer      2.1210       0.5377        0.4295  0.3349
 Tresoldi-Extalign-Best  1.7830       0.4372        0.5438  0.4375
 Tresoldi-Extaling-RF    1.8434       0.4576        0.5194  0.4128
