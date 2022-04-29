@@ -21,7 +21,7 @@ from tqdm import tqdm as progressbar
 import math
 import statistics
 
-#from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt
 
 
 def sigtypst2022_path(*comps):
@@ -501,6 +501,7 @@ def compare_systems(
     results = {"{0}-{1}".format(k["team"], k["method"]): {"total": []} for k in systems.values()}
     for system, vals in systems.items():
         stm = "{0}-{1}".format(vals["team"], vals["method"])
+        results[stm]["color"] = vals["color"]
         totals = []
         for dataset in datasets:
             try:
@@ -693,13 +694,44 @@ def main(*args):
                 args.proportion,
                 partition=args.partition)
         table = []
-        for system, res in results.items():
+        fig, axs = plt.subplots(nrows=2, ncols=2)
+        i2x = {
+                0: ((0, 0), 0, 1.75), 
+                1: ((0, 1), 0, 0.5), 
+                2: ((1, 0), 0, 1), 
+                3: ((1, 1), 0, 1)}
+        
+        colors, labels = [], []
+        for system, res in sorted(results.items(), key=lambda x: x[0]):
             table += [[system] + res["total"]]
+            colors += [res["color"]]
+            labels += [" ".join(system.split("-")[1:])]
+        
+        methods = ["ED", "ED (NORM)", "B-Cubed FS", "BLEU"]
+        for i in range(4):
+            row = [x[i+1] for x in table]
+            axs[i2x[i][0]].bar(
+                    labels, row, color=colors
+                    )
+            axs[i2x[i][0]].set_title(methods[i])
+            axs[i2x[i][0]].set_ylim(i2x[i][1], i2x[i][2])
+            axs[i2x[i][0]].xaxis.set_ticks(labels)
+            axs[i2x[i][0]].set_xticklabels(labels, rotation=90, size=8)
+        plt.subplots_adjust(
+                left=0.1, bottom=0.1, right=0.9, top=0.9,
+                wspace=0.6, hspace=0.8)
+        plt.savefig(
+                sigtypst2022_path(
+                    "plots", 
+                    "{0}-{1:.2f}.pdf".format(
+                        args.partition,
+                        args.proportion)),
+                bbox_inches="tight")
         print(
                 tabulate(
                     table, 
                     headers=[
-                        "DATASET", "ED", "ED (NORM)", 
+                        "SYSTEM", "ED", "ED (NORM)", 
                         "B-CUBED FS", "BLEU"],
                     floatfmt=".4f"
                     )
@@ -731,8 +763,11 @@ def main(*args):
                         )
     if args.evaluate:
         prop = "{0:.2f}".format(args.proportion)
+        fig = plt.figure()
+        x = 1
         if args.all:
             results = []
+
             for data, conditions in DATASETS.items():
                 results += [compare_words(
                         args.datapath.joinpath(data, "solutions-"+prop+".tsv"),
@@ -741,6 +776,8 @@ def main(*args):
                 results[-1][0] = data
             print(tabulate(sorted(results), headers=[
                 "DATASET", "ED", "ED (NORM)", "B-CUBED FS", "BLEU"], floatfmt=".3f"))
+            plot = fig.add_subplot()
+
 
 
     if args.compare:

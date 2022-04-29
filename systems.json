@@ -1,42 +1,52 @@
 {
   "ceot-extalign-best": {
     "team": "Tresoldi",
-    "method": "Extalign-Best"
+    "method": "Extalign-Best",
+    "color": "DarkOrange"
   },
   "ceot-extalign-rf": {
     "team": "Tresoldi", 
-    "method": "Extaling-RF"
+    "method": "Extaling-RF",
+    "color": "DarkOrange"
   },
   "corpar-svm": {
-    "team": "LingRex",
-    "method": "CorPaR-SVM"
+    "team": "Baseline",
+    "method": "Baseline-SVM",
+    "color": "CornflowerBlue"
   },
   "baseline": {
-    "team": "LingRex",
-    "method": "CorPaR-Base"
+    "team": "Baseline",
+    "method": "Baseline",
+    "color": "CornflowerBlue"
   },
   "jaeger-prediction": {
     "team": "Jaeger",
-    "method": "+++"
+    "method": "Julia",
+    "color": "Crimson"
   },
   "mockingbird-i1": {
     "team": "Mockingbird",
-    "method": "I1"
+    "method": "I1",
+    "color": "Purple"
   },
   "mockingbird-n1-a": {
     "team": "Mockingbird",
-    "method": "N1-A"
+    "method": "N1-A",
+    "color": "Purple"
   },
   "mockingbird-n1-b": {
     "team": "Mockingbird",
-    "method": "N1-B"
+    "method": "N1-B",
+    "color": "Purple"
   },
   "mockingbird-n1-c": {
     "team": "Mockingbird",
-    "method": "N1-C"
+    "method": "N1-C",
+    "color": "Purple"
   },
   "PRECOR_transformer": {
     "team": "PRECOR",
-    "method": "Transformer"
+    "method": "Transformer",
+    "color": "DarkGreen"
   }
 }
