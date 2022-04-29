@@ -16,7 +16,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 92-1	m a k a								
 103-1	m aː								
 106-1	k a k i								
-138-1	n e ʔ w aː.+.tɬ								
+138-1	n e ʔ w aː + tɬ								
 139-1	m e k + t i a								
 142-1	m a t i								
 145-1	m o + t eː k a								
@@ -41,7 +41,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 103-2		m o							
 106-2		k a k i							
 138-2		n e h							
-139-2		m i k + t i -.h							
+139-2		m i k + t i - h							
 142-2		m a t i							
 145-2		m u + t e k a							
 176-2		t aː k a + t							
@@ -78,7 +78,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 24-4				i ts t e					
 32-4				m i k i					
 51-4				o n + i					
-52-4				w a k + k o k.i					
+52-4				w a k + k o k i					
 53-4				n a k a ts					
 54-4				tɬ a l i					
 55-4				k w a					
@@ -91,7 +91,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 138-4				n e h a					
 139-4				m i k + t i a					
 142-4				m a t i					
-145-4				m o + t e.j k a					
+145-4				m o + t e j k a					
 176-4				tɬ a ts e + tɬ					
 179-4				n a k a + tɬ					
 180-4				m e ts + tɬ i					
@@ -143,12 +143,12 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 176-6						aː k a +			
 179-6						n a k a + t			
 180-6						m eː p + t i			
-1-7							n o tʃ a.n		
+1-7							n o tʃ a n		
 2-7							n e s + i		
 8-7							w o j		
-16-7							o s + t a.n		
+16-7							o s + t a n		
 24-7							i s t		
-32-7							m a.n k i		
+32-7							m a n k i		
 51-7							o n + i		
 52-7							w a k +		
 53-7							n a k a s		
@@ -161,12 +161,12 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 103-7							m a		
 106-7							k e k i		
 138-7							n e e		
-139-7							m a.n k + t a.n		
+139-7							m a n k + t a n		
 142-7							m a t i		
 145-7							m o + t e k a		
 176-7							t a k a + t		
 179-7							n a k a + t		
-180-7							m e ts + t a.n		
+180-7							m e ts + t a n		
 1-8								o tʃ ɨ	
 2-8								a n ə ts tɬ ɨ	
 8-8								ə j	

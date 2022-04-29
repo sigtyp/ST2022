@@ -188,7 +188,10 @@ if __name__ == "__main__":
 
                 if alms and target:
                     out = clf.predict(current_languages, alms, target)
-                    predictions[cogid][target] = out
+                    pred = []
+                    for s in out:
+                        pred += s.split(".")
+                    predictions[cogid][target] = pred
             
             # write data to file
             write_cognate_file(

@@ -9,7 +9,6 @@ import argparse
 from collections import defaultdict
 import random
 import networkx as nx
-from networkx.algorithms.clique import find_cliques
 from lingpy.align.sca import get_consensus
 from lingpy.sequence.sound_classes import prosodic_string, class2tokens
 from lingpy.align.multiple import Multiple
@@ -20,6 +19,9 @@ from tabulate import tabulate
 import json
 from tqdm import tqdm as progressbar
 import math
+import statistics
+
+from matplotlib import pyplot as plt
 
 
 def sigtypst2022_path(*comps):
@@ -423,7 +425,9 @@ def predict_words(ifile, pfile, ofile):
 
         if alms and target:
             out = bs.predict(current_languages, alms, target)
-            predictions[cogid][target] = out
+            predictions[cogid][target] = []
+            for k in out:
+                predictions[cogid][target] += k.split('.')
     write_cognate_file(bs.languages, predictions, ofile)
 
 
@@ -441,7 +445,14 @@ def compare_words(firstfile, secondfile, report=True):
             if language in first[key]:
                 entryA = first[key][language]
                 if " ".join(entryA):
-                    entryB = last[key][language]
+                    try:
+                        entryB = last[key][language]
+                    except KeyError:
+                        print("Missing entry {0} / {1} / {2}".format(
+                            key, language, secondfile))
+                        entryB = ""
+                    if not entryB:
+                        entryB = (2 * len(entryA)) * ["Ø"]
                     almA, almB, _ = nw_align(entryA, entryB)
                     almsA += almA
                     almsB += almB
@@ -478,7 +489,50 @@ def compare_words(firstfile, secondfile, report=True):
                         "Language", "ED", "ED (Normalized)", 
                         "B-Cubed FS", "BLEU"], floatfmt=".3f"))
     return all_scores
-    
+
+
+
+def compare_systems(
+        system_path,
+        data_path,
+        datasets,
+        systems,
+        proportion,
+        partition="training"
+        ):
+    """
+    Compare all systems and write to files.
+    """
+    results = {"{0}-{1}".format(k["team"], k["method"]): {"total": []} for k in systems.values()}
+    for system, vals in systems.items():
+        stm = "{0}-{1}".format(vals["team"], vals["method"])
+        results[stm]["color"] = vals["color"]
+        totals = []
+        for dataset in datasets:
+            try:
+                results[stm][dataset] = compare_words(
+                        data_path.joinpath(
+                            dataset,
+                            "solutions-{0:.2f}.tsv".format(proportion)),
+                        system_path.joinpath(
+                            system,
+                            partition,
+                            dataset,
+                            "result-{0:.2f}.tsv".format(proportion)),
+                        report=False
+                        )[-1][1:]
+            except FileNotFoundError:
+                print(
+                        "[i] missing results file {1}/{0}".format(
+                            dataset, system))
+                results[stm][dataset] = [0, 0, 0, 0]
+            totals += [results[stm][dataset]]
+        for i in range(4):
+            results[stm]["total"] += [statistics.mean(
+                [row[i] for row in totals])]
+    return results
+            
+
 
 def main(*args):
 
@@ -594,16 +648,129 @@ def main(*args):
     parser.add_argument(
             "--test-path",
             action="store",
-            default=None,
+            default=Path("systems/baseline"),
+            type=Path,
             help="Provide path to the test data for a given system"
             )
+
+    parser.add_argument(
+            "--compare-systems",
+            action="store_true",
+            default=None,
+            help="Compare all systems of the shared task."
+            )
+
+    parser.add_argument(
+            "--system-data",
+            action="store",
+            default="systems.json",
+            help="Path to the file that contains information on the systems"
+            )
+    parser.add_argument(
+            "--systempath",
+            action="store",
+            default=Path("systems"),
+            type=Path,
+            help="Path to the folder with the systems."
+            )
+
+    parser.add_argument(
+            "--partition",
+            action="store",
+            default="training",
+            help="Select partition to access the data in system comparison."
+            )
+
 
     args = parser.parse_args(*args)
     if args.seed:
         random.seed(1234)
-    
     with open(args.datasets) as f:
         DATASETS = json.load(f)
+
+    if args.compare_systems:
+        with open(args.system_data) as f:
+            SDATA = json.load(f)
+        results = compare_systems(
+                sigtypst2022_path(args.systempath),
+                sigtypst2022_path(args.datapath),
+                DATASETS,
+                SDATA,
+                args.proportion,
+                partition=args.partition)
+        table = []
+        fig, axs = plt.subplots(nrows=2, ncols=2)
+        i2x = {
+                0: ((0, 0), 0, 1.75), 
+                1: ((0, 1), 0, 0.5), 
+                2: ((1, 0), 0, 1), 
+                3: ((1, 1), 0, 1)}
+        
+        colors, labels = [], []
+        for system, res in sorted(results.items(), key=lambda x: x[0]):
+            table += [[system] + res["total"]]
+            colors += [res["color"]]
+            labels += [" ".join(system.split("-")[1:])]
+        
+        methods = ["ED", "ED (NORM)", "B-Cubed FS", "BLEU"]
+        for i in range(4):
+            row = [x[i+1] for x in table]
+            axs[i2x[i][0]].bar(
+                    labels, row, color=colors
+                    )
+            axs[i2x[i][0]].set_title(methods[i])
+            axs[i2x[i][0]].set_ylim(i2x[i][1], i2x[i][2])
+            axs[i2x[i][0]].xaxis.set_ticks(labels)
+            axs[i2x[i][0]].set_xticklabels(labels, rotation=90, size=8)
+        plt.subplots_adjust(
+                left=0.1, bottom=0.1, right=0.9, top=0.9,
+                wspace=0.6, hspace=0.8)
+        plt.savefig(
+                sigtypst2022_path(
+                    "results", 
+                    "{0}-{1:.2f}.pdf".format(
+                        args.partition,
+                        args.proportion)),
+                bbox_inches="tight")
+        plt.savefig(
+                sigtypst2022_path(
+                    "results", 
+                    "{0}-{1:.2f}.png".format(
+                        args.partition,
+                        args.proportion)),
+                bbox_inches="tight")
+        print(
+                tabulate(
+                    table, 
+                    headers=["SYSTEM"]+methods,
+                    floatfmt=".4f"
+                    )
+                )
+        with open(sigtypst2022_path("results", "results-{0}-{1:.2f}.md".format(
+            args.partition,
+            args.proportion)), "w") as f:
+            f.write("# Results for Partition `{0}` and Proportion `{1:.2f}`\n\n".format(
+                args.partition,
+                args.proportion))
+            f.write("## General Results\n\n")
+            f.write(tabulate(table, headers=["SYSTEM"]+methods, floatfmt=".4f",
+                tablefmt="pipe"))
+            f.write("\n\n")
+            for ds in DATASETS:
+                table = []
+                for system, res in sorted(results.items(), key=lambda x: x[0]):
+                    table += [[system] + res[ds]]
+                f.write("## Results for Dataset `{0}`\n\n".format(ds))
+                f.write(tabulate(table, headers=["SYSTEM"]+methods, floatfmt=".4f",
+                    tablefmt="pipe"))
+                f.write("\n\n")
+        with open(sigtypst2022_path("results", "results-{0}-{1:.2f}.json".format(
+                args.partition, args.proportion)), "w") as f:
+            f.write(json.dumps(results, indent=2))
+
+
+                        
+                
 
 
     if args.download:
@@ -618,35 +785,33 @@ def main(*args):
 
     if args.predict:
         prop = "{0:.2f}".format(args.proportion)
-        if not args.all:
-            if not args.outfile:
-                args.outfile = Path(str(args.infile)[:-4]+"-out.tsv")
-            predict_words(args.infile, args.testfile, args.outfile)
-        elif args.all:
+        if args.all:
             for data, conditions in DATASETS.items():
                 print("[i] analyzing {0}".format(data))
                 predict_words(
                         args.datapath.joinpath(data, "training-"+prop+".tsv"),
                         args.datapath.joinpath(data, "test-"+prop+".tsv"),
-                        args.datapath.joinpath(data, "result-"+prop+".tsv")
+                        args.systempath.joinpath(
+                            "baseline",
+                            args.partition, data, "result-"+prop+".tsv")
                         )
     if args.evaluate:
         prop = "{0:.2f}".format(args.proportion)
+        fig = plt.figure()
+        x = 1
         if args.all:
-            if not args.test_path:
-                pth = args.datapath
-            else:
-                pth = Path(args.test_path)
             results = []
+
             for data, conditions in DATASETS.items():
                 results += [compare_words(
-                        pth.joinpath(data, "result-"+prop+".tsv"),
-                        args.datapath.joinpath(data,
-                            "solutions-"+prop+".tsv"),
+                        args.datapath.joinpath(data, "solutions-"+prop+".tsv"),
+                        args.test_path.joinpath(args.partition, data, "result-"+prop+".tsv"),
                         report=False)[-1]]
                 results[-1][0] = data
             print(tabulate(sorted(results), headers=[
                 "DATASET", "ED", "ED (NORM)", "B-CUBED FS", "BLEU"], floatfmt=".3f"))
+            plot = fig.add_subplot()
+
 
 
     if args.compare:

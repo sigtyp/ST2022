@@ -11,7 +11,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 97-1	tʃʰ a ŋ ³¹						
 112-1	tsʰ ɔ ³¹						
 122-1	m j u k ³						
-127-1	kʰ au ai.ʔ ³						
+127-1	kʰ au ai ʔ ³						
 132-1	au au ʔ ³¹						
 133-1	n au ³						
 135-1	n au ³¹						
@@ -56,7 +56,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 481-1	tsʰ au ³						
 494-1	dʒ ei ³						
 496-1	au j ai ŋ ³¹						
-516-1	au ai.ʔ ³						
+516-1	au ai ʔ ³						
 522-1	n a ʔ ³						
 523-1	au j au ³¹						
 524-1	n au ³¹						
@@ -107,7 +107,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 238-1	j au ³¹						
 241-1	ʃ ɔ ³¹						
 246-1	k j au ³						
-256-1	ʔ u.ŋ ³						
+256-1	ʔ u ŋ ³						
 257-1	au u ³						
 272-1	m ɔ ⁴³						
 273-1	ʔ a ³						
@@ -190,7 +190,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 120-1	dʒ a ʔ ³						
 125-1	g d d ɛ ʔ ³¹						
 148-1	d a ŋ ³						
-173-1	⁵ a̰.ḭ m ³¹						
+173-1	⁵ a̰ ḭ m ³¹						
 179-1	ʔ ɛ d ³¹						
 186-1	ŋ ə ³						
 187-1	l a ŋ ³						
@@ -199,9 +199,9 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 210-1	⁵ w a m ³						
 211-1	d a̰u ³²						
 213-1	n ɔ k ³						
-215-1	d.z au ʔ ³¹						
+215-1	d z au ʔ ³¹						
 220-1	tʰ u ŋ ⁵⁴						
-237-1	ʃ a̰.ḭ ³						
+237-1	ʃ a̰ ḭ ³						
 239-1	n a m ³¹						
 242-1	tsʰ au ³						
 248-1	kʰ ei ⁵						
@@ -216,7 +216,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 313-1	m ṵ ʔ ³						
 314-1	tsʰ a m ³						
 315-1	tʃʰ a ŋ ³						
-330-1	l ai.ʔ ³						
+330-1	l ai ʔ ³						
 333-1	ʃ a m ³						
 338-1	m j u ʔ ³						
 346-1	ʃ u t ³¹						
@@ -327,7 +327,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 430-2		ts i ³					
 458-2		ʃʰ a ²³					
 470-2		t i					
-475-2		ŋ.w ²³					
+475-2		ŋ w ²³					
 477-2		n j i ʔ ²³					
 478-2		ʃʰ i ²³					
 480-2		k a̰ ²³					
@@ -449,7 +449,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 124-3			b j u ³¹				
 136-3			l i ³²				
 137-3			kʰ j e ³²				
-139-3			m o.ŋ ³²				
+139-3			m o ŋ ³²				
 144-3			s ɛ ⁵³				
 145-3			d o ŋ ⁵¹				
 146-3			m au ⁵¹				
@@ -514,8 +514,8 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 478-3			⁵¹ j ²¹ d ⁵³				
 480-3			g au ³²				
 485-3			m j ɔ ⁴				
-495-3			ŋ ḛ.ḭ ⁵¹				
-499-3			m j a̰ ŋ.k ³²				
+495-3			ŋ ḛ ḭ ⁵¹				
+499-3			m j a̰ ŋ k ³²				
 500-3			n j e m ³²				
 501-3			tʰ u ³¹				
 506-3			ts ɔ ⁵¹				
@@ -530,7 +530,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 544-3			k j u k ⁵³				
 550-3			tʰ o ʔ ⁵³				
 562-3			m j o ŋ ³²				
-568-3			g ḛ.ḭ ⁴				
+568-3			g ḛ ḭ ⁴				
 2-3			g o ŋ ³²				
 11-3			s ə ʔ ⁵¹				
 12-3			j a ŋ ⁵³				
@@ -592,7 +592,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 346-3			ʃ e ʔ ³¹				
 348-3			j ə ⁴				
 352-3			g j o ŋ ²³				
-1-4				m o.ʔ ²			
+1-4				m o ʔ ²			
 4-4				l ø ⁵			
 18-4				m j ɪ n ²			
 19-4				n ɪ ²			
@@ -604,10 +604,10 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 97-4				ʃ a ŋ ⁵			
 112-4				tsʰ o ⁵			
 122-4				m j au ʔ ³⁴			
-127-4				ʃ ø i.t ²			
+127-4				ʃ ø i t ²			
 132-4				ø o ʔ ²			
 133-4				n ɪ ²			
-135-4				n o.ʔ ²			
+135-4				n o ʔ ²			
 142-4				d z ø ɪ ³¹			
 143-4				ŋ e ʔ ²			
 149-4				ɣ u ²			
@@ -623,23 +623,23 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 216-4				s e n ⁵			
 218-4				l a ʔ ²			
 225-4				s a ŋ ²			
-235-4				ʃ i.t ³⁴			
+235-4				ʃ i t ³⁴			
 244-4				s ø ɪ ⁵			
 253-4				m ɪ ³²			
-270-4				m i.t ²			
+270-4				m i t ²			
 278-4				m e ŋ ³²			
 279-4				ø e ³⁴			
-285-4				ʔ j o̰.ʔ m ³⁴			
+285-4				ʔ j o̰ ʔ m ³⁴			
 308-4				d e ³²			
 322-4				m ɪ ²			
-325-4				ʃ o.ʔ ⁵			
+325-4				ʃ o ʔ ⁵			
 337-4				m j e ŋ ³²			
 341-4				d z o ²			
 347-4				ʃ au ʔ ⁵			
 362-4				ɣ ḭ ³²			
-391-4				j o̰.ʔ ʔ ⁵			
+391-4				j o̰ ʔ ʔ ⁵			
 394-4				m o ʔ ²			
-397-4				dʒ i.t ⁵			
+397-4				dʒ i t ⁵			
 443-4				m j e ʔ ²³			
 460-4				s e t ⁵			
 463-4				ø k ɪ ³²			
@@ -654,7 +654,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 523-4				pʰ j au ³²			
 524-4				n ɪ ³¹			
 540-4				ʃ o ⁵			
-3-4				b ø i.t ³¹			
+3-4				b ø i t ³¹			
 6-4				g ḭ ⁵			
 7-4				d æu ⁵			
 20-4				n ɪ ʔ ²			
@@ -663,11 +663,11 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 64-4				k æu ŋ ⁵⁴			
 65-4				k ḭ ʔ ⁵			
 66-4				d z au ⁵			
-71-4				ʃ i.t ⁵			
+71-4				ʃ i t ⁵			
 72-4				ʔ a ³²			
 76-4				ø o ⁵⁴			
 77-4				m a k ³			
-78-4				m o.ʔ ³²			
+78-4				m o ʔ ³²			
 82-4				pʰ a ³²			
 87-4				ŋ o ²			
 93-4				l e m ⁵			
@@ -679,7 +679,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 139-4				m ɪ ²			
 144-4				s e t ⁵			
 145-4				d au ³			
-146-4				m o.ʔ ⁵			
+146-4				m o ʔ ⁵			
 150-4				g ɔ ʔ ³²			
 154-4				m ɪ ³¹			
 165-4				kʰ ɪ m ⁵⁴			
@@ -694,10 +694,10 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 212-4				tʃʰ o ʔ ⁵⁴			
 217-4				au ²			
 224-4				n j ḭ ²⁵			
-228-4				b o.ʔ ³²			
+228-4				b o ʔ ³²			
 238-4				o̰ ³			
 241-4				ʃ o ⁵			
-246-4				kʰ j a.² ²			
+246-4				kʰ j a ² ²			
 256-4				ʔ a			
 257-4				ʃ au ⁵			
 272-4				m ɪ ⁵			
@@ -714,29 +714,29 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 332-4				l e m ³			
 335-4				g j o ⁵			
 336-4				n ɪ m ³			
-340-4				ŋ o.ʔ ³			
+340-4				ŋ o ʔ ³			
 342-4				m j e ⁴			
 360-4				dʒ au ʔ ⁵⁴			
 389-4				n e ⁵			
 395-4				n a ³			
-401-4				ʃ i.t ³²			
+401-4				ʃ i t ³²			
 404-4				d z æu ŋ ⁴¹			
 408-4				d u ³⁴			
 409-4				l o̰ ³¹			
 413-4				d e n ²			
 421-4				m æu ⁵			
-425-4				b i.t ³			
-430-4				ʃ i.t ⁵			
+425-4				b i t ³			
+430-4				ʃ i t ⁵			
 442-4				d au ³			
 447-4				tʰ au ⁵			
 456-4				g o ⁵			
 458-4				ʃ au ³⁵			
-469-4				kʰ o.ʔ ⁵⁴			
+469-4				kʰ o ʔ ⁵⁴			
 470-4				d a ²			
 475-4				²			
 477-4				n e ⁵			
 478-4				ʃ ɪ ⁵			
-480-4				g o.ʔ ³²			
+480-4				g o ʔ ³²			
 485-4				m j ɪ ³²			
 495-4				ŋ au ³²			
 499-4				m j ḭ ⁴¹			
@@ -745,9 +745,9 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 507-4				n ɔ k ⁵⁴			
 510-4				b e ⁵			
 511-4				l a ʔ ³			
-521-4				h o.ʔ ³			
+521-4				h o ʔ ³			
 525-4				n j e ³¹			
-538-4				tʃʰ ø o.ʔ ³			
+538-4				tʃʰ ø o ʔ ³			
 539-4				kʰ ɪ n ³²			
 544-4				k j ø ʔ ⁵⁴			
 550-4				tʰ u ʔ ⁵⁴			
@@ -766,7 +766,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 55-4				b ɔ m ³¹			
 69-4				ʃ au ʔ ⁵			
 79-4				g æu m ³			
-83-4				tʃʰ o.ʔ ³			
+83-4				tʃʰ o ʔ ³			
 86-4				j ɪ ⁵			
 89-4				s a ŋ ⁴			
 90-4				pʰ o ⁵⁴			
@@ -781,7 +781,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 186-4				ŋ a ³²			
 187-4				l e ŋ ³²			
 197-4				n e t ⁵⁴			
-211-4				d o.ʔ ²			
+211-4				d o ʔ ²			
 220-4				tʰ au ŋ ⁵			
 237-4				ʃ au ³²			
 239-4				n a m ³²			
@@ -789,16 +789,16 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 248-4				kʰ ɪ ⁵			
 252-4				g a ²			
 255-4				b j u ³²			
-271-4				tʃʰ o.ʔ ³²			
+271-4				tʃʰ o ʔ ³²			
 275-4				n au ŋ ⁵			
 277-4				d z a ³			
 281-4				ʃ j o̰ ²			
 283-4				l a ʔ ⁴²			
 295-4				kʰ au ʔ ⁵⁴			
 300-4				ɣ a n ²			
-302-4				tsʰ o.ʔ ³⁴³			
+302-4				tsʰ o ʔ ³⁴³			
 309-4				l ɔ ʔ ⁴²			
-312-4				ʔ o.ʔ ³			
+312-4				ʔ o ʔ ³			
 314-4				tsʰ au m ⁵			
 315-4				tʰ a ŋ ⁵			
 330-4				l ḭ ³²			
@@ -813,14 +813,14 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 19-5					ɲ ai ai		
 44-5					pʰ a k ³¹		
 50-5					pʰ ai ³¹		
-62-5					ʃ.w ai ʔ ³¹		
+62-5					ʃ w ai ʔ ³¹		
 70-5					l ³¹ ɲ ³¹		
-75-5					m ɹ a.ʔ ʔ ³¹		
+75-5					m ɹ a ʔ ʔ ³¹		
 97-5					ai o ³¹		
 112-5					pʰ a ³¹		
 122-5					m j ə k ³¹		
 127-5					k ai ³¹		
-132-5					v.ɹ a ʔ		
+132-5					v ɹ a ʔ		
 133-5					ɲ a ³¹		
 135-5					ɲ u ³¹		
 142-5					⁵⁵ ³¹ i ³¹		
@@ -835,15 +835,15 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 192-5					ɲ u		
 195-5					ɲ a ³¹		
 200-5					ai pʰ ³¹		
-216-5					ʃ.w ai ³¹		
+216-5					ʃ w ai ³¹		
 218-5					pʰ o ʔ ³¹		
-225-5					ʃ.w ai ³¹		
+225-5					ʃ w ai ³¹		
 235-5					k ɹ i ³¹		
-244-5					ʃ.w ai ³¹		
+244-5					ʃ w ai ³¹		
 253-5					m i ³¹		
 270-5					m u t ³¹		
 278-5					m ai ³¹		
-279-5					v.ɹ ai ³¹		
+279-5					v ɹ ai ³¹		
 285-5					o m		
 308-5					ə a ³¹		
 322-5					m l ³¹		
@@ -856,15 +856,15 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 394-5					m o ʔ ³¹		
 397-5					pʰ i ³¹		
 443-5					m ɹ pʰ ʔ ³¹		
-460-5					ʃ.w o ʔ		
-463-5					v.ɹ ai ³¹		
+460-5					ʃ w o ʔ		
+463-5					v ɹ ai ³¹		
 464-5					ʔ ai ³¹		
-473-5					ʃ.w ə m ³¹		
+473-5					ʃ w ə m ³¹		
 476-5					k ɹ ə ʔ ³¹		
 481-5					pʰ i ³¹		
 494-5					ai l ³¹		
 496-5					pʰ j ai ³¹		
-516-5					v.ɹ ai ³¹		
+516-5					v ɹ ai ³¹		
 522-5					ɲ o ʔ ³¹		
 523-5					pʰ ɹ u ³¹		
 524-5					ɲ i ³¹		
@@ -875,7 +875,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 66-5					⁵⁵ a ³¹		
 71-5					ʃ i ³¹		
 72-5					ʔ ə		
-76-5					v.ɹ a ³¹		
+76-5					v ɹ a ³¹		
 77-5					m j e ʔ ³¹		
 78-5					m u ³¹		
 82-5					pʰ u ³¹		
@@ -883,11 +883,11 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 93-5					pʰ u m ³¹		
 100-5					l o l ³¹		
 116-5					ai a ³¹		
-119-5					v.ɹ a m ³¹		
+119-5					v ɹ a m ³¹		
 124-5					ai ɹ u ³¹		
 136-5					o i o		
 139-5					m ai ³¹		
-144-5					ʃ.w e ʔ ³¹		
+144-5					ʃ w e ʔ ³¹		
 145-5					a ³¹		
 146-5					m u ³¹		
 165-5					ai j ɲ ³¹		
@@ -913,7 +913,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 340-5					o		
 360-5					sʰ pʰ ʔ ³¹		
 376-5					l l ³¹		
-395-5					ə a.ʔ ³¹		
+395-5					ə a ʔ ³¹		
 401-5					ʃ i ³¹		
 409-5					pʰ a ³¹		
 425-5					ai j i		
@@ -1048,7 +1048,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 146-6						m iː	
 150-6						k r a k	
 154-6						m r a	
-165-6						kʰ.j.w a	
+165-6						kʰ j w a	
 166-6						p j a	
 169-6						k j a ŋ	
 170-6						p j a	
@@ -1229,7 +1229,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 3-7							b i ³¹
 6-7							g i ⁵
 7-7							d a̰ m ⁴
-20-7							n.j a̰ p ³¹
+20-7							n j a̰ p ³¹
 39-7							m j i ⁵³
 51-7							ŋ w ⁴
 64-7							g ʊ ŋ ³¹
@@ -1263,7 +1263,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 174-7							l a m ⁵¹
 181-7							m j ɔ ʔ ³
 193-7							b ɪ ⁴³
-205-7							n.j i ʔ ⁵
+205-7							n j i ʔ ⁵
 206-7							m ɔ ³¹
 212-7							tʃʰ a ʔ ⁵⁴
 214-7							l a m ⁴³
@@ -1307,7 +1307,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 458-7							ʃ ə ³¹
 469-7							kʰ au ³¹
 475-7							ŋ ɔ ⁴
-477-7							n.j a̰ ʔ ⁴³
+477-7							n j a̰ ʔ ⁴³
 478-7							ʃ ɪ t ⁴⁵
 480-7							g au ³
 485-7							m j ɔ ³
@@ -1320,7 +1320,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 510-7							b j ʊ ŋ ⁵³
 511-7							l ɔ ʔ ³
 521-7							i au ⁴
-525-7							n.j j i ⁵³
+525-7							n j j i ⁵³
 538-7							tʃʰ au ³¹
 539-7							dʒ ɪ ŋ ³¹
 544-7							k u ʔ ⁵⁴
@@ -1335,7 +1335,7 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 30-7							a ŋ ³
 35-7							l a ŋ ³
 38-7							dʒ ɔ ⁵³
-42-7							b.j ə ³
+42-7							b j ə ³
 52-7							d ɔ ʔ ⁴
 55-7							b ɔ m ³¹
 69-7							ɔ ʔ ⁵
@@ -1354,14 +1354,14 @@ COGID	Achang	Bela	Lashi	Maru	Phon	WrittenBurmese	Zaiwa
 179-7							ʔ u t ⁴
 186-7							ŋ a ⁵³
 187-7							l a ŋ ³
-197-7							n.j ɔ t ⁵⁴
+197-7							n j ɔ t ⁵⁴
 209-7							kʰ u k ⁵³
 210-7							a̰ m ⁴
 211-7							d au ³²
-213-7							n.j ɔ ʔ ³
+213-7							n j ɔ ʔ ³
 220-7							tʰ u ŋ ⁵
 237-7							ʃ ³ ⁵³
-239-7							n.j a m ³
+239-7							n j a m ³
 248-7							kʰ i ⁵
 252-7							g ai ³¹
 271-7							tʃʰ au ⁵³

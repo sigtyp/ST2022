@@ -103,17 +103,17 @@ COGID	dutch	english	french	german
 1043-2		s t r ʌ m		
 1469-3			s a ɔ	
 2047-3			s u i	
-2054-3			t u p ɛ ʀ.o	
+2054-3			t u p ɛ ʀ o	
 1375-3			l a a	
 760-3			v a ɔ	
 756-3			n a ʀ	
-726-3			t p p ɛ ʀ.o	
-1351-3			t ʀ a p ɔ a p p ɛ ʀ.o	
-1353-3			t ʀ a a t p p ɛ ʀ.o	
-412-3			s ʀ ʀ t a ʀ a p p ɛ ʀ.o p p p p p p	
-406-3			s ʀ ʀ t a ʀ a t p p ɛ ʀ.o p p p p p p	
-1005-3			t ɔ ɔ a p p ɛ ʀ.o	
-1012-3			t ɔ p a t p p ɛ ʀ.o	
+726-3			t p p ɛ ʀ o	
+1351-3			t ʀ a p ɔ a p p ɛ ʀ o	
+1353-3			t ʀ a a t p p ɛ ʀ o	
+412-3			s ʀ ʀ t a ʀ a p p ɛ ʀ o p p p p p p	
+406-3			s ʀ ʀ t a ʀ a t p p ɛ ʀ o p p p p p p	
+1005-3			t ɔ ɔ a p p ɛ ʀ o	
+1012-3			t ɔ p a t p p ɛ ʀ o	
 1016-3			v a p p ʀ ʀ p ʀ ʀ	
 1069-3			a ʀ	
 509-3			p ɔ l ɛ ʀ	
@@ -121,12 +121,12 @@ COGID	dutch	english	french	german
 2179-3			n p	
 1753-3			p a	
 1131-3			v u l p	
-1198-3			b ɔ ʀ.o p ɔ	
-2032-3			ʃ.j p ʀ.o	
+1198-3			b ɔ ʀ o p ɔ	
+2032-3			ʃ j p ʀ o	
 2241-3			n ɔ i	
 2244-3			l a p i	
 610-3			ʀ n ə	
-945-3			ʃ.j a ʀ.o	
+945-3			ʃ j a ʀ o	
 1534-3			l p k ɛ ʀ	
 384-3			s ɔ t ɛ ʀ	
 1650-3			n p	
@@ -138,9 +138,9 @@ COGID	dutch	english	french	german
 1111-3			t a	
 197-3			s t ɛ ʀ	
 2020-3			l a	
-867-3			ʃ.j ɛ̃ t ɛ ʀ.o p ɔ	
+867-3			ʃ j ɛ̃ t ɛ ʀ o p ɔ	
 1970-3			p u l	
-1230-3			t p ʀ.o ɛ p ɛ	
+1230-3			t p ʀ o ɛ p ɛ	
 2017-3			n p p ʀ	
 1469-4				z a n t
 2047-4				z ʊ n
@@ -157,31 +157,31 @@ COGID	dutch	english	french	german
 1012-4				ʃ t iː f m uː d ə r
 1016-4				v eː t ɔ n + n r
 1069-4				ɪ x
-509-4				f ɔ l ə.n
-693-4				m uː l + ə.n l
+509-4				f ɔ l ə n
+693-4				m uː l + ə n l
 2179-4				n uː s t
 1753-4				f ʊ
 1131-4				v ʊ l f
-1198-4				b a d.ə
+1198-4				b a d ə
 2032-4				h oː r n
 2241-4				n ɔ s
 2244-4				l ʊ f
 610-4				k n iː
 945-4				h a r t
-1534-4				l ɪ k ə.n
-384-4				z uː k ə.n
+1534-4				l ɪ k ə n
+384-4				z uː k ə n
 1650-4				n oː t
 1663-4				z uː l t
-2279-4				l ʊ n ə.n
-471-4				z aː ɡ ə.n
+2279-4				l ʊ n ə n
+471-4				z aː ɡ ə n
 1385-4				z aː t
 792-4				ɡ ɔ k
 1111-4				m a s t
-197-4				z uː t ə.n
+197-4				z uː t ə n
 2020-4				l a ŋ
-867-4				h ʊ n t ə.n r t
+867-4				h ʊ n t ə n r t
 1970-4				f ʊ l
-1230-4				d r a t ə.n
+1230-4				d r a t ə n
 2017-4				n v
 968-4				v eː r ə l t
 1674-4				l a n t
@@ -191,5 +191,5 @@ COGID	dutch	english	french	german
 1027-4				z eː
 1832-4				r au f
 -1816-4				oː ʃ eː ɡ aː n
--335-4				l aː ɡ au n ə.n
+-335-4				l aː ɡ au n ə n
 1043-4				ʃ t r oː m

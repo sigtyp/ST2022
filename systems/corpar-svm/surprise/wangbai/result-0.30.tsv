@@ -394,11 +394,11 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 463-3			qʰ a ⁵⁵							
 512-3			t o ⁴³							
 534-3			ts u ⁵⁵							
-556-3			qʰ i.u ²²							
+556-3			qʰ i u ²²							
 568-3			χ ɯ ⁵⁵							
 588-3			ɕ w a ⁵⁵							
 599-3			kʰ ɯ ²⁴							
-656-3			k i.u ²¹							
+656-3			k i u ²¹							
 678-3			k o ²¹							
 689-3			m æ ⁴³							
 700-3			m ɛ ⁴³							
@@ -417,7 +417,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1241-3			m ɛ ²¹							
 1252-3			qʰ o ²¹							
 1294-3			q o ²⁴							
-1326-3			ts i.u ²²							
+1326-3			ts i u ²²							
 1348-3			tɕ i ⁴³							
 1401-3			s ɛ ⁴³							
 1451-3			ɕ i ²²							
@@ -472,14 +472,14 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2837-3			ts i ²⁴							
 2859-3			ɕ j ɛ ²⁴							
 2889-3			tɕ ɯ ²²							
-2900-3			k i.u ²²							
+2900-3			k i u ²²							
 2928-3			tsʰ o ²⁴							
 2941-3			qʰ ɯ ²⁴							
 2998-3			ts ɿ ²²							
-3031-3			tʰ.w i u ²²							
+3031-3			tʰ w i u ²²							
 3052-3			d j ɯ ⁴³							
 3064-3			t o ²¹							
-3084-3			tʰ.w æ ⁵⁵							
+3084-3			tʰ w æ ⁵⁵							
 3117-3			ts ɿ ²¹							
 3128-3			q æ ²¹							
 3150-3			t ɛ ²¹							
@@ -495,7 +495,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 3493-3			ɕ u ⁵⁵							
 3536-3			ɕ j o ²⁴							
 3548-3			f o ⁴³							
-3645-3			ɕ i.u ²⁴							
+3645-3			ɕ i u ²⁴							
 3678-3			tsʰ i ⁵⁵							
 3757-3			qʰ o ²¹							
 3779-3			k o ⁴³							
@@ -538,7 +538,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 5163-3			tɕ i ²⁴							
 5192-3			tɕ o ²¹							
 5225-3			n o ⁴³							
-5236-3			tʰ.w i ²²							
+5236-3			tʰ w i ²²							
 64-3			pʰ æ ⁴³							
 104-3			χ w a ⁵⁵							
 247-3			p j u ²¹							
@@ -704,7 +704,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 3942-4				ts i ²²						
 3953-4				tsʰ a n ⁵⁵						
 4023-4				s j a n ⁵⁵						
-4034-4				ts e.n ⁵⁵						
+4034-4				ts e n ⁵⁵						
 4143-4				dz i ²¹						
 4185-4				m u ²⁴						
 4227-4				ʈʂʰ i ⁵⁵						
@@ -1027,7 +1027,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2029-6						k ɑ̃ ⁵⁵				
 2051-6						ts ʯ̃ ²¹				
 2074-6						k õ ⁴⁴				
-2085-6						m a.n ³³				
+2085-6						m a n ³³				
 2130-6						p a ⁴⁴				
 2245-6						ts ou ⁴²				
 2269-6						m e ³³				
@@ -1355,7 +1355,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 93-8								g ɯ ¹		
 216-8								sʰ w a ⁴		
 236-8								ts o ŋ ²		
-267-8								ts.j e n ⁵		
+267-8								ts j e n ⁵		
 316-8								p ɯ ²		
 327-8								ɣ ɯ̃ ²		
 348-8								ʈ o ⁴		
@@ -1420,9 +1420,9 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2269-8								m ɛ ²		
 2280-8								sʰ ɔ ³		
 2291-8								s e n ⁵		
-2316-8								ts.j i ⁴		
+2316-8								ts j i ⁴		
 2364-8								ɖʐ i ²		
-2395-8								tʰ.r r æ n ¹		
+2395-8								tʰ r r æ n ¹		
 2406-8								tɕʰ æ n ¹		
 2417-8								k d ⁵		
 2428-8								q a ŋ ¹		
@@ -1464,9 +1464,9 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 3454-8								q o ŋ ¹		
 3493-8								sʰ o ⁴		
 3536-8								s ɔ ¹		
-3548-8								p.j o ⁵		
+3548-8								p j o ⁵		
 3645-8								s ¹		
-3678-8								tsʰ.j i ⁴		
+3678-8								tsʰ j i ⁴		
 3757-8								l ɔ ¹		
 3779-8								k u ⁵		
 3813-8								χ e n ¹		
@@ -1480,7 +1480,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 4034-8								d r ɯ̃ ¹		
 4143-8								d o ⁴		
 4185-8								m o ⁴		
-4227-8								tʰ.r e ¹		
+4227-8								tʰ r e ¹		
 4238-8								d ɔ ¹		
 4249-8								q a ŋ ¹		
 4271-8								ɖʐ i ⁴		
@@ -1512,7 +1512,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 64-8								pʰ æ n ³		
 104-8								x w a ⁴		
 247-8								b ɯ ¹		
-289-8								s.r e ⁴		
+289-8								s r e ⁴		
 338-8								q w ɛ ⁵		
 378-8								d r ɯ ³		
 412-8								d æ n ¹		
@@ -1521,7 +1521,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 645-8								b a ⁴		
 742-8								k æ ⁴		
 752-8								ŋ ɯ ¹		
-763-8								tʰ.r r o ŋ ¹		
+763-8								tʰ r r o ŋ ¹		
 799-8								ts o ⁴		
 809-8								pʰ ɔ ³		
 853-8								kʰ o ŋ ¹		
@@ -1539,7 +1539,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1433-8								m ɯ ¹		
 1462-8								ŋ w e n ²		
 1545-8								ʈ i ²		
-1629-8								p.j o ¹		
+1629-8								p j o ¹		
 1682-8								ɕ o ŋ ¹		
 1706-8								d a ⁴		
 1925-8								ɖʐ ɯ ²		
@@ -1560,7 +1560,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 452-9									q a ⁴²	
 463-9									pʰ ɔ ⁴²	
 512-9									pʰ ɔ ²¹	
-534-9									ts i.u ⁴²	
+534-9									ts i u ⁴²	
 556-9									pʰ ʯ ³³	
 568-9									x ɯ ⁴²	
 588-9									s w ɔ ⁴²	
@@ -1594,7 +1594,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 1543-9									ɕ ɯ ³³	
 1575-9									ʂ e n ⁵⁵	
 1618-9									b ɯ ³⁵	
-1640-9									k i.u ⁴²	
+1640-9									k i u ⁴²	
 1671-9									ʂ i ⁴²	
 1731-9									ʂ o ŋ ⁵⁵	
 1762-9									s w ɔ ŋ ²¹	
@@ -1627,7 +1627,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 2484-9									ɕ i ⁴²	
 2495-9									g ɔ ³⁵	
 2565-9									ʑ i ⁵⁵	
-2611-9									j i.u ⁴²	
+2611-9									j i u ⁴²	
 2632-9									ŋ w ɔ ⁴²	
 2644-9									ŋ w a ⁴²	
 2674-9									m o ³³	
@@ -1655,11 +1655,11 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 3263-9									j ɔ ⁴²	
 3274-9									q a ²¹	
 3308-9									pʰ e ⁵⁵	
-3340-9									t i.u ⁴²	
+3340-9									t i u ⁴²	
 3362-9									ʐ ə̃˞ ⁵⁵	
 3409-9									m i ³³	
 3454-9									q ʯ ŋ ⁵⁵	
-3493-9									s i.u ⁴²	
+3493-9									s i u ⁴²	
 3536-9									ɕ ɔ ⁵⁵	
 3548-9									f ə˞ ²¹	
 3645-9									s ʯ ⁵⁵	
@@ -1675,7 +1675,7 @@ COGID	Dashi	Ega	Enqi	Gongxing	Jinman	Jinxing	Mazhelong	ProtoBai	Tuoluo	Zhoucheng
 3953-9									tʰ a ŋ ⁵⁵	
 4023-9									ɕ j a ŋ ⁵⁵	
 4034-9									d ɯ ⁵⁵	
-4143-9									ʐ i.u ⁴²	
+4143-9									ʐ i u ⁴²	
 4185-9									m ʯ ⁴²	
 4227-9									ʈʂʰ ə̃˞ ⁵⁵	
 4238-9									d ɔ ³⁵	
