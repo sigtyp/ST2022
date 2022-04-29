@@ -16,7 +16,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 92-1	m a k a								
 103-1	m aː								
 106-1	k a k i								
-138-1	n a ʔ w aː.+.tɬ +								
+138-1	n a ʔ w aː + tɬ +								
 139-1	m i k + t i a +								
 142-1	m a t i								
 145-1	m o + t k a								
@@ -24,7 +24,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 179-1	n a k a + tɬ								
 180-1	m eː ts + tɬ i								
 186-1	k e tʃ +								
-190-1	ts a k aː.+.tɬ + tɬ								
+190-1	ts a k aː + tɬ + tɬ								
 194-1	s								
 220-1	o ʔ + tɬ i								
 231-1	t a								
@@ -53,21 +53,21 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 24-2		i s t i + t							
 32-2		m i b i							
 51-2		u n + i +							
-52-2		w a.i k + t u k							
+52-2		w a i k + t u k							
 53-2		n a b a s							
-54-2		r a.i h l							
+54-2		r a i h l							
 55-2		k w a t							
 60-2		uː m r e l u l u							
 83-2		r eː + r							
-87-2		p a r a.i n i							
+87-2		p a r a i n i							
 92-2		m a b a							
 103-2		m a n							
 106-2		b a b i							
 138-2		n e h e							
-139-2		m i k + t i -.h t u.k							
+139-2		m i k + t i - h t u k							
 142-2		m a t i							
 145-2		m u + t e b a							
-176-2		t a.i k a + t							
+176-2		t a i k a + t							
 179-2		n a b a + r							
 180-2		m eː m + r i							
 186-2		b eː m + t							
@@ -80,11 +80,11 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 293-2		i n + iː							
 314-2		b w a w i + r							
 315-2		uː m e							
-322-2		t e h u.k ts e n							
+322-2		t e h u k ts e n							
 323-2		r eː							
 9-2		t uː t uː + t							
 17-2		u j i + r							
-22-2		r a r i -.h u.k							
+22-2		r a r i - h u k							
 88-2		t i							
 158-2		w e m a k n							
 159-2		a t i uː + t							
@@ -130,7 +130,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 323-3			t eː ʔ						
 9-3			t oː t o + t						
 17-3			o m i + t						
-22-3			t a.ʔ t						
+22-3			t a ʔ t						
 30-3			w i ts						
 88-3			i i						
 158-3			w eː p a ʔ						
@@ -146,7 +146,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 24-4				i ts t e					
 32-4				m i k i					
 51-4				o n + i					
-52-4				w a k + k o k.i					
+52-4				w a k + k o k i					
 53-4				n a k a ts					
 54-4				tɬ a l					
 55-4				k w a					
@@ -369,7 +369,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 2-9									n e ts + tɬ
 8-9									w e p
 16-9									e ts + tɬ iː
-24-9									iː ts t n.u
+24-9									iː ts t n u
 32-9									m iː k iː
 51-9									o n + iː
 52-9									w ø k + k iː
@@ -400,7 +400,7 @@ COGID	ClassicalNahuatl	JalupaNahuat	MecayapanNahuat	NorthPueblaNahuatl	PajapanNa
 314-9									k w a w iː + tɬ
 315-9									u m e
 322-9									t e h w a n
-323-9									tɬ e n.u
+323-9									tɬ e n u
 9-9									t u t u + tɬ
 22-9									tɬ ø p iː ø
 30-9									w iː ts

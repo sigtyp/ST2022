@@ -13,7 +13,7 @@ COGID	Amharic	Argobba	Chaha	Endegagn	Ezha	Geez	Gumer	Gura	Gyeto	Harari	Inor	Kist
 535-1	ʔ a sː ɨ r																		
 543-1	s o s t																		
 593-1	ʔ a m u s																		
-640-1	m a n.d																		
+640-1	m a n d																		
 1-1	d ə bː ə r ə																		
 65-1	u t																		
 212-1	ʔ n																		
@@ -292,10 +292,10 @@ COGID	Amharic	Argobba	Chaha	Endegagn	Ezha	Geez	Gumer	Gura	Gyeto	Harari	Inor	Kist
 490-9									tʼ o p w ə										
 61-10										d ə m									
 63-10										ʔ aː tʼ ɨ m									
-107-10										g aː m eː l.ə									
+107-10										g aː m eː l ə									
 112-10										d aː b ə n aː									
 331-10										n ɨ g u ʃ									
-377-10										b kʼ l.ə									
+377-10										b kʼ l ə									
 381-10										ʔ aː ħ t									
 417-10										r u z									
 451-10										ʃ a b t									
@@ -345,7 +345,7 @@ COGID	Amharic	Argobba	Chaha	Endegagn	Ezha	Geez	Gumer	Gura	Gyeto	Harari	Inor	Kist
 293-11											f ə r ə z								
 373-11											kʼ ɨ m a r								
 408-11											b a r a								
-414-11											d ə b a kʼ u lː.o.ʔ a								
+414-11											d ə b a kʼ u lː o ʔ a								
 601-11											ʔ ə r b								
 642-11											ʔ ɨ n ɨ f a s								
 60-11											n ə f ə s ə								
@@ -458,9 +458,9 @@ COGID	Amharic	Argobba	Chaha	Endegagn	Ezha	Geez	Gumer	Gura	Gyeto	Harari	Inor	Kist
 490-14														tʼ ə bː w ə m					
 61-15															d ə m				
 63-15															ʔ a tʼ ɨ m				
-107-15															g.w a m eː l a				
+107-15															g w a m eː l a				
 112-15															d a b ə n a				
-331-15															n ɨ g.w u s				
+331-15															n ɨ g w u s				
 377-15															b ə kʼ l o				
 381-15															ʔ a n d				
 417-15															r u z				
@@ -489,13 +489,13 @@ COGID	Amharic	Argobba	Chaha	Endegagn	Ezha	Geez	Gumer	Gura	Gyeto	Harari	Inor	Kist
 415-15															z ɨ l a m				
 450-15															z ə r				
 490-15															tʼ o b e				
-61-16																d.m ə m			
+61-16																d m ə m			
 63-16																ʔ a tʼ i m			
 107-16																g ɨ m e l ɨ			
-112-16																d.m ə mː ə n ɨ			
+112-16																d m ə mː ə n ɨ			
 331-16																n ɨ g ɨ s			
 377-16																b ə kʼ l o			
-381-16																ʔ ɨ d.m			
+381-16																ʔ ɨ d m			
 417-16																r o z			
 451-16																ʃ ə b ɨ t			
 454-16																ħ ɨ tʼ ə r			
@@ -512,7 +512,7 @@ COGID	Amharic	Argobba	Chaha	Endegagn	Ezha	Geez	Gumer	Gura	Gyeto	Harari	Inor	Kist
 293-16																f ə r ə dʒ			
 373-16																kʼ ɨ m a l			
 408-16																b ɨ ɨ r ɨ			
-414-16																d.m ə ai̯ o			
+414-16																d m ə ai̯ o			
 601-16																r b u			
 642-16																n ɨ f a s			
 209-16																ʃ ə o t			
@@ -520,36 +520,36 @@ COGID	Amharic	Argobba	Chaha	Endegagn	Ezha	Geez	Gumer	Gura	Gyeto	Harari	Inor	Kist
 415-16																z ɨ n ə b			
 450-16																z ə r ʔ			
 61-17																	d ə m		
-63-17																	ʔ a x.ə ɨ m		
+63-17																	ʔ a x ə ɨ m		
 107-17																	g m l		
-112-17																	d ə m ə n.i a		
-331-17																	n.ə ɨ g u s		
+112-17																	d ə m ə n i a		
+331-17																	n ə ɨ g u s		
 377-17																	b ə q ə l o		
-381-17																	ʔ a t.ə i		
+381-17																	ʔ a t ə i		
 417-17																	r u z		
 451-17																	s ə i b i		
-454-17																	ħ a x.ə ɨ r.i i i		
+454-17																	ħ a x ə ɨ r i i i		
 484-17																	s ɨ ħ s		
 535-17																	ʔ a s r		
 543-17																	s ə i s		
 593-17																	ħ ə m i ʃ		
 640-17																	m ə n i		
 1-17																	d ə bː ə r ə		
-65-17																	x.ə u b		
-163-17																	s ə x.ə ə		
+65-17																	x ə u b		
+163-17																	s ə x ə ə		
 212-17																	ʔ ai̯ n		
 244-17																	ʔ a r ə		
 248-17																	m u l ʔ		
-293-17																	x.ə ə r ə s		
+293-17																	x ə ə r ə s		
 373-17																	q ɨ m a l		
 408-17																	b ə r		
 414-17																	d u bː a		
-601-17																	ʔ r.i i b i ʔ		
+601-17																	ʔ r i i b i ʔ		
 642-17																	n ɨ f a s		
-60-17																	n.ə ə x.ə ə ə		
+60-17																	n ə ə x ə ə ə		
 115-17																	l a m		
 209-17																	s ə sː ə t		
-415-17																	z ɨ n.i a b		
+415-17																	z ɨ n i a b		
 450-17																	z ə r		
 61-18																		d ə m	
 63-18																		ʔ a tʼ ɨ m	

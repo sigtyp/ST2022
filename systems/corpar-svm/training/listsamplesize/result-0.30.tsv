@@ -31,7 +31,7 @@ COGID	dutch	english	french	german
 1663-1	z ɑ l t			
 2279-1	l ɛɪ n ə n			
 471-1	z +			
-1385-1	z aː.l + + d			
+1385-1	z aː l + + d			
 792-1	j ɔ k			
 1111-1	ɑ s t			
 197-1	z oː ə			
@@ -73,7 +73,7 @@ COGID	dutch	english	french	german
 2183-1	s t iː r			
 2194-1	ɔ k s ə			
 2199-1	k ɑ l f			
-2197-1	s aː.l p			
+2197-1	s aː l p			
 1523-1	z oː			
 1521-1	v ɔ k			
 512-1	m oː r			
@@ -122,7 +122,7 @@ COGID	dutch	english	french	german
 472-1	s n iː z ə			
 1535-1	s w ɪ t ə			
 1546-1	s p ɪ k ə			
-1959-1	s l aː.l p ə			
+1959-1	s l aː l p ə			
 694-1	s n ɑ r ə			
 1961-1	d r uː m ə			
 323-1	ə l eː v ə			
@@ -143,7 +143,7 @@ COGID	dutch	english	french	german
 2024-1	p ɑ n ə			
 1321-1	ɛɪ p			
 1976-1	t ɑ ŋ ə			
-1243-1	m aː.l l t t			
+1243-1	m aː l l t t			
 1265-1	p iː l			
 1261-1	z iː v ə			
 655-1	b r aː d			
@@ -366,29 +366,29 @@ COGID	dutch	english	french	german
 1012-4				ʃ ts iː f m uː d ə r
 1016-4				v eː t ə uː n + r
 1069-4				+ ɪ x
-509-4				f a l ə.n
-693-4				m uː l + + ə.n l
+509-4				f a l ə n
+693-4				m uː l + + ə n l
 2179-4				n ɛ s t
-1753-4				+ f ɪ x.ə +
+1753-4				+ f ɪ x ə +
 1131-4				v ɔ l f +
-1198-4				b aː ə x.ə
+1198-4				b aː ə x ə
 2032-4				h oː r n
 2241-4				n a s
 2244-4				l ɪ pf +
 610-4				k + n iː
 945-4				h a t
-1534-4				l ɪ k ə.n
-384-4				z uː ə.n
+1534-4				l ɪ k ə n
+384-4				z uː ə n
 1650-4				n + oː t
 1663-4				z uː l t
-2279-4				l ɪ n ə.n
-471-4				z aː ə.n
+2279-4				l ɪ n ə n
+471-4				z aː ə n
 1385-4				z aː + + ts
 792-4				ɡ a x
 1111-4				m a s t
-197-4				z uː t ə.n
+197-4				z uː t ə n
 2020-4				l a ŋ
-867-4				h oː n t ə.n r ə t
+867-4				h oː n t ə n r ə t
 1970-4				f ɔ l +
 1230-4				d + a t + +
 2017-4				n iː v
@@ -400,7 +400,7 @@ COGID	dutch	english	french	german
 1027-4				z ɛ
 1832-4				r uː f
 -1816-4				ɔ ʃ ɛ ɡ aː n
--335-4				l aː ɡ uː n ə.n
+-335-4				l aː ɡ uː n ə n
 1043-4				ʃ t r oː m
 423-4				ʃ t ai n
 2049-4				m aː n
@@ -408,14 +408,14 @@ COGID	dutch	english	french	german
 2065-4				r ɛ n ə n b ɔ
 1368-4				ʃ ɡ aː t ɔ
 1365-4				t uː
-754-4				r ɛ n ə.n
+754-4				r ɛ n ə n
 768-4				v ɛ ə r
 1211-4				f uː ə r
 106-4				m a n
 -98-4				b ɛ b
 719-4				f aː d ə r
 1341-4				z oː n
--2027-4				ts a n t ə.n
+-2027-4				ts a n t ə n
 -2026-4				n ɛ f
 409-4				ʃ ɡ oː n z ɔ n l
 402-4				ʃ ɡ au n + t ɔ t ə r l
@@ -427,7 +427,7 @@ COGID	dutch	english	french	german
 2199-4				k a l f
 2197-4				ʃ ɡ aː pf
 1523-4				z ɔ
-1521-4				ɔ x.ə
+1521-4				ɔ x ə
 512-4				m ɛ r
 2141-4				h ɛ n
 2147-4				ɡ ɛ n s
@@ -456,10 +456,10 @@ COGID	dutch	english	french	german
 1506-4				n au + f l ʊ ɡ t ə l
 2242-4				m ɔ n t
 2245-4				t ɔ ŋ
-1196-4				a x.ə
+1196-4				a x ə
 2174-4				ʃ ɡ ɔ l t ə r
 575-4				oː k l
-603-4				ɛ l ə.n b ɔ
+603-4				ɛ l ə n b ɔ
 601-4				h a n t
 615-4				f ɪ ŋ ə r
 901-4				k l uː
@@ -470,13 +470,13 @@ COGID	dutch	english	french	german
 646-4				l ɔ ŋ
 947-4				l ɛ b ə r
 1606-4				h ʏ pf
-472-4				n iː z ə.n
-1535-4				z v ɛ t ə.n
-1546-4				ʃ p ʏ t ə.n
-1959-4				ʃ l aː p ə.n
-694-4				ʃ n uː r k ə.n
-1961-4				t r oː m ə.n
-323-4				ə l ɛ b ə.n
+472-4				n iː z ə n
+1535-4				z v ɛ t ə n
+1546-4				ʃ p ʏ t ə n
+1959-4				ʃ l aː p ə n
+694-4				ʃ n uː r k ə n
+1961-4				t r oː m ə n
+323-4				ə l ɛ b ə n
 1885-4				ɡ r a f
 2156-4				f ə r + k ɔ l t + h ai
 1903-4				v ɔ n t
@@ -484,21 +484,21 @@ COGID	dutch	english	french	german
 276-4				l a m
 274-4				t œ f
 278-4				b l ɪ n t
-258-4				t r ɔ ŋ k ə.n
+258-4				t r ɔ ŋ k ə n
 256-4				n aː x t
-383-4				ɛ t ə.n
+383-4				ɛ t ə n
 207-4				r ai pf
-376-4				t r ɪ ŋ k ə.n
-2014-4				a t x.ə
-2009-4				oː b ə.n
+376-4				t r ɪ ŋ k ə n
+2014-4				a t x ə
+2009-4				oː b ə n
 2003-4				k ɛ t ə l
 2024-4				p a n
 1976-4				t a ŋ +
 1243-4				m aː l + ts ai
-1261-4				z ɛ b ə.n
+1261-4				z ɛ b ə n
 655-4				b r œ t
 650-4				t ai
-1532-4				k n ɛ t ə.n
+1532-4				k n ɛ t ə n
 -36-4				ʃ uː pf
 34-4				b oː n
 -1647-4				f ai

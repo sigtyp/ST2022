@@ -3,8 +3,8 @@ COGID	AchangLongchuan	Atsi	Bola	Lashi	Maru	OldBurmese	ProtoBurmish	Rangoon	Xiand
 495-1	n au ³⁵								
 838-1	ɔ ʔ ⁵⁵								
 438-1	ɔ ʔ ⁵⁵								
-334-1	l.w ɔ ʔ ⁵⁵								
-360-1	l.w i ³¹								
+334-1	l w ɔ ʔ ⁵⁵								
+360-1	l w i ³¹								
 394-1	³¹								
 221-1	i p ⁵⁵								
 202-1	k au ³¹								
@@ -17,7 +17,7 @@ COGID	AchangLongchuan	Atsi	Bola	Lashi	Maru	OldBurmese	ProtoBurmish	Rangoon	Xiand
 555-1	i m ⁵⁵								
 464-1	m au ³¹								
 119-1	ə ⁵⁵								
-835-1	n.w a p ⁵⁵								
+835-1	n w a p ⁵⁵								
 79-1	t o ³¹								
 693-1	ŋ au ⁵⁵								
 477-1	n a p ⁵⁵								
@@ -29,7 +29,7 @@ COGID	AchangLongchuan	Atsi	Bola	Lashi	Maru	OldBurmese	ProtoBurmish	Rangoon	Xiand
 896-1	u t ⁵⁵								
 452-1	m u ʔ ⁵⁵								
 580-1	ʐ au t ⁵⁵								
-833-1	n.w a ⁵⁵								
+833-1	n w a ⁵⁵								
 390-1	m a ŋ ³¹								
 696-1	ŋ ui ⁵⁵								
 86-1	t u ŋ ⁵⁵								
@@ -166,7 +166,7 @@ COGID	AchangLongchuan	Atsi	Bola	Lashi	Maru	OldBurmese	ProtoBurmish	Rangoon	Xiand
 896-4				tsʰ a̱ t ⁵⁵					
 452-4				m j uː k ³¹					
 580-4				s ɔ k ⁵⁵					
-833-4				n.w ɔ̱ ³¹					
+833-4				n w ɔ̱ ³¹					
 390-4				m aː ŋ ³³					
 696-4				ŋ ui ³¹					
 86-4				t uː ŋ ³¹					
@@ -184,14 +184,14 @@ COGID	AchangLongchuan	Atsi	Bola	Lashi	Maru	OldBurmese	ProtoBurmish	Rangoon	Xiand
 714-4				ŋ uː ³¹					
 331-4				l ɔː ⁵⁵					
 665-5					ŋ ɔ ³¹				
-495-5					n u.k ⁵⁵				
+495-5					n u k ⁵⁵				
 838-5					l a k ³¹				
 438-5					m j ɔ̱ k ³¹				
 334-5					l ɔ ʔ ³¹				
 360-5					l a ³⁵				
-394-5					m i.k ³⁵				
-221-5					j i.k p ⁵⁵				
-202-5					k u.k ³⁵				
+394-5					m i k ³⁵				
+221-5					j i k p ⁵⁵				
+202-5					k u k ³⁵				
 935-5					ø ³⁵				
 93-5					t ɔ ³⁵				
 7-5					p ɔ̃ ŋ ³⁵				
@@ -199,11 +199,11 @@ COGID	AchangLongchuan	Atsi	Bola	Lashi	Maru	OldBurmese	ProtoBurmish	Rangoon	Xiand
 246-5					k ɔ̱ ʔ ⁵⁵				
 547-5					s a k ⁵⁵				
 555-5					j a̱ m ³¹				
-464-5					m u.k ³⁵				
+464-5					m u k ³⁵				
 119-5					t a ŋ ³¹				
 835-5					n a̱ ʔ ⁵⁵				
 79-5					t u ³⁵				
-693-5					ŋ u.k ³¹				
+693-5					ŋ u k ³¹				
 477-5					n ɛ ʔ ³¹				
 891-5					t a ŋ ⁵⁵				
 528-5					ɣ u ³¹				
@@ -234,7 +234,7 @@ COGID	AchangLongchuan	Atsi	Bola	Lashi	Maru	OldBurmese	ProtoBurmish	Rangoon	Xiand
 838-6						ɲʰ a c			
 438-6						m j a k			
 334-6						l a k			
-360-6						l i.j ⁵			
+360-6						l i j ⁵			
 394-6						n i ⁵			
 221-6						j a p			
 202-6						k ui̯ ⁵			
@@ -359,7 +359,7 @@ COGID	AchangLongchuan	Atsi	Bola	Lashi	Maru	OldBurmese	ProtoBurmish	Rangoon	Xiand
 658-8								w ĩ ²²	
 456-8								m ĩ ⁵⁵	
 183-8								tɕ tɕ ⁵⁵	
-785-8								kʰ.w ɛ ⁵⁵	
+785-8								kʰ w ɛ ⁵⁵	
 714-8								w o ²²	
 331-8								l ɑ ⁵⁵	
 665-9									ŋ ɔ ⁵⁵

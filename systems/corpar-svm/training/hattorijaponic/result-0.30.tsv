@@ -3,7 +3,7 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 18-1	θ a r u									
 35-1	i θ u ts i									
 36-1	u θ a ts i									
-48-1	n a g a s a r.i									
+48-1	n a g a s a r i									
 60-1	θ r i									
 63-1	s uː r a mʲ i									
 64-1	k e									
@@ -19,10 +19,10 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 -102-1	s i θ a									
 103-1	ts ɨ m ɨ									
 110-1	θ e									
-116-1	r u.h.i.ɴ n ɨ									
-120-1	n u m u r.i									
-132-1	k i kʲ u r.i									
-139-1	k u r u s u r.i									
+116-1	r u h i ɴ n ɨ									
+120-1	n u m u r i									
+132-1	k i kʲ u r i									
+139-1	k u r u s u r i									
 140-1	ʔ o ʔʲ ɴ i									
 156-1	θ a d u r i									
 168-1	ts ɨ k i									
@@ -31,12 +31,12 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 173-1	ʔ e s i									
 180-1	k u m u									
 185-1	h a i									
-186-1	m o e r u r.i									
+186-1	m o e r u r i									
 187-1	m i tɕ i									
-190-1	ʔ a k a s a r.i									
+190-1	ʔ a k a s a r i									
 193-1	k d r u									
-194-1	s i r u s a r.i									
-195-1	k u r u s a r.i									
+194-1	s i r u s a r i									
+195-1	k u r u s a r i									
 216-1	m a r u s a i									
 221-1	n a									
 239-1	ʔ i ts ɨ									
@@ -44,10 +44,10 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 253-1	j o sː i									
 254-1	ʔ e ts ɨ ts ɨ									
 266-1	k a d ɨ									
-267-1	n a g a r ɨ r u r.i									
+267-1	n a g a r ɨ r u r i									
 268-1	ʔ u m i									
 272-1	ʔ a m ɨ n e									
-276-1	ʔ a r a u r.i									
+276-1	ʔ a r a u r i									
 281-1	m u s i									
 304-1	ts ɨ r tɕ a									
 305-1	ts i i									
@@ -56,24 +56,24 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 310-1	θ u									
 311-1	mʲ a a									
 342-1	u k i									
-346-1	k u r a s a r.i									
-347-1	k i r u r.i									
-348-1	h i r u s a r.i									
-351-1	θ d s a r.i									
-361-1	ʔ r.i u m o r									
-379-1	k u s a o.u a									
+346-1	k u r a s a r i									
+347-1	k i r u r i									
+348-1	h i r u s a r i									
+351-1	θ d s a r i									
+361-1	ʔ r i u m o r									
+379-1	k u s a o u a									
 394-1	h i d a r i									
 395-1	m i sː i ɴ i									
-400-1	h i r r u r.i									
-412-1	s a k ɨ r u r.i									
-413-1	a ts u.h.i.ɴ k u s s u r.i									
-414-1	h u r u r.i									
+400-1	h i r r u r i									
+412-1	s a k ɨ r u r i									
+413-1	a ts u h i ɴ k u s s u r i									
+414-1	h u r u r i									
 422-1	h u k ɨ r ɨ r i									
 423-1	k a r g a ɨ r i									
-430-1	h a kʲ u r.i									
-435-1	h u kʲ u r.i									
-446-1	s i θ r.i a									
-447-1	ʔ r.i a									
+430-1	h a kʲ u r i									
+435-1	h u kʲ u r i									
+446-1	s i θ r i a									
+447-1	ʔ r i a									
 458-1	θ u s i									
 56-1	r i θ u									
 62-1	ʔ i mʲ									
@@ -160,7 +160,7 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 65-2		k a a								
 70-2		t a n e								
 75-2		k a a								
-14-3			k o r e.i							
+14-3			k o r e i							
 18-3			d a e							
 35-3			h i t ts u							
 36-3			h t a ts u							
@@ -169,17 +169,17 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 63-3			s i a m e							
 64-3			k i							
 67-3			h a							
-68-3			n e.i							
+68-3			n e i							
 71-3			tɕ i							
-76-3			h o n e.i							
+76-3			h o n e i							
 83-3			ts u n o							
-87-3			h a ɴ e.i							
+87-3			h a ɴ e i							
 95-3			m i m i							
 98-3			h a n a							
 99-3			k u tɕ i							
 -102-3			s i d a							
-103-3			ts u m e.i							
-110-3			t e.i							
+103-3			ts u m e i							
+110-3			t e i							
 116-3			m n e							
 120-3			n o m							
 132-3			k i k							
@@ -204,8 +204,8 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 252-3			m i g u							
 253-3			j o g u							
 254-3			i ts u ts u							
-266-3			k a g e.i							
-267-3			n a g a r e.i							
+266-3			k a g e i							
+267-3			n a g a r e i							
 268-3			m i							
 272-3			a m							
 276-3			a r a							
@@ -226,11 +226,11 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 394-3			h i d a r i							
 395-3			m i g i							
 400-3			h i sː a							
-412-3			s a k e.i							
+412-3			s a k e i							
 413-3			ts u k k s							
 414-3			h o							
 422-3			h u k e							
-423-3			k a ɴ.i g a e.i							
+423-3			k a ɴ i g a e i							
 430-3			h a k u							
 435-3			h u k							
 446-3			s i tɕː a							
@@ -238,14 +238,14 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 458-3			t o s i							
 56-3			h i t o							
 62-3			iː ɴ							
-65-3			k a.i w a							
-70-3			t a n e.i							
-75-3			k a.i w a							
+65-3			k a i w a							
+70-3			t a n e i							
+75-3			k a i w a							
 96-3			m i							
 101-3			h i a							
 14-4				k o r e						
 18-4				d a r e						
-35-4				h i.j t o t u						
+35-4				h i j t o t u						
 36-4				h u t a t u						
 48-4				n a g a i						
 60-4				t o r i						
@@ -294,7 +294,7 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 276-4				a r a u						
 281-4				m u s i						
 304-4				t u b a						
-305-4				t i i.j						
+305-4				t i i j						
 308-4				h a n a						
 309-4				k u s a						
 310-4				t o						
@@ -304,7 +304,7 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 347-4				k i r u						
 348-4				h i r o i						
 351-4				t oː i						
-361-4				o a i.j						
+361-4				o a i j						
 379-4				k u s a uː a						
 394-4				h i d a r i						
 395-4				m i g i						
@@ -451,7 +451,7 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 221-6						n vː				
 239-6						ɨ ts ɨ				
 252-6						m iː				
-253-6						j a.u ɨ				
+253-6						j a u ɨ				
 254-6						ɨ ts ts ɨ				
 266-6						k a vː i				
 267-6						n a dz a ɭ i ɭ				
@@ -469,7 +469,7 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 346-6						k ɭ a iː				
 347-6						ts ɨː				
 348-6						p ɨ ɭ iː				
-351-6						t a.u a				
+351-6						t a u a				
 361-6						u β				
 379-6						k s a f				
 394-6						p ɨ dz a ɭ ɨː				
@@ -659,8 +659,8 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 101-8								h n a		
 14-9									k u r i	
 18-9									t a r u	
-35-9									h.w t ɕ i	
-36-9									h.w t eː ɕ i	
+35-9									h w t ɕ i	
+36-9									h w t eː ɕ i	
 48-9									n a g a s ɴ i	
 60-9									t u r	
 63-9									s i r a ɴ	
@@ -668,7 +668,7 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 67-9									h aː	
 68-9									n i ɴ	
 71-9									tɕ i	
-76-9									h.w u n i	
+76-9									h w u n i	
 83-9									ɕ i n u	
 87-9									h a n i	
 95-9									m i ɴ i	
@@ -684,7 +684,7 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 140-9									ʔ ʔʲ u ɴ i	
 156-9									t a s oː ɴ	
 168-9									ɕ i tɕ i	
-169-9									h.w u s i	
+169-9									h w u s i	
 170-9									m i tsː i	
 173-9									ʔ i s i	
 180-9									k u m u	
@@ -716,24 +716,24 @@ COGID	Amami	Hachijo	Kagoshima	Kochi	Kyoto	Miyako	Oki	Sado	Shuri	Tokyo
 342-9									u tɕ i	
 346-9									k u r a s ɴ i	
 347-9									tɕ i r ɴ i	
-348-9									h.w i r s ɴ i	
+348-9									h w i r s ɴ i	
 351-9									t i s ɴ i	
 361-9									ʔ u u s a ɴ	
 379-9									k u s a i t a	
-394-9									h.w i ʔʲ a i	
+394-9									h w i ʔʲ a i	
 395-9									n i tɕ ɴ i	
-400-9									h.w i a r ɴ	
+400-9									h w i a r ɴ	
 412-9									s a ɴ i ɴ	
 413-9									ɕ i s a s ɴ	
 414-9									h u ɴ	
-422-9									h.w u k u r i ɴ	
+422-9									h w u k u r i ɴ	
 423-9									k a ɴ g a ɴ u	
 430-9									h a k ɴ	
-435-9									h.w u k ɴ	
+435-9									h w u k ɴ	
 446-9									ɕ tː a	
 447-9									ʔ ʔʲ	
 458-9									t u s i	
-56-9									h.w i t u	
+56-9									h w i t u	
 62-9									ʔ i n	
 65-9									k aː r a	
 75-9									k aː r a	

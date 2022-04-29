@@ -10,15 +10,15 @@ COGID	Albanian	English	French	German	Latin
 728-1	l u n u				
 244-1	m				
 289-1	u j j				
-911-1	r.v				
-724-1	ʃ r.v				
+911-1	r v				
+724-1	ʃ r v				
 145-1	u				
 992-1					
 1181-1	k				
 741-1	d j				
 1150-1	ʃ ʃ				
 585-1	ʃ e				
-814-1	e r.v				
+814-1	e r v				
 916-1	t				
 1079-1	a				
 630-1	n				
@@ -29,7 +29,7 @@ COGID	Albanian	English	French	German	Latin
 353-2		p ɪ s			
 201-2		f i n p			
 20-2		p i j r			
-503-2		p l -.o			
+503-2		p l - o			
 957-2		j ɪ n			
 728-2		l ɑ			
 244-2		n i m n			
@@ -91,10 +91,10 @@ COGID	Albanian	English	French	German	Latin
 244-3			n u m		
 289-3			n t		
 911-3			r i		
-724-3			t r.w		
+724-3			t r w		
 145-3			d u		
 992-3			ɔ		
-1181-3			s.j a		
+1181-3			s j a		
 706-3			k		
 106-3			p o t u r		
 741-3			p u u		
@@ -105,7 +105,7 @@ COGID	Albanian	English	French	German	Latin
 1066-3					
 1125-3			ʒ n a		
 1197-3			m u t u r		
-473-3			n ɔ -.z		
+473-3			n ɔ - z		
 284-3			n e k		
 661-3			i i		
 701-3			r u u		
@@ -113,7 +113,7 @@ COGID	Albanian	English	French	German	Latin
 1169-3			k		
 1150-3			g p t r		
 982-3			k		
-987-3			ʒ n -.z		
+987-3			ʒ n - z		
 1055-3			ʒ t u u		
 1130-3			k u		
 433-3			k u		
@@ -152,16 +152,16 @@ COGID	Albanian	English	French	German	Latin
 145-4				k	
 992-4				k	
 1181-4				f	
-706-4				iː.g	
+706-4				iː g	
 106-4				f a ə r	
 421-4				f l ə r	
 227-4				f	
 920-4				f r	
 1083-4				f r n	
-1066-4				f iː.g	
+1066-4				f iː g	
 1125-4				f n eː	
 1197-4				f ə ə r	
-473-4				n iː.r f	
+473-4				n iː r f	
 284-4				n eː	
 661-4				ə n	
 701-4				l aː	
@@ -175,7 +175,7 @@ COGID	Albanian	English	French	German	Latin
 433-4				ʃ ə n	
 585-4				t	
 625-4				l ə a	
-1186-4				t iː.r	
+1186-4				t iː r	
 814-4				k l	
 416-4				v	
 1233-4				v eː n	
@@ -185,20 +185,20 @@ COGID	Albanian	English	French	German	Latin
 116-4				eː s	
 188-4				f r	
 745-4				f aː d ə r	
-1100-4				f r iː.r -.b	
+1100-4				f r iː r - b	
 630-4				m m	
 1155-4				f au l l	
 24-4				n a s	
 232-4				n n	
 671-4				a r a ai s	
-560-5					w p eː n.i
+560-5					w p eː n i
 438-5					o r eː
 1222-5					eː
 353-5					p eː s k
 201-5					p eː a s
 20-5					p eː t r
 503-5					p l k
-957-5					eː n.u.i a
+957-5					eː n u i a
 728-5					l eː
 244-5					n eː m k n
 289-5					n e a
@@ -210,22 +210,22 @@ COGID	Albanian	English	French	German	Latin
 706-5					o i i
 106-5					p e t e r
 741-5					p o k
-421-5					f l.u o r
+421-5					f l u o r
 227-5					p aː
 920-5					k o r i a
-1083-5					k e r n.u.i
+1083-5					k e r n u i
 1066-5					o e a
 1125-5					b a n u
 1197-5					m e t e r
-473-5					n u m.i.n i l.a
+473-5					n u m i n i l a
 284-5					n e e i
-661-5					e n.u.i
+661-5					e n u i
 701-5					r u o
-315-5					r e n.u.i d.o
-1169-5					s e l.a
+315-5					r e n u i d o
+1169-5					s e l a
 982-5					a s e
 987-5					s n e o
-1055-5					s t o eː l.a a
+1055-5					s t o eː l a a
 1130-5					s e e
 433-5					s e l i
 585-5					t uː
@@ -233,7 +233,7 @@ COGID	Albanian	English	French	German	Latin
 1186-5					e e
 814-5					w e r eː
 416-5					w eː
-1233-5					w e n.u.i
+1233-5					w e n u i
 884-5					w e r e
 916-5					
 1016-5					a e m a e
@@ -248,6 +248,6 @@ COGID	Albanian	English	French	German	Latin
 1061-5					m e t a
 630-5					aː n
 1155-5					k u e e
-24-5					n.u.i u i t.i
-232-5					n.u.i u n
+24-5					n u i u i t i
+232-5					n u i u n
 343-5					w

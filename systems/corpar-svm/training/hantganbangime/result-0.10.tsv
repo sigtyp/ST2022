@@ -8,27 +8,27 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 1840-1	t i ŋ															
 2247-1	g o															
 4677-1	k u r e ŋ															
-5162-1	m̩.b i r̃ ɛ															
+5162-1	m̩ b i r̃ ɛ															
 5406-1	t aː n d iː															
 359-1	g a r u															
 1577-1	g i r e															
 2196-1	n a r̃ a															
 2230-1	s iː															
-2533-1	b a r ŋː.e i															
+2533-1	b a r ŋː e i															
 3605-1	k a n d a															
-3866-1	ŋː.e o s u															
-4553-1	t a ŋː.e iː															
-4822-1	k u m̩.b b o															
+3866-1	ŋː e o s u															
+4553-1	t a ŋː e iː															
+4822-1	k u m̩ b b o															
 5254-1	d u r a															
-503-1	tʃ i r̃ e.j̃ j̃															
-1356-1	m̩.b a iː															
+503-1	tʃ i r̃ e j̃ j̃															
+1356-1	m̩ b a iː															
 1881-1	n iː mː															
 3218-1	b uː s u															
 3372-1	n a mː a															
-3718-1	ŋː.e a r a															
+3718-1	ŋː e a r a															
 4135-1	b a r̃ iː															
 4694-1	g u s u															
-807-1	k ɔ m̩.b iː															
+807-1	k ɔ m̩ b iː															
 2320-1	k a n ɛ															
 2476-1	k iː															
 3719-1	mː															
@@ -39,9 +39,9 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 93-1	d iː															
 260-1	b i r ɛ															
 385-1	z ɛ m b ɛ															
-890-1	a m̩.b i r u															
+890-1	a m̩ b i r u															
 1336-1	t e g e															
-1703-1	b ɔː ŋː.e															
+1703-1	b ɔː ŋː e															
 1769-1	t ɛ m b i															
 2162-1	b ɛ r ɛ															
 2635-1	s o															
@@ -49,7 +49,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 4591-1	k iː r															
 5301-1	p aː r u															
 5605-1	t i iː a j̃															
-463-1	d u m̩.b b u															
+463-1	d u m̩ b b u															
 1432-1	t a r iː															
 1474-1	t ɔ ɔ															
 1788-1	s															
@@ -183,7 +183,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 1626-3			w a g a													
 1840-3			t eː													
 2247-3			eː eː													
-4677-3			k u l e.w̃													
+4677-3			k u l e w̃													
 5162-3			m i t ɛ													
 5406-3			t eː n t i													
 359-3			g a i													
@@ -296,7 +296,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 1-4				p ɔ												
 629-4				d ɔ												
 667-4				ɛ w ɛ												
-1254-4				dʒ a j̃ d u r.u.w u												
+1254-4				dʒ a j̃ d u r u w u												
 1415-4				ɲ ɛː												
 1542-4				n u												
 1683-4				dʒ i e												
@@ -366,7 +366,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 2551-5					r ɛ											
 2957-5					m a n d e											
 3048-5					b i j e											
-715-6						d.e.ŋ.g u										
+715-6						d e ŋ g u										
 1089-6						n aː										
 1319-6						ɔː ɔ										
 1398-6						s u ŋ n e										
@@ -389,7 +389,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 503-6						k i j aː										
 1356-6						m aː										
 1881-6						n ɛ m										
-2084-6						j aː.g.e b i										
+2084-6						j aː g e b i										
 2420-6						k u l ɛ										
 3218-6						b u dʒ u										
 3372-6						n a m a										
@@ -405,7 +405,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 4460-6						s ɔ j										
 5514-6						n ɔː n d ɔː										
 5810-6						p i l e										
-93-6						d.e.ŋ.g p										
+93-6						d e ŋ g p										
 890-6						a m i r u										
 1336-6						t eː g eː										
 1703-6						b t										
@@ -417,7 +417,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 762-6						b a n a k u										
 3425-6						j i										
 4120-6						k o l										
-4423-6						d.e.ŋ.g ɔ r ɔ										
+4423-6						d e ŋ g ɔ r ɔ										
 4759-6						n i j e										
 4904-6						n u ŋ s										
 4960-6						g i n n i										
@@ -445,7 +445,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 5406-7							t oː n d i									
 359-7							g a r i									
 1577-7							g i r e									
-2196-7							n a.w r̃ a									
+2196-7							n a w r̃ a									
 2230-7							s i g oː									
 2533-7							b a r i									
 3605-7							k a n d a									
@@ -456,8 +456,8 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 503-7							k u r̃ e									
 1356-7							m a j									
 1881-7							n oː									
-3372-7							n a.w m a.w									
-3718-7							a.w r a									
+3372-7							n a w m a w									
+3718-7							a w r a									
 4135-7							b a r̃ i									
 4694-7							g i s i									
 807-7							k o ɔ									
@@ -547,7 +547,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 4694-8								g u dʒ u								
 2320-8								k a								
 2476-8								k o								
-2842-8								d i.l g u								
+2842-8								d i l g u								
 3719-8								m								
 4081-8								d a m b u								
 4313-8								n a m g a								
@@ -558,9 +558,9 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 2735-8								d aː n a								
 3031-8								d ɔ g ɔ								
 4591-8								t a r u								
-5301-8								r ɔ l.e.l u								
+5301-8								r ɔ l e l u								
 63-8								k a r a								
-1788-8								s i.g.e								
+1788-8								s i g e								
 2713-8								t e d ɛ r ɛ								
 4120-8								k ɔ l o								
 4184-8								r r a a								
@@ -569,7 +569,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 5771-8								dʒ u g u								
 5938-8								a r u n a								
 629-8								d ɔ								
-1415-8								n.dʒ ɛː								
+1415-8								n dʒ ɛː								
 1898-8								p u l ɔ								
 2551-8								r u								
 2957-8								m a n d u								
@@ -699,8 +699,8 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 2476-10										k ɛː						
 2842-10										d i g u						
 3719-10										m i						
-4081-10										d a m.e b i						
-4313-10										n ɛ m.e						
+4081-10										d a m e b i						
+4313-10										n ɛ m e						
 4460-10										s ɔ						
 5514-10										n ɛ n d ɛː						
 5810-10										p i l ɛː						
@@ -710,7 +710,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 890-10										a m b u r ɛː						
 1336-10										t e g e						
 1703-10										b aː						
-1769-10										t ɛ m.e b i						
+1769-10										t ɛ m e b i						
 2162-10										b ɛ l ɛ						
 2635-10										s						
 2735-10										d a n a						
@@ -905,7 +905,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 1557-13													g i r i			
 1626-13													wː a g a			
 1840-13													t i nː			
-2247-13													g o.o			
+2247-13													g o o			
 4677-13													k u l o			
 5162-13													m i ɛ			
 5406-13													t aː n d u			
@@ -923,7 +923,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 1356-13													mː a nː			
 2084-13													j aː b ɛ			
 2420-13													k u l ɔ			
-3218-13													b u.u d u			
+3218-13													b u u d u			
 3372-13													n a m a			
 3718-13													a r a			
 4135-13													b a n			
@@ -951,7 +951,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 5301-13													p ɛ l u			
 5605-13													t i mː			
 63-13													k a r a			
-762-13													b a n a k u.u			
+762-13													b a n a k u u			
 1432-13													t a l u			
 1474-13													t ɔ			
 1788-13													s ɛ			
@@ -960,7 +960,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 3219-13													b aː s u			
 3425-13													j aː			
 4120-13													k o l o			
-4184-13													o.o ɛ			
+4184-13													o o ɛ			
 4423-13													d ɔ ɔ			
 4629-13													n u nː u			
 4980-13													t nː			
@@ -974,7 +974,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 483-13													g o d u			
 667-13													ɛ b ɛ			
 1254-13													dʒ a mː d u l u			
-1415-13													o.o o.o			
+1415-13													o o o o			
 1683-13													s aː			
 2901-13													t u nː aː			
 3251-13													s a n a			
@@ -1103,7 +1103,7 @@ COGID	Bankan_Tey	Ben_Tey	Bunoge	Jamsay	Mombo	Najamba	Nanga	Penange	Perge_Tegu	Te
 3219-15															b a u	
 3425-15															j o	
 4120-15															k o r o	
-4423-15															t ɔ r̃.u ɔ	
+4423-15															t ɔ r̃ u ɔ	
 4629-15															n u u	
 4759-15															n j̃ o	
 4904-15															n u aː	

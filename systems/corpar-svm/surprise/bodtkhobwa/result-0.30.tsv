@@ -50,13 +50,13 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 196-1	m au							
 199-1	tsʰ ɛi							
 200-1	kʰ a n							
-201-1	kʰ.j i							
+201-1	kʰ j i							
 202-1	kʰ ɔ							
 203-1	tʰ ɔ ŋ							
 204-1	b u							
 206-1	ɲ a m							
 117-1	b u							
-146-1	kʰ ɔ.t p							
+146-1	kʰ ɔ t p							
 219-1	ɛi a							
 218-1	kʰ i							
 224-1	m a ŋ							
@@ -67,7 +67,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 263-1	l ɔː							
 269-1	ʑ a k							
 271-1	tʰ a k							
-209-1	kʰ ɔ.t p							
+209-1	kʰ ɔ t p							
 277-1	m ɛ m							
 278-1	b ɔ ŋ							
 135-1	d a							
@@ -597,7 +597,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 188-3			ei u n					
 189-3			ts u l					
 193-3			h e					
-196-3			m a.n					
+196-3			m a n					
 199-3			ɕ ei					
 200-3			kʰ a l					
 201-3			kʰ i					
@@ -614,7 +614,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 244-3			w a t					
 255-3			t a s					
 260-3			b ai					
-263-3			l a.l					
+263-3			l a l					
 269-3			ei a k					
 271-3			tʰ a k					
 209-3			kʰ i p					
@@ -630,10 +630,10 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 319-3			i					
 325-3			l e					
 327-3			tʰ i					
-331-3			k a.l					
+331-3			k a l					
 337-3			b j ɛ n					
 338-3			e i ŋ					
-339-3			a.n					
+339-3			a n					
 350-3			kʰ u					
 349-3			tʰ u ŋ					
 357-3			tɕʰ a					
@@ -667,7 +667,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 474-3			ɔ ŋ					
 479-3			s ɛ l					
 489-3			j i					
-490-3			j a.n ŋ					
+490-3			j a n ŋ					
 494-3			ɕ a					
 503-3			kʰ u					
 502-3			ʑ a ŋ					
@@ -738,7 +738,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 748-3			tʰ i					
 747-3			kʰ u					
 749-3			kʰ ɛ n					
-751-3			t a.n n					
+751-3			t a n n					
 762-3			m ɛ n					
 764-3			h i n					
 765-3			b i					
@@ -760,7 +760,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 705-3			l a					
 613-3			a					
 649-3			h j ɛ k					
-876-3			ɕ a.n					
+876-3			ɕ a n					
 878-3			j ɔ m					
 889-3			h a m					
 898-3			n u k					
@@ -808,8 +808,8 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 1108-3			tɕʰ a k					
 552-3			dʑ a					
 1111-3			b ai					
-1116-3			s a.n n					
-722-3			kʰ a.l					
+1116-3			s a n n					
+722-3			kʰ a l					
 1141-3			j a ŋ					
 1147-3			b i					
 1146-3			ʑ u					
@@ -1376,7 +1376,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 1189-5					n i k			
 1-6						g uː		
 5-6						n a		
-4-6						tʰ ɔ.k k		
+4-6						tʰ ɔ k k		
 6-6						n a ŋ		
 15-6						dʑ i		
 55-6						l ɔ		
@@ -1708,7 +1708,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 117-7							b yː	
 146-7							kʰ eˀ	
 219-7							pʰ	
-218-7							ʨʰ ã.j	
+218-7							ʨʰ ã j	
 224-7							m ɔ̃ː ŋ	
 240-7							tɕʰ a k	
 244-7							j ɔˀ	
@@ -1729,7 +1729,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 310-7							s ə	
 319-7							iː	
 325-7							r a	
-327-7							tʰ ã.j	
+327-7							tʰ ã j	
 331-7							k au	
 337-7							b a n	
 338-7							l i ŋ	
@@ -1828,7 +1828,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 723-7							ts i ŋ	
 726-7							dʑ iː ŋ	
 729-7							b u	
-730-7							r ã.j	
+730-7							r ã j	
 739-7							pʰ l iː	
 740-7							b ə	
 741-7							kʰ ɔ k	
@@ -1867,7 +1867,7 @@ COGID	Duhumbi	Jerigaon	Khispi	Khoina	Khoitam	Rahung	Rupa	Shergaon
 902-7							h u ŋ	
 910-7							a n	
 916-7							l iː	
-919-7							r ã.j	
+919-7							r ã j	
 922-7							s i k	
 930-7							tɕʰ ɔ̃ː	
 933-7							k aˀ	

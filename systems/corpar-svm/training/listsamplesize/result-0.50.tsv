@@ -26,7 +26,7 @@ COGID	dutch	english	french	german
 610-1	k ə n iː			
 945-1	h ɑ r t			
 1534-1	l ɛ k ə			
-384-1	z k.ə ə			
+384-1	z k ə ə			
 1650-1	n ə ɔ t			
 1663-1	z ɑ l t			
 2279-1	l ɛɪ n ə n			
@@ -80,7 +80,7 @@ COGID	dutch	english	french	german
 2141-1	h ɛ n			
 2147-1	x ɑ n s			
 814-1	k r uː ə			
-810-1	d oː v.ə ə			
+810-1	d oː v ə ə			
 1755-1	j ɔ			
 1758-1	m oː t			
 1760-1	r			
@@ -99,7 +99,7 @@ COGID	dutch	english	french	german
 1813-1	h aː ə r			
 1811-1	b l uː d			
 690-1	r iː ə			
-2177-1	h ɑu.w + d			
+2177-1	h ɑu w + d			
 246-1	oː + ə n + b r oː ə			
 249-1	oː + ə n + l iː d			
 1506-1	n aː s r r ə n + + + +			
@@ -125,13 +125,13 @@ COGID	dutch	english	french	german
 1959-1	s l aː p ə n			
 694-1	s n ɑ r + ə n			
 1961-1	d r uː m ə n			
-323-1	ə ə l aː v.ə ə n			
-1885-1	x r aː v.ə			
+323-1	ə ə l aː v ə ə n			
+1885-1	x r aː v ə			
 2156-1	+ + + k ɑ l d + + +			
 1903-1	w ɔ n d ə			
 525-1	s w ɛ l ɔ ŋ			
 276-1	l aː m +			
-274-1	d ɑu.w f			
+274-1	d ɑu w f			
 278-1	b l ɪ n d			
 258-1	+ ə + d r ɔ ŋ k ə n			
 256-1	n ɑ k iː d			
@@ -145,7 +145,7 @@ COGID	dutch	english	french	german
 1976-1	t ɑ ŋ + ə			
 1243-1	m aː l t + t			
 1265-1	p +			
-1261-1	z iː v.ə ə n			
+1261-1	z iː v ə ə n			
 655-1	b r ɛ d			
 650-1	d ɛɪ +			
 1532-1	+ n aː d ə n			
@@ -164,9 +164,9 @@ COGID	dutch	english	french	german
 2293-1	l aː d ə r			
 624-1	s p iː n ə n			
 628-1	s p iː n d ə l			
-626-1	w aː v.ə ə n			
+626-1	w aː v ə ə n			
 633-1	n aː d ə l			
-1185-1	r ɑ ə s.x uː k t ə r			
+1185-1	r ɑ ə s x uː k t ə r			
 1179-1	h uː t			
 2168-1	k ɑ m			
 1952-1	d oː r			
@@ -223,10 +223,10 @@ COGID	dutch	english	french	german
 790-1	b r ʉ k ə			
 1223-1	p ɑ d ə l			
 1117-1	z aː + ə l			
-1411-1	h aː v.ə ə n			
+1411-1	h aː v ə ə n			
 1407-1	h ɑ l d ə n			
 1390-1	d iː ŋ			
-2086-1	x ɛɪ v.ə ə n			
+2086-1	x ɛɪ v ə ə n			
 2082-1	k œy r + + + + + b n			
 576-1	z uː k ə n			
 579-1	v ɪ n d ə n			
@@ -247,7 +247,7 @@ COGID	dutch	english	french	german
 588-1	ɑ k			
 584-1	h aː k ə n			
 -1153-1	r ɔ n d			
-700-1	t w ɛ l v.ə			
+700-1	t w ɛ l v ə			
 875-1	t oː z ə ɑ d			
 1559-1	ɑ l ə			
 1565-1	m aː r			
@@ -557,20 +557,20 @@ COGID	dutch	english	french	german
 1469-4				z a n ts
 2047-4				z ɔ n + +
 2054-4				t ɔ n t ə r
-1375-4				l ɪ x.ə ts + +
-760-4				v ɪ n t.ə
+1375-4				l ɪ x ə ts + +
+760-4				v ɪ n t ə
 756-4				z n ai +
 726-4				m uː t ə r
-1351-4				f r oː + t.ə z a t ə r
+1351-4				f r oː + t ə z a t ə r
 1353-4				f r oː t m uː t ə r
-412-4				s oː n + f a t ə r + ɪ.x + + l +
-406-4				s oː x.ə + m uː t ə r + ɪ.x + + l +
+412-4				s oː n + f a t ə r + ɪ x + + l +
+406-4				s oː x ə + m uː t ə r + ɪ x + + l +
 1005-4				z ts iː ɛ z a t ə r
 1012-4				z ts iː f m uː t ə r
 1016-4				v ai t ɛ ʊ n + + r
 1069-4				+ ɪ x
-509-4				f ʊ l ə.n
-693-4				m ɛ uː l + + + ts.ə ə.n l
+509-4				f ʊ l ə n
+693-4				m ɛ uː l + + + ts ə ə n l
 2179-4				n ɛ ʃ t
 1753-4				+ f ɪ s +
 1131-4				v ɔ l f +
@@ -579,31 +579,31 @@ COGID	dutch	english	french	german
 2241-4				n uː s
 2244-4				l ɪ pf +
 610-4				k + n ai
-945-4				h a x.ə t
-1534-4				l ɪ k ə.n
-384-4				z uː k ə.n
+945-4				h a x ə t
+1534-4				l ɪ k ə n
+384-4				z uː k ə n
 1650-4				n + oː t
 1663-4				z au l t
-2279-4				l ɪ n ə.n +
+2279-4				l ɪ n ə n +
 471-4				z aː z ə
 1385-4				z a + + ts
-792-4				ʃ ʊ k.ə
+792-4				ʃ ʊ k ə
 1111-4				m a ʃ t
-197-4				z uː ə.n
+197-4				z uː ə n
 2020-4				l a ŋ
-867-4				h ɔ n t ə.n r + t.ə
+867-4				h ɔ n t ə n r + t ə
 1970-4				f ɔ l +
-1230-4				t + x.ə + a t + ə +
+1230-4				t + x ə + a t + ə +
 2017-4				n iː v ɛ
-968-4				v ai r ə l t.ə
-1674-4				l ɛ n t.ə
+968-4				v ai r ə l t ə
+1674-4				l ɛ n t ə
 1671-4				h ʊ b ə l
 829-4				k l ɪ f
 1025-4				v aː t ə r
 1027-4				z ai
 1832-4				r ʊ f
 -1816-4				au ʃ ai z aː ŋ
--335-4				l aː f ʊ n ə.n
+-335-4				l aː f ʊ n ə n
 1043-4				ʃ t r au m
 423-4				ʃ t ai n
 2049-4				m ai n
@@ -611,17 +611,17 @@ COGID	dutch	english	french	german
 2065-4				r ai n ə m + b au ɡ
 1368-4				ʃ ɡ ai t ʊ +
 1365-4				t ɛ au +
-754-4				r ai n ə.n
+754-4				r ai n ə n
 768-4				v ai + + r
 1211-4				f ʊ + r
 106-4				m ɛ n
--98-4				b ai b ɪ.x
+-98-4				b ai b ɪ x
 719-4				f ai t ə r
 1341-4				z au n
--2027-4				t ɛ n t ə.n
+-2027-4				t ɛ n t ə n
 -2026-4				n ai ɛ ɛ
 409-4				ʃ ɡ au n + z oː n + l +
-402-4				ʃ ɡ oː n + t ɔ ɡ t ə r + ɪ.x + + l +
+402-4				ʃ ɡ oː n + t ɔ ɡ t ə r + ɪ x + + l +
 1014-4				ʃ t iː f + t ɔ ɡ t ə r
 1059-4				v ai
 120-4				ʃ t a l
@@ -634,7 +634,7 @@ COGID	dutch	english	french	german
 512-4				m ɛ r f
 2141-4				h ɛ n
 2147-4				f ɛ n s
-814-4				k r ai ts.ə
+814-4				k r ai ts ə
 810-4				t ʊ
 1755-4				+ ʊ n t
 1758-4				m ʊ s
@@ -648,161 +648,161 @@ COGID	dutch	english	french	german
 1442-4				f l ai ɡ
 62-4				m ʊ
 -73-4				m ʊ s k ai t ɛ
-1810-4				h ʊ t.ə
+1810-4				h ʊ t ə
 1805-4				f l ai s
 1813-4				h aː + r
-1811-4				b l ʊ t.ə
+1811-4				b l ʊ t ə
 690-4				r ɪ pf
-2177-4				h oː ts.ə t.ə
-246-4				v ɛ ŋ ts.ə + b r au +
-249-4				au ɡ + l ɪ t.ə
+2177-4				h oː ts ə t ə
+246-4				v ɛ ŋ ts ə + b r au +
+249-4				au ɡ + l ɪ t ə
 1506-4				n ʊ s + z l ʊ ɡ + + ə l
 2242-4				m ɔ n t
 2245-4				t ɔ ŋ
 1196-4				a ts
 2174-4				ʃ ɡ au l t ə r
 575-4				oː k
-603-4				ɛ l ə.n + b au ɡ
-601-4				h ɛ n t.ə
+603-4				ɛ l ə n + b au ɡ
+601-4				h ɛ n t ə
 615-4				f ɪ ŋ ɛ ə r
 901-4				k l au +
 608-4				f ʊ t
 596-4				t ai n
 937-4				b ɔ r + s t
-936-4				n ai f.ə ə l
+936-4				n ai f ə ə l
 646-4				l ɔ ŋ
-947-4				l ai f.ə ə r
+947-4				l ai f ə ə r
 1606-4				h ʊ pf
-472-4				+ n ai ʃ ə.n
-1535-4				z v ai t ə.n
-1546-4				ʃ p ʊ ɡ ə.n
-1959-4				ʃ l ai p ə.n
-694-4				ʃ n ʊ r k ə.n
-1961-4				t r au m ə.n
-323-4				+ + l ai f.ə ə.n
+472-4				+ n ai ʃ ə n
+1535-4				z v ai t ə n
+1546-4				ʃ p ʊ ɡ ə n
+1959-4				ʃ l ai p ə n
+694-4				ʃ n ʊ r k ə n
+1961-4				t r au m ə n
+323-4				+ + l ai f ə ə n
 1885-4				f r ɛ
-2156-4				b ə r + k au l t.ə + h ai t
-1903-4				v ɔ n t.ə
+2156-4				b ə r + k au l t ə + h ai t
+1903-4				v ɔ n t ə
 525-4				z v ɛ l ɪ ŋ
 276-4				l ɛ m ɛ
 274-4				t oː f
-278-4				b l ɪ n t.ə
-258-4				t r ɔ ŋ k ə.n
-256-4				n ai k.ə ɪ.x t.ə
-383-4				ai t ə.n
+278-4				b l ɪ n t ə
+258-4				t r ɔ ŋ k ə n
+256-4				n ai k ə ɪ x t ə
+383-4				ai t ə n
 207-4				r ai pf
-376-4				t r ɪ ŋ k ə.n
-2014-4				a k.ə + x.ə
-2009-4				au f.ə ɛ ə.n
+376-4				t r ɪ ŋ k ə n
+2014-4				a k ə + x ə
+2009-4				au f ə ɛ ə n
 2003-4				k ai t ə l
 2024-4				p ɛ n
 1976-4				t ɛ ŋ ɛ
 1243-4				m ai l + t ai t
-1261-4				z ai f.ə ə.n
-655-4				b r oː t.ə
+1261-4				z ai f ə ə n
+655-4				b r oː t ə
 650-4				t ai ɡ
-1532-4				k n ai t ə.n
+1532-4				k n ai t ə n
 -36-4				ʃ ʊ pf
 34-4				b au n
 -1647-4				f ai ɡ
--1615-4				au ɪ.x l +
+-1615-4				au ɪ x l +
 125-4				f ɛ t
 1659-4				h au n ɪ ŋ
-1661-4				m ɛ l k.ə
+1661-4				m ɛ l k ə
 1676-4				b au t ə r
-480-4				t r aː ŋ k.ə
+480-4				t r aː ŋ k ə
 1466-4				k l ai t ɪ ŋ
 2277-4				v ɔ l
 2271-4				f ɪ l t
 2293-4				l ai + + r
-624-4				ʃ p ɪ n ə.n
+624-4				ʃ p ɪ n ə n
 628-4				ʃ p ɪ n t ə l
-626-4				v ai f.ə ə.n
+626-4				v ai f ə ə n
 633-4				n ai + l t
 1185-4				ʃ ɡ ʊ n + m ai k ə r
 1179-4				h ʊ t
 2168-4				k ɛ m
 1952-4				t ʊ r
 899-4				l ɛ t ə r
-922-4				b ɛ t.ə
+922-4				b ɛ t ə
 -934-4				l ɛ m pf
 916-4				t r ɔ ɡ
-1726-4				f ɛ l t.ə
-2108-4				p l ʊ ɡ ə.n
+1726-4				f ɛ l t ə
+2108-4				p l ʊ ɡ ə n
 1133-4				f au r ə
-2114-4				ʃ p ai t ə.n
-1272-4				r ɔ ɡ ə.n
+2114-4				ʃ p ai t ə n
+1272-4				r ɔ ɡ ə n
 1979-4				f r ɛ s
-1989-4				h au ts.ə
--2260-4				p l ɛ n t ə.n
+1989-4				h au ts ə
+-2260-4				p l ɛ n t ə n
 70-4				b ʊ x
--89-4				f.ə ɪ ŋ ə r t
+-89-4				f ə ɪ ŋ ə r t
 -12-4				p ai pf
 713-4				ʃ ɛ pf
 747-4				n ai t ə l
 308-4				t ʊ n
-289-4				b ɪ n t ə.n
-1930-4				b r ai k ə.n
-1928-4				ʃ p l ai t ə.n
-858-4				ʊ t + + + r ɛ k ə.n
-1577-4				ɔ pf + h ɛ ŋ ə.n
-908-4				v ɛ ʃ ə.n
-648-4				b oː r ə.n
+289-4				b ɪ n t ə n
+1930-4				b r ai k ə n
+1928-4				ʃ p l ai t ə n
+858-4				ʊ t + + + r ɛ k ə n
+1577-4				ɔ pf + h ɛ ŋ ə n
+908-4				v ɛ ʃ ə n
+648-4				b oː r ə n
 1855-4				ʊ t + h ɔ l ə
 657-4				h ai m ə r
 2058-4				n ai ɡ ə l
 949-4				+ l ɛ + + ʃ m ɪ t
-1642-4				f au l t.ə
-1640-4				z ɪ l f.ə ə r
+1642-4				f au l t ə
+1640-4				z ɪ l f ə ə r
 1633-4				ai z ə r
 1630-4				t ɪ n
 993-4				f l ɛ s
--2121-4				r ɔ l ə.n
-1692-4				f a l ə.n
-1694-4				t r ʊ p ə l ə.n
-1062-4				z ɪ ŋ k ə.n
-476-4				z v ɛ m ə.n
-1051-4				f l ai ɡ ə.n
+-2121-4				r ɔ l ə n
+1692-4				f a l ə n
+1694-4				t r ʊ p ə l ə n
+1062-4				z ɪ ŋ k ə n
+476-4				z v ɛ m ə n
+1051-4				f l ai ɡ ə n
 1075-4				b l aː z ə
-135-4				l ai t ə.n
--134-4				t ɛ n ʃ ə.n
+135-4				l ai t ə n
+-134-4				t ɛ n ʃ ə n
 1839-4				f ɛ + ɡ aː n
-1097-4				t ə r ʊ ɡ + k au m ə.n + + ɛ +
+1097-4				t ə r ʊ ɡ + k au m ə n + + ɛ +
 1777-4				f ɔ l ɡ ə
-1434-4				b r ɛ ŋ ə.n
-1417-4				l ai t ə.n
-1424-4				r ai t ə.n
+1434-4				b r ɛ ŋ ə n
+1417-4				l ai t ə n
+1424-4				r ai t ə n
 778-4				p ɛ t
 790-4				b r ʊ
 1223-4				p ɛ t ə l
 1117-4				z ai l
-1411-4				h ɛ f.ə ə.n
-1407-4				b a s t + h au l t ə.n
+1411-4				h ɛ f ə ə n
+1407-4				b a s t + h au l t ə n
 1390-4				t ɪ ŋ
-2086-4				f ai f.ə ə.n
-2082-4				t ə r ts.ə + f ai f.ə ə.n + + ɛ +
-576-4				z ʊ k ə.n
-579-4				f ɪ n t ə.n
-581-4				b ə r + l ai ʃ ə.n
+2086-4				f ai f ə ə n
+2082-4				t ə r ts ə + f ai f ə ə n + + ɛ +
+576-4				z ʊ k ə n
+579-4				f ɪ n t ə n
+581-4				b ə r + l ai ʃ ə n
 -1791-4				r ai x
 -225-4				p r ai s
 -2284-4				p l ai
-1479-4				au p ə n ə.n
+1479-4				au p ə n ə n
 847-4				h au ɡ
 659-4				b au t ə m
-860-4				m ɪ t ə.n ɛ
+860-4				m ɪ t ə n ɛ
 213-4				r ɛ ɡ
 1286-4				f ɛ r
-1293-4				v ɛ s t ə.n
-474-4				t ɪ k.ə
+1293-4				v ɛ s t ə n
+474-4				t ɪ k ə
 467-4				t ʊ n
 1177-4				t ai pf
 588-4				a x
-584-4				h aː k.ə
--1153-4				r ɔ n t.ə
+584-4				h aː k ə
+-1153-4				r ɔ n t ə
 700-4				t v aː l
-875-4				t ʊ ʃ ə ŋ t.ə
-1559-4				a l ə.n
+875-4				t ʊ ʃ ə ŋ t ə
+1559-4				a l ə n
 1565-4				m ai r
 1968-4				h ɛ l f t
 -350-4				p aː + r

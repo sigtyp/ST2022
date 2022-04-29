@@ -5,15 +5,15 @@ COGID	1	10	2	3	4	5	6	7	8	9
 1303-1	ŋ g ɔ m a									
 2197-1	z n a l á									
 2828-1	i n a									
-3572-1	s ɔ n i.i									
+3572-1	s ɔ n i i									
 1095-1	l i m a									
 1755-1	l k ɛ									
 1789-1	k l a á ŋ g a									
 3207-1	β ʊ l a									
 3519-1	t ʊ m a									
 3686-1	i i i m p a									
-4249-1	k ʊ m i.i									
-4451-1	β i.i s i									
+4249-1	k ʊ m i i									
+4451-1	β i i s i									
 448-1	β ʊ k ʊ ʊ i									
 630-1	β ɛ ɛ l ɛ									
 814-1	p ɔ i m w ɛ									
@@ -24,9 +24,9 @@ COGID	1	10	2	3	4	5	6	7	8	9
 2026-1	t w i									
 2775-1	z ʊ m z a									
 3397-1	z ɔ l a									
-3826-1	ɔ.ɔ k a									
+3826-1	ɔ ɔ k a									
 4003-1	n i n β a									
-4040-1	g ɛ n i.i									
+4040-1	g ɛ n i i									
 4373-1	l i m i									
 4384-1	i z ɔ									
 84-1	s ʊ g ʊ l ʊ									
@@ -36,7 +36,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 587-1	ɔ ɔ ŋ g ɔ									
 660-1	l ɛ l a									
 848-1	k a l a									
-1083-1	l i.i l a									
+1083-1	l i i l a									
 1122-1	β i l a									
 1159-1	a									
 1350-1	l d a									
@@ -46,7 +46,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 1666-1	t i n ɔ									
 1767-1	k ɔ k ɔ									
 1906-1	i ŋ g i l a									
-2177-1	z g i.i									
+2177-1	z g i i									
 2286-1	l a									
 2317-1	d ʊ d a									
 2419-1	s ɛ k a									
@@ -56,9 +56,9 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3441-1	s a ŋ g a									
 3464-1	β ɔ k a									
 3639-1	d ɛ t ɛ m ɛ l a									
-3885-1	z ʊ.ʊ m ɔ									
+3885-1	z ʊ ʊ m ɔ									
 3981-1	i n m a n a									
-4192-1	β i.i i m β a									
+4192-1	β i i i m β a									
 4260-1	z a									
 4350-1	l ɛ ɛ l ɔ									
 43-1	b i ʊ m ʊ									
@@ -71,12 +71,12 @@ COGID	1	10	2	3	4	5	6	7	8	9
 575-1	t a									
 871-1	t ʊ l a									
 1137-1	d ʊ k ʊ									
-1339-1	t i.i i									
+1339-1	t i i i									
 1585-1	a a l a									
 1712-1	z u l ɔ									
 1872-1	p a									
-2088-1	β i.i s a									
-2166-1	i ʊ.ʊ i m b a									
+2088-1	β i i s a									
+2166-1	i ʊ ʊ i m b a									
 2334-1	z i g ŋ									
 2393-1	m a z a									
 2537-1	l ɔ m ɔ									
@@ -87,12 +87,12 @@ COGID	1	10	2	3	4	5	6	7	8	9
 2997-1	g a n á s a									
 3075-1	g ʊ l ʊ b ɛ									
 3675-1	l d ʊ a l ɛ									
-4028-1	d ɛ.ɛ									
+4028-1	d ɛ ɛ									
 4137-1	m ʊ l a									
 4238-1	i s ɔ p i									
 4316-1	t a t ʊ									
 4429-1	i a s a									
-4440-1	b i.i l i.i									
+4440-1	b i i l i i									
 4485-1	ʊ									
 4574-1	β b a a l a									
 4688-1	n n z ɛ									
@@ -112,7 +112,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3519-2		t u m a								
 3686-2		l i ŋ m b a								
 4249-2		k u m i								
-4451-2		v i.i v i								
+4451-2		v i i v i								
 448-2		g u n l l i								
 630-2		s e e l e								
 814-2		w oː o m w e								
@@ -125,7 +125,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 4003-2		l i l v a								
 4373-2		l i m i								
 4384-2		i n o								
-84-2		a u.l g u l u								
+84-2		a u l g u l u								
 116-2		s i k a								
 419-2		l o g a								
 587-2		o l ŋ dʒ o								
@@ -140,7 +140,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 2750-2		e u s i								
 3441-2		s e u u s a								
 3464-2		v o n a								
-3639-2		dʒ e.e dʒ l l e.e m a								
+3639-2		dʒ e e dʒ l l e e m a								
 3981-2		l m l v a								
 4192-2		v i m b a								
 4350-2		l e e l o o								
@@ -166,7 +166,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3531-2		a a n i g a								
 1033-2		k o s o o a								
 3185-2		w i o k a								
-794-2		w e.e a a k a								
+794-2		w e e a a k a								
 143-2		v u a								
 240-2		o s a								
 388-2		u m a								
@@ -176,14 +176,14 @@ COGID	1	10	2	3	4	5	6	7	8	9
 1303-3			e k o s a							
 2197-3			s a l							
 2828-3			l i n a							
-3572-3			s o n i.i							
+3572-3			s o n i i							
 1095-3			l i s a							
 1755-3			l l e							
 1789-3			x a l a m k a							
 3207-3			β u l a							
 3519-3			s u s a							
 3686-3			i á b a							
-4249-3			x u s i.i							
+4249-3			x u s i i							
 4451-3			p i tʃ i							
 448-3			s u ɲ u u i							
 630-3			β o e l o							
@@ -193,7 +193,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 1475-3			k s a							
 3397-3			β o l a							
 4003-3			i p a							
-4040-3			k e n i.i							
+4040-3			k e n i i							
 4373-3			d i s i							
 4384-3			i x o							
 181-3			k o o m k o							
@@ -219,12 +219,12 @@ COGID	1	10	2	3	4	5	6	7	8	9
 4260-3			β β a a							
 4350-3			l e e l a o							
 278-3			p a							
-745-3			β a.a x o							
+745-3			β a a x o							
 3971-3			x á s a							
 93-3			o ɲ o							
 200-3			β i a							
 374-3			a a l β a							
-508-3			β o.o β u							
+508-3			β o o β u							
 528-3			β i l i							
 1137-3			s i d u							
 1585-3			a a l a							
@@ -243,7 +243,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 3067-3			n p u							
 3531-3			a n u x a							
 3767-3			l o							
-4632-3			x a.a β i.i							
+4632-3			x a a β i i							
 401-3			x a							
 2689-4				e a e a						
 893-4				a e e n e a						
@@ -309,12 +309,12 @@ COGID	1	10	2	3	4	5	6	7	8	9
 4192-5					f i f a					
 4260-5					β β					
 4350-5					l e e l o					
-278-5					β a.a					
+278-5					β a a					
 745-5					β k o					
 3971-5					k a m a					
 55-5					n a m a					
 94-5					n o k o					
-2717-5					u d a.a n g a.a					
+2717-5					u d a a n g a a					
 4139-5					m i w					
 200-5					β i					
 374-5					l β					
@@ -497,7 +497,7 @@ COGID	1	10	2	3	4	5	6	7	8	9
 181-9									g e e g e	
 1083-9									l i l a	
 1374-9									n a a n	
-1430-9									i n.a s o	
+1430-9									i n a s o	
 1666-9									b o a n o	
 1767-9									k o k o	
 1906-9									g i l a	
