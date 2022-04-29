@@ -764,6 +764,9 @@ def main(*args):
                 f.write(tabulate(table, headers=["SYSTEM"]+methods, floatfmt=".4f",
                     tablefmt="pipe"))
                 f.write("\n\n")
+        with open(sigtypst2022_path("results", "results-{0}-{1:.2f}.json".format(
+                args.partition, args.proportion)), "w") as f:
+            f.write(json.dumps(results, indent=2))
 
 
                         
