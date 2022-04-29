@@ -722,20 +722,46 @@ def main(*args):
                 wspace=0.6, hspace=0.8)
         plt.savefig(
                 sigtypst2022_path(
-                    "plots", 
+                    "results", 
                     "{0}-{1:.2f}.pdf".format(
+                        args.partition,
+                        args.proportion)),
+                bbox_inches="tight")
+        plt.savefig(
+                sigtypst2022_path(
+                    "results", 
+                    "{0}-{1:.2f}.png".format(
                         args.partition,
                         args.proportion)),
                 bbox_inches="tight")
         print(
                 tabulate(
                     table, 
-                    headers=[
-                        "SYSTEM", "ED", "ED (NORM)", 
-                        "B-CUBED FS", "BLEU"],
+                    headers=["SYSTEM"]+methods,
                     floatfmt=".4f"
                     )
                 )
+        with open(sigtypst2022_path("results", "results-{0}-{1:.2f}.md".format(
+            args.partition,
+            args.proportion)), "w") as f:
+            f.write("# Results for Partition `{0}` and Proportion `{1:.2f}`\n\n".format(
+                args.partition,
+                args.proportion))
+            f.write("## General Results\n\n")
+            f.write(tabulate(table, headers=["SYSTEM"]+methods, floatfmt=".4f",
+                tablefmt="pipe"))
+            f.write("\n\n")
+            for ds in DATASETS:
+                table = []
+                for system, res in sorted(results.items(), key=lambda x: x[0]):
+                    table += [[system] + res[ds]]
+                f.write("## Results for Dataset `{0}`\n\n".format(ds))
+                f.write(tabulate(table, headers=["SYSTEM"]+methods, floatfmt=".4f",
+                    tablefmt="pipe"))
+                f.write("\n\n")
+
+
+                        
                 
 
 
