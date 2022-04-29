@@ -26,42 +26,42 @@ The resulting plots are also listed below.
 
 ## Results for the Training Partition (Proportion 0.10)
 
-![0.10](results-training-0.10.png)
+![0.10](training-0.10.png)
 
 ## Results for the Training Partition (Proportion 0.20)
 
-![0.20](results-training-0.20.png)
+![0.20](training-0.20.png)
 
 ## Results for the Training Partition (Proportion 0.30)
 
-![0.30](results-training-0.30.png)
+![0.30](training-0.30.png)
 
 ## Results for the Training Partition (Proportion 0.40)
 
-![0.40](results-training-0.40.png)
+![0.40](training-0.40.png)
 
 ## Results for the Training Partition (Proportion 0.50)
 
-![0.50](results-training-0.50.png)
+![0.50](training-0.50.png)
 
 ## Results for the Surprise Partition (Proportion 0.10)
 
-![0.10](results-surprise-0.10.png)
+![0.10](surprise-0.10.png)
 
 ## Results for the Surprise Partition (Proportion 0.20)
 
-![0.20](results-surprise-0.20.png)
+![0.20](surprise-0.20.png)
 
 ## Results for the Surprise Partition (Proportion 0.30)
 
-![0.30](results-surprise-0.30.png)
+![0.30](surprise-0.30.png)
 
 ## Results for the Surprise Partition (Proportion 0.40)
 
-![0.40](results-surprise-0.40.png)
+![0.40](surprise-0.40.png)
 
 ## Results for the Surprise Partition (Proportion 0.50)
 
-![0.50](results-surprise-0.50.png)
+![0.50](surprise-0.50.png)
 
 
