@@ -1,5 +1,23 @@
 # Results for the Comparison
 
+## General Summary on the Results
+
+Detailed results are listed below for both the Training and the Surprise data. We summarize the major results of the shared task in this section.
+
+The following table shows the winning system and the scores for the respective task and the respective proportion in the surprise data.
+
+Proportion | Edit Distance | Edit Distance (Normalized) | B-Cubed Scores | BLEU Scores
+--- | --- | --- | --- | ---
+0.10 |  0.92 / Mockingbird-I1 | 0.24 / Mockingbird-I1 | 0.77 / Mockingbird-I1 | 0.66 / Mockingbird-I1 
+0.20 | 1.04 / Mockingbird-I1 | 0.26 / Mockingbird-I1 | 0.71 / Mockingbird-I1 | 0.63 / Mockingbird-I1
+0.30 | 1.18 / Mockingbird-I1 | 0.29 / Mockingbird-I1 | 0.67 / Mockingbird-I1 | 0.61 / Mockingbird-I1
+0.40 | 1.27 / Mockingbird-I1 | 0.32 / Mockingbird-I1 | 0.64 / Mockingbird-I1 | 0.57 / Mockingbird-I1
+0.50 | 1.47 / Mockingbird-I1 | 0.35 / Mockingbird-I1 | 0.62 / CrossLingferenceJulia | 0.53 / Mockingbird-I1
+
+The overall winner of the task is the system I1 by the Mockingbird team. However, we can see that with sparser data for the training of the system available, the system Julia by the CrossLingference team comes closer in performance, outperforming the I1 system with respect to the B-Cubed evaluation measure.
+
+## Detailed Results for all Datasets
+
 Here, we list the results in the form of plots.
 We list results for both Training and Surprise data. Training data is merely for checking if systems greatly differ for some reason, with respect to their results from the performance on the surprise data, which might warrant to double check with the code of the system. In some cases, the teams also could not provide all data for the individual training sets, due to time limitations and for other reasons.
 
@@ -24,7 +42,7 @@ For the surprise data, the results can then be found in the files [results-surpr
 
 The resulting plots are also listed below.
 
-## Results for the Training Partition (Proportion 0.10)
+### Results for the Training Partition (Proportion 0.10)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
@@ -43,7 +61,7 @@ Mockingbird-N2          1.3686       0.2894        0.6823  0.6000
 
 ![0.10](training-0.10.png)
 
-## Results for the Training Partition (Proportion 0.20)
+### Results for the Training Partition (Proportion 0.20)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
@@ -62,7 +80,7 @@ Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 
 ![0.20](training-0.20.png)
 
-## Results for the Training Partition (Proportion 0.30)
+### Results for the Training Partition (Proportion 0.30)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
@@ -81,7 +99,7 @@ Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 
 ![0.30](training-0.30.png)
 
-## Results for the Training Partition (Proportion 0.40)
+### Results for the Training Partition (Proportion 0.40)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
@@ -100,7 +118,7 @@ Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 
 ![0.40](training-0.40.png)
 
-## Results for the Training Partition (Proportion 0.50)
+### Results for the Training Partition (Proportion 0.50)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
@@ -119,7 +137,7 @@ Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 
 ![0.50](training-0.50.png)
 
-## Results for the Surprise Partition (Proportion 0.10)
+### Results for the Surprise Partition (Proportion 0.10)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
@@ -139,7 +157,7 @@ Mockingbird-N2          1.2095       0.3135        0.7054  0.5744
 
 ![0.10](surprise-0.10.png)
 
-## Results for the Surprise Partition (Proportion 0.20)
+### Results for the Surprise Partition (Proportion 0.20)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
@@ -158,7 +176,7 @@ Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 
 ![0.20](surprise-0.20.png)
 
-## Results for the Surprise Partition (Proportion 0.30)
+### Results for the Surprise Partition (Proportion 0.30)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
@@ -176,7 +194,7 @@ Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 ```
 ![0.30](surprise-0.30.png)
 
-## Results for the Surprise Partition (Proportion 0.40)
+### Results for the Surprise Partition (Proportion 0.40)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
@@ -195,7 +213,7 @@ Mockingbird-N2          0.0000       0.0000        0.0000  0.0000
 
 ![0.40](surprise-0.40.png)
 
-## Results for the Surprise Partition (Proportion 0.50)
+### Results for the Surprise Partition (Proportion 0.50)
 
 ```
 SYSTEM                      ED    ED (NORM)    B-Cubed FS    BLEU
