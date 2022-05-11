@@ -4,6 +4,7 @@
 import os
 import random
 import csv
+import pickle
 import argparse
 import numpy as np
 import tensorflow as tf
@@ -58,7 +59,7 @@ def create_test_x(test, number_column_x):
 						pass
 					else:
 						test_x.append(v)
-						lang_name.append([k])						
+						lang_name.append([k])
 	return test_x, lang_name, cogid
 
 def create_test_y(test, number_column_y, n_max_colmn):
@@ -241,17 +242,39 @@ class TransformerDecoder(layers.Layer):
                          )
         return tf.tile(mask, mult)
 
-def decode_sequence(predictions, inverse_vocabulary):
+def decode_sequence(input_sentence, languages, char_size):
+    tokenized_input_sentence = train_x_vectorization([input_sentence])
+    lang = enc.transform(languages).toarray()
+    lang = lang.reshape(lang.shape[0], 1,lang.shape[1])
+    lang = np.repeat(lang, max_training_x_seq_length , axis=1)
+    decoded_sentence = "$"
+    prediction_tensor = np.zeros((1, max_decoded_sentence_length, char_size))
+    for i in range(max_decoded_sentence_length):
+        tokenized_target_sentence = train_y_vectorization([decoded_sentence])[:, :-1]
+        predictions = transformer([tokenized_input_sentence, tokenized_target_sentence, lang])
+        prediction_tensor[0, i, :] = predictions[0, i, :]
+        sampled_token_index = np.argmax(predictions[0, i, :])
+        sampled_token = train_y_vocab_index_lookup[sampled_token_index]
+        decoded_sentence += " " + sampled_token
+        if sampled_token == "#":
+            break
+    return decoded_sentence, prediction_tensor
+
+def decode_sequence2(predictions, inverse_vocabulary):
 	all_sentences = []
 	for a in range(predictions.shape[0]):
-	    decoded_sentence = "$"
-	    for i in range(predictions.shape[1]):
-	        sampled_token_index = np.argmax(predictions[a, i, :])
-	        sampled_token = inverse_vocabulary[sampled_token_index]
-	        decoded_sentence += " " + sampled_token
-	        if sampled_token == "#":
-	            break
-	    all_sentences.append(decoded_sentence)
+		decoded_sentence = "$"
+		for i in range(predictions.shape[1]):
+			sampled_token_index = np.argmax(predictions[a, i, :])
+			if sampled_token_index in inverse_vocabulary:
+				sampled_token = inverse_vocabulary[sampled_token_index]
+				decoded_sentence += " " + sampled_token
+				if sampled_token == "#":
+					break
+			else:
+					print("INDEX_ERROR")
+					break
+		all_sentences.append(decoded_sentence)
 	return all_sentences
 
 if __name__ == "__main__":
@@ -289,7 +312,7 @@ if __name__ == "__main__":
 		list_files=list(zip(path_train, path_test_x, path_test_y, baseline))
 
 		for a1,b1,c1,d1 in list_files:
-			
+			#print(a1)
 			training, testX, testY = open_file(a1), open_file(b1), open_file(c1)
 			max_training_x_seq_length=max([len(y)for x in training for y in x.values()])
 
@@ -307,22 +330,20 @@ if __name__ == "__main__":
 				train_y_texts = [pair[1] for pair in training_texts]
 
 				max_training_x_seq_length = max([len(y) for x in training_texts for y in x])
-				phonemes_x = [y.split(" ") for x in training_texts for y in x]
-				vocabulary_x = list(set([y for x in phonemes_x for y in x]))
-				char_size = len(vocabulary_x)
 
-				train_x_vectorization = layers.TextVectorization(
-					output_mode="int", 
-					           output_sequence_length=max_training_x_seq_length,
+				train_x_vectorization = layers.TextVectorization(output_mode="int", 
+					 output_sequence_length=max_training_x_seq_length,
 					standardize=None, split=lambda x: tf.strings.split(x, sep=" "))	
-				train_y_vectorization = layers.TextVectorization(
-					output_mode="int", 
+				train_y_vectorization = layers.TextVectorization(output_mode="int", 
 					       output_sequence_length=max_training_x_seq_length + 1,
 					standardize=None, split=lambda x: tf.strings.split(x, sep=" "))			
 
 				train_x_vectorization.adapt(train_x_texts)
 				train_y_vectorization.adapt(train_y_texts)
-		
+				x_v = len(train_x_vectorization.get_vocabulary())
+				y_v = len(train_y_vectorization.get_vocabulary())
+				char_size = max((x_v, y_v))
+
 				enc = OneHotEncoder(handle_unknown='ignore')
 				enc.fit(training_x_lang_names)
 				tensor_training_x_lang = enc.transform(training_x_lang_names).toarray()
@@ -378,22 +399,37 @@ if __name__ == "__main__":
 				transformer.compile(optimizer=keras.optimizers.RMSprop(learning_rate=0.001),
 				   loss="sparse_categorical_crossentropy", metrics=["accuracy"]
 				)
-				transformer.fit(train_ds, epochs=epochs, validation_data=test_ds, callbacks=callback,)
+				history0 = transformer.fit(train_ds, epochs=epochs, validation_data=test_ds, callbacks=callback,)
 				transformer.compile(optimizer=keras.optimizers.RMSprop(learning_rate=0.0001),
 				   loss="sparse_categorical_crossentropy", metrics=["accuracy"]
 				)
-				transformer.fit(train_ds, epochs=epochs, validation_data=test_ds, callbacks=callback,)
+				history1 = transformer.fit(train_ds, epochs=epochs, validation_data=test_ds, callbacks=callback,)
+
+				hist = {}
+				hist["history0"] = history0.history
+				hist["history1"] = history1.history
+				os.makedirs(os.path.join(sigtypst2022_path(), "systems", "PRECOR_transformer", modality, name_dir, "histories"), exist_ok=True)
+				path_save = sigtypst2022_path("systems", "PRECOR_transformer", modality, name_dir, "histories", per + "_" + str(NMB_CLMN))
+				with open(path_save, "wb") as f:
+					pickle.dump(hist, f)
 
 				# decode
 				train_y_vocab = train_y_vectorization.get_vocabulary()
 				train_y_vocab_index_lookup = dict(zip(range(len(train_y_vocab)), train_y_vocab))
-				max_decoded_sentence_length = max_training_x_seq_length
-
-				predicted_test2 = transformer.predict(test_ds)
-				predicted_test3 = transform_inverse(predicted_test2, MAX_NMB_CLMN)
-				aaa = decode_sequence(predicted_test3, train_y_vocab_index_lookup)
-				pr = print_tsv(MAX_NMB_CLMN, NMB_CLMN, test_cogid, aaa)	
+				max_decoded_sentence_length = max_training_x_seq_length	
 				
+				tensor_final = np.zeros((len(test_x_texts), max_training_x_seq_length, char_size))
+				for n, _ in enumerate(range(len(test_x_texts))):
+					translated_y, tensor_y = decode_sequence(test_x_texts[n], test_x_lang_names[n:n+1], char_size)
+					print(translated_y)  
+					tensor_final[n] = tensor_y
+				tensor_final2 = np.zeros(( int(len(test_x_texts) / (MAX_NMB_CLMN -1)), max_training_x_seq_length, char_size))
+				for n1, s in enumerate(range(0, int(len(test_x_texts)), MAX_NMB_CLMN -1)):
+					new = np.mean(tensor_final[s:s + (MAX_NMB_CLMN -1)], axis=0)
+					tensor_final2[n1] = new
+				decoded_final = decode_sequence2(tensor_final2, train_y_vocab_index_lookup)
+				print(decoded_final)
+				pr = print_tsv(MAX_NMB_CLMN, NMB_CLMN, test_cogid, decoded_final)
 				mfile.append(pr)
 
 			header = list(training[0].keys())

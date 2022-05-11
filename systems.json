@@ -1,12 +1,7 @@
 {
-  "ceot-extalign-best": {
-    "team": "Tresoldi",
-    "method": "Extalign-Best",
-    "color": "DarkOrange"
-  },
   "ceot-extalign-rf": {
-    "team": "Tresoldi", 
-    "method": "Extaling-RF",
+    "team": "CEoT", 
+    "method": "Extalign-RF",
     "color": "DarkOrange"
   },
   "corpar-svm": {
@@ -20,7 +15,7 @@
     "color": "CornflowerBlue"
   },
   "jaeger-prediction": {
-    "team": "Jaeger",
+    "team": "CrossLingference",
     "method": "Julia",
     "color": "Crimson"
   },
@@ -50,7 +45,7 @@
     "color": "Purple"
   },
   "PRECOR_transformer": {
-    "team": "PRECOR",
+    "team": "Leipzig",
     "method": "Transformer",
     "color": "DarkGreen"
   }

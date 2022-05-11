@@ -681,6 +681,12 @@ def main(*args):
             help="Select partition to access the data in system comparison."
             )
 
+    parser.add_argument(
+            "--stats",
+            action="store_true",
+            help="Plot statistics on the datasets."
+            )
+
 
     args = parser.parse_args(*args)
     if args.seed:
@@ -701,8 +707,8 @@ def main(*args):
         table = []
         fig, axs = plt.subplots(nrows=2, ncols=2)
         i2x = {
-                0: ((0, 0), 0, 1.75), 
-                1: ((0, 1), 0, 0.5), 
+                0: ((0, 0), 0, 2.2), 
+                1: ((0, 1), 0, 0.6), 
                 2: ((1, 0), 0, 1), 
                 3: ((1, 1), 0, 1)}
         
@@ -781,6 +787,19 @@ def main(*args):
     
     if args.split:
         split_data(DATASETS, args.datapath, props=None)
+
+    if args.stats:
+        table = [["Dataset", "Version", "Family", "Languages", "Words", "Cognates"]]
+        for k, v in DATASETS.items():
+            tsv = csv2list(str(args.datapath.joinpath(k, "cognates.tsv")))
+            words = 0
+            for row in tsv[1:]:
+                words += sum([1 for x in row[1:] if x])
+            table += [[k, v["version"], v["name"], 
+                len(tsv[0])-1,
+                words,
+                len(tsv)-1]]
+        print(tabulate(table, tablefmt="latex", headers="firstrow"))
 
 
     if args.predict:
