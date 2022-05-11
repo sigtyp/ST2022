@@ -3,7 +3,8 @@
     "subgroup": "family",
     "name": "Berta",
     "path": "lexibank/bremerberta",
-    "version": "1a6ee5f4",
+    "version": "v1.1",
+    "doi": "10.5281/zenodo.6538256",
     "cognates": ""
   },
   "wangbai": {
@@ -11,48 +12,55 @@
     "name": "Sino-Tibetan",
     "path": "lexibank/wangbai",
     "version": "v1.0",
+    "doi": "10.5281/zenodo.5136930",
     "cognates": ""
   },
   "beidazihui": {
     "subgroup": "family",
     "name": "Sino-Tibetan",
     "path": "lexibank/beidazihui",
-    "version": "734b1e5",
+    "version": "v1.1",
+    "doi": "10.5281/zenodo.6538468",
     "cognates": "partial_cognacy"
   },
   "hillburmish": {
     "subgroup": "family",
     "name": "Sino-Tibetan",
     "path": "lexibank/hillburmish",
-    "version": "81925a29",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.6538466",
     "cognates": "partial_cognacy"
   },
   "deepadungpalaung": {
     "subgroup": "subgroup",
     "name": "Palaung",
     "path": "lexibank/deepadungpalaung",
-    "version": "84ddd12",
+    "version": "v1.1",
+    "doi": "10.5281/zenodo.6538349",
     "cognates": "partial_cognacy"
   },
   "luangthongkumkaren": {
     "subgroup": "family",
     "name": "Sino-Tibetan",
     "path": "lexibank/luangthongkumkaren",
-    "version": "76b35e8",
+    "version": "v0.2",
+    "doi": "10.5281/zenodo.6538460",
     "cognates": "partial_cognacy"
   },
   "bodtkhobwa": {
     "subgroup": "subgroup",
     "name": "Western Kho-Bwa",
     "path": "lexibank/bodtkhobwa",
-    "version": "ce10e92",
+    "version": "v3.1.0",
+    "doi": "10.5281/zenodo.6538395",
     "cognates": "partial_cognacy"
   },
   "birchallchapacuran": {
     "subgroup": "family",
     "name": "Chapacuran",
     "path": "lexibank/birchallchapacuran",
-    "version": "38223f9",
+    "version": "v1.1.0",
+    "doi": "10.5281/zenodo.6538403",
     "cognates": "cognacy"
   },
   "kesslersignificance": {
@@ -60,6 +68,7 @@
     "name": "Indo-European",
     "path": "lexibank/kesslersignificance",
     "version": "v1.0",
+    "doi": "10.5281/zenodo.5127775",
     "cognates": "cogid_cognateset_id"
   },
   "bantubvd": {
@@ -67,6 +76,7 @@
     "name": "Atlantic-Congo",
     "path": "lexibank/bantubvd",
     "version": "v4.0",
+    "doi": "10.5281/zenodo.5115982",
     "cognates": ""
   }
 }

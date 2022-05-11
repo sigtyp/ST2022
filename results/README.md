@@ -1,7 +1,7 @@
 # Results for the Comparison
 
 Here, we list the results in the form of plots.
-We list results for both Training and Surprise data. Training data is merely for checking if systems greatly differ for some reason, with respect to their results from the performance on the surprise data, which might warrant to double check with the code of the system. In some cases, the teams also could not provide all data for the individual training sets, due to time limitations and for other reasons.
+We list results for both Training and Surprise data. Training data is merely for checking if systems greatly differ for some reason, with respect to their results from the performance on the surprise data, which might warrant to double check with the code of the system. In some cases, the teams also could not provide all data for the individual training sets, due to time limitations and for other reasons. In these cases, the results in the tables have the value 0 in all scores.
 
 To create the systems, you can most conveniently use our Makefile:
 
