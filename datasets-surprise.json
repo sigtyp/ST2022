@@ -27,7 +27,7 @@
     "subgroup": "family",
     "name": "Sino-Tibetan",
     "path": "lexibank/hillburmish",
-    "version": "v1.0",
+    "version": "v0.2",
     "doi": "10.5281/zenodo.6538466",
     "cognates": "partial_cognacy"
   },
