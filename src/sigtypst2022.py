@@ -687,12 +687,77 @@ def main(*args):
             help="Plot statistics on the datasets."
             )
 
+    parser.add_argument(
+            "--meta-evaluation",
+            action="store_true",
+            help="Plot statistics for general ranks"
+            )
+
+    parser.add_argument(
+            "--format",
+            action="store",
+            default="plain",
+            help="Format to render tables"
+            )
+
 
     args = parser.parse_args(*args)
     if args.seed:
         random.seed(1234)
     with open(args.datasets) as f:
         DATASETS = json.load(f)
+    
+    if args.meta_evaluation:
+        with open(args.system_data) as f:
+            SDATA = json.load(f)
+        systems = [x["team"]+"-"+x["method"] for x in SDATA.values() if x["method"] !="N2"]
+        ranks = {system: [] for system in systems}
+        for prop in ["0.10", "0.20", "0.30", "0.40", "0.50"]:
+            m = [[system] for system in systems]
+            with open(sigtypst2022_path(
+                "results",
+                "results-surprise-{0}.json".format(prop))) as f:
+                results = json.load(f)
+            for i, system in enumerate(systems):
+                for j in range(1, 4):
+                    m[i] += [results[system]["total"][j]]
+            for rank, idx in [(False, 1), (True, 2), (True, 3)]:
+                ranked = [row[0] for row in sorted(m, key=lambda x: x[idx],
+                    reverse=rank)]
+                for system in systems:
+                    ranks[system] += [ranked.index(system)+1]
+        table = []
+        for system in systems:
+            table += [
+                        [system] + ranks[system] +
+                        [statistics.mean([
+                            ranks[system][i] for i in [0, 3, 6, 9, 12]]),
+                        statistics.mean([
+                            ranks[system][i] for i in [1, 4, 7, 10, 13]]),
+                        statistics.mean([
+                            ranks[system][i] for i in [2, 5, 8, 11, 14]]),
+                        statistics.mean(ranks[system]),
+                        statistics.stdev(ranks[system])]
+                    ]
+        print(tabulate(sorted(table, key=lambda x: x[-2]), 
+            headers=["System", 
+                "NED  1",
+                "BCFS 1",
+                "BLEU 1",
+                "NED  2",
+                "BCFS 2",
+                "BLEU 2",
+                "NED  3",
+                "BCFS 3",
+                "BLEU 3",
+                "NED  4",
+                "BCFS 4",
+                "BLEU 4",
+                "NED  5",
+                "BCFS 5",
+                "BLEU 5",
+                "NED", "B-Cubed FS", "BLEU", "Aggregate", "Aggregate (STD)"],
+            tablefmt=args.format))
 
     if args.compare_systems:
         with open(args.system_data) as f:
