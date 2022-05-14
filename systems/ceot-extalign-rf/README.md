@@ -1,15 +1,9 @@
-# ST2022 submission "extendend alignment - random forests"
+# ST2022 submission "extendend alignment"
 
 This directory contains the ST2022 using a multitiered strategy (List and Chacon 2015; Tresoldi et al. 2018)
 for cognate prediction. It is the first public submission using such a strategy,
 still tentative in many of its implementations, with the prediction provided by different
 machine learning methods.
-
-Note that the submission in this directory contains only the results for the
-random forest method (`rf`), with the "showcase" submission in `extalign-best`. To reproduce
-the data in this directory, it is necessary to follow the instructions given in the
-main submission and prepare the data using the `rf` model instead of the `best`
-one (as specified in the instructions of this README.md file).
 
 ## Instructions
 
@@ -135,7 +129,7 @@ accoring to the collection each dataset belongs to. By default it will
 take the `best` model, but other model names can be provided at the command line.
 
 ```bash
-$ ./04_organize.py rf
+$ ./04_organize.py [model_name]
 ```
 
 ## Reproducibility
