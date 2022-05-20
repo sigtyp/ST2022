@@ -8,14 +8,14 @@ In 2022, SIGTYP is hosting a shared task on predicting words and morphemes from 
 * Apr 11, 2022: Test data released at https://github.com/sigtyp/ST2022/tree/v1.2
 * Apr 25, 2022: System submissions are due    
 * May 13, 2022: System description papers are due
-* May 20, 2022: Camera-ready papers due
+* May 27, 2022: Camera-ready papers due
 
 **Important Links**
 
 * [Register for the task](https://docs.google.com/forms/d/e/1FAIpQLSdKvUOOUQSUpbOCWGR6a3zXUTEhhDqTRIXwhlgPwGPrpNpPcQ/viewform?usp=sf_link)
 * [Code Base and Data](https://github.com/sigtyp/ST2022/tree/v1.2)
-* [Documentation of Data and Software](https://github.com/sigtyp/ST2022/blob/v1.2/DOCUMENTATION.md)
-* [Final Results](https://github.com/sigtyp/ST2022/blob/v1.3/results/)
+* [Documentation of Data and Software](https://github.com/sigtyp/ST2022/blob/v1.4/DOCUMENTATION.md)
+* [Final Results](https://github.com/sigtyp/ST2022/blob/v1.4/results/)
 
 
 ## 1 The Reflex Prediction Task
@@ -93,6 +93,7 @@ We provide different proportions of missing data, ranging from 10% up to 50% i s
 
 # 4 Evaluation
 
+## 4.1 Overview
 The expected prediction result for a given reflex is a list of phonetic transcription symbols (we segment all words in our CLDF datasets into sound units). This prediction can be directly compared against the attested form, which was removed from the data when training the model. A common metric by which we can compare the predicted form with the attested form is the edit distance. Formally, the edit distance is identical with the Hamming distance between the alignment of two strings. Working with alignments should be preferred to working with an algorithm computing the edit distance alone, since alignments are very useful for error analysis. Furthermore, when working with algorithms that produce fuzzy predictions which might predict more than one probable sound in a given sound slot, or alternative word forms, it is easier to score these predictions based on alignments, as shown in the study of [Bodt and List (2021)](https://doi.org/10.1075/dia.20009.bod). 
 
 An additional evaluation measure based on alignments was proposed by [List (2019b)](https://doi.org/10.1515/tl-2019-0016). This measure takes into account that an algorithm might in theory commit systematic errors, which might be overly penalized by the edit distance. This method, which computes the B-Cubed F-Scores between the aligned predictions and attested forms, has been ignored in most approaches to supervised reflex prediction, but we consider it nevertheless useful to include it into the evaluation scores to be reported, since it comes theoretically much closer to the idea of regular sound correspondences in classical historical linguistics. 
@@ -102,6 +103,29 @@ After some discussion, we decided to add the BLEU scores (Papineni et al. 2002),
 Our dedicated Python package for the shared task allows to compute all evaluation measures mentioned above (edit distance in raw and normalized form, B-Cubed F-Scores, BLEU Scores) from TSV files which can be passed to the command line as input. For the purpose of development, scholars can also use these metrics directly from within their Python scripts.
 
 As a baseline, we provide the method by [List (2019)](http://doi.org/10.1162/coli_a_00344) in a new version by [List et al. (forthcoming)](https://doi.org/10.5281/zenodo.6426074) for which we made a new release of the [LingRex](https://github.com/lingpy/lingrex) Python package (Version 1.2).
+
+## 4.2 Results
+
+The following results can be plotted with the `st2022` package (version 1.4) by typing:
+
+```
+$ st2022 --meta-evaluation --datapath=data-surprise --datasets=datasets-surprise.json --format=pipe
+```
+
+They contain all ranks for the various cuts of the data, for three major methods (we exclude the non-normalized edit distance here).
+
+| System                 |   NED  1 |   BCFS 1 |   BLEU 1 |   NED  2 |   BCFS 2 |   BLEU 2 |   NED  3 |   BCFS 3 |   BLEU 3 |   NED  4 |   BCFS 4 |   BLEU 4 |   NED  5 |   BCFS 5 |   BLEU 5 |   NED |   B-Cubed FS |   BLEU |   Aggregate |   Aggregate (STD) |
+|:-----------------------|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|------:|-------------:|-------:|------------:|------------------:|
+| Mockingbird-I1         |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        2 |        1 |   1   |          1.2 |    1   |     1.06667 |          0.258199 |
+| Mockingbird-N1-A       |        2 |        3 |        2 |        2 |        3 |        2 |        3 |        3 |        3 |        3 |        3 |        3 |        3 |        3 |        3 |   2.6 |          3   |    2.6 |     2.73333 |          0.457738 |
+| Mockingbird-N1-B       |        3 |        4 |        3 |        3 |        4 |        3 |        2 |        4 |        2 |        2 |        4 |        2 |        2 |        4 |        2 |   2.4 |          4   |    2.4 |     2.93333 |          0.883715 |
+| Baseline-Baseline-SVM  |        4 |        2 |        4 |        4 |        2 |        4 |        5 |        2 |        5 |        5 |        7 |        5 |        8 |        7 |        7 |   5.2 |          4   |    5   |     4.73333 |          1.90738  |
+| Mockingbird-N1-C       |        6 |        6 |        6 |        5 |        8 |        5 |        4 |        7 |        4 |        4 |        6 |        4 |        4 |        6 |        4 |   4.6 |          6.6 |    4.6 |     5.26667 |          1.27988  |
+| CEoT-Extalign-RF       |        5 |        5 |        5 |        6 |        6 |        6 |        6 |        8 |        6 |        6 |        8 |        6 |        7 |        8 |        8 |   6   |          7   |    6.2 |     6.4     |          1.12122  |
+| CrossLingference-Julia |        9 |        7 |        9 |        8 |        5 |        8 |        8 |        5 |        8 |        8 |        2 |        8 |        5 |        1 |        5 |   7.6 |          4   |    7.6 |     6.4     |          2.47271  |
+| Baseline-Baseline      |        7 |        8 |        7 |        7 |        7 |        7 |        7 |        6 |        7 |        7 |        5 |        7 |        6 |        5 |        6 |   6.8 |          6.2 |    6.8 |     6.6     |          0.828079 |
+| Leipzig-Transformer    |        8 |        9 |        8 |        9 |        9 |        9 |        9 |        9 |        9 |        9 |        9 |        9 |        9 |        9 |        9 |   8.8 |          9   |    8.8 |     8.86667 |          0.351866 |
+
 
 # 5 Data for Development and Data for the Final Evaluation (Surprise Data)
 
