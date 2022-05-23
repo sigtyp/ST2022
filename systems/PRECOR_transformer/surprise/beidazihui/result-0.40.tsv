@@ -1,24 +1,24 @@
 COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Nanchang	Shanghai	Shuangfeng	Suzhou	Taiyuan	Wenzhou	Xiamen	XiAn	Yangzhou	ZhongyuanYinyun
 2-1	i ³⁵																		
 4-1	tɕʰ ʅ ³⁵																		
-5-1	ʈʂ a ŋ ⁵⁵																		
+5-1	ʈʂ a ŋ ⁵¹																		
 6-1	ʂ a n ⁵⁵																		
-7-1	ʂ a a ŋ																		
+7-1	ʂ a ŋ ŋ																		
 8-1	ɕ j a																		
-9-1	p ai ³⁵																		
+9-1	p u ³⁵																		
 17-1	ʈʂ u ŋ ⁵⁵																		
 31-1	tɕ j ou ²¹⁴																		
 32-1	j a ³⁵																		
 33-1	y u																		
-38-1	ə ʅ																		
+38-1	ə ²¹⁴																		
 40-1	y a n																		
 42-1	u ²¹⁴																		
-43-1	tɕ ə n ²¹⁴																		
+43-1	tɕ ə ŋ ²¹⁴																		
 46-1	w a ŋ ³⁵																		
-52-1	l j a ŋ ⁵⁵																		
+52-1	l j a n ⁵¹																		
 53-1	ʐ ə n ³⁵																		
 56-1	tɕ i n ⁵⁵																		
-59-1	tʰ a ³⁵																		
+59-1	tʰ a ⁵⁵																		
 60-1	ʈʂ a ŋ ⁵¹																		
 64-1	l i ŋ ⁵¹																		
 68-1	tɕ j a n ⁵¹																		
@@ -26,40 +26,40 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 86-1	t i ⁵⁵																		
 87-1	ʈʂ u ⁵¹																		
 93-1	l i ²¹⁴																		
-98-1	l i ³⁵																		
-109-1	ɕ i ŋ ⁵⁵																		
+98-1	l ei ³⁵																		
+109-1	ɕ i ŋ ⁵¹																		
 115-1	t au ²¹⁴																		
 118-1	ʈʂ j ⁵⁵																		
 124-1	tɕ j a ²¹⁴																		
 127-1	ʈʂ u o																		
-133-1	tʰ au ⁵¹																		
+133-1	tʰ au ³⁵																		
 144-1	ʂ a ⁵⁵																		
-161-1	ɕ y ŋ ⁵⁵																		
+161-1	ɕ y ŋ ŋ																		
 166-1	k w a ŋ ⁵⁵																		
 170-1	ə ²¹⁴																		
 171-1	tʰ u ⁵¹																		
-173-1	ʐ ʅ ⁵¹																		
+173-1	l ʅ ³⁵																		
 174-1	l ei ⁵¹																		
 175-1	tɕʰ ɥ a n ³⁵																		
-176-1	l j a ŋ ⁵⁵																		
+176-1	l j a n ³⁵																		
 177-1	p a ³⁵																		
 179-1	l j ou ³⁵																		
 181-1	p i ŋ ⁵⁵																		
 182-1	tɕʰ i ³⁵																		
 189-1	k w a n ⁵⁵																		
 191-1	t u ŋ ⁵⁵																		
-193-1	l ə n ²¹⁴																		
+193-1	l ə n ³⁵																		
 198-1	t ə ŋ ⁵¹																		
-199-1	ɕ y ŋ ⁵⁵																		
-200-1	ʈʂʰ u ⁵¹																		
+199-1	ɕ y ŋ ŋ																		
+200-1	ʈʂʰ u ³⁵																		
 202-1	t au ⁵⁵																		
-205-1	f ə n ⁵⁵																		
-206-1	tɕʰ ʅ e																		
+205-1	f ə ŋ ⁵⁵																		
+206-1	tɕʰ j e																		
 209-1	x w a																		
-211-1	tsʰ w o ⁵⁵																		
+211-1	ʈʂʰ u o																		
 215-1	l i ⁵¹																		
 216-1	k w a ⁵⁵																		
-217-1	t au ⁵¹																		
+217-1	t au ²¹⁴																		
 219-1	ʂ w a ⁵⁵																		
 220-1	ʈʂʰ ʅ ⁵¹																		
 225-1	tɕʰ j a n ³⁵																		
@@ -68,10 +68,10 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 238-1	l i ⁵¹																		
 242-1	ʈʂ u ⁵¹																		
 253-1	tɕʰ i ŋ ³⁵																		
-256-1	ʂ u o																		
+256-1	ʂ u ³⁵																		
 261-1	x w a ⁵⁵																		
 262-1	p ai ³⁵																		
-263-1	ʂ ʅ ³⁵																		
+263-1	ʈʂʰ ʅ ³⁵																		
 264-1	tɕ j a ŋ																		
 271-1	ʂ ʅ ³⁵																		
 272-1	tɕʰ j a n ⁵⁵																		
@@ -80,9 +80,9 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 279-1	n a n ³⁵																		
 287-1	l a n ³⁵																		
 291-1	x ou ³⁵																		
-295-1	tɕʰ y ⁵¹																		
+295-1	tɕʰ y ⁵⁵																		
 300-1	j ou ²¹⁴																		
-303-1	tɕʰ y ⁵¹																		
+303-1	tɕʰ y ²¹⁴																		
 306-1	kʰ ou ²¹⁴																		
 307-1	k u ²¹⁴																		
 308-1	tɕ y ⁵¹																		
@@ -90,137 +90,137 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 313-1	kʰ ɤ ²¹⁴																		
 314-1	tʰ ai ³⁵																		
 323-1	m i ŋ ³⁵																		
-325-1	tʰ u ⁵¹																		
+325-1	tʰ u ²¹⁴																		
 330-1	f ou ²¹⁴																		
 334-1	ɕ i e																		
-335-1	ʈʂʰ u ei																		
+335-1	ʈʂʰ u ³⁵																		
 338-1	k au ²¹⁴																		
-339-1	ʈʂ ou ⁵⁵																		
+339-1	ʈʂ u ⁵⁵																		
 341-1	x u ⁵⁵																		
-342-1	m i ŋ ³⁵																		
+342-1	m i ŋ ⁵¹																		
 343-1	x w o																		
 344-1	j au ²¹⁴																		
 349-1	kʰ u ²¹⁴																		
 353-1	ʈʂʰ u a ŋ ⁵⁵																		
 360-1	x ou ³⁵																		
-375-1	ʈʂ w ei ²¹⁴																		
+375-1	ʈʂ w ei																		
 388-1	ʂ ʅ ⁵¹																		
 389-1	x w ei																		
-392-1	kʰ w ə n																		
+392-1	kʰ w ə n ⁵¹																		
 394-1	tɕ j a n ⁵¹																		
 401-1	tʰ u ²¹⁴																		
-402-1	ts ai ⁵¹																		
-403-1	t i ⁵¹																		
+402-1	ʈʂ ai ⁵¹																		
+403-1	t i ³⁵																		
 409-1	ʈʂ w o																		
 418-1	m ei ³⁵																		
 441-1	tʰ j a n ³⁵																		
 443-1	m u ⁵¹																		
-459-1	w a ⁵¹																		
+459-1	w ei ⁵¹																		
 460-1	t w o																		
 461-1	j a ⁵¹																		
 464-1	t a ⁵¹																		
-465-1	tʰ j a n ⁵¹																		
+465-1	tʰ j a n ³⁵																		
 466-1	tʰ ai ³⁵																		
 467-1	f u ⁵⁵																		
-469-1	ʂ ʅ ³⁵																		
-480-1	n y ³⁵																		
-482-1	n i ³⁵																		
+469-1	ʂ ʅ ⁵¹																		
+480-1	l u ³⁵																		
+482-1	n i n																		
 484-1	x ou ²¹⁴																		
 491-1	m ei ⁵¹																		
 492-1	tɕʰ i ⁵⁵																		
-495-1	tɕ j ²¹⁴																		
+495-1	tɕ j e																		
 496-1	k u ⁵⁵																		
-507-1	n j a ŋ ³⁵																		
+507-1	n j a n ³⁵																		
 509-1	tɕʰ y ⁵¹																		
 510-1	pʰ o ³⁵																		
 513-1	ɕ i ⁵¹																		
 518-1	ʂ au ²¹⁴																		
-525-1	ʈʂ ʅ ⁵⁵																		
+525-1	ʈʂ ʅ ²¹⁴																		
 527-1	y ŋ ⁵¹																		
-533-1	x ai ³⁵																		
+533-1	x j e																		
 548-1	kʰ ɤ ⁵⁵																		
-554-1	x ai ⁵¹																		
-558-1	y ŋ ŋ																		
-564-1	f u ⁵¹																		
+554-1	x ai e																		
+558-1	y u ŋ																		
+564-1	f u ²¹⁴																		
 580-1	ʂ ɤ ³⁵																		
 587-1	ɕ j au ²¹⁴																		
 588-1	ʂ au ²¹⁴																		
-589-1	tɕ j a n ⁵⁵																		
+589-1	tɕ j a n																		
 594-1	ʈʂʰ ʅ ³⁵																		
-602-1	u ⁵¹																		
-604-1	ʂ ʅ ⁵⁵																		
+602-1	u ²¹⁴																		
+604-1	ʂ ʅ ²¹⁴																		
 611-1	ʂ a n ⁵⁵																		
 630-1	ʈʂ w o ²¹⁴																		
-637-1	tɕ i n ⁵⁵																		
+637-1	tɕ i ŋ ⁵⁵																		
 638-1	ʂ ʅ ⁵¹																		
-639-1	p o ⁵¹																		
+639-1	p u ⁵¹																		
 644-1	ʈʂ ou ²¹⁴																		
 648-1	ɕ ʅ ³⁵																		
-652-1	m au ³⁵																		
+652-1	m au ⁵¹																		
 657-1	k a n ⁵⁵																		
 658-1	pʰ i ŋ ³⁵																		
 659-1	n j a n ³⁵																		
-665-1	ʈʂʰ u a ŋ ⁵⁵																		
+665-1	ʈʂʰ u a ŋ ³⁵																		
 692-1	k u ŋ ⁵⁵																		
-696-1	t i ⁵¹																		
-707-1	i ŋ ⁵¹																		
+696-1	t i ³⁵																		
+707-1	i ŋ ŋ																		
 719-1	t ai ³⁵																		
 727-1	ɕ i ŋ ⁵⁵																		
-732-1	w a ŋ ³⁵																		
+732-1	w a ŋ ⁵¹																		
 733-1	m a ŋ ³⁵																		
 735-1	kʰ w ai ⁵¹																		
 740-1	pʰ a ³⁵																		
 773-1	ɕ j a ŋ ⁵⁵																		
-788-1	m a n ³⁵																		
-808-1	ʈʂʰ ə n ³⁵																		
+788-1	m a n ⁵¹																		
+808-1	ʈʂʰ ə ŋ ³⁵																		
 809-1	w a ²¹⁴																		
 816-1	t ai ⁵¹																		
 818-1	f a ŋ ³⁵																		
-821-1	ʂ a n ⁵¹																		
+821-1	ʂ a n n																		
 822-1	ʂ ou ²¹⁴																		
-826-1	t a ²¹⁴																		
-829-1	kʰ u ²¹⁴																		
+826-1	t a ³⁵																		
+829-1	kʰ ou ²¹⁴																		
 841-1	ʈʂ w a ⁵⁵																		
-845-1	ʈʂ ʅ ⁵⁵																		
+845-1	ʈʂ ʅ ³⁵																		
 848-1	pʰ au ³⁵																		
-858-1	pʰ a ³⁵																		
+858-1	pʰ i ³⁵																		
 862-1	tʰ w o																		
-869-1	tɕʰ ɥ a n																		
+869-1	tɕʰ ɥ a n ³⁵																		
 874-1	ʈʂ ʅ ⁵⁵																		
 876-1	tʰ j au ⁵¹																		
 883-1	ʈʂ w o																		
 894-1	t j au ⁵¹																		
 903-1	tɕ j e																		
-905-1	tʰ w ei																		
+905-1	tʰ w ei ⁵¹																		
 910-1	tʰ i ³⁵																		
 911-1	ʈʂʰ a ³⁵																		
-926-1	p a n ²¹⁴																		
+926-1	p a n ⁵¹																		
 934-1	m u ⁵¹																		
 968-1	ʂ ou ⁵⁵																		
-970-1	tɕ j e ²¹⁴																		
+970-1	tɕ j e																		
 982-1	k a n ²¹⁴																		
 986-1	kʰ j ²¹⁴																		
-997-1	tɕ i n ⁵⁵																		
+997-1	tɕ i ŋ ⁵⁵																		
 998-1	f u ²¹⁴																		
 1001-1	ɕ i ŋ ⁵⁵																		
 1003-1	f a ŋ ⁵⁵																		
 1005-1	pʰ a ŋ ³⁵																		
 1008-1	ʈʂ u ³⁵																		
 2-2		i ⁴¹																	
-4-2		tɕʰ i ²⁴																	
-5-2		ʈʂ a n ⁵⁵																	
+4-2		tɕʰ i ⁴¹																	
+5-2		ts a n ⁵⁵																	
 6-2		s a n ³³																	
-7-2		s a n ⁵⁵																	
-8-2		x j a																	
+7-2		s a n ³³																	
+8-2		x a a																	
 9-2		p u ²⁴																	
 17-2		ʈʂ o ŋ ³³																	
 31-2		tɕ j ɤu																	
 32-2		j a ¹³																	
 33-2		y ɤu ⁴¹																	
-38-2		n i																	
-40-2		x o																	
+38-2		n ʅ																	
+40-2		j o n ¹³																	
 42-2		u ⁴¹																	
-43-2		tɕ ə n ³³																	
+43-2		tɕ i n ³³																	
 46-2		w a n ¹³																	
 52-2		n j a n ³³																	
 53-2		n ə n ¹³																	
@@ -231,68 +231,68 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 68-2		tɕ ieː ⁵⁵																	
 85-2		w ei ⁵⁵																	
 86-2		t i ³³																	
-87-2		tɕ y ⁵⁵																	
+87-2		ts ɤu ⁵⁵																	
 93-2		n i ⁴¹																	
-98-2		n ai ¹³																	
+98-2		n i ¹³																	
 109-2		s i n ³³																	
 115-2		t au ⁴¹																	
-118-2		tɕ j e ²⁴																	
+118-2		ts j e ²⁴																	
 124-2		k j a																	
-127-2		ts o ⁴¹																	
-133-2		t ɤu ¹³																	
+127-2		ts ɤu ⁵⁵																	
+133-2		t ɤu ³³																	
 144-2		s a ³³																	
 161-2		ɕ j o ŋ ³³																	
 166-2		k w a n ³³																	
-170-2		j ʅ																	
+170-2		j ¹³																	
 171-2		t ɤu ⁵⁵																	
-173-2		n ɤu ²⁴																	
+173-2		n ɤ ²⁴																	
 174-2		n ei ⁵⁵																	
-175-2		tɕʰ yeː n																	
+175-2		tɕʰ yeː ¹³																	
 176-2		n j a n ³³																	
 177-2		p a ²⁴																	
 179-2		n j ɤu																	
 181-2		p i n ³³																	
-182-2		tɕ i ¹³																	
+182-2		tɕʰ i ¹³																	
 189-2		k w a n ³³																	
 191-2		t o ŋ ³³																	
-193-2		n ə n ¹³																	
+193-2		n o n ¹³																	
 198-2		t ə n ⁵⁵																	
 199-2		ɕ j o ŋ ³³																	
-200-2		tɕʰ ɤu ²⁴																	
+200-2		tɕʰ y ²⁴																	
 202-2		t au ³³																	
-205-2		x ə n ³³																	
+205-2		f a n ³³																	
 206-2		tɕʰ j e ²⁴																	
 209-2		x a ²⁴																	
 211-2		tsʰ o ³³																	
-215-2		n i ⁵⁵																	
-216-2		k w a																	
-217-2		t au ⁵⁵																	
-219-2		s oː ²⁴																	
-220-2		ʈʂʰ ʅ ⁵⁵																	
-225-2		tɕ ieː ⁵⁵																	
-230-2		tɕ ieː n																	
-234-2		p i ²⁴																	
+215-2		n i ¹³																	
+216-2		k w a ²⁴																	
+217-2		t au ⁴¹																	
+219-2		s j a																	
+220-2		tsʰ i ⁵⁵																	
+225-2		tɕʰ ieː ⁵⁵																	
+230-2		tɕ ieː ⁵⁵																	
+234-2		pʰ i ²⁴																	
 238-2		n i ²⁴																	
 242-2		ts ɤu ⁵⁵																	
 253-2		tɕ i n ¹³																	
 256-2		s j ²⁴																	
 261-2		x o ⁴¹																	
 262-2		p ɤ ²⁴																	
-263-2		s ʅ ⁵⁵																	
-264-2		tɕ j n n																	
+263-2		s ʅ ¹³																	
+264-2		tɕ j a n																	
 271-2		s ʅ ²⁴																	
 272-2		tɕʰ ieː ⁵⁵																	
 274-2		u ⁴¹																	
 275-2		p a n ⁵⁵																	
 279-2		n a n ¹³																	
 287-2		n a n ¹³																	
-291-2		x ɤu ⁴¹																	
+291-2		x ɤu ¹³																	
 295-2		tɕʰ y ⁵⁵																	
 300-2		j ɤu ⁴¹																	
 303-2		tɕʰ y ⁴¹																	
 306-2		kʰ u ⁴¹																	
 307-2		k u ⁴¹																	
-308-2		tɕ y ⁵⁵																	
+308-2		tɕ y ³³																	
 312-2		tɕ j au ⁵⁵																	
 313-2		kʰ o ⁴¹																	
 314-2		t ai ¹³																	
@@ -301,47 +301,47 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 330-2		f u ⁴¹																	
 334-2		s i ²⁴																	
 335-2		tsʰ ei ³³																	
-338-2		k au ³³																	
+338-2		k au ⁴¹																	
 339-2		ts ɤu ³³																	
 341-2		f u ³³																	
 342-2		m i n ¹³																	
 343-2		x o ¹³																	
-344-2		j au ⁴¹																	
+344-2		j au n																	
 349-2		kʰ u ²⁴																	
 353-2		tsʰ a n ⁵⁵																	
 360-2		x ɤu ¹³																	
 375-2		ts ei ⁵⁵																	
 388-2		s ɿ ⁵⁵																	
-389-2		f ei ⁴¹																	
+389-2		f ei ⁵⁵																	
 392-2		kʰ o ə n																	
-394-2		tɕ y n ⁵⁵																	
+394-2		tɕ y n																	
 401-2		t ɤu ⁴¹																	
 402-2		ts ai ⁵⁵																	
 403-2		t i ⁵⁵																	
-409-2		ts o ⁴¹																	
+409-2		ts o ⁵⁵																	
 418-2		m ei ¹³																	
 441-2		t ieː ¹³																	
-443-2		m o ⁴¹																	
+443-2		m o ¹³																	
 459-2		w a ⁵⁵																	
-460-2		t o ⁴¹																	
+460-2		t o ³³																	
 461-2		j a ¹³																	
-464-2		t a ¹³																	
-465-2		tʰ ieː ¹³																	
+464-2		t a ⁵⁵																	
+465-2		tʰ ieː ⁵⁵																	
 466-2		t ai ¹³																	
 467-2		f u ³³																	
-469-2		s ɿ ²⁴																	
-480-2		ɲ i ɤu																	
-482-2		n i n																	
-484-2		x au ⁴¹																	
+469-2		s ʅ ²⁴																	
+480-2		n j ɤu																	
+482-2		n a n																	
+484-2		x ɤu ⁴¹																	
 491-2		m ei ⁵⁵																	
 492-2		tɕʰ i ³³																	
-495-2		tɕ j e																	
+495-2		ts j e ²⁴																	
 496-2		k u ³³																	
 507-2		n j a n ³³																	
 509-2		tɕʰ y ⁴¹																	
 510-2		p o ¹³																	
 513-2		s i ³³																	
-518-2		s au ³³																	
+518-2		s au ⁴¹																	
 525-2		ʈʂ ʅ ³³																	
 527-2		j n n																	
 533-2		x ai ¹³																	
@@ -350,63 +350,63 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 558-2		j o ŋ ¹³																	
 564-2		f u ⁴¹																	
 580-2		s j ⁵⁵																	
-587-2		s j au ⁵⁵																	
-588-2		s au ³³																	
+587-2		s j au ⁴¹																	
+588-2		s au ⁴¹																	
 589-2		tɕ ieː ³³																	
-594-2		tsʰ ʅ ²⁴																	
+594-2		tɕʰ ʅ ²⁴																	
 602-2		u ²⁴																	
 604-2		s ɿ ⁴¹																	
 611-2		s a n ³³																	
 630-2		ts o ⁴¹																	
 637-2		tɕ i n ³³																	
-638-2		s ʅ ²¹																	
+638-2		s ʅ ⁵⁵																	
 639-2		p u ⁴¹																	
-644-2		ts ɤu ⁴¹																	
+644-2		ts ɤu ɤu																	
 648-2		s i ²⁴																	
 652-2		m au ¹³																	
 657-2		k a n ³³																	
 658-2		p i n ¹³																	
-659-2		n i ¹³																	
-665-2		tsʰ ə n ³³																	
+659-2		n j ¹³																	
+665-2		tsʰ o n ³³																	
 692-2		k o ŋ ³³																	
 696-2		t i ⁵⁵																	
-707-2		i n n																	
-719-2		t i ²⁴																	
+707-2		i n																	
+719-2		t ɤu ²⁴																	
 727-2		s i n ³³																	
-732-2		w a n ⁵⁵																	
-733-2		m o n ¹³																	
+732-2		w a n ¹³																	
+733-2		m a n ¹³																	
 735-2		kʰ w ai ⁵⁵																	
-740-2		p a ¹³																	
+740-2		pʰ a ¹³																	
 773-2		s j a n ³³																	
 788-2		m a n ⁵⁵																	
-808-2		ʈʂʰ ə n ¹³																	
+808-2		ʈʂ ə n ¹³																	
 809-2		ŋ a ⁴¹																	
-816-2		t ai ¹³																	
+816-2		t ai ⁴¹																	
 818-2		x a n ¹³																	
-821-2		s a n ⁵⁵																	
+821-2		s a n																	
 822-2		s ɤu ⁴¹																	
 826-2		t a ²⁴																	
-829-2		kʰ u ⁴¹																	
-841-2		ts o ⁴¹																	
-845-2		ʈʂ ʅ ²⁴																	
-848-2		p au ¹³																	
-858-2		p ɤ ²⁴																	
-862-2		t o ⁴¹																	
-869-2		tɕ yeː ⁴¹																	
+829-2		kʰ au ⁴¹																	
+841-2		ts a ³³																	
+845-2		ts ɤ ²⁴																	
+848-2		p au ⁴¹																	
+858-2		p a ²⁴																	
+862-2		tʰ o ³³																	
+869-2		tɕ yeː ¹³																	
 874-2		ʈʂ ʅ ³³																	
 876-2		tʰ j au ⁵⁵																	
 883-2		ts o ²⁴																	
 894-2		t j au ⁵⁵																	
-903-2		tɕ j e																	
+903-2		tɕ j e ²⁴																	
 905-2		tʰ ei ⁵⁵																	
-910-2		tʰ i ¹³																	
-911-2		tsʰ a ²⁴																	
+910-2		t i ¹³																	
+911-2		ts a ²⁴																	
 926-2		p a n ³³																	
 934-2		m o ²⁴																	
-968-2		s ɤu ³³																	
+968-2		s ɤu ɤu																	
 970-2		k ai ⁴¹																	
-982-2		k a n ³³																	
-986-2		kʰ j ⁴¹																	
+982-2		k a n ⁴¹																	
+986-2		kʰ j au																	
 997-2		tɕ i n ³³																	
 998-2		f u ⁴¹																	
 1001-2		s i n ³³																	
@@ -414,28 +414,28 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 1005-2		p a n ¹³																	
 1008-2		ts ɤu ²⁴																	
 2-3			i e																
-4-3			tsʰ i k																
+4-3			kʰ i k																
 5-3			ts a ŋ ³³																
 6-3			s ɯ ŋ ³³																
-7-3			s a ŋ ŋ																
-8-3			h j e																
-9-3			p e ʔ																
+7-3			s ɯ ŋ ³³																
+8-3			h j a																
+9-3			p e k																
 17-3			ts a ŋ ³³																
-31-3			k j u ³³																
+31-3			k j u ⁵³																
 32-3			j a ⁵⁵																
-33-3			h u ³⁵																
+33-3			h j ⁵³																
 38-3			h i e																
-40-3			h u ŋ ⁵⁵																
-42-3			ou ³³																
-43-3			ts i ŋ ³³																
+40-3			h e ŋ ⁵⁵																
+42-3			ou ⁵³																
+43-3			ts i ŋ ⁵³																
 46-3			m a ŋ ⁵⁵																
 52-3			l j e ŋ ⁵⁵																
-53-3			ts i ŋ ⁵⁵																
+53-3			l i ŋ ⁵⁵																
 56-3			k i ŋ ³³																
-59-3			tʰ a ³³																
+59-3			tʰ a ²¹³																
 60-3			ts a ŋ ³³																
-64-3			l i ŋ ⁵⁵																
-68-3			k j e ŋ																
+64-3			l i m ⁵⁵																
+68-3			k j e ŋ ³³																
 85-3			w i ³⁵																
 86-3			t i ³³																
 87-3			ts u ³⁵																
@@ -444,54 +444,54 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 109-3			s i ŋ ³³																
 115-3			t au ⁵³																
 118-3			ts j e ²¹³																
-124-3			k a e ⁵³																
-127-3			ts w ⁵³																
-133-3			tʰ o ³³																
-144-3			s w a ³³																
-161-3			h j e ŋ ³³																
+124-3			k a e																
+127-3			ts w ³⁵																
+133-3			tʰ o ⁵⁵																
+144-3			s o a																
+161-3			h i ŋ ŋ ³³																
 166-3			k w e ŋ ³³																
 170-3			h w e																
 171-3			tʰ o ⁵⁵																
-173-3			l i p ⁴																
+173-3			l a k ⁴																
 174-3			l w i																
-175-3			kʰ j e ŋ ³³																
+175-3			kʰ j e ŋ ⁵⁵																
 176-3			l j e ŋ ⁵⁵																
-177-3			p e ʔ ⁴																
+177-3			p a ʔ ²¹																
 179-3			l j u ⁵⁵																
 181-3			p e ŋ ³³																
 182-3			kʰ i ⁵⁵																
 189-3			k w e ŋ ³³																
 191-3			t a ŋ ³³																
-193-3			l i ŋ ⁵⁵																
-198-3			t i ŋ ⁵⁵																
-199-3			h j e ŋ ³³																
-200-3			tsʰ u ⁵⁵																
+193-3			l i m ⁵⁵																
+198-3			t i ŋ ³³																
+199-3			h j ŋ ŋ ³³																
+200-3			tsʰ u k																
 202-3			t au ³³																
-205-3			h i ŋ ³³																
+205-3			h e ŋ ³³																
 206-3			tsʰ j e ʔ ²¹																
-209-3			h w e ⁵³																
+209-3			h w e ʔ																
 211-3			tsʰ u ³³																
 215-3			l i ³⁵																
 216-3			k w e ʔ ²¹																
-217-3			t au ⁵³																
-219-3			s w e ʔ																
+217-3			t au ³⁵																
+219-3			s o ʔ ²¹																
 220-3			tsʰ i ²¹³																
-225-3			kʰ j e ŋ ³³																
+225-3			tsʰ j e ŋ ³³																
 230-3			k j e ŋ ³³																
-234-3			pʰ w e ʔ																
+234-3			pʰ w i ²¹³																
 238-3			l i k																
 242-3			ts u ³⁵																
 253-3			kʰ i ŋ ⁵⁵																
-256-3			s o k ²¹																
+256-3			s o ʔ ²¹																
 261-3			h w e ⁵³																
-262-3			p e ʔ ⁴																
-263-3			s i ³⁵																
+262-3			p e ʔ ²¹																
+263-3			s i ⁵³																
 264-3			k j e ŋ ³³																
-271-3			s i k ⁴																
+271-3			s i k ²¹																
 272-3			tsʰ j e ŋ ³³																
-274-3			ou ³³																
-275-3			p e ŋ ²¹³																
-279-3			l a ŋ ⁵⁵																
+274-3			ou ⁵³																
+275-3			p a ŋ ²¹³																
+279-3			l a m ⁵⁵																
 287-3			l a ŋ ⁵⁵																
 291-3			h u ³⁵																
 295-3			kʰ j u ⁵³																
@@ -499,21 +499,21 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 303-3			tsʰ j u																
 306-3			kʰ au ⁵³																
 307-3			k ou ⁵³																
-308-3			k u ³³																
-312-3			k j u ³³																
-313-3			kʰ w e																
-314-3			t ai ⁵⁵																
+308-3			k u ³⁵																
+312-3			k j əu ³³																
+313-3			kʰ w e ⁵³																
+314-3			tʰ ai ⁵⁵																
 323-3			m i ŋ ⁵⁵																
-325-3			tʰ o ⁵³																
-330-3			h u ³⁵																
-334-3			h i k ²¹																
+325-3			tʰ o ⁵⁵																
+330-3			h u ⁵⁵																
+334-3			s i e																
 335-3			tsʰ w i ³³																
 338-3			k au ⁵³																
 339-3			ts au ⁵³																
 341-3			h u ³³																
 342-3			m i ŋ ⁵⁵																
 343-3			h w ⁵⁵																
-344-3			j o ³³																
+344-3			j o																
 349-3			kʰ ou ⁵³																
 353-3			tsʰ a ŋ ³³																
 360-3			h u ⁵⁵																
@@ -521,74 +521,74 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 388-3			s i ³⁵																
 389-3			h w e ⁵³																
 392-3			kʰ w e ŋ																
-394-3			k w ŋ ŋ																
-401-3			tʰ o ⁵³																
-402-3			ts ai ³³																
+394-3			k w e ŋ																
+401-3			tʰ o ⁵⁵																
+402-3			ts ai ²¹³																
 403-3			t i ³⁵																
-409-3			ts w e																
-418-3			m ai ⁵⁵																
-441-3			t j ə m ⁵⁵																
+409-3			ts w ³³																
+418-3			m o ⁵⁵																
+441-3			tʰ j ə ŋ ⁵⁵																
 443-3			m o ⁵⁵																
-459-3			w w ⁵⁵																
+459-3			w w e																
 460-3			t o ³³																
-461-3			j a ŋ																
+461-3			j a ⁵⁵																
 464-3			t a ³⁵																
-465-3			tʰ j ə ŋ																
-466-3			tʰ ai ⁵⁵																
-467-3			h u ⁵⁵																
+465-3			tʰ j əu ŋ																
+466-3			tʰ ai ²¹³																
+467-3			h u ¹¹																
 469-3			s i k ²¹																
 480-3			l e ⁵³																
 482-3			l ai ⁵⁵																
 484-3			h o ⁵³																
 491-3			m w i																
 492-3			tsʰ i ³³																
-495-3			ts j e ʔ																
+495-3			ts j e ⁵³																
 496-3			k ou ³³																
-507-3			l e ŋ ŋ																
+507-3			l e ŋ ⁵⁵																
 509-3			tsʰ j u																
 510-3			pʰ w e																
 513-3			s i ³⁵																
 518-3			s o əu																
-525-3			ts i ⁵³																
-527-3			j u ŋ ⁵⁵																
+525-3			ts ɿ ⁵³																
+527-3			h u ŋ ⁵⁵																
 533-3			h ai ⁵⁵																
 548-3			kʰ w k ²¹																
 554-3			h ai ⁵⁵																
-558-3			j e ŋ ⁵⁵																
-564-3			h u ⁵⁵																
-580-3			s j e																
+558-3			j a ŋ ⁵⁵																
+564-3			h u ³⁵																
+580-3			s j ³⁵																
 587-3			s j u ³³																
-588-3			s j u ³³																
+588-3			s j əu ³³																
 589-3			k j e ŋ ³³																
-594-3			tsʰ i k																
-602-3			ou ³³																
+594-3			tsʰ a k ²¹																
+602-3			ou ⁵³																
 604-3			s i ⁵³																
 611-3			s ɯ ŋ ³³																
-630-3			ts w ⁵³																
+630-3			ts a ⁵³																
 637-3			k i ŋ ³³																
 638-3			s i ³⁵																
-639-3			p u ⁵⁵																
+639-3			p u ¹¹																
 644-3			ts au ⁵³																
-648-3			s i k																
+648-3			s i k ²¹																
 652-3			m o ⁵⁵																
 657-3			k a ŋ ³³																
 658-3			pʰ e ŋ ⁵⁵																
-659-3			l e ŋ ŋ																
+659-3			l i ŋ ⁵⁵																
 665-3			tsʰ a ŋ ⁵⁵																
 692-3			k a ŋ ³³																
 696-3			t i ³⁵																
 707-3			i ŋ ŋ																
-719-3			t a k ²¹																
+719-3			t i k ²¹																
 727-3			s i ŋ ³³																
 732-3			m a ŋ ⁵⁵																
-733-3			m a ŋ ⁵⁵																
-735-3			kʰ w e ²¹³																
-740-3			pʰ w a																
-773-3			s j e ŋ ³³																
+733-3			m o ŋ ⁵⁵																
+735-3			kʰ w e ⁵³																
+740-3			pʰ a ⁵⁵																
+773-3			s j a ŋ ³³																
 788-3			m a ŋ ⁵⁵																
-808-3			tsʰ i ŋ																
-809-3			ŋ e ŋ																
-816-3			t a ⁵⁵																
+808-3			tsʰ eː ³³																
+809-3			ŋ a																
+816-3			t o ³⁵																
 818-3			h a ŋ ⁵⁵																
 821-3			s ɯ ŋ ³³																
 822-3			s j u ³⁵																
@@ -596,47 +596,47 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 829-3			kʰ au ⁵³																
 841-3			ts w e																
 845-3			ts a ʔ ²¹																
-848-3			p au ⁵⁵																
-858-3			pʰ w e ʔ																
+848-3			p au ⁵³																
+858-3			pʰ w e ⁴																
 862-3			tʰ o ³³																
 869-3			kʰ j e ŋ ³³																
 874-3			ts i ⁵³																
 876-3			tʰ j əu ³³																
-883-3			ts w k																
-894-3			t j əu ³³																
+883-3			ts a e																
+894-3			t j əu ³⁵																
 903-3			k j e ʔ ²¹																
-905-3			tʰ w i ³³																
+905-3			tʰ w i ²¹³																
 910-3			tʰ i ⁵⁵																
 911-3			tsʰ a ʔ ²¹																
-926-3			p e ŋ ³³																
-934-3			m o ⁵⁵																
+926-3			p a ŋ ³³																
+934-3			m o ³³																
 968-3			s j u ³³																
 970-3			k ai ³³																
 982-3			k a ŋ ⁵³																
 986-3			kʰ j ⁵³																
 997-3			k i ŋ ³³																
-998-3			h u ⁵⁵																
+998-3			h u ³⁵																
 1001-3			s i ŋ ³³																
 1003-3			h a ŋ ³³																
 1005-3			pʰ a ŋ ⁵⁵																
 1008-3			ts a k																
-2-4				i e															
-4-4				tɕʰ ɿ ³¹															
+2-4				i ³¹															
+4-4				tsʰ ɿ ³¹															
 5-4				ts a ŋ ¹³															
 6-4				s a n ⁴⁴															
 7-4				s a a ŋ															
-8-4				ɕ j ³¹															
+8-4				x a ³¹															
 9-4				p e ³¹															
 17-4				ts o ŋ ⁴⁴															
-31-4				tɕ j əu ⁵³															
+31-4				tɕ j əu															
 32-4				j a ³¹															
-33-4				y u															
-38-4				ə ⁵³															
-40-4				ɥ o ŋ ³¹															
-42-4				v u ⁴⁴															
+33-4				y u ⁵³															
+38-4				n ⁵³															
+40-4				w a n ³¹															
+42-4				v u ⁵³															
 43-4				ts ə n ⁵³															
 46-4				w a ŋ ³¹															
-52-4				n j a ŋ ³¹															
+52-4				n j a ŋ ⁴⁴															
 53-4				z ə n ³¹															
 56-4				tɕ i n ⁴⁴															
 59-4				tʰ a ³¹															
@@ -648,40 +648,40 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 87-4				ts u ¹³															
 93-4				n i ⁵³															
 98-4				n i ³¹															
-109-4				ɕ i n ¹³															
+109-4				ɕ i n ⁴⁴															
 115-4				t au ⁵³															
-118-4				ts j ³¹															
-124-4				tɕ j a ¹³															
+118-4				ts j ⁴⁴															
+124-4				tɕ j a ⁴⁴															
 127-4				ts u ⁵³															
-133-4				tʰ au ³¹															
-144-4				s a ⁴⁴															
+133-4				tʰ au ⁴⁴															
+144-4				s a ³¹															
 161-4				ɕ ɥ o ŋ ⁴⁴															
 166-4				k w a ŋ ⁴⁴															
 170-4				ə ⁵³															
 171-4				tʰ u ³¹															
 173-4				z ɿ ³¹															
-174-4				n w ei ¹³															
+174-4				n w ei															
 175-4				tɕʰ ɥ a n ³¹															
-176-4				n j a ŋ ³¹															
+176-4				n j a ŋ ⁴⁴															
 177-4				p a ³¹															
 179-4				n j əu															
 181-4				p i n ⁴⁴															
 182-4				tɕʰ i ³¹															
 189-4				k w a n ⁴⁴															
 191-4				t o ŋ ⁴⁴															
-193-4				n ə n ⁵³															
+193-4				n ə n ³¹															
 198-4				t ə n ¹³															
 199-4				ɕ ɥ o ŋ ⁴⁴															
 200-4				tsʰ ɿ ³¹															
-202-4				t au ¹³															
-205-4				f o ŋ ⁴⁴															
+202-4				t au ⁴⁴															
+205-4				f ə n ⁴⁴															
 206-4				tɕʰ ɿ ³¹															
-209-4				x w ³¹															
-211-4				tsʰ o ⁴⁴															
+209-4				x a ³¹															
+211-4				tsʰ u ⁴⁴															
 215-4				n i ¹³															
-216-4				k w a ⁴⁴															
-217-4				t au ¹³															
-219-4				s w ³¹															
+216-4				k w a ³¹															
+217-4				t au ⁵³															
+219-4				s w a															
 220-4				tsʰ ɿ ¹³															
 225-4				tɕʰ j a n															
 230-4				tɕ j a n															
@@ -689,25 +689,25 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 238-4				n i ³¹															
 242-4				ts u ¹³															
 253-4				tɕʰ i n ³¹															
-256-4				s o ³¹															
+256-4				s u ³¹															
 261-4				x w a															
 262-4				p e ³¹															
 263-4				tsʰ ɿ ³¹															
-264-4				tɕ j a ŋ															
+264-4				tɕ j n ŋ															
 271-4				s ɿ ³¹															
-272-4				tɕʰ j n n															
-274-4				v u ⁴⁴															
+272-4				tɕʰ j a n															
+274-4				v u ⁵³															
 275-4				p a n ¹³															
 279-4				n a n ³¹															
-287-4				n w a n															
-291-4				x əu ³¹															
-295-4				tɕʰ y ⁴⁴															
+287-4				n w n n															
+291-4				x əu ¹³															
+295-4				tɕʰ y ⁵³															
 300-4				j əu ⁵³															
-303-4				tɕʰ y ⁵³															
-306-4				kʰ əu ⁵³															
+303-4				tsʰ y ⁵³															
+306-4				kʰ u ⁵³															
 307-4				k u ⁵³															
 308-4				ts u ⁵³															
-312-4				tɕ j əu ¹³															
+312-4				tɕ j au ¹³															
 313-4				kʰ o ⁵³															
 314-4				tʰ ai ³¹															
 323-4				m i n ³¹															
@@ -727,7 +727,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 375-4				ts w ei ⁵³															
 388-4				s ɿ ¹³															
 389-4				x w ei															
-392-4				kʰ o ŋ n															
+392-4				kʰ w ə n															
 394-4				tɕ j a n ¹³															
 401-4				tʰ u ⁵³															
 402-4				ts ai ¹³															
@@ -736,37 +736,37 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 418-4				m i ³¹															
 441-4				tʰ j a n ³¹															
 443-4				m u ³¹															
-459-4				w a ¹³															
+459-4				w a ³¹															
 460-4				t o ⁴⁴															
 461-4				j a ³¹															
 464-4				t a ³¹															
-465-4				tʰ j a n ⁴⁴															
+465-4				tʰ j a n ¹³															
 466-4				tʰ ai ³¹															
 467-4				f u ⁴⁴															
 469-4				s ɿ ³¹															
-480-4				ɲ j a n															
-482-4				n i ³¹															
+480-4				n j a n															
+482-4				n a n															
 484-4				x əu ⁵³															
-491-4				m ei ⁵³															
+491-4				m i ⁵³															
 492-4				tɕʰ i ⁴⁴															
 495-4				ts j ³¹															
 496-4				k u ⁴⁴															
 507-4				n j a ŋ ³¹															
-509-4				tɕʰ y ⁵³															
+509-4				tsʰ y ⁵³															
 510-4				pʰ o ³¹															
-513-4				s w ei															
+513-4				s w ³¹															
 518-4				s au ⁵³															
 525-4				ts ɿ ⁵³															
-527-4				ɥ n n															
+527-4				j n n															
 533-4				x ai ³¹															
 548-4				kʰ o ³¹															
-554-4				x ai ³¹															
+554-4				x ai ¹³															
 558-4				ɥ o ŋ ³¹															
 564-4				f u ⁵³															
 580-4				s e ³¹															
 587-4				ɕ j au															
 588-4				s au ⁵³															
-589-4				tɕ j a n ⁴⁴															
+589-4				tɕ j a n															
 594-4				tsʰ ɿ ³¹															
 602-4				v u ³¹															
 604-4				s ɿ ⁵³															
@@ -774,13 +774,13 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 630-4				ts o ⁵³															
 637-4				tɕ i n ⁴⁴															
 638-4				s ɿ ¹³															
-639-4				p o ⁵³															
+639-4				p u ⁵³															
 644-4				ts əu ⁵³															
-648-4				ɕ i ³¹															
+648-4				ɕ ɿ ³¹															
 652-4				m au ³¹															
 657-4				k a n ⁴⁴															
 658-4				pʰ i n ³¹															
-659-4				ɲ j a n ³¹															
+659-4				n j a n ³¹															
 665-4				tsʰ a ŋ ³¹															
 692-4				k o ŋ ⁴⁴															
 696-4				t i ¹³															
@@ -794,23 +794,23 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 773-4				ɕ j a ŋ ⁴⁴															
 788-4				m a n ¹³															
 808-4				tsʰ ə n ³¹															
-809-4				w a ⁵³															
+809-4				ŋ a ⁵³															
 816-4				t ai ¹³															
 818-4				f a ŋ ³¹															
-821-4				s ə n n															
+821-4				s a n n															
 822-4				s əu ⁵³															
 826-4				t a ³¹															
-829-4				kʰ au ⁵³															
+829-4				kʰ u ⁵³															
 841-4				ts w a															
 845-4				ts e ³¹															
-848-4				pʰ au ³¹															
-858-4				pʰ a ³¹															
-862-4				tʰ o ³¹															
+848-4				pʰ au ⁵³															
+858-4				pʰ o ³¹															
+862-4				tʰ o ⁴⁴															
 869-4				tɕʰ ɥ a n ³¹															
 874-4				ts ɿ ⁵³															
 876-4				tʰ j au ¹³															
 883-4				ts o ³¹															
-894-4				t j e ³¹															
+894-4				t j au ¹³															
 903-4				tɕ j ³¹															
 905-4				tʰ ei ei															
 910-4				tʰ i ³¹															
@@ -820,7 +820,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 968-4				s u ⁴⁴															
 970-4				k j ai															
 982-4				k a n ⁵³															
-986-4				kʰ j ⁵³															
+986-4				kʰ au ⁵³															
 997-4				tɕ i n ⁴⁴															
 998-4				f u ⁵³															
 1001-4				ɕ i n ⁴⁴															
@@ -828,94 +828,94 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 1005-4				pʰ a ŋ ³¹															
 1008-4				ts u ³¹															
 2-5					i ⁵²														
-4-5					kʰ i ʔ														
-5-5					ts a ŋ ²⁴²														
+4-5					tsʰ i ʔ														
+5-5					ts ou ŋ ²⁴²														
 6-5					s a ŋ ⁴⁴														
 7-5					s ou ŋ ⁴⁴														
 8-5					x a e														
-9-5					p w ʔ														
+9-5					p ei ʔ														
 17-5					ts y ŋ ⁴⁴														
 31-5					k j eu ³¹														
 32-5					j e ⁵²														
 33-5					l y ³¹														
-38-5					ŋ i e														
-40-5					y ŋ ⁵²														
+38-5					ŋ i ³¹														
+40-5					y ŋ ŋ														
 42-5					u ⁴⁴														
-43-5					ts i ŋ ⁴⁴														
+43-5					ts i ŋ ³¹														
 46-5					w ɔ ŋ ⁵²														
-52-5					l i ŋ ⁵²														
+52-5					l j e ŋ ²⁴²														
 53-5					l i ŋ ⁵²														
-56-5					k j ŋ ⁴⁴														
+56-5					k i ŋ ⁴⁴														
 59-5					tʰ a ⁴⁴														
 60-5					ts a ŋ ²⁴²														
 64-5					l i ŋ ⁵²														
 68-5					k j e ŋ ²¹³														
 85-5					w ei ²⁴²														
-86-5					t ei ²⁴²														
+86-5					t i ⁴⁴														
 87-5					ts y ³¹														
 93-5					l i ³¹														
-98-5					l ɛ ⁵²														
+98-5					l i ⁵²														
 109-5					s i ŋ ⁴⁴														
 115-5					t ɔ ³¹														
-118-5					ts j e ʔ														
-124-5					k a ʔ ²³														
-127-5					ts w ³¹														
-133-5					tʰ au eu														
+118-5					ts j e ⁴⁴														
+124-5					k a e ²³														
+127-5					ts y ³¹														
+133-5					tʰ au ⁵²														
 144-5					s a ⁴⁴														
 161-5					x y ŋ ⁴⁴														
-166-5					k ou ŋ ⁴⁴														
+166-5					k w a ŋ ⁴⁴														
 170-5					ŋ i ⁵²														
 171-5					tʰ øy ²⁴²														
 173-5					l i ʔ ⁴														
 174-5					l w ei														
-175-5					tsʰ w ŋ ŋ														
-176-5					l i ŋ ⁵²														
+175-5					kʰ w ɔ ŋ														
+176-5					l j e ŋ														
 177-5					p a ʔ ²³														
-179-5					l j eu ⁵²														
-181-5					p ei ŋ ⁴⁴														
+179-5					l j eu ⁴														
+181-5					p i ŋ ⁴⁴														
 182-5					kʰ ei ²¹³														
 189-5					k w a ŋ ⁴⁴														
 191-5					t u ŋ ⁴⁴														
 193-5					l i ŋ ⁵²														
 198-5					t ei ŋ ²⁴²														
 199-5					x y ŋ ⁴⁴														
-200-5					tsʰ y ʔ ²³														
+200-5					tsʰ y ʔ														
 202-5					t ɔ ⁴⁴														
 205-5					x u ŋ ⁴⁴														
 206-5					tsʰ j e ʔ ²³														
 209-5					x w a ⁴														
 211-5					tsʰ y ⁴⁴														
-215-5					l i ²⁴²														
+215-5					l i ³¹														
 216-5					k w a ʔ ²³														
-217-5					t ɔ ⁴⁴														
+217-5					t ɔ ³¹														
 219-5					s w ɔ ʔ														
 220-5					tsʰ j e ²¹³														
 225-5					tsʰ j e ŋ ²¹³														
-230-5					ts j e ŋ ⁴⁴														
-234-5					p ei ʔ														
+230-5					k j e ŋ ²¹³														
+234-5					pʰ i ʔ														
 238-5					l i ʔ														
 242-5					ts y ³¹														
-253-5					k i ŋ ⁵²														
+253-5					kʰ i ŋ ⁵²														
 256-5					s j ʔ														
 261-5					x w a ⁴⁴														
 262-5					p ei ʔ ⁴														
-263-5					s j e														
-264-5					k j ɔ ŋ														
+263-5					s i e														
+264-5					k j e ŋ ⁴⁴														
 271-5					s i ʔ ²³														
 272-5					tsʰ j e ŋ ⁴⁴														
 274-5					u ⁴⁴														
-275-5					p w ŋ ŋ														
+275-5					p a ŋ ²¹³														
 279-5					l a ŋ ⁵²														
 287-5					l ou ŋ ⁵²														
 291-5					x eu ²⁴²														
-295-5					kʰ y ³¹														
+295-5					kʰ w ɔ														
 300-5					j eu ³¹														
 303-5					tsʰ y ³¹														
 306-5					kʰ u ³¹														
 307-5					k u ³¹														
-308-5					k y ³¹														
+308-5					k w ei														
 312-5					k j eu ²¹³														
-313-5					kʰ w ɔ														
+313-5					kʰ a ³¹														
 314-5					tʰ ai ⁵²														
 323-5					m i ŋ ⁵²														
 325-5					tʰ øy ³¹														
@@ -923,53 +923,53 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 334-5					s i ʔ														
 335-5					tsʰ w ei ⁴⁴														
 338-5					k ɔ ³¹														
-339-5					ts j ³¹														
+339-5					ts j ⁴⁴														
 341-5					x u ⁴⁴														
 342-5					m i ŋ ⁵²														
-343-5					x u ⁵²														
+343-5					x w ⁵²														
 344-5					ŋ eu ³¹														
-349-5					kʰ u ʔ														
-353-5					tsʰ ou ŋ ²¹³														
+349-5					kʰ u ʔ ²³														
+353-5					tsʰ ou ŋ ⁴⁴														
 360-5					x eu ⁵²														
 375-5					ts w ei ³¹														
 388-5					s i ³¹														
-389-5					x w ei ⁴⁴														
+389-5					x w ei ³¹														
 392-5					kʰ w ŋ ŋ														
 394-5					k w ŋ ŋ														
 401-5					tʰ øy ³¹														
 402-5					ts ai ⁴⁴														
-403-5					t ei ²⁴²														
+403-5					t i ³¹														
 409-5					ts w ɔ														
 418-5					m i ⁵²														
 441-5					t j e ŋ ⁵²														
-443-5					m u ⁵²														
-459-5					w a ²⁴²														
-460-5					t u ⁴⁴														
-461-5					j e ⁵²														
+443-5					m u ³¹														
+459-5					w a ³¹														
+460-5					t w ⁴⁴														
+461-5					j e ²¹³														
 464-5					t a ²¹³														
 465-5					tʰ j e ŋ ⁵²														
 466-5					tʰ ai ²¹³														
 467-5					x u ⁴⁴														
 469-5					s i ʔ ²³														
 480-5					l y ɔ														
-482-5					l a ⁵²														
+482-5					l i ³¹														
 484-5					x eu ³¹														
 491-5					m i ³¹														
 492-5					tsʰ i ⁴⁴														
-495-5					ts j e ⁴⁴														
+495-5					ts j e ʔ														
 496-5					k u ⁴⁴														
-507-5					l i ŋ ŋ														
-509-5					tsʰ y ³¹														
+507-5					l j e ŋ ⁵²														
+509-5					tsʰ y ɔ ³¹														
 510-5					pʰ a ⁵²														
-513-5					s ɛ ⁴⁴														
+513-5					s i ³¹														
 518-5					s au ³¹														
 525-5					ts j e ⁴⁴														
-527-5					y ŋ ŋ														
+527-5					y ŋ ²⁴²														
 533-5					x ai ⁵²														
 548-5					kʰ a ʔ ²³														
 554-5					x ai ⁵²														
-558-5					y ɔ ŋ ⁵²														
-564-5					x u ²⁴²														
+558-5					y eu ŋ ⁵²														
+564-5					x u ³¹														
 580-5					s j e														
 587-5					s j eu ³¹														
 588-5					s au ³¹														
@@ -979,92 +979,92 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 604-5					s i ³¹														
 611-5					s a ŋ ⁴⁴														
 630-5					ts w ³¹														
-637-5					k j ŋ ⁴⁴														
+637-5					k i ŋ ⁴⁴														
 638-5					s i ³¹														
 639-5					p ɔ ⁴⁴														
 644-5					ts j ³¹														
-648-5					s i e														
+648-5					s i ʔ														
 652-5					m ɔ ⁵²														
 657-5					k a ŋ ⁴⁴														
 658-5					p i ŋ ⁵²														
 659-5					l j e ŋ ⁵²														
 665-5					tsʰ ou ŋ ⁵²														
 692-5					k ou ŋ ⁴⁴														
-696-5					t ei ²⁴²														
+696-5					t i ³¹														
 707-5					i ŋ ŋ														
-719-5					t ei ʔ ²³														
+719-5					t j ʔ ²³														
 727-5					s i ŋ ⁴⁴														
-732-5					w ɔ ŋ ⁵²														
+732-5					w a ŋ ⁵²														
 733-5					m u ŋ ⁵²														
-735-5					kʰ w ai ²¹³														
-740-5					pʰ a ²¹³														
-773-5					s j ɔ ŋ ⁴⁴														
-788-5					m i ŋ ²⁴²														
+735-5					kʰ w ei ²¹³														
+740-5					pʰ a ⁵²														
+773-5					s j e ŋ														
+788-5					m a ŋ ²⁴²														
 808-5					tsʰ i ŋ ⁵²														
-809-5					ŋ w ɔ ³¹														
+809-5					ŋ w ɔ														
 816-5					t ɵy ²¹³														
-818-5					x w ŋ ŋ														
-821-5					s a ŋ ŋ														
+818-5					x u ŋ ⁵²														
+821-5					s i ŋ ⁴⁴														
 822-5					s j eu														
 826-5					t a ʔ ²³														
-829-5					kʰ u ³¹														
+829-5					kʰ ɔ ³¹														
 841-5					ts w a ⁴⁴														
-845-5					ts j ʔ ʔ														
+845-5					ts j e ʔ														
 848-5					p ɔ ⁵²														
-858-5					p a ʔ ⁴														
-862-5					tʰ øy ²¹³														
+858-5					pʰ a ʔ ⁴														
+862-5					tʰ øy ⁴⁴														
 869-5					kʰ w ŋ ŋ														
 874-5					ts i e														
 876-5					tʰ j eu ²¹³														
 883-5					ts w ʔ ²³														
 894-5					t j eu ²⁴²														
-903-5					k j e ʔ ²³														
-905-5					tʰ øy ³¹														
-910-5					tʰ a ⁵²														
+903-5					k j e ʔ ⁴														
+905-5					tʰ øy ²¹³														
+910-5					tʰ j e														
 911-5					tsʰ a ʔ ²³														
-926-5					p w ŋ ŋ														
-934-5					m u ⁵²														
-968-5					s j eu ⁴⁴														
+926-5					p a ŋ ⁴⁴														
+934-5					m ɔ ʔ														
+968-5					s j eu														
 970-5					k ai ³¹														
-982-5					k a ŋ ²¹³														
+982-5					k a ŋ ³¹														
 986-5					kʰ j eu														
-997-5					k j ŋ ⁴⁴														
+997-5					k i ŋ ⁴⁴														
 998-5					x u ³¹														
 1001-5					s i ŋ ⁴⁴														
-1003-5					x w a ŋ														
+1003-5					x u ŋ ⁴⁴														
 1005-5					p ei ŋ ⁵²														
-1008-5					ts øy ʔ ²³														
-2-6						j i t ²													
+1008-5					ts y ʔ														
+2-6						j i t													
 4-6						tʃʰ ei k													
-5-6						tʃ ɔ ŋ ²²													
-6-6						ʃ aː m ⁵⁵													
+5-6						tʃ aː ŋ ²²													
+6-6						ʃ aː n ⁵⁵													
 7-6						ʃ œ ŋ ⁵⁵													
-8-6						h ɔ ²¹													
+8-6						h i ²¹													
 9-6						p u k ²													
 17-6						tʃ u ŋ ⁵⁵													
 31-6						k au ³⁵													
-32-6						j i ²¹													
+32-6						j i ²³													
 33-6						j y ²³													
 38-6						j i ²³													
-40-6						j u ŋ ²¹													
-42-6						w u ²¹													
-43-6						tʃ ɪ n ³⁵													
-46-6						w u ŋ ²¹													
-52-6						l i n ²²													
+40-6						j u n ²¹													
+42-6						w u ³⁵													
+43-6						tʃ ɪ ŋ ³⁵													
+46-6						m ɔ ŋ ²¹													
+52-6						l i ŋ ²¹													
 53-6						j a n ²¹													
 56-6						k a n ⁵⁵													
-59-6						tʰ a ⁵⁵													
-60-6						tʃ ɔ ŋ ²²													
-64-6						l a m ²¹													
+59-6						tʰ a m													
+60-6						tʃ aː ŋ ²²													
+64-6						l a ŋ ²¹													
 68-6						k i n ⁵⁵													
 85-6						w ai ²¹													
-86-6						t i ⁵⁵													
+86-6						t i k													
 87-6						tʃ y ³⁵													
-93-6						n ai ²³													
+93-6						l ai ²³													
 98-6						l œy ²¹													
 109-6						ʃ ɪ ŋ ⁵⁵													
-115-6						t ou ²²													
-118-6						tʃ i ³³													
+115-6						t ou ³⁵													
+118-6						tʃ i ⁵⁵													
 124-6						k a ³³													
 127-6						tʃ ɔ ³⁵													
 133-6						tʰ ou ²¹													
@@ -1075,120 +1075,120 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 171-6						tʰ ou ²¹													
 173-6						j u t ²													
 174-6						l œy ²²													
-175-6						tʃ y n ²¹													
-176-6						l i n ²¹													
+175-6						tʃʰ y n ²¹													
+176-6						l i ŋ ²¹													
 177-6						p aː k ³													
 179-6						l au ²¹													
 181-6						p ɪ ŋ ⁵⁵													
-182-6						h ei ⁵⁵													
-189-6						k w a n ³³													
+182-6						kʰ ei ²¹													
+189-6						k w a n													
 191-6						t u ŋ ⁵⁵													
-193-6						l a m ²¹													
+193-6						l a ŋ ²¹													
 198-6						t a ŋ ²²													
 199-6						h u ŋ ⁵⁵													
 200-6						tʃʰ y t													
 202-6						t ou ⁵⁵													
 205-6						f u n ⁵⁵													
 206-6						tʃʰ ɛ ²¹													
-209-6						f aː t													
+209-6						f ɔ t													
 211-6						tʃʰ y ⁵⁵													
 215-6						l ei ²²													
 216-6						k w a t ⁵													
 217-6						t ou ²²													
-219-6						ʃ ɔ t													
+219-6						ʃ y t ³													
 220-6						tʃʰ i ³³													
-225-6						h i n													
+225-6						tʃʰ i n ²¹													
 230-6						tʃ i n ⁵⁵													
-234-6						pʰ ei t ²													
-238-6						l ei t													
+234-6						pʰ ei t													
+238-6						l ei t ²													
 242-6						tʃ au ²²													
-253-6						h a n ²¹													
+253-6						kʰ a n ²¹													
 256-6						ʃ ɔ k													
 261-6						f ɔ ⁵⁵													
 262-6						p aː k ²													
-263-6						ʃ i ²²													
+263-6						ʃ i ²¹													
 264-6						k i ŋ ⁵⁵													
-271-6						ʃ i t ²													
+271-6						ʃ i t													
 272-6						tʃʰ i n ⁵⁵													
-274-6						w u ²¹													
+274-6						w u ³⁵													
 275-6						p aː n ²²													
 279-6						n aː m ²¹													
-287-6						l ɔ n ²¹													
+287-6						l ɔ n													
 291-6						h au ²¹													
-295-6						h y ³³													
-300-6						j au ²¹													
+295-6						h y n													
+300-6						j au ²³													
 303-6						tʃʰ y ²³													
 306-6						h au ³⁵													
 307-6						k u ³⁵													
-308-6						k w a t ⁵													
+308-6						k y ³⁵													
 312-6						k au ³⁵													
 313-6						h ɔ ³⁵													
 314-6						tʰ ɔi ²¹													
 323-6						m ɪ ŋ ²¹													
 325-6						tʰ ou ²¹													
 330-6						f u ³⁵													
-334-6						h a k													
-335-6						tʃʰ y ⁵⁵													
+334-6						h a t													
+335-6						tʃʰ y ²³													
 338-6						k ou ³⁵													
 339-6						tʃ au ³⁵													
 341-6						f u ⁵⁵													
 342-6						m ɪ ŋ ²¹													
-343-6						f ɔ ²¹													
-344-6						j j u													
+343-6						h ɔ ²¹													
+344-6						ŋ j u													
 349-6						f u k													
-353-6						tʃʰ œ ŋ ⁵⁵													
+353-6						tʃʰ u ŋ ²¹													
 360-6						h au ²¹													
-375-6						tʃ œy ³³													
+375-6						tʃ œy ³⁵													
 388-6						ʃ i ²²													
-389-6						f w i ³⁵													
-392-6						h ɔ n ³³													
-394-6						k w n n													
+389-6						f w i ²¹													
+392-6						h ɔ n ⁵⁵													
+394-6						k w a n													
 401-6						tʰ ou ²¹													
 402-6						tʃ ɔi ³³													
-403-6						t i ²²													
+403-6						t ai k													
 409-6						tʃ ɔ ⁵⁵													
-418-6						m aːi ²¹													
+418-6						m ei ²¹													
 441-6						tʰ i n ²¹													
-443-6						m ɔ ²¹													
-459-6						w aː ²¹													
+443-6						m ɔ ²³													
+459-6						w ai ²¹													
 460-6						t ɔ ⁵⁵													
-461-6						j i ²¹													
-464-6						t aː p ³													
+461-6						j i n													
+464-6						t aː ²²													
 465-6						tʰ i n ²¹													
 466-6						tʰ ɔi ²¹													
 467-6						f u ⁵⁵													
 469-6						ʃ i t ²													
 480-6						n œy ²³													
 482-6						n aː ²¹													
-484-6						h ɔ ³⁵													
+484-6						h aːu ³⁵													
 491-6						m ei ²³													
 492-6						tʃʰ ei ⁵⁵													
 495-6						tʃ i ⁵⁵													
 496-6						k u ⁵⁵													
-507-6						n i n ²¹													
+507-6						n a ŋ ²¹													
 509-6						tʃʰ y ²³													
 510-6						pʰ ɔ ²¹													
-513-6						ʃ ai ⁵⁵													
-518-6						ʃ ɔ ³⁵													
+513-6						ʃ ai ³⁵													
+518-6						ʃ aːu ³⁵													
 525-6						tʃ i ³⁵													
-527-6						j u n ²²													
+527-6						j i n ²²													
 533-6						h aːi ²¹													
 548-6						h ɔ t ³													
-554-6						h aːi ²³													
+554-6						h aːi ²¹													
 558-6						j u ŋ ²¹													
 564-6						f u ²²													
-580-6						ʃ ɛ ⁵⁵													
+580-6						ʃ ɛ t													
 587-6						ʃ j u ³⁵													
 588-6						ʃ au ³⁵													
 589-6						tʃ i n ⁵⁵													
-594-6						tʃʰ i k													
+594-6						tʃʰ i t													
 602-6						w u t													
 604-6						ʃ i ³⁵													
 611-6						ʃ aː n ⁵⁵													
 630-6						tʃ ɔ ³⁵													
 637-6						k a n ⁵⁵													
 638-6						ʃ i ²²													
-639-6						p ɔ k													
+639-6						p u ²²													
 644-6						tʃ au ³⁵													
 648-6						ʃ ai t													
 652-6						m ou ²³													
@@ -1197,49 +1197,49 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 659-6						n i n ²¹													
 665-6						tʃʰ u ŋ ²¹													
 692-6						k u ŋ ⁵⁵													
-696-6						t ai ²²													
+696-6						t ai k													
 707-6						j i n ²¹													
-719-6						t aː k ³													
+719-6						t aː t ³													
 727-6						ʃ ɪ ŋ ⁵⁵													
-732-6						w u ŋ ²¹													
+732-6						m ɔ ŋ ²¹													
 733-6						m ɔ ŋ ²¹													
-735-6						f aːi ³³													
+735-6						f ɔ ⁵⁵													
 740-6						pʰ a ²¹													
 773-6						ʃ œ ŋ ⁵⁵													
-788-6						m aː n ²³													
+788-6						m aː n ²²													
 808-6						tʃʰ a ŋ ²¹													
-809-6						ŋ a ²³													
+809-6						ŋ a ²¹													
 816-6						t ɔi ²²													
 818-6						f u ŋ ²¹													
-821-6						ʃ aː n ²²													
+821-6						ʃ aː n ⁵⁵													
 822-6						ʃ au ³⁵													
 826-6						t aː p ³													
-829-6						h au ³³													
+829-6						h au ³⁵													
 841-6						tʃ ɔ ⁵⁵													
 845-6						tʃ i k													
-848-6						pʰ aːu ³⁵													
-858-6						pʰ a ²¹ ²													
+848-6						p aːu ³⁵													
+858-6						pʰ a ²¹													
 862-6						tʰ ɔ ⁵⁵													
-869-6						h y n ²¹													
+869-6						kʰ y n ⁵⁵													
 874-6						tʃ i ³⁵													
-876-6						tʰ j u ³³													
-883-6						tʃ ɔ k ⁵													
-894-6						t au u													
+876-6						tʰ j u ⁵⁵													
+883-6						tʃ ɔ k													
+894-6						t au ²²													
 903-6						tʃ i ⁵⁵													
 905-6						tʰ œy ³³													
 910-6						tʰ ai ²¹													
 911-6						tʃʰ a t													
 926-6						p aː n ⁵⁵													
 934-6						m ɔ k													
-968-6						ʃ au ⁵⁵													
+968-6						ʃ au ²²													
 970-6						k aːi ³⁵													
-982-6						k ɔ n ³⁵													
-986-6						h au ³⁵													
+982-6						k aː n ³⁵													
+986-6						h au ²¹													
 997-6						k a n ⁵⁵													
 998-6						f u ³⁵													
 1001-6						ʃ ɪ ŋ ⁵⁵													
 1003-6						f u ŋ ⁵⁵													
-1005-6						pʰ u n ²¹													
+1005-6						pʰ ɔ ŋ ²¹													
 1008-6						tʃ u k													
 2-7							i ²¹³												
 4-7							tɕʰ ɿ ²¹³												
@@ -1253,7 +1253,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 32-7							j a ²¹³												
 33-7							n ou												
 38-7							ɯ ⁴²												
-40-7							j n n ²¹³												
+40-7							j a n ²¹³												
 42-7							u ⁴²												
 43-7							ts ə n ⁴²												
 46-7							w a ŋ ²¹³												
@@ -1266,7 +1266,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 68-7							tɕ j a n ³⁵												
 85-7							w ei ³⁵												
 86-7							t i ⁵⁵												
-87-7							tɕ ou ³⁵												
+87-7							ts ou ³⁵												
 93-7							n i ⁴²												
 98-7							n i ²¹³												
 109-7							ɕ ə n ³⁵												
@@ -1274,15 +1274,15 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 118-7							ts j ²¹³												
 124-7							tɕ j a												
 127-7							ts ou ³⁵												
-133-7							tʰ au ⁵⁵												
+133-7							tʰ au ²¹³												
 144-7							s a ⁵⁵												
 161-7							ɕ j o ŋ ⁵⁵												
 166-7							k w a ŋ ⁵⁵												
-170-7							ɯ ⁴²												
-171-7							tʰ ou ²¹³												
+170-7							ɯ ²¹³												
+171-7							tʰ ou ³⁵												
 173-7							n ou ²¹³												
-174-7							n ei ⁴²												
-175-7							tɕʰ w n												
+174-7							n ei ³⁵												
+175-7							tsʰ w a n												
 176-7							n j a ŋ ²¹³												
 177-7							p a ²¹³												
 179-7							n j ou												
@@ -1290,18 +1290,18 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 182-7							tɕʰ i ²¹³												
 189-7							k w a n ⁵⁵												
 191-7							t o ŋ ⁵⁵												
-193-7							n ə n ²¹³												
+193-7							n ə n ⁴²												
 198-7							t ə n ³⁵												
 199-7							ɕ j o ŋ ⁵⁵												
 200-7							tsʰ ou ²¹³												
 202-7							t au ⁵⁵												
-205-7							f o n ⁵⁵												
+205-7							f o ŋ ⁵⁵												
 206-7							tɕʰ j ²¹³												
 209-7							x a a												
 211-7							tsʰ ou ⁵⁵												
 215-7							n i ³⁵												
-216-7							k w a ⁵⁵												
-217-7							t au ⁴²												
+216-7							k w a ²¹³												
+217-7							t au ³⁵												
 219-7							s w a												
 220-7							tsʰ ɿ ³⁵												
 225-7							tɕʰ j a n												
@@ -1313,10 +1313,10 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 256-7							s o ²¹³												
 261-7							x w a												
 262-7							p ɤ ²¹³												
-263-7							s ɿ ²¹³												
+263-7							tsʰ ɿ ²¹³												
 264-7							tɕ j a ŋ												
 271-7							s ɿ ²¹³												
-272-7							tɕʰ j a n												
+272-7							tɕʰ j n n												
 274-7							u ⁴²												
 275-7							p a n ³⁵												
 279-7							n a n ²¹³												
@@ -1333,39 +1333,39 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 314-7							tʰ ɛ ²¹³												
 323-7							m i n ²¹³												
 325-7							tʰ ou ⁴²												
-330-7							f u ⁴²												
+330-7							f ou ⁴²												
 334-7							ɕ i ²¹³												
 335-7							tsʰ w ei ⁵⁵												
 338-7							k au ⁴²												
 339-7							ts ou ⁵⁵												
 341-7							x u ⁵⁵												
-342-7							m i n ²¹³												
+342-7							m i n ³⁵												
 343-7							x o ²¹³												
 344-7							j au ⁴²												
 349-7							kʰ u ²¹³												
 353-7							tsʰ w n ŋ												
 360-7							x ou ²¹³												
-375-7							ts w ³⁵												
+375-7							ts w ei												
 388-7							s ɿ ³⁵												
 389-7							x w ei												
-392-7							kʰ w ə n												
+392-7							kʰ w n n												
 394-7							tɕ j a n ³⁵												
-401-7							tʰ u ⁴²												
+401-7							tʰ ou ⁴²												
 402-7							ts ai ³⁵												
 403-7							t i ³⁵												
-409-7							ts o ²¹³												
+409-7							ts o ⁵⁵												
 418-7							m ei ²¹³												
 441-7							tʰ j a n ²¹³												
 443-7							m o ŋ ³⁵												
-459-7							w a ⁴²												
+459-7							w a ³⁵												
 460-7							t o ⁵⁵												
 461-7							j a ²¹³												
 464-7							t a ²¹³												
-465-7							tʰ j a n ³⁵												
+465-7							tʰ j a n ²¹³												
 466-7							tʰ ɛ ²¹³												
 467-7							f u ⁵⁵												
 469-7							s ɿ ²¹³												
-480-7							n ou ²¹³												
+480-7							n ou ⁴²												
 482-7							n i n												
 484-7							x au ⁴²												
 491-7							m ei ⁴²												
@@ -1378,7 +1378,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 513-7							ɕ y ³⁵												
 518-7							s au ⁴²												
 525-7							ts ɿ ³⁵												
-527-7							j n n												
+527-7							j a n ³⁵												
 533-7							x ai ²¹³												
 548-7							kʰ a ²¹³												
 554-7							x ai ³⁵												
@@ -1387,61 +1387,61 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 580-7							s ɤ ²¹³												
 587-7							ɕ j au												
 588-7							s au ⁴²												
-589-7							tɕ j a n ⁵⁵												
+589-7							tɕ j a n												
 594-7							tsʰ ɿ ²¹³												
 602-7							u ²¹³												
-604-7							s ɿ ⁴²												
+604-7							s ɿ ³⁵												
 611-7							s a n ⁵⁵												
 630-7							ts o ⁴²												
 637-7							tɕ i n ⁵⁵												
 638-7							s ɿ ³⁵												
 639-7							p o ³⁵												
 644-7							ts ou ⁴²												
-648-7							ɕ ɿ ²¹³												
+648-7							ɕ i ²¹³												
 652-7							m au ²¹³												
 657-7							k a n ⁵⁵												
 658-7							pʰ i n ²¹³												
 659-7							n j a n ²¹³												
-665-7							tsʰ w ŋ ²¹³												
+665-7							tsʰ w a ŋ												
 692-7							k o ŋ ⁵⁵												
 696-7							t i ³⁵												
 707-7							i n ⁴²												
 719-7							t i ²¹³												
 727-7							ɕ ə n ⁵⁵												
 732-7							w a ŋ ³⁵												
-733-7							m o ŋ ²¹³												
+733-7							m a ŋ ²¹³												
 735-7							kʰ w ai ³⁵												
 740-7							pʰ a ²¹³												
 773-7							ɕ j a ŋ												
 788-7							m a n ³⁵												
 808-7							tsʰ ə n ²¹³												
-809-7							ŋ a ⁴²												
+809-7							ŋ a n												
 816-7							t ai ³⁵												
 818-7							f a ŋ ²¹³												
 821-7							s a n ³⁵												
 822-7							s ou ⁴²												
 826-7							t a ²¹³												
 829-7							kʰ u ⁴²												
-841-7							ts a a												
+841-7							ts w a												
 845-7							ts ɿ ²¹³												
-848-7							p au ²¹³												
-858-7							pʰ o ²¹³												
-862-7							tʰ o ²¹³												
-869-7							tɕʰ y n ²¹³												
+848-7							pʰ au ²¹³												
+858-7							pʰ a ²¹³												
+862-7							tʰ o ⁵⁵												
+869-7							tɕʰ j a n												
 874-7							ts ɿ ²¹³												
 876-7							tʰ j au ³⁵												
 883-7							ts o ²¹³												
 894-7							t j au ³⁵												
 903-7							tɕ j ²¹³												
-905-7							tʰ ei ei												
+905-7							tʰ w ei												
 910-7							tʰ i ²¹³												
 911-7							tsʰ a ²¹³												
 926-7							p a n ³⁵												
-934-7							m o ŋ												
+934-7							m o ŋ ³⁵												
 968-7							s ou ⁵⁵												
 970-7							k ai ⁴²												
 982-7							k a n ⁴²												
-986-7							kʰ j au												
+986-7							kʰ au ⁵⁵												
 997-7							tɕ i n ⁵⁵												
 998-7							f u ⁴²												
 1001-7							ɕ ə n ⁵⁵												
@@ -1452,60 +1452,60 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 4-8								tɕʰ ʅ ⁴²											
 5-8								ʈʂ a ŋ ²¹											
 6-8								ʂ a ŋ											
-7-8								ʂ a ŋ ²¹³											
+7-8								ʂ a ŋ											
 8-8								ɕ j a											
-9-8								p ei ⁴²											
+9-8								p ə ⁴²											
 17-8								ʈʂ u ŋ ²¹³											
 31-8								tɕ j ou ⁵⁵											
 32-8								j a ⁴²											
-33-8								y u											
+33-8								y u ⁵⁵											
 38-8								ə ⁵⁵											
-40-8								y ŋ ŋ											
+40-8								y ŋ ²¹											
 42-8								u ⁵⁵											
 43-8								tɕ ieː ²¹											
 46-8								w a ŋ ⁴²											
-52-8								l j a ŋ ⁴²											
+52-8								l j a ŋ ²¹³											
 53-8								ʐ eː ⁴²											
 56-8								tɕ ieː ²¹³											
 59-8								tʰ a ²¹³											
 60-8								ʈʂ a ŋ ²¹											
-64-8								l i ŋ ⁴²											
+64-8								l i ŋ ²¹											
 68-8								tɕ iaː ²¹											
 85-8								w ei ²¹											
 86-8								t i ²¹³											
 87-8								ʈʂ u ²¹											
 93-8								l i ⁵⁵											
-98-8								l w ei											
+98-8								l i ⁴²											
 109-8								ɕ i ŋ											
 115-8								t ɔ ⁵⁵											
-118-8								ʈʂ j ²¹³											
-124-8								tɕ j a ²¹³											
+118-8								tɕ j ²¹³											
+124-8								tɕ j a											
 127-8								ʈʂ u ə											
-133-8								tʰ ɔ ⁴²											
+133-8								tʰ ɔ ²¹³											
 144-8								ʂ a ²¹³											
 161-8								ɕ y ŋ ²¹³											
-166-8								k w ²¹³											
+166-8								k w a ŋ ²¹³											
 170-8								ə ⁵⁵											
-171-8								tʰ u ⁴²											
+171-8								tʰ u ²¹											
 173-8								ʐ ʅ ²¹											
 174-8								l w ei ²¹											
-175-8								tɕʰ u ⁴²											
-176-8								l j a ŋ ⁴²											
-177-8								p a ⁴²											
+175-8								tɕʰ u ⁵⁵											
+176-8								l j a ŋ ²¹³											
+177-8								p ei ²¹³											
 179-8								l j ou											
 181-8								p i ŋ ²¹³											
 182-8								tɕʰ i ⁴²											
 189-8								k uaː ²¹³											
 191-8								t u ŋ ²¹³											
-193-8								l ə ŋ											
+193-8								l eː ŋ											
 198-8								t ə ŋ ²¹											
-199-8								ɕ y ŋ ŋ											
+199-8								ɕ y ŋ ²¹³											
 200-8								ʈʂʰ u ⁴²											
 202-8								t ɔ ²¹³											
 205-8								f ə ŋ ²¹³											
-206-8								tɕʰ ʅ e											
+206-8								tɕʰ j e											
 209-8								x w a											
-211-8								ʈʂʰ u ²¹³											
+211-8								tsʰ u ²¹³											
 215-8								l i ²¹											
 216-8								k w a ²¹³											
 217-8								t ɔ ⁵⁵											
@@ -1521,20 +1521,20 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 261-8								x w a ²¹											
 262-8								p ei ²¹³											
 263-8								ʂ ʅ ⁴²											
-264-8								tɕ j a											
+264-8								tɕ u a ŋ											
 271-8								ʂ ʅ ⁴²											
 272-8								tɕʰ iaː ²¹³											
 274-8								u ⁵⁵											
-275-8								p aː ⁵⁵											
-279-8								n aː ⁴²											
-287-8								l w a ŋ											
+275-8								p aː ²¹											
+279-8								l aː ⁴²											
+287-8								l w a											
 291-8								x ou ⁴²											
 295-8								tɕʰ y ²¹											
 300-8								j ou ⁵⁵											
 303-8								tɕʰ y ²¹³											
 306-8								kʰ ou ⁵⁵											
 307-8								k u ⁵⁵											
-308-8								tɕ y ²¹³											
+308-8								tɕ y ²¹											
 312-8								tɕ j ɔ ²¹											
 313-8								kʰ ə ⁵⁵											
 314-8								tʰ ɛ ⁴²											
@@ -1542,7 +1542,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 325-8								tʰ u ⁵⁵											
 330-8								f u ⁵⁵											
 334-8								ɕ i ²¹³											
-335-8								ʈʂʰ w aː ²¹³											
+335-8								ʈʂʰ w ei ²¹³											
 338-8								k ɔ ⁵⁵											
 339-8								ʈʂ u ²¹³											
 341-8								x u ²¹³											
@@ -1556,7 +1556,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 388-8								ʂ ʅ ²¹											
 389-8								x w ei											
 392-8								kʰ u ŋ											
-394-8								tɕ j ²¹											
+394-8								tɕ j e ²¹³											
 401-8								tʰ u ⁵⁵											
 402-8								ʈʂ ɛ ²¹											
 403-8								t i ²¹											
@@ -1564,7 +1564,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 418-8								m ei ⁴²											
 441-8								tʰ iaː ⁴²											
 443-8								m u ²¹											
-459-8								w ɛ ²¹											
+459-8								w ei ²¹											
 460-8								t w ə											
 461-8								j a ²¹											
 464-8								t ɛ ²¹											
@@ -1572,24 +1572,24 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 466-8								tʰ ɛ ⁴²											
 467-8								f u ²¹³											
 469-8								ʂ ʅ ²¹³											
-480-8								ɲ j ⁵⁵											
-482-8								n ɛ ⁵⁵											
-484-8								x ɔ ⁵⁵											
+480-8								ɲ y ²¹											
+482-8								l i ⁴²											
+484-8								x ou ⁵⁵											
 491-8								m ei ²¹											
 492-8								tɕʰ i ²¹³											
-495-8								ʈʂ j æ											
+495-8								tɕ j ⁵⁵											
 496-8								k u ²¹³											
-507-8								ɲ j a ŋ ⁴²											
+507-8								l j a ŋ ²¹³											
 509-8								tɕʰ y ²¹											
 510-8								pʰ ə ⁴²											
-513-8								ɕ i ²¹											
+513-8								ʂ y ²¹											
 518-8								ʂ ɔ ⁵⁵											
 525-8								ʈʂ ʅ ²¹											
 527-8								i ŋ ²¹											
-533-8								x j æ											
+533-8								x ɛ ⁴²											
 548-8								kʰ ə ²¹³											
 554-8								x ɛ ²¹											
-558-8								y ŋ ŋ ⁴²											
+558-8								j a ŋ ⁴²											
 564-8								f u ⁴²											
 580-8								ʂ ə ²¹											
 587-8								ɕ j ɔ											
@@ -1597,8 +1597,8 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 589-8								tɕ iaː ²¹³											
 594-8								ʈʂʰ ʅ ⁴²											
 602-8								u ²¹³											
-604-8								ʂ ʅ ⁵⁵											
-611-8								ʂ a ŋ											
+604-8								ʂ ʅ ²¹											
+611-8								ʂ a ŋ ²¹³											
 630-8								ʈʂ w ə ⁵⁵											
 637-8								tɕ ieː ²¹³											
 638-8								ʂ ʅ ²¹											
@@ -1608,34 +1608,34 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 652-8								m ɔ ²¹											
 657-8								k aː ²¹³											
 658-8								pʰ i ŋ ⁴²											
-659-8								ɲ iaː ⁴²											
+659-8								l i ⁴²											
 665-8								ʈʂʰ u ŋ ⁴²											
 692-8								k u ŋ ²¹³											
 696-8								t i ²¹											
-707-8								i ŋ ŋ											
+707-8								i ŋ ⁵⁵											
 719-8								t ə ⁵⁵											
-727-8								ɕ i ŋ ²¹³											
+727-8								ɕ i ŋ											
 732-8								w a ŋ ²¹											
 733-8								m a ŋ ⁴²											
 735-8								kʰ w ɛ ²¹											
 740-8								pʰ a ⁴²											
 773-8								ɕ j a ŋ ²¹³											
 788-8								m aː ²¹											
-808-8								ʈʂʰ eː ŋ											
-809-8								j a ⁵⁵											
+808-8								ʈʂʰ eː ⁴²											
+809-8								j a ŋ											
 816-8								t ɛ ²¹											
 818-8								f aː ŋ											
 821-8								ʂ a ŋ											
 822-8								ʂ ou ⁵⁵											
 826-8								t a ⁵⁵											
-829-8								kʰ ɔ ⁵⁵											
+829-8								kʰ ou ⁵⁵											
 841-8								ʈʂ w a ²¹³											
 845-8								ʈʂ ʅ ²¹³											
-848-8								pʰ ɔ ²¹											
+848-8								pʰ ɔ ⁴²											
 858-8								pʰ a ⁴²											
 862-8								tʰ w ə											
-869-8								tɕʰ u ⁴²											
-874-8								ʈʂ ʅ ²¹											
+869-8								tɕʰ u ⁵⁵											
+874-8								ʈʂ ʅ ²¹³											
 876-8								tʰ j ɔ ²¹											
 883-8								ʈʂ w ə											
 894-8								t j ɔ ²¹											
@@ -1643,10 +1643,10 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 905-8								tʰ w ei ²¹³											
 910-8								tʰ i ⁴²											
 911-8								ʈʂʰ a ⁴²											
-926-8								p aː ⁵⁵											
+926-8								p aː ²¹											
 934-8								m u ²¹											
 968-8								ʂ ou ²¹³											
-970-8								k j æ											
+970-8								k ɛ ⁵⁵											
 982-8								k aː ²¹³											
 986-8								kʰ j ɔ											
 997-8								tɕ ieː ²¹³											
@@ -1654,164 +1654,164 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 1001-8								ɕ i ŋ ²¹³											
 1003-8								f aː ŋ											
 1005-8								pʰ a ŋ ⁴²											
-1008-8								ʈʂ u ⁴²											
+1008-8								ʈʂ u ²¹³											
 2-9									j i t										
 4-9									tsʰ i t										
-5-9									tsʰ ɔ ŋ ⁵²										
+5-9									tsʰ ɔ ŋ ⁴⁴										
 6-9									s a n ⁴⁴										
 7-9									s ɔ ŋ ⁴⁴										
-8-9									h j a										
-9-9									p u k ¹										
+8-9									h a a										
+9-9									pʰ u k ⁵										
 17-9									tsʰ u ŋ ⁴⁴										
-31-9									k j u ³¹										
+31-9									k j u ⁴⁴										
 32-9									j a ¹¹										
 33-9									j u ³¹										
 38-9									ɲ i ³¹										
 40-9									j u n ¹¹										
 42-9									v u ³¹										
-43-9									k j n ⁴⁴										
+43-9									ts j n ⁴⁴										
 46-9									v ɔ ŋ ¹¹										
-52-9									l j a ŋ ¹¹										
-53-9									j j n ¹¹										
+52-9									l j ɛ n ¹¹										
+53-9									ɲ ə n ¹¹										
 56-9									k j n ⁴⁴										
-59-9									tʰ a ⁴⁴										
-60-9									tsʰ ɔ ŋ ⁵²										
-64-9									l i n ¹¹										
+59-9									tʰ a ¹¹										
+60-9									ts ɔ ŋ ⁴⁴										
+64-9									l i m ¹¹										
 68-9									k j a n ⁵²										
 85-9									v i ⁵²										
 86-9									t i ⁴⁴										
 87-9									ts u ⁵²										
 93-9									l i ³¹										
 98-9									l ai ¹¹										
-109-9									s j a ŋ ⁵²										
+109-9									s ɛ n ⁴⁴										
 115-9									t au ³¹										
-118-9									ts j a ⁴⁴										
-124-9									k j a										
-127-9									ts u ⁵²										
-133-9									tʰ au ⁵²										
+118-9									ts j ɛ										
+124-9									k a a										
+127-9									ts u ³¹										
+133-9									tʰ ɛu ⁵²										
 144-9									s a ⁴⁴										
 161-9									h j u ŋ ⁴⁴										
-166-9									k ɔ n ⁴⁴										
+166-9									k ɔ ɔ ⁴⁴										
 170-9									ɲ i ³¹										
 171-9									tʰ u ⁵²										
-173-9									j i t										
-174-9									l w i										
+173-9									j a t ⁵										
+174-9									l w i ³¹										
 175-9									tsʰ j a n										
-176-9									l j a ŋ ¹¹										
-177-9									p a t ¹										
+176-9									l j ɛ n ¹¹										
+177-9									p a k										
 179-9									l j u ⁵										
 181-9									pʰ j a ŋ ⁴⁴										
 182-9									kʰ i ¹¹										
-189-9									k ɔ n ⁴⁴										
-191-9									tʰ u ŋ ⁴⁴										
-193-9									l ɔ n ¹¹										
+189-9									k ɔ n n										
+191-9									t u ŋ ⁴⁴										
+193-9									l ɛ n ¹¹										
 198-9									tʰ ɛ n ⁵²										
 199-9									h j u ŋ ⁴⁴										
-200-9									tsʰ u t										
+200-9									tsʰ u t ¹										
 202-9									t au ⁴⁴										
 205-9									f u n ⁴⁴										
-206-9									tsʰ j a t ¹										
-209-9									f a t ⁵										
+206-9									tsʰ j a t										
+209-9									f a ⁴⁴										
 211-9									tsʰ u ⁴⁴										
 215-9									l i ⁵²										
-216-9									k ɔ a ⁴⁴										
-217-9									tʰ au ⁵²										
-219-9									s ɔ n ⁴⁴										
+216-9									k w a ¹										
+217-9									tʰ au ³¹										
+219-9									s a t										
 220-9									tsʰ ɿ ⁴⁴										
 225-9									kʰ j a n ¹¹										
-230-9									k j a n ⁵²										
-234-9									pʰ i a										
+230-9									ts j a n ⁵²										
+234-9									pʰ i ⁴⁴										
 238-9									l i ⁵²										
 242-9									ts u ⁵²										
 253-9									kʰ j a n ¹¹										
 256-9									s ɔ k										
 261-9									f a ⁴⁴										
 262-9									p a k										
-263-9									s ɿ ⁴⁴										
-264-9									tsʰ j a ŋ ⁵²										
+263-9									tsʰ ɿ ⁴⁴										
+264-9									tsʰ j ɔ ŋ ⁴⁴										
 271-9									s a t										
-272-9									tsʰ j a n ⁵²										
+272-9									tsʰ j a n ⁴⁴										
 274-9									v u ³¹										
-275-9									p a n ⁵²										
-279-9									n a n ¹¹										
+275-9									p a n ⁴⁴										
+279-9									n a m ¹¹										
 287-9									l ɔ n ¹¹										
-291-9									f u ¹¹										
+291-9									h ɛu ¹¹										
 295-9									kʰ j u										
 300-9									j j u ¹¹										
-303-9									tsʰ j u										
+303-9									tsʰ u u										
 306-9									kʰ u ³¹										
 307-9									k u ³¹										
 308-9									k u ³¹										
-312-9									k j au ⁵²										
+312-9									k j au ⁴⁴										
 313-9									kʰ ɔ ³¹										
-314-9									tʰ ɔi ⁵²										
+314-9									tʰ ɔi ¹¹										
 323-9									m i n ¹¹										
-325-9									tʰ u ³¹										
-330-9									f u ³¹										
-334-9									s i a										
-335-9									tsʰ ɔ ⁴⁴										
+325-9									tʰ u ¹¹										
+330-9									f u ⁴⁴										
+334-9									s i t ¹										
+335-9									tsʰ ɔi ⁴⁴										
 338-9									k au ³¹										
-339-9									ts u u										
+339-9									ts u ⁴⁴										
 341-9									f u ⁴⁴										
 342-9									m i n ¹¹										
-343-9									f u ¹¹										
-344-9									j au ³¹										
-349-9									kʰ u k ¹										
+343-9									f ɔ ¹¹										
+344-9									j au ⁴⁴										
+349-9									kʰ u t ¹										
 353-9									tsʰ ɔ ŋ ⁴⁴										
-360-9									f u ¹¹										
+360-9									h ɛu ¹¹										
 375-9									ts w i ³¹										
-388-9									s ɿ ⁵²										
-389-9									f ɔi ⁵²										
+388-9									s ɿ ⁴⁴										
+389-9									f ɔi ⁴⁴										
 392-9									kʰ ɔ n ⁵²										
 394-9									k j a n ⁵²										
 401-9									tʰ u ³¹										
 402-9									ts ai ⁵²										
 403-9									tʰ i ⁵²										
 409-9									ts ɔ ⁵²										
-418-9									m ai ¹¹										
+418-9									m i ⁴⁴										
 441-9									tʰ j a m ¹¹										
 443-9									m u ⁴⁴										
-459-9									v i ⁵²										
+459-9									v a ⁵²										
 460-9									t ɔ ⁴⁴										
-461-9									j a ⁵²										
+461-9									j a ⁴⁴										
 464-9									tʰ a ⁵²										
 465-9									tʰ j a m ¹¹										
 466-9									tʰ ɔi ⁵²										
 467-9									f u ⁴⁴										
 469-9									s a t										
 480-9									l j u										
-482-9									n ai ¹¹										
+482-9									n ai ³¹										
 484-9									h au ³¹										
 491-9									m i ⁴⁴										
 492-9									tsʰ i ⁴⁴										
-495-9									ts j a ⁴⁴										
+495-9									ts j ɛ										
 496-9									k u ⁴⁴										
-507-9									n j a ŋ ¹¹										
-509-9									tsʰ j u										
+507-9									n j a n ¹¹										
+509-9									tsʰ u u										
 510-9									pʰ ɔ ¹¹										
-513-9									s i ⁵²										
+513-9									s i ⁴⁴										
 518-9									s au ³¹										
 525-9									ts ɿ ⁴⁴										
 527-9									j u n ⁵²										
 533-9									h ai ¹¹										
-548-9									kʰ a t										
-554-9									h ai ¹¹										
+548-9									kʰ a t ¹										
+554-9									h ɔi ⁵²										
 558-9									j u ŋ ¹¹										
 564-9									f u ⁵²										
 580-9									s a ⁵²										
 587-9									s j au ⁵²										
 588-9									s au ³¹										
-589-9									k j a n ⁴⁴										
-594-9									tsʰ ɿ t										
+589-9									ts j ɛ n ⁴⁴										
+594-9									tsʰ ə t ¹										
 602-9									v u k										
-604-9									s ɿ ⁴⁴										
+604-9									s ɿ ³¹										
 611-9									s a n ⁴⁴										
 630-9									ts ɔ ³¹										
 637-9									k j n ⁴⁴										
 638-9									s ɿ ⁴⁴										
 639-9									pʰ u ⁵²										
 644-9									ts u ³¹										
-648-9									s i ³¹										
+648-9									s i t										
 652-9									m au ⁴⁴										
 657-9									k ɔ n ⁴⁴										
 658-9									pʰ j a ŋ ¹¹										
@@ -1819,126 +1819,126 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 665-9									tsʰ ɔ ŋ ⁴⁴										
 692-9									k u ŋ ⁴⁴										
 696-9									tʰ i ⁵²										
-707-9									j i ³¹										
+707-9									j a ŋ ⁴⁴										
 719-9									t a t ¹										
-727-9									s j a ŋ ⁴⁴										
-732-9									v ɔ ŋ ¹¹										
+727-9									s ɛ n ⁴⁴										
+732-9									v ɔ ŋ ⁴⁴										
 733-9									m ɔ ŋ ¹¹										
-735-9									kʰ w ai ⁵²										
+735-9									kʰ w ai ³¹										
 740-9									pʰ a ¹¹										
-773-9									s j a ŋ ⁴⁴										
-788-9									m ɔ n ⁴⁴										
+773-9									s j ɔ ŋ ⁴⁴										
+788-9									m ɛ n ⁴⁴										
 808-9									tsʰ ə n ¹¹										
 809-9									ŋ a ³¹										
 816-9									tʰ ɔi ⁵²										
-818-9									pʰ a ŋ ¹¹										
+818-9									pʰ ɔ ŋ ¹¹										
 821-9									s a n ⁵²										
 822-9									s u ³¹										
 826-9									t a ⁴⁴										
 829-9									kʰ u ³¹										
-841-9									ts w a										
-845-9									ts a t ¹										
-848-9									pʰ au ⁵²										
-858-9									pʰ a ¹¹										
+841-9									ts w a ⁴⁴										
+845-9									ts a t										
+848-9									pʰ au ⁴⁴										
+858-9									pʰ a k										
 862-9									tʰ w ⁴⁴										
-869-9									kʰ j a n ¹¹										
+869-9									kʰ j a n										
 874-9									ts ɿ ⁴⁴										
 876-9									tʰ j au ⁵²										
-883-9									ts u k ¹										
-894-9									tʰ j au ⁵²										
-903-9									k j a t ¹										
+883-9									ts ɔ k ¹										
+894-9									t j au ⁵²										
+903-9									ts j ɛ t ¹										
 905-9									tʰ w i ⁵²										
 910-9									tʰ i ¹¹										
 911-9									tsʰ a t										
 926-9									p a n ⁴⁴										
-934-9									m ɔ ⁴⁴										
+934-9									m u ⁴⁴										
 968-9									s u u										
-970-9									k ai ³¹										
+970-9									k j ai ³¹										
 982-9									k ɔ n ⁴⁴										
-986-9									kʰ j u										
+986-9									kʰ j ³¹										
 997-9									k j n ⁴⁴										
 998-9									f u ³¹										
-1001-9									s j a ŋ ⁴⁴										
-1003-9									f a ŋ ⁴⁴										
+1001-9									s j n ⁴⁴										
+1003-9									f ɔ ŋ ⁴⁴										
 1005-9									pʰ ɔ ŋ ¹¹										
 1008-9									ts u k ¹										
 2-10										i t ⁵									
-4-10										tɕʰ i ²¹³									
+4-10										tɕʰ i t									
 5-10										ts ɔ ŋ ²¹									
 6-10										s a n ⁴²									
 7-10										s ɔ ŋ ⁴²									
-8-10										h j ²¹³									
+8-10										h j t									
 9-10										p u k ⁵									
 17-10										ts u ŋ ⁴²									
 31-10										tɕ j u ²¹³									
-32-10										ŋ a ⁴⁵									
-33-10										y u									
+32-10										j a t									
+33-10										l u ²¹³									
 38-10										l ²¹³									
-40-10										j u n ⁴⁵									
+40-10										w u ŋ									
 42-10										u ²¹³									
-43-10										ts ə n ²¹³									
+43-10										tɕ ə n ²¹³									
 46-10										w ɔ ŋ ⁴⁵									
 52-10										l j ɛ n ⁴⁵									
 53-10										l ə n ⁴⁵									
 56-10										tɕ i n ⁴²									
-59-10										tʰ a ²⁴									
-60-10										ts ɔ ŋ ⁴⁵									
+59-10										tʰ a t ⁵									
+60-10										ts ɔ ŋ ²¹									
 64-10										l i n ⁴⁵									
 68-10										tɕ j ɛ n ⁴⁵									
 85-10										w i ²¹³									
-86-10										t i ⁴²									
-87-10										tɕ y ²¹³									
+86-10										t i t ⁵									
+87-10										ts u ²¹									
 93-10										l i ²¹³									
 98-10										l i ⁴⁵									
 109-10										ɕ i n ⁴²									
-115-10										tʰ au ²¹³									
+115-10										t au ²¹³									
 118-10										ts j ⁴²									
-124-10										k a ²¹³									
-127-10										ts w ²¹³									
-133-10										tʰ ɛu ²¹									
-144-10										s a ⁴⁵									
+124-10										k a t ⁵									
+127-10										ts u o									
+133-10										tʰ ɛu ²⁴									
+144-10										s a ⁴²									
 161-10										ɕ j u ŋ ⁴²									
-166-10										k w ŋ ⁴²									
+166-10										k w ɔ n ⁴²									
 170-10										l ²¹³									
 171-10										tʰ u ²¹									
 173-10										l u t ⁵									
 174-10										l i i									
-175-10										tɕʰ ɥ ɔ n ⁴⁵									
+175-10										tɕʰ ɥ ɔ n									
 176-10										l j ɛ n ⁴⁵									
 177-10										p a k ⁵									
 179-10										l j u ⁵									
-181-10										p i n ⁴²									
-182-10										tɕʰ i ²¹³									
-189-10										k w ɔ n									
+181-10										p ə n ⁴²									
+182-10										tɕʰ i ²⁴									
+189-10										k w ɔ n ⁴²									
 191-10										t u ŋ ⁴²									
-193-10										l ə n ⁴⁵									
-198-10										tʰ ɛ n ²¹									
+193-10										l ə n ²¹³									
+198-10										t ɛ n ²¹³									
 199-10										ɕ j u ŋ ⁴²									
-200-10										tɕʰ u ɔ									
-202-10										tʰ au ⁴²									
-205-10										ɸ w a n ⁴²									
-206-10										tɕʰ j a ²⁴									
-209-10										ɸ w a ⁵									
+200-10										tsʰ u k ⁵									
+202-10										t au ⁴²									
+205-10										ɸ u ŋ ⁴²									
+206-10										tɕʰ j t ⁵									
+209-10										w w t ⁵									
 211-10										tsʰ u ⁴²									
 215-10										l i ⁴⁵									
 216-10										k w a t									
 217-10										tʰ au ²¹									
-219-10										s w ɔ t ⁵									
+219-10										s w a t									
 220-10										tsʰ ɿ ²¹³									
-225-10										tɕʰ j ɛ n ⁴⁵									
+225-10										tɕʰ j n n									
 230-10										tɕ j ɛ n									
 234-10										pʰ i t ⁵									
-238-10										l i t									
-242-10										tsʰ y ²¹³									
-253-10										tɕʰ i n n									
+238-10										l i t ⁵									
+242-10										ts u ²¹³									
+253-10										tɕʰ i n ²⁴									
 256-10										s au k ⁵									
 261-10										ɸ w a ⁴⁵									
 262-10										p a k ⁵									
 263-10										s ɿ ²¹³									
-264-10										tɕ j ɔ ŋ									
+264-10										tɕ j n ŋ									
 271-10										s a t ⁵									
-272-10										tɕʰ j ɛ n ⁴²									
-274-10										u a									
+272-10										tɕʰ j n n									
+274-10										u ²¹³									
 275-10										p a n ²¹³									
 279-10										l a n ⁴⁵									
 287-10										l ɔ n ⁴⁵									
@@ -1953,160 +1953,160 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 313-10										kʰ w o ²¹³									
 314-10										tʰ ai ²⁴									
 323-10										m i n ⁴⁵									
-325-10										tʰ u k									
-330-10										ɸ w ²¹³									
+325-10										tʰ u ²¹³									
+330-10										ɸ u ²¹³									
 334-10										ɕ i t ⁵									
-335-10										tsʰ ai ⁴²									
+335-10										tsʰ ɔ n									
 338-10										k au ²¹³									
 339-10										ts ɛu ⁴²									
 341-10										ɸ u ⁴²									
 342-10										m i n ⁴⁵									
-343-10										ɸ w ⁴⁵									
-344-10										ŋ a ⁴⁵									
+343-10										ɸ w ²⁴									
+344-10										ŋ ɛu ²¹³									
 349-10										kʰ u k ⁵									
 353-10										tsʰ ɔ ŋ ⁴²									
 360-10										h ɛu ²⁴									
 375-10										ts w i ²¹³									
 388-10										s ɿ ²¹									
 389-10										ɸ w i ⁴⁵									
-392-10										kʰ u n ²¹³									
-394-10										tɕ y ɔ n									
+392-10										kʰ u n n									
+394-10										tɕʰ y n n									
 401-10										tʰ u ²¹³									
-402-10										ts ai ⁴²									
-403-10										tʰ i t									
+402-10										ts ai ²¹³									
+403-10										tʰ i t ⁵									
 409-10										ts w o									
 418-10										m əi ⁴⁵									
 441-10										tʰ j ɛ n ²⁴									
 443-10										m u ⁴⁵									
 459-10										w a ²¹³									
 460-10										t o ⁴²									
-461-10										ŋ a ⁴⁵									
-464-10										tʰ a ²¹									
+461-10										j a t									
+464-10										tʰ a t									
 465-10										tʰ j ɛ n ²⁴									
 466-10										tʰ ai ²⁴									
 467-10										ɸ u ⁴²									
 469-10										s ɿ t ⁵									
-480-10										ɲ ɥ ɔ ²¹³									
+480-10										ɲ y ²¹³									
 482-10										l i ²¹³									
 484-10										h au ²¹³									
 491-10										m əi ⁴⁵									
 492-10										tɕʰ i ⁴²									
-495-10										ts ai ²¹³									
+495-10										ts j ɛ									
 496-10										k u ⁴²									
-507-10										ɲ j ɛ n ⁴⁵									
+507-10										ɲ j ɛ ŋ ⁴⁵									
 509-10										tɕʰ y ²¹³									
 510-10										pʰ o ²⁴									
-513-10										ɕ i ⁴⁵									
+513-10										ɕ i ⁴²									
 518-10										s au ²¹³									
 525-10										ts ɿ ²¹³									
 527-10										j n n									
 533-10										h ai ²⁴									
 548-10										kʰ ɔ t ⁵									
-554-10										h ai ²¹³									
+554-10										h ai ²⁴									
 558-10										j u ŋ ⁴⁵									
-564-10										ɸ u ⁴⁵									
+564-10										ɸ u ⁴²									
 580-10										s a ⁴⁵									
 587-10										ɕ j ɛu									
 588-10										s au ²¹³									
 589-10										tɕ j ɛ n									
-594-10										tsʰ ɿ ²¹³									
+594-10										tsʰ ɿ t									
 602-10										u t ⁵									
 604-10										s ɿ ²¹³									
 611-10										s a n ⁴²									
 630-10										ts w ²¹³									
-637-10										tɕ i n ⁴²									
+637-10										tɕ j n ⁴²									
 638-10										s ɿ ²¹									
-639-10										pʰ u k									
+639-10										p u k ⁵									
 644-10										ts ɛu ²¹³									
 648-10										ɕ i t									
-652-10										m au ⁴⁵									
+652-10										m au ²¹³									
 657-10										k ɔ n ⁴²									
 658-10										pʰ i n ²⁴									
 659-10										l j ɛ n ⁴⁵									
 665-10										tsʰ ɔ ŋ ⁴²									
 692-10										k u ŋ ⁴²									
-696-10										tʰ i t									
+696-10										tʰ i t ⁵									
 707-10										i n ²¹³									
 719-10										t ɛ t ⁵									
 727-10										ɕ i n ⁴²									
 732-10										w ɔ ŋ ⁴⁵									
-733-10										m u ŋ ⁴⁵									
-735-10										kʰ w ai ⁴⁵									
+733-10										m ɔ ŋ ⁴⁵									
+735-10										kʰ w ai ²¹³									
 740-10										pʰ a ²⁴									
 773-10										ɕ j ɔ ŋ									
 788-10										m a n ⁴⁵									
-808-10										tsʰ ə n ⁴²									
-809-10										ŋ a ²¹³									
+808-10										tsʰ ə n ²⁴									
+809-10										ŋ ɔ n									
 816-10										tʰ ai ²¹									
-818-10										ɸ w ŋ n									
-821-10										s a n ⁴²									
-822-10										s əu ²¹³									
+818-10										ɸ w ŋ ⁴⁵									
+821-10										s a n ⁴⁵									
+822-10										s u ²¹³									
 826-10										t a t ⁵									
 829-10										kʰ u ²¹³									
 841-10										ts w a ⁴²									
 845-10										ts ə t ⁵									
-848-10										pʰ au ²¹³									
+848-10										pʰ au ²⁴									
 858-10										pʰ a ²⁴ ⁵									
-862-10										tʰ w ⁴²									
+862-10										tʰ w o									
 869-10										tɕʰ ɥ ɔ n									
-874-10										ts ɿ ⁴²									
+874-10										ts ɿ ²¹³									
 876-10										tʰ j ɛu ²⁴									
 883-10										ts u k ⁵									
 894-10										tʰ j ɛu ²¹									
 903-10										ts j t ⁵									
 905-10										tʰ w i ²¹³									
 910-10										tʰ i ²⁴									
-911-10										tsʰ a t									
+911-10										tsʰ a t ⁵									
 926-10										p a n ⁴²									
-934-10										m u ⁴⁵									
+934-10										m u k									
 968-10										s u ⁴²									
 970-10										k ai ²¹³									
-982-10										k ɔ n ²¹³									
+982-10										k a n ²¹³									
 986-10										kʰ j ɛu									
-997-10										tɕ i n ⁴²									
+997-10										tɕ j n ⁴²									
 998-10										ɸ u ²¹³									
 1001-10										ɕ i n ⁴²									
-1003-10										ɸ w ɔ n ⁴²									
+1003-10										ɸ w ŋ ⁴²									
 1005-10										pʰ ɔ ŋ ²⁴									
 1008-10										ts u k ⁵									
-2-11											j ⁵⁵ ʔ ¹³								
-4-11											tɕʰ i ʔ								
-5-11											ts o ŋ								
+2-11											j i ʔ ¹³								
+4-11											tɕʰ i ⁵⁵								
+5-11											z ɒː ¹³								
 6-11											s ø ⁵³								
 7-11											s ɒː ⁵³								
-8-11											h a ⁵⁵								
+8-11											h a ʔ								
 9-11											p u ʔ								
-17-11											ts o ŋ ⁵³								
-31-11											tɕ j ɯ ⁵⁵								
-32-11											j a ¹³								
-33-11											z ¹³ ¹³								
-38-11											z i ¹³								
-40-11											y ¹³								
+17-11											z o ŋ ¹³								
+31-11											tɕ j ɯ								
+32-11											ŋ a ¹³								
+33-11											z ɥ ¹³								
+38-11											ɦ ə ¹³								
+40-11											j ¹³ ŋ ¹³								
 42-11											u ⁵³ ¹³								
-43-11											ts i ŋ ⁵⁵								
+43-11											ts i ŋ ¹³								
 46-11											v ɒː ¹³								
 52-11											l ɪ ¹³								
 53-11											z ə ŋ ¹³								
-56-11											tɕ i ŋ ⁵³								
+56-11											tɕ i ŋ ¹³								
 59-11											t ɛ ¹³								
-60-11											ts o ŋ								
+60-11											z ɒː ¹³								
 64-11											l i ŋ ¹³								
 68-11											tɕ ɪ ⁵³								
 85-11											u ɛ ¹³								
-86-11											t i ¹³								
+86-11											t ɪ ʔ ⁵								
 87-11											ts ɥ ⁵⁵								
 93-11											l i ¹³								
-98-11											l ei ¹³								
+98-11											l i ¹³								
 109-11											s i ŋ ⁵⁵								
 115-11											t ɔ ¹³								
-118-11											ts j a ⁵⁵								
+118-11											ts j ⁵⁵								
 124-11											tɕ j a								
 127-11											ts o ⁵⁵								
 133-11											t ɔ ¹³								
 144-11											s a ʔ								
-161-11											ɕ iaː ⁵³								
+161-11											ɕ j o ŋ ⁵³								
 166-11											k w o ŋ ⁵³								
-170-11											z ɤ ¹³								
+170-11											ɦ ə ¹³								
 171-11											t u ¹³								
 173-11											z a ʔ ¹³								
 174-11											l ei ¹³								
@@ -2116,209 +2116,209 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 179-11											l j ʔ ¹³								
 181-11											p i ŋ ¹³								
 182-11											tɕʰ i ⁵⁵								
-189-11											k w ø ⁵³								
+189-11											k w ə ŋ ⁵³								
 191-11											t o ŋ ⁵³								
 193-11											l ə ŋ ¹³								
 198-11											t ə ŋ ⁵⁵								
-199-11											ɕ iaː ⁵³								
-200-11											z o ʔ ¹³								
+199-11											ɕ j o ŋ ⁵³								
+200-11											tsʰ ɥ ʔ ¹³								
 202-11											t ɔ ¹³								
-205-11											f ə ŋ ⁵³								
-206-11											tɕʰ j ʔ ʔ								
-209-11											h u ɛ ⁵⁵								
-211-11											tsʰ ɥ ⁵⁵								
+205-11											f o ŋ ⁵³								
+206-11											tɕʰ j ʔ ʔ ⁵								
+209-11											h o ⁵³								
+211-11											tsʰ ɥ ⁵³								
 215-11											l i ¹³								
-216-11											k w a ʔ ⁵								
+216-11											k w o ʔ ⁵								
 217-11											t ɔ ¹³								
-219-11											s o ʔ								
+219-11											s o ʔ ⁵								
 220-11											z ɿ ¹³								
 225-11											tsʰ ɪ ⁵⁵								
 230-11											ts ɪ ⁵⁵								
-234-11											p i ʔ ¹³								
-238-11											l i ¹³								
-242-11											ts o ⁵⁵								
-253-11											kʰ i ŋ								
+234-11											p i ʔ								
+238-11											l ɪ ʔ ¹³								
+242-11											ts ɥ ⁵⁵								
+253-11											tɕ i ŋ								
 256-11											s o ʔ ⁵								
-261-11											h u ⁵⁵ ⁵⁵								
-262-11											p a ʔ ¹³								
+261-11											h o ⁵³								
+262-11											p ɤ ʔ ¹³								
 263-11											z ɿ ¹³								
-264-11											tɕ ɪ ŋ ⁵³								
-271-11											z a ʔ ¹³								
+264-11											tɕ ɪ ŋ								
+271-11											z a ʔ								
 272-11											tsʰ ɪ ⁵⁵								
 274-11											u ⁵³								
 275-11											p ɛ ⁵⁵								
 279-11											n ø ¹³								
 287-11											l ø ¹³								
 291-11											ɦ ɤ ¹³								
-295-11											tsʰ y ⁵³								
+295-11											tɕʰ y ⁵³								
 300-11											j ɯ ¹³								
-303-11											tsʰ ɥ ⁵³								
-306-11											kʰ ɤ ⁵⁵								
-307-11											k u ⁵⁵								
-308-11											tɕ ɥ ɪ ʔ ⁵								
+303-11											tsʰ ɥ ⁵⁵								
+306-11											kʰ ɤ ʔ ⁵								
+307-11											k u ɤ								
+308-11											tɕ ɥ ⁵⁵								
 312-11											tɕ j ɯ ⁵⁵								
 313-11											kʰ u ⁵⁵								
 314-11											t ɛ ¹³								
 323-11											m i ŋ ¹³								
 325-11											t u ¹³								
-330-11											f u ¹³								
+330-11											p u ¹³								
 334-11											s i ʔ								
 335-11											tsʰ ø ⁵³								
 338-11											k ɔ ⁵⁵								
-339-11											ts o ⁵⁵								
+339-11											ts j ⁵⁵								
 341-11											ɦ u ¹³								
 342-11											m i ŋ ¹³								
-343-11											h u ⁵⁵								
+343-11											ɦ u ¹³								
 344-11											ŋ ɔ ¹³								
 349-11											kʰ u ʔ								
 353-11											tsʰ ɒː ⁵³								
 360-11											ɦ ɤ ¹³								
 375-11											ts ø ⁵⁵								
 388-11											s ɿ ⁵³								
-389-11											h u ɛ ⁵⁵								
+389-11											h u ɛ								
 392-11											kʰ ø ⁵⁵								
-394-11											tɕ ɥ ⁵³								
+394-11											tɕ ɥ ɪ								
 401-11											t u ¹³								
 402-11											ts ø ⁵⁵								
-403-11											t i ¹³								
+403-11											t ɪ ʔ								
 409-11											ts o ⁵⁵								
 418-11											m ɛ ¹³								
 441-11											t ɪ ¹³								
 443-11											m o ¹³								
 459-11											u ɛ ¹³								
 460-11											t u ⁵³								
-461-11											j a ¹³								
+461-11											ŋ a ¹³								
 464-11											t ɛ ¹³								
 465-11											t ɪ ¹³								
 466-11											t ɛ ¹³								
 467-11											p u ¹³								
 469-11											z ɿ ʔ								
 480-11											ɲ j ¹³								
-482-11											l ei ¹³								
-484-11											h ɔ ⁵⁵								
+482-11											l i ¹³								
+484-11											ɦ ɔ ¹³								
 491-11											m ɛ ¹³								
-492-11											tsʰ i ⁵³								
-495-11											ts j a ⁵⁵								
+492-11											tsʰ i ⁵⁵								
+495-11											ts j a								
 496-11											k u ⁵³								
-507-11											ɲ i ¹³								
+507-11											l ɪ ¹³								
 509-11											tsʰ ɥ ⁵³								
 510-11											p u ¹³								
 513-11											s i ⁵³								
 518-11											s ɔ ⁵⁵								
-525-11											ts ɿ ⁵⁵								
-527-11											j ¹³								
+525-11											ts ɿ ⁵³								
+527-11											j ¹³ ¹³								
 533-11											h a ⁵⁵								
 548-11											kʰ ɤ ʔ ⁵								
-554-11											h a ⁵⁵								
+554-11											h ɛ ⁵⁵								
 558-11											j o ŋ ¹³								
 564-11											p u ¹³								
 580-11											s o ʔ								
 587-11											s j ɔ ⁵⁵								
 588-11											s ɔ ⁵⁵								
-589-11											ts ɪ ⁵⁵								
-594-11											z a ʔ ¹³								
+589-11											ts ɪ ⁵³								
+594-11											z ɿ ʔ								
 602-11											v ɤ ʔ ¹³								
-604-11											z ɿ ¹³								
+604-11											z ɿ ⁵³								
 611-11											s ø ⁵³								
 630-11											ts o ⁵⁵								
-637-11											tɕ i ŋ ⁵³								
+637-11											tɕ i ŋ ¹³								
 638-11											z ɿ ¹³								
 639-11											p u ⁵³								
-644-11											ts j ⁵⁵								
-648-11											z i ʔ								
+644-11											ts ɤɯ ⁵⁵								
+648-11											s i ʔ								
 652-11											m ɔ ¹³								
 657-11											k ø ⁵³								
 658-11											p i ŋ ¹³								
-659-11											ɲ i ¹³								
-665-11											tsʰ ɒː ŋ								
+659-11											l ɪ ¹³								
+665-11											tsʰ ɒː ⁵³								
 692-11											k o ŋ ⁵³								
-696-11											t i ¹³								
+696-11											t ɪ ʔ								
 707-11											i ŋ ¹³								
-719-11											t ɪ ʔ ⁵								
+719-11											t ɤ ʔ ⁵								
 727-11											s i ŋ ⁵³								
 732-11											v ɒː ¹³								
-733-11											m o ŋ ¹³								
+733-11											m o ¹³								
 735-11											kʰ u ⁵⁵								
-740-11											p a ¹³								
+740-11											p o ¹³								
 773-11											s iaː ⁵³								
 788-11											m ɛ ¹³								
-808-11											z ə ŋ ⁵³								
+808-11											tsʰ ə ŋ ⁵³								
 809-11											ŋ o ¹³								
 816-11											t ɛ ¹³								
 818-11											f o ŋ ⁵³								
-821-11											s i ⁵³								
+821-11											s ø ⁵³								
 822-11											s ɤɯ ⁵⁵								
-826-11											t a ʔ ⁵								
+826-11											t a ʔ								
 829-11											kʰ ɤ ʔ ⁵								
 841-11											ts o ⁵⁵								
 845-11											ts o ʔ ⁵								
 848-11											p ɔ ¹³								
 858-11											p a ʔ ¹³								
-862-11											t ɛ ¹³								
-869-11											kʰ ɥ ⁵³								
+862-11											tʰ ɛ ¹³								
+869-11											tɕʰ ɥ ø ⁵³								
 874-11											ts ɿ ⁵⁵								
 876-11											tʰ j ɔ ⁵⁵								
 883-11											ts o ʔ ⁵								
 894-11											t j ɔ ⁵⁵								
-903-11											ts j a ʔ								
+903-11											ts j a ⁵								
 905-11											tʰ ɛ ⁵⁵								
 910-11											t i ¹³								
-911-11											z a ʔ ¹³								
-926-11											p ɛ ⁵³								
+911-11											z o ¹³								
+926-11											p ɛ ⁵⁵								
 934-11											m o ¹³								
 968-11											s ɤɯ ⁵⁵								
 970-11											k a ⁵⁵								
 982-11											k ø ⁵³								
 986-11											kʰ j ⁵⁵								
-997-11											tɕ i ŋ ⁵³								
+997-11											tɕ i ŋ ¹³								
 998-11											p u ¹³								
 1001-11											s i ŋ ⁵³								
 1003-11											f o ŋ ⁵³								
-1005-11											p o ¹³								
+1005-11											p ɒː ŋ								
 1008-11											ts o ʔ ⁵								
 2-12												i ²³							
 4-12												tɕʰ i ³⁵							
-5-12												tɕ i n							
-6-12												s a ŋ							
+5-12												tɕ j a ŋ							
+6-12												s uaː ⁵⁵							
 7-12												ɕ a ŋ ⁵⁵							
 8-12												x j ²³							
-9-12												p j ɛ							
+9-12												p j ɛ ²³							
 17-12												tɕ i n ⁵⁵							
-31-12												k j ʊ							
+31-12												tɕ j ʊ ²¹							
 32-12												j o ²³							
-33-12												j əu ³³							
-38-12												j i ³³							
-40-12												ɣ n ²³							
+33-12												y y ²¹							
+38-12												j i							
+40-12												ɣ n							
 42-12												əu ²¹							
 43-12												tɕ i n ²¹							
 46-12												a ŋ ²³							
-52-12												n j a ŋ							
-53-12												i n							
-56-12												tɕ i n							
-59-12												d a ²³							
-60-12												tɕ i n							
-64-12												n i n ²³							
-68-12												tɕ ɪː ⁵⁵							
+52-12												n i n ³³							
+53-12												i i n ²³							
+56-12												tɕ i n ⁵⁵							
+59-12												d o ²³							
+60-12												tɕ j a ŋ							
+64-12												n i n ³³							
+68-12												tɕ ɪː ³⁵							
 85-12												w i ³⁵							
 86-12												t i ⁵⁵							
-87-12												tɕ y ʊ							
+87-12												tɕ y ²¹							
 93-12												n i ²¹							
 98-12												n a ²³							
 109-12												ɕ i n ⁵⁵							
 115-12												t ə ²¹							
-118-12												tɕ j ɛ ³⁵							
-124-12												k j o							
+118-12												tɕ j o ³⁵							
+124-12												k j ²³							
 127-12												tɕ j ʊ							
 133-12												d j e							
 144-12												s o ⁵⁵							
-161-12												ɕ i n ⁵⁵							
+161-12												ɕ i n ŋ							
 166-12												k a ŋ ⁵⁵							
-170-12												j ʊ ²³							
+170-12												i ²³							
 171-12												d əu e							
-173-12												n j ²³							
+173-12												i ²³							
 174-12												n w e							
-175-12												d i n							
-176-12												n j a ŋ ²³							
+175-12												d uiː ²³							
+176-12												n i n ²³							
 177-12												p j ɛ							
 179-12												n j ʊ ²³							
 181-12												p i n ⁵⁵							
@@ -2327,153 +2327,153 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 191-12												t a ŋ ⁵⁵							
 193-12												n i n ²³							
 198-12												t iɛː ²¹							
-199-12												ɕ i n ŋ							
-200-12												tɕʰ j ʊ ³⁵							
+199-12												ɕ i n ⁵⁵							
+200-12												tɕʰ j ʊ ²³							
 202-12												t ə ⁵⁵							
-205-12												x a ŋ n ⁵⁵							
+205-12												x iɛː ²¹							
 206-12												tɕʰ j ɛ ²³							
-209-12												x a ⁵⁵							
+209-12												x o ⁵⁵							
 211-12												tsʰ ʊ ⁵⁵							
-215-12												n i ²³							
-216-12												k ʊ ⁵⁵							
+215-12												n i ³³							
+216-12												k ʊ ²³							
 217-12												d ə ³³							
-219-12												ɕ j ³⁵							
-220-12												tɕʰ i ³⁵							
-225-12												tɕʰ ɪː ²³							
+219-12												ɕ j ɛ							
+220-12												tsʰ i e							
+225-12												tɕʰ ɪː ³⁵							
 230-12												tɕ ɪː ³⁵							
 234-12												b i ²³							
 238-12												n i ²³							
 242-12												tɕ j ʊ							
 253-12												tɕʰ i n							
-256-12												ɕ j ʊ							
+256-12												s j ʊ							
 261-12												x o ⁵⁵							
 262-12												p j ɛ ²³							
-263-12												ɕ ɿ ³³							
-264-12												tɕ i a ŋ ⁵⁵							
+263-12												dz ɿ ³³							
+264-12												tɕ j a ŋ ⁵⁵							
 271-12												ɕ j ɛ							
 272-12												tɕʰ ɪː ³⁵							
 274-12												əu ²¹							
 275-12												p aː ²¹							
 279-12												n a ²³							
-287-12												n a ²³							
+287-12												n a ŋ							
 291-12												ɣ j e ²³							
-295-12												tɕʰ y ³⁵							
+295-12												tɕʰ w e							
 300-12												j ʊ ²¹							
 303-12												tɕʰ y ²¹							
-306-12												kʰ j ʊ ²¹							
+306-12												kʰ j ²¹							
 307-12												k əu ²¹							
 308-12												tɕ y ²¹							
-312-12												k j ə							
+312-12												tɕ j ə ³⁵							
 313-12												kʰ ʊ ²¹							
 314-12												d w e ²³							
 323-12												m i n ²³							
-325-12												d əu ²³							
+325-12												d əu e							
 330-12												x əu ²¹							
 334-12												ɕ i ³⁵							
 335-12												tɕʰ y ³⁵							
 338-12												k ə ²¹							
 339-12												tɕ j ʊ ⁵⁵							
 341-12												x əu ⁵⁵							
-342-12												m i n ²³							
-343-12												x ʊ ²¹							
+342-12												m i n ³³							
+343-12												ɣ ʊ ²³							
 344-12												ŋ j ²¹							
 349-12												kʰ əu ³⁵							
 353-12												tɕʰ i n ⁵⁵							
 360-12												ɣ j e ²³							
-375-12												tɕ y ²¹							
-388-12												ɕ ɿ ²¹							
+375-12												tɕ y ³⁵							
+388-12												s ɿ ²¹							
 389-12												x w e ²¹							
 392-12												kʰ w ə n							
-394-12												tɕ ɪː ³⁵							
-401-12												d əu ²³							
+394-12												tɕ y ³⁵							
+401-12												d əu e							
 402-12												tɕ j e							
 403-12												t i ²¹							
-409-12												tɕ ʊ ²³							
+409-12												tɕ j ʊ							
 418-12												m i ²³							
 441-12												d ɪː ²³							
 443-12												m ʊ ²³							
 459-12												w a ²³							
 460-12												t ʊ ⁵⁵							
-461-12												j o ²³							
-464-12												d aː ³³							
+461-12												j ɛ ²³							
+464-12												d a e							
 465-12												d ɪː ²³							
 466-12												d w e ²³							
 467-12												x əu ⁵⁵							
 469-12												ɕ j ɛ							
-480-12												ɲ y ³³							
+480-12												n y ²¹							
 482-12												n a ²³							
-484-12												x ə ²¹							
+484-12												ɣ ə ²¹							
 491-12												m i ²³							
 492-12												tɕʰ i ⁵⁵							
-495-12												tɕ j ɛ ²³							
+495-12												tɕ j o ³⁵							
 496-12												k əu ⁵⁵							
-507-12												n j a ŋ ²³							
+507-12												n j ŋ ŋ							
 509-12												tɕʰ y ²¹							
-510-12												b ʊ ³⁵							
+510-12												b ʊ ²³							
 513-12												ɕ i ³⁵							
 518-12												s ə ²¹							
 525-12												ʈʂ ʅ ²¹							
-527-12												i n							
+527-12												i n ³³							
 533-12												ɣ w e							
 548-12												kʰ j ɛ							
-554-12												x w e							
-558-12												i a ŋ ²³							
+554-12												ɣ w e							
+558-12												i n ŋ							
 564-12												x əu ²¹							
-580-12												ɕ j ɛ							
+580-12												ɕ j ɛ ³⁵							
 587-12												ɕ j ə ²¹							
-588-12												s ə ⁵⁵							
+588-12												s ə ²¹							
 589-12												tɕ ɪː ⁵⁵							
 594-12												tɕʰ i ³⁵							
 602-12												əu ²³							
 604-12												s ɿ ²¹							
-611-12												s uaː ŋ ⁵⁵							
-630-12												tɕ ə ²¹							
+611-12												s uaː ⁵⁵							
+630-12												tɕ j ʊ							
 637-12												tɕ i n ⁵⁵							
-638-12												ɕ ɿ ²¹							
-639-12												p ʊ ⁵⁵							
+638-12												dz ɿ ³³							
+639-12												p j ʊ ²¹							
 644-12												tɕ j ʊ ²¹							
-648-12												ɕ i ɛ							
-652-12												m ə ²³							
+648-12												ɕ i ³⁵							
+652-12												m ə ²¹							
 657-12												k uɛː ⁵⁵							
 658-12												b i n ²³							
-659-12												n i ²³							
+659-12												n j ³³ ²³							
 665-12												tɕʰ i n ⁵⁵							
 692-12												k a ŋ ⁵⁵							
 696-12												t i ²¹							
 707-12												i n ²¹							
 719-12												t j ɛ							
 727-12												ɕ i n ⁵⁵							
-732-12												a ŋ ²³							
-733-12												m i n ²³							
+732-12												a ŋ ³³							
+733-12												m a ŋ ²³							
 735-12												kʰ w a ³⁵							
 740-12												pʰ a ³⁵							
 773-12												ɕ j a ŋ ⁵⁵							
 788-12												m i n							
 808-12												tɕʰ i n ⁵⁵							
 809-12												ŋ j ²¹							
-816-12												d w e ³³							
+816-12												t w e							
 818-12												x a ŋ ⁵⁵							
-821-12												s uaː ⁵⁵							
+821-12												ɕ uaː ⁵⁵							
 822-12												ɕ j ʊ ²¹							
-826-12												d aː ³³							
-829-12												kʰ j ʊ							
+826-12												t a ²¹							
+829-12												kʰ j ²¹							
 841-12												tɕ j o ⁵⁵							
 845-12												tɕ j ɛ ²³							
-848-12												p ə e							
-858-12												pʰ a ³⁵							
+848-12												b ə ³³							
+858-12												b j ²³							
 862-12												tʰ w e							
-869-12												d w ²³							
+869-12												d uiː ²³							
 874-12												ʈʂ ʅ ²¹							
-876-12												tʰ j ə ³⁵							
+876-12												tʰ j ə ⁵⁵							
 883-12												tɕ j ʊ ²³							
-894-12												t j ə ²¹							
+894-12												t j ə ²³							
 903-12												tɕ j ɛ ²³							
 905-12												tʰ w e ³⁵							
-910-12												tʰ i ³⁵							
-911-12												tsʰ a ɛ							
-926-12												p aː ⁵⁵							
+910-12												tʰ i ²³							
+911-12												tsʰ a ²³							
+926-12												p aː ²¹							
 934-12												m ʊ ²³							
-968-12												ɕ j ʊ ⁵⁵							
+968-12												s j ʊ							
 970-12												k a ²¹							
 982-12												k uɛː ⁵⁵							
 986-12												kʰ j ə							
@@ -2481,141 +2481,141 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 998-12												x əu ²¹							
 1001-12												ɕ i n ⁵⁵							
 1003-12												x a ŋ ⁵⁵							
-1005-12												b a ŋ ³⁵							
+1005-12												b a ŋ ²³							
 1008-12												tɕ j ʊ ²³							
-2-13													i ²⁴						
+2-13													i ɤ						
 4-13													tɕʰ i ʔ						
-5-13													ts ɒ ŋ						
+5-13													z ɒ ŋ ³¹						
 6-13													s ø ⁴⁴						
 7-13													s o ŋ ⁴⁴						
 8-13													ɦ j ²⁴						
-9-13													b o ʔ ²³						
+9-13													p u ʔ						
 17-13													ts o ŋ ⁴⁴						
 31-13													tɕ j øy						
-32-13													j ɒ ʔ						
-33-13													z ɥ ³¹						
+32-13													j a ʔ						
+33-13													z ³¹ ³¹						
 38-13													l ²⁴						
-40-13													j o						
+40-13													ɦ ³¹						
 42-13													əu ⁵²						
-43-13													ts i n ⁵²						
-46-13													ɦ w ɒ ŋ ²⁴						
-52-13													l j ɒ ŋ ²⁴						
+43-13													tɕ i n ⁵²						
+46-13													ɦ w ɒ ŋ						
+52-13													l j ³¹ ŋ ²⁴						
 53-13													z ə n ²⁴						
 56-13													tɕ i n ⁴⁴						
 59-13													d ɛ ²⁴						
-60-13													ts a ŋ						
+60-13													z ɒ ŋ ³¹						
 64-13													l i n ²⁴						
-68-13													tɕ ɪ ⁴⁴						
+68-13													tɕ ɪ n						
 85-13													ɦ u ɛ ³¹						
 86-13													t j ɤ ʔ ⁴						
 87-13													ts ɥ ⁴⁴						
 93-13													l i ³¹						
 98-13													l ɛ ²⁴						
 109-13													s i n ⁴⁴						
-115-13													t əu ⁵²						
+115-13													t æ ⁵²						
 118-13													ts j ɒ						
-124-13													tɕ j ɒ						
-127-13													ts ɥ ⁵²						
+124-13													k j ⁵²						
+127-13													ts o ⁵²						
 133-13													d øy ²⁴						
-144-13													s o ʔ						
+144-13													s o ⁴⁴						
 161-13													s j ŋ ⁴⁴						
 166-13													k w ø ⁴¹²						
 170-13													l ²⁴						
 171-13													d øy ²⁴						
 173-13													z ɤ ʔ ²³						
 174-13													l ɛ ³¹						
-175-13													tsʰ j ø						
-176-13													l j ɒ ŋ ²⁴						
+175-13													z j ⁴¹²						
+176-13													l j a ŋ ²⁴						
 177-13													p ɒ ʔ						
 179-13													l øy ²⁴						
-181-13													p i n ⁴⁴						
+181-13													p ɪ n ⁴⁴						
 182-13													tɕʰ i ⁴¹²						
 189-13													k w ø						
 191-13													t o ŋ ⁴⁴						
 193-13													l ə n ²⁴						
-198-13													d ə n ²⁴						
-199-13													s j ŋ ŋ						
-200-13													z ɥ ʔ ʔ						
-202-13													t əu ⁴⁴						
+198-13													t ə n ⁴⁴						
+199-13													s j ŋ ⁴⁴						
+200-13													z o ʔ ²³						
+202-13													t æ ⁴⁴						
 205-13													f ə n ⁴⁴						
-206-13													tɕʰ j ɤ ʔ						
-209-13													ɦ w ɛ ⁵²						
+206-13													tɕʰ j ɤ ʔ ⁴						
+209-13													ɦ w ɤ ʔ						
 211-13													tsʰ əu ⁴⁴						
 215-13													l i ³¹						
 216-13													k w ɤ ʔ ⁴						
 217-13													t æ ⁵²						
-219-13													s o ⁴⁴						
-220-13													tsʰ i ⁴¹²						
+219-13													s o ʔ						
+220-13													tsʰ ɿ ³¹						
 225-13													tsʰ ɪ ⁴¹²						
-230-13													ts ɪ ⁴⁴						
+230-13													ts ɪ ⁴¹²						
 234-13													b i ²⁴						
 238-13													l i ³¹						
 242-13													ts ɥ ⁴⁴						
-253-13													kʰ i n						
+253-13													tɕʰ i n						
 256-13													s o ʔ ⁴						
 261-13													h əu ɛ						
-262-13													b ɒ ʔ ²³						
+262-13													p ɒ ʔ ²³						
 263-13													z ɿ ⁵²						
-264-13													tɕ j ɒ						
-271-13													z o ʔ ²³						
+264-13													tɕ j ɒ ŋ ⁴⁴						
+271-13													z ɤ ʔ ²³						
 272-13													tsʰ ɪ ⁴¹²						
 274-13													əu ⁵²						
 275-13													p ɛ ⁴⁴						
-279-13													l ø ²⁴						
+279-13													n ø ²⁴						
 287-13													l ø ³¹						
-291-13													ɦ øy ³¹						
-295-13													tɕʰ i ⁴⁴						
+291-13													ɦ øy ²⁴						
+295-13													tɕʰ ɥ ⁴⁴						
 300-13													j øy ²⁴						
-303-13													tsʰ i ⁵²						
+303-13													tsʰ ɥ ⁵²						
 306-13													kʰ əu ⁵²						
 307-13													k əu ⁵²						
 308-13													tɕ ɥ ⁴⁴						
-312-13													tɕ j æ						
+312-13													tɕ j æ ⁴¹²						
 313-13													kʰ əu ⁵²						
 314-13													d ɛ ²⁴						
 323-13													m i n ²⁴						
-325-13													d o ²⁴						
+325-13													d øy ²⁴						
 330-13													f u ⁵²						
-334-13													s i ⁵²						
+334-13													s i ʔ						
 335-13													tsʰ ɛ ⁴⁴						
-338-13													k æ ⁵²						
+338-13													k æ ⁴⁴						
 339-13													ts øy ⁵²						
 341-13													ɦ əu ²⁴						
 342-13													m i n ²⁴						
 343-13													ɦ əu ²⁴						
-344-13													j æ ⁵²						
+344-13													j æ ⁴⁴						
 349-13													kʰ əu ʔ						
 353-13													tsʰ ɒ ŋ ⁴⁴						
 360-13													ɦ øy ²⁴						
 375-13													ts ɛ ⁵²						
 388-13													s ɿ ⁵²						
-389-13													h u ɛ ⁵²						
-392-13													kʰ ø ⁴⁴						
-394-13													tɕ j ⁴⁴						
+389-13													h u ɛ ⁴¹²						
+392-13													kʰ ø ŋ						
+394-13													tɕ j ɒ						
 401-13													d o ²⁴						
 402-13													ts ɛ ⁴⁴						
 403-13													t j ɤ ʔ ⁴						
-409-13													ts o ⁴⁴						
+409-13													ts o ʔ						
 418-13													m ɛ ²⁴						
 441-13													d ɪ ²⁴						
 443-13													m o ²⁴						
-459-13													ɦ ɒ ²⁴						
+459-13													ɦ w ³¹						
 460-13													t əu ⁴⁴						
-461-13													j ɒ ²⁴						
+461-13													j a ʔ						
 464-13													d ɛ ʔ						
 465-13													d ɪ ²⁴						
 466-13													d ɛ ²⁴						
 467-13													f u ⁴⁴						
-469-13													s o ʔ						
+469-13													z ɤ ʔ						
 480-13													l i ³¹						
 482-13													l ɛ ³¹						
-484-13													ɦ æ ⁵²						
+484-13													ɦ əu ²⁴						
 491-13													m ɛ ³¹						
 492-13													tsʰ i ⁴⁴						
 495-13													ts j ɒ						
 496-13													k əu ⁴⁴						
-507-13													l j ɒ ŋ ²⁴						
-509-13													tsʰ i ⁵²						
+507-13													n j a						
+509-13													tsʰ ɥ ⁵²						
 510-13													b o ²⁴						
 513-13													s i ⁴⁴						
 518-13													s æ ⁵²						
@@ -2625,88 +2625,88 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 548-13													kʰ ɤ ʔ ⁴						
 554-13													ɦ ɛ ⁵²						
 558-13													j o ŋ ²⁴						
-564-13													f u ⁴⁴						
+564-13													v u ³¹						
 580-13													s o ʔ						
-587-13													s j æ ⁵²						
+587-13													s j æ ⁴¹²						
 588-13													s æ ⁵²						
-589-13													ts ɪ ⁴⁴						
+589-13													ts ɪ ⁴¹²						
 594-13													z ɤ ʔ ²³						
 602-13													əu ɤ						
 604-13													s ɿ ⁵²						
 611-13													s ø ⁴⁴						
-630-13													ts o ʔ						
+630-13													ts o ⁵²						
 637-13													tɕ i n ⁴⁴						
-638-13													z ɿ ⁵²						
-639-13													b u ³¹						
+638-13													z ɿ ³¹						
+639-13													p u ⁴⁴						
 644-13													ts øy ⁵²						
-648-13													s i ⁵²						
-652-13													m æ ²⁴						
+648-13													s i ʔ						
+652-13													m æ ³¹						
 657-13													k ø ⁴⁴						
 658-13													b i n ²⁴						
 659-13													l i ²⁴						
-665-13													z ɒ ŋ						
+665-13													z ɒ ŋ ⁴⁴						
 692-13													k o ŋ ⁴⁴						
 696-13													t j ɤ ʔ ⁴						
 707-13													i n ³¹						
 719-13													t j ɤ ʔ ⁴						
 727-13													s i n ⁴⁴						
-732-13													ɦ w ɒ ŋ						
-733-13													m o ŋ						
+732-13													ɦ w ŋ ŋ						
+733-13													m o ŋ ²⁴						
 735-13													kʰ u ɛ ⁴¹²						
 740-13													b ɒ ²⁴						
 773-13													s j a ŋ ⁴⁴						
 788-13													m ɛ ³¹						
-808-13													z ə n ⁴⁴						
-809-13													ŋ o ŋ						
-816-13													t j ɒ ⁵²						
+808-13													z ə n ²⁴						
+809-13													ŋ o ŋ ³¹						
+816-13													t ɛ ⁵²						
 818-13													f ɒ ŋ						
 821-13													s ø ⁴⁴						
 822-13													s øy ⁵²						
 826-13													t a ʔ ⁴						
-829-13													kʰ əu ⁴⁴						
-841-13													ts ɛ ⁴⁴						
+829-13													kʰ əu ⁵²						
+841-13													ts o ⁴⁴						
 845-13													ts ɤ ʔ ⁴						
-848-13													b æ ²⁴						
-858-13													b o ²⁴						
-862-13													d o ²⁴						
-869-13													tɕʰ j ø						
+848-13													b æ ⁴⁴						
+858-13													b ɒ ʔ ²³						
+862-13													d ɛ ²⁴						
+869-13													tɕʰ j ⁴¹²						
 874-13													ts ɥ ⁵²						
 876-13													tʰ j æ ⁴¹²						
 883-13													ts o ʔ ⁴						
-894-13													t j æ ⁵²						
+894-13													t j æ ⁴¹²						
 903-13													ts j ɤ ʔ						
 905-13													tʰ ɛ ⁴¹²						
-910-13													d i ²⁴						
-911-13													z o ʔ ²³						
+910-13													d i ⁴¹²						
+911-13													z ɒ ʔ						
 926-13													p ɛ ⁴⁴						
 934-13													m o ʔ						
 968-13													s øy ⁴⁴						
 970-13													k ɒ ⁵²						
 982-13													k ø ⁴⁴						
-986-13													kʰ æ ⁴⁴						
+986-13													kʰ j ⁴⁴						
 997-13													tɕ i n ⁴⁴						
-998-13													f u ⁴⁴						
+998-13													v u ³¹						
 1001-13													s i n ⁴⁴						
-1003-13													f ɛ ⁴⁴						
+1003-13													f ɛ ŋ						
 1005-13													b ɒ ŋ ²⁴						
-1008-13													ts o ʔ						
-2-14														i ¹¹					
-4-14														tɕʰ i ʔ					
+1008-13													ts o ʔ ⁴						
+2-14														i ⁵³					
+4-14														tɕʰ ə ʔ ²					
 5-14														ts ɒː ⁴⁵					
-6-14														s uæː ¹¹					
-7-14														s ə ¹¹					
-8-14														ɕ j a ʔ ²					
+6-14														s æː ¹¹					
+7-14														s uɒː ¹¹					
+8-14														ɕ j a					
 9-14														p ə ʔ ²					
 17-14														ts u ŋ ⁴⁵					
-31-14														tɕ j ou ⁵³					
+31-14														tɕ j ou ⁴⁵					
 32-14														j a ¹¹					
-33-14														y ⁵³					
+33-14														y u					
 38-14														ə ⁵³					
-40-14														y ŋ ¹¹					
-42-14														v u ¹¹					
-43-14														ts ə ŋ ¹¹					
+40-14														y æː ¹¹					
+42-14														v u ⁵³					
+43-14														ts ə ŋ ⁴⁵					
 46-14														v ɒː ¹¹					
-52-14														l i ¹¹					
+52-14														l j ɛ ¹¹					
 53-14														z ə ŋ ¹¹					
 56-14														tɕ i ŋ ¹¹					
 59-14														tʰ a ¹¹					
@@ -2716,23 +2716,23 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 85-14														v ei ⁴⁵					
 86-14														t j ə ʔ ⁵⁴					
 87-14														ts u ⁴⁵					
-93-14														n i ⁵³					
+93-14														l i ⁵³					
 98-14														l w ei					
 109-14														ɕ i ŋ ¹¹					
 115-14														t au ⁵³					
 118-14														ts j ɛ					
-124-14														tɕ j a ʔ					
+124-14														tɕ j a ʔ ²					
 127-14														ts w ə					
 133-14														tʰ au ¹¹					
 144-14														s a ¹¹					
 161-14														ɕ y ŋ ¹¹					
-166-14														k u ŋ ¹¹					
+166-14														k uæː ¹¹					
 170-14														ə ⁵³					
 171-14														tʰ u ¹¹					
 173-14														z ə ʔ ²					
-174-14														l w ei ¹¹					
-175-14														tɕʰ ɥ ¹¹					
-176-14														l iɒː ¹¹					
+174-14														l w ei					
+175-14														tɕʰ ɥ ɛ					
+176-14														l j ɛ ¹¹					
 177-14														p a ʔ ²					
 179-14														l j ou ʔ					
 181-14														p i ŋ ¹¹					
@@ -2740,13 +2740,13 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 189-14														k uæː ¹¹					
 191-14														t u ŋ ¹¹					
 193-14														l ə ŋ ¹¹					
-198-14														t ə n ¹¹					
+198-14														t ə n ⁵³					
 199-14														ɕ y ŋ ¹¹					
-200-14														tsʰ u ə					
+200-14														tsʰ u ¹¹					
 202-14														t au ¹¹					
 205-14														f ə ŋ ¹¹					
 206-14														tɕʰ j ʔ ²					
-209-14														x w a					
+209-14														x w a ²					
 211-14														tsʰ u ¹¹					
 215-14														l i ¹¹					
 216-14														k w ə ʔ ²					
@@ -2754,22 +2754,22 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 219-14														s w ə ʔ ²					
 220-14														tsʰ ɿ ⁴⁵					
 225-14														tɕʰ j ɛ ¹¹					
-230-14														tɕ j ɛ ¹¹					
-234-14														pʰ i ¹¹					
-238-14														l i ə ʔ ²					
+230-14														tɕ j ɛ ⁴⁵					
+234-14														pʰ i ə					
+238-14														l i ə					
 242-14														ts u ⁴⁵					
 253-14														tɕʰ i ŋ ¹¹					
 256-14														s w ə ʔ ²					
 261-14														x w a ¹¹					
-262-14														p j ʔ ²					
+262-14														p j ə ʔ ²					
 263-14														tsʰ ɿ ¹¹					
 264-14														tɕ iɒː ¹¹					
-271-14														s ə ʔ ⁵⁴					
+271-14														s ə ʔ ²					
 272-14														tɕʰ j ɛ ¹¹					
-274-14														v u ¹¹					
-275-14														p æː ⁵³					
+274-14														v u ⁵³					
+275-14														p æː ⁴⁵					
 279-14														n æː ¹¹					
-287-14														l w ¹¹					
+287-14														l w ei					
 291-14														x ou ⁴⁵					
 295-14														tɕʰ y ⁴⁵					
 300-14														j ou ⁵³					
@@ -2785,22 +2785,22 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 330-14														f u ⁵³					
 334-14														ɕ i ¹¹					
 335-14														tsʰ w ei					
-338-14														k au ¹¹					
+338-14														k au ⁵³					
 339-14														ts ou ¹¹					
 341-14														x u ¹¹					
 342-14														m i ŋ ¹¹					
 343-14														x w ə					
 344-14														j au ¹¹					
-349-14														kʰ u ⁵³					
+349-14														kʰ u ʔ					
 353-14														tsʰ uaː ¹¹					
 360-14														x ou ¹¹					
-375-14														ts w ei ⁴⁵					
+375-14														ts w ei ⁵³					
 388-14														s ɿ ⁴⁵					
 389-14														x w ei					
-392-14														kʰ u ŋ					
-394-14														tɕ y ŋ					
+392-14														kʰ u ŋ ¹¹					
+394-14														tɕ ɥ ɛ ¹¹					
 401-14														tʰ u ¹¹					
-402-14														ts ai ¹¹					
+402-14														ts ai ⁴⁵					
 403-14														t j ə ʔ ⁵⁴					
 409-14														ts w ə ʔ ²					
 418-14														m ei ¹¹					
@@ -2815,166 +2815,166 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 467-14														f u ¹¹					
 469-14														s ə ʔ ²					
 480-14														n w ei ⁵³					
-482-14														n i ¹¹					
-484-14														x ou ⁵³					
-491-14														m ei ⁵³					
+482-14														n w ¹¹					
+484-14														x au ⁵³					
+491-14														m ei ⁴⁵					
 492-14														tɕʰ i ¹¹					
 495-14														ts j ɛ					
 496-14														k u ¹¹					
 507-14														n j ɛ ¹¹					
-509-14														tɕʰ y ¹¹					
+509-14														tɕʰ y ⁵³					
 510-14														pʰ ə ¹¹					
 513-14														ɕ i ¹¹					
 518-14														s au ⁵³					
 525-14														ts ɿ ⁵³					
 527-14														y ŋ ⁴⁵					
-533-14														x ai ɛ					
+533-14														x ai ¹¹					
 548-14														kʰ ə ʔ ²					
-554-14														x ai ¹¹					
-558-14														y ŋ ¹¹					
+554-14														x ai ⁴⁵					
+558-14														y n ¹¹					
 564-14														f u ¹¹					
-580-14														s j ¹¹					
+580-14														s ə ʔ					
 587-14														ɕ j au ⁴⁵					
 588-14														s au ⁵³					
 589-14														tɕ j ɛ ⁴⁵					
-594-14														tsʰ ə ʔ					
-602-14														v ə ʔ ²					
+594-14														tsʰ ə ʔ ²					
+602-14														v ə ʔ					
 604-14														s ɿ ⁵³					
-611-14														s uæː ¹¹					
+611-14														s æː ¹¹					
 630-14														ts w ə ʔ ²					
 637-14														tɕ i ŋ ¹¹					
 638-14														s ɿ ⁴⁵					
-639-14														p ə ʔ					
+639-14														p ə ʔ ²					
 644-14														ts ou ⁵³					
 648-14														ɕ i ʔ					
 652-14														m au ¹¹					
 657-14														k æː ¹¹					
 658-14														pʰ i ŋ ¹¹					
 659-14														n j ɛ ¹¹					
-665-14														tsʰ uaː ¹¹					
+665-14														tsʰ u ¹¹					
 692-14														k u ŋ ¹¹					
-696-14														t j ə ʔ ⁵⁴					
+696-14														t j ə					
 707-14														i ŋ ⁴⁵					
 719-14														t j ə ʔ ²					
 727-14														ɕ i ŋ ¹¹					
 732-14														v ɒː ¹¹					
-733-14														m ə ŋ ¹¹					
+733-14														m ə ŋ					
 735-14														kʰ w ai ⁴⁵					
 740-14														pʰ a ¹¹					
 773-14														ɕ iɒː ¹¹					
 788-14														m æː ¹¹					
 808-14														tsʰ ə ŋ ¹¹					
-809-14														v a ¹¹					
+809-14														v ou ¹¹					
 816-14														t ai ⁴⁵					
 818-14														f ɒː ¹¹					
-821-14														s uæː ¹¹					
+821-14														s ə ŋ					
 822-14														s ou ⁵³					
 826-14														t a ʔ ²					
 829-14														kʰ u ⁵³					
-841-14														ts w a ʔ					
+841-14														ts w a ʔ ²					
 845-14														ts ə ʔ ²					
 848-14														p au ¹¹					
-858-14														pʰ a ¹¹					
+858-14														pʰ ə ʔ					
 862-14														tʰ w ə ¹¹					
 869-14														tɕʰ ɥ ɛ ¹¹					
 874-14														ts ɿ ⁵³					
-876-14														tʰ j au ⁴⁵					
+876-14														tʰ j au ¹¹					
 883-14														ts w ə ʔ ²					
 894-14														t j au ⁴⁵					
-903-14														tɕ j ʔ ¹¹					
+903-14														tɕ j ə ʔ					
 905-14														tʰ w ei ¹¹					
 910-14														tʰ i ¹¹					
-911-14														tsʰ a ¹¹					
+911-14														tsʰ a ʔ ²					
 926-14														p æː ⁵³					
 934-14														m ə ¹¹					
 968-14														s ou ⁴⁵					
 970-14														tɕ j ɛ ⁵³					
 982-14														k æː ¹¹					
-986-14														kʰ j ⁵³					
+986-14														kʰ j au					
 997-14														tɕ i ŋ ¹¹					
 998-14														f u ⁵³					
 1001-14														ɕ i ŋ ¹¹					
 1003-14														f æː ¹¹					
-1005-14														pʰ ɒː ⁴⁵					
+1005-14														pʰ ɒː ¹¹					
 1008-14														ts w ə ʔ ²					
 2-15															ɦ i ²¹²				
 4-15															tsʰ ɿ ³²³				
-5-15															ts a ɔ				
-6-15															s a ⁴⁴				
-7-15															s a ŋ				
-8-15															ɦ i ⁴⁴				
+5-15															ts ɔ ɔ				
+6-15															s ø ⁴⁴				
+7-15															s ɔ ⁴⁴				
+8-15															x a ⁴⁴				
 9-15															b u ²¹²				
-17-15															tɕ ɥ o ŋ ⁴⁴				
-31-15															tɕ j au				
-32-15															ŋ ⁴⁵				
-33-15															z ɿ ³⁴				
+17-15															dʑ ɥ o ŋ				
+31-15															k j ⁴⁵				
+32-15															ŋ o ³¹				
+33-15															ɦ ɿ ²²				
 38-15															z ɿ ³¹				
-40-15															ɦ ɥ o ŋ				
-42-15															v ⁴⁵				
+40-15															ɦ ɥ ŋ				
+42-15															u u				
 43-15															tɕ j ŋ ŋ				
 46-15															ɦ ɥ ɔ ³¹				
-52-15															l i ²²				
+52-15															l i ³¹				
 53-15															z a ŋ ³¹				
 56-15															tɕ j a ŋ ⁴⁴				
-59-15															d a ³¹				
-60-15															ts ɔ ⁴⁴				
-64-15															l e ŋ ³¹				
+59-15															d o ³¹				
+60-15															ts ɔ ɔ				
+64-15															l e ŋ ²²				
 68-15															tɕ i ⁴⁴				
-85-15															v u ³⁴				
-86-15															t ei ⁴⁴				
+85-15															v u ²²				
+86-15															t ɿ ⁴⁴				
 87-15															ts ɿ ⁴⁴				
 93-15															l ei ³⁴				
-98-15															l a ³¹				
+98-15															l ei ³¹				
 109-15															s e ŋ ⁴⁴				
 115-15															t ɜ ⁴⁵				
-118-15															tɕ j ⁴⁴				
+118-15															ts j ⁴²				
 124-15															k a ⁴⁴				
 127-15															ts ɿ ⁴²				
-133-15															d j ³¹				
-144-15															s a ⁴⁴				
+133-15															tʰ j ³¹				
+144-15															s o ⁴⁴				
 161-15															ɕ ɥ ɔ ⁴⁴				
-166-15															k o ⁴⁴				
+166-15															k y ɔ				
 170-15															z ɿ ³¹				
 171-15															d u ³¹				
-173-15															ɦ ai ²¹²				
-174-15															l ai ³¹				
-175-15															tɕʰ y ³¹				
+173-15															ɦ u ²¹²				
+174-15															l ai ³⁴				
+175-15															tɕʰ y ⁴⁵				
 176-15															l i ³¹				
-177-15															p a ²¹²				
-179-15															l j u				
-181-15															p e ŋ				
+177-15															p a ³²³				
+179-15															l j ²¹²				
+181-15															b e ŋ ²²				
 182-15															tsʰ ɿ ⁴²				
 189-15															k y ⁴⁴				
 191-15															t o ŋ ⁴⁴				
-193-15															l e ŋ ³¹				
+193-15															l a ŋ ³¹				
 198-15															d a ŋ ³¹				
 199-15															ɕ ɥ ɔ ⁴⁴				
-200-15															tsʰ əu ³²³				
+200-15															tsʰ ɿ ³²³				
 202-15															t ɜ ⁴⁴				
 205-15															f a ŋ ⁴⁴				
-206-15															tɕʰ y ³²³				
-209-15															x o ²¹²				
+206-15															tsʰ ɿ ³²³				
+209-15															x o ⁴⁴				
 211-15															tsʰ əu ⁴⁴				
 215-15															l ei ³⁴				
-216-15															k o ³²³				
+216-15															k y ³²³				
 217-15															d ɜ ³⁴				
-219-15															s o ⁴⁴				
+219-15															s o ³²³				
 220-15															tsʰ ɿ ⁴²				
 225-15															tɕʰ i ⁴²				
 230-15															tɕ i ⁴⁴				
 234-15															b ei ³¹				
 238-15															l ei ²¹²				
-242-15															ts ɿ ⁴²				
-253-15															dʑ j a				
+242-15															ts ɿ ⁴⁴				
+253-15															dʑ e ŋ				
 256-15															s j u				
 261-15															x o ⁴⁴				
-262-15															b a ²¹²				
+262-15															b a ³²³				
 263-15															z ɿ ³¹				
 264-15															tɕ i ⁴⁴				
-271-15															z ɿ ²¹²				
-272-15															tɕʰ i ⁴²				
-274-15															v ⁴⁵				
-275-15															p a ⁴⁵				
+271-15															z ei ²¹²				
+272-15															tɕʰ i ŋ				
+274-15															u u				
+275-15															p a ⁴⁴				
 279-15															n ø ³¹				
 287-15															l ø ³¹				
 291-15															ɦ au ³¹				
@@ -2983,15 +2983,15 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 303-15															tsʰ əu ⁴⁴				
 306-15															kʰ u ⁴⁵				
 307-15															k u ⁴⁵				
-308-15															tɕ j ai				
+308-15															ts ɿ ⁴⁴				
 312-15															tɕ j ɛ ⁴²				
 313-15															kʰ u ⁴⁵				
 314-15															d ɛ ³¹				
 323-15															m e ŋ ³¹				
 325-15															d u ³¹				
 330-15															f u ⁴⁵				
-334-15															s ei ³²³				
-335-15															tsʰ ai ⁴⁴				
+334-15															s ɿ ³²³				
+335-15															tsʰ ɿ ⁴²				
 338-15															k ɜ ⁴⁴				
 339-15															ts j u				
 341-15															v u ³¹				
@@ -2999,61 +2999,61 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 343-15															v u ³¹				
 344-15															ŋ ɛ ⁴⁴				
 349-15															kʰ u ³²³				
-353-15															tɕʰ ɥ ɔ ⁴⁴				
+353-15															tɕʰ ɔ ⁴⁴				
 360-15															ɦ au ³¹				
 375-15															ts ai ⁴²				
 388-15															z ɿ ³⁴				
-389-15															f ai ⁴⁵				
-392-15															kʰ ø ⁴⁵				
-394-15															tɕ y ⁴²				
+389-15															f ai ⁴⁴				
+392-15															kʰ ø ⁴²				
+394-15															tɕ y ⁴⁴				
 401-15															d u ³¹				
 402-15															ts ɛ ⁴⁴				
 403-15															d ei ³⁴				
-409-15															ts ɿ ⁴²				
+409-15															ts ɜ ⁴²				
 418-15															m a ³¹				
 441-15															d i ³¹				
-443-15															m o ²¹²				
+443-15															m o ³⁴				
 459-15															ŋ a ³¹				
 460-15															t o ⁴⁴				
-461-15															ɦ i ³¹				
+461-15															ŋ o ³¹				
 464-15															d a ²²				
 465-15															d i ³¹				
 466-15															d ɛ ³¹				
 467-15															v u ³¹				
-469-15															z ɿ ³²³				
-480-15															l y ²¹²				
-482-15															n a ³¹				
-484-15															x u ⁴⁵				
-491-15															m ai ³¹				
+469-15															z ei ²¹²				
+480-15															l j u				
+482-15															l a ³¹				
+484-15															f ɜ ⁴⁵				
+491-15															m ai ³⁴				
 492-15															tsʰ ɿ ⁴⁴				
-495-15															ts j ⁴⁴				
+495-15															ts ɿ ⁴⁴				
 496-15															k u ⁴⁴				
 507-15															ŋ i ³¹				
 509-15															tsʰ əu ⁴⁴				
 510-15															b o ³¹				
 513-15															s ɿ ⁴⁴				
-518-15															s ɔ ⁴⁵				
+518-15															s ɔ ⁴⁴				
 525-15															ts ɿ ⁴⁴				
 527-15															ɦ ɥ o				
-533-15															x ɛ ⁴⁵				
+533-15															ɦ a ³¹				
 548-15															kʰ ø ³²³				
-554-15															x ɛ ⁴⁵				
+554-15															ɦ a ⁴⁵				
 558-15															ɦ ɥ o ŋ ³¹				
 564-15															v u ³¹				
-580-15															s ɿ ⁴⁴				
+580-15															s ei ³¹				
 587-15															ɕ j ɛ ⁴²				
-588-15															s ɔ ⁴⁵				
+588-15															s ɔ ⁴⁴				
 589-15															tɕ i ⁴⁴				
 594-15															tsʰ ɿ ³²³				
 602-15															v u ²¹²				
-604-15															s ɿ ³⁴				
-611-15															s a ŋ				
-630-15															ts ɜ ⁴⁵				
+604-15															z ɿ ⁴⁵				
+611-15															s a ⁴⁴				
+630-15															ts o ⁴⁵				
 637-15															tɕ j a ŋ ⁴⁴				
 638-15															z ɿ ³⁴				
 639-15															b u ²²				
 644-15															ts j u				
-648-15															s ei ²¹²				
+648-15															s ei ³²³				
 652-15															m ɜ ³¹				
 657-15															k y ⁴⁴				
 658-15															b e ŋ ³¹				
@@ -3061,131 +3061,131 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 665-15															tɕʰ ɥ ɔ ⁴⁴				
 692-15															k o ŋ ⁴⁴				
 696-15															d ei ³⁴				
-707-15															i i				
+707-15															ɦ i ²²				
 719-15															t ei ³²³				
 727-15															s e ŋ ⁴⁴				
-732-15															ɦ w ɔ ²²				
-733-15															m o ³¹ ³¹				
+732-15															ɦ ɥ ɔ ²²				
+733-15															m ɔ ³¹				
 735-15															kʰ a ⁴²				
 740-15															b o ³¹				
 773-15															ɕ i ⁴⁴				
-788-15															m a ³¹				
-808-15															z e ŋ ³¹				
+788-15															m ø ³¹				
+808-15															tsʰ e ŋ ⁴⁴				
 809-15															ŋ o ³⁴				
 816-15															d ɛ ²²				
-818-15															ɦ o ŋ ³¹				
-821-15															s a ŋ				
-822-15															s j u				
-826-15															t a ⁴⁵				
+818-15															x o ŋ ⁴⁴				
+821-15															s ø ŋ				
+822-15															ɕ j u ⁴⁵				
+826-15															t a ³²³				
 829-15															kʰ u ⁴⁵				
-841-15															ts a ⁴²				
+841-15															ts a ⁴⁴				
 845-15															ts a ³²³				
-848-15															b ɜ ³¹				
+848-15															b w ɔ				
 858-15															b o ²¹²				
-862-15															d o ⁴⁴				
+862-15															tʰ o ⁴⁴				
 869-15															tɕʰ y ⁴²				
 874-15															ts ɿ ⁴⁴				
 876-15															tʰ j ɛ ⁴²				
 883-15															tɕ j u				
 894-15															t j ɛ ²²				
-903-15															tɕ j ³²³				
+903-15															tɕ i ³²³				
 905-15															tʰ ai ⁴²				
-910-15															d ei ⁴²				
-911-15															tsʰ ø ³²³				
+910-15															d ei ³¹				
+911-15															z ø ³²³				
 926-15															p a ⁴⁴				
-934-15															m o ²¹²				
+934-15															m o ³⁴				
 968-15															s j u				
 970-15															k a ⁴⁵				
-982-15															k a ⁴⁵				
-986-15															kʰ j ⁴⁵				
+982-15															k y ⁴⁵				
+986-15															kʰ j ⁴⁴				
 997-15															tɕ j a ŋ ⁴⁴				
-998-15															v u ³¹				
+998-15															v u ⁴⁵				
 1001-15															s e ŋ ⁴⁴				
 1003-15															x o ŋ ⁴⁴				
-1005-15															b w ŋ ³¹				
-1008-15															ts j ³²³				
-2-16																i a			
+1005-15															b o ŋ ³¹				
+1008-15															ts j u				
+2-16																i ⁵¹			
 4-16																kʰ i k			
-5-16																ts ɔ ŋ ⁵⁵			
-6-16																s w a ⁵⁵			
-7-16																s j ŋ ŋ			
-8-16																h a ²⁴			
-9-16																p ɔ k ⁵			
-17-16																t j ŋ ⁵⁵			
+5-16																ts j ɔ ŋ			
+6-16																s w a n ⁵⁵			
+7-16																s j ɔ ŋ ⁵⁵			
+8-16																h j a			
+9-16																p ɔ k			
+17-16																t j ɔ ŋ			
 31-16																k j u ⁵¹			
-32-16																g a ²⁴			
-33-16																u j			
-38-16																dz i ⁵¹			
-40-16																h n ⁵¹			
+32-16																j a ²⁴			
+33-16																dz j			
+38-16																dz i ³³			
+40-16																h ɔ ŋ			
 42-16																ɔ ⁵¹			
 43-16																ts ɪ n ⁵¹			
 46-16																b ɔ ŋ ²⁴			
-52-16																l j ɔ ŋ ²⁴			
-53-16																dz i ŋ ²⁴			
+52-16																l j a ŋ ²⁴			
+53-16																l i m ²⁴			
 56-16																k u n ⁵⁵			
-59-16																tʰ a ¹¹			
-60-16																ts ɔ ŋ ³³			
+59-16																tʰ a ²⁴			
+60-16																ts ɔ ŋ ŋ			
 64-16																l i m ²⁴			
 68-16																k j a n ¹¹			
-85-16																w i ⁵¹			
+85-16																w i ³³			
 86-16																t i ⁵⁵			
 87-16																ts u ³³			
-93-16																l iː ⁵¹			
+93-16																l i ⁵¹			
 98-16																l ai ²⁴			
 109-16																s ɪ ŋ ⁵⁵			
 115-16																t o ⁵¹			
-118-16																ts j a ¹¹			
-124-16																k a a			
-127-16																ts ɔ ⁵¹			
+118-16																ts j a			
+124-16																k a ¹¹			
+127-16																ts u ⁵¹			
 133-16																tʰ ɔ ²⁴			
 144-16																s w a ⁵⁵			
 161-16																h j ɔ ŋ ⁵⁵			
 166-16																k ɔ ŋ ⁵⁵			
-170-16																dz i ⁵¹			
+170-16																dz i ²⁴			
 171-16																tʰ ɔ ²⁴			
-173-16																l j			
+173-16																l j k ⁵			
 174-16																l w i			
 175-16																kʰ j a n ²⁴			
 176-16																l j ɔ ŋ ²⁴			
-177-16																p a t ⁵			
+177-16																p a t ³²			
 179-16																l j u ⁵			
 181-16																p ɪ ŋ ⁵⁵			
 182-16																kʰ i ²⁴			
-189-16																k w a n ⁵⁵			
+189-16																k w a n			
 191-16																t ɔ ŋ ⁵⁵			
 193-16																l i m ²⁴			
 198-16																t ɪ ŋ ⁵⁵			
 199-16																h j ɔ ŋ ⁵⁵			
-200-16																tsʰ u k			
+200-16																tsʰ j k			
 202-16																t o ⁵⁵			
-205-16																h u n ⁵⁵			
-206-16																kʰ j a t ³²			
-209-16																h w a t ³²			
+205-16																h ɔ ŋ ⁵⁵			
+206-16																kʰ j a t ⁵			
+209-16																h w a t			
 211-16																tsʰ u ⁵⁵			
 215-16																l i ³³			
 216-16																k w a t ³²			
 217-16																t o ⁵¹			
-219-16																s w a t ³²			
-220-16																tsʰ i ¹¹			
+219-16																s w a t			
+220-16																tsʰ i ³³			
 225-16																kʰ j a n ²⁴			
 230-16																k j a n ⁵⁵			
-234-16																pʰ i k			
+234-16																p i k			
 238-16																l i t			
 242-16																ts j u			
 253-16																kʰ j n ²⁴			
 256-16																s j a k			
 261-16																h w a			
-262-16																p ɪ k ⁵			
-263-16																s i ²⁴			
+262-16																p ɪ k ³²			
+263-16																s i ⁵¹			
 264-16																k j ɔ ŋ ⁵⁵			
 271-16																s i k			
-272-16																tsʰ j a n ⁵⁵			
-274-16																ɔ ⁵⁵			
+272-16																kʰ j a n ⁵⁵			
+274-16																ɔ ⁵¹			
 275-16																p a n ³³			
 279-16																l a m ²⁴			
-287-16																l w a ²⁴			
+287-16																l w ŋ ²⁴			
 291-16																h ɔ ²⁴			
-295-16																kʰ u ⁵¹			
+295-16																kʰ u ¹¹			
 300-16																j u ⁵¹			
 303-16																tsʰ u ⁵¹			
 306-16																kʰ ɔ ⁵¹			
@@ -3193,82 +3193,82 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 308-16																k u ⁵¹			
 312-16																k j au ¹¹			
 313-16																kʰ o ⁵¹			
-314-16																tʰ ai ²⁴			
-323-16																b i ŋ ²⁴			
+314-16																t ai ²⁴			
+323-16																b i m ²⁴			
 325-16																tʰ ɔ ⁵¹			
 330-16																h u ⁵¹			
-334-16																s i ⁵¹			
+334-16																h i ⁵⁵			
 335-16																tsʰ w i			
 338-16																k o ⁵¹			
 339-16																ts j u			
 341-16																h ɔ ⁵⁵			
-342-16																b i n ²⁴			
+342-16																b i m ²⁴			
 343-16																h o ²⁴			
 344-16																j au ⁵¹			
 349-16																kʰ ɔ k ³²			
-353-16																tsʰ ɔ ŋ ⁵⁵			
+353-16																tsʰ ɔ ŋ ŋ			
 360-16																h ɔ ²⁴			
 375-16																ts w i ⁵¹			
 388-16																s i ³³			
 389-16																h w i ⁵¹			
 392-16																kʰ ɔ a n			
-394-16																k u a n			
+394-16																k w a n ¹¹			
 401-16																tʰ ɔ ⁵¹			
-402-16																ts ai ¹¹			
+402-16																ts ai ³³			
 403-16																t i ³³			
 409-16																ts o ⁵¹			
-418-16																b i ⁵¹			
+418-16																b i ²⁴			
 441-16																t j a n ²⁴			
 443-16																b ɔ k ⁵			
-459-16																w w ⁵¹			
-460-16																t o ⁵⁵			
+459-16																w a ¹¹			
+460-16																t o ⁵¹			
 461-16																j a ²⁴			
 464-16																t a ³³			
-465-16																tʰ j a n ²⁴			
+465-16																tʰ j a n ⁵⁵			
 466-16																tʰ ai ²⁴			
 467-16																h u ⁵⁵			
 469-16																s i k			
 480-16																l j u ⁵¹			
 482-16																l ai ²⁴			
 484-16																h o ⁵¹			
-491-16																b i ⁵¹			
+491-16																b i ³³			
 492-16																tsʰ i ⁵⁵			
 495-16																ts j a			
 496-16																k ɔ ⁵⁵			
-507-16																l j ɔ ŋ ²⁴			
+507-16																l j a n ²⁴			
 509-16																tsʰ u ⁵¹			
 510-16																pʰ o ²⁴			
-513-16																s i ³³			
-518-16																s j au ⁵⁵			
+513-16																s w ⁵⁵			
+518-16																s j au ⁵¹			
 525-16																ts i ⁵¹			
-527-16																j n n			
+527-16																j n n ³³			
 533-16																h ai ²⁴			
 548-16																kʰ a t ³²			
-554-16																h ai ²⁴			
+554-16																h ai ³³			
 558-16																j ɔ ŋ ²⁴			
-564-16																h u ⁵¹			
-580-16																s j a ⁵⁵			
+564-16																h u ³³			
+580-16																s j a n			
 587-16																s j au ⁵¹			
-588-16																s j au ⁵⁵			
+588-16																s j au ⁵¹			
 589-16																k j a n ⁵⁵			
 594-16																tsʰ i k			
 602-16																ɔ k			
 604-16																s i ⁵¹			
-611-16																s w a ⁵⁵			
+611-16																s w a n ⁵⁵			
 630-16																ts o ⁵¹			
 637-16																k u n ⁵⁵			
 638-16																s i ³³			
 639-16																p ɔ ³³			
-644-16																ts j u			
-648-16																s i k			
-652-16																m au ²⁴			
+644-16																ts j ⁵¹			
+648-16																s j k			
+652-16																b u ²⁴			
 657-16																k a n ⁵⁵			
 658-16																p ɪ ŋ ²⁴			
 659-16																l j a n ²⁴			
-665-16																tsʰ ɔ ŋ ⁵⁵			
+665-16																tsʰ j ɔ ŋ			
 692-16																k ɔ ŋ ⁵⁵			
 696-16																t i ³³			
-707-16																i n ⁵¹			
+707-16																i m ⁵¹			
 719-16																t ɪ k ³²			
 727-16																s ɪ ŋ ⁵⁵			
 732-16																b ɔ ŋ ³³			
@@ -3280,93 +3280,93 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 808-16																tsʰ ɪ ŋ ²⁴			
 809-16																g a ⁵¹			
 816-16																t ai ³³			
-818-16																h ɔ ŋ ⁵⁵			
-821-16																s j a n			
+818-16																h ɔ ŋ ²⁴			
+821-16																s w a n			
 822-16																s j u ⁵¹			
-826-16																t a p ³²			
+826-16																t a ⁵¹			
 829-16																kʰ ɔ ⁵¹			
-841-16																ts w a			
+841-16																ts w a ⁵⁵			
 845-16																ts ɪ k ³²			
 848-16																p ɔ ²⁴			
-858-16																p ɪ k ⁵			
-862-16																tʰ o ²⁴			
-869-16																kʰ j a n			
+858-16																p a k			
+862-16																tʰ o ⁵⁵			
+869-16																kʰ j a n ²⁴			
 874-16																ts i ⁵¹			
 876-16																tʰ j au ⁵⁵			
-883-16																ts ɔ k			
+883-16																ts ɔ ⁵¹			
 894-16																t j au ³³			
-903-16																k j a t ³²			
+903-16																ts j a			
 905-16																tʰ w i ¹¹			
-910-16																tʰ e ⁵⁵			
-911-16																tsʰ ai t ³²			
+910-16																tʰ e ²⁴			
+911-16																tsʰ a t ³²			
 926-16																p a n ⁵⁵			
 934-16																b ɔ k ⁵			
 968-16																s j u ⁵⁵			
 970-16																k ai ⁵¹			
-982-16																k a n ¹¹			
+982-16																k a n ⁵¹			
 986-16																kʰ j au			
 997-16																k u n ⁵⁵			
 998-16																h u ⁵¹			
 1001-16																s ɪ ŋ ⁵⁵			
 1003-16																h ɔ ŋ ⁵⁵			
 1005-16																p ɔ ŋ ²⁴			
-1008-16																ts j k k			
+1008-16																ts ɔ k ³²			
 2-17																	i ²¹		
-4-17																	tɕʰ i ²¹		
+4-17																	tɕʰ ʅ ²⁴		
 5-17																	ts a ŋ ⁵⁵		
 6-17																	s a ²¹		
-7-17																	s a ŋ		
+7-17																	s a ŋ ²¹		
 8-17																	x a ²⁴		
 9-17																	p o ²¹		
 17-17																	pf o ŋ ²¹		
-31-17																	tɕ j ou ⁵³		
+31-17																	tɕ j ou		
 32-17																	j a ²⁴		
 33-17																	y u		
 38-17																	ə ⁵³		
-40-17																	y ŋ ²⁴		
+40-17																	y ŋ ŋ		
 42-17																	u ⁵³		
-43-17																	tɕ ieː ²¹		
+43-17																	tɕ ieː ŋ		
 46-17																	v a ŋ ²⁴		
-52-17																	l j a ŋ ²¹		
-53-17																	ə eː ŋ		
+52-17																	l j a ŋ ²⁴		
+53-17																	l eː ŋ		
 56-17																	tɕ ieː ²¹		
 59-17																	tʰ a ²⁴		
 60-17																	ts a ŋ ⁵⁵		
-64-17																	l i ŋ		
+64-17																	l i ²⁴		
 68-17																	tɕ iaː ⁵⁵		
 85-17																	w ei ⁵⁵		
 86-17																	t i ²¹		
 87-17																	pf u ⁵⁵		
 93-17																	l i ⁵³		
-98-17																	l ɛ ²⁴		
+98-17																	l i ²⁴		
 109-17																	ɕ i ŋ ⁵⁵		
 115-17																	t au ⁵³		
 118-17																	tɕ j ²¹		
 124-17																	tɕ j a ²¹		
-127-17																	ts u o		
+127-17																	ts w o		
 133-17																	tʰ au ²⁴		
 144-17																	s a ²¹		
 161-17																	ɕ y ŋ ²¹		
-166-17																	k uaː ⁵⁵		
+166-17																	k uaː ⁵³		
 170-17																	ə ⁵³		
-171-17																	tʰ au ²⁴		
-173-17																	y ou ²⁴		
+171-17																	tʰ u ²⁴		
+173-17																	y ɤ ²⁴		
 174-17																	l w ei ⁵⁵		
 175-17																	tɕʰ yaː ⁵³		
-176-17																	l j a ŋ ²¹		
+176-17																	l j a ŋ ²⁴		
 177-17																	p a ²¹		
 179-17																	l j ou ²⁴		
 181-17																	p i ŋ ²¹		
 182-17																	tɕʰ i ²⁴		
-189-17																	k uaː ⁵⁵		
+189-17																	k uaː ²¹		
 191-17																	t o ŋ ²¹		
 193-17																	l ə ŋ ²⁴		
 198-17																	t ə ŋ ⁵⁵		
 199-17																	ɕ y ŋ ²¹		
-200-17																	tɕʰ u ²¹		
+200-17																	ʈʂʰ ʅ ²⁴		
 202-17																	t au ²¹		
 205-17																	f ə ŋ ²¹		
-206-17																	tɕʰ j e		
+206-17																	tɕʰ ʅ e		
 209-17																	x w a		
 211-17																	tsʰ u ²¹		
 215-17																	l i ⁵⁵		
@@ -3374,8 +3374,8 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 217-17																	t au ⁵³		
 219-17																	s w ²¹		
 220-17																	tsʰ ɿ ⁵⁵		
-225-17																	tɕʰ iaː ²⁴		
-230-17																	tɕ iaː ²¹		
+225-17																	tɕʰ iaː ⁵⁵		
+230-17																	tɕ iaː ⁵⁵		
 234-17																	pʰ i ²⁴		
 238-17																	l i ²¹		
 242-17																	ts u ⁵⁵		
@@ -3383,42 +3383,42 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 256-17																	s au ²¹		
 261-17																	x w a ⁵⁵		
 262-17																	p ei ²¹		
-263-17																	tsʰ ɿ ²⁴		
-264-17																	tɕ j a ŋ ²¹		
+263-17																	tsʰ ɿ ⁵⁵		
+264-17																	tɕ j a		
 271-17																	ʂ ʅ ²⁴		
 272-17																	tɕʰ iaː ²¹		
-274-17																	u ⁵³		
+274-17																	u o		
 275-17																	p a ⁵³		
 279-17																	n aː ²⁴		
-287-17																	l w ⁵³		
+287-17																	l w ²⁴		
 291-17																	x ou ⁵⁵		
-295-17																	tɕʰ y ²¹		
+295-17																	tɕʰ y ⁵⁵		
 300-17																	j ou ⁵³		
-303-17																	tɕʰ y ²¹		
-306-17																	kʰ ou ⁵³		
+303-17																	tɕʰ y ⁵⁵		
+306-17																	kʰ u ⁵³		
 307-17																	k u ⁵³		
 308-17																	tɕ u ²¹		
-312-17																	tɕ j ou ⁵⁵		
-313-17																	kʰ w o		
+312-17																	tɕ j au ⁵⁵		
+313-17																	kʰ w o ⁵³		
 314-17																	tʰ ɛ ²⁴		
 323-17																	m i ŋ ²⁴		
 325-17																	tʰ u ²⁴		
 330-17																	f u ⁵³		
 334-17																	ɕ i ²¹		
-335-17																	tsʰ w ei ²¹		
+335-17																	tsʰ w ei		
 338-17																	k au ²¹		
-339-17																	ts u ²¹		
+339-17																	pf u ²¹		
 341-17																	x u ²¹		
 342-17																	m i ŋ ⁵⁵		
-343-17																	x w o ²⁴		
+343-17																	x w o		
 344-17																	j au ⁵³		
 349-17																	kʰ u ²¹		
 353-17																	pfʰ a ŋ ²¹		
 360-17																	x ou ²⁴		
-375-17																	ts ei ²¹		
+375-17																	ts w ei		
 388-17																	s ɿ ⁵⁵		
 389-17																	x w ei		
-392-17																	kʰ aː ⁵⁵		
+392-17																	kʰ w o		
 394-17																	tɕ ieː ⁵⁵		
 401-17																	tʰ u ²⁴		
 402-17																	ts ɛ ⁵⁵		
@@ -3426,24 +3426,24 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 409-17																	ts w o		
 418-17																	m i ²⁴		
 441-17																	tʰ iaː ²⁴		
-443-17																	m u ⁵³		
+443-17																	m u ²⁴		
 459-17																	w ei ⁵⁵		
-460-17																	t w o		
+460-17																	t w o ²¹		
 461-17																	j a ²⁴		
 464-17																	t ɛ ⁵⁵		
 465-17																	tʰ iaː ²⁴		
 466-17																	tʰ ɛ ²⁴		
 467-17																	f u ²¹		
-469-17																	s ɿ ²⁴		
-480-17																	l w ⁵³		
-482-17																	n ɛ ²⁴		
+469-17																	ʂ ʅ ²⁴		
+480-17																	ɲ y ei		
+482-17																	l w ²⁴		
 484-17																	x au ⁵³		
-491-17																	m i ⁵⁵		
+491-17																	m i ²⁴		
 492-17																	tɕʰ i ²¹		
 495-17																	tɕ j e		
 496-17																	k u ²¹		
-507-17																	ɲ j a		
-509-17																	tɕʰ y ²¹		
+507-17																	ɲ iaː ²⁴		
+509-17																	tɕʰ y ⁵⁵		
 510-17																	pʰ o ²⁴		
 513-17																	ɕ i ⁵⁵		
 518-17																	s au ²¹		
@@ -3458,27 +3458,27 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 587-17																	ɕ j au ⁵⁵		
 588-17																	s au ²¹		
 589-17																	tɕ iaː ²¹		
-594-17																	tsʰ ʅ ²¹		
+594-17																	ʈʂʰ ʅ ²⁴		
 602-17																	u ²¹		
 604-17																	s ɿ ⁵³		
-611-17																	s uaː ²¹		
+611-17																	s a ²¹		
 630-17																	ts w o		
 637-17																	tɕ ieː ²¹		
 638-17																	s ɿ ⁵⁵		
-639-17																	p o ⁵³		
-644-17																	ts ou ⁵³		
-648-17																	ɕ i ²¹		
+639-17																	p o ⁵⁵		
+644-17																	ts u ⁵³		
+648-17																	ɕ i ²⁴		
 652-17																	m au ²⁴		
 657-17																	k aː ²¹		
 658-17																	pʰ i ŋ ²⁴		
 659-17																	ɲ iaː ²⁴		
 665-17																	pfʰ a ŋ ²¹		
 692-17																	k ə ŋ		
-696-17																	t i ⁵⁵		
+696-17																	t i ²⁴		
 707-17																	i ŋ ŋ		
-719-17																	t j ²¹		
+719-17																	t ou ²¹		
 727-17																	ɕ i ŋ ²¹		
-732-17																	v a ŋ ⁵⁵		
+732-17																	v a ŋ ²⁴		
 733-17																	m a ŋ ²⁴		
 735-17																	kʰ w ɛ ⁵⁵		
 740-17																	pʰ a ²⁴		
@@ -3487,29 +3487,29 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 808-17																	ʈʂʰ eː ŋ		
 809-17																	w a ⁵³		
 816-17																	t ɛ ⁵⁵		
-818-17																	f a ŋ ²⁴		
-821-17																	s uaː ⁵⁵		
-822-17																	f j ou		
+818-17																	f a ŋ ²¹		
+821-17																	s i ²¹		
+822-17																	f u ⁵³		
 826-17																	t a ²¹		
-829-17																	kʰ au ⁵³		
+829-17																	kʰ u ⁵³		
 841-17																	ts w a ²¹		
 845-17																	ts ei ²¹		
-848-17																	pʰ au ⁵³		
+848-17																	pʰ au ²⁴		
 858-17																	pʰ a ²⁴		
 862-17																	tʰ w o		
 869-17																	tɕʰ yaː ⁵³		
 874-17																	ts ɿ ⁵³		
 876-17																	tʰ j au ⁵⁵		
-883-17																	pf u ²¹		
-894-17																	t j au ⁵⁵		
-903-17																	tɕ j e		
+883-17																	pf w ²¹		
+894-17																	t j e ⁵⁵		
+903-17																	tɕ j e ²¹		
 905-17																	tʰ w ei ⁵⁵		
 910-17																	tʰ i ²⁴		
 911-17																	tsʰ a ²¹		
 926-17																	p a ⁵³		
 934-17																	m u ²¹		
-968-17																	ɕ j ou		
-970-17																	tɕ j e		
+968-17																	f u ²¹		
+970-17																	k j e		
 982-17																	k aː ²¹		
 986-17																	kʰ j ⁵³		
 997-17																	tɕ ieː ²¹		
@@ -3519,7 +3519,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 1005-17																	pʰ a ŋ ²⁴		
 1008-17																	pf u ²¹		
 2-18																		i ⁴²	
-4-18																		tɕʰ i ʔ	
+4-18																		tɕʰ i ə	
 5-18																		ts ɑ ŋ ⁵⁵	
 6-18																		s ɛː ²¹	
 7-18																		s ɑ ŋ ²¹	
@@ -3528,40 +3528,40 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 17-18																		ts ɔu ŋ ²¹	
 31-18																		tɕ j ɤɯ	
 32-18																		j ɑ ³⁴	
-33-18																		l u ⁴²	
+33-18																		s u	
 38-18																		l ⁴²	
-40-18																		j ⁵⁵	
+40-18																		j ɔu	
 42-18																		u ⁴²	
 43-18																		ts ə n	
 46-18																		w ɑ ŋ ³⁴	
-52-18																		l j ɑ ŋ ³⁴	
-53-18																		l ə n ³⁴	
+52-18																		l j ɑ ŋ ²¹	
+53-18																		tsʰ ə n ³⁴	
 56-18																		tɕ iː ²¹	
 59-18																		tʰ ɑ ³⁴	
 60-18																		ts ɑ ŋ ⁵⁵	
 64-18																		l iː ³⁴	
-68-18																		tɕ ɪː ⁵⁵	
+68-18																		tɕ ɪː ²¹	
 85-18																		w əi ⁵⁵	
 86-18																		t j ə ʔ ⁴	
 87-18																		ts u ⁵⁵	
 93-18																		l i ⁴²	
-98-18																		l ɛ ³⁴	
+98-18																		l i ³⁴	
 109-18																		ɕ ə n	
 115-18																		t ɔ ⁴²	
-118-18																		ts j ʔ ⁴	
+118-18																		ts j ²¹	
 124-18																		k j ʔ ⁴	
 127-18																		ts u ⁴²	
 133-18																		tʰ ɔ ³⁴	
-144-18																		s a ʔ ⁴	
+144-18																		s ɑ ²¹	
 161-18																		ɕ j ɔu ŋ ²¹	
 166-18																		k w ɑ ŋ ²¹	
-170-18																		i ⁴²	
-171-18																		tʰ u ³⁴	
+170-18																		ɑ ⁴²	
+171-18																		tʰ ɔ ³⁴	
 173-18																		l ə ʔ ⁴	
 174-18																		l w əi ⁵⁵	
 175-18																		tɕʰ yɪː ⁴²	
-176-18																		l j ɑ ŋ ³⁴	
-177-18																		p ɔ ʔ	
+176-18																		l j ɑ ŋ ²¹	
+177-18																		p ɔ ʔ ⁴	
 179-18																		l j ɤɯ ³⁴	
 181-18																		p iː ⁵⁵	
 182-18																		tɕʰ i ³⁴	
@@ -3570,7 +3570,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 193-18																		l ə n ⁴²	
 198-18																		t ə n ⁴²	
 199-18																		ɕ j ɔu ŋ ²¹	
-200-18																		tsʰ w ə	
+200-18																		tsʰ ɔ ʔ ⁴	
 202-18																		t ɔ ²¹	
 205-18																		f ɔu n ²¹	
 206-18																		tɕʰ j ə ʔ ⁴	
@@ -3579,80 +3579,80 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 215-18																		l i ⁵⁵	
 216-18																		k w ɑ ʔ ⁴	
 217-18																		t ɔ ⁵⁵	
-219-18																		s w ɑ ʔ	
+219-18																		s w ɑ ⁴	
 220-18																		tsʰ ɿ ⁵⁵	
-225-18																		tɕʰ iː ³⁴	
-230-18																		tɕ ɪː ʔ	
+225-18																		tɕʰ iː n	
+230-18																		tɕ ɪː n	
 234-18																		pʰ i ³⁴	
 238-18																		l i ə	
 242-18																		ts u ⁵⁵	
 253-18																		tɕʰ iː ²¹	
-256-18																		s ɔ ʔ ⁴	
-261-18																		x o ɑ	
+256-18																		s ɔ ʔ	
+261-18																		x w ɑ	
 262-18																		p ɔ ʔ ⁴	
 263-18																		s ɿ ⁵⁵	
 264-18																		tɕ j ɑ ŋ	
 271-18																		s ə ʔ ⁴	
 272-18																		tɕʰ iː ²¹	
 274-18																		u ⁴²	
-275-18																		p ɛː ⁵⁵	
-279-18																		l ɛː ³⁴	
-287-18																		l ɛː ŋ	
+275-18																		p ɛː ⁴²	
+279-18																		n ɛː ³⁴	
+287-18																		l w ⁴²	
 291-18																		x ɤɯ ³⁴	
 295-18																		tɕʰ y ⁵⁵	
 300-18																		j ɤɯ ⁴²	
-303-18																		tsʰ y ⁴²	
+303-18																		tɕʰ y ⁴²	
 306-18																		kʰ u ⁴²	
 307-18																		k u ⁴²	
-308-18																		tɕ j ɔ ⁵⁵	
+308-18																		tɕ j ɔ ʔ ⁴	
 312-18																		tɕ j ɔ ⁵⁵	
 313-18																		kʰ o ⁴²	
 314-18																		tʰ ɛ ³⁴	
 323-18																		m iː ³⁴	
-325-18																		tʰ u ³⁴	
+325-18																		tʰ ɔ ³⁴	
 330-18																		f u ⁴²	
 334-18																		ɕ j ə ʔ ⁴	
 335-18																		tsʰ w əi ²¹	
 338-18																		k ɔ ⁴²	
 339-18																		ts ɔ ²¹	
-341-18																		x u ²¹	
+341-18																		x u ³⁴	
 342-18																		m iː ³⁴	
 343-18																		x o ³⁴	
-344-18																		j ɔ ³⁴	
+344-18																		j ɔ ⁴²	
 349-18																		kʰ u ʔ	
-353-18																		tsʰ ɑ ŋ ⁵⁵	
+353-18																		tsʰ ɑ ŋ ŋ	
 360-18																		x ɤɯ ³⁴	
 375-18																		ts w əi ⁴²	
 388-18																		s ɿ ⁵⁵	
-389-18																		x w əi ³⁴	
+389-18																		x w əi	
 392-18																		kʰ w ə n ⁵⁵	
 394-18																		tɕ w ³⁴	
-401-18																		tʰ u ³⁴	
+401-18																		tʰ ɔ ³⁴	
 402-18																		ts ɛ ⁵⁵	
-403-18																		t i ə ʔ ⁴	
-409-18																		ts w ⁵⁵	
-418-18																		m ɛ ³⁴	
+403-18																		t j ə ʔ ⁴	
+409-18																		ts w ²¹	
+418-18																		m əi ³⁴	
 441-18																		tʰ ɪː ³⁴	
 443-18																		m o ³⁴	
 459-18																		w əi ⁵⁵	
 460-18																		t o ²¹	
 461-18																		j ɑ ³⁴	
-464-18																		t a ʔ	
+464-18																		t ɛ ʔ	
 465-18																		tʰ ɪː ³⁴	
 466-18																		tʰ ɛ ³⁴	
 467-18																		f u ²¹	
 469-18																		s ə ʔ ⁴	
-480-18																		n u ⁴²	
-482-18																		l ɛ ³⁴	
+480-18																		l u ⁴²	
+482-18																		n i ³⁴	
 484-18																		x ɔ ⁴²	
 491-18																		m əi ³⁴	
 492-18																		tɕʰ i ²¹	
-495-18																		ts j ⁴²	
+495-18																		ts j ɛ	
 496-18																		k u ²¹	
 507-18																		n j ɑ ŋ ³⁴	
 509-18																		tɕʰ y ⁴²	
 510-18																		pʰ o ³⁴	
-513-18																		s y ⁵⁵	
+513-18																		ɕ i ⁵⁵	
 518-18																		s ɔ ⁴²	
 525-18																		ts ɿ ⁴²	
 527-18																		j ⁵⁵	
@@ -3661,18 +3661,18 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 554-18																		x ɛ ³⁴	
 558-18																		j ɔu ŋ ³⁴	
 564-18																		f u ³⁴	
-580-18																		s ə ʔ ⁴	
+580-18																		s ɔ ʔ	
 587-18																		ɕ j ɔ	
-588-18																		s ɔ ⁴²	
-589-18																		tɕ ɪː ²¹	
-594-18																		tsʰ ɿ ʔ	
-602-18																		w ə	
+588-18																		s ɔ ²¹	
+589-18																		ts ɪː n	
+594-18																		tsʰ ɿ ʔ ⁴	
+602-18																		w ə ʔ ⁴	
 604-18																		s ɿ ⁴²	
-611-18																		s uoː ²¹	
+611-18																		s ɛː ²¹	
 630-18																		ts ɔ ⁴²	
 637-18																		tɕ iː ²¹	
 638-18																		s ɿ ⁵⁵	
-639-18																		p ɔ ʔ ⁴	
+639-18																		p ɔ ʔ	
 644-18																		ts ɔ ⁴²	
 648-18																		ɕ ə ʔ	
 652-18																		m ɔ ³⁴	
@@ -3681,21 +3681,21 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 659-18																		n ɪː ³⁴	
 665-18																		tsʰ w ŋ ³⁴	
 692-18																		k ɔu ŋ ²¹	
-696-18																		t i ə ʔ ⁴	
+696-18																		t j ə ʔ ⁴	
 707-18																		i ⁴²	
 719-18																		t ə ʔ ⁴	
-727-18																		ɕ ə n	
+727-18																		ɕ ə n ²¹	
 732-18																		w ɑ ŋ ⁵⁵	
-733-18																		m ɛː ŋ	
+733-18																		m ɑ ŋ ³⁴	
 735-18																		kʰ w ɛ ⁵⁵	
 740-18																		pʰ ai ³⁴	
 773-18																		ɕ j ɑ ŋ ²¹	
-788-18																		m ɛː ⁵⁵	
+788-18																		m ɛː ³⁴	
 808-18																		tsʰ ə n ³⁴	
 809-18																		j ɑ ³⁴	
 816-18																		t ɛ ⁵⁵	
 818-18																		f ɛː ŋ	
-821-18																		s ə n	
+821-18																		s ə ⁵⁵	
 822-18																		s ɤɯ ⁴²	
 826-18																		t a ʔ ⁴	
 829-18																		kʰ u ⁴²	
@@ -3710,61 +3710,61 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 883-18																		ts ɔ ʔ ⁴	
 894-18																		t j ɔ ⁵⁵	
 903-18																		ts j ʔ ⁴	
-905-18																		tʰ w əi ⁵⁵	
+905-18																		tʰ w əi ²¹	
 910-18																		tʰ i ³⁴	
-911-18																		tsʰ a ʔ ⁴	
-926-18																		p ɛː ⁵⁵	
+911-18																		tsʰ ɑ ʔ ⁴	
+926-18																		p ɛː ⁴²	
 934-18																		m o ³⁴	
-968-18																		s ɔ ²¹	
+968-18																		s ɤɯ ⁵⁵	
 970-18																		k ɛ ⁴²	
 982-18																		k ɛː ²¹	
 986-18																		kʰ j ɔ	
 997-18																		tɕ iː ²¹	
 998-18																		f u ⁴²	
 1001-18																		ɕ ə n	
-1003-18																		f ɛː ⁵⁵	
+1003-18																		f ɛː ²¹	
 1005-18																		pʰ ɑ ŋ ³⁴	
 1008-18																		ts ɔ ʔ ⁴	
 2-19																			i ²¹⁴
-4-19																			kʰ i ²¹⁴
-5-19																			tʃ a ŋ ⁵⁵
+4-19																			kʰ i e
+5-19																			tʃ j ŋ ⁵⁵
 6-19																			ʃ a m ⁵⁵
-7-19																			ʃ a ŋ ⁵⁵
-8-19																			x a ⁵⁵
+7-19																			ʃ j ŋ ⁵⁵
+8-19																			x j ⁵⁵
 9-19																			p ai ²¹⁴
 17-19																			tʃ j u ŋ ⁵⁵
 31-19																			k j ou ³⁵
-32-19																			j ⁵⁵
+32-19																			j ai ³⁵
 33-19																			j u ³⁵
-38-19																			ʒ i ³⁵
+38-19																			ʒ ɿ ³⁵
 40-19																			j u ŋ ⁵⁵
-42-19																			u u
+42-19																			u ⁵⁵
 43-19																			tʃ j ə ŋ ⁵⁵
 46-19																			w a ŋ ⁵⁵
 52-19																			l j e n ⁵⁵
-53-19																			ʒ j ə ⁵⁵ ⁵⁵
+53-19																			ʒ j ə n ⁵⁵
 56-19																			k j ə n ⁵⁵
 59-19																			tʰ a ⁵⁵
-60-19																			tʃ a ŋ ⁵⁵
-64-19																			l j ə m ⁵⁵
+60-19																			tʃ j ŋ ⁵⁵
+64-19																			l j ə ŋ ⁵⁵
 68-19																			k j e n ⁵¹
 85-19																			w ei ⁵¹
 86-19																			t i ⁵⁵
 87-19																			tʃ j u ⁵¹
-93-19																			l i ³⁵
-98-19																			l i ⁵⁵
+93-19																			l i ⁵⁵
+98-19																			l i m
 109-19																			s j ə ŋ ⁵⁵
 115-19																			t au ³⁵
-118-19																			tʃ j ai ⁵⁵
-124-19																			k a ai ³⁵
-127-19																			tʃ j o
+118-19																			k j e ⁵⁵
+124-19																			k a ²¹⁴
+127-19																			tʃ j u
 133-19																			tʰ au ⁵⁵
 144-19																			ʃ a ⁵⁵
 161-19																			x j u ŋ ⁵⁵
 166-19																			k w a ŋ ⁵⁵
 170-19																			ʒ ɿ ³⁵
 171-19																			tʰ u ⁵⁵
-173-19																			ʒ u ²¹⁴
+173-19																			ʒ j e
 174-19																			l w ei ⁵¹
 175-19																			kʰ ɥ e n ⁵⁵
 176-19																			l j e n ⁵⁵
@@ -3772,7 +3772,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 179-19																			l j ou
 181-19																			p j ə ŋ ⁵⁵
 182-19																			kʰ i ⁵⁵
-189-19																			k w a n
+189-19																			k w n n ⁵⁵
 191-19																			t u ŋ ⁵⁵
 193-19																			l ə ŋ ⁵⁵
 198-19																			t ə ŋ ⁵⁵
@@ -3782,7 +3782,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 205-19																			f u ŋ ⁵⁵
 206-19																			kʰ j e ²¹⁴
 209-19																			x w a
-211-19																			tsʰ w o ⁵⁵
+211-19																			tʃʰ w u ⁵⁵
 215-19																			l i ⁵⁵
 216-19																			k w a ²¹⁴
 217-19																			t au ⁵¹
@@ -3793,22 +3793,22 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 234-19																			pʰ ei ⁵⁵
 238-19																			l i ²¹⁴
 242-19																			tʃ j u ⁵¹
-253-19																			kʰ j ə n ⁵⁵
+253-19																			kʰ j ə ŋ ⁵⁵
 256-19																			ʃ j ²¹⁴
 261-19																			x w a ⁵⁵
 262-19																			p ai ²¹⁴
 263-19																			ʃ ɿ ⁵⁵
 264-19																			k j e n ⁵⁵
-271-19																			ʃ j ²¹⁴
+271-19																			ʃ j e
 272-19																			kʰ j e n ⁵⁵
 274-19																			u u
 275-19																			p a n ³⁵
-279-19																			n a m ⁵⁵
-287-19																			l a n ⁵⁵
+279-19																			l a m ⁵⁵
+287-19																			l a n ³⁵
 291-19																			x ou ⁵⁵
-295-19																			kʰ j u
+295-19																			kʰ j e n
 300-19																			j ou ³⁵
-303-19																			tsʰ j u ⁵¹
+303-19																			tsʰ j u n
 306-19																			kʰ u ³⁵
 307-19																			k u ³⁵
 308-19																			k j u ⁵¹
@@ -3819,7 +3819,7 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 325-19																			tʰ u ⁵⁵
 330-19																			f u ³⁵
 334-19																			s i ²¹⁴
-335-19																			tsʰ w ei ⁵⁵
+335-19																			tʃʰ w ei ⁵⁵
 338-19																			k au ⁵⁵
 339-19																			tʃ j ou ⁵⁵
 341-19																			x u ⁵⁵
@@ -3832,103 +3832,103 @@ COGID	Beijing	Changsha	Chaozhou	Chengdu	Fuzhou	Guangzhou	Hankou	Jinan	Meixian	Na
 375-19																			tʃ w ei ³⁵
 388-19																			ʃ ɿ ⁵¹
 389-19																			x w ei ⁵⁵
-392-19																			kʰ u ŋ n
+392-19																			kʰ u n n
 394-19																			k j e n
 401-19																			tʰ u ³⁵
-402-19																			tʃ ai ⁵¹
+402-19																			ts ai ³⁵
 403-19																			t i ⁵⁵
 409-19																			tʃ w o
 418-19																			m ei ⁵⁵
 441-19																			tʰ j e n ⁵⁵
 443-19																			m u o
 459-19																			w ei ⁵¹
-460-19																			t u o
-461-19																			j ⁵⁵ ⁵¹
+460-19																			t w o
+461-19																			j ai
 464-19																			t a ⁵¹
 465-19																			tʰ j e n ⁵⁵
 466-19																			tʰ i ⁵⁵
 467-19																			f u ⁵⁵
-469-19																			ʃ j ²¹⁴
-480-19																			j u ³⁵
-482-19																			l i ³⁵
+469-19																			ʃ j e
+480-19																			l u u
+482-19																			l a ³⁵
 484-19																			x au ³⁵
 491-19																			m ei ⁵¹
 492-19																			kʰ i ⁵⁵
-495-19																			k j ai
+495-19																			k j ai ³⁵
 496-19																			k u ⁵⁵
-507-19																			j j ⁵¹
-509-19																			tsʰ j u n
-510-19																			pʰ w o
+507-19																			j j e n
+509-19																			tsʰ j e n
+510-19																			pʰ w o ⁵⁵
 513-19																			s j u
 518-19																			ʃ au ³⁵
 525-19																			tʃ ɿ ³⁵
 527-19																			j u ŋ ⁵¹
 533-19																			x ai ⁵⁵
-548-19																			kʰ o ²¹⁴
-554-19																			x ai ⁵¹
+548-19																			kʰ a ²¹⁴
+554-19																			x ai ³⁵
 558-19																			j u ŋ ⁵⁵
 564-19																			f u ³⁵
-580-19																			ʃ j e ⁵⁵
+580-19																			ʃ j e n
 587-19																			s j au ³⁵
 588-19																			ʃ au ³⁵
 589-19																			k j e n ⁵⁵
 594-19																			tʃʰ i ²¹⁴
 602-19																			u ²¹⁴
 604-19																			ʃ ɿ ³⁵
-611-19																			ʃ a n ⁵⁵
-630-19																			tʃ au ³⁵
+611-19																			ʃ a m ⁵⁵
+630-19																			tʃ au ⁵⁵
 637-19																			k j ə n ⁵⁵
 638-19																			ʃ ɿ ⁵¹
-639-19																			p w o
-644-19																			tʃ j ou
-648-19																			s i e
+639-19																			p w o ³⁵
+644-19																			tʃ j ou ³⁵
+648-19																			s j e
 652-19																			m au ³⁵
 657-19																			k a n ⁵⁵
 658-19																			pʰ j ə ŋ ⁵⁵
 659-19																			j j e n
 665-19																			tʃʰ j u ŋ ⁵⁵
-692-19																			k u ŋ ⁵⁵
+692-19																			k j ŋ ⁵⁵
 696-19																			t i ⁵⁵
-707-19																			j ə ŋ ⁵¹
-719-19																			t o ²¹⁴
+707-19																			j ə ŋ ³⁵
+719-19																			t ai ²¹⁴
 727-19																			s j ə ŋ ⁵⁵
 732-19																			w a ŋ ⁵⁵
 733-19																			m a ŋ ⁵⁵
-735-19																			kʰ ɥ e n ⁵¹
+735-19																			kʰ w ei ⁵⁵
 740-19																			pʰ a ⁵⁵
 773-19																			x j a ŋ ⁵⁵
-788-19																			m a n ⁵¹
+788-19																			m a m ⁵¹
 808-19																			tʃʰ j ə ŋ ⁵⁵
-809-19																			j u ³⁵
+809-19																			j u ŋ
 816-19																			t ai ⁵¹
 818-19																			f a ŋ ⁵⁵
-821-19																			ʃ j m ⁵⁵
+821-19																			ʃ j m n
 822-19																			ʃ j ou ³⁵
 826-19																			t a ²¹⁴
 829-19																			kʰ u ³⁵
-841-19																			tʃ w a ⁵⁵
+841-19																			tʃ w a
 845-19																			tʃ j ²¹⁴
 848-19																			p au ⁵⁵
 858-19																			pʰ ai ²¹⁴
-862-19																			tʰ w o
+862-19																			tʰ w o ⁵⁵
 869-19																			kʰ ɥ e n ⁵⁵
-874-19																			tʃ i ⁵⁵
+874-19																			tʃ ɿ ³⁵
 876-19																			tʰ j au ⁵⁵
-883-19																			tʃ j ²¹⁴
-894-19																			t j au ⁵¹
-903-19																			tʃ j e ²¹⁴
-905-19																			tʰ w ei ⁵¹
+883-19																			tʃ j ²¹⁴ ²¹⁴
+894-19																			t j au ⁵⁵
+903-19																			k j e ²¹⁴
+905-19																			tʰ w ei ⁵⁵
 910-19																			tʰ i ⁵⁵
 911-19																			tʃʰ ai ²¹⁴
-926-19																			p a n ³⁵
-934-19																			m u o
+926-19																			p a n ⁵⁵
+934-19																			m u ²¹⁴
 968-19																			ʃ j ou ⁵⁵
 970-19																			k j ai ³⁵
 982-19																			k a n ³⁵
-986-19																			kʰ j ou
+986-19																			kʰ j au
 997-19																			k j ə n ⁵⁵
 998-19																			f u ³⁵
 1001-19																			s j ə ŋ ⁵⁵
 1003-19																			f a ŋ ⁵⁵
 1005-19																			pʰ a ŋ ⁵⁵
-1008-19																			tʃ j ou ²¹⁴
+1008-19																			tʃ j u ²¹⁴
