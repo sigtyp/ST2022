@@ -146,7 +146,7 @@ Baseline-Baseline       1.2095       0.3119        0.7231  0.5716
 Baseline-Baseline-SVM   1.0189       0.2625        0.7626  0.6387
 CEoT-Extalign-RF        1.0377       0.2763        0.7475  0.6243
 CrossLingference-Julia  1.4804       0.3929        0.7251  0.4793
-Leipzig-Transformer     1.3971       0.3716        0.6441  0.5083
+Leipzig-Transformer     1.3901       0.3687        0.6489  0.5114
 Mockingbird-I1          0.9201       0.2431        0.7673  0.6633
 Mockingbird-N1-A        1.0223       0.2568        0.7604  0.6479
 Mockingbird-N1-B        1.0437       0.2625        0.7572  0.6398
@@ -165,7 +165,7 @@ Baseline-Baseline       1.3253       0.3361        0.6680  0.5412
 Baseline-Baseline-SVM   1.1723       0.2928        0.7067  0.5985
 CEoT-Extalign-RF        1.2208       0.3175        0.6798  0.5709
 CrossLingference-Julia  1.4954       0.3912        0.6882  0.4760
-Leipzig-Transformer     1.6518       0.4225        0.5529  0.4508
+Leipzig-Transformer     1.5787       0.4046        0.5683  0.4646
 Mockingbird-I1          1.0413       0.2648        0.7120  0.6326
 Mockingbird-N1-A        1.1512       0.2825        0.7011  0.6138
 Mockingbird-N1-B        1.1726       0.2901        0.6910  0.6054
@@ -184,7 +184,7 @@ Baseline-Baseline       1.4354       0.3556        0.6372  0.5195
 Baseline-Baseline-SVM   1.3713       0.3310        0.6565  0.5554
 CEoT-Extalign-RF        1.4038       0.3525        0.6331  0.5286
 CrossLingference-Julia  1.6116       0.4130        0.6508  0.4503
-Leipzig-Transformer     1.8206       0.4552        0.5080  0.4152
+Leipzig-Transformer     1.7746       0.4467        0.5129  0.4207
 Mockingbird-I1          1.1762       0.2899        0.6717  0.6059
 Mockingbird-N1-A        1.2565       0.3119        0.6557  0.5779
 Mockingbird-N1-B        1.2712       0.3103        0.6531  0.5792
@@ -202,7 +202,7 @@ Baseline-Baseline       1.6821       0.4011        0.6001  0.4717
 Baseline-Baseline-SVM   1.6159       0.3891        0.5990  0.4903
 CEoT-Extalign-RF        1.5695       0.3960        0.5805  0.4773
 CrossLingference-Julia  1.6059       0.4112        0.6411  0.4473
-Leipzig-Transformer     1.9890       0.4987        0.4640  0.3755
+Leipzig-Transformer     1.9221       0.4800        0.4736  0.3893
 Mockingbird-I1          1.2725       0.3162        0.6428  0.5724
 Mockingbird-N1-A        1.4542       0.3521        0.6294  0.5293
 Mockingbird-N1-B        1.3618       0.3349        0.6212  0.5466
@@ -221,7 +221,7 @@ Baseline-Baseline       1.8889       0.4445        0.5617  0.4265
 Baseline-Baseline-SVM   1.9330       0.4619        0.5371  0.4204
 CEoT-Extalign-RF        1.8434       0.4576        0.5194  0.4128
 CrossLingference-Julia  1.6794       0.4274        0.6193  0.4296
-Leipzig-Transformer     2.1791       0.5422        0.4244  0.3337
+Leipzig-Transformer     2.1036       0.5257        0.4306  0.3438
 Mockingbird-I1          1.4170       0.3518        0.6050  0.5337
 Mockingbird-N1-A        1.5527       0.3800        0.5959  0.4934
 Mockingbird-N1-B        1.5066       0.3734        0.5864  0.4989
