@@ -24,6 +24,9 @@ import statistics
 from matplotlib import pyplot as plt
 
 
+__version__ = "1.5"
+
+
 def sigtypst2022_path(*comps):
     return Path(__file__).parent.parent.joinpath(*comps)
 

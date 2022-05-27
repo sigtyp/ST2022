@@ -3,7 +3,7 @@ import codecs
 
 setup(
     name='sigtypst2022',
-    version='0.1.dev0',
+    version='1.5',
     license='MIT',
     description='Python Package for the Shared Task on Word Prediction',
     long_description=codecs.open('README.md', "r", "utf-8").read(),

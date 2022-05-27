@@ -152,7 +152,6 @@ Mockingbird-N1-A        1.0223       0.2568        0.7604  0.6479
 Mockingbird-N1-B        1.0437       0.2625        0.7572  0.6398
 Mockingbird-N1-C        1.1263       0.2867        0.7302  0.6115
 Mockingbird-N2          1.2095       0.3135        0.7054  0.5744
-
 ```
 
 ![0.10](surprise-0.10.png)
