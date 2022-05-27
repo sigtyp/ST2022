@@ -14,8 +14,8 @@ In 2022, SIGTYP is hosting a shared task on predicting words and morphemes from 
 
 * [Register for the task](https://docs.google.com/forms/d/e/1FAIpQLSdKvUOOUQSUpbOCWGR6a3zXUTEhhDqTRIXwhlgPwGPrpNpPcQ/viewform?usp=sf_link)
 * [Code Base and Data](https://github.com/sigtyp/ST2022/tree/v1.2)
-* [Documentation of Data and Software](https://github.com/sigtyp/ST2022/blob/v1.5/DOCUMENTATION.md)
-* [Final Results](https://github.com/sigtyp/ST2022/blob/v1.5/results/)
+* [Documentation of Data and Software](https://github.com/sigtyp/ST2022/blob/v1.4/DOCUMENTATION.md)
+* [Final Results](https://github.com/sigtyp/ST2022/blob/v1.4/results/)
 
 
 ## 1 The Reflex Prediction Task
